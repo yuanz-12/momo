@@ -2,17 +2,17 @@ name: 自动下载词典 → 运行脚本 → 提交结果
 on:
   schedule:
     - cron: '0 */6 * * *'
-  workflow_dispatch:  # 手动触发必须加这行
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # 给写入权限，否则提交文件会失败！
+      contents: write
 
     steps:
       - name: 拉取仓库代码
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5  # 升级到v5，支持Node.js 22，解决弃用警告
 
       - name: 下载最新词典 ZIP
         run: |
@@ -24,26 +24,27 @@ jobs:
           unzip -o source.zip -d ./input_dicts
 
       - name: 设置 Python 环境
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6  # 升级到v6，支持Node.js 22，解决弃用警告
         with:
           python-version: '3.11'
-          cache: 'pip'  # 缓存依赖，加速运行
+          # 【关键修复】删除了 cache: 'pip'，避免找不到requirements.txt报错
 
-      - name: 安装依赖（如果你的脚本需要第三方库，加在这里）
+      - name: 安装依赖（按需添加）
         run: |
-          pip install --upgrade pip
-          # 比如你的脚本需要 pandas，就加：pip install pandas
+          python -m pip install --upgrade pip
+          # 如果你的脚本需要第三方库，在这里添加，比如：
+          # pip install pandas numpy
 
       - name: 运行你的处理脚本
         run: |
           mkdir -p output_dicts
-          python duofuzhu.py  # 这里改成你真实的脚本文件名！
+          python duofuzhu.py  # 这里必须和你仓库里的脚本文件名完全一致！
 
       - name: 提交输出文件到仓库
-        uses: EndBug/add-and-commit@v9
+        uses: EndBug/add-and-commit@v10  # 升级到v10，支持Node.js 22
         with:
           message: "自动更新处理后词库 [ci skip]"
           add: "output_dicts/"
-          pull: true  # 解决冲突，避免提交失败
+          pull: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
