@@ -8,11 +8,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write  # 确保有写入权限
+      pull-requests: write  # 补充权限，避免拉取失败
 
     steps:
       - name: 拉取仓库代码
         uses: actions/checkout@v5
+        with:
+          fetch-depth: 0  # 拉取完整历史，避免提交失败
+          ref: main  # 明确指定main分支
 
       - name: 下载最新词典 ZIP
         run: |
@@ -31,7 +35,7 @@ jobs:
       - name: 安装依赖（按需添加）
         run: |
           python -m pip install --upgrade pip
-          pip install tqdm  # 关键：安装tqdm库，解决报错
+          pip install tqdm
 
       - name: 运行你的处理脚本
         run: |
@@ -39,10 +43,11 @@ jobs:
           python duofuzhu.py
 
       - name: 提交输出文件到仓库
-        uses: EndBug/add-and-commit@v10
+        uses: EndBug/add-and-commit@v12
         with:
           message: "自动更新处理后词库 [ci skip]"
           add: "output_dicts/"
-          pull: true
+          pull: false
+          force: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
