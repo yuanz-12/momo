@@ -1,0 +1,82 @@
+name: 自动下载词典 → 运行脚本 → 提交结果
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # 每6小时检查一次
+  workflow_dispatch:       # 允许手动运行
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+      - name: 拉取仓库代码
+        uses: actions/checkout@v4
+
+      - name: 下载最新词典 ZIP
+        run: |
+          wget -O source.zip "https://github.com/amzxyz/rime_wanxiang/releases/download/dict-nightly/pro-moqi-fuzhu-dicts.zip"
+
+      - name: 解压到 input_dicts
+        run: |
+          unzip -o source.zip -d ./input_dicts
+
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 运行你的处理脚本
+        run: |
+          mkdir -p output_dicts
+          python name: 自动下载词典 → 运行脚本 → 提交结果
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # 每6小时检查一次
+  workflow_dispatch:       # 允许手动运行
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+      - name: 拉取仓库代码
+        uses: actions/checkout@v4
+
+      - name: 下载最新词典 ZIP
+        run: |
+          wget -O source.zip "https://github.com/amzxyz/rime_wanxiang/releases/download/dict-nightly/pro-moqi-fuzhu-dicts.zip"
+
+      - name: 解压到 input_dicts
+        run: |
+          unzip -o source.zip -d ./input_dicts
+
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 运行你的处理脚本
+        run: |
+          mkdir -p output_dicts
+          python 你的脚本名称.py   # <--- 这里改成你真实的脚本文件名
+
+      - name: 提交输出文件到仓库
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "自动更新处理后词库 [ci skip]"
+          add: "output_dicts/"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+.py   # <--- 这里改成刷辅助码的脚本文件名
+
+      - name: 提交输出文件到仓库
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "自动更新处理后词库 [ci skip]"
+          add: "output_dicts/"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
