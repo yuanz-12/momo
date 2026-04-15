@@ -18,9 +18,14 @@ from typing import Dict, List, Tuple
 from tqdm import tqdm
 
 # ──────────────── 配 置 区 ─────────────────
-INPUT_PATH = "/Users/YuanZimo/Script/刷辅助/输入词库"          # 输入词库目录或文件
-AUX_TABLES_DIR = "/Users/YuanZimo/Script/刷辅助/辅助码表"    # 辅助码表目录
-OUTPUT_ROOT = "/Users/YuanZimo/Script/刷辅助/输出词库"       # 输出根目录
+# ========= GitHub Actions 环境配置 =========
+import os
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))  # 自动获取脚本所在目录
+
+INPUT_PATH = os.path.join(BASE_DIR, "input_dicts")      # 下载解压后的输入目录
+AUX_TABLES_DIR = os.path.join(BASE_DIR, "辅助码表")    # 你仓库里的依赖文件夹
+OUTPUT_ROOT = os.path.join(BASE_DIR, "output_dicts")   # 输出目录（自动生成）
+
 # ───────────────────────────────────────
 
 # 全局配置
