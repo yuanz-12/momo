@@ -15,6 +15,14 @@ jobs:
     steps:
       - name: 拉取仓库代码
         uses: actions/checkout@v5
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: 强制设置 origin 为 HTTPS
+        run: |
+          git remote set-url origin https://github.com/${{ github.repository }}.git
+
 
       - name: 下载最新词典 ZIP
         run: |
