@@ -1,7 +1,7 @@
 name: 自动下载词典 → 运行脚本 → 提交结果
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 22 * * *' # UTC 22:00 UTC+8 6:00
   workflow_dispatch:
 
 permissions:
@@ -10,49 +10,32 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-
-
     steps:
       - name: 拉取仓库代码
-        uses: actions/checkout@v5
-        with:
-          persist-credentials: true
-          fetch-depth: 0
+        uses: actions/checkout@v6
 
-      - name: 强制设置 origin 为 HTTPS
+      - name: 下载解压最新词典 ZIP
         run: |
-          git remote set-url origin https://github.com/${{ github.repository }}.git
+          mkdir input_dicts
+          curl -L "https://github.com/amzxyz/rime_wanxiang/releases/download/dict-nightly/pro-moqi-fuzhu-dicts.zip" \
+            -o "input_dicts/wanxiang.zip"
+          unzip -q "input_dicts/wanxiang.zip"
 
-
-      - name: 下载最新词典 ZIP
-        run: |
-          wget -O source.zip "https://github.com/amzxyz/rime_wanxiang/releases/download/dict-nightly/pro-moqi-fuzhu-dicts.zip"
-
-      - name: 解压到 input_dicts
-        run: |
-          mkdir -p input_dicts
-          unzip -o source.zip -d ./input_dicts
-
-      - name: 设置 Python 环境
-        uses: actions/setup-python@v6
-        with:
-          python-version: '3.11'
-
-      - name: 安装依赖（按需添加）
+      - name: 处理原始词库
         run: |
           python -m pip install --upgrade pip
-          pip install tqdm  # 关键：安装tqdm库，解决报错
-
-      - name: 运行你的处理脚本
-        run: |
+          pip install tqdm
           mkdir -p output_dicts
           python duofuzhu.py
 
       - name: 提交输出文件到仓库
-        uses: EndBug/add-and-commit@v10
-        with:
-          message: "自动更新处理后词库 [ci skip]"
-          add: "output_dicts/"
-          pull: true
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GIT_AUTHOR_NAME: ci-bot
+          GIT_AUTHOR_EMAIL: ci@example.com
+          GIT_COMMITTER_NAME: ci-bot
+          GIT_COMMITTER_EMAIL: ci@example.com
+        run: |
+          cp -rf output_dicts/* .
+          git add .
+          git commit -m "自动更新处理后词库 [ci skip]"
+          git push
