@@ -19,7 +19,8 @@ jobs:
           mkdir input_dicts
           curl -L "https://github.com/amzxyz/rime_wanxiang/releases/download/dict-nightly/pro-moqi-fuzhu-dicts.zip" \
             -o "input_dicts/wanxiang.zip"
-          unzip -q "input_dicts/wanxiang.zip"
+          unzip -q "input_dicts/wanxiang.zip" -d "input_dicts"
+          rm -rf "input_dicts/wanxiang.zip"
 
       - name: 处理原始词库
         run: |
