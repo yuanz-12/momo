@@ -13,10 +13,10 @@ sort: by_weight
 压力山大	yā;id lì;vp shān;kl dà;ar	19	网络语
 鸭梨山大	yā;jn lí;hm shān;kl dà;ar	48	网络语
 麻麻赖赖	má;gm má;gm lài;ub lài;ub	16	网络语
-绝代双椒	jué;sb dài;ry shuāng;yy jiāo;my	30	网络语
+绝代双椒	jué;sb dài;rg shuāng;yy jiāo;my	30	网络语
 毁人不倦	huǐ;ju rén;pn bú;ab juàn;rv	43	歌曲名
 佛教胜地	fó;rf jiào;lw shèng;ou dì;ty	1	佛教(圣)地
-杉杉来吃	shān;mp shān;mp lái;am chī;kv	42	书名
+杉杉来吃	shān;ap shān;ap lái;am chī;kv	42	书名
 食话食说	shí;rg huà;yu shí;rg shuō;yx	25	节目
 零零总总	ling;ys ling;ys zong;bx zong;bx	6	林林总总
 太差劲	tai;dd cha;yg jing;jl	89	jìn
@@ -66,7 +66,7 @@ sort: by_weight
 凑活	còu;dt huo;du	250	凑合(he)
 道行	dao;zz hang;rd	270	dào héng
 给予	gei;sk yu;sl	350	jǐ yǔ
-厚朴	hou;iz pu;mb	50	hòu pò
+厚朴	hou;iz pu;ab	50	hòu pò
 馄饨	hun;ub dun;ut	400	hún tun
 角色	jiao;dy se;db	200	jué sè
 结扎	jie;sk zha;fv	130	jié zā
@@ -76,7 +76,7 @@ sort: by_weight
 埋怨	mai;tl yuan;xx	140	mán yuàn
 模板	mo;md ban;my	467	mú bǎn
 模具	mo;md ju;qb	194	mú jù
-模样	mo;md yang;my	519	mú yàng
+模样	mo;md yang;ay	519	mú yàng
 木讷	mu;ur na;yn	470	mù nè
 弄堂	nong;wc tang;xt	130	lòng táng
 暖和	nuan;oy he;hk	590	nuǎn huo
@@ -117,7 +117,7 @@ sort: by_weight
 优惠券	you;ry hui;ix juan;jd	420	优惠券(quàn)
 没食子	mei;du shi;rg zi;la	70	没(mò)食子
 魔蝎座	mó;gg xiē;ir zuò;gr	10	摩羯(jié)座
-鄱阳湖	pan;ce yang;eo hu;do	134	pó yáng hú
+鄱阳湖	pan;me yang;eo hu;do	134	pó yáng hú
 契科夫	qī;fd kē;hd fū;er	10	契诃(hē)夫
 荨麻疹	qian;cc ma;gm zhen;bp	200	xún má zhěn
 太行山	tai;dd xing;rd shan;kl	390	tài háng shān
@@ -134,19 +134,19 @@ sort: by_weight
 大腹便便	da;ar fu;ow bian;rg bian;rg	15	dà fù pián pián
 歇斯底里	jie;oq si;cj di;gu li;tt	88	xiē sī dǐ lǐ
 力能扛鼎	li;vp neng;sb kang;fg ding;po	3	lì néng gāng dǐng
-模棱两可	mo;md ling;mw liang;ar ke;dk	85	mó léng liǎng kě
+模棱两可	mo;md ling;aw liang;ar ke;dk	85	mó léng liǎng kě
 南京六合	nan;ug jing;wx liu;wb he;rk	1	nán jīng lù hé
-人模狗样	ren;pn mo;md gou;qj yang;my	15	rén mú góu yàng
+人模狗样	ren;pn mo;md gou;qj yang;ay	15	rén mú góu yàng
 心宽体胖	xin;dd kuan;bj ti;rb pang;ob	4	xīn kūan tǐ pán
 虚与委蛇	xu;hy yu;va wei;hn she;ib	9	xū yǔ wēi yí
 血脉偾张	xuè;pm mài;oy fèn;rb zhāng;gi	1	血脉贲(bēn)张 | 血脉偾(fèn)张
 血脉喷张	xuè;pm mài;oy pēn;kb zhāng;gi	1	血脉贲(bēn)张 | 血脉偾(fèn)张
-一模一样	yi;aa mo;md yi;aa yang;my	508	yì mú yí yàng
+一模一样	yi;aa mo;md yi;aa yang;ay	508	yì mú yí yàng
 饮鸩解渴	yin;uq jiu;bn jie;dn ke;dr	1	饮鸩(zhèn)解渴
 饮鸩止渴	yin;uq jiu;bn zhi;lb,la,ba ke;dr	34	饮鸩(zhèn)止渴
 饮鸩解渴	yin;uq zhen;bn jie;dn ke;dr	1	饮鸩(zhèn)解渴
-有模有样	you;uo mo;md you;uo yang;my	28	yǒu mú yǒu yàng
-装模作样	zhuang;ly mo;md zuo;rv yang;my	49	zhuāng mú zuò yàng
+有模有样	you;uo mo;md you;uo yang;ay	28	yǒu mú yǒu yàng
+装模作样	zhuang;ly mo;md zuo;rv yang;ay	49	zhuāng mú zuò yàng
 安徽六安市	an;bn hui;rx liu;wb an;bn shi;wj	1	ān huī lù ān shì
 南京六合区	nan;ug jing;wx liu;wb he;rk qu;kx	1	nán jīng lù hé qū
 安徽省六安市	an;bn hui;rx sheng;uo liu;wb an;bn shi;wj	1	ān huī shěng lù ān shì
