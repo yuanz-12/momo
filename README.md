@@ -1,6 +1,6 @@
 # 魔改墨奇码
 
-原版拆分可见：(墨奇码表)[https://github.com/gaboolic/moqima-tables]
+原版拆分可见：[墨奇码表](https://github.com/gaboolic/moqima-tables)
 
 ## 主要改动
 
