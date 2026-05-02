@@ -289,29 +289,29 @@ accessibility	a11y
 甘N	gān'N;ca
 甘P	gān'P;ca
 贵A	guì'A;vb
-桂A	guì'A;mt
+桂A	guì'A;at
 贵B	guì'B;vb
-桂B	guì'B;mt
+桂B	guì'B;at
 贵C	guì'C;vb
-桂C	guì'C;mt
+桂C	guì'C;at
 贵D	guì'D;vb
-桂D	guì'D;mt
+桂D	guì'D;at
 贵E	guì'E;vb
-桂E	guì'E;mt
+桂E	guì'E;at
 贵F	guì'F;vb
-桂F	guì'F;mt
+桂F	guì'F;at
 贵G	guì'G;vb
-桂G	guì'G;mt
+桂G	guì'G;at
 贵H	guì'H;vb
-桂H	guì'H;mt
+桂H	guì'H;at
 贵J	guì'J;vb
-桂J	guì'J;mt
-桂K	guì'K;mt
-桂L	guì'L;mt
-桂M	guì'M;mt
-桂N	guì'N;mt
-桂P	guì'P;mt
-桂R	guì'R;mt
+桂J	guì'J;at
+桂K	guì'K;at
+桂L	guì'L;at
+桂M	guì'M;at
+桂N	guì'N;at
+桂P	guì'P;at
+桂R	guì'R;at
 黑A	hēi'A;lh
 黑B	hēi'B;lh
 黑C	hēi'C;lh
@@ -503,22 +503,22 @@ accessibility	a11y
 湘M	xiāng'M;do
 湘N	xiāng'N;do
 湘U	xiāng'U;do
-新A	xīn'A;lj
-新B	xīn'B;lj
-新C	xīn'C;lj
-新D	xīn'D;lj
-新E	xīn'E;lj
-新F	xīn'F;lj
-新G	xīn'G;lj
-新H	xīn'H;lj
-新J	xīn'J;lj
-新K	xīn'K;lj
-新L	xīn'L;lj
-新M	xīn'M;lj
-新N	xīn'N;lj
-新P	xīn'P;lj
-新Q	xīn'Q;lj
-新R	xīn'R;lj
+新A	xīn'A;lt
+新B	xīn'B;lt
+新C	xīn'C;lt
+新D	xīn'D;lt
+新E	xīn'E;lt
+新F	xīn'F;lt
+新G	xīn'G;lt
+新H	xīn'H;lt
+新J	xīn'J;lt
+新K	xīn'K;lt
+新L	xīn'L;lt
+新M	xīn'M;lt
+新N	xīn'N;lt
+新P	xīn'P;lt
+新Q	xīn'Q;lt
+新R	xīn'R;lt
 豫A	yù'A;yu
 豫B	yù'B;yu
 渝C	yú'C;dd
@@ -591,17 +591,17 @@ accessibility	a11y
 藏G	zàng'G;ci
 藏H	zàng'H;ci
 藏J	zàng'J;ci
-浙A	zhè'A;dj
-浙B	zhè'B;dj
-浙C	zhè'C;dj
-浙D	zhè'D;dj
-浙E	zhè'E;dj
-浙F	zhè'F;dj
-浙G	zhè'G;dj
-浙H	zhè'H;dj
-浙J	zhè'J;dj
-浙K	zhè'K;dj
-浙L	zhè'L;dj
+浙A	zhè'A;dt
+浙B	zhè'B;dt
+浙C	zhè'C;dt
+浙D	zhè'D;dt
+浙E	zhè'E;dt
+浙F	zhè'F;dt
+浙G	zhè'G;dt
+浙H	zhè'H;dt
+浙J	zhè'J;dt
+浙K	zhè'K;dt
+浙L	zhè'L;dt
 装B	zhuāng'B;ly
 3DS	3DS
 A出口	A'chū'kǒu
@@ -766,15 +766,15 @@ e招贷	e'zhāo'dài
 教-9	jiào-9;lw
 就OK	jiù'OK;wy
 嗑CP	kē'CP;km
-梅花A	méi'huā'A;mm
-梅花J	méi'huā'J;mm
-梅花K	méi'huā'K;mm
-梅花Q	méi'huā'Q;mm
+梅花A	méi'huā'A;am
+梅花J	méi'huā'J;am
+梅花K	méi'huā'K;am
+梅花Q	méi'huā'Q;am
 谜拟Q	mí'nǐ'Q;ym
 n次方	n'cì'fāng
 pH值	pH'zhí
 拍CT	pāi'CT;fb
-日K线	rì'K'xiàn;ka
+日K线	rì'K'xiàn;wa
 θ粒子	sāi'ta'lì'zǐ
 三K党	sān'K'dǎng;ae
 4A级	sì'A'jí
@@ -1548,8 +1548,8 @@ ZTZ-85	ZTZ-85
 ZTZ-88	ZTZ-88
 ZTZ-96	ZTZ-96
 ZTZ-99	ZTZ-99
-保时捷911	bǎo'shí'jié'jiǔ'yī'yī;rm
-保时捷718	bǎo'shí'jié'qī'yī'bā;rm
+保时捷911	bǎo'shí'jié'jiǔ'yī'yī;ra
+保时捷718	bǎo'shí'jié'qī'yī'bā;ra
 长剑-100	cháng'jiàn-100;pn
 大众Polo	dà'zhòng'Polo;ar
 弹弹play	dàn'dàn'play;gu
@@ -1557,7 +1557,7 @@ ZTZ-99	ZTZ-99
 东风-21D	dōng'fēng-21D;ax
 东风-26D	dōng'fēng-26D;ax
 东风-31A	dōng'fēng-31A;ax
-丰田AE86	fēng'tián'AE'bā'liù;sl,af,al
+丰田AE86	fēng'tián'AE'bā'liù;sl,al
 关底BOSS	guān'dǐ'BOSS;bt
 海红旗-9C	hái'hóng'qí-9C;dm
 盒马mini	hé'mǎ'mini;rm
@@ -1732,7 +1732,7 @@ WeChat支付	WeChat'zhī'fù
 Windows版	Windows'bǎn
 Windows端	Windows'duān
 奥迪e-tron	ào'dí'e-tron;pd
-保时捷Macan	bǎo'shí'jié'Macan;rm
+保时捷Macan	bǎo'shí'jié'Macan;ra
 fail2ban	fail2ban
 捷豹E-PACE	jié'bào'E'PACE;fz
 捷豹F-PACE	jié'bào'F'PACE;fz
@@ -1787,7 +1787,7 @@ Windows版本	Windows'bǎn'běn
 Windows更新	Windows'gēng'xīn
 Windows11	Windows'yī'yī
 all in AI	allinai
-保时捷Taycan	bǎo'shí'jié'Taycan;rm
+保时捷Taycan	bǎo'shí'jié'Taycan;ra
 波特卡斯·D·艾斯	bō'tè'kǎ'sī'D'ài'sī;dp
 city不city	city'bù'city
 乔治·R·R·马丁	qiáo'zhì'RR'mǎ'dīng;yl
@@ -1810,7 +1810,7 @@ ThinkPad键盘	ThinkPad'jiàn'pán
 USB Type-A	USBType-A
 USB Type-B	USBType-B
 USB Type-C	USBType-C
-保时捷Cayenne	bǎo'shí'jié'Cayenne;rm
+保时捷Cayenne	bǎo'shí'jié'Cayenne;ra
 理想L8 Ultra	lǐ'xiǎng'L'bā'Ultra;wl
 理想L9 Ultra	lǐ'xiǎng'L'jiǔ'Ultra;wl
 理想L7 Ultra	lǐ'xiǎng'L'qī'Ultra;wl
@@ -1828,7 +1828,7 @@ PizzaHut必胜客	PizzaHut'bì'shèng'kè
 ThinkPad笔记本	ThinkPad'bǐ'jì'běn
 Windows操作系统	Windows'cāo'zuò'xì'tǒng
 奥迪e-tron GT	ào'dí'e-tronGT;pd
-保时捷Panamera	bǎo'shí'jié'Panamera;rm
+保时捷Panamera	bǎo'shí'jié'Panamera;ra
 特斯拉Model YL	tè'sī'lā'Model'YL;nc
 沃尔沃S90 PHEV	wò'ěr'wò'S'jiǔ'líng'PHEV;dy
 Apple MPEG-4	AppleMPEG-4
