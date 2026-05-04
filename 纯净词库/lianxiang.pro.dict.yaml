@@ -3206,7 +3206,7 @@ sort: by_weight
 被粉丝调侃	bèi fěn sī tiáo kǎn	10
 备份与还原	bèi fèn yǔ huán yuán	10
 备份与恢复	bèi fèn yǔ huī fù	10
-被风吹倒了	bèi fēng chuī dào le	10
+被风吹倒了	bèi fēng chuī dǎo le	10
 北峰工业区	běi fēng gōng yè qū	10
 北风和太阳	běi fēng hé tài yáng	10
 北风那个吹	běi fēng nà ge chuī	10
@@ -11248,6 +11248,7 @@ sort: by_weight
 此树是我栽	cǐ shù shì wǒ zāi	10
 刺鼠肽基因	cì shǔ tài jī yīn	10
 次水杨酸铋	cì shuǐ yáng suān bì	10
+磁随机存储	cí suí jī cún chǔ	10
 瓷胎画珐琅	cí tāi huà fà láng	10
 次碳酸铋片	cì tàn suān bì piàn	10
 次碳酸铋油	cì tàn suān bì yóu	10
@@ -13600,7 +13601,7 @@ sort: by_weight
 道拉吉里峰	dào lā jí lǐ fēng	10
 倒拉九头牛	dào lā jiǔ tóu niú	10
 捣烂敷患处	dǎo làn fū huàn chù	10
-倒了大霉了	dào le dà méi le	10
+倒了大霉了	dǎo le dà méi le	10
 到了第二部	dào le dì èr bù	10
 到了第二节	dào le dì èr jié	10
 到了第三部	dào le dì sān bù	10
@@ -13608,7 +13609,7 @@ sort: by_weight
 到了第四节	dào le dì sì jié	10
 到了美国后	dào le měi guó hòu	10
 到了学校后	dào le xué xiào hòu	10
-倒了一杯酒	dào le yì bēi jiǔ	10
+倒了一杯酒	dǎo le yì bēi jiǔ	10
 道了一声谢	dào le yì shēng xiè	10
 到了医院后	dào le yī yuàn hòu	10
 道里邦国志	dào lǐ bāng guó zhì	10
@@ -14733,6 +14734,7 @@ sort: by_weight
 第三方控件	dì sān fāng kòng jiàn	10
 第三方权利	dì sān fāng quán lì	10
 第三方势力	dì sān fāng shì lì	10
+第三方依赖	dì sān fāng yī lài	10
 第三方质检	dì sān fāng zhì jiǎn	10
 第三腓骨肌	dì sān féi gǔ jī	10
 第三个环节	dì sān gè huán jié	10
@@ -23697,6 +23699,7 @@ sort: by_weight
 伽马吸收法	gā mǎ xī shōu fǎ	10
 伽马中子法	gā mǎ zhōng zǐ fǎ	10
 伽姆扎托夫	gā mǔ zhā tuō fū	10
+戛纳电影节	gā nà diàn yǐng jié	10
 伽倪墨得斯	gā ní mò dé sī	10
 钆喷酸葡胺	gá pēn suān pú àn	10
 嘎日迪五味	gā rì dí wǔ wèi	10
@@ -36861,7 +36864,6 @@ sort: by_weight
 假膜性肠炎	jiǎ mó xìng cháng yán	10
 嘉木美术馆	jiā mù měi shù guǎn	10
 加拿大罗氏	jiā ná dà luó shì	10
-戛纳广告节	jiá nà guǎng gào jié	10
 迦纳基督徒	jiā nà jī dū tú	10
 加那利群岛	jiā nà lì qún dǎo	10
 嘉纳治五郎	jiā nà zhì wǔ láng	10
@@ -51631,6 +51633,7 @@ sort: by_weight
 美食俱乐部	měi shí jù lè bù	10
 美式咖啡机	měi shì kā fēi jī	10
 美施康定片	měi shī kāng dìng piàn	10
+梅氏利维坦	méi shì lì wéi tǎn	10
 每时每刻都	měi shí měi kè dōu	10
 美食排行榜	měi shí pái háng bǎng	10
 美食评论家	měi shí píng lùn jiā	10
@@ -53028,6 +53031,7 @@ sort: by_weight
 莫劝他人善	mò quàn tā rén shàn	10
 蓦然回首时	mò rán huí shǒu shí	10
 魔人布欧篇	mó rén bù ōu piān	10
+默认浏览器	mò rèn liú lǎn qì	10
 磨人小妖精	mó rén xiǎo yāo jīng	10
 末日救未来	mò rì jiù wèi lái	10
 膜绒毛活检	mó róng máo huó jiǎn	10
@@ -76216,6 +76220,7 @@ sort: by_weight
 挑战和风险	tiǎo zhàn hé fēng xiǎn	10
 挑战和机遇	tiǎo zhàn hé jī yù	10
 挑战与机遇	tiǎo zhàn yǔ jī yù	10
+挑战与考验	tiǎo zhàn yǔ kǎo yàn	10
 挑战与应对	tiǎo zhàn yǔ yìng duì	10
 挑战者姚明	tiǎo zhàn zhě yáo míng	10
 调整的范围	tiáo zhěng de fàn wéi	10
@@ -86170,7 +86175,6 @@ sort: by_weight
 辛差分格式	xīn chā fēn gé shì	10
 新产品推出	xīn chǎn pǐn tuī chū	10
 新长车务段	xīn cháng chē wù duàn	10
-信长之野望	xìn cháng zhī yě wàng	10
 新潮的设计	xīn cháo de shè jì	10
 新车的价格	xīn chē de jià gé	10
 新车的内饰	xīn chē de nèi shì	10
@@ -87061,9 +87065,6 @@ sort: by_weight
 新造车势力	xīn zào chē shì lì	10
 信噪失真比	xìn zào shī zhēn bǐ	10
 新增病例中	xīn zēng bìng lì zhōng	10
-信长的忍者	xìn zhǎng de rěn zhě	10
-信长的野望	xìn zhǎng de yě wàng	10
-信长的主厨	xìn zhǎng de zhǔ chú	10
 新正统主义	xīn zhēng tǒng zhǔ yì	10
 心智的成熟	xīn zhì de chéng shú	10
 心智的成长	xīn zhì de chéng zhǎng	10
@@ -95575,7 +95576,7 @@ sort: by_weight
 有男朋友吗	yǒu nán péng you ma	10
 游内山灯塔	yóu nèi shān dēng tǎ	10
 右内射维数	yòu nèi shè wéi shù	10
-有内味儿了	yǒu nèi wèi ér le	10
+有内味儿了	yǒu nèi wèi er le	10
 有你才幸福	yǒu nǐ cái xìng fú	10
 油腻的东西	yóu nì de dōng xi	10
 油腻的感觉	yóu nì de gǎn jué	10
@@ -97659,7 +97660,7 @@ sort: by_weight
 远志流浸膏	yuǎn zhì liú jìn gāo	10
 原植物鉴定	yuán zhí wù jiàn dìng	10
 原汁原味的	yuán zhī yuán wèi de	10
-原汁原味儿	yuán zhī yuán wèi ér	10
+原汁原味儿	yuán zhī yuán wèi er	10
 远志皂苷元	yuǎn zhì zào gān yuán	10
 元中都遗址	yuán zhōng dū yí zhǐ	10
 原中法大学	yuán zhōng fǎ dà xué	10
@@ -104760,12 +104761,15 @@ sort: by_weight
 自旋标记法	zì xuán biāo jì fǎ	10
 自旋磁共振	zì xuán cí gòng zhèn	10
 自旋电子学	zì xuán diàn zǐ xué	10
+自旋轨道矩	zì xuán guǐ dào jǔ	10
+自旋极化流	zì xuán jí huà liú	10
 自旋角动量	zì xuán jiǎo dòng liàng	12
 自旋量子数	zì xuán liàng zǐ shù	10
 自旋密度波	zì xuán mì dù bō	10
 自旋双重态	zì xuán shuāng chóng tài	10
 自旋亚能级	zì xuán yà néng jí	10
 自旋再取向	zì xuán zài qǔ xiàng	10
+自旋转移矩	zì xuán zhuǎn yí jǔ	10
 自选作品辑	zì xuǎn zuò pǐn jí	10
 自学的能力	zì xué de néng lì	10
 资讯不对称	zī xùn bú duì chèn	10
@@ -115393,7 +115397,7 @@ sort: by_weight
 盗掘古墓葬罪	dào jué gǔ mù zàng zuì	10
 刀郎麦西来甫	dāo láng mài xī lái fǔ	10
 刀郎麦西热甫	dāo láng mài xī rè fǔ	10
-倒了八辈子霉	dào le bā bèi zi méi	10
+倒了八辈子霉	dǎo le bā bèi zi méi	10
 到了八十年代	dào le bā shí nián dài	10
 到了大年三十	dào le dà nián sān shí	10
 到了九十年代	dào le jiǔ shí nián dài	10
@@ -118787,7 +118791,7 @@ sort: by_weight
 二十五条纲领	èr shí wǔ tiáo gāng lǐng	10
 二十五味阿魏	èr shí wǔ wèi ā wèi	10
 二十五味大汤	èr shí wǔ wèi dà tāng	10
-二十五味儿茶	èr shí wǔ wèi ér chá	10
+二十五味儿茶	èr shí wǔ wèi er chá	10
 二十五味肺病	èr shí wǔ wèi fèi bìng	10
 二十五味鬼臼	èr shí wǔ wèi guǐ jiù	10
 二十五味驴血	èr shí wǔ wèi lǘ xuè	10
@@ -133008,7 +133012,6 @@ sort: by_weight
 截基鸭绿乌头	jié jī yā lǜ wū tóu	10
 街机音乐游戏	jiē jī yīn yuè yóu xì	10
 街机游戏基板	jiē jī yóu xì jī bǎn	10
-届戛纳电影节	jiè jiá nà diàn yǐng jié	10
 截角二十面体	jié jiǎo èr shí miàn tǐ	10
 结交良师益友	jié jiāo liáng shī yì yǒu	10
 街角洋果子店	jiē jiǎo yáng guǒ zi diàn	10
@@ -134241,6 +134244,7 @@ sort: by_weight
 景天虫草含片	jǐng tiān chóng cǎo hán piàn	10
 惊天地泣鬼神	jīng tiān dì qì guǐ shén	10
 景天庚酮糖酐	jǐng tiān gēng tóng táng gān	3
+竞天公诚律师	jìng tiān gōng chéng lǜ shī	10
 景天红花胶囊	jǐng tiān hóng huā jiāo náng	10
 景天科酸代谢	jǐng tiān kē suān dài xiè	10
 景天清肺胶囊	jǐng tiān qīng fèi jiāo náng	10
@@ -151152,7 +151156,7 @@ sort: by_weight
 生命受到威胁	shēng mìng shòu dào wēi xié	10
 生命体征监测	shēng mìng tǐ zhēng jiān cè	10
 生命危在旦夕	shēng mìng wēi zài dàn xī	10
-生命中的过客	shēng mìng zhòng de guò kè	10
+生命中的过客	shēng mìng zhōng de guò kè	10
 省内其他地市	shěng nèi qí tā dì shì	10
 省农业农村厅	shěng nóng yè nóng cūn tīng	10
 圣帕特里克节	shèng pà tè lǐ kè jié	10
@@ -166652,6 +166656,7 @@ sort: by_weight
 已经登堂入室	yǐ jīng dēng táng rù shì	10
 已经竭尽全力	yǐ jīng jié jìn quán lì	10
 易经六十四卦	yì jīng liù shí sì guà	10
+一鲸落万物生	yī jīng luò wàn wù shēng	10
 已经没办法再	yǐ jīng méi bàn fǎ zài	10
 以惊人的速度	yǐ jīng rén de sù dù	10
 已经仁至义尽	yǐ jīng rén zhì yì jìn	10
@@ -174769,14 +174774,18 @@ sort: by_weight
 子虚乌有的事	zǐ xū wū yǒu de shì	10
 自旋磁量子数	zì xuán cí liàng zǐ shù	10
 自旋非相干性	zì xuán fēi xiāng gān xìng	10
+自旋轨道力矩	zì xuán guǐ dào lì jǔ	10
 自旋轨道耦合	zì xuán guǐ dào ǒu hé	5
 自旋轨道劈裂	zì xuán guǐ dào pī liè	10
+自旋霍尔电导	zì xuán huò ěr diàn dǎo	10
+自旋霍尔效应	zì xuán huò ěr xiào yìng	10
 自旋交换张弛	zì xuán jiāo huàn zhāng chí	10
 自旋晶格弛豫	zì xuán jīng gé chí yù	10
 自旋密度矩阵	zì xuán mì dù jǔ zhèn	10
 自旋匹配组态	zì xuán pǐ pèi zǔ tài	5
 自旋统计定理	zì xuán tǒng jì dìng lǐ	10
 自旋统计关系	zì xuán tǒng jì guān xì	12
+自旋转移力矩	zì xuán zhuǎn yí lì jǔ	10
 资讯安全策略	zī xùn ān quán cè lüè	10
 资讯奥林匹亚	zī xùn ào lín pǐ yà	10
 资讯传播学系	zī xùn chuán bō xué xì	10
@@ -181915,8 +181924,8 @@ sort: by_weight
 刀客家族的女人	dāo kè jiā zú de nǚ rén	10
 刀快不怕脖子粗	dāo kuài bú pà bó zi cū	10
 到老终无怨恨心	dào lǎo zhōng wú yuàn hèn xīn	10
-倒了八辈子的霉	dào le bā bèi zi de méi	10
-倒了八辈子血霉	dào le bā bèi zi xuè méi	10
+倒了八辈子的霉	dǎo le bā bèi zi de méi	10
+倒了八辈子血霉	dǎo le bā bèi zi xuè méi	10
 到了千年又觉陈	dào le qiān nián yòu jué chén	10
 悼良会之永绝兮	dào liáng huì zhī yǒng jué xī	10
 道林德二氏异常	dào lín dé èr shì yì cháng	10
@@ -183767,7 +183776,7 @@ sort: by_weight
 二十五味冰片散	èr shí wǔ wèi bīng piàn sàn	10
 二十五味大汤散	èr shí wǔ wèi dà tāng sàn	10
 二十五味大汤丸	èr shí wǔ wèi dà tāng wán	10
-二十五味儿茶丸	èr shí wǔ wèi ér chá wán	10
+二十五味儿茶丸	èr shí wǔ wèi er chá wán	10
 二十五味肺病散	èr shí wǔ wèi fèi bìng sàn	10
 二十五味肺病丸	èr shí wǔ wèi fèi bìng wán	10
 二十五味鬼臼丸	èr shí wǔ wèi guǐ jiù wán	10
