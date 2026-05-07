@@ -720,6 +720,7 @@ sort: by_weight
 氨基十一酸	ān;qn jī;ct shí;al yī;aa suān;yw	100
 氨基水解酶	ān;qn jī;ct shuǐ;ln jiě;dn méi;ym	100
 氨基水杨酸	ān;qn jī;ct shuǐ;ln yáng;ap suān;yw	100
+氨基水扬酸	ān;qn jī;ct shuǐ;ln yáng;fp suān;yw	100
 氨基四氮唑	ān;qn jī;ct sì;we dàn;qh zuò;kr	100
 氨基四氢萘	ān;qn jī;ct sì;we qīng;qj nài;cu	100
 氨基塑料尸	ān;qn jī;ct sù;nt liào;md shī;kp,vp	100
@@ -10145,6 +10146,7 @@ sort: by_weight
 楚河汉街站	chǔ;az hé;dk hàn;dy jiē;rt zhàn;lv	100
 出乎人意料	chū;uu hū;pl rén;pn yì;lx liào;md	100
 出乎意料地	chū;uu hū;pl yì;lx liào;md de;ty	100
+出乎意外地	chū;uu hū;pl yì;lx wài;xb de;ty	100
 楚怀王熊心	chǔ;az huái;xb wáng;at xióng;sh xīn;dd	100
 楚皇城城址	chǔ;az huáng;bw chéng;ti chéng;ti zhǐ;tv	100
 初回限定盘	chū;pd huí;wk xiàn;eg dìng;bz pán;vm	100
@@ -13645,7 +13647,7 @@ sort: by_weight
 到派出所后	dào;gd pài;dy chū;uu suǒ;ht hòu;ik	100
 到炮火中去	dào;gd pào;hb huǒ;br,rb zhōng;kl qù;ts	100
 道奇棒球队	dào;zz qí;dk bàng;af qiú;wq duì;er	100
-到齐齐哈尔	dào;gd qí;wl qí;wl hā;kk ěr;dx	490
+到齐齐哈尔	dào;gd qí;wl qí;wl hā;kk ěr;dx	10090
 到其他地方	dào;gd qí;cb tā;ry dì;ty fāng;wv	100
 道奇体育场	dào;zz qí;dk tǐ;rb yù;wo chǎng;tp	100
 道奇挑战者	dào;zz qí;dk tiǎo;fv zhàn;vg zhě;lo	100
@@ -45432,7 +45434,7 @@ sort: by_weight
 莱佩二氏病	lái;cl pèi;rj èr;aa shì;pv bìng;bn	100
 赖脯胰岛素	lài;ub pú;of yí;oy dǎo;nu sù;fx	100
 来栖川姬子	lái;aa qī;ax chuān;pl jī;ni zǐ;la	100
-来齐齐哈尔	lái;aa qí;wl qí;wl hā;kk ěr;dx	490
+来齐齐哈尔	lái;aa qí;wl qí;wl hā;kk ěr;dx	10090
 莱赛二氏病	lái;cl sài;bb èr;aa shì;pv bìng;bn	100
 来上路支援	lái;aa shàng;ba lù;zk zhī;uy yuán;fy	100
 来生再续缘	lái;aa shēng;pf zài;ar xù;sd yuán;su	100
@@ -61195,7 +61197,7 @@ sort: by_weight
 取屏幕高度	qǔ;ey píng;uk mù;cj gāo;wk dù;gy	100
 取屏幕宽度	qǔ;ey píng;uk mù;cj kuān;bj dù;gy	100
 取启动时间	qǔ;ey qǐ;hk dòng;yl shí;to jiān;mo	100
-去齐齐哈尔	qù;ts qí;wl qí;wl hā;kk ěr;dx	490
+去齐齐哈尔	qù;ts qí;wl qí;wl hā;kk ěr;dx	10090
 去羟肌苷散	qù;ts qiǎng;yj jī;oj gān;cg sàn;cw	100
 去氢表雄酮	qù;ts qīng;qj biǎo;fy xióng;uv tóng;yk	100
 去氢胆酸钠	qù;ts qīng;qj dǎn;od suān;yw nà;jn	100
@@ -92333,8 +92335,8 @@ sort: by_weight
 一批又一批	yì;aa pī;fb yòu;vn yì;aa pī;fb	100
 益脾镇惊散	yì;bm pí;ou zhèn;jb jīng;xx sàn;cw	100
 益脾壮身散	yì;bm pí;ou zhuàng;lt shēn;zc sàn;cw	100
-一片顶三片	yí;aa piàn;pv dǐng;dy sān;ae piàn;pv	100
 一篇顶三篇	yì;aa piān;vc dǐng;dy sān;ae piān;vc	100
+一片顶三片	yí;aa piàn;pv dǐng;dy sān;ae piàn;pv	11
 一片石战役	yí;aa piàn;pv shí;ak zhàn;vg yì;ru	100
 一片石之战	yí;aa piàn;pv shí;ak zhī;dn zhàn;vg	100
 一片小饼干	yí;aa piàn;pv xiǎo;lb bǐng;uk gān;au	100
@@ -113880,7 +113882,7 @@ sort: by_weight
 从那一天开始	cóng;rr nà;ve yì;aa tiān;ad kāi;ac shǐ;nk	100
 从南方到北方	cóng;rr nán;ug fāng;wv dào;gd běi;lb fāng;wv	100
 从内容到形式	cóng;rr nèi;kr róng;bg dào;gd xíng;kp shì;gg	100
-从你那里得来	cóng;rr nǐ;rx nà;ve lǐ;tt de;rc lái;aa	351
+从你那里得来	cóng;rr nǐ;rx nà;ve lǐ;tt de;rc lái;aa	10051
 从农场到餐桌	cóng;rr nóng;by chǎng;tp dào;gd cān;dg zhuō;ba	100
 从农村到城市	cóng;rr nóng;by cūn;ac dào;gd chéng;ti shì;wj	100
 从农田到餐桌	cóng;rr nóng;by tián;wu dào;gd cān;dg zhuō;ba	100
