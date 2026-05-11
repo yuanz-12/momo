@@ -18133,7 +18133,7 @@ sort: by_weight
 恶女罗曼死	è;yx nǚ;va luó;sx màn;oy sǐ;db	100
 鳄皮状鳞癣	è;yk pí;py zhuàng;lq lín;yf xuǎn;by	100
 鄂齐尔图汗	è;ke qí;wl ěr;dx tú;wd hàn;dg	100
-额前的碎发	é;by qián;bd de;bu suì;uu fā;fy	100
+额前的碎发	é;by qián;bd de;bu suì;uu fà;fy	100
 饿求齐胶囊	è;uw qiú;au,ad qí;wl jiāo;of náng;gy	100
 鹅去氧胆酸	é;wn qù;ts yǎng;qy dǎn;od suān;yw	100
 恶人先告状	è;yx rén;pn xiān;ne gào;nk zhuàng;lq	100
@@ -28113,7 +28113,7 @@ sort: by_weight
 光明与磊落	guāng;xe míng;oo yǔ;va lěi;uu luò;ck	100
 光明与希望	guāng;xe míng;oo yǔ;va xī;xj wàng;ww	100
 光明照耀的	guāng;xe míng;oo zhào;oh yào;gv de;bu	100
-光明正大地	guāng;xe míng;oo zhèng;av dà;ar dì;ty	100
+光明正大地	guāng;xe míng;oo zhèng;av dà;ar de;ty	100
 光南大批发	guāng;xe nán;ug dà;ar pī;fb fā;fy	100
 光年的距离	guāng;xe nián;pf de;bu jù;zj lí;wn	100
 广平王李俶	guǎng;di píng;au wáng;at lǐ;az chù;ry	100
@@ -67814,6 +67814,8 @@ sort: by_weight
 是不是人了	shì;oz bú;ab shì;oz rén;pn le;al	100
 是不是傻啊	shì;oz bú;ab shì;oz shǎ;rw a;kk	100
 是不是傻了	shì;oz bú;ab shì;oz shǎ;rw le;al	100
+是不是想起	shì;oz bú;ab shì;oz xiǎng;ax qǐ;tj	120
+时不时想起	shí;to bù;ab shí;to xiǎng;ax qǐ;tj	100
 是不是想死	shì;oz bú;ab shì;oz xiǎng;ax sǐ;db	100
 是不实在的	shì;oz bù;ab shí;bd zài;ut de;bu	100
 是不是长了	shì;oz bú;ab shì;oz zhǎng;pn le;al	100
@@ -69493,7 +69495,7 @@ sort: by_weight
 事实和证据	shì;gy shí;bd hé;hk zhèng;yv jù;fg	100
 什什基夫卡	shí;ru shí;ru jī;ct fū;er kǎ;ub	100
 什什基夫齐	shí;ru shí;ru jī;ct fū;er qí;wl	100
-实实际际地	shí;bd shí;bd jì;eu jì;eu dì;ty	100
+实实际际地	shí;bd shí;bd jì;eu jì;eu de;ty	100
 实时计算机	shí;bd shí;to jì;yu suàn;vc jī;aj	100
 师氏剑齿象	shī;lj shì;pv jiàn;qd chǐ;vr xiàng;du	100
 时时刻刻都	shí;to shí;to kè;wd kè;wd dōu;le	100
@@ -87513,6 +87515,7 @@ sort: by_weight
 行为实施地	xíng;rd wéi;ld shí;bd shī;fy dì;ty	100
 行为型模式	xíng;rd wéi;ld xíng;kt mó;ad shì;gg	100
 性味与归经	xìng;xu wèi;kw yǔ;va guī;le jīng;sj	100
+醒悟的一天	xǐng;yu wù;xk de;bu yì;aa tiān;ad	100
 星系的演化	xīng;ou xì;px de;bu yǎn;db huà;rb	100
 星系际尘埃	xīng;ou xì;px jì;eu chén;xt āi;tu	100
 星系际恒星	xīng;ou xì;px jì;eu héng;xd xīng;ou	100
@@ -166644,6 +166647,7 @@ sort: by_weight
 一阶必要条件	yī;aa jiē;ej bì;xp yào;xn tiáo;wa jiàn;rn	100
 一届不如一届	yí;aa jiè;uy bù;ab rú;nk yí;aa jiè;uy	100
 一介凡夫俗子	yí;aa jiè;rl fán;jd fū;er sú;rg zǐ;la	100
+一阶反转曲线	yī;aa jiē;ej fǎn;iy zhuǎn;iv qū;wc,ck xiàn;sj	100
 以结婚为前提	yǐ;lr jié;sk hūn;no wéi;ld qián;bd tí;fz	100
 以解燃眉之急	yǐ;lr jiě;dn rán;hh méi;uo zhī;dn jí;dx	100
 一阶算术系统	yī;aa jiē;ej suàn;vc shù;ad xì;px tǒng;sy	100
@@ -171518,6 +171522,7 @@ sort: by_weight
 蒸汽机的发明	zhēng;ch qì;dq jī;aj de;bu fā;fy míng;oo	100
 蒸汽凝结速率	zhēng;ch qì;dq níng;dz jié;sk sù;zu lǜ;wu	120
 蒸气杀人实验	zhēng;ch qì;pv shā;xa rén;pn shí;bd yàn;mq	100
+政企数据泄露	zhèng;vw qǐ;rv shù;mw jù;fg xiè;du lòu;yk	100
 蒸汽吸入损伤	zhēng;ch qì;dq xī;kj rù;pn sǔn;fb shāng;rl	100
 蒸气压力曲线	zhēng;ch qì;pv yā;id lì;vp qū;wc,ck xiàn;sj	100
 蒸气压缩制冷	zhēng;ch qì;pv yā;id suō;sb zhì;nd lěng;ds	100
@@ -184832,7 +184837,6 @@ sort: by_weight
 肺组织胞浆菌病	fèi;oj zǔ;sq zhī;sv bāo;ob jiāng;lu jūn;ch bìng;bn	100
 肺组织黏性阻力	fèi;oj zǔ;sq zhī;sv nián;hv xìng;xu zǔ;eq lì;vp	100
 非最小相位系统	fēi;ls zuì;oy xiǎo;lb xiàng;ao wèi;rl xì;px tǒng;sy	100
-肺І核初Н涂阳	fèi;oj І hé;ar chū;pd Н tú;dm yáng;eo	100
 粪便微生物移植	fèn;mg biàn;rg wēi;rj shēng;pf wù;nw yí;hx zhí;aq	100
 分别善恶报应经	fēn;bd bié;kd shàn;yk è;yx bào;fy yìng;ga jīng;sj	100
 奋不顾身的爱情	fèn;dt bú;ab gù;iy shēn;zc de;bu ài;vy qíng;xo	100
