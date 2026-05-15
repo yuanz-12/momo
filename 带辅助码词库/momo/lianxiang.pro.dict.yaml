@@ -104901,6 +104901,7 @@ sort: by_weight
 自愿供骨者	zì;po yuàn;ix gōng;rg gǔ;go zhě;lo	100
 自愿供肾者	zì;po yuàn;ix gōng;rg shèn;lo zhě;lo	100
 资源共享的	zī;db yuán;dx gòng;cb xiǎng;wz de;bu	100
+资源管理器	zī;db yuán;dx guǎn;vl lǐ;wl qì;kk	100
 资源和环境	zī;db yuán;dx hé;hk huán;wb jìng;te	100
 资源和能源	zī;db yuán;dx hé;hk néng;sb yuán;dx	100
 资源和人脉	zī;db yuán;dx hé;hk rén;pn mài;oy	100
@@ -104997,7 +104998,7 @@ sort: by_weight
 自转旋翼机	zì;po zhuàn;iv xuán;fz yì;xg jī;aj	100
 自准直谱仪	zì;po zhǔn;dv zhí;uq pǔ;yo yí;ry	100
 孜孜不倦地	zī;zw zī;zw bú;ab juàn;rv de;ty	100
-仔仔细细地	zǐ;rz zǐ;rz xì;st xì;st dì;ty	100
+仔仔细细地	zǐ;rz zǐ;rz xì;st xì;st de;ty	100
 子自旋转动	zǐ;la zì;po xuán;fz zhuàn;iv dòng;yl	100
 孜孜以求者	zī;zw zī;zw yǐ;lr qiú;au,ad zhě;lo	100
 自作多情了	zì;po zuò;rv duō;xx qíng;xo le;al	100
@@ -113210,6 +113211,7 @@ sort: by_weight
 出于某种原因	chū;uu yú;au mǒu;ga zhǒng;hv yuán;ix yīn;wd	100
 出于人道主义	chū;uu yú;au rén;pn dào;zz zhǔ;wt yì;dx	100
 处于弱势地位	chǔ;wb yú;au ruò;gg shì;fl dì;ty wèi;rl	100
+出于什么考虑	chū;uu yú;au shén;ru me;ps kǎo;lk lǜ;hx	100
 出于什么目的	chū;uu yú;au shén;ru me;ps mù;we dì;bu	100
 处于失业状态	chǔ;wb yú;au shī;pf yè;la zhuàng;lq tài;tx	100
 处于同一水平	chǔ;wb yú;au tóng;kk yī;aa shuǐ;ln píng;au	100
@@ -149545,200 +149547,10 @@ sort: by_weight
 上鼓室冲洗术	shàng;ba gǔ;tv shì;bt chōng;dv xǐ;de shù;ad	100
 上古十大神器	shàng;ba gǔ;uk shí;al dà;ar shén;pu qì;kk	100
 上古石器时代	shàng;ba gǔ;uk shí;ak qì;kk shí;to dài;rg	100
-上海巴士二汽	shàng;ba hǎi;dm bā;sl shì;ua èr;aa qì;dq	100
-上海巴士六汽	shàng;ba hǎi;dm bā;sl shì;ua liù;wb qì;dq	100
-上海巴士三汽	shàng;ba hǎi;dm bā;sl shì;ua sān;ae qì;dq	100
-上海巴士实业	shàng;ba hǎi;dm bā;sl shì;ua shí;bd yè;la	100
-上海巴士四汽	shàng;ba hǎi;dm bā;sl shì;ua sì;we qì;dq	100
-上海巴士新新	shàng;ba hǎi;dm bā;sl shì;ua xīn;lt xīn;lt	100
-上海巴士一汽	shàng;ba hǎi;dm bā;sl shì;ua yī;aa qì;dq	100
-上海百代唱片	shàng;ba hǎi;dm bǎi;ab dài;rg chàng;ko piān;pv	100
-上海半岛酒店	shàng;ba hǎi;dm bàn;bf dǎo;nu jiǔ;dy diàn;gv	100
-上海宝冶集团	shàng;ba hǎi;dm bǎo;by yě;dk jí;ra tuán;wc	100
-上海博击长空	shàng;ba hǎi;dm bó;uc jī;fk cháng;pn kōng;bg	100
-上海踩踏事件	shàng;ba hǎi;dm cǎi;za tà;zo shì;gy jiàn;rn	100
-上海柴油机厂	shàng;ba hǎi;dm chái;va yóu;dy jī;aj chǎng;ap	100
-上海城开集团	shàng;ba hǎi;dm chéng;ti kāi;ac jí;ra tuán;wc	100
-上海城投水务	shàng;ba hǎi;dm chéng;ti tóu;fu shuǐ;ln wù;wl	100
-上海船舶工业	shàng;ba hǎi;dm chuán;vk bó;vb gōng;aa yè;la	100
-上海大场机场	shàng;ba hǎi;dm dà;ar chǎng;tp jī;aj chǎng;tp	100
-上海达龙科技	shàng;ba hǎi;dm dá;zd lóng;yp kē;hd jì;fv	100
-上海达内科技	shàng;ba hǎi;dm dá;zd nèi;kr kē;hd jì;fv	100
-上海大屯煤电	shàng;ba hǎi;dm dà;ar tún;av méi;ha diàn;ov,yv	100
-上海大学校史	shàng;ba hǎi;dm dà;ar xué;xz xiào;af shǐ;kn	100
-上海大众公用	shàng;ba hǎi;dm dà;ar zhòng;rr gōng;bs yòng;kf,ol	100
-上海打字机厂	shàng;ba hǎi;dm dǎ;fd zì;bz jī;aj chǎng;ap	100
-上海第一生化	shàng;ba hǎi;dm dì;vd yī;aa shēng;pf huà;rb	100
-上海电机学院	shàng;ba hǎi;dm diàn;ov,yv jī;aj xué;xz yuàn;ey	100
-上海电力大学	shàng;ba hǎi;dm diàn;ov,yv lì;vp dà;ar xué;xz	100
-上海电力公司	shàng;ba hǎi;dm diàn;ov,yv lì;vp gōng;bs sī;vk	100
-上海电力学院	shàng;ba hǎi;dm diàn;ov,yv lì;vp xué;xz yuàn;ey	100
-上海电气公司	shàng;ba hǎi;dm diàn;ov,yv qì;pv gōng;bs sī;vk	100
-上海电气集团	shàng;ba hǎi;dm diàn;ov,yv qì;pv jí;ra tuán;wc	100
-上海电视节的	shàng;ba hǎi;dm diàn;ov,yv shì;pj jié;ce de;bu	100
-上海动物园站	shàng;ba hǎi;dm dòng;yl wù;nw yuán;wy zhàn;lv	100
-上海都市菜园	shàng;ba hǎi;dm dū;le shì;wj cài;ca yuán;wy	100
-上海多媒体谷	shàng;ba hǎi;dm duō;xx méi;na tǐ;rb gǔ;bk	100
-上海法国学校	shàng;ba hǎi;dm fǎ;dq guó;wy xué;xz xiào;af	100
-上海法政大学	shàng;ba hǎi;dm fǎ;dq zhèng;vw dà;ar xué;xz	100
-上海纺织工业	shàng;ba hǎi;dm fǎng;sf zhī;sv gōng;aa yè;la	100
-上海纺织集团	shàng;ba hǎi;dm fǎng;sf zhī;sv jí;ra tuán;wc	100
-上海奉贤巴士	shàng;ba hǎi;dm fèng;if xián;lb bā;sl shì;ua	100
-上海佛学书局	shàng;ba hǎi;dm fó;rf xué;xz shū;vd jú;uk	100
-上海复旦大学	shàng;ba hǎi;dm fù;pw dàn;oa dà;ar xué;xz	100
-上海复旦张江	shàng;ba hǎi;dm fù;pw dàn;oa zhāng;gi jiāng;dg	100
-上海高速公路	shàng;ba hǎi;dm gāo;wk sù;zu gōng;bs lù;zk	100
-上海格致中学	shàng;ba hǎi;dm gé;ak zhì;gw zhōng;kl xué;xz	100
-上海公共租界	shàng;ba hǎi;dm gōng;bs gòng;cb zū;hq jiè;tj	100
-上海公兴搬场	shàng;ba hǎi;dm gōng;bs xīng;xb bān;fu chǎng;tp	100
-上海公用事业	shàng;ba hǎi;dm gōng;bs yòng;kf,ol shì;gy yè;la	100
-上海孤岛时期	shàng;ba hǎi;dm gū;zg dǎo;nu shí;to qī;co	100
-上海古籍书店	shàng;ba hǎi;dm gǔ;uk jí;vo shū;vd diàn;gv	100
-上海冠生园队	shàng;ba hǎi;dm guān;bc shēng;pf yuán;wy duì;er	100
-上海广电大厦	shàng;ba hǎi;dm guǎng;di diàn;ov,yv dà;ar shà;iw	100
-上海广电集团	shàng;ba hǎi;dm guǎng;di diàn;ov,yv jí;ra tuán;wc	100
-上海广方言馆	shàng;ba hǎi;dm guǎng;di fāng;wv yán;wk guǎn;ul	100
-上海光华大学	shàng;ba hǎi;dm guāng;xe huá;ru dà;ar xué;xz	100
-上海硅酸盐所	shàng;ba hǎi;dm guī;ut suān;yw yán;tm suǒ;ht	100
-上海国际花展	shàng;ba hǎi;dm guó;wy jì;eu huā;cb zhǎn;uy	100
-上海国际影展	shàng;ba hǎi;dm guó;wy jì;eu yǐng;op zhǎn;uy	100
-上海海事大学	shàng;ba hǎi;dm hǎi;dm shì;gy dà;ar xué;xz	100
-上海海事法院	shàng;ba hǎi;dm hǎi;dm shì;gy fǎ;dq yuàn;ey	100
-上海汉霸机电	shàng;ba hǎi;dm hàn;dy bà;yo jī;aj diàn;ov,yv	100
-上海和黄白猫	shàng;ba hǎi;dm hé;hk huáng;cb bái;po māo;qt	100
-上海华峰超纤	shàng;ba hǎi;dm huá;ru fēng;uf chāo;tk xiān;sq	100
-上海华信证券	shàng;ba hǎi;dm huá;ru xìn;rk zhèng;yv quàn;jd	100
-上海华谊集团	shàng;ba hǎi;dm huá;ru yì;yq jí;ra tuán;wc	100
-上海环贸广场	shàng;ba hǎi;dm huán;wb mào;pb guǎng;di chǎng;tp	100
-上海火车北站	shàng;ba hǎi;dm huǒ;br,rb chē;au běi;lb zhàn;lv	100
-上海机电股份	shàng;ba hǎi;dm jī;aj diàn;ov,yv gǔ;ou fèn;rf	100
-上海基督教史	shàng;ba hǎi;dm jī;ct dū;uo jiào;lw shǐ;kn	100
-上海级护卫艇	shàng;ba hǎi;dm jí;sj hù;fh wèi;ea tǐng;vw	100
-上海暨南大学	shàng;ba hǎi;dm jì;gd nán;ug dà;ar xué;xz	100
-上海集优机械	shàng;ba hǎi;dm jí;ra yōu;ry jī;aj xiè;ac	100
-上海嘉定城发	shàng;ba hǎi;dm jiā;tk dìng;bz chéng;ti fā;fy	100
-上海佳豪船舶	shàng;ba hǎi;dm jiā;rt háo;wu chuán;vk bó;vb	100
-上海家化品牌	shàng;ba hǎi;dm jiā;bu huà;rb pǐn;kk pái;pu	100
-伤害减到最小	shāng;rl hài;bk jiǎn;dk dào;gd zuì;oy xiǎo;lb	100
-上海建桥学院	shàng;ba hǎi;dm jiàn;zy qiáo;al xué;xz yuàn;ey	100
 伤害降到最低	shāng;rl hài;bk jiàng;ef dào;gd zuì;oy dī;ru	100
-上海江湾机场	shàng;ba hǎi;dm jiāng;dg wān;dg jī;aj chǎng;tp	100
-上海交大附中	shàng;ba hǎi;dm jiāo;wf dà;ar fù;ec zhōng;kl	100
-上海交大排名	shàng;ba hǎi;dm jiāo;wf dà;ar pái;ff míng;xk	100
-上海锦江饭店	shàng;ba hǎi;dm jǐn;jj jiāng;dg fàn;uy diàn;gv	100
-上海锦江酒店	shàng;ba hǎi;dm jǐn;jj jiāng;dg jiǔ;dy diàn;gv	100
-上海金茂大厦	shàng;ba hǎi;dm jīn;rb mào;cg dà;ar shà;iw	100
-上海静安大火	shàng;ba hǎi;dm jìng;fy ān;bn dà;ar huǒ;br,rb	100
-上海久联证券	shàng;ba hǎi;dm jiǔ;pn lián;et zhèng;yv quàn;jd	100
-上海久事大厦	shàng;ba hǎi;dm jiǔ;pn shì;gy dà;ar shà;iw	100
-上海久事公司	shàng;ba hǎi;dm jiǔ;pn shì;gy gōng;bs sī;vk	100
-上海久事集团	shàng;ba hǎi;dm jiǔ;pn shì;gy jí;ra tuán;wc	100
 伤害就是伤害	shāng;rl hài;bk jiù;wy shì;oz shāng;rl hài;bk	100
-上海均瑶集团	shàng;ba hǎi;dm jūn;ty yáo;wf jí;ra tuán;wc	100
-上海军医大学	shàng;ba hǎi;dm jūn;bi yī;ku dà;ar xué;xz	100
-上海砍人事件	shàng;ba hǎi;dm kǎn;uq rén;pn shì;gy jiàn;rn	100
-上海科技馆站	shàng;ba hǎi;dm kē;hd jì;fv guǎn;ul zhàn;lv	100
-上海科技人物	shàng;ba hǎi;dm kē;hd jì;fv rén;pn wù;nw	100
-上海力宝广场	shàng;ba hǎi;dm lì;vp bǎo;by guǎng;di chǎng;tp	100
-上海立达学院	shàng;ba hǎi;dm lì;wb dá;zd xué;xz yuàn;ey	100
-上海丽都花园	shàng;ba hǎi;dm lì;ad dū;le huā;cb yuán;wy	100
-上海联影医疗	shàng;ba hǎi;dm lián;et yǐng;op yī;ku liáo;bl	100
-上海良友集团	shàng;ba hǎi;dm liáng;dg yǒu;uy jí;ra tuán;wc	100
-上海烈士陵园	shàng;ba hǎi;dm liè;dh shì;ua líng;ew yuán;wy	100
-上海龙华庙会	shàng;ba hǎi;dm lóng;yp huá;ru miào;gy huì;ry	100
-上海路立交桥	shàng;ba hǎi;dm lù;zk lì;wb jiāo;wf qiáo;al	100
-上海轮胎橡胶	shàng;ba hǎi;dm lún;il tāi;ok xiàng;au jiāo;of	100
-上海绿地申花	shàng;ba hǎi;dm lǜ;su dì;ty shēn;ol,yl huā;cb	100
-上海绿谷制药	shàng;ba hǎi;dm lǜ;su gǔ;bk zhì;nd yào;cu	100
-上海旅游景点	shàng;ba hǎi;dm lǚ;fy yóu;dz jǐng;ox diǎn;vh	100
-上海美术大展	shàng;ba hǎi;dm měi;yd shù;ad dà;ar zhǎn;uy	100
-上海沐瞳科技	shàng;ba hǎi;dm mù;da tóng;ol kē;hd jì;fv	100
-上海南北高架	shàng;ba hǎi;dm nán;ug běi;lb gāo;wk jià;la	100
-上海南洋大学	shàng;ba hǎi;dm nán;ug yáng;dy dà;ar xué;xz	100
-上海南洋公学	shàng;ba hǎi;dm nán;ug yáng;dy gōng;bs xué;xz	100
-上海南洋中学	shàng;ba hǎi;dm nán;ug yáng;dy zhōng;kl xué;xz	100
-上海农商银行	shàng;ba hǎi;dm nóng;by shāng;wk yín;jg háng;rd	100
-上海女子图鉴	shàng;ba hǎi;dm nǚ;va zǐ;la tú;wd jiàn;lj	100
-上海牌照拍卖	shàng;ba hǎi;dm pái;pu zhào;oh pāi;fb mài;ud	100
-上海浦东中邦	shàng;ba hǎi;dm pǔ;df dōng;ax zhōng;kl bāng;fe	100
-上海钱业公会	shàng;ba hǎi;dm qián;jj yè;la gōng;bs huì;ry	100
-上海绕城高速	shàng;ba hǎi;dm rào;sw chéng;ti gāo;wk sù;zu	100
-上海仁济医院	shàng;ba hǎi;dm rén;re jì;dq yī;ku yuàn;ey	100
-上海如心文化	shàng;ba hǎi;dm rú;nk xīn;dd wén;wx huà;rb	100
-上海三联书店	shàng;ba hǎi;dm sān;ae lián;et shū;vd diàn;gv	100
-上海三枪集团	shàng;ba hǎi;dm sān;ae qiāng;av jí;ra tuán;wc	100
-上海杉达学院	shàng;ba hǎi;dm shān;ap dá;zd xué;xz yuàn;ey	100
-上海商科大学	shàng;ba hǎi;dm shāng;wk kē;hd dà;ar xué;xz	100
-上海尚世影业	shàng;ba hǎi;dm shàng;xk shì;cv yǐng;op yè;la	100
-上海商务中心	shàng;ba hǎi;dm shāng;wk wù;wl zhōng;kl xīn;dd	100
-上海申迪集团	shàng;ba hǎi;dm shēn;ol,yl dí;zy jí;ra tuán;wc	100
-上海申花历史	shàng;ba hǎi;dm shēn;ol,yl huā;cb lì;il shǐ;kn	100
-上海申花联盛	shàng;ba hǎi;dm shēn;ol,yl huā;cb lián;et shèng;im	100
-上海申花球员	shàng;ba hǎi;dm shēn;ol,yl huā;cb qiú;wq yuán;kb	100
-上海申花数据	shàng;ba hǎi;dm shēn;ol,yl huā;cb shù;mw jù;fg	100
 伤害身体健康	shāng;rl hài;bk shēn;zc tǐ;rb jiàn;ry kāng;gl	100
-上海申鑫球员	shàng;ba hǎi;dm shēn;ol,yl xīn;jj qiú;wq yuán;kb	100
-上海圣三一堂	shàng;ba hǎi;dm shèng;yt sān;ae yì;aa táng;xt	100
-上海师范大学	shàng;ba hǎi;dm shī;lj fàn;cv dà;ar xué;xz	100
-上海师范学院	shàng;ba hǎi;dm shī;lj fàn;cv xué;xz yuàn;ey	100
-上海石化总厂	shàng;ba hǎi;dm shí;ak huà;rb zǒng;bx chǎng;ap	100
-上海世纪出版	shàng;ba hǎi;dm shì;cv jì;sj chū;uu bǎn;py	100
-上海世纪大道	shàng;ba hǎi;dm shì;cv jì;sj dà;ar dào;zz	100
-上海世纪广场	shàng;ba hǎi;dm shì;cv jì;sj guǎng;di chǎng;tp	100
-上海世贸商城	shàng;ba hǎi;dm shì;cv mào;pb shāng;wk chéng;ti	100
-上海食品公司	shàng;ba hǎi;dm shí;rg pǐn;kk gōng;bs sī;vk	100
-上海实业集团	shàng;ba hǎi;dm shí;bd yè;la jí;ra tuán;wc	100
-上海实业控股	shàng;ba hǎi;dm shí;bd yè;la kòng;fg gǔ;ou	100
-上海石油化工	shàng;ba hǎi;dm shí;ak yóu;dy huà;rb gōng;aa	100
 伤害输出能力	shāng;rl hài;bk shū;id chū;uu néng;sb lì;vp	100
-上海四季酒店	shàng;ba hǎi;dm sì;we jì;hz jiǔ;dy diàn;gv	100
-上海体育馆站	shàng;ba hǎi;dm tǐ;rb yù;wo guǎn;ul zhàn;lv	100
-上海天玑科技	shàng;ba hǎi;dm tiān;ad jī;wj kē;hd jì;fv	100
-上海天主教堂	shàng;ba hǎi;dm tiān;ad zhǔ;wt jiào;lw táng;xt	100
-上海同济医院	shàng;ba hǎi;dm tóng;kk jì;dq yī;ku yuàn;ey	100
-上海同仁医院	shàng;ba hǎi;dm tóng;kk rén;re yī;ku yuàn;ey	100
-上海同文书院	shàng;ba hǎi;dm tóng;kk wén;wx shū;vd yuàn;ey	100
-上海通轩实业	shàng;ba hǎi;dm tōng;zy xuān;ig shí;bd yè;la	100
-上海图书馆站	shàng;ba hǎi;dm tú;wd shū;vd guǎn;ul zhàn;lv	100
-上海外环高速	shàng;ba hǎi;dm wài;xb huán;wb gāo;wk sù;zu	100
-上海万国公墓	shàng;ba hǎi;dm wàn;av guó;wy gōng;bs mù;ct	100
-上海万国商团	shàng;ba hǎi;dm wàn;av guó;wy shāng;wk tuán;wc	100
-上海宛平剧院	shàng;ba hǎi;dm wǎn;bv píng;au jù;ud yuàn;ey	100
-上海维西公司	shàng;ba hǎi;dm wéi;sv xī;ak,wk gōng;bs sī;vk	100
-上海文广演艺	shàng;ba hǎi;dm wén;wx guǎng;di yǎn;db yì;cv	100
-上海文明书局	shàng;ba hǎi;dm wén;wx míng;oo shū;vd jú;uk	100
-上海无轨电车	shàng;ba hǎi;dm wú;ay guǐ;ij diàn;ov,yv chē;au	100
-上海西岸开发	shàng;ba hǎi;dm xī;ak,wk àn;ug kāi;ac fā;fy	100
-上海西郊宾馆	shàng;ba hǎi;dm xī;ak,wk jiāo;we bīn;bb guǎn;ul	100
-上海西郊公园	shàng;ba hǎi;dm xī;ak,wk jiāo;we gōng;bs yuán;wy	100
-上海小红楼案	shàng;ba hǎi;dm xiǎo;lb hóng;sg lóu;an àn;ba	100
-上海刑事案件	shàng;ba hǎi;dm xíng;kd shì;gy àn;ba jiàn;rn	100
-上海兴伟学院	shàng;ba hǎi;dm xīng;xb wěi;rw xué;xz yuàn;ey	100
-上海延安饭店	shàng;ba hǎi;dm yán;zv ān;bn fàn;uy diàn;gv	100
-上海姚记扑克	shàng;ba hǎi;dm yáo;nv jì;yj pū;fb kè;ux,ge	100
-上海耀皮玻璃	shàng;ba hǎi;dm yào;gv pí;py bō;wp li;wn	100
-上海仪电电子	shàng;ba hǎi;dm yí;ry diàn;ov,yv diàn;ov,yv zǐ;la	100
-上海仪电控股	shàng;ba hǎi;dm yí;ry diàn;ov,yv kòng;fg gǔ;ou	100
-伤害已经造成	shāng;rl hài;bk yǐ;kv jīng;sj zào;zk chéng;gv	100
-上海医科大学	shàng;ba hǎi;dm yī;ku kē;hd dà;ar xué;xz	100
-上海异人娼馆	shàng;ba hǎi;dm yì;sc rén;pn chāng;no guǎn;ul	100
-上海一网通办	shàng;ba hǎi;dm yī;aa wǎng;kx tōng;zy bàn;lb	100
-上海影评人奖	shàng;ba hǎi;dm yǐng;op píng;yp rén;pn jiǎng;ld	100
-上海永福园陵	shàng;ba hǎi;dm yǒng;du fú;pt yuán;wy líng;ew	100
-上海永利带业	shàng;ba hǎi;dm yǒng;du lì;hd dài;cj yè;la	100
-上海邮电医院	shàng;ba hǎi;dm yóu;ye diàn;ov,yv yī;ku yuàn;ey	100
-上海邮通科技	shàng;ba hǎi;dm yóu;ye tōng;zy kē;hd jì;fv	100
-上海有线电视	shàng;ba hǎi;dm yǒu;uo xiàn;sj diàn;ov,yv shì;pj	100
-上海游泳馆站	shàng;ba hǎi;dm yóu;dz yǒng;dy guǎn;ul zhàn;lv	100
-上海源甲餐饮	shàng;ba hǎi;dm yuán;dx jiǎ;ol,tl cān;dg yǐn;uq	100
-上海远洋宾馆	shàng;ba hǎi;dm yuǎn;zy yáng;dy bīn;bb guǎn;ul	100
-上海振华重工	shàng;ba hǎi;dm zhèn;fi huá;ru zhòng;ql gōng;aa	100
-上海针织九厂	shàng;ba hǎi;dm zhēn;ju zhī;sv jiǔ;pv chǎng;ap	100
-上海政法学院	shàng;ba hǎi;dm zhèng;vw fǎ;dq xué;xz yuàn;ey	100
-上海置地广场	shàng;ba hǎi;dm zhì;sq dì;ty guǎng;di chǎng;tp	100
-上海支援全国	shàng;ba hǎi;dm zhī;uy yuán;fy quán;rw guó;wy	100
-上海中国画院	shàng;ba hǎi;dm zhōng;kl guó;wy huà;at yuàn;ey	100
-上海中学东校	shàng;ba hǎi;dm zhōng;kl xué;xz dōng;ax xiào;af	100
 伤寒和副伤寒	shāng;rl hán;bd hé;hk fù;ad shāng;rl hán;bd	100
 伤寒沙门氏菌	shāng;rl hán;bd shā;du mén;dv shì;pv jūn;ch	100
 伤寒十居其七	shāng;rl hán;bd shí;al jū;ug qí;cb qī;av	100
@@ -181292,7 +181104,6 @@ sort: by_weight
 打开天窗说亮话	dǎ;fd kāi;ac tiān;ad chuāng;bw shuō;yx liàng;wj huà;yu	100
 打开网络适配器	dǎ;fd kāi;ac wǎng;kx luò;sk shì;zu pèi;yj qì;kk	100
 打开新世界大门	dǎ;fd kāi;ac xīn;lt shì;cv jiè;tj dà;ar mén;dv	100
-打开资源管理器	dǎ;fd kāi;ac zī;db yuán;dx guǎn;vl lǐ;wl qì;kk	100
 达克二氏颅骨钳	dá;zd kè;ux,ge èr;aa shì;pv lú;by gǔ;go qián;jg	100
 大颗粒淋巴细胞	dà;ar kē;gy lì;ml lín;da bā;sl xì;st bāo;ob	100
 达克罗宁胶浆剂	dá;zd kè;ux,ge luó;sx níng;bd jiāo;of jiāng;lu jì;qd	100
