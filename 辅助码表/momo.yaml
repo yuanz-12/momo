@@ -1759,7 +1759,7 @@ sort: by_weight
 苄	biàn;cb	395
 砭	biān;uf	394
 鳊	biān;yc	368
-釆	biàn;va	322
+釆	biàn;pm	322
 辯	biàn;xk	302
 昪	biàn;oc	293
 貶	biǎn;bf	289
@@ -4530,6 +4530,7 @@ sort: by_weight
 重	chóng;ql	747
 冲	chōng;dv	720
 虫	chóng;vd	657
+虫	huǐ;vd	100
 宠	chǒng;bl	637
 崇	chóng;uu	635
 憧	chōng;xl	509
@@ -31224,7 +31225,7 @@ sort: by_weight
 任	rèn;rw	799
 认	rèn;yr	792
 仁	rén;re	676
-忍	rěn;rx	672
+忍	rěn;dx	672
 饪	rèn;uw	586
 韧	rèn;wr	583
 刃	rèn;dd	562
