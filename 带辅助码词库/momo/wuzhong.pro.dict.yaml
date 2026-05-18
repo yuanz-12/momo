@@ -2160,7 +2160,7 @@ sort: by_weight
 冠蚌属	guān;bc bàng;if shǔ;uy	94
 冠鹎属	guān;bc bēi;pn shǔ;uy	71
 管唇鱼	guǎn;vl chún;ik yú;da	82
-冠带鱼	guàn;bc dài;cj yú;da	67
+冠带鱼	guān;bc dài;cj yú;da	67
 冠鲽科	guān;bc dié;ya kē;hd	54
 冠鲽属	guān;bc dié;ya shǔ;uy	84
 管萼科	guǎn;vl è;ck kē;hd	86
@@ -14559,7 +14559,7 @@ sort: by_weight
 高原鱼属	gāo;wk yuán;ix yú;da shǔ;uy	6
 藁趾虎科	gǎo;ca zhǐ;zv hǔ;hj kē;hd	7
 高志龙属	gāo;wk zhì;tx lóng;yp shǔ;uy	8
-高知鲈属	gāo;wk zhì;uk lú;yu shǔ;uy	6
+高知鲈属	gāo;wk zhī;uk lú;yu shǔ;uy	6
 高柱花科	gāo;wk zhù;av huā;cb kē;hd	6
 高柱花属	gāo;wk zhù;av huā;cb shǔ;uy	8
 革鞍螨属	gé;cu ān;cn mǎn;il shǔ;uy	8
@@ -15096,9 +15096,9 @@ sort: by_weight
 管唇鱼属	guǎn;vl chún;ik yú;da shǔ;uy	6
 冠刺蛾属	guān;bc cì;ud é;iw shǔ;uy	6
 灌丛蜥属	guàn;dv cóng;ra xī;it shǔ;uy	5
-冠带鲉属	guàn;bc dài;cj yóu;yy shǔ;uy	5
-冠带鱼科	guàn;bc dài;cj yú;da kē;hd	6
-冠带鱼属	guàn;bc dài;cj yú;da shǔ;uy	6
+冠带鲉属	guān;bc dài;cj yóu;yy shǔ;uy	5
+冠带鱼科	guān;bc dài;cj yú;da kē;hd	6
+冠带鱼属	guān;bc dài;cj yú;da shǔ;uy	6
 冠盗龙属	guān;bc dào;dm lóng;yp shǔ;uy	7
 管点扁鱼	guǎn;vl diǎn;vh biǎn;hc yú;da	6
 管洞贝科	guǎn;vl dòng;dk bèi;kr kē;hd	7
@@ -33317,7 +33317,7 @@ sort: by_weight
 针杆藻属	zhēn;ju gān;ag zǎo;ca shǔ;uy	12
 真肛参科	zhēn;ub gāng;og cān;sp kē;hd	7
 真革螨属	zhēn;ub gé;cu mǎn;il shǔ;uy	7
-真冠带鱼	zhēn;ub guàn;bc dài;cj yú;da	6
+真冠带鱼	zhēn;ub guān;bc dài;cj yú;da	6
 真管螺属	zhēn;ub guǎn;vl luó;ix shǔ;uy	4
 针果芹属	zhēn;ju guǒ;ta qín;ct shǔ;uy	12
 真海豚属	zhēn;ub hǎi;dm tún;ou shǔ;uy	7
@@ -34539,8 +34539,8 @@ sort: by_weight
 阿兰达甲鱼	ā;ek lán;bs dá;zd jiǎ;ol,tl yú;da	1
 阿里彩蝇属	ā;ek lǐ;tt cǎi;vp yíng;id shǔ;uy	1
 阿里欧雅鱼	ā;ek lǐ;tt ōu;qq yǎ;yv yú;da	1
+阿马加龙属	ā;ek mǎ;va gā;lk lóng;yp shǔ;uy	1
 阿玛加鳄属	ā;ek mǎ;wm jiā;lk è;yk shǔ;uy	1
-阿马加龙属	ā;ek mǎ;va jiā;lk lóng;yp shǔ;uy	1
 阿马帕兵鲶	ā;ek mǎ;va pà;jb bīng;qb nián;yx	1
 阿玛斯龙属	ā;ek mǎ;wm sī;ct lóng;yp shǔ;uy	1
 阿迈喀鳉属	ā;ek mài;zw kā;kk jiāng;yc shǔ;uy	1
@@ -35018,7 +35018,7 @@ sort: by_weight
 凹片叶蝉属	āo;la,ka piàn;pv yè;ku chán;iu shǔ;uy	1
 奥泊灰蝶属	ào;pd pō;db huī;uh dié;ia shǔ;uy	1
 凹鳍柄竺鲷	āo;la,ka qí;yo bǐng;an zhú;ve diāo;yk	1
-凹鳍冠带鱼	āo;la,ka qí;yo guàn;bc dài;cj yú;da	1
+凹鳍冠带鱼	āo;la,ka qí;yo guān;bc dài;cj yú;da	1
 凹鳍绵鳚属	āo;la,ka qí;yo mián;sj wèi;yc shǔ;uy	1
 凹鳍牛尾鱼	āo;la,ka qí;yo niú;pu wěi;um yú;da	1
 奥芮氏菌属	ào;pd ruì;cn shì;pv jūn;ch shǔ;uy	1
@@ -42393,7 +42393,7 @@ sort: by_weight
 高原线虫草	gāo;wk yuán;ix xiàn;sj chóng;vd cǎo;cu	1
 高云束腰蟹	gāo;wk yún;ag,es shù;gr yāo;on xiè;di	1
 高掌折颚蟹	gāo;wk zhǎng;xu zhé;ft è;ky xiè;di	1
-高知锯鳞鱼	gāo;wk zhì;uk jù;jg lín;yf yú;da	1
+高知锯鳞鱼	gāo;wk zhī;uk jù;jg lín;yf yú;da	1
 高止山蟹属	gāo;wk zhǐ;bl,lu shān;kl xiè;di shǔ;uy	1
 高株鹅观草	gāo;wk zhū;aw é;wn guān;yj cǎo;cu	1
 高足杯虫属	gāo;wk zú;kz bēi;ab chóng;vd shǔ;uy	1
@@ -47763,7 +47763,7 @@ sort: by_weight
 拉氏短枝鲶	lā;fl shì;pv duǎn;ub zhī;av nián;yx	1
 拉氏多鳍鱼	lā;fl shì;pv duō;xx qí;yo yú;da	1
 拉氏杆菌属	lā;fl shì;pv gǎn;ag jūn;ch shǔ;uy	1
-拉氏冠带鱼	lā;fl shì;pv guàn;bc dài;cj yú;da	1
+拉氏冠带鱼	lā;fl shì;pv guān;bc dài;cj yú;da	1
 拉氏红娘鱼	lā;fl shì;pv hóng;sg niáng;nl yú;da	1
 拉氏红眼鱼	lā;fl shì;pv hóng;sg yǎn;og yú;da	1
 拉氏棘花鮨	lā;fl shì;pv jí;uu huā;cb yì;yo	1
@@ -60876,7 +60876,7 @@ sort: by_weight
 贞丰蹄盖蕨	zhēn;bb fēng;sl,al tí;zj gài;ym jué;cq	1
 真副狮子鱼	zhēn;ub fù;ad shī;qj zi;la yú;da	1
 针杆菊石属	zhēn;ju gān;ag jú;cm shí;ak shǔ;uy	1
-真冠带鱼属	zhēn;ub guàn;bc dài;cj yú;da shǔ;uy	1
+真冠带鱼属	zhēn;ub guān;bc dài;cj yú;da shǔ;uy	1
 真管缨虫属	zhēn;ub guǎn;vl yīng;sn chóng;vd shǔ;uy	1
 针盒珊瑚属	zhēn;ju hé;rm shān;wc hú;wo shǔ;uy	1
 真厚角石属	zhēn;ub hòu;iz jiǎo;dy shí;ak shǔ;uy	1
@@ -61927,9 +61927,9 @@ sort: by_weight
 阿留西亚螳属	ā;ek liú;pt xī;ak,wk yà;ay táng;it shǔ;uy	1
 阿鲁达巨龙属	ā;ek lǔ;yo dá;zd jù;kk lóng;yp shǔ;uy	1
 阿卢恩光唇鱼	ā;ek lú;bu ēn;yx guāng;xe chún;ik yú;da	1
+阿马加巨龙属	ā;ek mǎ;va gā;lk jù;kk lóng;yp shǔ;uy	1
 阿马格巨龙属	ā;ek mǎ;va gé;ak jù;kk lóng;yp shǔ;uy	1
 阿马河兔脂鲤	ā;ek mǎ;va hé;dk tù;dd zhī;oo lǐ;yl	1
-阿马加巨龙属	ā;ek mǎ;va jiā;lk jù;kk lóng;yp shǔ;uy	1
 阿玛瘤尾虎属	ā;ek mǎ;wm liú;bt wěi;um hǔ;hj shǔ;uy	1
 阿马隆魮脂鲤	ā;ek mǎ;va lóng;eu pí;yb zhī;oo lǐ;yl	1
 阿玛裸眼蜥属	ā;ek mǎ;wm luǒ;pg yǎn;og xī;it shǔ;uy	1
