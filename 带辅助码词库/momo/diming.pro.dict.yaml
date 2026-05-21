@@ -33183,9 +33183,6 @@ sort: by_weight
 阁老峪村	gé;mk lǎo;lb yù;ug cūn;ac	1
 革勒车乡	gé;cu lè;cl chē;au xiāng;vp	1
 革勒车镇	gé;cu lè;cl chē;au zhèn;jb	1
-歌乐山村	gē;kq lè;px shān;kl cūn;ac	1
-歌乐山镇	gē;kq lè;px shān;kl zhèn;jb	1
-歌乐沱乡	gē;kq lè;px tuó;db xiāng;vp	1
 格里坪镇	gé;ak lǐ;tt píng;tp zhèn;jb	1
 葛礼瓦镇	gé;cr lǐ;pv wǎ;ad zhèn;jb	1
 格林街道	gé;ak lín;aa jiē;rt dào;zz	1
@@ -33239,6 +33236,9 @@ sort: by_weight
 隔洋塘村	gé;eg yáng;dy táng;tk cūn;ac	1
 葛崾岘乡	gé;cr yǎo;un xiàn;uj xiāng;vp	1
 葛渔城镇	gé;cr yú;dy chéng;ti zhèn;jb	1
+歌乐山村	gē;kq yuè;px shān;kl cūn;ac	1
+歌乐山镇	gē;kq yuè;px shān;kl zhèn;jb	1
+歌乐沱乡	gē;kq yuè;px tuó;db xiāng;vp	1
 革镇堡镇	gé;cu zhèn;jb bǎo;rt zhèn;jb	1
 圪针梁村	gē;tv zhēn;ju liáng;da cūn;ac	1
 格针庙村	gé;ak zhēn;ju miào;gy cūn;ac	1
@@ -65262,13 +65262,13 @@ sort: by_weight
 高寨子街道	gāo;wk zhài;ba zi;la jiē;rt dào;zz	1
 葛店开发区	gé;cr diàn;gv kāi;ac fā;fy qū;kx	1
 葛家满族乡	gé;cr jiā;bu mǎn;dl zú;fu xiāng;vp	1
-歌乐山街道	gē;kq lè;px shān;kl jiē;rt dào;zz	1
 格球山农场	gé;ak qiú;wq shān;kl nóng;by chǎng;tp	1
 格日僧苏木	gé;ak rì;wa sēng;ro sū;cb mù;ur
 各苏木乡镇	gè;wk sū;cb mù;ur xiāng;vp zhèn;jb	1
 各塔埠街道	gè;wk tǎ;tk bù;tu jiē;rt dào;zz	1
 各乡镇街道	gè;wk xiāng;vp zhèn;jb jiē;rt dào;zz	1
 革新街街道	gé;cu xīn;lt jiē;rt jiē;rt dào;zz	1
+歌乐山街道	gē;kq yuè;px shān;kl jiē;rt dào;zz	1
 革镇堡街道	gé;cu zhèn;jb bǎo;rt jiē;rt dào;zz	1
 葛洲坝街道	gé;cr zhōu;dv bà;tb jiē;rt dào;zz	1
 根德营子乡	gēn;ag dé;rx yíng;ck zi;la xiāng;vp	1
