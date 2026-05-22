@@ -32197,6 +32197,7 @@ cháng shēng wú dé zhě	长生无得者
 cháng shí bǎi liáng yàn	常时柏梁宴
 cháng shì běi rén pān	长是北人攀
 cháng shì chuán huā zhào	常侍传花诏
+cháng shǐ dào lù píng	长使道路平
 cháng shí dì zǐ chuán	常时弟子传
 cháng shí fù péng hēng	常时腹彭亨
 cháng shì hàn jiā qīn	长是汉家亲
@@ -32206,8 +32207,10 @@ cháng shí jiē xiàn chóu	常时接献酬
 cháng shí jīn lǐ shù	常时矜礼数
 cháng shì lǎn xié qù	长是懒携去
 cháng shī liǎng háng tí	长湿两行啼
+cháng shǐ lìng dé quán	长使令德全
 cháng shí lù qiě báo	常时禄且薄
 cháng shǐ mín wú zhī	常使民无知
+cháng shǐ qí ān rén	长使齐安人
 cháng shì rén qiān lǐ	长是人千里
 cháng shí rèn xiǎn huì	常时任显晦
 chāng shī rú gāo miàn	昌诗如膏面
@@ -32220,6 +32223,7 @@ cháng shí xū fú mǎ	长时须拂马
 cháng shí yǎng yīng máo	常时仰英髦
 cháng shì yǔ jūn móu	尝试与君谋
 cháng shì yǔ xié lái	尝试与偕来
+cháng shǐ yuè lún kōng	长使月轮空
 cháng shí zān zǔ lèi	常时簪组累
 cháng shì zhāo yáng diàn	长侍昭阳殿
 cháng shòu dài wèi míng	长寿带为名
@@ -134423,7 +134427,7 @@ qiū yǔ dài chóng shēng	秋雨带虫声
 qiū yǔ gū pú shēn	秋雨菰蒲深
 qiú yù guān duǒ yí	求誉观朵颐
 qiū yǔ huāng lí jú	秋雨荒篱菊
-qiū yǔ jīng sān sù	秋雨经三宿
+qiū yǔ jīng sān xiǔ	秋雨经三宿
 qiū yǔ lí qíng dòng	秋雨离情动
 qiū yǔ màn xiāng shuǐ	秋雨漫湘水
 qiū yù níng xiān lǎn	秋豫凝仙览
@@ -142192,7 +142196,7 @@ sāng tián chéng hǎi shuǐ	桑田成海水
 sāng tián dōng hǎi biàn	桑田东海变
 sāng tián rú kě jiàn	桑田如可见
 sāng xià wèn páng gōng	桑下问庞公
-sāng xià zhù sān sù	桑下住三宿
+sāng xià zhù sān xiǔ	桑下住三宿
 sāng xuán zuó rì hú	桑悬昨日弧
 sāng yáng yǐ líng luò	桑杨已零落
 sāng yě cán máng shí	桑野蚕忙时
@@ -161495,7 +161499,7 @@ tā nián mǎi shān chù	他年买山处
 tā nián pí sān cùn	他年皮三寸
 tā nián qǐng shàng fāng	他年请尚方
 tā nián rú rù luò	他年如入洛
-tā nián sān sù chù	他年三宿处
+tā nián sān xiǔ chù	他年三宿处
 tā nián shì gù rén	他年是故人
 tā nián shuí gǎi zhù	他年谁改筑
 tā nián wàn qí guī	他年万骑归
@@ -198490,7 +198494,7 @@ yě sì gēn shí bì	野寺根石壁
 yě sì huāng tái wǎn	野寺荒台晚
 yě sì jiāng chéng jìn	野寺江城近
 yě sì jiāng tiān huō	野寺江天豁
-yě sì jīng sān sù	野寺经三宿
+yě sì jīng sān xiǔ	野寺经三宿
 yè sì jìng zhōng méi	叶似镜中眉
 yě sī kàn qīng fēng	野思看青枫
 yě sì lái rén shǎo	野寺来人少
@@ -219614,12 +219618,8 @@ zhǎng shàng chū jiào wǔ	掌上初教舞
 zhǎng shàng xīng chū mǎn	掌上星初满
 zhàng shēn wén dào wǎn	障深闻道晚
 zhāng shēng nán míng péng	章生南溟鹏
-zhǎng shǐ dào lù píng	长使道路平
 zhàng shì kě róng shēn	丈室可容身
-zhǎng shǐ lìng dé quán	长使令德全
-zhǎng shǐ qí ān rén	长使齐安人
 zhāng shī wén shèng zhì	章施文胜质
-zhǎng shǐ yuè lún kōng	长使月轮空
 zhāng shòu hú wéi zhě	章绶胡为者
 zhāng shòu xì wǒ gōng	章绶系我躬
 zhāng shuǐ bēi kě zuò	鄣水陂可作
@@ -235921,8 +235921,8 @@ sān shí bā nián guò qù	三十八年过去
 sān shí liù bēi liú shuǐ	三十六陂流水
 sān shí nián qián cǐ lù	三十年前此路
 sān shì xī bù shī yǐ	三世希不失矣
-sān sù ér hòu chū zhòu	三宿而后出昼
 sān wēi lù yǐ wéi wèi	三危露以为味
+sān xiǔ ér hòu chū zhòu	三宿而后出昼
 sān yuè bù zhī ròu wèi	三月不知肉味
 sān yuē wǔ chòu xūn bí	三曰五臭熏鼻
 sān yuè wú jūn zé diào	三月无君则吊
@@ -238604,7 +238604,7 @@ yú rén zhī wéi tú yě	与人之为徒也
 yú rén zhú ér suì zhī	虞人逐而谇之
 yǔ rì yuè xī qí guāng	与日月兮齐光
 yù sān sì cuò ér tuì	遇三四挫而退
-yǔ sān sù ér chū zhòu	予三宿而出昼
+yǔ sān xiǔ ér chū zhòu	予三宿而出昼
 yǔ sēng zhì rú yè huà	与僧智如夜话
 yǔ shān jiān zhī míng yuè	与山间之明月
 yǔ shān yǔ bú zuò ní	雨山雨不作泥
@@ -246366,17 +246366,24 @@ cháng shēng zhī hé nèi zhōng xiū	长生只合内中修
 cháng shēng zhǐ yào yì wán dān	长生只要一丸丹
 cháng shí bìng miǎn fèng tiān yán	常时并冕奉天颜
 cháng shí bù kěn rù guān fǔ	常时不肯入官府
+cháng shǐ bù zhōng bú liè chén	长使不忠不烈臣
 cháng shí dī tóu sòng jīng shǐ	常时低头诵经史
 cháng shí duō bìng yīn duō yǔ	常时多病因多雨
+cháng shǐ é méi yuàn bù qióng	长使蛾眉怨不穷
+cháng shǐ gē shī bèi guǎn xián	长使歌诗被管弦
 cháng shì jiāng lóu shǐ jūn bàn	长是江楼使君伴
 cháng shì jiāo yíng fù wén nǔ	常侍郊迎负文弩
 cháng shí liú wù yì liú yān	常时留雾亦留烟
 cháng shǐ shī rén bài huà tú	常使诗人拜画图
+cháng shǐ shuǐ fū bú yuàn tiān	长使水夫不怨天
+cháng shǐ sòng yù zuò chǔ cí	长使宋玉作楚词
 cháng shī tuō zhǐ luò qiū hé	长诗脱纸落秋河
 cháng shì wéi guǎ rén wéi zhī	尝试为寡人为之
 cháng shì wéi rǔ ér wàng tán	尝试为汝而妄谈
 cháng shí xiāng duì liǎng sān fēng	常时相对两三峰
 cháng shí yǐn jiǔ zhú fēng jǐng	常时饮酒逐风景
+cháng shǐ yīng xióng lèi mǎn jīn	长使英雄泪满襟
+cháng shǐ yīng xióng lèi zhān jīn	长使英雄泪沾襟
 cháng shí zài bǐ kuī jīn guì	常时载笔窥金匮
 cháng shòu tán chǎng jìn rì kāi	长寿坛场近日开
 cháng shū luó xiù bù chéng wǔ	长舒罗袖不成舞
@@ -293411,7 +293418,7 @@ sāng tián suī biàn dān qīng zài	桑田虽变丹青在
 sāng tián yí biàn yǐ nán xún	桑田一变已难寻
 sāng tiáo suǒ mò dòng huā fán	桑条索漠栋花繁
 sāng tiáo wú yè tǔ shēng yān	桑条无叶土生烟
-sāng xià qǐ wú sān sù liàn	桑下岂无三宿恋
+sāng xià qǐ wú sān xiǔ liàn	桑下岂无三宿恋
 sāng yè fēn fēn luò jì mén	桑叶纷纷落蓟门
 sāng yè xiān zhī hú dì qiū	桑叶先知胡地秋
 sāng yú hàn màn zhāng hé qū	桑榆汗漫漳河曲
@@ -311392,7 +311399,7 @@ xiāng xiāo sè jìn huā líng luò	香销色尽花零落
 xiāng xié chóng shàng diào yú chuán	相携重上钓鱼船
 xiāng xiè dēng guāng nài ěr hé	香灺灯光奈尔何
 xiāng xié huā xià fēi qín zhuì	相携花下非秦赘
-xiāng xié sān sù wèi huí chuán	相携三宿未回船
+xiāng xié sān xiǔ wèi huí chuán	相携三宿未回船
 xiāng xié shāo sǔn kǔ zhú sì	相携烧笋苦竹寺
 xiāng xié xíng dào shuǐ qióng chù	相携行到水穷处
 xiàng xié yáng yù yú rén qí	向斜阳欲与人齐
@@ -325676,15 +325683,8 @@ zhǎng shàng yì kē míng zhū pōu	掌上一颗明珠剖
 zhāng shēng mǎ shòu yī qiě dān	张生马瘦衣且单
 zhāng shēng shǒu chí shí gǔ wén	张生手持石鼓文
 zhàng shēng zhī jūn bǐ shēng āi	杖生芝菌笔生埃
-zhǎng shǐ bù zhōng bú liè chén	长使不忠不烈臣
-zhǎng shǐ é méi yuàn bù qióng	长使蛾眉怨不穷
-zhǎng shǐ gē shī bèi guǎn xián	长使歌诗被管弦
 zhāng shì jié dì sì shí èr	张世杰第四十二
 zhāng shì jié dì sì shí yī	张世杰第四十一
-zhǎng shǐ shuǐ fū bú yuàn tiān	长使水夫不怨天
-zhǎng shǐ sòng yù zuò chǔ cí	长使宋玉作楚词
-zhǎng shǐ yīng xióng lèi mǎn jīn	长使英雄泪满襟
-zhǎng shǐ yīng xióng lèi zhān jīn	长使英雄泪沾襟
 zhǎng shǐ yù fǔ jiē mén hù	长史玉斧皆门户
 zhāng shì yù jì shū xiāng wèn	章侍御寄书相问
 zhāng shuǐ dōng liú bì yù bō	漳水东流碧玉波
@@ -330646,6 +330646,7 @@ zǒu dù hé qiáo mǎ hàn xīn	走渡河桥马汗新
 zǒu fǎng chuán chuāng liǔ yǐng zhōng	走访船窗柳影中
 zǒu guò chè diàn qīng chéng zhī	走过掣电倾城知
 zōu jì bù rú xú gōng měi	邹忌不如徐公美
+zōu jì fěng qí wáng nà jiàn	邹忌讽齐王纳谏
 zòu jiǔ gē ér wǔ sháo xī	奏九歌而舞韶兮
 zǒu lì xuān lái shuǐ yā shěn	走吏喧来水鸭沈
 zòu lùn yàn sǐ wù dāng shè	奏论谳死误当赦

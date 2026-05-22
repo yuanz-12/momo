@@ -5672,6 +5672,8 @@ sort: by_weight
 不被人认可	bú;ab bèi;pp rén;pn rèn;yr kě;dk	100
 不被人重视	bú;ab bèi;pp rén;pn zhòng;ql shì;pj	100
 不被人注意	bú;ab bèi;pp rén;pn zhù;dv yì;lx	100
+不卑也不亢	bù;ab bēi;pu yě;vv bú;ab kàng;wj	100
+不卑也不亢	bù;ab bēi;pu yě;vv bú;ab kàng;wj	100
 不比别人差	bù;ab bǐ;bb bié;kd rén;pn chà;yg	100
 不比不知道	bù;ab bǐ;bb bù;ab zhī;uk dào;zz	100
 不比任何人	bù;ab bǐ;bb rèn;rw hé;rk rén;pn	100
@@ -5700,8 +5702,10 @@ sort: by_weight
 补偿计数管	bǔ;pb cháng;ry jì;yu shù;mw guǎn;vl	100
 步长脑心通	bù;vu cháng;pn nǎo;ox xīn;dd tōng;zy	100
 补偿性正义	bǔ;pb cháng;ry xìng;xu zhèng;av yì;dx	100
+不长也不短	bù;ab cháng;pn yě;vv bù;ab duǎn;ub	100
 补偿义务人	bǔ;pb cháng;ry yì;dx wù;wl rén;pn	100
 不超速行驶	bù;ab chāo;tk sù;zu xíng;rd shǐ;mu	100
+不吵也不闹	bù;ab chǎo;ku yě;vv bú;ab nào;mj	100
 不沉的山姆	bù;ab chén;dj de;bu shān;kl mǔ;nm	100
 不沉的太阳	bù;ab chén;dj de;bu tài;dd yáng;eo	100
 不承保资产	bù;ab chéng;ln bǎo;ra zī;db chǎn;wi	100
@@ -5728,6 +5732,7 @@ sort: by_weight
 不穿胸罩的	bù;ab chuān;by xiōng;ox zhào;su de;bu	100
 不纯氧化钴	bù;ab chún;st yǎng;qy huà;rb gǔ;jg	100
 不从国教者	bù;ab cóng;rr guó;wy jiào;lw zhě;lo	100
+不粗也不细	bù;ab cū;mq yě;vv bú;ab xì;st	100
 不存在的岛	bù;ab cún;uz zài;ut de;bu dǎo;nu	100
 不存在的爽	bù;ab cún;uz zài;ut de;bu shuǎng;dx	100
 不存在了的	bù;ab cún;uz zài;ut le;al de;bu	100
@@ -5907,6 +5912,7 @@ sort: by_weight
 部队文工团	bù;le duì;er wén;wx gōng;aa tuán;wc	100
 部队战斗力	bù;le duì;er zhàn;vg dòu;ud lì;vp	100
 部队招待所	bù;le duì;er zhāo;fk dài;rc suǒ;ht	100
+不多也不少	bù;ab duō;xx yě;vv bù;ab shǎo;xp	100
 布尔多项式	bù;uj ěr;dx duō;xx xiàng;gy shì;gg	100
 布尔基战役	bù;uj ěr;dx jī;ct zhàn;vg yì;ru	100
 布尔什维克	bù;uj ěr;dx shí;ru wéi;sv kè;ux,ge	100
@@ -5959,7 +5965,9 @@ sort: by_weight
 不敢稍逾约	bù;ab gǎn;ew shāo;ho yú;zd yuē;su	100
 不干涉主义	bù;ab gān;au shè;du zhǔ;wt yì;dx	100
 布干维尔岛	bù;uj gàn;au wéi;sv ěr;dx dǎo;nu	100
+不干也不湿	bú;ab gàn;au yě;vv bù;ab shī;dy	100
 不干预主义	bù;ab gān;au yù;yy zhǔ;wt yì;dx	100
+不高也不低	bù;ab gāo;wk yě;vv bù;ab dī;ru	100
 不高也不低	bù;ab gāo;wk yě;vv bù;ab dī;ru	100
 不给你玩了	bù;ab gěi;sk nǐ;rx wán;wy le;al	100
 不跟你玩了	bù;ab gēn;zg nǐ;rx wán;wy le;al	100
@@ -5995,6 +6003,7 @@ sort: by_weight
 不好的回忆	bù;ab hǎo;nz de;bu huí;wk yì;xv	100
 不好高骛远	bù;ab hǎo;nz gāo;wk wù;mm yuǎn;zy	100
 不好也不坏	bù;ab hǎo;nz yě;vv bú;ab huài;tb	100
+不好也不坏	bù;ab hǎo;nz yě;vv bú;ab huài;tb	100
 不好意思吃	bù;ab hǎo;nz yì;lx si;tx chī;kv	100
 不好意思哈	bù;ab hǎo;nz yì;lx si;tx hā;kk	100
 不好意思看	bù;ab hǎo;nz yì;lx si;tx kàn;uo	100
@@ -6010,6 +6019,7 @@ sort: by_weight
 不和你玩了	bù;ab hé;hk nǐ;rx wán;wy le;al	100
 不合时宜地	bù;ab hé;rk shí;to yí;bq de;ty	100
 不和我说话	bù;ab hé;hk wǒ;ga shuō;yx huà;yu	100
+不厚也不薄	bú;ab hòu;iz yě;vv bù;ab báo;cc	100
 不胡思乱想	bù;ab hú;go sī;tx luàn;uv xiǎng;ax	100
 不花帖木儿	bù;ab huā;cb tiē;jv mù;ur ér;pv	100
 不哗众取宠	bù;ab huá;ku zhòng;rr qǔ;ey chǒng;bl	100
@@ -6066,6 +6076,7 @@ sort: by_weight
 不计免赔险	bú;ab jì;yu miǎn;de péi;bk xiǎn;eq	100
 布基纳法索	bù;uj jī;ct nà;sn fǎ;dq suǒ;ux	100
 不及时清洗	bù;ab jí;pn shí;to qīng;do xǐ;de	100
+不急也不躁	bù;ab jí;dx yě;vv bú;ab zào;za	100
 不及召下兵	bù;ab jí;pn zhào;dk xià;ab bīng;qb	100
 布加勒斯特	bù;uj jiā;lk lè;cl sī;ct tè;nc	100
 不加区别地	bù;ab jiā;lk qū;kx bié;kd de;ty	100
@@ -6086,6 +6097,7 @@ sort: by_weight
 不矫揉造作	bù;ab jiǎo;ul róu;fa zào;zk zuò;rv	100
 不脚踏实地	bù;ab jiǎo;oe tà;zo shí;bd dì;ty	100
 不交物业费	bù;ab jiāo;wf wù;nw yè;la fèi;fb	100
+不骄也不躁	bù;ab jiāo;ml yě;vv bú;ab zào;za	100
 补胶原蛋白	bǔ;pb jiāo;of yuán;ix dàn;zi bái;po	100
 不交轴光线	bù;ab jiāo;wf zhóu;iy guāng;xe xiàn;sj	100
 不竭的动力	bù;ab jié;lr de;bu dòng;yl lì;vp	100
@@ -6107,6 +6119,7 @@ sort: by_weight
 步进驱动器	bù;vu jìn;zj qū;mq dòng;yl qì;kk	100
 不尽如人意	bú;ab jìn;id rú;nk rén;pn yì;lx	100
 不仅是知识	bù;ab jǐn;ry shì;oz zhī;uk shi;yv	100
+不紧也不松	bù;ab jǐn;lx yě;vv bù;ab sōng;ag	100
 不进一家门	bú;ab jìn;zj yì;aa jiā;bu mén;dv	100
 不进娱乐圈	bú;ab jìn;zj yú;nt lè;px quān;wv	100
 不敬的语言	bú;ab jìng;cw de;bu yǔ;yk yán;wk	100
@@ -6202,6 +6215,9 @@ sort: by_weight
 不可阻挡地	bù;ab kě;dk zǔ;eq dǎng;fe de;ty	100
 不空成就佛	bù;ab kōng;bg chéng;gv jiù;wy fó;rf	100
 不空如来藏	bù;ab kōng;bg rú;nk lái;aa cáng;ci	100
+不苦也不涩	bù;ab kǔ;cg yě;vv bú;ab sè;dv	100
+不快也不慢	bú;ab kuài;xg yě;vv bú;ab màn;xy	100
+不宽也不窄	bù;ab kuān;bj yě;vv bù;ab zhǎi;bv	100
 布拉德利病	bù;uj lā;fl dé;rx lì;hd bìng;bn	100
 布拉菲格子	bù;uj lā;fl fēi;cf gé;ak zi;la	100
 布喇格方程	bù;uj lǎ;kd gé;ak fāng;wv chéng;hw	100
@@ -6217,6 +6233,7 @@ sort: by_weight
 布喇开光谱	bù;uj lǎ;kd kāi;ac guāng;xe pǔ;yo	100
 布拉乌斯流	bù;uj lā;fl wū;pa sī;ct liú;di	100
 不来白不来	bù;ab lái;aa bái;po bù;ab lái;aa	100
+不来也不往	bù;ab lái;aa yě;vv bù;ab wǎng;rv	100
 不来一发吗	bù;ab lái;aa yì;aa fā;fy ma;km	100
 布莱兹反应	bù;uj lái;cl zī;by fǎn;iy yìng;ga	100
 布朗斯特酸	bù;uj lǎng;lo sī;ct tè;nc suān;yw	100
@@ -6237,6 +6254,7 @@ sort: by_weight
 布雷格公式	bù;uj léi;yt gé;ak gōng;bs shì;gg	100
 布雷斯悖论	bù;uj léi;yt sī;ct bèi;xz lùn;yl	100
 不冷也不热	bù;ab lěng;ds yě;vv bú;ab rè;fh	100
+不冷也不热	bù;ab lěng;ds yě;vv bú;ab rè;fh	100
 不利的后果	bú;ab lì;hd de;bu hòu;ik guǒ;ta	100
 不利的条件	bú;ab lì;hd de;bu tiáo;wa jiàn;rn	100
 不利的言论	bú;ab lì;hd de;bu yán;wk lùn;yl	100
@@ -6246,6 +6264,7 @@ sort: by_weight
 不礼让行人	bù;ab lǐ;pv ràng;yu xíng;rd rén;pn	100
 不离世间觉	bù;ab lí;wn shì;cv jiān;mo jué;xj	100
 布里斯托尔	bù;uj lǐ;tt sī;ct tuō;fq ěr;dx	100
+不离也不弃	bù;ab lí;wn yě;vv bú;ab qì;wc	100
 不利有攸往	bú;ab lì;hd yǒu;uo yōu;rw wǎng;rv	100
 不利于消化	bú;ab lì;hd yú;au xiāo;do huà;rb	100
 布里渊函数	bù;uj lǐ;tt yuān;dm hán;ku shù;mw	100
@@ -6342,6 +6361,7 @@ sort: by_weight
 不拿白不拿	bù;ab ná;ru bái;po bù;ab ná;ru	100
 不那么显眼	bú;ab nà;ve me;ps xiǎn;oy yǎn;og	100
 不那么真实	bú;ab nà;ve me;ps zhēn;ub shí;bd	100
+不难也不易	bù;ab nán;yv yě;vv bú;ab yì;ow	100
 补脑安神片	bǔ;pb nǎo;ox ān;bn shén;pu piàn;pv	100
 不能比拟的	bù;ab néng;sb bǐ;bb nǐ;fr de;bu	100
 不能查封的	bù;ab néng;sb chá;ad fēng;tc de;bu	100
@@ -6361,6 +6381,7 @@ sort: by_weight
 捕鸟者亨利	bǔ;ff niǎo;na zhě;lo hēng;wl lì;hd	100
 不凝滞于物	bù;ab níng;dz zhì;dj yú;au wù;nw	100
 不弄虚作假	bú;ab nòng;wc xū;hy zuò;rv jiǎ;ry	100
+不浓也不淡	bù;ab nóng;dy yě;vv bú;ab dàn;dh	100
 布努二氏腺	bù;uj nǔ;nl èr;aa shì;pv xiàn;ou	100
 不怕人不敬	bú;ab pà;xb rén;pn bú;ab jìng;cw	100
 补拍婚纱照	bǔ;pb pāi;fb hūn;no shā;su zhào;oh	100
@@ -6369,6 +6390,7 @@ sort: by_weight
 布皮二氏瘤	bù;uj pí;py èr;aa shì;pv liú;bt	100
 补脾消食片	bǔ;pb pí;ou xiāo;do shí;rg piàn;pv	100
 补脾益肠丸	bǔ;pb pí;ou yì;bm cháng;op wán;jd	100
+不偏也不倚	bù;ab piān;rc yě;vv bù;ab yǐ;rk	100
 不平等条约	bù;ab píng;au děng;vc tiáo;wa yuē;su	100
 不平凡的事	bù;ab píng;au fán;jd de;bu shì;gy	100
 不平衡力矩	bù;ab píng;au héng;rd lì;vp jǔ;uj	100
@@ -6388,6 +6410,7 @@ sort: by_weight
 布切吉山脉	bù;uj qiè;qd jí;tk shān;kl mài;oy	100
 布秦二氏病	bù;uj qín;ih èr;aa shì;pv bìng;bn	100
 不侵犯条约	bù;ab qīn;ry fàn;qv tiáo;wa yuē;su	100
+不轻也不重	bù;ab qīng;ij yě;vv bú;ab zhòng;ql	100
 步青云布丁	bù;vu qīng;fo yún;ag,es bù;uj dīng;al	100
 不请自来了	bù;ab qǐng;yo zì;po lái;aa le;al	100
 不去白不去	bú;ab qù;ts bái;po bú;ab qù;ts	100
@@ -6434,6 +6457,7 @@ sort: by_weight
 不如意的事	bù;ab rú;nk yì;lx de;bu shì;gy	100
 不如意之事	bù;ab rú;nk yì;lx zhī;dn shì;gy	100
 步入中年后	bù;vu rù;pn zhōng;kl nián;pf hòu;ik	100
+不软也不硬	bù;ab ruǎn;iq yě;vv bú;ab yìng;ug	100
 不散的宴席	bú;ab sàn;cw de;bu yàn;bn xí;gj	100
 不擅长的事	bú;ab shàn;fd cháng;pn de;bu shì;gy	100
 不善于交际	bú;ab shàn;yk yú;au jiāo;wf jì;eu	100
@@ -6458,6 +6482,7 @@ sort: by_weight
 补肾温阳酒	bǔ;pb shèn;lo wēn;dm yáng;eo jiǔ;dy	100
 补肾消食片	bǔ;pb shèn;lo xiāo;do shí;rg piàn;pv	100
 补肾养血丸	bǔ;pb shèn;lo yǎng;yl xuè;pm wán;jd	100
+不深也不浅	bù;ab shēn;da yě;vv bù;ab qiǎn;dj	100
 补肾益精酒	bǔ;pb shèn;lo yì;bm jīng;mo jiǔ;dy	100
 补肾益精洒	bǔ;pb shèn;lo yì;bm jīng;mo sǎ;dx	100
 补肾益精丸	bǔ;pb shèn;lo yì;bm jīng;mo wán;jd	100
@@ -6537,6 +6562,7 @@ sort: by_weight
 不溯及既往	bù;ab sù;do jí;pn jì;gw wǎng;rv	100
 不算个事儿	bú;ab suàn;vc gè;rl shì;gy er;pv	100
 不算什么太	bú;ab suàn;vc shén;ru me;ps tài;dd	100
+不酸也不甜	bù;ab suān;yw yě;vv bù;ab tián;ug	100
 不随波逐流	bù;ab suí;eo bō;dp zhú;zu liú;di	100
 不碎胶托修	bú;ab suì;uu jiāo;of tuō;fq xiū;rp	100
 不随意想象	bù;ab suí;eo yì;lx xiǎng;ax xiàng;du	100
@@ -6544,6 +6570,7 @@ sort: by_weight
 不太主动的	bú;ab tài;dd zhǔ;wt dòng;yl de;bu	100
 不太准确了	bú;ab tài;dd zhǔn;dv què;uy le;al	100
 不贪小便宜	bù;ab tān;rb xiǎo;lb pián;rg yi;bq	100
+不贪也不占	bù;ab tān;rb yě;vv bú;ab zhàn;bw	100
 补糖醇酸奶	bǔ;pb táng;mk chún;yz suān;yw nǎi;nn	100
 布提二氏卵	bù;uj tí;fz èr;aa shì;pv luǎn;pd	100
 补体复合物	bǔ;pb tǐ;rb fù;pw hé;rk wù;nw	100
@@ -6631,6 +6658,7 @@ sort: by_weight
 不闻机杼声	bù;ab wén;me jī;aj zhù;ay shēng;tu	100
 不文明用语	bù;ab wén;wx míng;oo yòng;kf,ol yǔ;yk	100
 不问为什么	bú;ab wèn;mk wèi;ld shén;ru me;ps	100
+不问也不听	bú;ab wèn;mk yě;vv bù;ab tīng;kt	100
 不无理取闹	bù;ab wú;ay lǐ;wl qǔ;ey nào;mj	100
 不系安全带	bú;ab xì;px ān;bn quán;rw dài;cj	100
 补习班老师	bǔ;pb xí;vd bān;wl lǎo;lb shī;lj	100
@@ -6756,6 +6784,7 @@ sort: by_weight
 不雅的动作	bù;ab yǎ;yv de;bu dòng;yl zuò;rv	100
 不言的世界	bù;ab yán;wk de;bu shì;cv jiè;tj	100
 不厌其烦地	bú;ab yàn;iq qí;cb fán;hy de;ty	100
+不言也不语	bù;ab yán;wk yě;vv bù;ab yǔ;yk	100
 补阳还五汤	bǔ;pb yáng;eo hái;zb wǔ;aw tāng;dp	100
 不要啊杰哥	bú;ab yào;xn a;kk jié;ah gē;kk	100
 不要白不要	bú;ab yào;xn bái;po bú;ab yào;xn	100
@@ -6841,6 +6870,7 @@ sort: by_weight
 不远的未来	bù;ab yuǎn;zy de;bu wèi;aa,er lái;aa	100
 补远基诺语	bǔ;pb yuǎn;zy jī;ct nuò;yk yǔ;yk	100
 不怨天尤人	bú;ab yuàn;xx tiān;ad yóu;yd rén;pn	100
+不远也不近	bù;ab yuǎn;zy yě;vv bú;ab jìn;zt	100
 不愿意回忆	bú;ab yuàn;ix yì;lx huí;wk yì;xv	100
 不愿意理他	bú;ab yuàn;ix yì;lx lǐ;wl tā;ry	100
 不愿意似的	bú;ab yuàn;ix yì;lx shì;rr de;bu	100
@@ -6849,6 +6879,7 @@ sort: by_weight
 不孕不育科	bú;ab yùn;nz bú;ab yù;wo kē;hd	100
 不孕不育症	bú;ab yùn;nz bú;ab yù;wo zhèng;bv	100
 不孕及不育	bú;ab yùn;nz jí;pn bú;ab yù;wo	100
+不愠也不火	bù;ab yùn;xm yě;vv bù;ab huǒ;br,rb	100
 不在北京了	bú;ab zài;ut běi;lb jīng;wx le;al	100
 不在风里面	bú;ab zài;ut fēng;jx lǐ;tt miàn;ao	100
 不在话下的	bú;ab zài;ut huà;yu xià;ab de;bu	100
@@ -6860,14 +6891,17 @@ sort: by_weight
 不再喜欢你	bú;ab zài;ar xǐ;tk huan;yq nǐ;rx	100
 不再像以前	bú;ab zài;ar xiàng;ru yǐ;lr qián;bd	100
 不早也不晚	bù;ab zǎo;ou yě;vv bù;ab wǎn;oe	100
+不早也不晚	bù;ab zǎo;ou yě;vv bù;ab wǎn;oe	100
 不择手段地	bù;ab zé;ff shǒu;pf duàn;pu de;ty	100
 不怎么上心	bù;ab zěn;vx me;ps shàng;ba xīn;dd	100
 不怎么样啊	bù;ab zěn;vx me;ps yàng;ay a;kk	100
 不怎么值钱	bù;ab zěn;vx me;ps zhí;rq qián;jj	100
 不增不减经	bù;ab zēng;to bù;ab jiǎn;dk jīng;sj	100
+不增也不减	bù;ab zēng;to yě;vv bù;ab jiǎn;dk	100
 不占白不占	bú;ab zhàn;bw bái;po bú;ab zhàn;bw	100
 不沾阳春水	bù;ab zhān;dv yáng;eo chūn;io shuǐ;ln	100
 部长岛耕作	bù;le zhǎng;pn dǎo;nu gēng;lj zuò;rv	100
+不涨也不跌	bù;ab zhǎng;di yě;vv bù;ab diē;zf	100
 不长脂肪粒	bù;ab zhǎng;pn zhī;oo fáng;of lì;ml	100
 不召而自来	bù;ab zhào;dk ér;al zì;po lái;aa	100
 不着陆飞行	bù;ab zháo;yo lù;ej fēi;vd xíng;rd	100
@@ -6879,6 +6913,7 @@ sort: by_weight
 不整合岩基	bù;ab zhěng;uv hé;rk yán;uu jī;ct	100
 补正通知书	bǔ;pb zhèng;av tōng;zy zhī;uk shū;vd	100
 补正续骨丸	bǔ;pb zhèng;av xù;sd gǔ;go wán;jd	100
+不争也不抢	bù;ab zhēng;dy yě;vv bù;ab qiǎng;fv	100
 不知不觉地	bù;ab zhī;uk bù;ab jué;xj de;ty	100
 不知不觉间	bù;ab zhī;uk bù;ab jué;xj jiān;mo	100
 不知不觉就	bù;ab zhī;uk bù;ab jué;xj jiù;wy	100
@@ -6969,6 +7004,7 @@ sort: by_weight
 不作亏心事	bú;ab zuò;rv kuī;ak xīn;dd shì;gy	100
 不做亏心事	bú;ab zuò;rw kuī;ak xīn;dd shì;gy	100
 不做生意了	bú;ab zuò;rw shēng;pf yì;lx le;al	100
+不左也不右	bù;ab zuǒ;ug yě;vv bù;ab yòu;uk	100
 不左转科学	bù;ab zuǒ;ug zhuǎn;iv kē;hd xué;xz	100
 擦出的火花	cā;fu chū;uu de;bu huǒ;br,rb huā;cb	100
 擦窗机器人	cā;fu chuāng;bw jī;aj qì;kk rén;pn	100
@@ -46271,7 +46307,7 @@ sort: by_weight
 棱状巨尿道	léng;aw zhuàng;lq jù;kk niào;uu dào;zz	100
 黎安莱姆丝	lí;hu ān;bn lái;cl mǔ;nm sī;sa	100
 离岸人民币	lí;wn àn;ug rén;pn mín;vv bì;pj	100
-篱笆密码法	lí;vn bā;vb mì;bu mǎ;um fǎ;dq	100
+篱笆密码法	lí;vn ba;vb mì;bu mǎ;um fǎ;dq	100
 利巴韦林片	lì;hd bā;sl wéi;fv lín;aa piàn;pv	100
 立白洗衣液	lì;wb bái;po xǐ;de yī;wy yè;dw	100
 栗背短翅鸫	lì;xa bèi;bo duǎn;ub chì;vx dōng;dn	100
@@ -54440,6 +54476,7 @@ sort: by_weight
 能做些什么	néng;sb zuò;rw xiē;ve shén;ru me;ps	100
 你爱我像谁	nǐ;rx ài;vy wǒ;ga xiàng;ru shuí;yv	100
 你把脚拿开	nǐ;rx bǎ;fb jiǎo;oe ná;ru kāi;ac	100
+你把我灌醉	nǐ;rx bǎ;fb wǒ;ga guàn;dv zuì;yu	100
 你搬得动吗	nǐ;rx bān;fu dé;rc dòng;yl ma;km	100
 拟保角映射	nǐ;fr bǎo;ra jiǎo;dy yìng;oy shè;uc	100
 逆保序映射	nì;zn bǎo;ra xù;gy yìng;oy shè;uc	100
@@ -77465,7 +77502,7 @@ sort: by_weight
 突厥语词典	tū;bq jué;iq yǔ;yk cí;yk diǎn;qb,cb	100
 突厥语借词	tū;bq jué;iq yǔ;yk jiè;ro cí;yk	100
 吐了个烟圈	tǔ;kt le;al gè;rl yān;hy quān;wv	100
-土里的泥鳅	tǔ;ua lǐ;tt de;bu ní;db qiū;yh	100
+土里的泥鳅	tǔ;ua lǐ;tt de;bu ní;db qiu;yh	100
 土力工程处	tǔ;ua lì;vp gōng;aa chéng;hw chù;wb	100
 土里土气的	tǔ;ua lǐ;tt tǔ;ua qì;pv de;bu	100
 吐鲁番北站	tǔ;kt lǔ;yo fān;mt běi;lb zhàn;lv	100
@@ -80560,7 +80597,7 @@ sort: by_weight
 我是郑州的	wǒ;ga shì;oz zhèng;be zhōu;dl de;bu	100
 我是只狐狸	wǒ;ga shì;oz zhī;kb hú;qg li;ql	100
 我是只猫咪	wǒ;ga shì;oz zhī;kb māo;qt mī;km	100
-我是只泥鳅	wǒ;ga shì;oz zhī;kb ní;db qiū;yh	100
+我是只泥鳅	wǒ;ga shì;oz zhī;kb ní;db qiu;yh	100
 卧式自行车	wò;ib shì;gg zì;po xíng;rd chē;au	100
 我受不了了	wǒ;ga shòu;vy bù;ab liǎo;al le;al	100
 我受刺激了	wǒ;ga shòu;vy cì;ud jī;dw le;al	100
@@ -81339,6 +81376,7 @@ sort: by_weight
 无聊的人呀	wú;ay liáo;ee de;bu rén;pn ya;ky	100
 物料的性质	wù;nw liào;md de;bu xìng;xu zhì;ib	100
 物料提升机	wù;nw liào;md tí;fz shēng;pc jī;aj	100
+无磷保水剂	wú;ay lín;uf bǎo;ra shuǐ;ln jì;qd	100
 无临床症状	wú;ay lín;lk chuáng;ga zhèng;bv zhuàng;lq	100
 五淋化石丸	wǔ;aw lín;da huà;rb shí;ak wán;jd	100
 武林笼中对	wǔ;gv lín;aa lóng;vl zhōng;kl duì;yc	100
@@ -121837,6 +121875,7 @@ sort: by_weight
 辅酶合成酶类	fǔ;if méi;ym hé;rk chéng;gv méi;ym lèi;md	100
 辅酶焦磷酸酶	fǔ;if méi;ym jiāo;rh lín;uf suān;yw méi;ym	100
 辅酶连接酶类	fǔ;if méi;ym lián;zi jiē;fn méi;ym lèi;md	100
+富煤少油少气	fù;bt méi;ha shǎo;xp yóu;dy shǎo;xp qì;pv	100
 氟美瞳滴眼液	fú;qf měi;yd tóng;ol dī;dg yǎn;og yè;dw	100
 腐煤型天然气	fǔ;gr méi;ha xíng;kt tiān;ad rán;xh qì;pv	120
 辅酶转移酶类	fǔ;if méi;ym zhuǎn;iv yí;hx méi;ym lèi;md	100
@@ -137711,9 +137750,9 @@ sort: by_weight
 里昂惕夫悖论	lǐ;tt áng;oe tì;xw fū;er bèi;xz lùn;yl	100
 李奥二氏试验	lǐ;az ào;pd èr;aa shì;pv shì;yg yàn;mq	100
 里巴二氏反射	lǐ;tt bā;sl èr;aa shì;pv fǎn;iy shè;uc	100
-篱笆女人和狗	lí;vn bā;vb nǚ;va rén;pn hé;hk gǒu;qj	100
-篱笆墙的影子	lí;vn bā;vb qiáng;tk de;bu yǐng;op zi;la	100
-篱笆外的古道	lí;vn bā;vb wài;xb de;bu gǔ;uk dào;zz	100
+篱笆女人和狗	lí;vn ba;vb nǚ;va rén;pn hé;hk gǒu;qj	100
+篱笆墙的影子	lí;vn ba;vb qiáng;tk de;bu yǐng;op zi;la	100
+篱笆外的古道	lí;vn ba;vb wài;xb de;bu gǔ;uk dào;zz	100
 利巴韦林含片	lì;hd bā;sl wéi;fv lín;aa hán;rk piàn;pv	100
 利巴韦林胶囊	lì;hd bā;sl wéi;fv lín;aa jiāo;of náng;gy	100
 利巴韦林颗粒	lì;hd bā;sl wéi;fv lín;aa kē;gy lì;ml	100
@@ -141029,8 +141068,6 @@ sort: by_weight
 美到让人窒息	měi;yd dào;gd ràng;yu rén;pn zhì;bt xī;zx	100
 美得不可方物	měi;yd de;rc bù;ab kě;dk fāng;wv wù;nw	100
 美得不可思议	měi;yd de;rc bù;ab kě;dk sī;tx yì;yy	100
-美的电热水器	měi;yd de;bu diàn;ov,yv rè;fh shuǐ;ln qì;kk	100
-美的电压力锅	měi;yd de;bu diàn;ov,yv yā;id lì;vp guō;jn	100
 美得动人心魄	měi;yd de;rc dòng;yl rén;pn xīn;dd pò;bg	100
 煤的工业分析	méi;ha de;bu gōng;aa yè;la fēn;bd xī;at	100
 美得惊心动魄	měi;yd de;rc jīng;xx xīn;dd dòng;yl pò;bg	100
@@ -141047,6 +141084,8 @@ sort: by_weight
 煤的综合利用	méi;ha de;bu zōng;su hé;rk lì;hd yòng;kf,ol	100
 美登木属柄荚	měi;yd dēng;bb mù;ur shǔ;uy bǐng;an jiá;cj	100
 镁等微量元素	měi;jd děng;vc wēi;rj liàng;ol yuán;aw sù;fx	100
+美的电热水器	měi;yd dì;bu diàn;ov,yv rè;fh shuǐ;ln qì;kk	100
+美的电压力锅	měi;yd dì;bu diàn;ov,yv yā;id lì;vp guō;jn	100
 煤电价格联动	méi;ha diàn;ov,yv jià;rj gé;ak lián;et dòng;yl	100
 梅毒抗体测定	méi;am dú;fm kàng;fj tǐ;rb cè;dd dìng;bz	100
 梅毒性白斑病	méi;am dú;fm xìng;xu bái;po bān;ww bìng;bn	100
@@ -145693,7 +145732,7 @@ sort: by_weight
 千叶商科大学	qiān;pu yè;ku shāng;wk kē;hd dà;ar xué;xz	100
 千叶医科大学	qiān;pu yè;ku yī;ku kē;hd dà;ar xué;xz	100
 千亿产业集群	qiān;pu yì;rv chǎn;wi yè;la jí;ra qún;yy	100
-牵一发动全身	qiān;dn yì;aa fā;fy dòng;yl quán;rw shēn;zc	100
+牵一发动全身	qiān;dn yí;aa fà;fy dòng;yl quán;rw shēn;zc	100
 千亿美元市值	qiān;pu yì;rv měi;yd yuán;aw shì;wj zhí;rq	100
 潜移默化影响	qián;do yí;hx mò;lq huà;rb yǐng;op xiǎng;kk	100
 潜意识的力量	qián;do yì;lx shí;yv de;bu lì;vp liàng;ol	100
@@ -145712,7 +145751,7 @@ sort: by_weight
 千元智能手机	qiān;pu yuán;aw zhì;uo néng;sb shǒu;pf jī;aj	100
 签约仪式现场	qiān;vq yuē;su yí;ry shì;gg xiàn;wj chǎng;tp	100
 前鲗鱼涌学校	qián;bd zéi;yd yú;da yǒng;dy xué;xz xiào;af	100
-千兆乙太网路	qiān;pu zhào;ed yǐ;vv tài;dd wǎng;kx lù;zk	100
+千兆以太网路	qiān;pu zhào;ed yǐ;lr tài;dd wǎng;kx lù;zk	100
 牵着爱人的手	qiān;dn zhe;yo ài;vy rén;pn de;bu shǒu;pf	100
 牵着别人的手	qiān;dn zhe;yo bié;kd rén;pn de;bu shǒu;pf	100
 牵着孩子的手	qiān;dn zhe;yo hái;zr zi;la de;bu shǒu;pf	100
@@ -179715,7 +179754,6 @@ sort: by_weight
 长时间曝光摄影	cháng;pn shí;to jiān;mo bào;ou guāng;xe shè;fy yǐng;op	100
 长时间佩戴口罩	cháng;pn shí;to jiān;mo pèi;rj dài;gg kǒu;la zhào;su	100
 肠嗜酸性肉芽肿	cháng;op shì;ko suān;yw xìng;xu ròu;nr yá;cy zhǒng;ov	100
-常使英雄泪满襟	cháng;xj shǐ;rl yīng;cy xióng;uv lèi;do mǎn;dl jīn;pu	100
 长寿命裂变产物	cháng;pn shòu;fc mìng;re liè;dy biàn;wy chǎn;wi wù;nw	100
 肠手术不含直肠	cháng;op shǒu;pf shù;ad bù;ab hán;rk zhí;uq cháng;op	100
 长寿西康王路口	cháng;pn shòu;fc xī;ak,wk kāng;gl wáng;at lù;zk kǒu;la	100
