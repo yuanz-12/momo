@@ -29,20 +29,17 @@ jobs:
           python -m pip install --upgrade pip
           pip install tqdm
           mkdir -p output_dicts
+          # 如果仓库里没有辅助码表文件夹，强制建一个空的防止 Python 脚本崩溃
+          mkdir -p "辅助码表"
           python duofuzhu.py
 
-      - name: 批量重命名输出词库 (*.dict.yaml -> *.pro.dict.yaml)
+      - name: 深入子目录批量重命名词库 (*.dict.yaml -> *.pro.dict.yaml)
         run: |
-          cd output_dicts
-          # 遍历所有符合 *.dict.yaml 格式的文件
-          for file in *.dict.yaml; do
-            # 确保文件确实存在，避免空匹配
-            if [ -f "$file" ]; then
-              # 去掉末尾的 .dict.yaml 并拼接上 .pro.dict.yaml
-              new_name="${file%.dict.yaml}.pro.dict.yaml"
-              mv "$file" "$new_name"
-              echo "已重命名: $file -> $new_name"
-            fi
+          # 使用 find 命令递归查找 output_dicts 目录下所有子文件夹中的 .dict.yaml 文件并重命名
+          find output_dicts -type f -name "*.dict.yaml" | while read -r file; do
+            new_name="${file%.dict.yaml}.pro.dict.yaml"
+            mv "$file" "$new_name"
+            echo "✅ 已重命名: $file -> $new_name"
           done
 
       - name: 提交输出文件到仓库
@@ -52,6 +49,7 @@ jobs:
           GIT_COMMITTER_NAME: ci-bot
           GIT_COMMITTER_EMAIL: ci@example.com
         run: |
+          # 核心决策点：将处理后的子文件夹结构完整复制到仓库根目录
           cp -rf output_dicts/* .
           git add .
           git commit -m "自动更新处理后词库 [ci skip]"
