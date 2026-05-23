@@ -17,7 +17,7 @@ jobs:
       - name: 下载目标仓库的最新词典文件
         run: |
           mkdir input_dicts
-          # 仅克隆目标仓库的 wanxiang 分支（--depth 1 表示只拉取最后一版，速度极快）
+          # 仅克隆目标仓库的 wanxiang 分支
           git clone --depth 1 --branch wanxiang https://github.com/amzxyz/RIME-LMDG.git temp_repo
           # 将目标文件夹内的所有文件复制到 input_dicts 中
           cp -r temp_repo/dicts/* input_dicts/
@@ -30,6 +30,20 @@ jobs:
           pip install tqdm
           mkdir -p output_dicts
           python duofuzhu.py
+
+      - name: 批量重命名输出词库 (*.dict.yaml -> *.pro.dict.yaml)
+        run: |
+          cd output_dicts
+          # 遍历所有符合 *.dict.yaml 格式的文件
+          for file in *.dict.yaml; do
+            # 确保文件确实存在，避免空匹配
+            if [ -f "$file" ]; then
+              # 去掉末尾的 .dict.yaml 并拼接上 .pro.dict.yaml
+              new_name="${file%.dict.yaml}.pro.dict.yaml"
+              mv "$file" "$new_name"
+              echo "已重命名: $file -> $new_name"
+            fi
+          done
 
       - name: 提交输出文件到仓库
         env:
