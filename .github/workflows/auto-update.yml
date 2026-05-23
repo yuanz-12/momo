@@ -14,13 +14,15 @@ jobs:
       - name: 拉取仓库代码
         uses: actions/checkout@v6
 
-      - name: 下载解压最新词典 ZIP
+      - name: 下载目标仓库的最新词典文件
         run: |
           mkdir input_dicts
-          curl -L "https://github.com/amzxyz/rime_wanxiang/releases/download/dict-nightly/pro-moqi-fuzhu-dicts.zip" \
-            -o "input_dicts/wanxiang.zip"
-          unzip -q "input_dicts/wanxiang.zip" -d "input_dicts"
-          rm -rf "input_dicts/wanxiang.zip"
+          # 仅克隆目标仓库的 wanxiang 分支（--depth 1 表示只拉取最后一版，速度极快）
+          git clone --depth 1 --branch wanxiang https://github.com/amzxyz/RIME-LMDG.git temp_repo
+          # 将目标文件夹内的所有文件复制到 input_dicts 中
+          cp -r temp_repo/dicts/* input_dicts/
+          # 删除临时的克隆目录
+          rm -rf temp_repo
 
       - name: 处理原始词库
         run: |
