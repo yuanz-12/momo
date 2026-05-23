@@ -14,15 +14,23 @@ jobs:
       - name: 拉取仓库代码
         uses: actions/checkout@v6
 
-      - name: 下载目标仓库的最新词典文件
+      - name: 下载并筛选目标仓库的最新词典文件
         run: |
           mkdir input_dicts
-          # 仅克隆目标仓库的 wanxiang 分支
+          
+          # 1. 克隆并复制第一个仓库的全部词典
           git clone --depth 1 --branch wanxiang https://github.com/amzxyz/RIME-LMDG.git temp_repo
-          # 将目标文件夹内的所有文件复制到 input_dicts 中
           cp -r temp_repo/dicts/* input_dicts/
-          # 删除临时的克隆目录
           rm -rf temp_repo
+          
+          # 2. 自动排除不需要的 mixed.dict.yaml 文件
+          rm -f input_dicts/mixed.dict.yaml
+          echo "已排除 mixed.dict.yaml"
+          
+          # 3. 新增爬取单个独立词典文件（已转换为 Raw 原始文件地址）
+          curl -L "https://raw.githubusercontent.com/suiginko/moetype/main/tone_moe.dict.yaml" \
+            -o "input_dicts/tone_moe.dict.yaml"
+          echo "已成功追加下载 tone_moe.dict.yaml"
 
       - name: 处理原始词库
         run: |
@@ -35,7 +43,6 @@ jobs:
 
       - name: 深入子目录批量重命名词库 (*.dict.yaml -> *.pro.dict.yaml)
         run: |
-          # 使用 find 命令递归查找 output_dicts 目录下所有子文件夹中的 .dict.yaml 文件并重命名
           find output_dicts -type f -name "*.dict.yaml" | while read -r file; do
             new_name="${file%.dict.yaml}.pro.dict.yaml"
             mv "$file" "$new_name"
@@ -47,9 +54,8 @@ jobs:
           GIT_AUTHOR_NAME: ci-bot
           GIT_AUTHOR_EMAIL: ci@example.com
           GIT_COMMITTER_NAME: ci-bot
-          GIT_COMMITTER_EMAIL: ci@example.com
+          GIT_COMMITTER_EMAIL: ci-bot@example.com
         run: |
-          # 核心决策点：将处理后的子文件夹结构完整复制到仓库根目录
           cp -rf output_dicts/* .
           git add .
           git commit -m "自动更新处理后词库 [ci skip]"
