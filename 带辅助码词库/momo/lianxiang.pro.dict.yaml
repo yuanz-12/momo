@@ -5093,7 +5093,7 @@ sort: by_weight
 别赫捷列夫	bié;kd hè;ii jié;fz liè;dd fū;er	100
 别和我说话	bié;kd hé;hk wǒ;ga shuō;yx huà;yu	100
 别胡思乱想	bié;kd hú;go sī;tx luàn;uv xiǎng;ax	100
-别花冤枉钱	bié;kd huā;cb yuān;bt wǎng;aw qián;jj	100
+别花冤枉钱	bié;kd huā;cb yuān;bt wang;aw qián;jj	100
 别活得太累	bié;kd huó;du de;rc tài;dd lèi;tx	100
 鳖甲煎丸方	biē;xy jiǎ;ol,tl jiān;bh wán;jd fāng;wv	100
 鳖甲十二分	biē;xy jiǎ;ol,tl shí;al èr;aa fēn;bd	100
@@ -8047,8 +8047,8 @@ sort: by_weight
 常对角矩阵	cháng;xj duì;yc jiǎo;dy jǔ;uj zhèn;ei	100
 嫦娥加丽丸	cháng;nj é;nw jiā;lk lì;ad wán;jd	100
 唱而优则演	chàng;ko ér;al yōu;ry zé;bd yǎn;db	100
-长发变短发	cháng;pn fà;fy biàn;wy duǎn;ub fā;fy	100
-长发和短发	cháng;pn fà;fy hé;hk duǎn;ub fā;fy	100
+长发变短发	cháng;pn fà;fy biàn;wy duǎn;ub fà;fy	100
+长发和短发	cháng;pn fà;fy hé;hk duǎn;ub fà;fy	100
 长发绾君心	cháng;pn fà;fy wǎn;sl jūn;yk xīn;dd	100
 厂房和设备	chǎng;ap fáng;hf hé;hk shè;yu bèi;wt	100
 长方裂花介	cháng;pn fāng;wv liè;dy huā;cb jiè;rl	100
@@ -17112,10 +17112,10 @@ sort: by_weight
 短短几个秋	duǎn;ub duǎn;ub jǐ;pv gè;rl qiū;hh	100
 断断续续地	duàn;vt duàn;vt xù;sd xù;sd de;ty	100
 断耳再接术	duàn;vt ěr;ol zài;ar jiē;fn shù;ad	100
-短发的女生	duǎn;ub fā;fy de;bu nǚ;va shēng;pf	100
-短发的夏天	duǎn;ub fā;fy de;bu xià;bw tiān;ad	100
-短发的样子	duǎn;ub fā;fy de;bu yàng;ay zi;la	100
-短发的造型	duǎn;ub fā;fy de;bu zào;zk xíng;kt	100
+短发的女生	duǎn;ub fà;fy de;bu nǚ;va shēng;pf	100
+短发的夏天	duǎn;ub fà;fy de;bu xià;bw tiān;ad	100
+短发的样子	duǎn;ub fà;fy de;bu yàng;ay zi;la	100
+短发的造型	duǎn;ub fà;fy de;bu zào;zk xíng;kt	100
 断发毛癣菌	duàn;vt fà;fy máo;pv xuǎn;by jūn;ch	100
 短辐旋轮线	duǎn;ub fú;it xuán;fz lún;il xiàn;sj	100
 段改建工程	duàn;pu gǎi;jw jiàn;zy gōng;aa chéng;hw	100
@@ -31029,7 +31029,7 @@ sort: by_weight
 黑色的搭配	hēi;lh sè;db de;bu dā;fk pèi;yj	100
 黑色的大衣	hēi;lh sè;db de;bu dà;ar yī;wy	100
 黑色的东西	hēi;lh sè;db de;bu dōng;ax xi;ak,wk	100
-黑色的短发	hēi;lh sè;db de;bu duǎn;ub fā;fy	100
+黑色的短发	hēi;lh sè;db de;bu duǎn;ub fà;fy	100
 黑色的短裤	hēi;lh sè;db de;bu duǎn;ub kù;pi	100
 黑色的短靴	hēi;lh sè;db de;bu duǎn;ub xuē;cb	100
 黑色的风衣	hēi;lh sè;db de;bu fēng;jx yī;wy	100
@@ -37995,7 +37995,7 @@ sort: by_weight
 坚昆都督府	jiān;lt kūn;ob dū;le dū;uo fǔ;gc	100
 捡垃圾为生	jiǎn;fq lā;tl jī;tj wéi;ld shēng;pf	100
 捡了大便宜	jiǎn;fq le;al dà;ar pián;rg yi;bq	100
-剪了短发后	jiǎn;bd le;al duǎn;ub fā;fy hòu;ik	100
+剪了短发后	jiǎn;bd le;al duǎn;ub fà;fy hòu;ik	100
 见了个发小	jiàn;ke le;al gè;rl fà;fy xiǎo;lb	100
 见了个高人	jiàn;ke le;al gè;rl gāo;wk rén;pn	100
 见了个怪人	jiàn;ke le;al gè;rl guài;xt rén;pn	120
@@ -39438,7 +39438,7 @@ sort: by_weight
 结发为夫妻	jié;sk fà;fy wéi;ld fū;er qī;un	100
 阶反变张量	jiē;ej fǎn;iy biàn;wy zhāng;gi liàng;ol	100
 解放村水库	jiě;dn fàng;fw cūn;ac shuǐ;ln kù;gi	100
-街坊福利会	jiē;rt fāng;tf fú;pt lì;hd huì;ry	100
+街坊福利会	jiē;rt fang;tf fú;pt lì;hd huì;ry	100
 借方和贷方	jiè;ro fāng;wv hé;hk dài;rb fāng;wv	100
 解放军部队	jiě;dn fàng;fw jūn;bi bù;le duì;er	100
 解放军大校	jiě;dn fàng;fw jūn;bi dà;ar xiào;af	100
@@ -46623,7 +46623,7 @@ sort: by_weight
 理论与实务	lǐ;wl lùn;yl yǔ;va shí;bd wù;wl	100
 理论与实验	lǐ;wl lùn;yl yǔ;va shí;bd yàn;mq	100
 理论与实战	lǐ;wl lùn;yl yǔ;va shí;bd zhàn;vg	100
-利落的短发	lì;hd luò;ck de;bu duǎn;ub fā;fy	100
+利落的短发	lì;hd luò;ck de;bu duǎn;ub fà;fy	100
 利落的发型	lì;hd luò;ck de;bu fà;fy xíng;kt	100
 利落的剪裁	lì;hd luò;ck de;bu jiǎn;bd cái;gy	100
 利落的线条	lì;hd luò;ck de;bu xiàn;sj tiáo;wa	100
@@ -50306,7 +50306,7 @@ sort: by_weight
 马哈勒山脉	mǎ;va hā;kk lè;cl shān;kl mài;oy	100
 玛哈帕腊达	mǎ;wm hā;kk pà;jb là;oo dá;zd	100
 玛哈沙拉堪	mǎ;wm hā;kk shā;du lā;fl kān;tb	100
-麻花辫发型	má;ga huā;cb biàn;xs fā;fy xíng;kt	100
+麻花辫发型	má;ga huā;cb biàn;xs fà;fy xíng;kt	100
 麻黄醇酒汤	má;ga huáng;cb chún;yz jiǔ;dy tāng;dp	100
 麻黄加术汤	má;ga huáng;cb jiā;lk shù;ad tāng;dp	100
 麻黄碱无水	má;ga huáng;cb jiǎn;uk wú;ay shuǐ;ln	100
@@ -56482,7 +56482,7 @@ sort: by_weight
 彭水电库区	péng;tp shuǐ;ln diàn;ov,yv kù;gi qū;kx	100
 彭水水电站	péng;tp shuǐ;ln shuǐ;ln diàn;ov,yv zhàn;lv	100
 蓬斯科尔夫	péng;cf sī;ct kē;hd ěr;dx fū;er	100
-蓬松的短发	péng;cf sōng;ag de;bu duǎn;ub fā;fy	100
+蓬松的短发	péng;cf sōng;ag de;bu duǎn;ub fà;fy	100
 蓬松的发型	péng;cf sōng;ag de;bu fà;fy xíng;kt	100
 蓬松的卷发	péng;cf sōng;ag de;bu juǎn;jv fà;fy	100
 蓬松的裙摆	péng;cf sōng;ag de;bu qún;pk bǎi;fq	100
@@ -57743,7 +57743,7 @@ sort: by_weight
 祺尔百服咛	qí;pb ěr;dx bǎi;ab fú;oy níng;kd	100
 祺尔百服宁	qí;pb ěr;dx bǎi;ab fú;oy níng;bd	100
 奇二次曲线	qí;dk èr;aa cì;dq qū;wc,ck xiàn;sj	100
-齐耳的短发	qí;wl ěr;ol de;bu duǎn;ub fā;fy	100
+齐耳的短发	qí;wl ěr;ol de;bu duǎn;ub fà;fy	100
 齐尔恩多夫	qí;wl ěr;dx ēn;yx duō;xx fū;er	100
 齐尔科尔斯	qí;wl ěr;dx kē;hd ěr;dx sī;ct	100
 七二零事件	qī;av èr;aa líng;ys shì;gy jiàn;rn	100
@@ -57897,7 +57897,7 @@ sort: by_weight
 祁家通背拳	qí;pe jiā;bu tōng;zy bèi;bo quán;ju	100
 旗舰处理器	qí;fb jiàn;vj chǔ;wb lǐ;wl qì;kk	100
 旗舰传感器	qí;fb jiàn;vj chuán;rv gǎn;gx qì;kk	100
-齐肩的短发	qí;wl jiān;ho de;bu duǎn;ub fā;fy	100
+齐肩的短发	qí;wl jiān;ho de;bu duǎn;ub fà;fy	100
 旗舰工作室	qí;fb jiàn;vj gōng;aa zuò;rv shì;bt	100
 旗舰级产品	qí;fb jiàn;vj jí;sj chǎn;wi pǐn;kk	100
 旗舰级车型	qí;fb jiàn;vj jí;sj chē;au xíng;kt	100
@@ -57955,7 +57955,7 @@ sort: by_weight
 期龄分析法	qī;co líng;vs fēn;bd xī;at fǎ;dq	100
 七灵石动画	qī;av líng;eh shí;ak dòng;yl huà;at	100
 芪苓益气片	qí;cu líng;cs yì;bm qì;pv piàn;pv	100
-齐刘海发型	qí;wl liú;wd hǎi;dm fā;fy xíng;kt	100
+齐刘海发型	qí;wl liú;wd hǎi;dm fà;fy xíng;kt	100
 七硫化二铼	qī;av liú;ui huà;rb èr;aa lái;jl	100
 骑楼小吃街	qí;mk lóu;an xiǎo;lb chī;kv jiē;rt	100
 齐卢伊科韦	qí;wl lú;bu yī;ry kē;hd wéi;fv	100
@@ -59557,7 +59557,7 @@ sort: by_weight
 巧克力饮品	qiǎo;gk kè;ux,ge lì;vp yǐn;uq pǐn;kk	100
 巧克力重击	qiǎo;gk kè;ux,ge lì;vp zhòng;ql jī;fk	100
 乔雷科略山	qiáo;yl léi;yt kē;hd lüè;tk shān;kl	100
-俏丽的短发	qiào;ro lì;ad de;bu duǎn;ub fā;fy	100
+俏丽的短发	qiào;ro lì;ad de;bu duǎn;ub fà;fy	100
 桥联亚甲基	qiáo;al lián;et yà;ay jiǎ;ol,tl jī;ct	100
 桥梁的设计	qiáo;al liáng;da de;bu shè;yu jì;yu	100
 桥梁防抛网	qiáo;al liáng;da fáng;ef pāo;fl wǎng;kx	100
@@ -60566,7 +60566,7 @@ sort: by_weight
 清双唇擦音	qīng;do shuāng;yy chún;ik cā;fu yīn;lo	100
 清双唇塞音	qīng;do shuāng;yy chún;ik sè;bt yīn;lo	100
 清爽的白色	qīng;do shuǎng;dx de;bu bái;po sè;db	100
-清爽的短发	qīng;do shuǎng;dx de;bu duǎn;ub fā;fy	100
+清爽的短发	qīng;do shuǎng;dx de;bu duǎn;ub fà;fy	100
 清爽的发型	qīng;do shuǎng;dx de;bu fà;fy xíng;kt	100
 清爽的感觉	qīng;do shuǎng;dx de;bu gǎn;gx jué;xj	100
 清爽的空气	qīng;do shuǎng;dx de;bu kōng;bg qì;pv	100
@@ -61996,8 +61996,8 @@ sort: by_weight
 裙子和裤子	qún;pk zi;la hé;hk kù;pi zi;la	100
 燃灯上古佛	rán;hh dēng;hd shàng;ba gǔ;uk fó;rf	100
 燃灯寺公墓	rán;hh dēng;hd sì;tc gōng;bs mù;ct	100
-染发剂过敏	rǎn;da fā;fy jì;qd guò;zc mǐn;pw	100
-染发液过敏	rǎn;da fā;fy yè;dw guò;zc mǐn;pw	100
+染发剂过敏	rǎn;da fà;fy jì;qd guò;zc mǐn;pw	100
+染发液过敏	rǎn;da fà;fy yè;dw guò;zc mǐn;pw	100
 燃放的烟花	rán;hh fàng;fw de;bu yān;hy huā;cb	100
 染过的头发	rǎn;da guò;zc de;bu tóu;dd fa;fy	100
 然后的然后	rán;xh hòu;ik de;bu rán;xh hòu;ik	100
@@ -71621,7 +71621,7 @@ sort: by_weight
 殊域周咨录	shū;dw yù;ta zhōu;kk zī;dk lù;eu	100
 书院博物馆	shū;vd yuàn;ey bó;uc wù;nw guǎn;ul	100
 书院联邦制	shū;vd yuàn;ey lián;et bāng;fe zhì;nd	100
-梳着大背头	shū;ai zhe;yo dà;ar bèi;bo tóu;dd	100
+梳着大背头	shū;ai zhe;yo dà;ar bēi;bo tóu;dd	100
 梳着丸子头	shū;ai zhe;yo wán;jd zi;la tóu;dd	100
 属正常现象	shǔ;uy zhèng;av cháng;xj xiàn;wj xiàng;du	100
 树脂充填针	shù;ac zhī;oo chōng;wy tián;tb zhēn;ju	100
@@ -75702,7 +75702,7 @@ sort: by_weight
 田村由香里	tián;wu cūn;ac yóu;ol,lt xiāng;ho lǐ;tt	100
 天大的便宜	tiān;ad dà;ar de;bu pián;rg yi;bq	100
 天大的喜事	tiān;ad dà;ar de;bu xǐ;tk shì;gy	100
-天大的冤枉	tiān;ad dà;ar de;bu yuān;bt wǎng;aw	100
+天大的冤枉	tiān;ad dà;ar de;bu yuān;bt wang;aw	100
 天大将军八	tiān;ad dà;ar jiāng;lc jūn;bi bā;pn	100
 天大将军九	tiān;ad dà;ar jiāng;lc jūn;bi jiǔ;pv	100
 天大将军六	tiān;ad dà;ar jiāng;lc jūn;bi liù;wb	100
@@ -86180,7 +86180,7 @@ sort: by_weight
 泻痢固肠丸	xiè;dy lì;bd gù;wg cháng;op wán;jd	100
 泻痢消胶囊	xiè;dy lì;bd xiāo;do jiāo;of náng;gy	100
 邪恋阴伤证	xié;ye liàn;wx yīn;eo shāng;rl zhèng;yv	100
-斜刘海发型	xié;rd liú;wd hǎi;dm fā;fy xíng;kt	100
+斜刘海发型	xié;rd liú;wd hǎi;dm fà;fy xíng;kt	100
 斜硫锑铅矿	xié;rd liú;ui tī;jd qiān;jk kuàng;ug	100
 邪留阴分证	xié;ye liú;pt yīn;eo fēn;bd zhèng;yv	100
 邪留营分证	xié;ye liú;pt yíng;ck fēn;bd zhèng;yv	100
@@ -117555,8 +117555,8 @@ sort: by_weight
 短翅迅足长蝽	duǎn;ub chì;vx xùn;zu zú;kz cháng;pn chūn;io	100
 短短几分钟内	duǎn;ub duǎn;ub jǐ;pv fēn;bd zhōng;jv nèi;kr	100
 短短十几分钟	duǎn;ub duǎn;ub shí;al jǐ;pv fēn;bd zhōng;jv	100
-短发发型图片	duǎn;ub fā;fy fà;fy xíng;kt tú;wd piàn;pv	100
-短发烫发发型	duǎn;ub fā;fy tàng;dh fà;fy fà;fy xíng;kt	100
+短发发型图片	duǎn;ub fà;fy fà;fy xíng;kt tú;wd piàn;pv	100
+短发烫发发型	duǎn;ub fà;fy tàng;dh fà;fy fà;fy xíng;kt	100
 短跟腱后天性	duǎn;ub gēn;zg jiàn;oy hòu;ik tiān;ad xìng;xu	100
 端姑阿都哈林	duān;le gū;ng ā;ek dōu;le hā;kk lín;aa	100
 短级差表示法	duǎn;ub jí;sj chā;yg biǎo;fy shì;ex,ax fǎ;dq	100
@@ -186331,7 +186331,7 @@ sort: by_weight
 敢叫日月换新天	gǎn;ew jiào;kj rì;wa yuè;ke huàn;fr xīn;lt tiān;ad	100
 赶紧行动起来吧	gǎn;tg jǐn;lx xíng;rd dòng;yl qǐ;tj lái;aa ba;kb	100
 赶紧找个男朋友	gǎn;tg jǐn;lx zhǎo;fg gè;rl nán;tl péng;oo you;uy	100
-干净利落的短发	gān;au jìng;dy lì;hd luò;ck de;bu duǎn;ub fā;fy	100
+干净利落的短发	gān;au jìng;dy lì;hd luò;ck de;bu duǎn;ub fà;fy	100
 干净利落的线条	gān;au jìng;dy lì;hd luò;ck de;bu xiàn;sj tiáo;wa	100
 肝静脉闭塞性病	gān;og jìng;fy mài;oy bì;mc sè;bt xìng;xu bìng;bn	100
 肝经湿热力能排	gān;og jīng;sj shī;dy rè;fh lì;vp néng;sb pái;ff	100
@@ -199688,7 +199688,7 @@ sort: by_weight
 咱们工人有力量	zán;kz men;rm gōng;aa rén;pn yǒu;uo lì;vp liàng;ol	100
 暂时性胃造口术	zàn;io shí;to xìng;xu wèi;to zào;zk kǒu;la shù;ad	100
 脏胸膜恶性肿瘤	zāng;ot xiōng;ox mó;od è;yx xìng;xu zhǒng;ov liú;bt	100
-早发型淋巴水肿	zǎo;ou fà;fy xíng;kt lín;da bā;sl shuǐ;ln zhǒng;ov	100
+早发型淋巴水肿	zǎo;ou fā;fy xíng;kt lín;da bā;sl shuǐ;ln zhǒng;ov	100
 早老性过早衰老	zǎo;ou lǎo;lb xìng;xu guò;zc zǎo;ou shuāi;yv lǎo;lb	100
 早期复极综合征	zǎo;ou qī;co fù;pw jí;aj zōng;su hé;rk zhēng;rv	100
 早期精神分裂症	zǎo;ou qī;co jīng;mo shén;pu fēn;bd liè;dy zhèng;bv	100
