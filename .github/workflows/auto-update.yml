@@ -48,7 +48,6 @@ jobs:
             mv "$file" "$new_name"
             echo "✅ 已重命名: $file -> $new_name"
           done
-
       - name: 提交输出文件到仓库
         env:
           GIT_AUTHOR_NAME: ci-bot
@@ -58,5 +57,12 @@ jobs:
         run: |
           cp -rf output_dicts/* .
           git add .
-          git commit -m "自动更新处理后词库 [ci skip]"
-          git push
+          
+          # 检查暂存区是否有文件变动 (--quiet 如果没有变动会返回 0)
+          if git diff --staged --quiet; then
+            echo "☕ 上游词库完全一致，没有检测到任何新更新，跳过本次提交。"
+          else
+            echo "🚀 检测到词库更新，开始提交变动..."
+            git commit -m "自动更新处理后词库 [ci skip]"
+            git push
+          fi
