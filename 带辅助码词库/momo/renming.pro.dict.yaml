@@ -275,7 +275,7 @@ sort: by_weight
 陈林	chén;ed lín;aa
 陈琳	chén;ed lín;wa
 陈霖	chén;ed lín;ya
-陈麟	chén;ed lín;lf
+陈麟	chén;ed lín;gf
 陈玲	chén;ed líng;ws
 陈灵	chén;ed líng;eh
 陈留	chén;ed liú;pt
@@ -422,7 +422,7 @@ sort: by_weight
 陈偕	chén;ed xié;rb
 陈嶰	chén;ed xiè;un
 陈谢	chén;ed xiè;yc
-陈欣	chén;ed xīn;tq
+陈欣	chén;ed xīn;iq
 陈新	chén;ed xīn;lt
 陈鑫	chén;ed xīn;jj
 陈昕	chén;ed xīn;ot
@@ -974,7 +974,7 @@ sort: by_weight
 黄利	huáng;cb lì;hd
 黄莉	huáng;cb lì;cd
 黄良	huáng;cb liáng;dg
-黄麟	huáng;cb lín;lf
+黄麟	huáng;cb lín;gf
 黄霖	huáng;cb lín;ya
 黄龄	huáng;cb líng;vs
 黄曼	huáng;cb màn;oy
@@ -1051,7 +1051,7 @@ sort: by_weight
 黄巷	huáng;cb xiàng;gs,cs
 黄晓	huáng;cb xiǎo;ow
 黄小	huáng;cb xiǎo;lb
-黄欣	huáng;cb xīn;tq
+黄欣	huáng;cb xīn;iq
 黄馨	huáng;cb xīn;to
 黄新	huáng;cb xīn;lt
 黄行	huáng;cb xíng;rd
@@ -1483,7 +1483,7 @@ sort: by_weight
 李林	lǐ;az lín;aa
 李琳	lǐ;az lín;wa
 李霖	lǐ;az lín;ya
-李麟	lǐ;az lín;lf
+李麟	lǐ;az lín;gf
 李陵	lǐ;az líng;ew
 李玲	lǐ;az líng;ws
 李凌	lǐ;az líng;dw
@@ -1550,7 +1550,7 @@ sort: by_weight
 李奇	lǐ;az qí;dk
 李琪	lǐ;az qí;wb
 李琦	lǐ;az qí;wk
-李颀	lǐ;az qí;ty
+李颀	lǐ;az qí;iy
 李期	lǐ;az qī;co
 李祁	lǐ;az qí;pe
 李潜	lǐ;az qián;do
@@ -1703,7 +1703,7 @@ sort: by_weight
 李笑	lǐ;az xiào;vy
 李燮	lǐ;az xiè;hy
 李新	lǐ;az xīn;lt
-李欣	lǐ;az xīn;tq
+李欣	lǐ;az xīn;iq
 李鑫	lǐ;az xīn;jj
 李昕	lǐ;az xīn;ot
 李锌	lǐ;az xīn;jx
@@ -2157,7 +2157,7 @@ sort: by_weight
 刘良	liú;wd liáng;dg
 刘林	liú;wd lín;aa
 刘琳	liú;wd lín;wa
-刘麟	liú;wd lín;lf
+刘麟	liú;wd lín;gf
 刘伶	liú;wd líng;rs
 刘玲	liú;wd líng;ws
 刘流	liú;wd liú;di
@@ -2204,7 +2204,7 @@ sort: by_weight
 刘权	liú;wd quán;ay
 刘群	liú;wd qún;yy
 刘仁	liú;wd rén;re
-刘韧	liú;wd rèn;wr
+刘韧	liú;wd rèn;wd
 刘荣	liú;wd róng;ca
 刘蓉	liú;wd róng;cg
 刘嵘	liú;wd róng;ua
@@ -2279,7 +2279,7 @@ sort: by_weight
 刘勰	liú;wd xié;lx
 刘鑫	liú;wd xīn;jj
 刘新	liú;wd xīn;lt
-刘欣	liú;wd xīn;tq
+刘欣	liú;wd xīn;iq
 刘忻	liú;wd xīn;xt
 刘歆	liú;wd xīn;lq
 刘信	liú;wd xìn;rk
@@ -2477,7 +2477,7 @@ sort: by_weight
 罗亭	luó;sx tíng;wd
 罗袜	luó;sx wà;pw
 罗心	luó;sx xīn;dd
-罗欣	luó;sx xīn;tq
+罗欣	luó;sx xīn;iq
 罗学	luó;sx xué;xz
 罗逊	luó;sx xùn;zx
 罗燕	luó;sx yàn;ch
@@ -2849,7 +2849,7 @@ sort: by_weight
 苏溪	sū;cb xī;dd
 苏新	sū;cb xīn;lt
 苏辛	sū;cb xīn;lu
-苏欣	sū;cb xīn;tq
+苏欣	sū;cb xīn;iq
 苏烟	sū;cb yān;hy
 苏洋	sū;cb yáng;dy
 苏益	sū;cb yì;bm
@@ -3309,7 +3309,7 @@ sort: by_weight
 王镣	wáng;at liào;jx
 王林	wáng;at lín;aa
 王琳	wáng;at lín;wa
-王麟	wáng;at lín;lf
+王麟	wáng;at lín;gf
 王玲	wáng;at líng;ws
 王凌	wáng;at líng;dw
 王令	wáng;at lìng;rs
@@ -3394,7 +3394,7 @@ sort: by_weight
 王青	wáng;at qīng;fo
 王晴	wáng;at qíng;oo
 王琼	wáng;at qióng;wx
-王丘	wáng;at qiū;ta
+王丘	wáng;at qiū;ia
 王秋	wáng;at qiū;hh
 王全	wáng;at quán;rw
 王泉	wáng;at quán;bu
@@ -3837,7 +3837,7 @@ sort: by_weight
 吴良	wú;kt liáng;dg
 吴亮	wú;kt liàng;wj
 吴林	wú;kt lín;aa
-吴麟	wú;kt lín;lf
+吴麟	wú;kt lín;gf
 吴绫	wú;kt líng;sw
 吴龙	wú;kt lóng;yp
 吴鲁	wú;kt lǔ;yo
@@ -3914,7 +3914,7 @@ sort: by_weight
 吴邪	wú;kt xié;ye
 吴昕	wú;kt xīn;ot
 吴新	wú;kt xīn;lt
-吴欣	wú;kt xīn;tq
+吴欣	wú;kt xīn;iq
 吴信	wú;kt xìn;rk
 吴兴	wú;kt xīng;xb
 吴雄	wú;kt xióng;uv
@@ -4234,7 +4234,7 @@ sort: by_weight
 徐晓	xú;rm xiǎo;ow
 徐新	xú;rm xīn;lt
 徐昕	xú;rm xīn;ot
-许欣	xǔ;yw xīn;tq
+许欣	xǔ;yw xīn;iq
 徐行	xú;rm xíng;rd
 徐星	xú;rm xīng;ou
 许行	xǔ;yw xíng;rd
@@ -4297,7 +4297,7 @@ sort: by_weight
 许字	xǔ;yw zì;bz
 严安	yán;ai ān;bn
 严城	yán;ai chéng;ti
-严斥	yán;ai chì;td
+严斥	yán;ai chì;id
 严饬	yán;ai chì;ul
 严道	yán;ai dào;zz
 严光	yán;ai guāng;xe
@@ -4372,7 +4372,7 @@ sort: by_weight
 杨廉	yáng;ap lián;gj
 杨烈	yáng;ap liè;dh
 杨琳	yáng;ap lín;wa
-杨麟	yáng;ap lín;lf
+杨麟	yáng;ap lín;gf
 杨岭	yáng;ap lǐng;us
 杨楼	yáng;ap lóu;an
 杨茂	yáng;ap mào;cg
@@ -5202,7 +5202,7 @@ sort: by_weight
 赵良	zhào;tx liáng;dg
 赵林	zhào;tx lín;aa
 赵琳	zhào;tx lín;wa
-赵麟	zhào;tx lín;lf
+赵麟	zhào;tx lín;gf
 赵令	zhào;tx lìng;rs
 赵玲	zhào;tx líng;ws
 赵岭	zhào;tx lǐng;us
@@ -5403,7 +5403,7 @@ sort: by_weight
 郑亮	zhèng;be liàng;wj
 郑林	zhèng;be lín;aa
 郑琳	zhèng;be lín;wa
-郑麟	zhèng;be lín;lf
+郑麟	zhèng;be lín;gf
 郑龙	zhèng;be lóng;yp
 郑隆	zhèng;be lóng;eu
 郑路	zhèng;be lù;zk
@@ -5561,7 +5561,7 @@ sort: by_weight
 周蕾	zhōu;kk lěi;ct
 周理	zhōu;kk lǐ;wl
 周亮	zhōu;kk liàng;wj
-周麟	zhōu;kk lín;lf
+周麟	zhōu;kk lín;gf
 周林	zhōu;kk lín;aa
 周琳	zhōu;kk lín;wa
 周令	zhōu;kk lìng;rs
@@ -5641,7 +5641,7 @@ sort: by_weight
 周晓	zhōu;kk xiǎo;ow
 周昕	zhōu;kk xīn;ot
 周信	zhōu;kk xìn;rk
-周欣	zhōu;kk xīn;tq
+周欣	zhōu;kk xīn;iq
 周星	zhōu;kk xīng;ou
 周兴	zhōu;kk xīng;xb
 周雄	zhōu;kk xióng;uv
@@ -5813,7 +5813,7 @@ sort: by_weight
 白永成	bái;po yǒng;du chéng;gv
 蔡昭姬	cài;cu zhāo;ok jī;ni
 曹邦辅	cáo;co bāng;fe fǔ;if
-曹宝麟	cáo;co bǎo;by lín;lf
+曹宝麟	cáo;co bǎo;by lín;gf
 曹秉局	cáo;co bǐng;qr jú;uk
 曹伯阳	cáo;co bó;rb yáng;eo
 曹不兴	cáo;co bù;ab xīng;xb
@@ -5871,7 +5871,7 @@ sort: by_weight
 曹恒梃	cáo;co héng;xd tǐng;aw
 曹红辉	cáo;co hóng;sg huī;gi
 曹宏威	cáo;co hóng;bs wēi;gn
-曹洪欣	cáo;co hóng;dg xīn;tq
+曹洪欣	cáo;co hóng;dg xīn;iq
 曹鸿勋	cáo;co hóng;dn xūn;kl
 曹华恩	cáo;co huá;ru ēn;yx
 曹桓公	cáo;co huán;ad gōng;bs
@@ -6030,7 +6030,7 @@ sort: by_weight
 曹学军	cáo;co xué;xz jūn;bi
 曹学佺	cáo;co xué;xz quán;rw
 曹薰襄	cáo;co xūn;ch xiāng;yf
-曹亚麟	cáo;co yà;ay lín;lf
+曹亚麟	cáo;co yà;ay lín;gf
 曹亚文	cáo;co yà;ay wén;wx
 曹雅雯	cáo;co yǎ;yv wén;yw
 曹焱兵	cáo;co yàn;hh bīng;qb
@@ -6679,7 +6679,7 @@ sort: by_weight
 陈国良	chén;ed guó;wy liáng;dg
 陈国梁	chén;ed guó;wy liáng;da
 陈国亮	chén;ed guó;wy liàng;wj
-陈国麟	chén;ed guó;wy lín;lf
+陈国麟	chén;ed guó;wy lín;gf
 陈国龙	chén;ed guó;wy lóng;yp
 陈国民	chén;ed guó;wy mín;vv
 陈国明	chén;ed guó;wy míng;oo
@@ -6815,7 +6815,7 @@ sort: by_weight
 陈鸿楷	chén;ed hóng;dn kǎi;ab
 陈洪亮	chén;ed hóng;dg liàng;wj
 陈鸿烈	chén;ed hóng;dn liè;dh
-陈宏麟	chén;ed hóng;bs lín;lf
+陈宏麟	chén;ed hóng;bs lín;gf
 陈红梅	chén;ed hóng;sg méi;am
 陈宏名	chén;ed hóng;bs míng;xk
 陈洪明	chén;ed hóng;dg míng;oo
@@ -7067,7 +7067,7 @@ sort: by_weight
 陈嘉文	chén;ed jiā;tk wén;wx
 陈嘉贤	chén;ed jiā;tk xián;lb
 陈家祥	chén;ed jiā;bu xiáng;py
-陈嘉欣	chén;ed jiā;tk xīn;tq
+陈嘉欣	chén;ed jiā;tk xīn;iq
 陈嘉新	chén;ed jiā;tk xīn;lt
 陈佳鑫	chén;ed jiā;rt xīn;jj
 陈嘉行	chén;ed jiā;tk xíng;rd
@@ -7368,7 +7368,7 @@ sort: by_weight
 陈楷雯	chén;ed kǎi;ab wén;yw
 陈凯文	chén;ed kǎi;uj wén;wx
 陈凯先	chén;ed kǎi;uj xiān;ne
-陈凯欣	chén;ed kǎi;uj xīn;tq
+陈凯欣	chén;ed kǎi;uj xīn;iq
 陈开心	chén;ed kāi;ac xīn;dd
 陈凯旋	chén;ed kǎi;uj xuán;fz
 陈凯怡	chén;ed kǎi;uj yí;xk
@@ -7394,7 +7394,7 @@ sort: by_weight
 陈科睿	chén;ed kē;hd ruì;bo
 陈克文	chén;ed kè;ux,ge wén;wx
 陈克祥	chén;ed kè;ux,ge xiáng;py
-陈可欣	chén;ed kě;dk xīn;tq
+陈可欣	chén;ed kě;dk xīn;iq
 陈科妤	chén;ed kē;hd yú;ny
 陈柯宇	chén;ed kē;ak yǔ;by
 陈渴真	chén;ed kě;dr zhēn;ub
@@ -7402,7 +7402,7 @@ sort: by_weight
 陈空崖	chén;ed kōng;bg yá;ut
 陈匡荣	chén;ed kuāng;kw róng;ca
 陈匡怡	chén;ed kuāng;kw yí;xk
-陈夔麟	chén;ed kuí;bw lín;lf
+陈夔麟	chén;ed kuí;bw lín;gf
 陈夔龙	chén;ed kuí;bw lóng;yp
 陈奎元	chén;ed kuí;dt yuán;aw
 陈昆福	chén;ed kūn;ob fú;pt
@@ -7604,7 +7604,7 @@ sort: by_weight
 陈梦希	chén;ed mèng;ax xī;xj
 陈孟贤	chén;ed mèng;zm xián;lb
 陈梦协	chén;ed mèng;ax xié;ub
-陈孟欣	chén;ed mèng;zm xīn;tq
+陈孟欣	chén;ed mèng;zm xīn;iq
 陈梦瑶	chén;ed mèng;ax yáo;wf
 陈梦渔	chén;ed mèng;ax yú;dy
 陈梦泽	chén;ed mèng;ax zé;df
@@ -7797,7 +7797,7 @@ sort: by_weight
 陈其通	chén;ed qí;cb tōng;zy
 陈启文	chén;ed qǐ;hk wén;wx
 陈绮雯	chén;ed qǐ;sk wén;yw
-陈麒文	chén;ed qí;lb wén;wx
+陈麒文	chén;ed qí;gb wén;wx
 陈启祥	chén;ed qǐ;hk xiáng;py
 陈启修	chén;ed qǐ;hk xiū;rp
 陈启宇	chén;ed qǐ;hk yǔ;by
@@ -7884,13 +7884,13 @@ sort: by_weight
 陈去疾	chén;ed qù;ts jí;bu
 陈渠珍	chén;ed qú;da zhēn;wp
 陈全国	chén;ed quán;rw guó;wy
-陈权欣	chén;ed quán;ay xīn;tq
+陈权欣	chén;ed quán;ay xīn;iq
 陈全训	chén;ed quán;rw xùn;yi
 陈群国	chén;ed qún;yy guó;wy
 陈仁宏	chén;ed rén;re hóng;bs
 陈仁洪	chén;ed rén;re hóng;dg
 陈仁杰	chén;ed rén;re jié;ah
-陈仁麒	chén;ed rén;re qí;lb
+陈仁麒	chén;ed rén;re qí;gb
 陈仁锡	chén;ed rén;re xī;jw
 陈仁玉	chén;ed rén;re yù;wd
 陈仁宗	chén;ed rén;re zōng;bu
@@ -8094,7 +8094,7 @@ sort: by_weight
 陈诗娴	chén;ed shī;yc xián;na
 陈仕贤	chén;ed shì;rt xián;lb
 陈世骧	chén;ed shì;cv xiāng;mf
-陈诗欣	chén;ed shī;yc xīn;tq
+陈诗欣	chén;ed shī;yc xīn;iq
 陈师行	chén;ed shī;lj xíng;rd
 陈世兴	chén;ed shì;cv xīng;xb
 陈世雄	chén;ed shì;cv xióng;uv
@@ -8323,7 +8323,7 @@ sort: by_weight
 陈庭诗	chén;ed tíng;gw shī;yc
 陈婷婷	chén;ed tíng;nd tíng;nd
 陈庭威	chén;ed tíng;gw wēi;gn
-陈庭欣	chén;ed tíng;gw xīn;tq
+陈庭欣	chén;ed tíng;gw xīn;iq
 陈廷秀	chén;ed tíng;zw xiù;hn
 陈廷轩	chén;ed tíng;zw xuān;ig
 陈庭萱	chén;ed tíng;gw xuān;cd
@@ -8344,7 +8344,7 @@ sort: by_weight
 陈万里	chén;ed wàn;av lǐ;tt
 陈宛茜	chén;ed wǎn;bv qiàn;cx
 陈万青	chén;ed wàn;av qīng;fo
-陈万仞	chén;ed wàn;av rèn;rr
+陈万仞	chén;ed wàn;av rèn;rd
 陈婉婷	chén;ed wǎn;nv tíng;nd
 陈菀婷	chén;ed wǎn;cv tíng;nd
 陈宛蔚	chén;ed wǎn;bv wèi;cc
@@ -8722,7 +8722,7 @@ sort: by_weight
 陈肖霞	chén;ed xiāo;xo xiá;yy
 陈小小	chén;ed xiǎo;lb xiǎo;lb
 陈晓晓	chén;ed xiǎo;ow xiǎo;ow
-陈晓欣	chén;ed xiǎo;ow xīn;tq
+陈晓欣	chén;ed xiǎo;ow xīn;iq
 陈晓旭	chén;ed xiǎo;ow xù;jo
 陈孝萱	chén;ed xiào;lz xuān;cd
 陈晓雪	chén;ed xiǎo;ow xuě;ye
@@ -8762,32 +8762,32 @@ sort: by_weight
 陈新华	chén;ed xīn;lt huá;ru
 陈新惠	chén;ed xīn;lt huì;ix
 陈新甲	chén;ed xīn;lt jiǎ;ol,tl
-陈欣健	chén;ed xīn;tq jiàn;ry
+陈欣健	chén;ed xīn;iq jiàn;ry
 陈新民	chén;ed xīn;lt mín;vv
 陈新明	chén;ed xīn;lt míng;oo
-陈欣淇	chén;ed xīn;tq qí;db
+陈欣淇	chén;ed xīn;iq qí;db
 陈信全	chén;ed xìn;rk quán;rw
-陈欣然	chén;ed xīn;tq rán;xh
+陈欣然	chén;ed xīn;iq rán;xh
 陈信仁	chén;ed xìn;rk rén;re
 陈信荣	chén;ed xìn;rk róng;ca
 陈馨彤	chén;ed xīn;to tóng;dp
 陈昕葳	chén;ed xīn;ot wēi;cn
 陈新武	chén;ed xīn;lt wǔ;gv
 陈新侠	chén;ed xīn;lt xiá;rj
-陈欣欣	chén;ed xīn;tq xīn;tq
-陈欣新	chén;ed xīn;tq xīn;lt
+陈欣欣	chén;ed xīn;iq xīn;iq
+陈欣新	chén;ed xīn;iq xīn;lt
 陈信延	chén;ed xìn;rk yán;zv
-陈欣妍	chén;ed xīn;tq yán;nk
+陈欣妍	chén;ed xīn;iq yán;nk
 陈心遥	chén;ed xīn;dd yáo;zf
-陈欣怡	chén;ed xīn;tq yí;xk
+陈欣怡	chén;ed xīn;iq yí;xk
 陈芯宜	chén;ed xīn;cx yí;bq
 陈薪伊	chén;ed xīn;ct yī;ry
 陈心怡	chén;ed xīn;dd yí;xk
-陈欣茵	chén;ed xīn;tq yīn;cy
+陈欣茵	chén;ed xīn;iq yīn;cy
 陈心颖	chén;ed xīn;dd yǐng;bh
-陈欣予	chén;ed xīn;tq yǔ;sl
+陈欣予	chén;ed xīn;iq yǔ;sl
 陈新宇	chén;ed xīn;lt yǔ;by
-陈欣妤	chén;ed xīn;tq yú;ny
+陈欣妤	chén;ed xīn;iq yú;ny
 陈信远	chén;ed xìn;rk yuǎn;zy
 陈新元	chén;ed xīn;lt yuán;aw
 陈忻玥	chén;ed xīn;xt yuè;wo
@@ -8846,7 +8846,7 @@ sort: by_weight
 陈序经	chén;ed xù;gy jīng;sj
 陈旭君	chén;ed xù;jo jūn;yk
 陈旭亮	chén;ed xù;jo liàng;wj
-陈旭麓	chén;ed xù;jo lù;al
+陈旭麓	chén;ed xù;jo lù;ab
 陈旭明	chén;ed xù;jo míng;oo
 陈旭年	chén;ed xù;jo nián;pf
 陈旭升	chén;ed xù;jo shēng;pc
@@ -8980,7 +8980,7 @@ sort: by_weight
 陈瑶湖	chén;ed yáo;wf hú;do
 陈耀华	chén;ed yào;gv huá;ru
 陈耀辉	chén;ed yào;gv huī;gi
-陈耀麟	chén;ed yào;gv lín;lf
+陈耀麟	chén;ed yào;gv lín;gf
 陈曜旻	chén;ed yào;ov mín;ow
 陈耀楠	chén;ed yào;gv nán;ag
 陈耀南	chén;ed yào;gv nán;ug
@@ -9104,7 +9104,7 @@ sort: by_weight
 陈英金	chén;ed yīng;cy jīn;rb
 陈英俊	chén;ed yīng;cy jùn;rw
 陈盈骏	chén;ed yíng;nm jùn;mw
-陈应麟	chén;ed yīng;ga lín;lf
+陈应麟	chén;ed yīng;ga lín;gf
 陈莹霖	chén;ed yíng;cy lín;ya
 陈应龙	chén;ed yìng;ga lóng;yp
 陈撄宁	chén;ed yīng;fn níng;bd
@@ -9116,7 +9116,7 @@ sort: by_weight
 陈英泰	chén;ed yīng;cy tài;iu
 陈樱文	chén;ed yīng;an wén;wx
 陈颍熙	chén;ed yǐng;bu xī;ih
-陈颖欣	chén;ed yǐng;bh xīn;tq
+陈颖欣	chén;ed yǐng;bh xīn;iq
 陈英雄	chén;ed yīng;cy xióng;uv
 陈颖妍	chén;ed yǐng;bh yán;nk
 陈盈燕	chén;ed yíng;nm yàn;ch
@@ -9242,8 +9242,8 @@ sort: by_weight
 陈禺霖	chén;ed yú;td lín;ya
 陈玉林	chén;ed yù;wd lín;aa
 陈昱霖	chén;ed yù;ol lín;ya
-陈玉麟	chén;ed yù;wd lín;lf
-陈毓麟	chén;ed yù;pi lín;lf
+陈玉麟	chén;ed yù;wd lín;gf
+陈毓麟	chén;ed yù;pi lín;gf
 陈玉玲	chén;ed yù;wd líng;ws
 陈玉龙	chén;ed yù;wd lóng;yp
 陈雨露	chén;ed yǔ;ad lù;yk
@@ -9415,7 +9415,7 @@ sort: by_weight
 陈兆民	chén;ed zhào;ed mín;vv
 陈兆明	chén;ed zhào;ed míng;oo
 陈昭南	chén;ed zhāo;ok nán;ug
-陈肇麒	chén;ed zhào;hy qí;lb
+陈肇麒	chén;ed zhào;hy qí;gb
 陈兆锵	chén;ed zhào;ed qiāng;jc
 陈昭荣	chén;ed zhāo;ok róng;ca
 陈兆荣	chén;ed zhào;ed róng;ca
@@ -9649,7 +9649,7 @@ sort: by_weight
 陈卓林	chén;ed zhuó;bu lín;aa
 陈灼明	chén;ed zhuó;hu míng;oo
 陈卓贤	chén;ed zhuó;bu xián;lb
-陈卓欣	chén;ed zhuó;bu xīn;tq
+陈卓欣	chén;ed zhuó;bu xīn;iq
 陈卓璇	chén;ed zhuó;bu xuán;wz
 陈卓智	chén;ed zhuó;bu zhì;uo
 陈子昂	chén;ed zǐ;la áng;oe
@@ -9770,7 +9770,7 @@ sort: by_weight
 程蝶衣	chéng;hw dié;ia yī;wy
 程定华	chéng;hw dìng;bz huá;ru
 程恩泽	chéng;hw ēn;yx zé;df
-程发轫	chéng;hw fā;fy rèn;ir
+程发轫	chéng;hw fā;fy rèn;id
 程方岩	chéng;hw fāng;wv yán;uu
 程高本	chéng;hw gāo;wk běn;aa
 程公许	chéng;hw gōng;bs xǔ;yw
@@ -9783,7 +9783,7 @@ sort: by_weight
 程海诺	chéng;hw hǎi;dm nuò;yk
 程皓枫	chéng;hw hào;bk fēng;af
 程皓如	chéng;hw hào;bk rú;nk
-程鹤麟	chéng;hw hè;bn lín;lf
+程鹤麟	chéng;hw hè;bn lín;gf
 程和仲	chéng;hw hé;hk zhòng;rv
 程寰海	chéng;hw huán;by hǎi;dm
 程季华	chéng;hw jì;hz huá;ru
@@ -9878,7 +9878,7 @@ sort: by_weight
 程文季	chéng;hw wén;wx jì;hz
 程文杰	chéng;hw wén;wx jié;ah
 程文路	chéng;hw wén;wx lù;zk
-程文欣	chéng;hw wén;wx xīn;tq
+程文欣	chéng;hw wén;wx xīn;iq
 程务挺	chéng;hw wù;wl tǐng;fw
 程相文	chéng;hw xiāng;ao wén;wx
 程小东	chéng;hw xiǎo;lb dōng;ax
@@ -9955,7 +9955,7 @@ sort: by_weight
 褚明宇	chǔ;po míng;oo yǔ;by
 褚人获	chǔ;po rén;pn huò;cq
 褚少孙	chǔ;po shǎo;xp sūn;zx
-褚圣麟	chǔ;po shèng;yt lín;lf
+褚圣麟	chǔ;po shèng;yt lín;gf
 褚师段	chǔ;po shī;lj duàn;pu
 褚栓忠	chǔ;po shuān;aw zhōng;vx
 褚蒜子	chǔ;po suàn;cu zi;la
@@ -10203,7 +10203,7 @@ sort: by_weight
 崔英杰	cuī;uv yīng;cy jié;ah
 崔应阶	cuī;uv yīng;ga jiē;ej
 崔英俊	cuī;uv yīng;cy jùn;rw
-崔应麒	cuī;uv yīng;ga qí;lb
+崔应麒	cuī;uv yīng;ga qí;gb
 崔英勋	cuī;uv yīng;cy xūn;kl
 崔莺莺	cuī;uv yīng;cn yīng;cn
 崔永安	cuī;uv yǒng;du ān;bn
@@ -10522,7 +10522,7 @@ sort: by_weight
 丁云章	dīng;al yún;ag,es zhāng;lu
 丁皂保	dīng;al zào;bq bǎo;ra
 丁泽仁	dīng;al zé;df rén;re
-丁兆麟	dīng;al zhào;ed lín;lf
+丁兆麟	dīng;al zhào;ed lín;gf
 丁志城	dīng;al zhì;tx chéng;ti
 丁志刚	dīng;al zhì;tx gāng;kd
 丁志辉	dīng;al zhì;tx huī;gi
@@ -10849,7 +10849,7 @@ sort: by_weight
 杜小月	dù;at xiǎo;lb yuè;ke
 杜忻恬	dù;at xīn;xt tián;xu
 杜心五	dù;at xīn;dd wǔ;aw
-杜欣欣	dù;at xīn;tq xīn;tq
+杜欣欣	dù;at xīn;iq xīn;iq
 杜新枝	dù;at xīn;lt zhī;av
 杜修贤	dù;at xiū;rp xián;lb
 杜雪儿	dù;at xuě;ye ér;pv
@@ -11051,7 +11051,7 @@ sort: by_weight
 冯白驹	féng;dm bái;po jū;mj
 冯柏源	féng;dm bǎi;ab yuán;dx
 冯宝华	féng;dm bǎo;by huá;ru
-冯宝麟	féng;dm bǎo;by lín;lf
+冯宝麟	féng;dm bǎo;by lín;gf
 冯贝堡	féng;dm bèi;kr bǎo;rt
 冯贝林	féng;dm bèi;kr lín;aa
 冯秉芬	féng;dm bǐng;qr fēn;cf
@@ -11086,7 +11086,7 @@ sort: by_weight
 冯道根	féng;dm dào;zz gēn;ag
 冯道时	féng;dm dào;zz shí;to
 冯道之	féng;dm dào;zz zhī;dn
-冯德麟	féng;dm dé;rx lín;lf
+冯德麟	féng;dm dé;rx lín;gf
 冯德培	féng;dm dé;rx péi;tk
 冯德全	féng;dm dé;rx quán;rw
 冯德英	féng;dm dé;rx yīng;cy
@@ -11206,7 +11206,7 @@ sort: by_weight
 冯利民	féng;dm lì;hd mín;vv
 冯李希	féng;dm lǐ;az xī;xj
 冯两努	féng;dm liǎng;ar nǔ;nl
-冯麟阁	féng;dm lín;lf gé;mk
+冯麟阁	féng;dm lín;gf gé;mk
 冯罗严	féng;dm luó;sx yán;ai
 冯曼施	féng;dm màn;oy shī;fy
 冯满天	féng;dm mǎn;dl tiān;ad
@@ -11574,7 +11574,7 @@ sort: by_weight
 郭佳佳	guō;we jiā;rt jiā;rt
 郭家明	guō;we jiā;bu míng;oo
 郭嘉诺	guō;we jiā;tk nuò;yk
-郭家麒	guō;we jiā;bu qí;lb
+郭家麒	guō;we jiā;bu qí;gb
 郭家山	guō;we jiā;bu shān;kl
 郭佳氏	guō;we jiā;rt shì;pv
 郭家沱	guō;we jiā;bu tuó;db
@@ -11800,7 +11800,7 @@ sort: by_weight
 郭信良	guō;we xìn;rk liáng;dg
 郭新明	guō;we xīn;lt míng;oo
 郭鑫年	guō;we xīn;jj nián;pf
-郭欣欣	guō;we xīn;tq xīn;tq
+郭欣欣	guō;we xīn;iq xīn;iq
 郭心心	guō;we xīn;dd xīn;dd
 郭馨雅	guō;we xīn;to yǎ;yv
 郭兴福	guō;we xīng;xb fú;pt
@@ -12042,7 +12042,7 @@ sort: by_weight
 韩练成	hán;uw liàn;sd chéng;gv
 韩良露	hán;uw liáng;dg lù;yk
 韩烈侯	hán;uw liè;dh hóu;ru
-韩麟春	hán;uw lín;lf chūn;io
+韩麟春	hán;uw lín;gf chūn;io
 韩令坤	hán;uw lìng;rs kūn;tu
 韩陵山	hán;uw líng;ew shān;kl
 韩流风	hán;uw liú;di fēng;jx
@@ -12064,7 +12064,7 @@ sort: by_weight
 韩鹏飞	hán;uw péng;on fēi;vd
 韩鹏前	hán;uw péng;on qián;bd
 韩启德	hán;uw qǐ;hk dé;rx
-韩麒麟	hán;uw qí;lb lín;lf
+韩麒麟	hán;uw qí;gb lín;gf
 韩蕲王	hán;uw qí;ct wáng;at
 韩企先	hán;uw qǐ;rv xiān;ne
 韩起祥	hán;uw qǐ;tj xiáng;py
@@ -12349,7 +12349,7 @@ sort: by_weight
 何俊明	hé;rk jùn;rw míng;oo
 何克夫	hé;rk kè;ux,ge fū;er
 何可人	hé;rk kě;dk rén;pn
-何可欣	hé;rk kě;dk xīn;tq
+何可欣	hé;rk kě;dk xīn;iq
 何立峰	hé;rk lì;wb fēng;uf
 何丽娟	hé;rk lì;ad juān;no
 何黎明	hé;rk lí;hu míng;oo
@@ -12414,9 +12414,9 @@ sort: by_weight
 何小敏	hé;rk xiǎo;lb mǐn;pw
 何小平	hé;rk xiǎo;lb píng;au
 何小萍	hé;rk xiǎo;lb píng;cp
-何欣荣	hé;rk xīn;tq róng;ca
-何欣穗	hé;rk xīn;tq suì;hx
-何欣桐	hé;rk xīn;tq tóng;ak
+何欣荣	hé;rk xīn;iq róng;ca
+何欣穗	hé;rk xīn;iq suì;hx
+何欣桐	hé;rk xīn;iq tóng;ak
 何心隐	hé;rk xīn;dd yǐn;ex
 何秀碧	hé;rk xiù;hn bì;wu
 何秀超	hé;rk xiù;hn chāo;tk
@@ -12485,7 +12485,7 @@ sort: by_weight
 黄齐生	huáng;cb qí;wl shēng;pf
 黄琦雯	huáng;cb qí;wk wén;yw
 黄琪翔	huáng;cb qí;wb xiáng;yx
-黄麒英	huáng;cb qí;lb yīng;cy
+黄麒英	huáng;cb qí;gb yīng;cy
 黄倩萍	huáng;cb qiàn;ro píng;cp
 黄芊芊	huáng;cb qiān;cq qiān;cq
 黄潜善	huáng;cb qián;do shàn;yk
@@ -12818,7 +12818,7 @@ sort: by_weight
 蒋良骐	jiǎng;cc liáng;dg qí;mb
 姜林东	jiāng;yn lín;aa dōng;ax
 蒋林静	jiǎng;cc lín;aa jìng;fy
-蒋麟征	jiǎng;cc lín;lf zhēng;rv
+蒋麟征	jiǎng;cc lín;gf zhēng;rv
 蒋璐霞	jiǎng;cc lù;wk xiá;yy
 蒋梅英	jiǎng;cc méi;am yīng;cy
 蒋梦婕	jiǎng;cc mèng;ax jié;nz
@@ -12979,7 +12979,7 @@ sort: by_weight
 蒋吟秋	jiǎng;cc yín;kv qiū;hh
 姜英俊	jiāng;yn yīng;cy jùn;rw
 蒋英实	jiǎng;cc yīng;cy shí;bd
-蒋颖欣	jiǎng;cc yǐng;bh xīn;tq
+蒋颖欣	jiǎng;cc yǐng;bh xīn;iq
 蒋英羽	jiǎng;cc yīng;cy yǔ;xx
 姜咏鑫	jiāng;yn yǒng;ky xīn;jj
 蒋有记	jiǎng;cc yǒu;uo jì;yj
@@ -13490,7 +13490,7 @@ sort: by_weight
 雷区三	léi;yt qū;kx sān;ae
 雷区一	léi;yt qū;kx yī;aa
 雷荣祖	léi;yt róng;ca zǔ;pq
-雷瑞麟	léi;yt ruì;we lín;lf
+雷瑞麟	léi;yt ruì;we lín;gf
 雷塞普	léi;yt sāi;bt pǔ;bo
 雷瑟琳	léi;yt sè;wb lín;wa
 雷山脉	léi;yt shān;kl mài;oy
@@ -13858,7 +13858,7 @@ sort: by_weight
 李彩虹	lǐ;az cǎi;vp hóng;ig
 李彩桦	lǐ;az cǎi;vp huà;au
 李彩华	lǐ;az cǎi;vp huá;ru
-李彩麟	lǐ;az cǎi;vp lín;lf
+李彩麟	lǐ;az cǎi;vp lín;gf
 李彩琳	lǐ;az cǎi;vp lín;wa
 李彩领	lǐ;az cǎi;vp lǐng;ry	13
 李偲菘	lǐ;az cāi;rx sōng;cg
@@ -14584,7 +14584,7 @@ sort: by_weight
 李公甫	lǐ;az gōng;bs fǔ;uy
 李公河	lǐ;az gōng;bs hé;dk
 李公乐	lǐ;az gōng;bs lè;px
-李公麟	lǐ;az gōng;bs lín;lf
+李公麟	lǐ;az gōng;bs lín;gf
 李公楼	lǐ;az gōng;bs lóu;an
 李公庙	lǐ;az gōng;bs miào;gy
 李公朴	lǐ;az gōng;bs pǔ;ab
@@ -14716,7 +14716,7 @@ sort: by_weight
 李国立	lǐ;az guó;wy lì;wb
 李国良	lǐ;az guó;wy liáng;dg
 李国梁	lǐ;az guó;wy liáng;da
-李国麟	lǐ;az guó;wy lín;lf
+李国麟	lǐ;az guó;wy lín;gf
 李国林	lǐ;az guó;wy lín;aa
 李国龙	lǐ;az guó;wy lóng;yp
 李国民	lǐ;az guó;wy mín;vv
@@ -14803,7 +14803,7 @@ sort: by_weight
 李海涛	lǐ;az hǎi;dm tāo;dc
 李海文	lǐ;az hǎi;dm wén;wx
 李海霞	lǐ;az hǎi;dm xiá;yy
-李海欣	lǐ;az hǎi;dm xīn;tq
+李海欣	lǐ;az hǎi;dm xīn;iq
 李海新	lǐ;az hǎi;dm xīn;lt
 李海燕	lǐ;az hǎi;dm yàn;ch
 李海洋	lǐ;az hǎi;dm yáng;dy
@@ -15114,7 +15114,7 @@ sort: by_weight
 李惠文	lǐ;az huì;ix wén;wx
 李蕙仙	lǐ;az huì;cx xiān;ru
 李慧娴	lǐ;az huì;fx xián;na
-李慧欣	lǐ;az huì;fx xīn;tq
+李慧欣	lǐ;az huì;fx xīn;iq
 李晖仪	lǐ;az huī;oi yí;ry
 李慧英	lǐ;az huì;fx yīng;cy
 李惠英	lǐ;az huì;ix yīng;cy
@@ -15304,7 +15304,7 @@ sort: by_weight
 李佳昕	lǐ;az jiā;rt xīn;ot
 李佳芯	lǐ;az jiā;rt xīn;cx
 李佳馨	lǐ;az jiā;rt xīn;to
-李佳欣	lǐ;az jiā;rt xīn;tq
+李佳欣	lǐ;az jiā;rt xīn;iq
 李嘉馨	lǐ;az jiā;tk xīn;to
 李家兴	lǐ;az jiā;bu xīng;xb
 李佳星	lǐ;az jiā;rt xīng;ou
@@ -15830,7 +15830,7 @@ sort: by_weight
 李丽霞	lǐ;az lì;ad xiá;yy
 李李翔	lǐ;az lǐ;az xiáng;yx
 李立新	lǐ;az lì;wb xīn;lt
-李丽欣	lǐ;az lì;ad xīn;tq
+李丽欣	lǐ;az lì;ad xīn;iq
 李丽英	lǐ;az lì;ad yīng;cy
 李丽云	lǐ;az lì;ad yún;ag,es
 李丽质	lǐ;az lì;ad zhì;ib
@@ -15873,7 +15873,7 @@ sort: by_weight
 李林松	lǐ;az lín;aa sōng;ag
 李林塔	lǐ;az lín;aa tǎ;tk
 李林祥	lǐ;az lín;aa xiáng;py
-李麟玉	lǐ;az lín;lf yù;wd
+李麟玉	lǐ;az lín;gf yù;wd
 李陵碑	lǐ;az líng;ew bēi;uu
 李令恩	lǐ;az lìng;rs ēn;yx
 李灵峰	lǐ;az líng;eh fēng;uf
@@ -15976,7 +15976,7 @@ sort: by_weight
 李梅素	lǐ;az méi;am sù;fx
 李美熙	lǐ;az měi;yd xī;ih
 李美贤	lǐ;az měi;yd xián;lb
-李美欣	lǐ;az měi;yd xīn;tq
+李美欣	lǐ;az měi;yd xīn;iq
 李梅杏	lǐ;az méi;am xìng;ak
 李美妍	lǐ;az měi;yd yán;nk
 李美英	lǐ;az měi;yd yīng;cy
@@ -16037,7 +16037,7 @@ sort: by_weight
 李敏林	lǐ;az mǐn;pw lín;aa
 李民年	lǐ;az mín;vv nián;pf
 李珉廷	lǐ;az mín;wm tíng;zw
-李民欣	lǐ;az mín;vv xīn;tq
+李民欣	lǐ;az mín;vv xīn;iq
 李民雄	lǐ;az mín;vv xióng;uv
 李敏妍	lǐ;az mǐn;pw yán;nk
 李敏仪	lǐ;az mǐn;pw yí;ry
@@ -16251,7 +16251,7 @@ sort: by_weight
 李启杰	lǐ;az qǐ;hk jié;ah
 李栖筠	lǐ;az qī;ax jūn;vy
 李奇霖	lǐ;az qí;dk lín;ya
-李麒麟	lǐ;az qí;lb lín;lf
+李麒麟	lǐ;az qí;gb lín;gf
 李奇茂	lǐ;az qí;dk mào;cg
 李启民	lǐ;az qǐ;hk mín;vv
 李启明	lǐ;az qǐ;hk míng;oo
@@ -16467,7 +16467,7 @@ sort: by_weight
 李瑞环	lǐ;az ruì;we huán;wb
 李锐杰	lǐ;az ruì;jx jié;ah
 李瑞杰	lǐ;az ruì;we jié;ah
-李瑞麟	lǐ;az ruì;we lín;lf
+李瑞麟	lǐ;az ruì;we lín;gf
 李瑞敏	lǐ;az ruì;we mǐn;pw
 李瑞年	lǐ;az ruì;we nián;pf
 李瑞清	lǐ;az ruì;we qīng;do
@@ -16924,7 +16924,7 @@ sort: by_weight
 李思侠	lǐ;az sī;tx xiá;rj
 李思贤	lǐ;az sī;tx xián;lb
 李思孝	lǐ;az sī;tx xiào;lz
-李思欣	lǐ;az sī;tx xīn;tq
+李思欣	lǐ;az sī;tx xīn;iq
 李嗣兴	lǐ;az sì;kk xīng;xb
 李思训	lǐ;az sī;tx xùn;yi
 李思雅	lǐ;az sī;tx yǎ;yv
@@ -17358,7 +17358,7 @@ sort: by_weight
 李文贤	lǐ;az wén;wx xián;lb
 李文祥	lǐ;az wén;wx xiáng;py
 李文新	lǐ;az wén;wx xīn;lt
-李文欣	lǐ;az wén;wx xīn;tq
+李文欣	lǐ;az wén;wx xīn;iq
 李文信	lǐ;az wén;wx xìn;rk
 李文星	lǐ;az wén;wx xīng;ou
 李文雄	lǐ;az wén;wx xióng;uv
@@ -17492,7 +17492,7 @@ sort: by_weight
 李相俊	lǐ;az xiāng;ao jùn;rw
 李香林	lǐ;az xiāng;ho lín;aa
 李相林	lǐ;az xiāng;ao lín;aa
-李祥麟	lǐ;az xiáng;py lín;lf
+李祥麟	lǐ;az xiáng;py lín;gf
 李相龙	lǐ;az xiāng;ao lóng;yp
 李相仑	lǐ;az xiāng;ao lún;rb
 李相旼	lǐ;az xiāng;ao mín;ow
@@ -17666,7 +17666,7 @@ sort: by_weight
 李潇潇	lǐ;az xiāo;db xiāo;db
 李小小	lǐ;az xiǎo;lb xiǎo;lb
 李笑笑	lǐ;az xiào;vy xiào;vy
-李晓欣	lǐ;az xiǎo;ow xīn;tq
+李晓欣	lǐ;az xiǎo;ow xīn;iq
 李小星	lǐ;az xiǎo;lb xīng;ou
 李晓星	lǐ;az xiǎo;ow xīng;ou
 李晓旭	lǐ;az xiǎo;ow xù;jo
@@ -17701,60 +17701,60 @@ sort: by_weight
 李心传	lǐ;az xīn;dd chuán;rv
 李新创	lǐ;az xīn;lt chuàng;rd
 李新春	lǐ;az xīn;lt chūn;io
-李欣聪	lǐ;az xīn;tq cōng;ex
+李欣聪	lǐ;az xīn;iq cōng;ex
 李新店	lǐ;az xīn;lt diàn;gv
-李欣芳	lǐ;az xīn;tq fāng;cf
+李欣芳	lǐ;az xīn;iq fāng;cf
 李新芳	lǐ;az xīn;lt fāng;cf
 李新功	lǐ;az xīn;lt gōng;gl
 李新海	lǐ;az xīn;lt hǎi;dm
-李欣翰	lǐ;az xīn;tq hàn;ux
+李欣翰	lǐ;az xīn;iq hàn;ux
 李新华	lǐ;az xīn;lt huá;ru
 李新集	lǐ;az xīn;lt jí;ra
 李信佳	lǐ;az xìn;rk jiā;rt
 李新建	lǐ;az xīn;lt jiàn;zy
 李心洁	lǐ;az xīn;dd jié;dk
-李欣洁	lǐ;az xīn;tq jié;dk
+李欣洁	lǐ;az xīn;iq jié;dk
 李新军	lǐ;az xīn;lt jūn;bi
 李新科	lǐ;az xīn;lt kē;hd
 李新良	lǐ;az xīn;lt liáng;dg
 李新玲	lǐ;az xīn;lt líng;ws
-李欣凌	lǐ;az xīn;tq líng;dw
-李欣蔓	lǐ;az xīn;tq màn;cy
+李欣凌	lǐ;az xīn;iq líng;dw
+李欣蔓	lǐ;az xīn;iq màn;cy
 李鑫淼	lǐ;az xīn;jj miǎo;uu
 李新民	lǐ;az xīn;lt mín;vv
 李心敏	lǐ;az xīn;dd mǐn;pw
 李新明	lǐ;az xīn;lt míng;oo
-李欣频	lǐ;az xīn;tq pín;vy
+李欣频	lǐ;az xīn;iq pín;vy
 李心萍	lǐ;az xīn;dd píng;cp
 李馨琪	lǐ;az xīn;to qí;wb
 李馨巧	lǐ;az xīn;to qiǎo;gk
-李欣然	lǐ;az xīn;tq rán;xh
+李欣然	lǐ;az xīn;iq rán;xh
 李昕融	lǐ;az xīn;ot róng;gi
 李新荣	lǐ;az xīn;lt róng;ca
-李欣汝	lǐ;az xīn;tq rǔ;dn
+李欣汝	lǐ;az xīn;iq rǔ;dn
 李新生	lǐ;az xīn;lt shēng;pf
 李新锁	lǐ;az xīn;lt suǒ;jb
-李欣桐	lǐ;az xīn;tq tóng;ak
-李欣欣	lǐ;az xīn;tq xīn;tq
+李欣桐	lǐ;az xīn;iq tóng;ak
+李欣欣	lǐ;az xīn;iq xīn;iq
 李新星	lǐ;az xīn;lt xīng;ou
-李欣瑶	lǐ;az xīn;tq yáo;wf
+李欣瑶	lǐ;az xīn;iq yáo;wf
 李芯逸	lǐ;az xīn;cx yì;zt
-李欣怡	lǐ;az xīn;tq yí;xk
+李欣怡	lǐ;az xīn;iq yí;xk
 李心怡	lǐ;az xīn;dd yí;xk
 李鑫怡	lǐ;az xīn;jj yí;xk
 李新勇	lǐ;az xīn;lt yǒng;sl
 李心雨	lǐ;az xīn;dd yǔ;ad
 李新宇	lǐ;az xīn;lt yǔ;by
 李鑫雨	lǐ;az xīn;jj yǔ;ad
-李欣雨	lǐ;az xīn;tq yǔ;ad
+李欣雨	lǐ;az xīn;iq yǔ;ad
 李馨雨	lǐ;az xīn;to yǔ;ad
 李心钰	lǐ;az xīn;dd yù;jy
 李新元	lǐ;az xīn;lt yuán;aw
 李心月	lǐ;az xīn;dd yuè;ke
 李新月	lǐ;az xīn;lt yuè;ke
 李昕芸	lǐ;az xīn;ot yún;cy
-李欣芸	lǐ;az xīn;tq yún;cy
-李欣泽	lǐ;az xīn;tq zé;df
+李欣芸	lǐ;az xīn;iq yún;cy
+李欣泽	lǐ;az xīn;iq zé;df
 李新枝	lǐ;az xīn;lt zhī;av
 李兴霸	lǐ;az xīng;xb bà;yo
 李星灿	lǐ;az xīng;ou càn;hu
@@ -18625,7 +18625,7 @@ sort: by_weight
 李昭娟	lǐ;az zhāo;ok juān;no
 李兆良	lǐ;az zhào;ed liáng;dg
 李昭亮	lǐ;az zhāo;ok liàng;wj
-李兆麟	lǐ;az zhào;ed lín;lf
+李兆麟	lǐ;az zhào;ed lín;gf
 李兆洛	lǐ;az zhào;ed luò;dk
 李兆明	lǐ;az zhào;ed míng;oo
 李昭楠	lǐ;az zhāo;ok nán;ag
@@ -18823,7 +18823,7 @@ sort: by_weight
 李志良	lǐ;az zhì;tx liáng;dg
 李智良	lǐ;az zhì;uo liáng;dg
 李志林	lǐ;az zhì;tx lín;aa
-李芷麟	lǐ;az zhǐ;cv lín;lf
+李芷麟	lǐ;az zhǐ;cv lín;gf
 李之龙	lǐ;az zhī;dn lóng;yp
 李志龙	lǐ;az zhì;tx lóng;yp
 李纸路	lǐ;az zhǐ;su lù;zk
@@ -18929,7 +18929,7 @@ sort: by_weight
 李中立	lǐ;az zhōng;kl lì;wb
 李忠良	lǐ;az zhōng;vx liáng;dg
 李忠林	lǐ;az zhōng;vx lín;aa
-李仲麟	lǐ;az zhòng;rv lín;lf
+李仲麟	lǐ;az zhòng;rv lín;gf
 李重茂	lǐ;az zhòng;ql mào;cg
 李忠梅	lǐ;az zhōng;vx méi;am
 李忠民	lǐ;az zhōng;vx mín;vv
@@ -19260,7 +19260,7 @@ sort: by_weight
 梁嘉琪	liáng;da jiā;tk qí;wb
 梁家仁	liáng;da jiā;bu rén;re
 梁家树	liáng;da jiā;bu shù;ac
-梁嘉欣	liáng;da jiā;tk xīn;tq
+梁嘉欣	liáng;da jiā;tk xīn;iq
 梁嘉茵	liáng;da jiā;tk yīn;cy
 梁嘉莹	liáng;da jiā;tk yíng;cy
 梁珈咏	liáng;da jiā;wk yǒng;ky
@@ -19370,10 +19370,10 @@ sort: by_weight
 梁晴晴	liáng;da qíng;oo qíng;oo
 梁庆寅	liáng;da qìng;gd yín;bb
 梁琼文	liáng;da qióng;wx wén;wx
-梁丘赐	liáng;da qiū;ta cì;bw
-梁丘贺	liáng;da qiū;ta hè;lb
+梁丘赐	liáng;da qiū;ia cì;bw
+梁丘贺	liáng;da qiū;ia hè;lb
 梁秋实	liáng;da qiū;hh shí;bd
-梁丘穴	liáng;da qiū;ta xué;bb
+梁丘穴	liáng;da qiū;ia xué;bb
 梁秋燕	liáng;da qiū;hh yàn;ch
 梁秋阳	liáng;da qiū;hh yáng;eo
 梁群峰	liáng;da qún;yy fēng;uf
@@ -19703,7 +19703,7 @@ sort: by_weight
 林柏榕	lín;aa bǎi;ab róng;ag
 林柏升	lín;aa bǎi;ab shēng;pc
 林柏特	lín;aa bǎi;ab tè;nc
-林百欣	lín;aa bǎi;ab xīn;tq
+林百欣	lín;aa bǎi;ab xīn;iq
 林保华	lín;aa bǎo;ra huá;ru
 林宝金	lín;aa bǎo;by jīn;rb
 林宝龙	lín;aa bǎo;by lóng;yp
@@ -19720,7 +19720,7 @@ sort: by_weight
 林帛亨	lín;aa bó;bj hēng;wl
 林博士	lín;aa bó;uc shì;ua
 林博文	lín;aa bó;uc wén;wx
-林采欣	lín;aa cǎi;va xīn;tq
+林采欣	lín;aa cǎi;va xīn;iq
 林沧敏	lín;aa cāng;dv mǐn;pw
 林昌伦	lín;aa chāng;oo lún;rl
 林长民	lín;aa cháng;pn mín;vv
@@ -19888,7 +19888,7 @@ sort: by_weight
 林克明	lín;aa kè;ux,ge míng;oo
 林克斯	lín;aa kè;ux,ge sī;ct
 林科所	lín;aa kē;hd suǒ;ht
-林可欣	lín;aa kě;dk xīn;tq
+林可欣	lín;aa kě;dk xīn;iq
 林克颖	lín;aa kè;ux,ge yǐng;bh
 林肯城	lín;aa kěn;vo chéng;ti
 林昆冈	lín;aa kūn;ob gāng;kx
@@ -20042,7 +20042,7 @@ sort: by_weight
 林笑云	lín;aa xiào;vy yún;ag,es
 林昕阳	lín;aa xīn;ot yáng;eo
 林芯仪	lín;aa xīn;cx yí;ry
-林欣怡	lín;aa xīn;tq yí;xk
+林欣怡	lín;aa xīn;iq yí;xk
 林熊祥	lín;aa xióng;sh xiáng;py
 林熊征	lín;aa xióng;sh zhēng;rv
 林秀芳	lín;aa xiù;hn fāng;cf
@@ -20085,7 +20085,7 @@ sort: by_weight
 林怡君	lín;aa yí;xk jūn;yk
 林依伦	lín;aa yī;ry lún;rl
 林依然	lín;aa yī;ry rán;xh
-林逸欣	lín;aa yì;zt xīn;tq
+林逸欣	lín;aa yì;zt xīn;iq
 林奕勋	lín;aa yì;wd xūn;kl
 林易增	lín;aa yì;ow zēng;to
 林艺真	lín;aa yì;cv zhēn;ub
@@ -20338,7 +20338,7 @@ sort: by_weight
 刘公巷	liú;wd gōng;bs xiàng;gs,cs
 刘公兴	liú;wd gōng;bs xīng;xb
 刘古昌	liú;wd gǔ;uk chāng;oo	14
-刘冠麟	liú;wd guān;bc lín;lf	18
+刘冠麟	liú;wd guān;bc lín;gf	18
 刘冠廷	liú;wd guān;bc tíng;zw
 刘冠翔	liú;wd guān;bc xiáng;yx	140
 刘冠雄	liú;wd guān;bc xióng;uv
@@ -20450,7 +20450,7 @@ sort: by_weight
 刘家碾	liú;wd jiā;bu niǎn;uy
 刘家坪	liú;wd jiā;bu píng;tp
 刘家坡	liú;wd jiā;bu pō;tp
-刘家麒	liú;wd jiā;bu qí;lb
+刘家麒	liú;wd jiā;bu qí;gb
 刘家桥	liú;wd jiā;bu qiáo;al
 刘家渠	liú;wd jiā;bu qú;da
 刘家山	liú;wd jiā;bu shān;kl
@@ -20524,7 +20524,7 @@ sort: by_weight
 柳堪结	liǔ;ae kān;tb jié;sk
 刘看山	liú;wd kàn;uo shān;kl
 刘克清	liú;wd kè;ux,ge qīng;do
-刘可欣	liú;wd kě;dk xīn;tq
+刘可欣	liú;wd kě;dk xīn;iq
 刘克逊	liú;wd kè;ux,ge xùn;zx
 刘柯邀	liú;wd kē;ak yāo;zw
 刘珂矣	liú;wd kē;wk yǐ;su
@@ -20552,7 +20552,7 @@ sort: by_weight
 刘连昆	liú;wd lián;zi kūn;ob
 刘连满	liú;wd lián;zi mǎn;dl
 刘良佐	liú;wd liáng;dg zuǒ;rg
-刘麟瑞	liú;wd lín;lf ruì;we
+刘麟瑞	liú;wd lín;gf ruì;we
 刘令飞	liú;wd lìng;rs fēi;vd
 刘龙田	liú;wd lóng;yp tián;wu
 刘銮鸿	liú;wd luán;wj hóng;dn
@@ -20624,7 +20624,7 @@ sort: by_weight
 刘汝明	liú;wd rǔ;dn míng;oo
 柳如是	liǔ;ae rú;nk shì;oz
 柳如玉	liǔ;ae rú;nk yù;wd
-刘芮麟	liú;wd ruì;cn lín;lf
+刘芮麟	liú;wd ruì;cn lín;gf
 刘瑞琪	liú;wd ruì;we qí;wb
 刘睿哲	liú;wd ruì;bo zhé;fk
 刘润民	liú;wd rùn;dw mín;vv
@@ -20843,7 +20843,7 @@ sort: by_weight
 刘亚楼	liú;wd yà;ay lóu;an
 刘亚平	liú;wd yà;ay píng;au
 刘亚婷	liú;wd yà;ay tíng;nd
-柳雅欣	liǔ;ae yǎ;yv xīn;tq
+柳雅欣	liǔ;ae yǎ;yv xīn;iq
 刘亚洲	liú;wd yà;ay zhōu;dv
 柳亚子	liǔ;ae yà;ay zǐ;la
 刘彦斌	liú;wd yàn;wp bīn;wv
@@ -20873,7 +20873,7 @@ sort: by_weight
 刘奕君	liú;wd yì;wd jūn;yk
 刘义康	liú;wd yì;dx kāng;gl
 刘宜良	liú;wd yí;bq liáng;dg
-刘一麟	liú;wd yī;aa lín;lf
+刘一麟	liú;wd yī;aa lín;gf
 刘义隆	liú;wd yì;dx lóng;eu
 刘奕鸣	liú;wd yì;wd míng;kn
 刘益谦	liú;wd yì;bm qiān;yj
@@ -20936,7 +20936,7 @@ sort: by_weight
 刘毓崧	liú;wd yù;pi sōng;ug	18
 刘禹锡	liú;wd yǔ;pd xī;jw
 刘语熙	liú;wd yǔ;yk xī;ih
-刘雨欣	liú;wd yǔ;ad xīn;tq	417
+刘雨欣	liú;wd yǔ;ad xīn;iq	417
 刘玉新	liú;wd yù;wd xīn;lt
 刘宇昕	liú;wd yǔ;by xīn;ot
 刘于义	liú;wd yú;au yì;dx	36
@@ -21476,7 +21476,7 @@ sort: by_weight
 罗嘉瑞	luó;sx jiā;tk ruì;we
 罗家庭	luó;sx jiā;bu tíng;gw
 罗贾瓦	luó;sx jiǎ;xb wǎ;ad
-罗嘉欣	luó;sx jiā;tk xīn;tq
+罗嘉欣	luó;sx jiā;tk xīn;iq
 罗家彦	luó;sx jiā;bu yàn;wp
 罗建国	luó;sx jiàn;zy guó;wy
 罗建华	luó;sx jiàn;zy huá;ru
@@ -21850,8 +21850,8 @@ sort: by_weight
 罗孝勇	luó;sx xiào;lz yǒng;sl
 罗晓韵	luó;sx xiǎo;ow yùn;ly
 罗辛达	luó;sx xīn;lu dá;zd
-罗欣羚	luó;sx xīn;tq líng;ys
-罗欣贞	luó;sx xīn;tq zhēn;bb
+罗欣羚	luó;sx xīn;iq líng;ys
+罗欣贞	luó;sx xīn;iq zhēn;bb
 罗星汉	luó;sx xīng;ou hàn;dy
 罗兴汉	luó;sx xīng;xb hàn;dy
 罗幸理	luó;sx xìng;tg lǐ;wl
@@ -21973,7 +21973,7 @@ sort: by_weight
 罗子山	luó;sx zǐ;la shān;kl
 罗兹省	luó;sx zī;by shěng;uo
 罗兹索	luó;sx zī;by suǒ;ux
-罗子欣	luó;sx zǐ;la xīn;tq
+罗子欣	luó;sx zǐ;la xīn;iq
 罗祖瓦	luó;sx zǔ;pq wǎ;ad
 罗遵殿	luó;sx zūn;zc diàn;uu
 罗佐娃	luó;sx zuǒ;rg wá;nt
@@ -22092,7 +22092,7 @@ sort: by_weight
 吕青柠	lǚ;kk qīng;fo níng;ad
 吕仁礼	lǚ;kk rén;re lǐ;pv
 吕荣寰	lǚ;kk róng;ca huán;by
-吕瑞麟	lǚ;kk ruì;we lín;lf
+吕瑞麟	lǚ;kk ruì;we lín;gf
 吕瑞英	lǚ;kk ruì;we yīng;cy
 吕萨克	lǚ;kk sà;ci kè;ux,ge
 吕绍淳	lǚ;kk shào;sk chún;dz
@@ -22155,7 +22155,7 @@ sort: by_weight
 吕晓明	lǚ;kk xiǎo;ow míng;oo
 吕小品	lǚ;kk xiǎo;lb pǐn;kk
 吕孝廷	lǚ;kk xiào;lz tíng;zw
-吕欣欣	lǚ;kk xīn;tq xīn;tq
+吕欣欣	lǚ;kk xīn;iq xīn;iq
 吕星辰	lǚ;kk xīng;ou chén;iy
 吕秀菱	lǚ;kk xiù;hn líng;cw
 吕秀龄	lǚ;kk xiù;hn líng;vs
@@ -22736,7 +22736,7 @@ sort: by_weight
 马俊华	mǎ;va jùn;rw huá;ru
 马俊杰	mǎ;va jùn;rw jié;ah
 马俊驹	mǎ;va jùn;rw jū;mj
-马俊麟	mǎ;va jùn;rw lín;lf
+马俊麟	mǎ;va jùn;rw lín;gf
 马俊明	mǎ;va jùn;rw míng;oo
 马俊仁	mǎ;va jùn;rw rén;re
 马军胜	mǎ;va jūn;bi shèng;ou
@@ -23121,7 +23121,7 @@ sort: by_weight
 马球场	mǎ;va qiú;wq chǎng;tp
 马球会	mǎ;va qiú;wq huì;ry
 马秋林	mǎ;va qiū;hh lín;aa
-马丘丘	mǎ;va qiū;ta qiū;ta
+马丘丘	mǎ;va qiū;ia qiū;ia
 马球赛	mǎ;va qiú;wq sài;bb
 马球衫	mǎ;va qiú;wq shān;pp
 马球图	mǎ;va qiú;wq tú;wd
@@ -23425,7 +23425,7 @@ sort: by_weight
 马威特	mǎ;va wēi;gn tè;nc
 马尾亭	mǎ;va wěi;um tíng;wd
 马尾头	mǎ;va wěi;um tóu;dd
-马维欣	mǎ;va wéi;sv xīn;tq
+马维欣	mǎ;va wéi;sv xīn;iq
 马尾绣	mǎ;va wěi;um xiù;sn
 马唯中	mǎ;va wéi;kv zhōng;kl
 马文波	mǎ;va wén;wx bō;dp
@@ -23674,7 +23674,7 @@ sort: by_weight
 马郁兰	mǎ;va yù;ue lán;bs
 马玉兰	mǎ;va yù;wd lán;bs
 马玉林	mǎ;va yù;wd lín;aa
-马玉麟	mǎ;va yù;wd lín;lf
+马玉麟	mǎ;va yù;wd lín;gf
 马玉灵	mǎ;va yù;wd líng;eh
 马玉龙	mǎ;va yù;wd lóng;yp
 马玉梅	mǎ;va yù;wd méi;am
@@ -23870,7 +23870,7 @@ sort: by_weight
 彭小平	péng;tp xiǎo;lb píng;au
 彭晓彤	péng;tp xiǎo;ow tóng;dp
 彭晓芸	péng;tp xiǎo;ow yún;cy
-彭欣力	péng;tp xīn;tq lì;vp
+彭欣力	péng;tp xīn;iq lì;vp
 彭懿译	péng;tp yì;tx yì;yf
 彭翼仲	péng;tp yì;xg zhòng;rv
 彭莹玉	péng;tp yíng;cy yù;wd
@@ -23879,7 +23879,7 @@ sort: by_weight
 彭咏梧	péng;tp yǒng;ky wú;ak
 彭咏仪	péng;tp yǒng;ky yí;ry
 彭宥纶	péng;tp yòu;bo lún;sl
-彭玉麟	péng;tp yù;wd lín;lf
+彭玉麟	péng;tp yù;wd lín;gf
 彭玉琳	péng;tp yù;wd lín;wa
 彭禹廷	péng;tp yǔ;pd tíng;zw
 彭元瑞	péng;tp yuán;aw ruì;we
@@ -24229,7 +24229,7 @@ sort: by_weight
 秦媛媛	qín;ih yuàn;ny yuàn;ny
 秦玥飞	qín;ih yuè;wo fēi;vd
 秦越人	qín;ih yuè;tl rén;pn
-秦悦欣	qín;ih yuè;xx xīn;tq
+秦悦欣	qín;ih yuè;xx xīn;iq
 秦躁公	qín;ih zào;za gōng;bs
 秦栈道	qín;ih zhàn;aj dào;zz
 秦诏版	qín;ih zhào;yk bǎn;py
@@ -24635,7 +24635,7 @@ sort: by_weight
 沈肇州	shěn;de zhào;hy zhōu;dl
 沈哲臣	shěn;de zhé;fk chén;kl
 沈振家	shěn;de zhèn;fi jiā;bu
-沈振麟	shěn;de zhèn;fi lín;lf
+沈振麟	shěn;de zhèn;fi lín;gf
 沈贞巧	shěn;de zhēn;bb qiǎo;gk
 沈震轩	shěn;de zhèn;yi xuān;ig
 沈珍珠	shěn;de zhēn;wp zhū;ww
@@ -24853,6 +24853,11 @@ sort: by_weight
 宋佩珠	sòng;ba pèi;rj zhū;ww
 宋鹏飞	sòng;ba péng;on fēi;vd
 宋平公	sòng;ba píng;au gōng;bs
+松平家	sōng;ag píng;au jiā;bu	666
+松平健	sōng;ag píng;au jiàn;ry	9
+松平赖	sōng;ag píng;au lài;ub	531
+松平氏	sōng;ag píng;au shì;pv	540
+松平义	sōng;ag píng;au yì;dx	346
 宋绮云	sòng;ba qǐ;sk yún;ag,es
 宋乔安	sòng;ba qiáo;yl ān;bn
 宋庆波	sòng;ba qìng;gd bō;dp
@@ -24962,7 +24967,7 @@ sort: by_weight
 宋心濂	sòng;ba xīn;dd lián;dj
 宋新民	sòng;ba xīn;lt mín;vv
 宋心蕊	sòng;ba xīn;dd ruǐ;cx
-宋欣颖	sòng;ba xīn;tq yǐng;bh
+宋欣颖	sòng;ba xīn;iq yǐng;bh
 宋兴祖	sòng;ba xīng;xb zǔ;pq
 宋休公	sòng;ba xiū;ra gōng;bs
 宋宣公	sòng;ba xuān;bd gōng;bs
@@ -24980,7 +24985,7 @@ sort: by_weight
 宋逸民	sòng;ba yì;zt mín;vv
 宋一平	sòng;ba yī;aa píng;au
 宋伊人	sòng;ba yī;ry rén;pn
-宋一欣	sòng;ba yī;aa xīn;tq
+宋一欣	sòng;ba yī;aa xīn;iq
 宋引章	sòng;ba yǐn;gl zhāng;lu
 宋应昌	sòng;ba yīng;ga chāng;oo
 宋英辉	sòng;ba yīng;cy huī;gi
@@ -25001,7 +25006,7 @@ sort: by_weight
 宋玉龙	sòng;ba yù;wd lóng;yp
 宋毓明	sòng;ba yù;pi míng;oo
 宋雨琦	sòng;ba yǔ;ad qí;wk
-宋玉麒	sòng;ba yù;wd qí;lb
+宋玉麒	sòng;ba yù;wd qí;gb
 宋玉庆	sòng;ba yù;wd qìng;gd
 宋育仁	sòng;ba yù;wo rén;re
 宋雨珊	sòng;ba yǔ;ad shān;wc
@@ -25204,7 +25209,7 @@ sort: by_weight
 苏克尔	sū;cb kè;ux,ge ěr;dx
 苏柯汉	sū;cb kē;ak hàn;dy
 苏科娃	sū;cb kē;hd wá;nt
-苏可欣	sū;cb kě;dk xīn;tq
+苏可欣	sū;cb kě;dk xīn;iq
 苏昆太	sū;cb kūn;ob tài;dd
 苏拉克	sū;cb lā;fl kè;ux,ge
 苏拉纳	sū;cb lā;fl nà;sn
@@ -25364,7 +25369,7 @@ sort: by_weight
 苏伟译	sū;cb wěi;rw yì;yf
 苏文茂	sū;cb wén;wx mào;cg
 苏文庆	sū;cb wén;wx qìng;gd
-苏文欣	sū;cb wén;wx xīn;tq
+苏文欣	sū;cb wén;wx xīn;iq
 苏文雄	sū;cb wén;wx xióng;uv
 苏卧农	sū;cb wò;ib nóng;by
 苏屋邨	sū;cb wū;ut cūn;te
@@ -26040,9 +26045,9 @@ sort: by_weight
 孙新波	sūn;zx xīn;lt bō;dp
 孙新民	sūn;zx xīn;lt mín;vv
 孙歆文	sūn;zx xīn;lq wén;wx
-孙昕欣	sūn;zx xīn;ot xīn;tq
+孙昕欣	sūn;zx xīn;ot xīn;iq
 孙心娅	sūn;zx xīn;dd yà;ny
-孙欣瑜	sūn;zx xīn;tq yú;wd
+孙欣瑜	sūn;zx xīn;iq yú;wd
 孙兴公	sūn;zx xīng;xb gōng;bs
 孙兴辉	sūn;zx xīng;xb huī;gi
 孙兴民	sūn;zx xīng;xb mín;vv
@@ -26284,7 +26289,7 @@ sort: by_weight
 陶瓷砖	táo;ef cí;dw zhuān;uv
 陶大伟	táo;ef dà;ar wěi;rw
 陶德海	táo;ef dé;rx hǎi;dm
-陶德麟	táo;ef dé;rx lín;lf
+陶德麟	táo;ef dé;rx lín;gf
 陶德迈	táo;ef dé;rx mài;zw
 陶德史	táo;ef dé;rx shǐ;kn
 陶涤亚	táo;ef dí;da yà;ay
@@ -26343,7 +26348,7 @@ sort: by_weight
 陶启胜	táo;ef qǐ;hk shèng;ou
 陶强龙	táo;ef qiáng;gi lóng;yp
 陶晴贤	táo;ef qíng;oo xián;lb
-陶丘洪	táo;ef qiū;ta hóng;dg
+陶丘洪	táo;ef qiū;ia hóng;dg
 陶然桥	táo;ef rán;xh qiáo;al
 陶汝坤	táo;ef rǔ;dn kūn;tu
 陶声洋	táo;ef shēng;tu yáng;dy
@@ -26378,10 +26383,10 @@ sort: by_weight
 陶希圣	táo;ef xī;xj shèng;yt
 陶锡源	táo;ef xī;jw yuán;dx
 陶晓清	táo;ef xiǎo;ow qīng;do
-陶欣段	táo;ef xīn;tq duàn;pu
+陶欣段	táo;ef xīn;iq duàn;pu
 陶鑫良	táo;ef xīn;jj liáng;dg
-陶欣然	táo;ef xīn;tq rán;xh
-陶欣胜	táo;ef xīn;tq shèng;ou
+陶欣然	táo;ef xīn;iq rán;xh
+陶欣胜	táo;ef xīn;iq shèng;ou
 陶兴房	táo;ef xīng;xb fáng;hf
 陶雪生	táo;ef xuě;ye shēng;pf
 陶冶法	táo;ef yě;dk fǎ;dq
@@ -26528,7 +26533,7 @@ sort: by_weight
 王冰洁	wáng;at bīng;du jié;dk
 王秉钧	wáng;at bǐng;qr jūn;jy
 王炳奎	wáng;at bǐng;hn kuí;dt
-王炳麟	wáng;at bǐng;hn lín;lf
+王炳麟	wáng;at bǐng;hn lín;gf
 王炳南	wáng;at bǐng;hn nán;ug
 王秉谦	wáng;at bǐng;qr qiān;yj
 王炳权	wáng;at bǐng;hn quán;ay
@@ -27613,7 +27618,7 @@ sort: by_weight
 王佳琳	wáng;at jiā;rt lín;wa
 王家林	wáng;at jiā;bu lín;aa
 王加林	wáng;at jiā;lk lín;aa
-王家麟	wáng;at jiā;bu lín;lf
+王家麟	wáng;at jiā;bu lín;gf
 王嘉琳	wáng;at jiā;tk lín;wa
 王家门	wáng;at jiā;bu mén;dv
 王佳敏	wáng;at jiā;rt mǐn;pw
@@ -27650,9 +27655,9 @@ sort: by_weight
 王佳伟	wáng;at jiā;rt wěi;rw
 王家禧	wáng;at jiā;bu xǐ;pk
 王嘉祥	wáng;at jiā;tk xiáng;py
-王佳欣	wáng;at jiā;rt xīn;tq
+王佳欣	wáng;at jiā;rt xīn;iq
 王家新	wáng;at jiā;bu xīn;lt
-王家欣	wáng;at jiā;bu xīn;tq
+王家欣	wáng;at jiā;bu xīn;iq
 王家兴	wáng;at jiā;bu xīng;xb
 王家训	wáng;at jiā;bu xùn;yi
 王家珧	wáng;at jiā;bu yáo;wv
@@ -28040,7 +28045,7 @@ sort: by_weight
 王兰芬	wáng;at lán;bs fēn;cf
 王兰花	wáng;at lán;bs huā;cb
 王兰兰	wáng;at lán;bs lán;bs
-王兰麟	wáng;at lán;bs lín;lf
+王兰麟	wáng;at lán;bs lín;gf
 王兰生	wáng;at lán;bs shēng;pf
 王兰亭	wáng;at lán;bs tíng;wd
 王阑西	wáng;at lán;mj xī;ak,wk
@@ -28141,7 +28146,7 @@ sort: by_weight
 王丽霞	wáng;at lì;ad xiá;yy
 王礼贤	wáng;at lǐ;pv xián;lb
 王立新	wáng;at lì;wb xīn;lt
-王丽欣	wáng;at lì;ad xīn;tq
+王丽欣	wáng;at lì;ad xīn;iq
 王力行	wáng;at lì;vp xíng;rd
 王力雄	wáng;at lì;vp xióng;uv
 王丽雅	wáng;at lì;ad yǎ;yv
@@ -28183,13 +28188,13 @@ sort: by_weight
 王琳凯	wáng;at lín;wa kǎi;uj
 王琳琳	wáng;at lín;wa lín;wa
 王琳娜	wáng;at lín;wa nà;ne
-王麟书	wáng;at lín;lf shū;vd
+王麟书	wáng;at lín;gf shū;vd
 王林旭	wáng;at lín;aa xù;jo
 王林瑶	wáng;at lín;aa yáo;wf
 王令尘	wáng;at lìng;rs chén;xt
 王灵官	wáng;at líng;eh guān;bl
 王陵基	wáng;at líng;ew jī;ct
-王令麟	wáng;at lìng;rs lín;lf
+王令麟	wáng;at lìng;rs lín;gf
 王玲玲	wáng;at líng;ws líng;ws
 王陵路	wáng;at líng;ew lù;zk
 王泠然	wáng;at líng;ds rán;xh
@@ -28285,7 +28290,7 @@ sort: by_weight
 王梦洁	wáng;at mèng;ax jié;dk
 王萌黎	wáng;at méng;co lí;hu
 王孟邻	wáng;at mèng;zm lín;re
-王梦麟	wáng;at mèng;ax lín;lf
+王梦麟	wáng;at mèng;ax lín;gf
 王萌萌	wáng;at méng;co méng;co
 王蒙年	wáng;at méng;cu nián;pf
 王梦鸥	wáng;at mèng;ax ōu;qn
@@ -28436,7 +28441,7 @@ sort: by_weight
 王平章	wáng;at píng;au zhāng;lu
 王平子	wáng;at píng;au zǐ;la
 王菩萨	wáng;at pú;ck sà;ci
-王麒诚	wáng;at qí;lb chéng;yi
+王麒诚	wáng;at qí;gb chéng;yi
 王启龙	wáng;at qǐ;hk lóng;yp
 王契美	wáng;at qì;fd měi;yd
 王旗民	wáng;at qí;fb mín;vv
@@ -28494,7 +28499,7 @@ sort: by_weight
 王庆来	wáng;at qìng;gd lái;aa
 王青莲	wáng;at qīng;fo lián;ci
 王庆林	wáng;at qìng;gd lín;aa
-王庆麟	wáng;at qìng;gd lín;lf
+王庆麟	wáng;at qìng;gd lín;gf
 王庆玲	wáng;at qìng;gd líng;ws
 王庆隆	wáng;at qìng;gd lóng;eu
 王庆民	wáng;at qìng;gd mín;vv
@@ -28605,7 +28610,7 @@ sort: by_weight
 王瑞杰	wáng;at ruì;we jié;ah
 王瑞军	wáng;at ruì;we jūn;bi
 王瑞林	wáng;at ruì;we lín;aa
-王瑞麟	wáng;at ruì;we lín;lf
+王瑞麟	wáng;at ruì;we lín;gf
 王瑞明	wáng;at ruì;we míng;oo
 王瑞琦	wáng;at ruì;we qí;wk
 王瑞芹	wáng;at ruì;we qín;ct
@@ -28929,7 +28934,7 @@ sort: by_weight
 王书平	wáng;at shū;vd píng;au
 王淑萍	wáng;at shū;dy píng;cp
 王树平	wáng;at shù;ac píng;au
-王书麒	wáng;at shū;vd qí;lb
+王书麒	wáng;at shū;vd qí;gb
 王淑琴	wáng;at shū;dy qín;wv
 王淑荣	wáng;at shū;dy róng;ca
 王树森	wáng;at shù;ac sēn;aa
@@ -29391,7 +29396,7 @@ sort: by_weight
 王喜文	wáng;at xǐ;tk wén;wx
 王希文	wáng;at xī;xj wén;wx
 王锡锌	wáng;at xī;jw xīn;jx
-王西欣	wáng;at xī;ak,wk xīn;tq
+王西欣	wáng;at xī;ak,wk xīn;iq
 王希怡	wáng;at xī;xj yí;xk
 王希羽	wáng;at xī;xj yǔ;xx
 王曦雨	wáng;at xī;ok yǔ;ad
@@ -29648,7 +29653,7 @@ sort: by_weight
 王谢家	wáng;at xiè;yc jiā;bu
 王新波	wáng;at xīn;lt bō;dp
 王新潮	wáng;at xīn;lt cháo;do
-王欣晨	wáng;at xīn;tq chén;oi
+王欣晨	wáng;at xīn;iq chén;oi
 王新成	wáng;at xīn;lt chéng;gv
 王心刚	wáng;at xīn;dd gāng;kd
 王新国	wáng;at xīn;lt guó;wy
@@ -29669,46 +29674,46 @@ sort: by_weight
 王新民	wáng;at xīn;lt mín;vv
 王新明	wáng;at xīn;lt míng;oo
 王新命	wáng;at xīn;lt mìng;re
-王欣年	wáng;at xīn;tq nián;pf
+王欣年	wáng;at xīn;iq nián;pf
 王馨平	wáng;at xīn;to píng;au
 王新平	wáng;at xīn;lt píng;au
 王新清	wáng;at xīn;lt qīng;do
-王欣然	wáng;at xīn;tq rán;xh
+王欣然	wáng;at xīn;iq rán;xh
 王新生	wáng;at xīn;lt shēng;pf
 王新时	wáng;at xīn;lt shí;to
-王欣太	wáng;at xīn;tq tài;dd
+王欣太	wáng;at xīn;iq tài;dd
 王心恬	wáng;at xīn;dd tián;xu
 王新亭	wáng;at xīn;lt tíng;wd
-王欣婷	wáng;at xīn;tq tíng;nd
+王欣婷	wáng;at xīn;iq tíng;nd
 王心慰	wáng;at xīn;dd wèi;ux
 王新伟	wáng;at xīn;lt wěi;rw
 王新文	wáng;at xīn;lt wén;wx
 王新喜	wáng;at xīn;lt xǐ;tk
 王新新	wáng;at xīn;lt xīn;lt
-王新欣	wáng;at xīn;lt xīn;tq
-王欣欣	wáng;at xīn;tq xīn;tq
-王欣新	wáng;at xīn;tq xīn;lt
+王新欣	wáng;at xīn;lt xīn;iq
+王欣欣	wáng;at xīn;iq xīn;iq
+王欣新	wáng;at xīn;iq xīn;lt
 王新兴	wáng;at xīn;lt xīng;xb
-王欣颜	wáng;at xīn;tq yán;wy
+王欣颜	wáng;at xīn;iq yán;wy
 王心妍	wáng;at xīn;dd yán;nk
 王歆艳	wáng;at xīn;lq yàn;fb
 王心耀	wáng;at xīn;dd yào;gv
 王馨瑶	wáng;at xīn;to yáo;wf
 王馨怡	wáng;at xīn;to yí;xk
-王欣逸	wáng;at xīn;tq yì;zt
-王欣仪	wáng;at xīn;tq yí;ry
-王欣怡	wáng;at xīn;tq yí;xk
+王欣逸	wáng;at xīn;iq yì;zt
+王欣仪	wáng;at xīn;iq yí;ry
+王欣怡	wáng;at xīn;iq yí;xk
 王心怡	wáng;at xīn;dd yí;xk
 王新友	wáng;at xīn;lt yǒu;uy
 王心雨	wáng;at xīn;dd yǔ;ad
-王欣瑜	wáng;at xīn;tq yú;wd
+王欣瑜	wáng;at xīn;iq yú;wd
 王新宇	wáng;at xīn;lt yǔ;by
-王欣雨	wáng;at xīn;tq yǔ;ad
-王欣宇	wáng;at xīn;tq yǔ;by
+王欣雨	wáng;at xīn;iq yǔ;ad
+王欣宇	wáng;at xīn;iq yǔ;by
 王新元	wáng;at xīn;lt yuán;aw
 王信渊	wáng;at xìn;rk yuān;dm
 王馨悦	wáng;at xīn;to yuè;xx
-王欣悦	wáng;at xīn;tq yuè;xx
+王欣悦	wáng;at xīn;iq yuè;xx
 王新哲	wáng;at xīn;lt zhé;fk
 王新周	wáng;at xīn;lt zhōu;kk
 王兴安	wáng;at xīng;xb ān;bn
@@ -30091,7 +30096,7 @@ sort: by_weight
 王英俊	wáng;at yīng;cy jùn;rw
 王应奎	wáng;at yīng;ga kuí;dt
 王应睐	wáng;at yīng;ga lài;ol
-王应麟	wáng;at yīng;ga lín;lf
+王应麟	wáng;at yīng;ga lín;gf
 王英民	wáng;at yīng;cy mín;vv
 王樱木	wáng;at yīng;an mù;ur
 王颖生	wáng;at yǐng;bh shēng;pf
@@ -30251,8 +30256,8 @@ sort: by_weight
 王玉良	wáng;at yù;wd liáng;dg
 王玉林	wáng;at yù;wd lín;aa
 王育霖	wáng;at yù;wo lín;ya
-王育麟	wáng;at yù;wo lín;lf
-王毓麟	wáng;at yù;pi lín;lf
+王育麟	wáng;at yù;wo lín;gf
+王毓麟	wáng;at yù;pi lín;gf
 王裕龄	wáng;at yù;pg líng;vs
 王玉玲	wáng;at yù;wd líng;ws
 王玉龄	wáng;at yù;wd líng;vs
@@ -30483,7 +30488,7 @@ sort: by_weight
 王肇基	wáng;at zhào;hy jī;ct
 王兆军	wáng;at zhào;ed jūn;bi
 王兆力	wáng;at zhào;ed lì;vp
-王兆麟	wáng;at zhào;ed lín;lf
+王兆麟	wáng;at zhào;ed lín;gf
 王兆龙	wáng;at zhào;ed lóng;yp
 王肇民	wáng;at zhào;hy mín;vv
 王兆明	wáng;at zhào;ed míng;oo
@@ -30698,7 +30703,7 @@ sort: by_weight
 王之心	wáng;at zhī;dn xīn;dd
 王治心	wáng;at zhì;dk xīn;dd
 王志新	wáng;at zhì;tx xīn;lt
-王志欣	wáng;at zhì;tx xīn;tq
+王志欣	wáng;at zhì;tx xīn;iq
 王智兴	wáng;at zhì;uo xīng;xb
 王志兴	wáng;at zhì;tx xīng;xb
 王志雄	wáng;at zhì;tx xióng;uv
@@ -31184,7 +31189,7 @@ sort: by_weight
 魏学渠	wèi;hg xué;xz qú;da
 魏学洢	wèi;hg xué;xz yī;dy
 魏亚楠	wèi;hg yà;ay nán;ag
-魏雅欣	wèi;hg yǎ;yv xīn;tq
+魏雅欣	wèi;hg yǎ;yv xīn;iq
 魏嬿婉	wèi;hg yàn;nh wǎn;nv
 卫嬿婉	wèi;ea yàn;nh wǎn;nv
 魏彦吾	wèi;hg yàn;wp wú;wk
@@ -31253,7 +31258,7 @@ sort: by_weight
 吴安琪	wú;kt ān;bn qí;wb
 吴安仪	wú;kt ān;bn yí;ry
 吴百福	wú;kt bǎi;ab fú;pt
-吴柏麟	wú;kt bǎi;ab lín;lf
+吴柏麟	wú;kt bǎi;ab lín;gf
 吴百纳	wú;kt bǎi;ab nà;sn
 吴百朋	wú;kt bǎi;ab péng;oo
 吴柏霆	wú;kt bǎi;ab tíng;yw
@@ -31341,7 +31346,7 @@ sort: by_weight
 吴楚帆	wú;kt chǔ;az fān;jf
 吴处厚	wú;kt chù;wb hòu;iz
 吴川仓	wú;kt chuān;pl cāng;rv
-吴传麟	wú;kt chuán;rv lín;lf
+吴传麟	wú;kt chuán;rv lín;gf
 吴船录	wú;kt chuán;vk lù;eu
 吴传明	wú;kt chuán;rv míng;oo
 吴川人	wú;kt chuān;pl rén;pn
@@ -31593,7 +31598,7 @@ sort: by_weight
 吴红梅	wú;kt hóng;sg méi;am
 吴红民	wú;kt hóng;sg mín;vv
 吴宏谋	wú;kt hóng;bs móu;ya
-吴鸿麒	wú;kt hóng;dn qí;lb
+吴鸿麒	wú;kt hóng;dn qí;gb
 吴鸿清	wú;kt hóng;dn qīng;do
 吴洪森	wú;kt hóng;dg sēn;aa
 吴洪涛	wú;kt hóng;dg tāo;dc
@@ -31679,7 +31684,7 @@ sort: by_weight
 吴嘉祥	wú;kt jiā;tk xiáng;py
 吴家骧	wú;kt jiā;bu xiāng;mf
 吴家翔	wú;kt jiā;bu xiáng;yx
-吴嘉欣	wú;kt jiā;tk xīn;tq
+吴嘉欣	wú;kt jiā;tk xīn;iq
 吴嘉仪	wú;kt jiā;tk yí;ry
 吴佳怡	wú;kt jiā;rt yí;xk
 吴佳颖	wú;kt jiā;rt yǐng;bh
@@ -31880,7 +31885,7 @@ sort: by_weight
 吴林峰	wú;kt lín;aa fēng;uf
 吴林海	wú;kt lín;aa hǎi;dm
 吴琳琳	wú;kt lín;wa lín;wa
-吴麟征	wú;kt lín;lf zhēng;rv
+吴麟征	wú;kt lín;gf zhēng;rv
 吴玲玲	wú;kt líng;ws líng;ws
 吴铃山	wú;kt líng;js shān;kl
 吴凌云	wú;kt líng;dw yún;ag,es
@@ -31911,7 +31916,7 @@ sort: by_weight
 吴蒙庵	wú;kt méng;cu ān;gd
 吴梦非	wú;kt mèng;ax fēi;ls
 吴梦洁	wú;kt mèng;ax jié;dk
-吴梦麟	wú;kt mèng;ax lín;lf
+吴梦麟	wú;kt mèng;ax lín;gf
 吴孟儒	wú;kt mèng;zm rú;re
 吴孟庭	wú;kt mèng;zm tíng;gw
 吴梦婷	wú;kt mèng;ax tíng;nd
@@ -32051,8 +32056,8 @@ sort: by_weight
 吴仁惠	wú;kt rén;re huì;ix
 吴仁捷	wú;kt rén;re jié;fz
 吴仁杰	wú;kt rén;re jié;ah
-吴纫礼	wú;kt rèn;sr lǐ;pv
-吴仞之	wú;kt rèn;rr zhī;dn
+吴纫礼	wú;kt rèn;sd lǐ;pv
+吴仞之	wú;kt rèn;rd zhī;dn
 吴日升	wú;kt rì;wa shēng;pc
 吴日言	wú;kt rì;wa yán;wk
 吴荣根	wú;kt róng;ca gēn;ag
@@ -32237,7 +32242,7 @@ sort: by_weight
 吴廷康	wú;kt tíng;zw kāng;gl
 吴婷婷	wú;kt tíng;nd tíng;nd
 吴廷燮	wú;kt tíng;zw xiè;hy
-吴亭欣	wú;kt tíng;wd xīn;tq
+吴亭欣	wú;kt tíng;wd xīn;iq
 吴廷琰	wú;kt tíng;zw yǎn;wh
 吴庭艳	wú;kt tíng;gw yàn;fb
 吴廷烨	wú;kt tíng;zw yè;hu
@@ -32339,9 +32344,9 @@ sort: by_weight
 吴熙俊	wú;kt xī;ih jùn;rw
 吴系科	wú;kt xì;px kē;hd
 吴喜林	wú;kt xǐ;tk lín;aa
-吴锡麟	wú;kt xī;jw lín;lf
+吴锡麟	wú;kt xī;jw lín;gf
 吴锡祺	wú;kt xī;jw qí;pb
-吴锡麒	wú;kt xī;jw qí;lb
+吴锡麒	wú;kt xī;jw qí;gb
 吴熙载	wú;kt xī;ih zài;gi
 吴希泽	wú;kt xī;xj zé;df
 吴锡璋	wú;kt xī;jw zhāng;wu
@@ -32358,7 +32363,7 @@ sort: by_weight
 吴向东	wú;kt xiàng;pk dōng;ax
 吴向飞	wú;kt xiàng;pk fēi;vd
 吴祥辉	wú;kt xiáng;py huī;gi
-吴祥麟	wú;kt xiáng;py lín;lf
+吴祥麟	wú;kt xiáng;py lín;gf
 吴香伦	wú;kt xiāng;ho lún;rl
 吴翔威	wú;kt xiáng;yx wēi;gn
 吴相湘	wú;kt xiāng;ao xiāng;do
@@ -32411,7 +32416,7 @@ sort: by_weight
 吴心伯	wú;kt xīn;dd bó;rb
 吴新登	wú;kt xīn;lt dēng;bb
 吴鑫矾	wú;kt xīn;jj fán;uf
-吴欣鸿	wú;kt xīn;tq hóng;dn
+吴欣鸿	wú;kt xīn;iq hóng;dn
 吴新雷	wú;kt xīn;lt léi;yt
 吴昕吗	wú;kt xīn;ot ma;km
 吴新民	wú;kt xīn;lt mín;vv
@@ -32421,12 +32426,12 @@ sort: by_weight
 吴忻水	wú;kt xīn;xt shuǐ;ln
 吴新田	wú;kt xīn;lt tián;wu
 吴新伟	wú;kt xīn;lt wěi;rw
-吴辛欣	wú;kt xīn;lu xīn;tq
+吴辛欣	wú;kt xīn;lu xīn;iq
 吴新雄	wú;kt xīn;lt xióng;uv
-吴欣怡	wú;kt xīn;tq yí;xk
-吴欣盈	wú;kt xīn;tq yíng;nm
+吴欣怡	wú;kt xīn;iq yí;xk
+吴欣盈	wú;kt xīn;iq yíng;nm
 吴新宇	wú;kt xīn;lt yǔ;by
-吴欣纭	wú;kt xīn;tq yún;sy
+吴欣纭	wú;kt xīn;iq yún;sy
 吴昕则	wú;kt xīn;ot zé;bd
 吴信中	wú;kt xìn;rk zhōng;kl
 吴兴国	wú;kt xīng;xb guó;wy
@@ -32601,8 +32606,8 @@ sort: by_weight
 吴于廑	wú;kt yú;au jǐn;gw
 吴玉搢	wú;kt yù;wd jìn;fo
 吴玉良	wú;kt yù;wd liáng;dg
-吴毓麟	wú;kt yù;pi lín;lf
-吴玉麟	wú;kt yù;wd lín;lf
+吴毓麟	wú;kt yù;pi lín;gf
+吴玉麟	wú;kt yù;wd lín;gf
 吴玉林	wú;kt yù;wd lín;aa
 吴玉玲	wú;kt yù;wd líng;ws
 吴玉禄	wú;kt yù;wd lù;pu
@@ -32684,7 +32689,7 @@ sort: by_weight
 吴朝晖	wú;kt zhāo;uo huī;oi
 吴昭辉	wú;kt zhāo;ok huī;gi
 吴兆康	wú;kt zhào;ed kāng;gl
-吴兆麟	wú;kt zhào;ed lín;lf
+吴兆麟	wú;kt zhào;ed lín;gf
 吴兆南	wú;kt zhào;ed nán;ug
 吴兆骞	wú;kt zhào;ed qiān;bm
 吴昭淑	wú;kt zhāo;ok shū;dy
@@ -32838,7 +32843,7 @@ sort: by_weight
 吴宗翰	wú;kt zōng;bu hàn;ux
 吴宗宏	wú;kt zōng;bu hóng;bs
 吴宗濂	wú;kt zōng;bu lián;dj
-吴宗麟	wú;kt zōng;bu lín;lf
+吴宗麟	wú;kt zōng;bu lín;gf
 吴宗权	wú;kt zōng;bu quán;ay
 吴宗先	wú;kt zōng;bu xiān;ne
 吴宗尧	wú;kt zōng;bu yáo;yw
@@ -33004,7 +33009,7 @@ sort: by_weight
 夏永康	xià;bw yǒng;du kāng;gl
 夏悠然	xià;bw yōu;rx rán;xh
 夏雨来	xià;bw yǔ;ad lái;aa
-夏玉麟	xià;bw yù;wd lín;lf
+夏玉麟	xià;bw yù;wd lín;gf
 夏御叔	xià;bw yù;re shū;uy,by
 夏玉婷	xià;bw yù;wd tíng;nd
 夏宇童	xià;bw yǔ;by tóng;ll
@@ -33057,7 +33062,7 @@ sort: by_weight
 徐葆光	xú;rm bǎo;ca guāng;xe
 许宝恒	xǔ;yw bǎo;by héng;xd
 徐宝璜	xú;rm bǎo;by huáng;wb
-徐宝麟	xú;rm bǎo;by lín;lf
+徐宝麟	xú;rm bǎo;by lín;gf
 徐宝山	xú;rm bǎo;by shān;kl
 徐宝之	xú;rm bǎo;by zhī;dn
 许贝利	xǔ;yw bèi;kr lì;hd
@@ -33373,7 +33378,7 @@ sort: by_weight
 徐华清	xú;rm huá;ru qīng;do
 徐华胜	xú;rm huā;ru shèng;ou
 徐怀雯	xú;rm huái;xb wén;yw
-许怀欣	xǔ;yw huái;xb xīn;tq
+许怀欣	xǔ;yw huái;xb xīn;iq
 徐怀钰	xú;rm huái;xb yù;jy
 徐怀玉	xú;rm huái;xb yù;wd
 徐怀中	xú;rm huái;xb zhōng;kl
@@ -33389,7 +33394,7 @@ sort: by_weight
 徐惠林	xú;rm huì;ix lín;aa
 徐慧玲	xú;rm huì;fx líng;ws
 徐惠民	xú;rm huì;ix mín;vv
-许慧欣	xǔ;yw huì;fx xīn;tq
+许慧欣	xǔ;yw huì;fx xīn;iq
 徐汇苑	xú;rm huì;dk yuàn;cv
 徐惠真	xú;rm huì;ix zhēn;ub
 徐慧真	xú;rm huì;fx zhēn;ub
@@ -33431,7 +33436,7 @@ sort: by_weight
 徐佳丽	xú;rm jiā;rt lì;ad
 徐嘉良	xú;rm jiā;tk liáng;dg
 徐嘉琳	xú;rm jiā;tk lín;wa
-许佳麟	xǔ;yw jiā;rt lín;lf
+许佳麟	xǔ;yw jiā;rt lín;gf
 许嘉凌	xǔ;yw jiā;tk líng;dw
 许嘉璐	xǔ;yw jiā;tk lù;wk
 许佳敏	xǔ;yw jiā;rt mǐn;pw
@@ -33624,8 +33629,8 @@ sort: by_weight
 许连捷	xǔ;yw lián;zi jié;fz
 许亮宇	xǔ;yw liàng;wj yǔ;by
 许燎源	xǔ;yw liáo;hx yuán;dx
-徐麟哥	xú;rm lín;lf gē;kk
-许麟庐	xǔ;yw lín;lf lú;gh
+徐麟哥	xú;rm lín;gf gē;kk
+许麟庐	xǔ;yw lín;gf lú;gh
 许林平	xǔ;yw lín;aa píng;au
 徐林侠	xú;rm lín;aa xiá;rj
 徐林胤	xú;rm lín;aa yìn;eo
@@ -33700,7 +33705,7 @@ sort: by_weight
 许穆公	xǔ;yw mù;hp gōng;bs
 许纳贝	xǔ;yw nà;sn bèi;kr
 许乃济	xǔ;yw nǎi;pv,vp jì;dq
-徐乃麟	xú;rm nǎi;pv,vp lín;lf
+徐乃麟	xú;rm nǎi;pv,vp lín;gf
 徐囡楠	xú;rm nān;wn nán;ag
 徐囡囡	xú;rm nān;wn nān;wn
 徐南平	xú;rm nán;ug píng;au
@@ -33732,7 +33737,7 @@ sort: by_weight
 徐起居	xú;rm qǐ;tj jū;ug
 许其亮	xǔ;yw qí;cb liàng;wj
 徐启明	xú;rm qǐ;hk míng;oo
-徐麒雯	xú;rm qí;lb wén;yw
+徐麒雯	xú;rm qí;gb wén;yw
 徐启文	xú;rm qǐ;hk wén;wx
 徐启雄	xú;rm qǐ;hk xióng;uv
 徐其修	xú;rm qí;cb xiū;rp
@@ -33861,7 +33866,7 @@ sort: by_weight
 徐世谱	xú;rm shì;cv pǔ;yo
 徐世溥	xú;rm shì;cv pǔ;dc
 徐诗琪	xú;rm shī;yc qí;wb
-徐石麒	xú;rm shí;ak qí;lb
+徐石麒	xú;rm shí;ak qí;gb
 许仕仁	xǔ;yw shì;rt rén;re
 徐世荣	xú;rm shì;cv róng;ca
 许世坛	xǔ;yw shì;cv tán;ty
@@ -33939,7 +33944,7 @@ sort: by_weight
 徐天红	xú;rm tiān;ad hóng;sg
 徐天宏	xú;rm tiān;ad hóng;bs
 徐天华	xú;rm tiān;ad huā;ru
-徐天麟	xú;rm tiān;ad lín;lf
+徐天麟	xú;rm tiān;ad lín;gf
 徐天民	xú;rm tiān;ad mín;vv
 徐天堂	xú;rm tiān;ad táng;xt
 许天锡	xǔ;yw tiān;ad xī;jw
@@ -34037,7 +34042,7 @@ sort: by_weight
 徐无鬼	xú;rm wú;ay guǐ;ps
 徐熙娣	xú;rm xī;ih dì;nd
 许僖公	xǔ;yw xī;rk gōng;bs
-徐锡麟	xú;rm xī;jw lín;lf
+徐锡麟	xú;rm xī;jw lín;gf
 许希孟	xǔ;yw xī;xj mèng;zm
 徐希仁	xú;rm xī;xj rén;re
 徐熙颜	xú;rm xī;ih yán;wy
@@ -34127,7 +34132,7 @@ sort: by_weight
 徐新荣	xú;rm xīn;lt róng;ca
 许馨文	xǔ;yw xīn;to wén;wx
 许昕一	xǔ;yw xīn;ot yī;aa
-徐欣莹	xú;rm xīn;tq yíng;cy
+徐欣莹	xú;rm xīn;iq yíng;cy
 徐新玉	xú;rm xīn;lt yù;wd
 许心愿	xǔ;yw xīn;dd yuàn;ix
 许芯悦	xǔ;yw xīn;cx yuè;xx
@@ -34772,7 +34777,7 @@ sort: by_weight
 杨春雨	yáng;ap chūn;io yǔ;ad
 杨春元	yáng;ap chūn;io yuán;aw
 杨春增	yáng;ap chūn;io zēng;to
-杨赐麟	yáng;ap cì;bw lín;lf
+杨赐麟	yáng;ap cì;bw lín;gf
 杨次山	yáng;ap cì;dq shān;kl
 杨聪贤	yáng;ap cōng;ex xián;lb
 杨翠玲	yáng;ap cuì;xu líng;ws
@@ -35062,8 +35067,8 @@ sort: by_weight
 杨家圩	yáng;ap jiā;bu wéi;ty
 杨嘉雯	yáng;ap jiā;tk wén;yw
 杨佳娴	yáng;ap jiā;rt xián;na
-杨佳欣	yáng;ap jiā;rt xīn;tq
-杨嘉欣	yáng;ap jiā;tk xīn;tq
+杨佳欣	yáng;ap jiā;rt xīn;iq
+杨嘉欣	yáng;ap jiā;tk xīn;iq
 杨嘉怡	yáng;ap jiā;tk yí;xk
 杨佳音	yáng;ap jiā;rt yīn;lo
 杨家勇	yáng;ap jiā;bu yǒng;sl
@@ -35190,7 +35195,7 @@ sort: by_weight
 杨克勤	yáng;ap kè;ux,ge qín;cl
 杨可心	yáng;ap kě;dk xīn;dd
 杨口郡	yáng;ap kǒu;la jùn;ye
-杨宽麟	yáng;ap kuān;bj lín;lf
+杨宽麟	yáng;ap kuān;bj lín;gf
 杨揆一	yáng;ap kuí;ft yī;aa
 杨昆鹏	yáng;ap kūn;ob péng;on
 杨坤组	yáng;ap kūn;tu zǔ;sq
@@ -35430,7 +35435,7 @@ sort: by_weight
 杨瑞代	yáng;ap ruì;we dài;rg
 杨瑞东	yáng;ap ruì;we dōng;ax
 杨瑞符	yáng;ap ruì;we fú;vc
-杨瑞麟	yáng;ap ruì;we lín;lf
+杨瑞麟	yáng;ap ruì;we lín;gf
 杨瑞林	yáng;ap ruì;we lín;aa
 杨瑞生	yáng;ap ruì;we shēng;pf
 杨瑞亭	yáng;ap ruì;we tíng;wd
@@ -35618,7 +35623,7 @@ sort: by_weight
 杨廷东	yáng;ap tíng;zw dōng;ax
 杨廷鉴	yáng;ap tíng;zw jiàn;lj
 杨廷理	yáng;ap tíng;zw lǐ;wl
-杨廷麟	yáng;ap tíng;zw lín;lf
+杨廷麟	yáng;ap tíng;zw lín;gf
 杨廷纶	yáng;ap tíng;zw lún;sl
 杨廷双	yáng;ap tíng;zw shuāng;yy
 杨婷婷	yáng;ap tíng;nd tíng;nd
@@ -35800,11 +35805,11 @@ sort: by_weight
 杨小云	yáng;ap xiǎo;lb yún;ag,es
 杨新民	yáng;ap xīn;lt mín;vv
 杨新鸣	yáng;ap xīn;lt míng;kn
-杨欣欣	yáng;ap xīn;tq xīn;tq
+杨欣欣	yáng;ap xīn;iq xīn;iq
 杨芯宜	yáng;ap xīn;cx yí;bq
 杨心怡	yáng;ap xīn;dd yí;xk
-杨欣怡	yáng;ap xīn;tq yí;xk
-杨欣颖	yáng;ap xīn;tq yǐng;bh
+杨欣怡	yáng;ap xīn;iq yí;xk
+杨欣颖	yáng;ap xīn;iq yǐng;bh
 杨新宇	yáng;ap xīn;lt yǔ;by
 杨杏佛	yáng;ap xìng;ak fó;rf
 杨兴华	yáng;ap xīng;xb huá;ru
@@ -36024,7 +36029,7 @@ sort: by_weight
 杨月口	yáng;ap yuè;ke kǒu;la
 杨跃民	yáng;ap yuè;zy mín;vv
 杨月如	yáng;ap yuè;ke rú;nk
-杨月欣	yáng;ap yuè;ke xīn;tq
+杨月欣	yáng;ap yuè;ke xīn;iq
 杨运长	yáng;ap yùn;zy cháng;pn
 杨云娥	yáng;ap yún;ag,es é;nw
 杨云帆	yáng;ap yún;ag,es fān;jf
@@ -36052,7 +36057,7 @@ sort: by_weight
 杨肇基	yáng;ap zhào;hy jī;ct
 杨肇嘉	yáng;ap zhào;hy jiā;tk
 杨兆钧	yáng;ap zhào;ed jūn;jy
-杨兆麟	yáng;ap zhào;ed lín;lf
+杨兆麟	yáng;ap zhào;ed lín;gf
 杨兆龙	yáng;ap zhào;ed lóng;yp
 杨昭全	yáng;ap zhāo;ok quán;rw
 杨兆全	yáng;ap zhào;ed quán;rw
@@ -36363,8 +36368,8 @@ sort: by_weight
 岳礼华	yuè;qu lǐ;pv huá;ru
 岳丽娜	yuè;qu lì;ad nà;ne
 岳林寺	yuè;qu lín;aa sì;tc
-岳麓版	yuè;qu lù;al bǎn;py
-岳麓道	yuè;qu lù;al dào;zz
+岳麓版	yuè;qu lù;ab bǎn;py
+岳麓道	yuè;qu lù;ab dào;zz
 岳美缇	yuè;qu měi;yd tí;sz
 岳美中	yuè;qu měi;yd zhōng;kl
 岳淼淼	yuè;qu miǎo;uu miǎo;uu
@@ -36450,7 +36455,7 @@ sort: by_weight
 张安道	zhāng;gi ān;bn dào;zz
 张安国	zhāng;gi ān;bn guó;wy
 张安乐	zhāng;gi ān;bn lè;px
-张安麟	zhāng;gi ān;bn lín;lf
+张安麟	zhāng;gi ān;bn lín;gf
 张安民	zhāng;gi ān;bn mín;vv
 张安年	zhāng;gi ān;bn nián;pf
 张安琪	zhāng;gi ān;bn qí;wb
@@ -36468,7 +36473,7 @@ sort: by_weight
 张百发	zhāng;gi bǎi;ab fā;fy
 张柏嘉	zhāng;gi bǎi;ab jiā;tk
 张白金	zhāng;gi bái;po jīn;rb
-张百麟	zhāng;gi bǎi;ab lín;lf
+张百麟	zhāng;gi bǎi;ab lín;gf
 张百龄	zhāng;gi bǎi;ab líng;vs
 张百强	zhāng;gi bǎi;ab qiáng;gi
 张百忍	zhāng;gi bǎi;ab rěn;dx
@@ -36501,7 +36506,7 @@ sort: by_weight
 张保军	zhāng;gi bǎo;ra jūn;bi
 张宝利	zhāng;gi bǎo;by lì;hd
 张宝林	zhāng;gi bǎo;by lín;aa
-张宝麟	zhāng;gi bǎo;by lín;lf
+张宝麟	zhāng;gi bǎo;by lín;gf
 张保洛	zhāng;gi bǎo;ra luò;dk
 张保民	zhāng;gi bǎo;ra mín;vv
 张暴默	zhāng;gi bào;ou mò;lq
@@ -36528,7 +36533,7 @@ sort: by_weight
 张宝相	zhāng;gi bǎo;by xiāng;ao
 张宝祥	zhāng;gi bǎo;by xiáng;py
 张保信	zhāng;gi bǎo;ra xìn;rk
-张宝欣	zhāng;gi bǎo;by xīn;tq
+张宝欣	zhāng;gi bǎo;by xīn;iq
 张宝艳	zhāng;gi bǎo;by yàn;fb
 张宝义	zhāng;gi bǎo;by yì;dx
 张保胤	zhāng;gi bǎo;ra yìn;eo
@@ -37560,7 +37565,7 @@ sort: by_weight
 张华明	zhāng;gi huá;ru míng;oo
 张华年	zhāng;gi huá;ru nián;pf
 张华平	zhāng;gi huá;ru píng;au
-张化麒	zhāng;gi huà;rb qí;lb
+张化麒	zhāng;gi huà;rb qí;gb
 张化桥	zhāng;gi huà;rb qiáo;al
 张华庆	zhāng;gi huá;ru qìng;gd
 张华清	zhāng;gi huá;ru qīng;do
@@ -37601,7 +37606,7 @@ sort: by_weight
 张慧君	zhāng;gi huì;fx jūn;yk
 张蕙兰	zhāng;gi huì;cx lán;bs
 张慧林	zhāng;gi huì;fx lín;aa
-张蕙麟	zhāng;gi huì;cx lín;lf
+张蕙麟	zhāng;gi huì;cx lín;gf
 张慧玲	zhāng;gi huì;fx líng;ws
 张惠敏	zhāng;gi huì;ix mǐn;pw
 张慧敏	zhāng;gi huì;fx mǐn;pw
@@ -37775,9 +37780,9 @@ sort: by_weight
 张佳贤	zhāng;gi jiā;rt xián;lb
 张家祥	zhāng;gi jiā;bu xiáng;py
 张嘉祥	zhāng;gi jiā;tk xiáng;py
-张嘉欣	zhāng;gi jiā;tk xīn;tq
+张嘉欣	zhāng;gi jiā;tk xīn;iq
 张嘉昕	zhāng;gi jiā;tk xīn;ot
-张家欣	zhāng;gi jiā;bu xīn;tq
+张家欣	zhāng;gi jiā;bu xīn;iq
 张佳鑫	zhāng;gi jiā;rt xīn;jj
 张家兴	zhāng;gi jiā;bu xīng;xb
 张嘉轩	zhāng;gi jiā;tk xuān;ig
@@ -37876,7 +37881,7 @@ sort: by_weight
 张建武	zhāng;gi jiàn;zy wǔ;gv
 张建祥	zhāng;gi jiàn;zy xiáng;py
 张建新	zhāng;gi jiàn;zy xīn;lt
-张建欣	zhāng;gi jiàn;zy xīn;tq
+张建欣	zhāng;gi jiàn;zy xīn;iq
 张建勋	zhāng;gi jiàn;zy xūn;kl
 张建亚	zhāng;gi jiàn;zy yà;ay
 张建业	zhāng;gi jiàn;zy yè;la
@@ -38200,7 +38205,7 @@ sort: by_weight
 张克群	zhāng;gi kè;ux,ge qún;yy
 张克荣	zhāng;gi kè;ux,ge róng;ca
 张克侠	zhāng;gi kè;ux,ge xiá;rj
-张可欣	zhāng;gi kě;dk xīn;tq
+张可欣	zhāng;gi kě;dk xīn;iq
 张可颐	zhāng;gi kě;dk yí;iy
 张科长	zhāng;gi kē;hd zhǎng;pn
 张空白	zhāng;gi kòng;bg bái;po
@@ -38362,7 +38367,7 @@ sort: by_weight
 张良泽	zhāng;gi liáng;dg zé;df
 张辽一	zhāng;gi liáo;zl yī;aa
 张裂缝	zhāng;gi liè;dy fèng;sf
-张裂丘	zhāng;gi liè;dy qiū;ta
+张裂丘	zhāng;gi liè;dy qiū;ia
 张林超	zhāng;gi lín;aa chāo;tk
 张林虎	zhāng;gi lín;aa hǔ;hj
 张琳琳	zhāng;gi lín;wa lín;wa
@@ -38497,7 +38502,7 @@ sort: by_weight
 张梦洁	zhāng;gi mèng;ax jié;dk
 张梦瑾	zhāng;gi mèng;ax jǐn;ww
 张梦鲤	zhāng;gi mèng;ax lǐ;yl
-张梦麟	zhāng;gi mèng;ax lín;lf
+张梦麟	zhāng;gi mèng;ax lín;gf
 张梦露	zhāng;gi mèng;ax lù;yk
 张萌萌	zhāng;gi méng;co méng;co
 张蒙蒙	zhāng;gi méng;cu méng;cu
@@ -38859,7 +38864,7 @@ sort: by_weight
 张荣国	zhāng;gi róng;ca guó;wy
 张荣华	zhāng;gi róng;ca huá;ru
 张荣吉	zhāng;gi róng;ca jí;tk
-张荣麟	zhāng;gi róng;ca lín;lf
+张荣麟	zhāng;gi róng;ca lín;gf
 张荣冕	zhāng;gi róng;ca miǎn;oe
 张榕明	zhāng;gi róng;ag míng;oo
 张荣明	zhāng;gi róng;ca míng;oo
@@ -38896,7 +38901,7 @@ sort: by_weight
 张瑞娟	zhāng;gi ruì;we juān;no
 张瑞丽	zhāng;gi ruì;we lì;ad
 张瑞良	zhāng;gi ruì;we liáng;dg
-张瑞麟	zhāng;gi ruì;we lín;lf
+张瑞麟	zhāng;gi ruì;we lín;gf
 张瑞玲	zhāng;gi ruì;we líng;ws
 张睿羚	zhāng;gi ruì;bo líng;ys
 张瑞敏	zhāng;gi ruì;we mǐn;pw
@@ -39271,7 +39276,7 @@ sort: by_weight
 张松山	zhāng;gi sōng;ag shān;kl
 张松涛	zhāng;gi sōng;ag tāo;dc
 张松溪	zhāng;gi sōng;ag xī;dd
-张颂欣	zhāng;gi sòng;gy xīn;tq
+张颂欣	zhāng;gi sòng;gy xīn;iq
 张松枝	zhāng;gi sōng;ag zhī;av
 张素娥	zhāng;gi sù;fx é;nw
 张苏军	zhāng;gi sū;cb jūn;bi
@@ -39330,7 +39335,7 @@ sort: by_weight
 张天骏	zhāng;gi tiān;ad jùn;mw
 张天雷	zhāng;gi tiān;ad léi;yt
 张天霖	zhāng;gi tiān;ad lín;ya
-张天麟	zhāng;gi tiān;ad lín;lf
+张天麟	zhāng;gi tiān;ad lín;gf
 张天龙	zhāng;gi tiān;ad lóng;yp
 张天禄	zhāng;gi tiān;ad lù;pu
 张天民	zhāng;gi tiān;ad mín;vv
@@ -39518,7 +39523,7 @@ sort: by_weight
 张维贤	zhāng;gi wéi;sv xián;lb
 张微信	zhāng;gi wēi;rj xìn;rk
 张维新	zhāng;gi wéi;sv xīn;lt
-张伟欣	zhāng;gi wěi;rw xīn;tq
+张伟欣	zhāng;gi wěi;rw xīn;iq
 张卫星	zhāng;gi wèi;ea xīng;ou
 张伟雄	zhāng;gi wěi;rw xióng;uv
 张炜迅	zhāng;gi wěi;hw xùn;zu
@@ -39646,7 +39651,7 @@ sort: by_weight
 张文祥	zhāng;gi wén;wx xiáng;py
 张汶祥	zhāng;gi wèn;dw xiáng;py
 张文新	zhāng;gi wén;wx xīn;lt
-张文欣	zhāng;gi wén;wx xīn;tq
+张文欣	zhāng;gi wén;wx xīn;iq
 张文馨	zhāng;gi wén;wx xīn;to
 张文雄	zhāng;gi wén;wx xióng;uv
 张文秀	zhāng;gi wén;wx xiù;hn
@@ -39883,7 +39888,7 @@ sort: by_weight
 张小林	zhāng;gi xiǎo;lb lín;aa
 张晓林	zhāng;gi xiǎo;ow lín;aa
 张晓琳	zhāng;gi xiǎo;ow lín;wa
-张晓麟	zhāng;gi xiǎo;ow lín;lf
+张晓麟	zhāng;gi xiǎo;ow lín;gf
 张晓玲	zhāng;gi xiǎo;ow líng;ws
 张小玲	zhāng;gi xiǎo;lb líng;ws
 张晓龙	zhāng;gi xiǎo;ow lóng;yp
@@ -40032,21 +40037,21 @@ sort: by_weight
 张新桥	zhāng;gi xīn;lt qiáo;al
 张新权	zhāng;gi xīn;lt quán;ay
 张新泉	zhāng;gi xīn;lt quán;bu
-张欣然	zhāng;gi xīn;tq rán;xh
+张欣然	zhāng;gi xīn;iq rán;xh
 张新荣	zhāng;gi xīn;lt róng;ca
 张信如	zhāng;gi xìn;rk rú;nk
 张新生	zhāng;gi xīn;lt shēng;pf
 张新时	zhāng;gi xīn;lt shí;to
-张欣泰	zhāng;gi xīn;tq tài;iu
+张欣泰	zhāng;gi xīn;iq tài;iu
 张新图	zhāng;gi xīn;lt tú;wd
 张馨文	zhāng;gi xīn;to wén;wx
 张新文	zhāng;gi xīn;lt wén;wx
 张新武	zhāng;gi xīn;lt wǔ;gv
 张新心	zhāng;gi xīn;lt xīn;dd
 张新新	zhāng;gi xīn;lt xīn;lt
-张辛欣	zhāng;gi xīn;lu xīn;tq
+张辛欣	zhāng;gi xīn;lu xīn;iq
 张辛昕	zhāng;gi xīn;lu xīn;ot
-张欣欣	zhāng;gi xīn;tq xīn;tq
+张欣欣	zhāng;gi xīn;iq xīn;iq
 张鑫鑫	zhāng;gi xīn;jj xīn;jj
 张馨心	zhāng;gi xīn;to xīn;dd
 张鑫旭	zhāng;gi xīn;jj xù;jo
@@ -40055,17 +40060,17 @@ sort: by_weight
 张新燕	zhāng;gi xīn;lt yàn;ch
 张心妍	zhāng;gi xīn;dd yán;nk
 张炘炀	zhāng;gi xīn;ht yáng;hp
-张欣尧	zhāng;gi xīn;tq yáo;yw
+张欣尧	zhāng;gi xīn;iq yáo;yw
 张歆怡	zhāng;gi xīn;lq yí;xk
 张心怡	zhāng;gi xīn;dd yí;xk
-张欣怡	zhāng;gi xīn;tq yí;xk
+张欣怡	zhāng;gi xīn;iq yí;xk
 张馨怡	zhāng;gi xīn;to yí;xk
-张欣奕	zhāng;gi xīn;tq yì;wd
+张欣奕	zhāng;gi xīn;iq yì;wd
 张新颖	zhāng;gi xīn;lt yǐng;bh
 张新英	zhāng;gi xīn;lt yīng;cy
 张馨予	zhāng;gi xīn;to yǔ;sl
 张昕宇	zhāng;gi xīn;ot yǔ;by
-张欣宇	zhāng;gi xīn;tq yǔ;by
+张欣宇	zhāng;gi xīn;iq yǔ;by
 张芯瑜	zhāng;gi xīn;cx yú;wd
 张心雨	zhāng;gi xīn;dd yǔ;ad
 张新宇	zhāng;gi xīn;lt yǔ;by
@@ -40440,7 +40445,7 @@ sort: by_weight
 张贻惠	zhāng;gi yí;bk huì;ix
 张逸杰	zhāng;gi yì;zt jié;ah
 张毅君	zhāng;gi yì;lu jūn;yk
-张一麟	zhāng;gi yī;aa lín;lf
+张一麟	zhāng;gi yī;aa lín;gf
 张一曼	zhāng;gi yī;aa màn;oy
 张艺曼	zhāng;gi yì;cv màn;oy
 张益萌	zhāng;gi yì;bm méng;co
@@ -40493,7 +40498,7 @@ sort: by_weight
 张易之	zhāng;gi yì;ow zhī;dn
 张银海	zhāng;gi yín;jg hǎi;dm
 张荫桓	zhāng;gi yīn;co huán;ad
-张荫麟	zhāng;gi yīn;co lín;lf
+张荫麟	zhāng;gi yīn;co lín;gf
 张荫棠	zhāng;gi yīn;co táng;xa
 张荫梧	zhāng;gi yīn;co wú;ak
 张印湘	zhāng;gi yìn;pe xiāng;do
@@ -40698,7 +40703,7 @@ sort: by_weight
 张羽霖	zhāng;gi yǔ;xx lín;ya
 张育林	zhāng;gi yù;wo lín;aa
 张玉林	zhāng;gi yù;wd lín;aa
-张玉麟	zhāng;gi yù;wd lín;lf
+张玉麟	zhāng;gi yù;wd lín;gf
 张玉琳	zhāng;gi yù;wd lín;wa
 张玉玲	zhāng;gi yù;wd líng;ws
 张羽翎	zhāng;gi yǔ;xx líng;rx
@@ -40750,12 +40755,12 @@ sort: by_weight
 张玉香	zhāng;gi yù;wd xiāng;ho
 张玉祥	zhāng;gi yù;wd xiáng;py
 张宇翔	zhāng;gi yǔ;by xiáng;yx
-张宇欣	zhāng;gi yǔ;by xīn;tq
+张宇欣	zhāng;gi yǔ;by xīn;iq
 张语昕	zhāng;gi yǔ;yk xīn;ot
 张雨鑫	zhāng;gi yǔ;ad xīn;jj
 张雨馨	zhāng;gi yǔ;ad xīn;to
 张玉鑫	zhāng;gi yù;wd xīn;jj
-张雨欣	zhāng;gi yǔ;ad xīn;tq
+张雨欣	zhāng;gi yǔ;ad xīn;iq
 张玉新	zhāng;gi yù;wd xīn;lt
 张雨轩	zhāng;gi yǔ;ad xuān;ig
 张宇轩	zhāng;gi yǔ;by xuān;ig
@@ -40927,8 +40932,8 @@ sort: by_weight
 张兆辉	zhāng;gi zhào;ed huī;gi
 张肇基	zhāng;gi zhào;hy jī;ct
 张肇金	zhāng;gi zhào;hy jīn;rb
-张兆麟	zhāng;gi zhào;ed lín;lf
-张肇麟	zhāng;gi zhào;hy lín;lf
+张兆麟	zhāng;gi zhào;ed lín;gf
+张肇麟	zhāng;gi zhào;hy lín;gf
 张兆祥	zhāng;gi zhào;ed xiáng;py
 张昭雄	zhāng;gi zhāo;ok xióng;uv
 张兆旭	zhāng;gi zhào;ed xù;jo
@@ -40971,7 +40976,7 @@ sort: by_weight
 张振杰	zhāng;gi zhèn;fi jié;ah
 张振军	zhāng;gi zhèn;fi jūn;bi
 张振朗	zhāng;gi zhèn;fi lǎng;lo
-张镇麟	zhāng;gi zhèn;jb lín;lf
+张镇麟	zhāng;gi zhèn;jb lín;gf
 张振林	zhāng;gi zhèn;fi lín;aa
 张振民	zhāng;gi zhèn;fi mín;vv
 张振明	zhāng;gi zhèn;fi míng;oo
@@ -41200,7 +41205,7 @@ sort: by_weight
 张仲良	zhāng;gi zhòng;rv liáng;dg
 张中良	zhāng;gi zhōng;kl liáng;dg
 张忠良	zhāng;gi zhōng;vx liáng;dg
-张钟麟	zhāng;gi zhōng;jv lín;lf
+张钟麟	zhāng;gi zhōng;jv lín;gf
 张忠林	zhāng;gi zhōng;vx lín;aa
 张忠路	zhāng;gi zhōng;vx lù;zk
 张仲鲁	zhāng;gi zhòng;rv lǔ;yo
@@ -41274,7 +41279,7 @@ sort: by_weight
 张自力	zhāng;gi zì;po lì;vp
 张自立	zhāng;gi zì;po lì;wb
 张子良	zhāng;gi zǐ;la liáng;dg
-张子麟	zhāng;gi zǐ;la lín;lf
+张子麟	zhāng;gi zǐ;la lín;gf
 张梓琳	zhāng;gi zǐ;ax lín;wa
 张子林	zhāng;gi zǐ;la lín;aa
 张子龙	zhāng;gi zǐ;la lóng;yp
@@ -41295,7 +41300,7 @@ sort: by_weight
 张子贤	zhāng;gi zǐ;la xián;lb
 张子祥	zhāng;gi zǐ;la xiáng;py
 张子翔	zhāng;gi zǐ;la xiáng;yx
-张子欣	zhāng;gi zǐ;la xīn;tq
+张子欣	zhāng;gi zǐ;la xīn;iq
 张子信	zhāng;gi zǐ;la xìn;rk
 张子旭	zhāng;gi zǐ;la xù;jo
 张子萱	zhāng;gi zǐ;la xuān;cd
@@ -41751,7 +41756,7 @@ sort: by_weight
 赵贝琦	zhào;tx bèi;kr qí;wk	1
 赵辈亭	zhào;tx bèi;fi tíng;wd	2
 赵北乡	zhào;tx běi;lb xiāng;vp	1
-赵蓓欣	zhào;tx bèi;ck xīn;tq	3
+赵蓓欣	zhào;tx bèi;ck xīn;iq	3
 赵倍萱	zhào;tx bèi;rk xuān;cd	1
 赵北洋	zhào;tx běi;lb yáng;dy	1
 赵倍瑶	zhào;tx bèi;rk yáo;wf	1
@@ -41913,7 +41918,7 @@ sort: by_weight
 赵秉礼	zhào;tx bǐng;qr lǐ;pv	1
 赵炳良	zhào;tx bǐng;hn liáng;dg	1
 赵秉良	zhào;tx bǐng;qr liáng;dg	1
-赵炳麟	zhào;tx bǐng;hn lín;lf	2
+赵炳麟	zhào;tx bǐng;hn lín;gf	2
 赵炳龙	zhào;tx bǐng;hn lóng;yp	2
 赵炳录	zhào;tx bǐng;hn lù;eu	1
 赵炳茂	zhào;tx bǐng;hn mào;cg	1
@@ -41963,7 +41968,7 @@ sort: by_weight
 赵炳香	zhào;tx bǐng;hn xiāng;ho	1
 赵炳新	zhào;tx bǐng;hn xīn;lt	1
 赵冰馨	zhào;tx bīng;du xīn;to	1
-赵冰欣	zhào;tx bīng;du xīn;tq	1
+赵冰欣	zhào;tx bīng;du xīn;iq	1
 赵冰鑫	zhào;tx bīng;du xīn;jj	1
 赵炳星	zhào;tx bǐng;hn xīng;ou	1
 赵炳秀	zhào;tx bǐng;hn xiù;hn	2
@@ -42090,7 +42095,7 @@ sort: by_weight
 赵博贤	zhào;tx bó;uc xián;lb	1
 赵伯啸	zhào;tx bó;rb xiào;kb	3
 赵博鑫	zhào;tx bó;uc xīn;jj	1
-赵博欣	zhào;tx bó;uc xīn;tq	1
+赵博欣	zhào;tx bó;uc xīn;iq	1
 赵博星	zhào;tx bó;uc xīng;ou	2
 赵伯兴	zhào;tx bó;rb xīng;xb	1
 赵博玄	zhào;tx bó;uc xuán;wy	2
@@ -42292,7 +42297,7 @@ sort: by_weight
 赵昌亮	zhào;tx chāng;oo liàng;wj	7
 赵长亮	zhào;tx cháng;pn liàng;wj	6
 赵长林	zhào;tx cháng;pn lín;aa	7
-赵长麟	zhào;tx cháng;pn lín;lf	1
+赵长麟	zhào;tx cháng;pn lín;gf	1
 赵昌林	zhào;tx chāng;oo lín;aa	1
 赵长玲	zhào;tx cháng;pn líng;ws	2
 赵长龙	zhào;tx cháng;pn lóng;yp	10
@@ -42343,7 +42348,7 @@ sort: by_weight
 赵昌熙	zhào;tx chāng;oo xī;ih	1
 赵长霞	zhào;tx cháng;pn xiá;yy	1
 赵昌燮	zhào;tx chāng;oo xiè;hy	1
-赵昌欣	zhào;tx chāng;oo xīn;tq	1
+赵昌欣	zhào;tx chāng;oo xīn;iq	1
 赵长鑫	zhào;tx cháng;pn xīn;jj	1
 赵昌兴	zhào;tx chāng;oo xīng;xb	2
 赵常星	zhào;tx cháng;xj xīng;ou	1
@@ -42474,7 +42479,7 @@ sort: by_weight
 赵晨梁	zhào;tx chén;oi liáng;da	3
 赵辰亮	zhào;tx chén;iy liàng;wj	1
 赵陈良	zhào;tx chén;ed liáng;dg	1
-赵晨麟	zhào;tx chén;oi lín;lf	1
+赵晨麟	zhào;tx chén;oi lín;gf	1
 赵晨龙	zhào;tx chén;oi lóng;yp	1
 赵晨路	zhào;tx chén;oi lù;zk	1
 赵晨露	zhào;tx chén;oi lù;yk	1
@@ -42516,7 +42521,7 @@ sort: by_weight
 赵晨翔	zhào;tx chén;oi xiáng;yx	2
 赵趁想	zhào;tx chèn;tp xiǎng;ax	1
 赵陈香	zhào;tx chén;ed xiāng;ho	1
-赵晨欣	zhào;tx chén;oi xīn;tq	1
+赵晨欣	zhào;tx chén;oi xīn;iq	1
 赵晨昕	zhào;tx chén;oi xīn;ot	1
 赵辰昕	zhào;tx chén;iy xīn;ot
 赵晨星	zhào;tx chén;oi xīng;ou	1
@@ -42651,7 +42656,7 @@ sort: by_weight
 赵城烈	zhào;tx chéng;ti liè;dh	1
 赵成林	zhào;tx chéng;gv lín;aa	4
 赵程琳	zhào;tx chéng;hw lín;wa	1
-赵晟麟	zhào;tx chéng;oi lín;lf	1
+赵晟麟	zhào;tx chéng;oi lín;gf	1
 赵成龙	zhào;tx chéng;gv lóng;yp	15
 赵承隆	zhào;tx chéng;ln lóng;eu	1
 赵成曼	zhào;tx chéng;gv màn;oy	1
@@ -42824,7 +42829,7 @@ sort: by_weight
 赵出琦	zhào;tx chū;uu qí;wk	1
 赵楚婷	zhào;tx chǔ;az tíng;nd	1
 赵楚文	zhào;tx chǔ;az wén;wx	1
-赵楚欣	zhào;tx chǔ;az xīn;tq	1
+赵楚欣	zhào;tx chǔ;az xīn;iq	1
 赵初兴	zhào;tx chū;pd xīng;xb	1
 赵初旸	zhào;tx chū;pd yáng;op	1
 赵楚钰	zhào;tx chǔ;az yù;jy	1
@@ -43074,7 +43079,7 @@ sort: by_weight
 赵春想	zhào;tx chūn;io xiǎng;ax	1
 赵春晓	zhào;tx chūn;io xiǎo;ow	1
 赵春潇	zhào;tx chūn;io xiāo;db	1
-赵春欣	zhào;tx chūn;io xīn;tq	1
+赵春欣	zhào;tx chūn;io xīn;iq	1
 赵春新	zhào;tx chūn;io xīn;lt	1
 赵春兴	zhào;tx chūn;io xīng;xb	2
 赵春醒	zhào;tx chūn;io xǐng;yu	1
@@ -43232,7 +43237,7 @@ sort: by_weight
 赵翠香	zhào;tx cuì;xu xiāng;ho	1
 赵翠想	zhào;tx cuì;xu xiǎng;ax	1
 赵翠晓	zhào;tx cuì;xu xiǎo;ow	1
-赵翠欣	zhào;tx cuì;xu xīn;tq	3
+赵翠欣	zhào;tx cuì;xu xīn;iq	3
 赵翠新	zhào;tx cuì;xu xīn;lt	1
 赵翠艳	zhào;tx cuì;xu yàn;fb	3
 赵翠仪	zhào;tx cuì;xu yí;ry	1
@@ -44012,7 +44017,7 @@ sort: by_weight
 赵二维	zhào;tx èr;aa wéi;sv	1
 赵二仙	zhào;tx èr;aa xiān;ru	1
 赵二香	zhào;tx èr;aa xiāng;ho	1
-赵二欣	zhào;tx èr;aa xīn;tq	1
+赵二欣	zhào;tx èr;aa xīn;iq	1
 赵尔巽	zhào;tx ěr;dx xùn;sg	1
 赵尔雅	zhào;tx ěr;dx yǎ;yv	1
 赵尔颐	zhào;tx ěr;dx yí;iy	3
@@ -44254,7 +44259,7 @@ sort: by_weight
 赵凤莲	zhào;tx fèng;jy lián;ci	4
 赵丰亮	zhào;tx fēng;sl,al liàng;wj	1
 赵凤林	zhào;tx fèng;jy lín;aa	4
-赵凤麟	zhào;tx fèng;jy lín;lf	3
+赵凤麟	zhào;tx fèng;jy lín;gf	3
 赵枫林	zhào;tx fēng;af lín;aa	1
 赵风林	zhào;tx fēng;jx lín;aa	1
 赵凤玲	zhào;tx fèng;jy líng;ws	3
@@ -45172,7 +45177,7 @@ sort: by_weight
 赵桂祥	zhào;tx guì;at xiáng;py	1
 赵桂锌	zhào;tx guì;at xīn;jx	1
 赵贵新	zhào;tx guì;vb xīn;lt	1
-赵桂欣	zhào;tx guì;at xīn;tq	1
+赵桂欣	zhào;tx guì;at xīn;iq	1
 赵贵鑫	zhào;tx guì;vb xīn;jj	1
 赵贵艳	zhào;tx guì;vb yàn;fb	1
 赵贵阳	zhào;tx guì;vb yáng;eo	1
@@ -45282,7 +45287,7 @@ sort: by_weight
 赵国林	zhào;tx guó;wy lín;aa	12
 赵国蔺	zhào;tx guó;wy lìn;cv	9
 赵过林	zhào;tx guò;zc lín;aa	1
-赵国麟	zhào;tx guó;wy lín;lf	1
+赵国麟	zhào;tx guó;wy lín;gf	1
 赵国领	zhào;tx guó;wy lǐng;ry	3
 赵国铃	zhào;tx guó;wy líng;js	2
 赵国岭	zhào;tx guó;wy lǐng;us	2
@@ -45344,7 +45349,7 @@ sort: by_weight
 赵国香	zhào;tx guó;wy xiāng;ho	1
 赵国新	zhào;tx guó;wy xīn;lt	2
 赵国信	zhào;tx guó;wy xìn;rk	1
-赵国欣	zhào;tx guó;wy xīn;tq	1
+赵国欣	zhào;tx guó;wy xīn;iq	1
 赵国鑫	zhào;tx guó;wy xīn;jj	1
 赵国兴	zhào;tx guó;wy xīng;xb	6
 赵国兄	zhào;tx guó;wy xiōng;ke	1
@@ -46117,7 +46122,7 @@ sort: by_weight
 赵弘燮	zhào;tx hóng;gs xiè;hy	1
 赵宏鑫	zhào;tx hóng;bs xīn;jj	2
 赵洪鑫	zhào;tx hóng;dg xīn;jj	1
-赵洪欣	zhào;tx hóng;dg xīn;tq	1
+赵洪欣	zhào;tx hóng;dg xīn;iq	1
 赵红兴	zhào;tx hóng;sg xīng;xb	7
 赵洪兴	zhào;tx hóng;dg xīng;xb	6
 赵红星	zhào;tx hóng;sg xīng;ou	5
@@ -46229,7 +46234,7 @@ sort: by_weight
 赵厚军	zhào;tx hòu;iz jūn;bi	1
 赵侯宽	zhào;tx hóu;ru kuān;bj	1
 赵后亮	zhào;tx hòu;ik liàng;wj	2
-赵厚麟	zhào;tx hòu;iz lín;lf
+赵厚麟	zhào;tx hòu;iz lín;gf
 赵候平	zhào;tx hòu;ru píng;au	1
 赵厚荣	zhào;tx hòu;iz róng;ca	1
 赵后松	zhào;tx hòu;ik sōng;ag	1
@@ -46589,9 +46594,9 @@ sort: by_weight
 赵卉香	zhào;tx huì;uc xiāng;ho	1
 赵会肖	zhào;tx huì;ry xiāo;xo	2
 赵会信	zhào;tx huì;ry xìn;rk	2
-赵惠欣	zhào;tx huì;ix xīn;tq	1
+赵惠欣	zhào;tx huì;ix xīn;iq	1
 赵慧新	zhào;tx huì;fx xīn;lt	1
-赵会欣	zhào;tx huì;ry xīn;tq	1
+赵会欣	zhào;tx huì;ry xīn;iq	1
 赵会兴	zhào;tx huì;ry xīng;xb	2
 赵辉铉	zhào;tx huī;gi xuàn;jx
 赵慧学	zhào;tx huì;fx xué;xz	1
@@ -46956,7 +46961,7 @@ sort: by_weight
 赵嘉良	zhào;tx jiā;tk liáng;dg	1
 赵佳良	zhào;tx jiā;rt liáng;dg	1
 赵家梁	zhào;tx jiā;bu liáng;da
-赵嘉麟	zhào;tx jiā;tk lín;lf	9
+赵嘉麟	zhào;tx jiā;tk lín;gf	9
 赵佳琳	zhào;tx jiā;rt lín;wa	7
 赵家霖	zhào;tx jiā;bu lín;ya	5
 赵家林	zhào;tx jiā;bu lín;aa	2
@@ -47090,12 +47095,12 @@ sort: by_weight
 赵家翔	zhào;tx jiā;bu xiáng;yx	1
 赵家乡	zhào;tx jiā;bu xiāng;vp	1
 赵嘉祥	zhào;tx jiā;tk xiáng;py	1
-赵佳欣	zhào;tx jiā;rt xīn;tq	7
+赵佳欣	zhào;tx jiā;rt xīn;iq	7
 赵佳鑫	zhào;tx jiā;rt xīn;jj	3
 赵稼鑫	zhào;tx jià;hu xīn;jj	3
 赵家新	zhào;tx jiā;bu xīn;lt	3
-赵嘉欣	zhào;tx jiā;tk xīn;tq	3
-赵家欣	zhào;tx jiā;bu xīn;tq	2
+赵嘉欣	zhào;tx jiā;tk xīn;iq	3
+赵家欣	zhào;tx jiā;bu xīn;iq	2
 赵家鑫	zhào;tx jiā;bu xīn;jj	2
 赵佳芯	zhào;tx jiā;rt xīn;cx	1
 赵佳昕	zhào;tx jiā;rt xīn;ot	1
@@ -48299,7 +48304,7 @@ sort: by_weight
 赵涓羽	zhào;tx juān;do yǔ;xx	2
 赵娟子	zhào;tx juān;no zǐ;la	1
 赵珏光	zhào;tx jué;wy guāng;xe	1
-赵珏麟	zhào;tx jué;wy lín;lf	2
+赵珏麟	zhào;tx jué;wy lín;gf	2
 赵觉民	zhào;tx jué;xj mín;vv	1
 赵军安	zhào;tx jūn;bi ān;bn	11
 赵俊保	zhào;tx jùn;rw bǎo;ra	1
@@ -48731,7 +48736,7 @@ sort: by_weight
 赵柯翔	zhào;tx kē;ak xiáng;yx	1
 赵可香	zhào;tx kě;dk xiāng;ho	1
 赵可心	zhào;tx kě;dk xīn;dd	7
-赵可欣	zhào;tx kě;dk xīn;tq	4
+赵可欣	zhào;tx kě;dk xīn;iq	4
 赵可馨	zhào;tx kě;dk xīn;to	1
 赵可昕	zhào;tx kě;dk xīn;ot	1
 赵克夐	zhào;tx kè;ux,ge xiòng;dw	2
@@ -49289,7 +49294,7 @@ sort: by_weight
 赵李祥	zhào;tx lǐ;az xiáng;py	1
 赵立翔	zhào;tx lì;wb xiáng;yx	1
 赵立新	zhào;tx lì;wb xīn;lt	22
-赵丽欣	zhào;tx lì;ad xīn;tq	1
+赵丽欣	zhào;tx lì;ad xīn;iq	1
 赵力兴	zhào;tx lì;vp xīng;xb	2
 赵利许	zhào;tx lì;hd xǔ;yw	1
 赵丽雪	zhào;tx lì;ad xuě;ye	1
@@ -49554,7 +49559,7 @@ sort: by_weight
 赵琳立	zhào;tx lín;wa lì;wb	1
 赵琳琳	zhào;tx lín;wa lín;wa	18
 赵林林	zhào;tx lín;aa lín;aa	11
-赵麟麟	zhào;tx lín;lf lín;lf	1
+赵麟麟	zhào;tx lín;gf lín;gf	1
 赵林茂	zhào;tx lín;aa mào;cg	2
 赵霖茂	zhào;tx lín;ya mào;cg	1
 赵琳娜	zhào;tx lín;wa nà;ne	4
@@ -49572,14 +49577,14 @@ sort: by_weight
 赵林森	zhào;tx lín;aa sēn;aa	3
 赵林山	zhào;tx lín;aa shān;kl	1
 赵林生	zhào;tx lín;aa shēng;pf	4
-赵麟书	zhào;tx lín;lf shū;vd	1
+赵麟书	zhào;tx lín;gf shū;vd	1
 赵琳硕	zhào;tx lín;wa shuò;uy	1
 赵林松	zhào;tx lín;aa sōng;ag	1
 赵林溪	zhào;tx lín;aa xī;dd	1
 赵林香	zhào;tx lín;aa xiāng;ho	2
 赵林啸	zhào;tx lín;aa xiào;kb	2
 赵林轩	zhào;tx lín;aa xuān;ig	2
-赵麟轩	zhào;tx lín;lf xuān;ig	1
+赵麟轩	zhào;tx lín;gf xuān;ig	1
 赵林学	zhào;tx lín;aa xué;xz	1
 赵林银	zhào;tx lín;aa yín;jg	1
 赵林英	zhào;tx lín;aa yīng;cy	3
@@ -50146,7 +50151,7 @@ sort: by_weight
 赵梦翔	zhào;tx mèng;ax xiáng;yx	1
 赵梦潇	zhào;tx mèng;ax xiāo;db	1
 赵梦鑫	zhào;tx mèng;ax xīn;jj	2
-赵梦欣	zhào;tx mèng;ax xīn;tq	1
+赵梦欣	zhào;tx mèng;ax xīn;iq	1
 赵梦心	zhào;tx mèng;ax xīn;dd	1
 赵孟修	zhào;tx mèng;zm xiū;rp	1
 赵孟吁	zhào;tx mèng;zm xū;ky	4
@@ -50405,7 +50410,7 @@ sort: by_weight
 赵明祥	zhào;tx míng;oo xiáng;py	3
 赵铭虓	zhào;tx míng;jk xiāo;jj	1
 赵明新	zhào;tx míng;oo xīn;lt	9
-赵明欣	zhào;tx míng;oo xīn;tq	4
+赵明欣	zhào;tx míng;oo xīn;iq	4
 赵明鑫	zhào;tx míng;oo xīn;jj	3
 赵明馨	zhào;tx míng;oo xīn;to	1
 赵明星	zhào;tx míng;oo xīng;ou	5
@@ -50642,7 +50647,7 @@ sort: by_weight
 赵培先	zhào;tx péi;tk xiān;ne	2
 赵沛翔	zhào;tx pèi;dj xiáng;yx	1
 赵培新	zhào;tx péi;tk xīn;lt	2
-赵培欣	zhào;tx péi;tk xīn;tq	1
+赵培欣	zhào;tx péi;tk xīn;iq	1
 赵佩兴	zhào;tx pèi;rj xīng;xb	2
 赵培暄	zhào;tx péi;tk xuān;od	1
 赵培岩	zhào;tx péi;tk yán;uu	2
@@ -50886,7 +50891,7 @@ sort: by_weight
 赵其立	zhào;tx qí;cb lì;wb	2
 赵启亮	zhào;tx qǐ;hk liàng;wj	1
 赵启霖	zhào;tx qǐ;hk lín;ya	3
-赵麒麟	zhào;tx qí;lb lín;lf	1
+赵麒麟	zhào;tx qí;gb lín;gf	1
 赵起林	zhào;tx qǐ;tj lín;aa	1
 赵淇林	zhào;tx qí;db lín;aa	1
 赵其林	zhào;tx qí;cb lín;aa	1
@@ -51757,7 +51762,7 @@ sort: by_weight
 赵如祥	zhào;tx rú;nk xiáng;py	1
 赵入祥	zhào;tx rù;pn xiáng;py	1
 赵如心	zhào;tx rú;nk xīn;dd	1
-赵茹欣	zhào;tx rú;ck xīn;tq	1
+赵茹欣	zhào;tx rú;ck xīn;iq	1
 赵儒轩	zhào;tx rú;re xuān;ig	1
 赵汝雪	zhào;tx rǔ;dn xuě;ye	1
 赵汝恂	zhào;tx rǔ;dn xún;xo	1
@@ -51883,7 +51888,7 @@ sort: by_weight
 赵瑞想	zhào;tx ruì;we xiǎng;ax	1
 赵瑞鑫	zhào;tx ruì;we xīn;jj	4
 赵芮昕	zhào;tx ruì;cn xīn;ot	1
-赵瑞欣	zhào;tx ruì;we xīn;tq	1
+赵瑞欣	zhào;tx ruì;we xīn;iq	1
 赵瑞昕	zhào;tx ruì;we xīn;ot	1
 赵瑞兴	zhào;tx ruì;we xīng;xb	4
 赵瑞雪	zhào;tx ruì;we xuě;ye	8
@@ -52135,7 +52140,7 @@ sort: by_weight
 赵尚庆	zhào;tx shàng;xk qìng;gd	1
 赵上上	zhào;tx shàng;ba shàng;ba	1
 赵尚双	zhào;tx shàng;xk shuāng;yy	1
-赵尚欣	zhào;tx shàng;xk xīn;tq	1
+赵尚欣	zhào;tx shàng;xk xīn;iq	1
 赵尚毅	zhào;tx shàng;xk yì;lu	2
 赵尚义	zhào;tx shàng;xk yì;dx	1
 赵尚宇	zhào;tx shàng;xk yǔ;by	1
@@ -52333,8 +52338,8 @@ sort: by_weight
 赵圣娴	zhào;tx shèng;yt xián;na	1
 赵生信	zhào;tx shēng;pf xìn;rk	2
 赵升新	zhào;tx shēng;pc xīn;lt	1
-赵升欣	zhào;tx shēng;pc xīn;tq	1
-赵生欣	zhào;tx shēng;pf xīn;tq	1
+赵升欣	zhào;tx shēng;pc xīn;iq	1
+赵生欣	zhào;tx shēng;pf xīn;iq	1
 赵胜轩	zhào;tx shèng;ou xuān;ig	1
 赵生学	zhào;tx shēng;pf xué;xz	1
 赵盛学	zhào;tx shèng;im xué;xz	1
@@ -52513,7 +52518,7 @@ sort: by_weight
 赵士亮	zhào;tx shì;ua liàng;wj	9
 赵世良	zhào;tx shì;cv liáng;dg	2
 赵世林	zhào;tx shì;cv lín;aa	4
-赵士麟	zhào;tx shì;ua lín;lf	3
+赵士麟	zhào;tx shì;ua lín;gf	3
 赵世霖	zhào;tx shì;cv lín;ya	2
 赵士林	zhào;tx shì;ua lín;aa	2
 赵时霖	zhào;tx shí;to lín;ya	2
@@ -52762,7 +52767,7 @@ sort: by_weight
 赵守乐	zhào;tx shǒu;bc lè;px	1
 赵守廉	zhào;tx shǒu;bc lián;gj	1
 赵寿良	zhào;tx shòu;fc liáng;dg	1
-赵守麟	zhào;tx shǒu;bc lín;lf	1
+赵守麟	zhào;tx shǒu;bc lín;gf	1
 赵寿禄	zhào;tx shòu;fc lù;pu	1
 赵守美	zhào;tx shǒu;bc měi;yd	1
 赵守民	zhào;tx shǒu;bc mín;vv	1
@@ -53078,7 +53083,7 @@ sort: by_weight
 赵叔向	zhào;tx shū;uy,by xiàng;pk	1
 赵淑祥	zhào;tx shū;dy xiáng;py	1
 赵树新	zhào;tx shù;ac xīn;lt	2
-赵舒欣	zhào;tx shū;ry xīn;tq	1
+赵舒欣	zhào;tx shū;ry xīn;iq	1
 赵书鑫	zhào;tx shū;vd xīn;jj	1
 赵淑新	zhào;tx shū;dy xīn;lt	1
 赵曙昕	zhào;tx shǔ;oo xīn;ot	1
@@ -53663,7 +53668,7 @@ sort: by_weight
 赵天良	zhào;tx tiān;ad liáng;dg	1
 赵天霖	zhào;tx tiān;ad lín;ya	1
 赵天林	zhào;tx tiān;ad lín;aa	1
-赵天麟	zhào;tx tiān;ad lín;lf
+赵天麟	zhào;tx tiān;ad lín;gf
 赵天玲	zhào;tx tiān;ad líng;ws	1
 赵天龙	zhào;tx tiān;ad lóng;yp	2
 赵田苗	zhào;tx tián;wu miáo;ct	1
@@ -53973,7 +53978,7 @@ sort: by_weight
 赵湾乡	zhào;tx wān;dg xiāng;vp	1
 赵万香	zhào;tx wàn;av xiāng;ho	1
 赵万晓	zhào;tx wàn;av xiǎo;ow	1
-赵婉欣	zhào;tx wǎn;nv xīn;tq	1
+赵婉欣	zhào;tx wǎn;nv xīn;iq	1
 赵菀杏	zhào;tx wǎn;cv xìng;ak	1
 赵万旭	zhào;tx wàn;av xù;jo	2
 赵菀煦	zhào;tx wǎn;cv xù;oh	1
@@ -54226,7 +54231,7 @@ sort: by_weight
 赵维薪	zhào;tx wéi;sv xīn;ct	5
 赵炜鑫	zhào;tx wěi;hw xīn;jj	1
 赵卫新	zhào;tx wèi;ea xīn;lt	1
-赵卫欣	zhào;tx wèi;ea xīn;tq	1
+赵卫欣	zhào;tx wèi;ea xīn;iq	1
 赵卫星	zhào;tx wèi;ea xīng;ou	9
 赵伟星	zhào;tx wěi;rw xīng;ou	2
 赵伟兴	zhào;tx wěi;rw xīng;xb	1
@@ -55116,7 +55121,7 @@ sort: by_weight
 赵香莲	zhào;tx xiāng;ho lián;ci	1
 赵祥林	zhào;tx xiáng;py lín;aa	9
 赵相林	zhào;tx xiāng;ao lín;aa	4
-赵祥麟	zhào;tx xiáng;py lín;lf	1
+赵祥麟	zhào;tx xiáng;py lín;gf	1
 赵祥禄	zhào;tx xiáng;py lù;pu	1
 赵祥漫	zhào;tx xiáng;py màn;dy	1
 赵香玫	zhào;tx xiāng;ho méi;ww	3
@@ -55643,14 +55648,14 @@ sort: by_weight
 赵新爱	zhào;tx xīn;lt ài;vy	2
 赵信爱	zhào;tx xìn;rk ài;vy	1
 赵新邦	zhào;tx xīn;lt bāng;fe	1
-赵欣宝	zhào;tx xīn;tq bǎo;by	1
+赵欣宝	zhào;tx xīn;iq bǎo;by	1
 赵信宝	zhào;tx xìn;rk bǎo;by	1
 赵新宝	zhào;tx xīn;lt bǎo;by	1
 赵新斌	zhào;tx xīn;lt bīn;wv	7
 赵鑫博	zhào;tx xīn;jj bó;uc	2
 赵鑫波	zhào;tx xīn;jj bō;dp	1
 赵新博	zhào;tx xīn;lt bó;uc	1
-赵欣伯	zhào;tx xīn;tq bó;rb
+赵欣伯	zhào;tx xīn;iq bó;rb
 赵新彩	zhào;tx xīn;lt cǎi;vp	9
 赵新才	zhào;tx xīn;lt cái;up	3
 赵新财	zhào;tx xīn;lt cái;bc	1
@@ -55664,7 +55669,7 @@ sort: by_weight
 赵心钿	zhào;tx xīn;dd diàn;jt	2
 赵辛店	zhào;tx xīn;lu diàn;gv	1
 赵新法	zhào;tx xīn;lt fǎ;dq	2
-赵欣发	zhào;tx xīn;tq fā;fy	1
+赵欣发	zhào;tx xīn;iq fā;fy	1
 赵信法	zhào;tx xìn;rk fǎ;dq	1
 赵新芳	zhào;tx xīn;lt fāng;cf	3
 赵信芳	zhào;tx xìn;rk fāng;cf	2
@@ -55690,10 +55695,10 @@ sort: by_weight
 赵心华	zhào;tx xīn;dd huá;ru	1
 赵新慧	zhào;tx xīn;lt huì;fx	10
 赵新惠	zhào;tx xīn;lt huì;ix	7
-赵欣慧	zhào;tx xīn;tq huì;fx	3
+赵欣慧	zhào;tx xīn;iq huì;fx	3
 赵新会	zhào;tx xīn;lt huì;ry	1
 赵新级	zhào;tx xīn;lt jí;sj	2
-赵欣佳	zhào;tx xīn;tq jiā;rt	1
+赵欣佳	zhào;tx xīn;iq jiā;rt	1
 赵新建	zhào;tx xīn;lt jiàn;zy	4
 赵新江	zhào;tx xīn;lt jiāng;dg	6
 赵新疆	zhào;tx xīn;lt jiāng;gj	1
@@ -55709,7 +55714,7 @@ sort: by_weight
 赵心珂	zhào;tx xīn;dd kē;wk	1
 赵芯可	zhào;tx xīn;cx kě;dk	1
 赵新兰	zhào;tx xīn;lt lán;bs	7
-赵欣乐	zhào;tx xīn;tq lè;px	1
+赵欣乐	zhào;tx xīn;iq lè;px	1
 赵新乐	zhào;tx xīn;lt lè;px	1
 赵鑫磊	zhào;tx xīn;jj lěi;uu	4
 赵新雷	zhào;tx xīn;lt léi;yt	3
@@ -55722,7 +55727,7 @@ sort: by_weight
 赵新礼	zhào;tx xīn;lt lǐ;pv	1
 赵新立	zhào;tx xīn;lt lì;wb	1
 赵新亮	zhào;tx xīn;lt liàng;wj	3
-赵欣良	zhào;tx xīn;tq liáng;dg	2
+赵欣良	zhào;tx xīn;iq liáng;dg	2
 赵新林	zhào;tx xīn;lt lín;aa	3
 赵鑫林	zhào;tx xīn;jj lín;aa	1
 赵新灵	zhào;tx xīn;lt líng;eh	8
@@ -55742,69 +55747,69 @@ sort: by_weight
 赵心萌	zhào;tx xīn;dd méng;co	2
 赵馨萌	zhào;tx xīn;to méng;co	2
 赵鑫淼	zhào;tx xīn;jj miǎo;uu	2
-赵欣淼	zhào;tx xīn;tq miǎo;uu	1
+赵欣淼	zhào;tx xīn;iq miǎo;uu	1
 赵新民	zhào;tx xīn;lt mín;vv	12
 赵心敏	zhào;tx xīn;dd mǐn;pw	3
 赵新明	zhào;tx xīn;lt míng;oo	5
 赵鑫明	zhào;tx xīn;jj míng;oo	4
 赵新铭	zhào;tx xīn;lt míng;jk	2
 赵心明	zhào;tx xīn;dd míng;oo	1
-赵欣楠	zhào;tx xīn;tq nán;ag	1
+赵欣楠	zhào;tx xīn;iq nán;ag	1
 赵新沛	zhào;tx xīn;lt pèi;dj	2
 赵心佩	zhào;tx xīn;dd pèi;rj	1
 赵昕培	zhào;tx xīn;ot péi;tk	1
-赵欣培	zhào;tx xīn;tq péi;tk
+赵欣培	zhào;tx xīn;iq péi;tk
 赵鑫鹏	zhào;tx xīn;jj péng;on	1
 赵心萍	zhào;tx xīn;dd píng;cp	9
 赵新萍	zhào;tx xīn;lt píng;cp	9
-赵欣萍	zhào;tx xīn;tq píng;cp	9
+赵欣萍	zhào;tx xīn;iq píng;cp	9
 赵新平	zhào;tx xīn;lt píng;au	6
 赵馨萍	zhào;tx xīn;to píng;cp	1
 赵鑫萍	zhào;tx xīn;jj píng;cp	1
 赵新琪	zhào;tx xīn;lt qí;wb	1
 赵新启	zhào;tx xīn;lt qǐ;hk	1
 赵新奇	zhào;tx xīn;lt qí;dk	1
-赵欣乾	zhào;tx xīn;tq qián;uv	1
+赵欣乾	zhào;tx xīn;iq qián;uv	1
 赵新千	zhào;tx xīn;lt qiān;pu	1
 赵新强	zhào;tx xīn;lt qiáng;gi	10
 赵新桥	zhào;tx xīn;lt qiáo;al	1
 赵新乔	zhào;tx xīn;lt qiáo;yl	1
 赵心清	zhào;tx xīn;dd qīng;do	2
-赵欣然	zhào;tx xīn;tq rán;xh	5
+赵欣然	zhào;tx xīn;iq rán;xh	5
 赵心然	zhào;tx xīn;dd rán;xh	2
 赵新然	zhào;tx xīn;lt rán;xh	1
 赵新日	zhào;tx xīn;lt rì;wa	1
 赵新荣	zhào;tx xīn;lt róng;ca	2
 赵昕荣	zhào;tx xīn;ot róng;ca	1
-赵欣荣	zhào;tx xīn;tq róng;ca	1
+赵欣荣	zhào;tx xīn;iq róng;ca	1
 赵新茹	zhào;tx xīn;lt rú;ck	1
 赵心如	zhào;tx xīn;dd rú;nk	1
 赵芯茹	zhào;tx xīn;cx rú;ck	1
-赵欣蕊	zhào;tx xīn;tq ruǐ;cx	5
+赵欣蕊	zhào;tx xīn;iq ruǐ;cx	5
 赵新蕊	zhào;tx xīn;lt ruǐ;cx	2
 赵鑫蕊	zhào;tx xīn;jj ruǐ;cx	1
 赵心睿	zhào;tx xīn;dd ruì;bo	1
-赵欣睿	zhào;tx xīn;tq ruì;bo	1
+赵欣睿	zhào;tx xīn;iq ruì;bo	1
 赵芯蕊	zhào;tx xīn;cx ruǐ;cx	1
 赵鑫珊	zhào;tx xīn;jj shān;wc	3
 赵新社	zhào;tx xīn;lt shè;pt	2
 赵新生	zhào;tx xīn;lt shēng;pf	3
 赵心顺	zhào;tx xīn;dd shùn;iy	1
-赵欣硕	zhào;tx xīn;tq shuò;uy	1
+赵欣硕	zhào;tx xīn;iq shuò;uy	1
 赵新堂	zhào;tx xīn;lt táng;xt	1
 赵心涛	zhào;tx xīn;dd tāo;dc	7
 赵新田	zhào;tx xīn;lt tián;wu	1
-赵欣甜	zhào;tx xīn;tq tián;ug	1
+赵欣甜	zhào;tx xīn;iq tián;ug	1
 赵心田	zhào;tx xīn;dd tián;wu	1
 赵新廷	zhào;tx xīn;lt tíng;zw	1
 赵鑫婷	zhào;tx xīn;jj tíng;nd	1
 赵昕彤	zhào;tx xīn;ot tóng;dp	3
-赵欣彤	zhào;tx xīn;tq tóng;dp	2
+赵欣彤	zhào;tx xīn;iq tóng;dp	2
 赵鑫桐	zhào;tx xīn;jj tóng;ak	1
 赵心童	zhào;tx xīn;dd tóng;ll
-赵欣伟	zhào;tx xīn;tq wěi;rw	4
+赵欣伟	zhào;tx xīn;iq wěi;rw	4
 赵新伟	zhào;tx xīn;lt wěi;rw	2
-赵欣慰	zhào;tx xīn;tq wèi;ux	1
+赵欣慰	zhào;tx xīn;iq wèi;ux	1
 赵心玮	zhào;tx xīn;dd wěi;ww	1
 赵鑫伟	zhào;tx xīn;jj wěi;rw	1
 赵新文	zhào;tx xīn;lt wén;wx	1
@@ -55816,36 +55821,36 @@ sort: by_weight
 赵新项	zhào;tx xīn;lt xiàng;gy	1
 赵新祥	zhào;tx xīn;lt xiáng;py	1
 赵新晓	zhào;tx xīn;lt xiǎo;ow	1
-赵欣欣	zhào;tx xīn;tq xīn;tq	10
+赵欣欣	zhào;tx xīn;iq xīn;iq	10
 赵鑫鑫	zhào;tx xīn;jj xīn;jj	8
 赵新新	zhào;tx xīn;lt xīn;lt	4
 赵辛辛	zhào;tx xīn;lu xīn;lu	1
-赵欣馨	zhào;tx xīn;tq xīn;to	1
+赵欣馨	zhào;tx xīn;iq xīn;to	1
 赵新星	zhào;tx xīn;lt xīng;ou	1
 赵新旭	zhào;tx xīn;lt xù;jo	1
 赵新亚	zhào;tx xīn;lt yà;ay	3
-赵欣妍	zhào;tx xīn;tq yán;nk	2
+赵欣妍	zhào;tx xīn;iq yán;nk	2
 赵新艳	zhào;tx xīn;lt yàn;fb	2
 赵鑫嫣	zhào;tx xīn;jj yān;nh	1
 赵心妍	zhào;tx xīn;dd yán;nk
 赵鑫阳	zhào;tx xīn;jj yáng;eo	1
-赵欣阳	zhào;tx xīn;tq yáng;eo	1
-赵欣瑶	zhào;tx xīn;tq yáo;wf	3
+赵欣阳	zhào;tx xīn;iq yáng;eo	1
+赵欣瑶	zhào;tx xīn;iq yáo;wf	3
 赵芯鹞	zhào;tx xīn;cx yào;vn	2
 赵鑫尧	zhào;tx xīn;jj yáo;yw	1
 赵新叶	zhào;tx xīn;lt yè;ku	2
 赵鑫晔	zhào;tx xīn;jj yè;ou	1
-赵欣伊	zhào;tx xīn;tq yī;ry	5
+赵欣伊	zhào;tx xīn;iq yī;ry	5
 赵薪伊	zhào;tx xīn;ct yī;ry	5
 赵辛伊	zhào;tx xīn;lu yī;ry	5
 赵鑫伊	zhào;tx xīn;jj yī;ry	5
-赵欣怡	zhào;tx xīn;tq yí;xk	3
+赵欣怡	zhào;tx xīn;iq yí;xk	3
 赵心怡	zhào;tx xīn;dd yí;xk	2
 赵新一	zhào;tx xīn;lt yī;aa	2
 赵芯怡	zhào;tx xīn;cx yí;xk	2
 赵馨奕	zhào;tx xīn;to yì;wd	2
-赵欣颐	zhào;tx xīn;tq yí;iy	2
-赵欣艺	zhào;tx xīn;tq yì;cv	2
+赵欣颐	zhào;tx xīn;iq yí;iy	2
+赵欣艺	zhào;tx xīn;iq yì;cv	2
 赵辛仪	zhào;tx xīn;lu yí;ry	2
 赵新怡	zhào;tx xīn;lt yí;xk	1
 赵新义	zhào;tx xīn;lt yì;dx	1
@@ -55853,21 +55858,21 @@ sort: by_weight
 赵昕一	zhào;tx xīn;ot yī;aa	1
 赵新毅	zhào;tx xīn;lt yì;lu	1
 赵芯仪	zhào;tx xīn;cx yí;ry	1
-赵欣仪	zhào;tx xīn;tq yí;ry	1
+赵欣仪	zhào;tx xīn;iq yí;ry	1
 赵鑫沂	zhào;tx xīn;jj yí;dt	1
 赵新意	zhào;tx xīn;lt yì;lx	1
 赵心宜	zhào;tx xīn;dd yí;bq	1
 赵新印	zhào;tx xīn;lt yìn;pe	1
 赵新英	zhào;tx xīn;lt yīng;cy	8
 赵鑫莹	zhào;tx xīn;jj yíng;cy	3
-赵欣颖	zhào;tx xīn;tq yǐng;bh	3
+赵欣颖	zhào;tx xīn;iq yǐng;bh	3
 赵鑫颖	zhào;tx xīn;jj yǐng;bh	2
 赵新颖	zhào;tx xīn;lt yǐng;bh	2
-赵欣莹	zhào;tx xīn;tq yíng;cy	1
+赵欣莹	zhào;tx xīn;iq yíng;cy	1
 赵新永	zhào;tx xīn;lt yǒng;du	1
 赵心勇	zhào;tx xīn;dd yǒng;sl	1
 赵新友	zhào;tx xīn;lt yǒu;uy	2
-赵欣雨	zhào;tx xīn;tq yǔ;ad	9
+赵欣雨	zhào;tx xīn;iq yǔ;ad	9
 赵新宇	zhào;tx xīn;lt yǔ;by	7
 赵鑫宇	zhào;tx xīn;jj yǔ;by	4
 赵昕宇	zhào;tx xīn;ot yǔ;by	3
@@ -55885,30 +55890,30 @@ sort: by_weight
 赵新玉	zhào;tx xīn;lt yù;wd	1
 赵歆昱	zhào;tx xīn;lq yù;ol	1
 赵炘煜	zhào;tx xīn;ht yù;hl	1
-赵欣宇	zhào;tx xīn;tq yǔ;by	1
-赵欣钰	zhào;tx xīn;tq yù;jy	1
+赵欣宇	zhào;tx xīn;iq yǔ;by	1
+赵欣钰	zhào;tx xīn;iq yù;jy	1
 赵昕瑀	zhào;tx xīn;ot yǔ;wy	1
-赵欣瑜	zhào;tx xīn;tq yú;wd
+赵欣瑜	zhào;tx xīn;iq yú;wd
 赵鑫源	zhào;tx xīn;jj yuán;dx	2
 赵昕媛	zhào;tx xīn;ot yuàn;ny	1
 赵昕源	zhào;tx xīn;ot yuán;dx	1
 赵心源	zhào;tx xīn;dd yuán;dx	1
 赵心远	zhào;tx xīn;dd yuǎn;zy	1
-赵欣悦	zhào;tx xīn;tq yuè;xx	10
+赵欣悦	zhào;tx xīn;iq yuè;xx	10
 赵鑫悦	zhào;tx xīn;jj yuè;xx	9
 赵心悦	zhào;tx xīn;dd yuè;xx	4
 赵新悦	zhào;tx xīn;lt yuè;xx	2
-赵欣月	zhào;tx xīn;tq yuè;ke	2
+赵欣月	zhào;tx xīn;iq yuè;ke	2
 赵新月	zhào;tx xīn;lt yuè;ke	2
 赵鑫越	zhào;tx xīn;jj yuè;tl	1
-赵欣越	zhào;tx xīn;tq yuè;tl	1
+赵欣越	zhào;tx xīn;iq yuè;tl	1
 赵辛悦	zhào;tx xīn;lu yuè;xx	1
 赵馨玥	zhào;tx xīn;to yuè;wo	1
 赵新云	zhào;tx xīn;lt yún;ag,es	2
 赵新芸	zhào;tx xīn;lt yún;cy	1
 赵新增	zhào;tx xīn;lt zēng;to	1
 赵信璋	zhào;tx xìn;rk zhāng;wu	1
-赵欣哲	zhào;tx xīn;tq zhé;fk	1
+赵欣哲	zhào;tx xīn;iq zhé;fk	1
 赵信哲	zhào;tx xìn;rk zhé;fk	1
 赵歆喆	zhào;tx xīn;lq zhé;tk	1
 赵新振	zhào;tx xīn;lt zhèn;fi	2
@@ -56372,7 +56377,7 @@ sort: by_weight
 赵绪先	zhào;tx xù;so xiān;ne	1
 赵旭翔	zhào;tx xù;jo xiáng;yx	3
 赵序祥	zhào;tx xù;gy xiáng;py	1
-赵旭欣	zhào;tx xù;jo xīn;tq	1
+赵旭欣	zhào;tx xù;jo xīn;iq	1
 赵徐徐	zhào;tx xú;rm xú;rm	1
 赵旭嫣	zhào;tx xù;jo yān;nh	1
 赵徐岩	zhào;tx xú;rm yán;uu	1
@@ -56761,8 +56766,8 @@ sort: by_weight
 赵亚雯	zhào;tx yà;ay wén;yw	3
 赵雅汶	zhào;tx yǎ;yv wèn;dw	1
 赵雅娴	zhào;tx yǎ;yv xián;na	1
-赵雅欣	zhào;tx yǎ;yv xīn;tq	4
-赵亚欣	zhào;tx yà;ay xīn;tq	4
+赵雅欣	zhào;tx yǎ;yv xīn;iq	4
+赵亚欣	zhào;tx yà;ay xīn;iq	4
 赵雅鑫	zhào;tx yǎ;yv xīn;jj	3
 赵亚新	zhào;tx yà;ay xīn;lt	1
 赵亚星	zhào;tx yà;ay xīng;ou	1
@@ -57119,7 +57124,7 @@ sort: by_weight
 赵彦翔	zhào;tx yàn;wp xiáng;yx	2
 赵延鑫	zhào;tx yán;zv xīn;jj	4
 赵彦信	zhào;tx yàn;wp xìn;rk	2
-赵言欣	zhào;tx yán;wk xīn;tq	1
+赵言欣	zhào;tx yán;wk xīn;iq	1
 赵艳鑫	zhào;tx yàn;fb xīn;jj	1
 赵彦秀	zhào;tx yàn;wp xiù;hn	1
 赵颜秀	zhào;tx yán;wy xiù;hn	1
@@ -57742,7 +57747,7 @@ sort: by_weight
 赵怡馨	zhào;tx yí;xk xīn;to	2
 赵奕昕	zhào;tx yì;wd xīn;ot	2
 赵一鑫	zhào;tx yī;aa xīn;jj	2
-赵怡欣	zhào;tx yí;xk xīn;tq	2
+赵怡欣	zhào;tx yí;xk xīn;iq	2
 赵义新	zhào;tx yì;dx xīn;lt	1
 赵义鑫	zhào;tx yì;dx xīn;jj	1
 赵熠鑫	zhào;tx yì;hb xīn;jj	1
@@ -58241,7 +58246,7 @@ sort: by_weight
 赵咏琪	zhào;tx yǒng;ky qí;wb	2
 赵永其	zhào;tx yǒng;du qí;cb	2
 赵永琪	zhào;tx yǒng;du qí;wb	2
-赵永麒	zhào;tx yǒng;du qí;lb	1
+赵永麒	zhào;tx yǒng;du qí;gb	1
 赵永岐	zhào;tx yǒng;du qí;uv	1
 赵永启	zhào;tx yǒng;du qǐ;hk	1
 赵永千	zhào;tx yǒng;du qiān;pu	9
@@ -58317,10 +58322,10 @@ sort: by_weight
 赵永响	zhào;tx yǒng;du xiǎng;kk	1
 赵永孝	zhào;tx yǒng;du xiào;lz	1
 赵永新	zhào;tx yǒng;du xīn;lt	3
-赵永欣	zhào;tx yǒng;du xīn;tq	3
+赵永欣	zhào;tx yǒng;du xīn;iq	3
 赵永馨	zhào;tx yǒng;du xīn;to	1
 赵永鑫	zhào;tx yǒng;du xīn;jj	1
-赵泳欣	zhào;tx yǒng;dy xīn;tq	1
+赵泳欣	zhào;tx yǒng;dy xīn;iq	1
 赵永信	zhào;tx yǒng;du xìn;rk	1
 赵泳鑫	zhào;tx yǒng;dy xīn;jj
 赵永兴	zhào;tx yǒng;du xīng;xb	4
@@ -58758,7 +58763,7 @@ sort: by_weight
 赵玉淋	zhào;tx yù;wd lín;da	1
 赵玉琳	zhào;tx yù;wd lín;wa	1
 赵钰琳	zhào;tx yù;jy lín;wa	1
-赵玉麟	zhào;tx yù;wd lín;lf	1
+赵玉麟	zhào;tx yù;wd lín;gf	1
 赵羽霖	zhào;tx yǔ;xx lín;ya	1
 赵昱霖	zhào;tx yù;ol lín;ya	1
 赵羽凌	zhào;tx yǔ;xx líng;dw	9
@@ -58970,7 +58975,7 @@ sort: by_weight
 赵雨筱	zhào;tx yǔ;ad xiǎo;vw	1
 赵宇萧	zhào;tx yǔ;by xiāo;cb	1
 赵玉潇	zhào;tx yù;wd xiāo;db	1
-赵雨欣	zhào;tx yǔ;ad xīn;tq	9
+赵雨欣	zhào;tx yǔ;ad xīn;iq	9
 赵雨馨	zhào;tx yǔ;ad xīn;to	5
 赵宇鑫	zhào;tx yǔ;by xīn;jj	4
 赵玉新	zhào;tx yù;wd xīn;lt	4
@@ -58978,13 +58983,13 @@ sort: by_weight
 赵禹鑫	zhào;tx yǔ;pd xīn;jj	2
 赵宇焮	zhào;tx yǔ;by xìn;hq	2
 赵宇心	zhào;tx yǔ;by xīn;dd	2
-赵誉欣	zhào;tx yù;xk xīn;tq	1
+赵誉欣	zhào;tx yù;xk xīn;iq	1
 赵煜新	zhào;tx yù;hl xīn;lt	1
 赵语馨	zhào;tx yǔ;yk xīn;to	1
 赵育信	zhào;tx yù;wo xìn;rk	1
 赵宇昕	zhào;tx yǔ;by xīn;ot	1
 赵钰鑫	zhào;tx yù;jy xīn;jj	1
-赵玉欣	zhào;tx yù;wd xīn;tq	1
+赵玉欣	zhào;tx yù;wd xīn;iq	1
 赵宇新	zhào;tx yǔ;by xīn;lt	1
 赵玉兴	zhào;tx yù;wd xīng;xb	2
 赵玉杏	zhào;tx yù;wd xìng;ak	1
@@ -59255,7 +59260,7 @@ sort: by_weight
 赵元僖	zhào;tx yuán;aw xī;rk	1
 赵远霞	zhào;tx yuǎn;zy xiá;yy	10
 赵元祥	zhào;tx yuán;aw xiáng;py
-赵圆欣	zhào;tx yuán;wb xīn;tq	1
+赵圆欣	zhào;tx yuán;wb xīn;iq	1
 赵元信	zhào;tx yuán;aw xìn;rk	1
 赵元兴	zhào;tx yuán;aw xīng;xb	1
 赵元秀	zhào;tx yuán;aw xiù;hn	2
@@ -59400,7 +59405,7 @@ sort: by_weight
 赵曰侠	zhào;tx yuē;wa xiá;rj	1
 赵月仙	zhào;tx yuè;ke xiān;ru	1
 赵月香	zhào;tx yuè;ke xiāng;ho	1
-赵月欣	zhào;tx yuè;ke xīn;tq	1
+赵月欣	zhào;tx yuè;ke xīn;iq	1
 赵悦歆	zhào;tx yuè;xx xīn;lq	1
 赵曰星	zhào;tx yuē;wa xīng;ou	1
 赵跃扬	zhào;tx yuè;zy yáng;fp	1
@@ -60628,12 +60633,12 @@ sort: by_weight
 赵执信	zhào;tx zhí;fw xìn;rk	5
 赵治信	zhào;tx zhì;dk xìn;rk	2
 赵志鑫	zhào;tx zhì;tx xīn;jj	1
-赵栀欣	zhào;tx zhī;av xīn;tq	1
+赵栀欣	zhào;tx zhī;av xīn;iq	1
 赵芷馨	zhào;tx zhǐ;cv xīn;to	1
 赵志昕	zhào;tx zhì;tx xīn;ot	1
 赵智鑫	zhào;tx zhì;uo xīn;jj	1
-赵芷欣	zhào;tx zhǐ;cv xīn;tq	1
-赵志欣	zhào;tx zhì;tx xīn;tq	1
+赵芷欣	zhào;tx zhǐ;cv xīn;iq	1
+赵志欣	zhào;tx zhì;tx xīn;iq	1
 赵志兴	zhào;tx zhì;tx xīng;xb	5
 赵智兴	zhào;tx zhì;uo xīng;xb	2
 赵志星	zhào;tx zhì;tx xīng;ou	2
@@ -60864,7 +60869,7 @@ sort: by_weight
 赵中祥	zhào;tx zhōng;kl xiáng;py	1
 赵中孝	zhào;tx zhōng;kl xiào;lz	1
 赵忠信	zhào;tx zhōng;vx xìn;rk	3
-赵中欣	zhào;tx zhōng;kl xīn;tq	1
+赵中欣	zhào;tx zhōng;kl xīn;iq	1
 赵中信	zhào;tx zhōng;kl xìn;rk	1
 赵忠新	zhào;tx zhōng;vx xīn;lt
 赵忠兴	zhào;tx zhōng;vx xīng;xb	9
@@ -60983,7 +60988,7 @@ sort: by_weight
 赵茁鹏	zhào;tx zhuó;ci péng;on	1
 赵濯清	zhào;tx zhuó;dv qīng;do	2
 赵卓伟	zhào;tx zhuó;bu wěi;rw	1
-赵卓欣	zhào;tx zhuó;bu xīn;tq	1
+赵卓欣	zhào;tx zhuó;bu xīn;iq	1
 赵卓雅	zhào;tx zhuó;bu yǎ;yv	2
 赵卓毓	zhào;tx zhuó;bu yù;pi	1
 赵茁壮	zhào;tx zhuó;ci zhuàng;lt	1
@@ -61253,8 +61258,8 @@ sort: by_weight
 赵咨翔	zhào;tx zī;dk xiáng;yx	1
 赵子鑫	zhào;tx zǐ;la xīn;jj	5
 赵子新	zhào;tx zǐ;la xīn;lt	1
-赵孜欣	zhào;tx zī;zw xīn;tq	1
-赵梓欣	zhào;tx zǐ;ax xīn;tq	1
+赵孜欣	zhào;tx zī;zw xīn;iq	1
+赵梓欣	zhào;tx zǐ;ax xīn;iq	1
 赵梓芯	zhào;tx zǐ;ax xīn;cx	1
 赵梓馨	zhào;tx zǐ;ax xīn;to	1
 赵子馨	zhào;tx zǐ;la xīn;to
@@ -61526,7 +61531,7 @@ sort: by_weight
 郑长海	zhèng;be cháng;pn hǎi;dm
 郑昌图	zhèng;be chāng;oo tú;wd
 郑长璋	zhèng;be cháng;pn zhāng;wu
-郑超麟	zhèng;be chāo;tk lín;lf
+郑超麟	zhèng;be chāo;tk lín;gf
 郑超勇	zhèng;be chāo;tk yǒng;sl
 郑成灿	zhèng;be chéng;gv càn;hu
 郑成公	zhèng;be chéng;gv gōng;bs
@@ -61633,7 +61638,7 @@ sort: by_weight
 郑国忠	zhèng;be guó;wy zhōng;vx
 郑国仲	zhèng;be guó;wy zhòng;rv
 郑海琳	zhèng;be hǎi;dm lín;wa
-郑海麟	zhèng;be hǎi;dm lín;lf
+郑海麟	zhèng;be hǎi;dm lín;gf
 郑海龙	zhèng;be hǎi;dm lóng;yp
 郑海泉	zhèng;be hǎi;dm quán;bu
 郑海涛	zhèng;be hǎi;dm tāo;dc
@@ -61705,7 +61710,7 @@ sort: by_weight
 郑家生	zhèng;be jiā;bu shēng;pf
 郑嘉雯	zhèng;be jiā;tk wén;yw
 郑家相	zhèng;be jiā;bu xiāng;ao
-郑佳欣	zhèng;be jiā;rt xīn;tq
+郑佳欣	zhèng;be jiā;rt xīn;iq
 郑嘉颖	zhèng;be jiā;tk yǐng;bh
 郑家榆	zhèng;be jiā;bu yú;ad
 郑建邦	zhèng;be jiàn;zy bāng;fe
@@ -61732,7 +61737,7 @@ sort: by_weight
 郑交甫	zhèng;be jiāo;wf fǔ;uy
 郑湫泓	zhèng;be jiǎo;dh hóng;ds
 郑交会	zhèng;be jiāo;wf huì;ry
-郑蛟麟	zhèng;be jiāo;if lín;lf
+郑蛟麟	zhèng;be jiāo;if lín;gf
 郑介民	zhèng;be jiè;rl mín;vv
 郑锦昌	zhèng;be jǐn;jj chāng;oo
 郑金玲	zhèng;be jīn;rb líng;ws
@@ -61818,7 +61823,7 @@ sort: by_weight
 郑良士	zhèng;be liáng;dg shì;ua
 郑靓歆	zhèng;be liàng;fj xīn;lq
 郑林楷	zhèng;be lín;aa kǎi;ab
-郑麟趾	zhèng;be lín;lf zhǐ;zv
+郑麟趾	zhèng;be lín;gf zhǐ;zv
 郑灵公	zhèng;be líng;eh gōng;bs
 郑隆亶	zhèng;be lóng;eu dǎn;wd
 郑龙水	zhèng;be lóng;yp shuǐ;ln
@@ -62074,7 +62079,7 @@ sort: by_weight
 郑武段	zhèng;be wǔ;gv duàn;pu
 郑细凤	zhèng;be xì;st fèng;jy
 郑僖公	zhèng;be xī;rk gōng;bs
-郑锡麟	zhèng;be xī;jw lín;lf
+郑锡麟	zhèng;be xī;jw lín;gf
 郑西坡	zhèng;be xī;ak,wk pō;tp
 郑希怡	zhèng;be xī;xj yí;xk
 郑锡元	zhèng;be xī;jw yuán;aw
@@ -62113,9 +62118,9 @@ sort: by_weight
 郑新俭	zhèng;be xīn;lt jiǎn;rq
 郑新立	zhèng;be xīn;lt lì;wb
 郑心媚	zhèng;be xīn;dd mèi;no
-郑欣淼	zhèng;be xīn;tq miǎo;uu
+郑欣淼	zhèng;be xīn;iq miǎo;uu
 郑新民	zhèng;be xīn;lt mín;vv
-郑欣宜	zhèng;be xīn;tq yí;bq
+郑欣宜	zhèng;be xīn;iq yí;bq
 郑心仪	zhèng;be xīn;dd yí;ry
 郑新助	zhèng;be xīn;lt zhù;ql
 郑幸娟	zhèng;be xìng;tg juān;no
@@ -62289,7 +62294,7 @@ sort: by_weight
 郑智和	zhèng;be zhì;uo hé;hk
 郑志辉	zhèng;be zhì;tx huī;gi
 郑志坚	zhèng;be zhì;tx jiān;lt
-郑智麟	zhèng;be zhì;uo lín;lf
+郑智麟	zhèng;be zhì;uo lín;gf
 郑芝龙	zhèng;be zhī;cv lóng;yp
 郑志龙	zhèng;be zhì;tx lóng;yp
 郑志明	zhèng;be zhì;tx míng;oo
@@ -62579,7 +62584,7 @@ sort: by_weight
 周凤珍	zhōu;kk fèng;jy zhēn;wp
 周福成	zhōu;kk fú;pt chéng;gv
 周辅成	zhōu;kk fǔ;if chéng;gv
-周符麟	zhōu;kk fú;vc lín;lf
+周符麟	zhōu;kk fú;vc lín;gf
 周福林	zhōu;kk fú;pt lín;aa
 周福明	zhōu;kk fú;pt míng;oo
 周福清	zhōu;kk fú;pt qīng;do
@@ -62870,7 +62875,7 @@ sort: by_weight
 周厉王	zhōu;kk lì;iw wáng;at
 周厘王	zhōu;kk lí;il wáng;at
 周立新	zhōu;kk lì;wb xīn;lt
-周丽欣	zhōu;kk lì;ad xīn;tq
+周丽欣	zhōu;kk lì;ad xīn;iq
 周丽媛	zhōu;kk lì;ad yuàn;ny
 周连德	zhōu;kk lián;zi dé;rx
 周连华	zhōu;kk lián;zi huá;ru
@@ -62905,7 +62910,7 @@ sort: by_weight
 周美灵	zhōu;kk měi;yd líng;eh
 周美青	zhōu;kk měi;yd qīng;fo
 周梅森	zhōu;kk méi;am sēn;aa
-周美欣	zhōu;kk měi;yd xīn;tq
+周美欣	zhōu;kk měi;yd xīn;iq
 周萌萌	zhōu;kk méng;co méng;co
 周梦婷	zhōu;kk mèng;ax tíng;nd
 周孟岩	zhōu;kk mèng;zm yán;uu
@@ -63210,7 +63215,7 @@ sort: by_weight
 周咸亨	zhōu;kk xián;gk hēng;wl
 周先旺	zhōu;kk xiān;ne wàng;ow
 周宪文	zhōu;kk xiàn;be wén;wx
-周显欣	zhōu;kk xiǎn;oy xīn;tq
+周显欣	zhōu;kk xiǎn;oy xīn;iq
 周显扬	zhōu;kk xiǎn;oy yáng;fp
 周显宗	zhōu;kk xiǎn;oy zōng;bu
 周向东	zhōu;kk xiàng;pk dōng;ax
@@ -63281,7 +63286,7 @@ sort: by_weight
 周信廷	zhōu;kk xìn;rk tíng;zw
 周新武	zhōu;kk xīn;lt wǔ;gv
 周新义	zhōu;kk xīn;lt yì;dx
-周欣怡	zhōu;kk xīn;tq yí;xk
+周欣怡	zhōu;kk xīn;iq yí;xk
 周新月	zhōu;kk xīn;lt yuè;ke
 周鑫月	zhōu;kk xīn;jj yuè;ke
 周行程	zhōu;kk xíng;rd chéng;hw
@@ -63347,7 +63352,7 @@ sort: by_weight
 周延儒	zhōu;kk yán;zv rú;re
 周彦生	zhōu;kk yàn;wp shēng;pf
 周燕娴	zhōu;kk yàn;ch xián;na
-周妍欣	zhōu;kk yán;nk xīn;tq
+周妍欣	zhōu;kk yán;nk xīn;iq
 周燕岩	zhōu;kk yàn;ch yán;uu
 周彦昭	zhōu;kk yàn;wp zhāo;ok
 周养浩	zhōu;kk yǎng;yl hào;dk
@@ -63433,7 +63438,7 @@ sort: by_weight
 周玉兰	zhōu;kk yù;wd lán;bs
 周玉莲	zhōu;kk yù;wd lián;ci
 周玉良	zhōu;kk yù;wd liáng;dg
-周玉麟	zhōu;kk yù;wd lín;lf
+周玉麟	zhōu;kk yù;wd lín;gf
 周玉林	zhōu;kk yù;wd lín;aa
 周玉玲	zhōu;kk yù;wd líng;ws
 周玉梅	zhōu;kk yù;wd méi;am
@@ -63496,7 +63501,7 @@ sort: by_weight
 周振华	zhōu;kk zhèn;fi huá;ru
 周振基	zhōu;kk zhèn;fi jī;ct
 周震鳞	zhōu;kk zhèn;yi lín;yf
-周震麟	zhōu;kk zhèn;yi lín;lf
+周震麟	zhōu;kk zhèn;yi lín;gf
 周震南	zhōu;kk zhèn;yi nán;ug
 周振强	zhōu;kk zhèn;fi qiáng;gi
 周振声	zhōu;kk zhèn;fi shēng;tu
@@ -63827,7 +63832,7 @@ sort: by_weight
 朱家教	zhū;pw jiā;bu jiào;lw
 朱家溍	zhū;pw jiā;bu jìn;do
 朱家良	zhū;pw jiā;bu liáng;dg
-朱家麟	zhū;pw jiā;bu lín;lf
+朱家麟	zhū;pw jiā;bu lín;gf
 朱家民	zhū;pw jiā;bu mín;vv
 朱嘉明	zhū;pw jiā;tk míng;oo
 朱佳妮	zhū;pw jiā;rt nī;nb
@@ -63962,7 +63967,7 @@ sort: by_weight
 朱曼娘	zhū;pw màn;oy niáng;nl
 朱曼子	zhū;pw màn;oy zǐ;la
 朱美丽	zhū;pw měi;yd lì;ad
-朱梅麟	zhū;pw méi;am lín;lf
+朱梅麟	zhū;pw méi;am lín;gf
 朱门怨	zhū;pw mén;dv yuàn;xx
 朱梦惠	zhū;pw mèng;ax huì;ix
 朱梦炎	zhū;pw mèng;ax yán;hh
@@ -64087,7 +64092,7 @@ sort: by_weight
 朱士杰	zhū;pw shì;ua jié;ah
 朱仕玠	zhū;pw shì;rt jiè;wj
 朱世良	zhū;pw shì;cv liáng;dg
-朱石麟	zhū;pw shí;ak lín;lf
+朱石麟	zhū;pw shí;ak lín;gf
 朱士林	zhū;pw shì;ua lín;aa
 朱世龙	zhū;pw shì;cv lóng;yp
 朱仕坯	zhū;pw shì;rt pī;tp
@@ -64124,7 +64129,7 @@ sort: by_weight
 朱锁锁	zhū;pw suǒ;jb suǒ;jb
 朱塔玛	zhū;pw tǎ;tk mǎ;wm
 朱特人	zhū;pw tè;nc rén;pn
-朱天麟	zhū;pw tiān;ad lín;lf
+朱天麟	zhū;pw tiān;ad lín;gf
 朱天天	zhū;pw tiān;ad tiān;ad
 朱天文	zhū;pw tiān;ad wén;wx
 朱天心	zhū;pw tiān;ad xīn;dd
@@ -64169,7 +64174,7 @@ sort: by_weight
 朱文泉	zhū;pw wén;wx quán;bu
 朱文涛	zhū;pw wén;wx tāo;dc
 朱文文	zhū;pw wén;wx wén;wx
-朱汶欣	zhū;pw wèn;dw xīn;tq
+朱汶欣	zhū;pw wèn;dw xīn;iq
 朱文印	zhū;pw wén;wx yìn;pe
 朱文正	zhū;pw wén;wx zhèng;av
 朱文治	zhū;pw wén;wx zhì;dk
@@ -64227,7 +64232,7 @@ sort: by_weight
 朱新礼	zhū;pw xīn;lt lǐ;pv
 朱芯仪	zhū;pw xīn;cx yí;ry
 朱新予	zhū;pw xīn;lt yǔ;sl
-朱欣悦	zhū;pw xīn;tq yuè;xx
+朱欣悦	zhū;pw xīn;iq yuè;xx
 朱兴东	zhū;pw xīng;xb dōng;ax
 朱惺公	zhū;pw xīng;xu gōng;bs
 朱星杰	zhū;pw xīng;ou jié;ah
@@ -64285,7 +64290,7 @@ sort: by_weight
 朱翊铭	zhū;pw yì;lx míng;jk
 朱一诺	zhū;pw yí;aa nuò;yk
 朱毅先	zhū;pw yì;lu xiān;ne
-朱怡欣	zhū;pw yí;xk xīn;tq
+朱怡欣	zhū;pw yí;xk xīn;iq
 朱亿宗	zhū;pw yì;rv zōng;bu
 朱吟江	zhū;pw yín;kv jiāng;dg
 朱赢椿	zhū;pw yíng;wb chūn;ao
@@ -64314,7 +64319,7 @@ sort: by_weight
 朱祐宏	zhū;pw yòu;pk hóng;bs
 朱由榔	zhū;pw yóu;ol,lt láng;ae
 朱友谅	zhū;pw yǒu;uy liàng;yx
-朱幼麟	zhū;pw yòu;yl lín;lf
+朱幼麟	zhū;pw yòu;yl lín;gf
 朱友谦	zhū;pw yǒu;uy qiān;yj
 朱由崧	zhū;pw yóu;ol,lt sōng;ug
 朱祐樘	zhū;pw yòu;pk táng;at
@@ -64344,7 +64349,7 @@ sort: by_weight
 朱曰藩	zhū;pw yuē;wa fān;ct
 朱月华	zhū;pw yuè;ke huá;ru
 朱岳楷	zhū;pw yuè;qu kǎi;ab
-朱约麒	zhū;pw yuē;su qí;lb
+朱约麒	zhū;pw yuē;su qí;gb
 朱约信	zhū;pw yuē;su xìn;rk
 朱芸编	zhū;pw yún;cy biān;sc
 朱云峰	zhū;pw yún;ag,es fēng;uf
@@ -65366,7 +65371,7 @@ sort: by_weight
 森崎祐加	sēn;aa qí;uk yòu;pk jiā;lk
 森千早都	sēn;aa qiān;pu zǎo;ou dōu;le
 森桥印象	sēn;aa qiáo;al yìn;pe xiàng;du
-森丘耕平	sēn;aa qiū;ta gēng;lj píng;au
+森丘耕平	sēn;aa qiū;ia gēng;lj píng;au
 森秋夏彦	sēn;aa qiū;hh xià;bw yàn;wp
 森山大道	sēn;aa shān;kl dà;ar dào;zz
 森山大辅	sēn;aa shān;kl dà;ar fǔ;if
@@ -65630,6 +65635,47 @@ sort: by_weight
 松冈义正	sōng;ag gāng;kx yì;dx zhèng;av	3
 松冈由贵	sōng;ag gāng;kx yóu;ol,lt guì;vb	3
 松冈祯丞	sōng;ag gāng;kx zhēn;pb chéng;la	45
+松井爱莉	sōng;ag jǐng;ac,el ài;vy lì;cd	324
+松井大辅	sōng;ag jǐng;ac,el dà;ar fǔ;if	310
+松井冬子	sōng;ag jǐng;ac,el dōng;wd zǐ;la	234
+松井范雄	sōng;ag jǐng;ac,el fàn;cv xióng;uv	162
+松井康之	sōng;ag jǐng;ac,el kāng;gl zhī;dn	220
+松井玲奈	sōng;ag jǐng;ac,el líng;ws nài;du	13
+松井石根	sōng;ag jǐng;ac,el shí;ak gēn;ag	223
+松井新材	sōng;ag jǐng;ac,el xīn;lt cái;ac	4
+松井秀喜	sōng;ag jǐng;ac,el xiù;hn xǐ;tk	19
+松井友闲	sōng;ag jǐng;ac,el yǒu;uy xián;ma	207
+松井优征	sōng;ag jǐng;ac,el yōu;ry zhēng;rv	364
+松井优子	sōng;ag jǐng;ac,el yōu;ry zǐ;la	171
+松井郁洋	sōng;ag jǐng;ac,el yù;ue yáng;dy	4
+松平春岳	sōng;ag píng;au chūn;io yuè;qu	346
+松平定胜	sōng;ag píng;au dìng;bz shèng;ou	230
+松平定信	sōng;ag píng;au dìng;bz xìn;rk	346
+松平广忠	sōng;ag píng;au guǎng;di zhōng;vx	396
+松平恒雄	sōng;ag píng;au héng;xd xióng;uv	207
+松平家忠	sōng;ag píng;au jiā;bu zhōng;vx	230
+松平康元	sōng;ag píng;au kāng;gl yuán;aw	194
+松平赖启	sōng;ag píng;au lài;ub qǐ;hk	99
+松平赖学	sōng;ag píng;au lài;ub xué;xz	130
+松平清康	sōng;ag píng;au qīng;do kāng;gl	392
+松平容保	sōng;ag píng;au róng;bg bǎo;ra	436
+松平胜隆	sōng;ag píng;au shèng;ou lóng;eu	76
+松平信康	sōng;ag píng;au xìn;rk kāng;gl	356
+松平元康	sōng;ag píng;au yuán;aw kāng;gl	423
+松平直基	sōng;ag píng;au zhí;uq jī;ct	180
+松平直明	sōng;ag píng;au zhí;uq míng;oo	99
+松平忠房	sōng;ag píng;au zhōng;vx fáng;hf	153
+松平忠功	sōng;ag píng;au zhōng;vx gōng;gl	45
+松平忠国	sōng;ag píng;au zhōng;vx guó;wy	76
+松平忠辉	sōng;ag píng;au zhōng;vx huī;gi	346
+松平忠吉	sōng;ag píng;au zhōng;vx jí;tk	342
+松平忠昭	sōng;ag píng;au zhōng;vx zhāo;ok	99
+松平忠正	sōng;ag píng;au zhōng;vx zhèng;av	153
+松平宗秀	sōng;ag píng;au zōng;bu xiù;hn	153
+松浦爱弓	sōng;ag pǔ;df ài;vy gōng;vv	180
+松浦隆信	sōng;ag pǔ;df lóng;eu xìn;rk	292
+松浦亚弥	sōng;ag pǔ;df yà;ay mí;gx	418
+松浦镇信	sōng;ag pǔ;df zhèn;jb xìn;rk	284
 藤北彩香	téng;cu běi;lb cǎi;vp xiāng;ho
 藤本美贵	téng;cu běn;aa měi;yd guì;vb
 藤本一彦	téng;cu běn;aa yī;aa yàn;wp
@@ -65768,8 +65814,10 @@ sort: by_weight
 藤原妹红	téng;cu yuán;ix mèi;nw hóng;sg
 藤原弥凉	téng;cu yuán;ix mí;gx liáng;dx
 藤原鸟养	téng;cu yuán;ix niǎo;na yǎng;yl
+藤原启治	téng;cu yuán;ix qǐ;hk zhì;dk	585
 藤原启治	téng;cu yuán;ix qǐ;hk zhì;dk
 藤原千花	téng;cu yuán;ix qiān;pu huā;cb
+藤原清河	téng;cu yuán;ix qīng;do hé;dk	292
 藤原清衡	téng;cu yuán;ix qīng;do héng;rd
 藤原神威	téng;cu yuán;ix shén;pu wēi;gn
 藤原师辅	téng;cu yuán;ix shī;lj fǔ;if
@@ -65778,9 +65826,11 @@ sort: by_weight
 藤原氏宗	téng;cu yuán;ix shì;pv zōng;bu
 藤原塔子	téng;cu yuán;ix tǎ;tk zi;la
 藤原泰浩	téng;cu yuán;ix tài;iu hào;dk
+藤原拓海	téng;cu yuán;ix tuò;fu hǎi;dm	151
 藤原文太	téng;cu yuán;ix wén;wx tài;dd
 藤原温子	téng;cu yuán;ix wēn;dm zǐ;la
 藤原喜明	téng;cu yuán;ix xǐ;tk míng;oo
+藤原夏海	téng;cu yuán;ix xià;bw hǎi;dm	400
 藤原香子	téng;cu yuán;ix xiāng;ho zǐ;la
 藤原忻子	téng;cu yuán;ix xīn;xt zǐ;la
 藤原行成	téng;cu yuán;ix xíng;rd chéng;gv
@@ -65790,11 +65840,13 @@ sort: by_weight
 藤原秀郷	téng;cu yuán;ix xiù;hn xiāng;xg
 藤原宣孝	téng;cu yuán;ix xuān;bd xiào;lz
 藤原伊衡	téng;cu yuán;ix yī;ry héng;rd
+藤原伊织	téng;cu yuán;ix yī;ry zhī;sv	180
 藤原佑规	téng;cu yuán;ix yòu;rk guī;fj
 藤原优介	téng;cu yuán;ix yōu;ry jiè;rl
 藤原宇合	téng;cu yuán;ix yǔ;by hé;rk
 藤原育郎	téng;cu yuán;ix yù;wo láng;le
 藤原郁美	téng;cu yuán;ix yù;ue měi;yd
+藤原鱼名	téng;cu yuán;ix yú;da míng;xk	202
 藤原真楯	téng;cu yuán;ix zhēn;ub dùn;ao
 藤原真友	téng;cu yuán;ix zhēn;ub yǒu;uy
 藤原重家	téng;cu yuán;ix zhòng;ql jiā;bu
