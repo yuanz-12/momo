@@ -2198,6 +2198,7 @@ sort: by_weight
 半导体整流	bàn;bf dǎo;sc tǐ;rb zhěng;uv liú;di	100
 半导体制程	bàn;bf dǎo;sc tǐ;rb zhì;nd chéng;hw	100
 半岛无核化	bàn;bf dǎo;nu wú;ay hé;ar huà;rb	100
+办的那些事	bàn;lb de;bu nà;ve xiē;ve shì;gy	1000
 斑点比基尼	bān;ww diǎn;vh bǐ;bb jī;ct ní;ub	100
 斑点叉尾𫚔	bān;ww diǎn;vh chā;yd wěi;um huí;	100
 斑点带子案	bān;ww diǎn;vh dài;cj zi;la àn;ba	100
@@ -2306,6 +2307,7 @@ sort: by_weight
 班兰糯米糕	bān;wl lán;bs nuò;me mǐ;ba gāo;mh	100
 伴郎和伴娘	bàn;rb láng;le hé;hk bàn;rb niáng;nl	100
 扮了个鬼脸	bàn;ff le;al gè;rl guǐ;ps liǎn;oq	100
+办了哪些事	bàn;lb le;al nǎ;ke xiē;ve shì;gy	1000
 办理的流程	bàn;lb lǐ;wl de;bu liú;di chéng;hw	100
 板栗红烧肉	bǎn;ay lì;xa hóng;sg shāo;hw ròu;nr	100
 办理业务时	bàn;lb lǐ;wl yè;la wù;wl shí;to	100
@@ -23990,6 +23992,7 @@ sort: by_weight
 干得不错啊	gàn;au de;rc bú;ab cuò;jo a;kk	100
 甘德怀事件	gān;ca dé;rx huái;xb shì;gy jiàn;rn	100
 肝得乐胶囊	gān;og dé;rc lè;px jiāo;of náng;gy	100
+干的那些事	gàn;au de;bu nà;ve xiē;ve shì;gy	1000
 干得怎么样	gàn;au de;rc zěn;vx me;ps yàng;ay	100
 肝得治胶囊	gān;og děi;rc zhì;dk jiāo;of náng;gy	100
 甘地诞辰日	gān;ca dì;ty dàn;yv chén;iy rì;wa	100
@@ -72588,6 +72591,7 @@ sort: by_weight
 说得很清楚	shuō;yx de;rc hěn;rg qīng;do chu;az	100
 说得很全面	shuō;yx de;rc hěn;rg quán;rw miàn;ao	100
 说得没错啊	shuō;yx de;rc méi;du cuò;jo a;kk	100
+说的那些事	shuō;yx de;bu nà;ve xiē;ve shì;gy	1000
 说的是人话	shuō;yx de;bu shì;oz rén;pn huà;yu	100
 说得太对了	shuō;yx de;rc tài;dd duì;yc le;al	100
 说得太好了	shuō;yx de;rc tài;dd hǎo;nz le;al	100
@@ -72607,6 +72611,7 @@ sort: by_weight
 说话又好听	shuō;yx huà;yu yòu;vn hǎo;nz tīng;kt	100
 说华语运动	shuō;yx huá;ru yǔ;yk yùn;zy dòng;yl	100
 说谎的女人	shuō;yx huǎng;yi de;bu nǚ;va rén;pn	100
+说了哪些事	shuō;yx le;al nǎ;ke xiē;ve shì;gy	1000
 说没就没了	shuō;yx méi;du jiù;wy méi;du le;al	100
 说明方法有	shuō;yx míng;oo fāng;wv fǎ;dq yǒu;uo	100
 说散就散了	shuō;yx sàn;cw jiù;wy sàn;cw le;al	100
@@ -84255,6 +84260,7 @@ sort: by_weight
 像刀割一样	xiàng;ru dāo;vp gē;bd yí;aa yàng;ay	100
 想倒是想过	xiǎng;ax dào;rd shì;oz xiǎng;ax guò;zc	100
 想得不一样	xiǎng;ax de;rc bù;ab yí;aa yàng;ay	100
+想的那些事	xiǎng;ax de;bu nà;ve xiē;ve shì;gy	1000
 想得太多了	xiǎng;ax de;rc tài;dd duō;xx le;al	100
 想得太简单	xiǎng;ax de;rc tài;dd jiǎn;vo dān;bu	100
 想得太美好	xiǎng;ax de;rc tài;dd měi;yd hǎo;nz	100
@@ -84466,6 +84472,7 @@ sort: by_weight
 向老师学习	xiàng;pk lǎo;lb shī;lj xué;xz xí;vd	100
 向老师致敬	xiàng;pk lǎo;lb shī;lj zhì;gw jìng;cw	100
 想了个主意	xiǎng;ax le;al gè;rl zhǔ;wt yi;lx	100
+想了哪些事	xiǎng;ax le;al nǎ;ke xiē;ve shì;gy	1000
 享乐适应症	xiǎng;wz lè;px shì;zu yìng;ga zhèng;bv	100
 享乐主义者	xiǎng;wz lè;px zhǔ;wt yì;dx zhě;lo	100
 相乐左之助	xiāng;ao lè;px zuǒ;ug zhī;dn zhù;ql	100
@@ -105933,6 +105940,7 @@ sort: by_weight
 做得很不错	zuò;rw de;rc hěn;rg bú;ab cuò;jo	100
 做得很出色	zuò;rw de;rc hěn;rg chū;uu sè;db	100
 做得很漂亮	zuò;rw de;rc hěn;rg piào;du liang;wj	100
+做的那些事	zuò;rw de;bu nà;ve xiē;ve shì;gy	1000
 做得太过分	zuò;rw de;rc tài;dd guò;zc fèn;bd	100
 做得特别好	zuò;rw de;rc tè;nc bié;kd hǎo;nz	100
 做得怎么样	zuò;rw de;rc zěn;vx me;ps yàng;ay	100
@@ -106020,7 +106028,7 @@ sort: by_weight
 做了个实验	zuò;rw le;al gè;rl shí;bd yàn;mq	100
 做了个试验	zuò;rw le;al gè;rl shì;yg yàn;mq	100
 做了个手势	zuò;rw le;al gè;rl shǒu;pf shì;fl	100
-做了哪些事	zuò;rw le;al nǎ;ke xiē;ve shì;gy	100
+做了哪些事	zuò;rw le;al nǎ;ke xiē;ve shì;gy	1000
 做了什么孽	zuò;rw le;al shén;ru me;ps niè;cz	100
 坐了一会儿	zuò;tr le;al yí;aa huì;ry er;pv	100
 做力量训练	zuò;rw lì;vp liàng;ol xùn;yi liàn;sd	100
@@ -192675,7 +192683,6 @@ sort: by_weight
 那你为什么不和	nà;ve nǐ;rx wèi;ld shén;ru me;ps bù;ab hé;hk	100
 那你准备怎么做	nà;ve nǐ;rx zhǔn;dv bèi;wt zěn;vx me;ps zuò;rw	100
 那年花开月正圆	nà;ve nián;pf huā;cb kāi;ac yuè;ke zhèng;av yuán;wb	100
-那年那兔那些事	nà;ve nián;pf nà;ve tù;dd nà;ve xiē;ve shì;gy	100
 那年夏天的台风	nà;ve nián;pf xià;bw tiān;ad de;bu tái;sk fēng;jx	100
 拿起法律的武器	ná;ru qǐ;tj fǎ;dq lǜ;ry de;bu wǔ;gv qì;kk	100
 那仁和布克牧场	nà;ve rén;re hé;hk bù;uj kè;ux,ge mù;nw chǎng;tp	100
