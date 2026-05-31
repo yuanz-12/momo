@@ -758,7 +758,6 @@ sort: by_weight
 氨基正辛酸	ān;qn jī;ct zhèng;av xīn;lu suān;yw	100
 氨基转移酶	ān;qn jī;ct zhuǎn;iv yí;hx méi;ym	100
 氨甲苯酸片	ān;qn jiǎ;ol,tl běn;cb suān;yw piàn;pv	100
-氨甲蝶呤度	ān;qn jiǎ;ol,tl dié;ia lìng;ks dù;gy	100
 氨甲环酸片	ān;qn jiǎ;ol,tl huán;wb suān;yw piàn;pv	100
 氨钾环酸片	ān;qn jiǎ;jj huán;wb suān;yw piàn;pv	100
 氨甲基吡啶	ān;qn jiǎ;ol,tl jī;ct bǐ;kb dìng;kz	100
@@ -3968,6 +3967,7 @@ sort: by_weight
 苯酚磺酸钠	běn;cb fēn;yf huáng;ub suān;yw nà;jn	100
 苯酚甲醛尸	běn;cb fēn;yf jiǎ;ol,tl quán;yw shī;kp,vp	100
 苯酚伪麻片	běn;cb fēn;yf wěi;rw má;ga piàn;pv	100
+苯酚消毒液	běn;cb fēn;yf xiāo;do dú;fm yè;dw	100
 奔福德定律	bēn;dc fú;pt dé;rx dìng;bz lǜ;ry	100
 本弗二氏法	běn;aa fú;gl èr;aa shì;pv fǎ;dq	100
 笨港天后宫	bèn;vb gǎng;ds tiān;ad hòu;ik gōng;bk	100
@@ -4456,7 +4456,6 @@ sort: by_weight
 碧绿的叶子	bì;wu lǜ;su de;bu yè;ku zi;la	100
 比马龙效应	bǐ;bb mǎ;va lóng;yp xiào;ww yìng;ga	100
 毕马龙效应	bì;bu mǎ;va lóng;yp xiào;ww yìng;ga	100
-蓖麻油附一	bì;cb má;ga yóu;dy fù;ec yī;aa	100
 必麦森凝胶	bì;xp mài;fw sēn;aa níng;dz jiāo;of	100
 铋镁豆蔻片	bì;jb měi;jd dòu;ab kòu;cy piàn;pv	100
 吡嘧司特钾	bǐ;kb mì;ku sī;vk tè;nc jiǎ;jj	100
@@ -5676,7 +5675,6 @@ sort: by_weight
 不被人重视	bú;ab bèi;pp rén;pn zhòng;ql shì;pj	100
 不被人注意	bú;ab bèi;pp rén;pn zhù;dv yì;lx	100
 不卑也不亢	bù;ab bēi;pu yě;vv bú;ab kàng;wj	100
-不卑也不亢	bù;ab bēi;pu yě;vv bú;ab kàng;wj	100
 不比别人差	bù;ab bǐ;bb bié;kd rén;pn chà;yg	100
 不比不知道	bù;ab bǐ;bb bù;ab zhī;uk dào;zz	100
 不比任何人	bù;ab bǐ;bb rèn;rw hé;rk rén;pn	100
@@ -5971,7 +5969,6 @@ sort: by_weight
 不干也不湿	bú;ab gàn;au yě;vv bù;ab shī;dy	100
 不干预主义	bù;ab gān;au yù;yy zhǔ;wt yì;dx	100
 不高也不低	bù;ab gāo;wk yě;vv bù;ab dī;ru	100
-不高也不低	bù;ab gāo;wk yě;vv bù;ab dī;ru	100
 不给你玩了	bù;ab gěi;sk nǐ;rx wán;wy le;al	100
 不跟你玩了	bù;ab gēn;zg nǐ;rx wán;wy le;al	100
 不公的待遇	bù;ab gōng;bs de;bu dài;rc yù;zd	100
@@ -6005,7 +6002,6 @@ sort: by_weight
 不薅白不薅	bù;ab hāo;cc bái;po bù;ab hāo;cc	100
 不好的回忆	bù;ab hǎo;nz de;bu huí;wk yì;xv	100
 不好高骛远	bù;ab hǎo;nz gāo;wk wù;mm yuǎn;zy	100
-不好也不坏	bù;ab hǎo;nz yě;vv bú;ab huài;tb	100
 不好也不坏	bù;ab hǎo;nz yě;vv bú;ab huài;tb	100
 不好意思吃	bù;ab hǎo;nz yì;lx si;tx chī;kv	100
 不好意思哈	bù;ab hǎo;nz yì;lx si;tx hā;kk	100
@@ -6257,7 +6253,6 @@ sort: by_weight
 布雷格公式	bù;uj léi;yt gé;ak gōng;bs shì;gg	100
 布雷斯悖论	bù;uj léi;yt sī;ct bèi;xz lùn;yl	100
 不冷也不热	bù;ab lěng;ds yě;vv bú;ab rè;fh	100
-不冷也不热	bù;ab lěng;ds yě;vv bú;ab rè;fh	100
 不利的后果	bú;ab lì;hd de;bu hòu;ik guǒ;ta	100
 不利的条件	bú;ab lì;hd de;bu tiáo;wa jiàn;rn	100
 不利的言论	bú;ab lì;hd de;bu yán;wk lùn;yl	100
@@ -6481,6 +6476,7 @@ sort: by_weight
 补肾固齿丸	bǔ;pb shèn;lo gù;wg chǐ;vr wán;jd	100
 补肾健骨丸	bǔ;pb shèn;lo jiàn;ry gǔ;go wán;jd	100
 补肾强身片	bǔ;pb shèn;lo qiáng;gi shēn;zc piàn;pv	100
+补肾祛毒丸	bǔ;pb shèn;lo qū;pq dú;fm wán;jd	100
 补肾填精丸	bǔ;pb shèn;lo tián;tb jīng;mo wán;jd	100
 补肾温阳酒	bǔ;pb shèn;lo wēn;dm yáng;eo jiǔ;dy	100
 补肾消食片	bǔ;pb shèn;lo xiāo;do shí;rg piàn;pv	100
@@ -6893,7 +6889,6 @@ sort: by_weight
 不在五行中	bú;ab zài;ut wǔ;aw xíng;rd zhōng;kl	100
 不再喜欢你	bú;ab zài;ar xǐ;tk huan;yq nǐ;rx	100
 不再像以前	bú;ab zài;ar xiàng;ru yǐ;lr qián;bd	100
-不早也不晚	bù;ab zǎo;ou yě;vv bù;ab wǎn;oe	100
 不早也不晚	bù;ab zǎo;ou yě;vv bù;ab wǎn;oe	100
 不择手段地	bù;ab zé;ff shǒu;pf duàn;pu de;ty	100
 不怎么上心	bù;ab zěn;vx me;ps shàng;ba xīn;dd	100
@@ -10529,7 +10524,6 @@ sort: by_weight
 川花止痛膜	chuān;pl huā;cb zhǐ;bl,lu tòng;by mó;od	100
 川黄口服液	chuān;pl huáng;cb kǒu;la fú;oy yè;dw	100
 穿黄清热片	chuān;by huáng;cb qīng;do rè;fh piàn;pv	100
-川黄乙散二	chuān;pl huáng;cb yǐ;vv sàn;cw èr;aa	100
 船火儿张横	chuán;vk huǒ;br,rb ér;pv zhāng;gi héng;ab	100
 船家的孩子	chuán;vk jiā;bu de;bu hái;zr zi;la	100
 船津辰一郎	chuán;vk jīn;dy chén;iy yī;aa láng;le	100
@@ -10576,6 +10570,7 @@ sort: by_weight
 船上的午宴	chuán;vk shàng;ba de;bu wǔ;pu yàn;bn	100
 穿上的效果	chuān;by shàng;ba de;bu xiào;ww guǒ;ta	100
 传输和存储	chuán;rv shū;id hé;hk cún;uz chǔ;ro	100
+喘舒口服液	chuǎn;ke shū;ry kǒu;la fú;oy yè;dw	100
 传说的存在	chuán;rv shuō;yx de;bu cún;uz zài;ut	100
 传说的开始	chuán;rv shuō;yx de;bu kāi;ac shǐ;nk	100
 传说的魔女	chuán;rv shuō;yx de;bu mó;gg nǚ;va	100
@@ -11649,6 +11644,7 @@ sort: by_weight
 醋酸甲诺酮	cù;yo suān;yw jiǎ;ol,tl nuò;yk tóng;yk	100
 醋酸奎孕醇	cù;yo suān;yw kuí;dt yùn;nz chún;yz	100
 醋酸里哪酯	cù;yo suān;yw lǐ;tt nǎ;ke zhǐ;yo	100
+醋酸氯已定	cù;yo suān;yw lǜ;qu yǐ;kv dìng;bz	100
 醋酸泼松片	cù;yo suān;yw pō;dy sōng;ag piàn;pv	100
 醋酸铅试纸	cù;yo suān;yw qiān;jk shì;yg zhǐ;su	100
 醋酸沙拉新	cù;yo suān;yw shā;du lā;fl xīn;lt	100
@@ -12055,7 +12051,6 @@ sort: by_weight
 大根香叶烷	dà;ar gēn;ag xiāng;ho yè;ku wán;hy	100
 大功率电机	dà;ar gōng;gl lǜ;wu diàn;ov,yv jī;aj	100
 打狗看主人	dǎ;fd gǒu;qj kàn;uo zhǔ;wt rén;pn	100
-大骨节病度	dà;ar gǔ;go jié;ce bìng;bn dù;gy	100
 大规模关店	dà;ar guī;fj mó;ad guān;bt diàn;gv	100
 大规模集会	dà;ar guī;fj mó;ad jí;ra huì;ry	100
 大规模监听	dà;ar guī;fj mó;ad jiān;lm tīng;kt	100
@@ -13027,6 +13022,7 @@ sort: by_weight
 胆碱能受体	dǎn;od jiǎn;uk néng;sb shòu;vy tǐ;rb	100
 单肩手提包	dān;bu jiān;ho shǒu;pf tí;fz bāo;bs	100
 单肩斜挎包	dān;bu jiān;ho xié;rd kuà;fk bāo;bs	100
+胆碱氧化酶	dǎn;od jiǎn;uk yǎng;qy huà;rb méi;ym	100
 胆碱转磷酶	dǎn;od jiǎn;uk zhuǎn;iv lín;uf méi;ym	100
 丹江大观苑	dān;kd jiāng;dg dà;ar guān;yj yuàn;cv	100
 丹江口大坝	dān;kd jiāng;dg kǒu;la dà;ar bà;tb	100
@@ -15279,6 +15275,7 @@ sort: by_weight
 点斑澳岩鲿	diǎn;vh bān;ww ào;dd yán;uu cháng;yy	100
 点斑原海豚	diǎn;vh bān;ww yuán;ix hǎi;dm tún;ou	100
 电报式言语	diàn;ov,yv bào;fy shì;gg yán;wk yǔ;yk	100
+碘苯酚涂剂	diǎn;ub běn;cb fēn;yf tú;dm jì;qd	100
 碘苯磺酰氯	diǎn;ub běn;cb huáng;ub xiān;ye lǜ;qu	100
 碘苯甲基胍	diǎn;ub běn;cb jiǎ;ol,tl jī;ct guā;og	100
 点本人桩法	diǎn;vh běn;aa rén;pn zhuāng;at fǎ;dq	100
@@ -15346,7 +15343,6 @@ sort: by_weight
 碘淀粉反应	diǎn;ub diàn;dz fěn;mf fǎn;iy yìng;ga	100
 点点头说道	diǎn;vh diǎn;vh tóu;dd shuō;yx dào;zz	100
 点点线性段	diǎn;vh diǎn;vh xiàn;sj xìng;xu duàn;pu	100
-碘酊一七五	diǎn;ub dǐng;yd yī;aa qī;av wǔ;aw	100
 滇东北苗文	diān;db dōng;ax běi;lb miáo;ct wén;wx	100
 电动车电瓶	diàn;ov,yv dòng;yl chē;au diàn;ov,yv píng;bw	100
 电动车防盗	diàn;ov,yv dòng;yl chē;au fáng;ef dào;dm	100
@@ -15384,7 +15380,8 @@ sort: by_weight
 垫付医疗费	diàn;ft fù;rc yī;ku liáo;bl fèi;fb	100
 垫付医药费	diàn;ft fù;rc yī;ku yào;cu fèi;fb	100
 碘苷滴眼液	diǎn;ub gān;cg dī;dg yǎn;og yè;dw	100
-碘甘油附一	diǎn;ub gān;ca yóu;dy fù;ec yī;aa	100
+碘甘油龙岩	diǎn;ub gān;ca yóu;dy lóng;yp yán;uu	100
+碘甘油南平	diǎn;ub gān;ca yóu;dy nán;ug píng;au	100
 殿阁大学士	diàn;uu gé;mk dà;ar xué;xz shì;ua	100
 电功率之比	diàn;ov,yv gōng;gl lǜ;wu zhī;dn bǐ;bb	100
 电光超能人	diàn;ov,yv guāng;xe chāo;tk néng;sb rén;pn	100
@@ -15410,7 +15407,7 @@ sort: by_weight
 电话等方式	diàn;ov,yv huà;yu děng;vc fāng;wv shì;gg	100
 电话或短信	diàn;ov,yv huà;yu huò;ga duǎn;ub xìn;rk	100
 电话或微信	diàn;ov,yv huà;yu huò;ga wēi;rj xìn;rk	100
-碘化钾附一	diǎn;ub huà;rb jiǎ;jj fù;ec yī;aa	100
+碘化钾溶液	diǎn;ub huà;rb jiǎ;jj róng;dg yè;dw	100
 碘化钾试纸	diǎn;ub huà;rb jiǎ;jj shì;yg zhǐ;su	100
 电化教育馆	diàn;ov,yv huà;rb jiào;lw yù;wo guǎn;ul	100
 碘化酪氨酸	diǎn;ub huà;rb lào;yk ān;qn suān;yw	100
@@ -16218,6 +16215,7 @@ sort: by_weight
 丢失或被盗	diū;pq shī;pf huò;ga bèi;pp dào;dm	100
 丢失或损坏	diū;pq shī;pf huò;ga sǔn;fb huài;tb	100
 东宝肝泰片	dōng;ax bǎo;by gān;og tài;iu piàn;pv	100
+冬宝口服液	dōng;wd bǎo;by kǒu;la fú;oy yè;dw	100
 东北深震带	dōng;ax běi;lb shēn;da zhèn;yi dài;cj	100
 动臂起重机	dòng;yl bì;uo qǐ;tj zhòng;ql jī;aj	100
 动不动就想	dòng;yl bú;ab dòng;yl jiù;wy xiǎng;ax	100
@@ -19047,6 +19045,7 @@ sort: by_weight
 二烷基酰胺	èr;aa wán;hy jī;ct xiān;ye àn;on	100
 二王八司马	èr;aa wáng;at bā;pn sī;vk mǎ;va	100
 尔王庄水库	ěr;dx wáng;at zhuāng;gt shuǐ;ln kù;gi	100
+二味拔毒散	èr;aa wèi;kw bá;fy dú;fm sàn;cw	100
 二维码防伪	èr;aa wéi;sv mǎ;um fáng;ef wěi;rw	100
 二维码门牌	èr;aa wéi;sv mǎ;um mén;dv pái;pu	100
 二维葡钙片	èr;aa wéi;sv pú;cf gài;jg piàn;pv	100
@@ -20994,6 +20993,7 @@ sort: by_weight
 费密相互酌	fèi;fb mì;bu xiāng;ao hù;ah zhuó;yu	100
 非迷向平面	fēi;ls mí;zm xiàng;pk píng;au miàn;ao	100
 非迷向向量	fēi;ls mí;zm xiàng;pk xiàng;pk liàng;ol	100
+非那根糖浆	fēi;ls nà;ve gēn;ag táng;mk jiāng;lu	100
 非纳税收益	fēi;ls nà;sn shuì;hx shōu;jw yì;bm	100
 非那斯特莱	fēi;ls nà;ve sī;ct tè;nc lái;cl	100
 非那雄胺片	fēi;ls nà;ve xióng;uv àn;on piàn;pv	100
@@ -21543,7 +21543,6 @@ sort: by_weight
 分车带绿化	fēn;bd chē;au dài;cj lǜ;su huà;rb	100
 粉虫贪污案	fěn;mf chóng;vd tān;rb wū;dk àn;ba	100
 分次肺活量	fēn;bd cì;dq fèi;oj huó;du liàng;ol	100
-粉刺膏人民	fěn;mf cì;ud gāo;wo rén;pn mín;vv	100
 粉刺口服液	fěn;mf cì;ud kǒu;la fú;oy yè;dw	100
 粉刺去除术	fěn;mf cì;ud qù;ts chú;em shù;ad	100
 粉刺一扫光	fěn;mf cì;ud yì;aa sǎo;fe guāng;xe	100
@@ -22547,8 +22546,10 @@ sort: by_weight
 复方半夏片	fù;pw fāng;wv bàn;bf xià;bw piàn;pv	100
 复方贝母片	fù;pw fāng;wv bèi;kr mǔ;md piàn;pv	100
 复方贝母散	fù;pw fāng;wv bèi;kr mǔ;md sàn;cw	100
+复方苯甲酸	fù;pw fāng;wv běn;cb jiǎ;ol,tl suān;yw	100
 复方苯硝扑	fù;pw fāng;wv běn;cb xiāo;uo pū;fb	100
 复方薄荷酊	fù;pw fāng;wv bò;cc he;ck dīng;yd	100
+复方薄荷脑	fù;pw fāng;wv bò;cc hé;ck nǎo;ox	100
 复方补骨脂	fù;pw fāng;wv bǔ;pb gǔ;go zhī;oo	100
 复方草玉梅	fù;pw fāng;wv cǎo;cu yù;wd méi;am	100
 复方茶丹片	fù;pw fāng;wv chá;cm dān;kd piàn;pv	100
@@ -22593,6 +22594,7 @@ sort: by_weight
 复方磺胺脒	fù;pw fāng;wv huáng;ub àn;on mǐ;om	100
 复方黄柏液	fù;pw fāng;wv huáng;cb bò;ab yè;dw	100
 复方黄黛片	fù;pw fāng;wv huáng;cb dài;rh piàn;pv	100
+复方黄连膏	fù;pw fāng;wv huáng;cb lián;zi gāo;wo	100
 复方黄芩片	fù;pw fāng;wv huáng;cb qín;cv piàn;pv	100
 复方活脑舒	fù;pw fāng;wv huó;du nǎo;ox shū;ry	100
 复方藿香片	fù;pw fāng;wv huò;cv xiāng;ho piàn;pv	100
@@ -22626,6 +22628,7 @@ sort: by_weight
 复方南五加	fù;pw fāng;wv nán;ug wǔ;aw jiā;lk	100
 复方尿维氨	fù;pw fāng;wv niào;uu wéi;sv ān;qn	100
 复方诺孕酯	fù;pw fāng;wv nuò;yk yùn;nz zhǐ;yo	100
+复方硼砂散	fù;pw fāng;wv péng;uo shā;uu sàn;cw	100
 复方平喘酮	fù;pw fāng;wv píng;au chuǎn;ke tóng;yk	100
 复方蒲芩片	fù;pw fāng;wv pú;cf qín;cv piàn;pv	100
 复方气管炎	fù;pw fāng;wv qì;pv guǎn;vl yán;hh	100
@@ -22663,6 +22666,7 @@ sort: by_weight
 复方消痊栓	fù;pw fāng;wv xiāo;do quán;bw shuān;aw	100
 复方消炎散	fù;pw fāng;wv xiāo;do yán;hh sàn;cw	100
 复方消痔栓	fù;pw fāng;wv xiāo;do zhì;bc shuān;aw	100
+复方锌硼散	fù;pw fāng;wv xīn;jx péng;uo sàn;cw	100
 复方锌铁钙	fù;pw fāng;wv xīn;jx tiě;jf gài;jg	100
 复方辛戊胺	fù;pw fāng;wv xīn;lu wù;gp àn;on	100
 复方溴咖片	fù;pw fāng;wv xiù;dq kā;kk piàn;pv	100
@@ -25481,6 +25485,7 @@ sort: by_weight
 葛雷克氏症	gé;cr léi;yt kè;ux,ge shì;pv zhèng;bv	100
 各类型诗歌	gè;wk lèi;md xíng;kt shī;yc gē;kq	100
 格雷型突触	gé;ak léi;yt xíng;kt tū;bq chù;di	100
+格里高利历	gé;ak lǐ;tt gāo;wk lì;hd lì;il	1000
 格理论学家	gé;ak lǐ;wl lùn;yl xué;xz jiā;bu	100
 隔离七日情	gé;eg lí;wn qī;av rì;wa qíng;xo	100
 蛤蜊巧达汤	gé;ik lí;id qiǎo;gk dá;zd tāng;dp	100
@@ -26801,7 +26806,8 @@ sort: by_weight
 共形对称性	gòng;cb xíng;kp duì;yc chèn;hx xìng;xu	100
 共性和个性	gòng;cb xìng;xu hé;hk gè;rl xìng;xu	100
 弓形腿支具	gōng;vv xíng;kp tuǐ;og zhī;uy jù;qb	100
-汞溴红附一	gǒng;gu xiù;dq hóng;sg fù;ec yī;aa	100
+汞溴红溶液	gǒng;gu xiù;dq hóng;sg róng;dg yè;dw	100
+汞溴红药水	gǒng;gu xiù;dq hóng;sg yào;cu shuǐ;ln	100
 工序交接单	gōng;aa xù;gy jiāo;wf jiē;fn dān;bu	100
 供需紧平衡	gōng;rg xū;ye jǐn;lx píng;au héng;rd	100
 肱血管损伤	gōng;os xuè;pm guǎn;vl sǔn;fb shāng;rl	100
@@ -26995,7 +27001,6 @@ sort: by_weight
 狗不嫌家贫	gǒu;qj bù;ab xián;nj jiā;bu pín;fb	100
 构成的威胁	gòu;ag chéng;gv de;bu wēi;gn xié;ob	100
 钩翅弄蝶族	gōu;jg chì;vx nòng;wc dié;ia zú;fu	100
-枸椽酸钠二	gǒu;aj chuán;au suān;yw nà;jn èr;aa	100
 狗耷拉舌头	gǒu;qj dā;de la;fl shé;qk tou;dd	100
 勾搭在一起	gōu;bs dā;fk zài;ut yì;aa qǐ;tj	100
 钩蛋白质类	gōu;jg dàn;zi bái;po zhì;ib lèi;md	100
@@ -27667,7 +27672,6 @@ sort: by_weight
 雇佣兵队长	gù;hv yōng;ry bīng;qb duì;er zhǎng;pn	100
 故用兵之法	gù;gw yòng;kf,ol bīng;qb zhī;dn fǎ;dq	100
 固有变曲点	gù;wg yǒu;uo biàn;wy qǔ;wc,ck diǎn;vh	100
-骨友灵擦剂	gǔ;go yǒu;uy líng;eh cā;fu jì;qd	100
 骨友灵搽剂	gǔ;go yǒu;uy líng;eh chá;fm jì;qd	100
 骨友灵贴膏	gǔ;go yǒu;uy líng;eh tiē;bv gāo;wo	100
 骨犹切除术	gǔ;go yóu;qy qiē;qd chú;em shù;ad	100
@@ -27700,7 +27704,6 @@ sort: by_weight
 骨折再生丸	gǔ;go zhé;ft zài;ar shēng;pf wán;jd	100
 古镇灯博会	gǔ;uk zhèn;jb dēng;hd bó;uc huì;ry	100
 骨质磷酸钙	gǔ;go zhì;ib lín;uf suān;yw gài;jg	100
-骨质宁擦剂	gǔ;go zhì;ib níng;bd cā;fu jì;qd	100
 骨质宁搽剂	gǔ;go zhì;ib níng;bd chá;fm jì;qd	100
 骨质软化症	gǔ;go zhì;ib ruǎn;iq huà;rb zhèng;bv	100
 骨质疏松症	gǔ;go zhì;ib shū;vi sōng;ag zhèng;bv	100
@@ -28972,7 +28975,6 @@ sort: by_weight
 国家和组织	guó;wy jiā;bu hé;hk zǔ;sq zhī;sv	100
 国家或地区	guó;wy jiā;bu huò;ga dì;ty qū;kx	100
 国家级大师	guó;wy jiā;bu jí;sj dà;ar shī;lj	100
-国家及地区	guó;wy jiā;bu jí;pn dì;ty qū;kx	100
 国家及地区	guó;wy jiā;bu jí;pn dì;ty qū;kx	100
 国家级副职	guó;wy jiā;bu jí;sj fù;ad zhí;ev	100
 国家级工法	guó;wy jiā;bu jí;sj gōng;aa fǎ;dq	100
@@ -31208,7 +31210,7 @@ sort: by_weight
 很火的节目	hěn;rg huǒ;br,rb de;bu jié;ce mù;we	100
 很简单的事	hěn;rg jiǎn;vo dān;bu de;bu shì;gy	100
 很久没哭了	hěn;rg jiǔ;pn méi;du kū;kq le;al	100
-很卡哇伊的	hěn;rg kǎ;ub wa;kt yī;ry de;bu	100
+很卡哇伊的	hěn;rg kǎ;ub wā;kt yī;ry de;bu	100
 很理想主义	hěn;rg lǐ;wl xiǎng;ax zhǔ;wt yì;dx	100
 痕量同位素	hén;bg liàng;ol tóng;kk wèi;rl sù;fx	100
 很麻烦的事	hěn;rg má;ga fan;hy de;bu shì;gy	100
@@ -34484,7 +34486,6 @@ sort: by_weight
 火硫锑银矿	huǒ;br,rb liú;ui tī;jd yín;jg kuàng;ug	100
 霍乱携带者	huò;yv luàn;uv xié;fn dài;cj zhě;lo	100
 活络健身液	huó;du luò;sk jiàn;ry shēn;zc yè;dw	100
-活络水人民	huó;du luò;sk shuǐ;ln rén;pn mín;vv	100
 活络效灵丹	huó;du luò;sk xiào;ww líng;eh dān;kd	100
 活络效灵汤	huó;du luò;sk xiào;ww líng;eh tāng;dp	100
 活络消痛片	huó;du luò;sk xiāo;do tòng;by piàn;pv	100
@@ -37192,6 +37193,7 @@ sort: by_weight
 加味建中汤	jiā;lk wèi;kw jiàn;zy zhōng;kl tāng;dp	100
 加味姜附汤	jiā;lk wèi;kw jiāng;yn fù;ec tāng;dp	100
 加味解毒汤	jiā;lk wèi;kw jiě;dn dú;fm tāng;dp	100
+加味金黄散	jiā;lk wèi;kw jīn;rb huáng;cb sàn;cw	100
 加味坎离丸	jiā;lk wèi;kw kǎn;tq lí;wn wán;jd	100
 加味葵子散	jiā;lk wèi;kw kuí;ct zǐ;la sàn;cw	100
 加味烂积丸	jiā;lk wèi;kw làn;hl jī;hv wán;jd	100
@@ -38303,7 +38305,6 @@ sort: by_weight
 间歇性禁食	jiàn;mo xiē;oq xìng;xu jìn;au shí;rg	100
 间歇性斜视	jiàn;mo xiē;oq xìng;xu xié;rd shì;pj	100
 坚信爱会赢	jiān;lt xìn;rk ài;vy huì;ry yíng;wb	100
-健心颗粒二	jiàn;ry xīn;dd kē;gy lì;ml èr;aa	100
 健心糖衣片	jiàn;ry xīn;dd táng;mk yī;wy piàn;pv	100
 碱性氨基酸	jiǎn;uk xìng;xu ān;qn jī;ct suān;yw	100
 碱性蛋白胨	jiǎn;uk xìng;xu dàn;zi bái;po dòng;od	100
@@ -41887,7 +41888,6 @@ sort: by_weight
 酒精消毒液	jiǔ;dy jīng;mo xiāo;do dú;fm yè;dw	100
 酒精性肌病	jiǔ;dy jīng;mo xìng;xu jī;oj bìng;bn	100
 酒精依赖症	jiǔ;dy jīng;mo yī;ry lài;ub zhèng;bv	100
-酒精一七五	jiǔ;dy jīng;mo yī;aa qī;av wǔ;aw	100
 酒精与癌症	jiǔ;dy jīng;mo yǔ;va ái;bu zhèng;bv	100
 酒精与健康	jiǔ;dy jīng;mo yǔ;va jiàn;ry kāng;gl	100
 九九八十一	jiǔ;pv jiǔ;pv bā;pn shí;al yī;aa	100
@@ -42418,7 +42418,6 @@ sort: by_weight
 距离判别法	jù;zj lí;wn pàn;bd bié;kd fǎ;dq	100
 据历史记载	jù;fg lì;il shǐ;kn jì;yj zǎi;gi	100
 距离衰减律	jù;zj lí;wn shuāi;yv jiǎn;dk lǜ;ry	100
-距离新星度	jù;zj lí;wn xīn;lt xīng;ou dù;gy	100
 居里研究所	jū;ug lǐ;tt yán;uk jiū;bj suǒ;ht	100
 举两个例子	jǔ;xf liǎng;ar gè;rl lì;rd zi;la	100
 矩量母函数	jǔ;uj liàng;ol mǔ;md hán;ku shù;mw	100
@@ -42623,6 +42622,7 @@ sort: by_weight
 枸橼酸铋钾	jǔ;aj yuán;au suān;yw bì;jb jiǎ;jj	100
 枸橼酸胆碱	jǔ;aj yuán;au suān;yw dǎn;od jiǎn;uk	100
 枸橼酸氢镁	jǔ;aj yuán;au suān;yw qīng;qj měi;jd	100
+枸橼酸溶液	jǔ;aj yuán;au suān;yw róng;dg yè;dw	100
 枸橼酸铁铵	jǔ;aj yuán;au suān;yw tiě;jf ǎn;jn	100
 枸橼酸锌片	jǔ;aj yuán;au suān;yw xīn;jx piàn;pv	100
 枸橼酸一钠	jǔ;aj yuán;au suān;yw yī;aa nà;jn	100
@@ -44790,6 +44790,7 @@ sort: by_weight
 口服清胃酶	kǒu;la fú;oy qīng;do wèi;to méi;ym	100
 口服洗肠剂	kǒu;la fú;oy xǐ;de cháng;op jì;qd	100
 口服洗肠散	kǒu;la fú;oy xǐ;de cháng;op sàn;cw	100
+口服洗肠盐	kǒu;la fú;oy xǐ;de cháng;op yán;tm	100
 口服心不服	kǒu;la fú;oy xīn;dd bù;ab fú;oy	100
 口服液体剂	kǒu;la fú;oy yè;dw tǐ;rb jì;qd	100
 口服胰糜酶	kǒu;la fú;oy yí;oy mí;gm méi;ym	100
@@ -45531,7 +45532,7 @@ sort: by_weight
 来开玩笑的	lái;aa kāi;ac wán;wy xiào;vy de;bu	100
 来看一下这	lái;aa kàn;uo yí;aa xià;ab zhè;zw	100
 来克拉玛依	lái;aa kè;ux,ge lā;fl mǎ;wm yī;ry	100
-来来回回就	lái;aa lái;aa huí;wk huí;wk jiù;wy	100
+来来回回就	lái;aa lái;aa huí;wk hui;wk jiù;wy	100
 来了个大转	lái;aa le;al gè;rl dà;ar zhuǎn;iv	100
 来了个新人	lái;aa le;al gè;rl xīn;lt rén;pn	100
 来俩大腰子	lái;aa liǎ;rl dà;ar yāo;on zi;la	100
@@ -46119,6 +46120,7 @@ sort: by_weight
 类风湿尘肺	lèi;md fēng;jx shī;dy chén;xt fèi;oj	100
 类风湿结节	lèi;md fēng;jx shī;dy jié;sk jié;ce	100
 类风湿因子	lèi;md fēng;jx shī;dy yīn;wd zǐ;la	100
+雷佛奴尔液	léi;yt fó;rf nú;ny ěr;dx yè;dw	100
 雷公炮炙论	léi;yt gōng;bs páo;hb zhì;xh lùn;yl	100
 雷公藤多甙	léi;yt gōng;bs téng;cu duō;xx dài;gg	100
 雷公藤多苷	léi;yt gōng;bs téng;cu duō;xx gān;cg	100
@@ -46344,7 +46346,6 @@ sort: by_weight
 礼部左侍郎	lǐ;pv bù;le zuǒ;ug shì;rc láng;le	100
 力测量检查	lì;vp cè;dd liáng;ol jiǎn;aq chá;ad	100
 离差的度量	lí;wn chà;yg de;bu dù;gy liàng;ol	100
-理查森信度	lǐ;wl chá;ad sēn;aa xìn;rk dù;gy	100
 理查特结构	lǐ;wl chá;ad tè;nc jié;sk gòu;ag	100
 力长度关系	lì;vp cháng;pn dù;gy guān;bt xì;px	100
 离尘不离城	lí;wn chén;xt bù;ab lí;wn chéng;ti	100
@@ -47947,6 +47948,7 @@ sort: by_weight
 邻苯二甲酐	lín;re běn;cb èr;aa jiǎ;ol,tl gān;yg	100
 邻苯二甲腈	lín;re běn;cb èr;aa jiǎ;ol,tl jīng;oo	100
 邻苯二甲醛	lín;re běn;cb èr;aa jiǎ;ol,tl quán;yw	100
+邻苯二甲醛	lín;re běn;cb èr;aa jiǎ;ol,tl quán;yw	100
 邻苯二甲酸	lín;re běn;cb èr;aa jiǎ;ol,tl suān;yw	100
 邻苯基乙苯	lín;re běn;cb jī;ct yǐ;vv běn;cb	100
 邻苯三酚红	lín;re běn;cb sān;ae fēn;yf hóng;sg	100
@@ -48631,7 +48633,6 @@ sort: by_weight
 六氟环丙烷	liù;wb fú;qf huán;wb bǐng;an wán;hy	100
 六氟环丁烯	liù;wb fú;qf huán;wb dīng;al xī;hj	100
 六氟磷酸铵	liù;wb fú;qf lín;uf suān;yw ǎn;jn	100
-六氟磷酸二	liù;wb fú;qf lín;uf suān;yw èr;aa	100
 六氟磷酸根	liù;wb fú;qf lín;uf suān;yw gēn;ag	100
 六氟磷酸钴	liù;wb fú;qf lín;uf suān;yw gǔ;jg	100
 六氟磷酸钾	liù;wb fú;qf lín;uf suān;yw jiǎ;jj	120
@@ -48918,6 +48919,7 @@ sort: by_weight
 六速变速箱	liù;wb sù;zu biàn;wy sù;zu xiāng;vo	100
 流苏的设计	liú;di sū;cb de;bu shè;yu jì;yu	100
 流速容量圈	liú;di sù;zu róng;bg liàng;ol quān;wv	100
+硫酸阿托品	liú;ui suān;yw ā;ek tuō;fq pǐn;kk	100
 硫酸氨基酚	liú;ui suān;yw ān;qn jī;ct fēn;yf	100
 硫酸苯乙肼	liú;ui suān;yw běn;cb yǐ;vv jǐng;oj	100
 硫酸齿钠石	liú;ui suān;yw chǐ;vr nà;jn shí;ak	100
@@ -48936,6 +48938,7 @@ sort: by_weight
 硫酸抗敌素	liú;ui suān;yw kàng;fj dí;uw sù;fx	100
 硫酸奎宁片	liú;ui suān;yw kuí;dt níng;bd piàn;pv	100
 硫酸吗啡碱	liú;ui suān;yw mǎ;km fēi;kf jiǎn;uk	100
+硫酸镁溶液	liú;ui suān;yw měi;jd róng;dg yè;dw	100
 硫酸脒基脲	liú;ui suān;yw mǐ;om jī;ct niào;ou	100
 硫酸耐而蓝	liú;ui suān;yw nài;ec ér;al lán;cm	100
 硫酸粘菌素	liú;ui suān;yw nián;mv jūn;ch sù;fx	100
@@ -49969,6 +49972,7 @@ sort: by_weight
 铝合金支架	lǚ;jk hé;rk jīn;rb zhī;uy jià;la	100
 铝合金铸件	lǚ;jk hé;rk jīn;rb zhù;jc jiàn;rn	100
 绿红东美螈	lǜ;su hóng;sg dōng;ax měi;yd yuán;ix	100
+氯化铵合剂	lǜ;qu huà;rb ǎn;jn hé;rk jì;qd	100
 氯化氨基汞	lǜ;qu huà;rb ān;qn jī;ct gǒng;gu	100
 氯化巴马汀	lǜ;qu huà;rb bā;sl mǎ;va tīng;dd	100
 氯化苯甲酰	lǜ;qu huà;rb běn;cb jiǎ;ol,tl xiān;ye	100
@@ -49979,6 +49983,7 @@ sort: by_weight
 氯化甲基苯	lǜ;qu huà;rb jiǎ;ol,tl jī;ct běn;cb	100
 氯化甲基汞	lǜ;qu huà;rb jiǎ;ol,tl jī;ct gǒng;gu	100
 氯化甲基镁	lǜ;qu huà;rb jiǎ;ol,tl jī;ct měi;jd	100
+氯化钾溶液	lǜ;qu huà;rb jiǎ;jj róng;dg yè;dw	100
 氯化聚丙烯	lǜ;qu huà;rb jù;eu bǐng;an xī;hj	100
 氯化聚乙烯	lǜ;qu huà;rb jù;eu yǐ;vv xī;hj	120
 氯化氯乙酰	lǜ;qu huà;rb lǜ;qu yǐ;vv xiān;ye	100
@@ -50091,6 +50096,7 @@ sort: by_weight
 氯普鲁卡因	lǜ;qu pǔ;bo lǔ;yo kǎ;ub yīn;wd	100
 氯普噻吨片	lǜ;qu pǔ;bo sāi;kt dūn;kt piàn;pv	100
 绿鳍马面鲀	lǜ;su qí;yo mǎ;va miàn;ao tún;yt	100
+氯强滴眼液	lǜ;qu qiáng;gi dī;dg yǎn;og yè;dw	100
 氯羟基吡啶	lǜ;qu qiǎng;yj jī;ct bǐ;kb dìng;kz	100
 氯羟基喹啉	lǜ;qu qiǎng;yj jī;ct kuí;kt lín;ka	100
 氯氢化反应	lǜ;qu qīng;qj huà;rb fǎn;iy yìng;ga	100
@@ -50401,6 +50407,7 @@ sort: by_weight
 马普替林片	mǎ;va pǔ;bo tì;fo lín;aa piàn;pv	100
 玛其朵咖啡	mǎ;wm qí;cb duǒ;ja kā;kk fēi;kf	100
 玛奇英雄传	mǎ;wm qí;dk yīng;cy xióng;uv zhuàn;rv	100
+麻强滴鼻液	má;ga qiáng;gi dī;dg bí;zw yè;dw	100
 马乔林溃疡	mǎ;va qiáo;yl lín;aa kuì;db yáng;bp	100
 麻雀要革命	má;ga què;xv yào;xn gé;cu mìng;re	100
 麻雀与小孩	má;ga què;xv yǔ;va xiǎo;lb hái;zr	100
@@ -50542,6 +50549,7 @@ sort: by_weight
 卖狗皮膏药	mài;ud gǒu;qj pí;py gāo;wo yào;cu	100
 脉管壁血管	mài;oy guǎn;vl bì;ut xuè;pm guǎn;vl	100
 脉管复康片	mài;oy guǎn;vl fù;pw kāng;gl piàn;pv	100
+脉管号胶囊	mài;oy guǎn;vl hào;kk jiāo;of náng;gy	100
 脉管通胶囊	mài;oy guǎn;vl tōng;zy jiāo;of náng;gy	100
 买还是不买	mǎi;ad hái;zb shì;oz bù;ab mǎi;ad	100
 卖还是不卖	mài;ud hái;zb shì;oz bú;ab mài;ud	100
@@ -52542,6 +52550,8 @@ sort: by_weight
 灭绝的动物	miè;ah jué;sb de;bu dòng;yl wù;nw	100
 灭绝级事件	miè;ah jué;sb jí;sj shì;gy jiàn;rn	100
 灭绝种族罪	miè;ah jué;sb zhǒng;hv zú;fu zuì;sf	100
+灭菌纯化水	miè;ah jūn;ch chún;st huà;rb shuǐ;ln	100
+灭菌蒸馏水	miè;ah jūn;ch zhēng;ch liú;ut shuǐ;ln	100
 灭龙魔导士	miè;ah lóng;yp mó;gg dǎo;sc shì;ua	100
 灭丘口服液	miè;ah qiū;ia kǒu;la fú;oy yè;dw	100
 灭却心头火	miè;ah què;qe xīn;dd tóu;dd huǒ;br,rb	100
@@ -54969,6 +54979,7 @@ sort: by_weight
 年满六周岁	nián;pf mǎn;dl liù;wb zhōu;kk suì;ux	100
 黏膜白斑病	nián;hv mó;od bái;po bān;ww bìng;bn	100
 黏膜骨膜瓣	nián;hv mó;od gǔ;go mó;od bàn;xg	100
+黏膜溃疡膏	nián;hv mó;od kuì;db yáng;bp gāo;wo	100
 黏膜下肌瘤	nián;hv mó;od xià;ab jī;oj liú;bt	100
 黏膜雅司病	nián;hv mó;od yǎ;yv sī;vk bìng;bn	100
 黏膜牙龈界	nián;hv mó;od yá;gp,ac yín;vg jiè;tj	100
@@ -56506,8 +56517,10 @@ sort: by_weight
 硼酸三丁酯	péng;uo suān;yw sān;ae dīng;al zhǐ;yo	100
 硼酸三甲酯	péng;uo suān;yw sān;ae jiǎ;ol,tl zhǐ;yo	100
 硼酸三乙酯	péng;uo suān;yw sān;ae yǐ;vv zhǐ;yo	100
+硼酸氧化锌	péng;uo suān;yw yǎng;qy huà;rb xīn;jx	100
 碰我的肩膀	pèng;uy wǒ;ga de;bu jiān;ho bǎng;of	100
 鹏欣水游城	péng;on xīn;iq shuǐ;ln yóu;dz chéng;ti	100
+硼锌鱼软膏	péng;uo xīn;jx yú;da ruǎn;iq gāo;wo	100
 碰也没碰过	pèng;uy yě;vv méi;du pèng;uy guò;zc	100
 碰一鼻子灰	pèng;uy yì;aa bí;zw zi;la huī;uh	100
 彭亦非的翼	péng;tp yì;wb fēi;ls de;bu yì;xg	100
@@ -57227,7 +57240,6 @@ sort: by_weight
 平时不烧香	píng;au shí;to bù;ab shāo;hw xiāng;ho	100
 平时的穿搭	píng;au shí;to de;bu chuān;by dā;fk	100
 平实的语言	píng;au shí;bd de;bu yǔ;yk yán;wk	100
-平时荣获二	píng;au shí;to róng;ca huò;cq èr;aa	100
 平视显示器	píng;au shì;pj xiǎn;oy shì;ex,ax qì;kk	100
 评税通知书	píng;yp shuì;hx tōng;zy zhī;uk shū;vd	100
 平斯克公国	píng;au sī;ct kè;ux,ge gōng;bs guó;wy	100
@@ -57562,7 +57574,6 @@ sort: by_weight
 葡萄酒样痣	pú;cf táo;cf jiǔ;dy yàng;ay zhì;bx	100
 葡萄酒知识	pú;cf táo;cf jiǔ;dy zhī;uk shi;yv	100
 葡萄酒庄园	pú;cf táo;cf jiǔ;dy zhuāng;gt yuán;wy	100
-葡萄糖附一	pú;cf táo;cf táng;mk fù;ec yī;aa	100
 葡萄糖激酶	pú;cf táo;cf táng;mk jī;dw méi;ym	100
 葡萄糖酸钾	pú;cf táo;cf táng;mk suān;yw jiǎ;jj	100
 葡萄糖酸镁	pú;cf táo;cf táng;mk suān;yw měi;jd	100
@@ -59362,6 +59373,7 @@ sort: by_weight
 羟甲芬太尼	qiǎng;yj jiǎ;ol,tl fēn;cf tài;dd ní;ub	100
 羟甲基吡啶	qiǎng;yj jiǎ;ol,tl jī;ct bǐ;kb dìng;kz	100
 羟甲基冠醚	qiǎng;yj jiǎ;ol,tl jī;ct guān;bc mí;ym	100
+羟甲基糠醛	qiǎng;yj jiǎ;ol,tl jī;ct kāng;ml quán;yw	100
 羟甲金霉素	qiǎng;yj jiǎ;ol,tl jīn;rb méi;ym sù;fx	100
 羟甲司坦片	qiǎng;yj jiǎ;ol,tl sī;vk tǎn;td piàn;pv	100
 羟甲戊二酰	qiǎng;yj jiǎ;ol,tl wù;gp èr;aa xiān;ye	100
@@ -59739,6 +59751,7 @@ sort: by_weight
 亲近的父亲	qīn;la jìn;zt de;bu fù;bx qīn;la	100
 亲近的朋友	qīn;la jìn;zt de;bu péng;oo you;uy	100
 秦晋殽之战	qín;ih jìn;yo xiáo;xu zhī;dn zhàn;vg	100
+芩蓝滴鼻液	qín;cv lán;cm dī;dg bí;zw yè;dw	100
 勤劳的蜜蜂	qín;cl láo;cl de;bu mì;bi fēng;if	100
 勤劳感谢日	qín;cl láo;cl gǎn;gx xiè;yc rì;wa	100
 芩连四物汤	qín;cv lián;zi sì;we wù;nw tāng;dp	100
@@ -59852,7 +59865,6 @@ sort: by_weight
 情爱妄想型	qíng;xo ài;vy wàng;wn xiǎng;ax xíng;kt	100
 情安喘定片	qíng;xo ān;bn chuǎn;ke dìng;bz piàn;pv	100
 庆安枪击案	qìng;gd ān;bn qiāng;av jī;fk àn;ba	100
-清白散人民	qīng;do bái;po sǎn;cw rén;pn mín;vv	100
 青斑叉鼻鲀	qīng;fo bān;ww chā;yd bí;zw tún;yt	100
 青斑脉管炎	qīng;fo bān;ww mài;oy guǎn;vl yán;hh	100
 青斑血管炎	qīng;fo bān;ww xuè;pm guǎn;vl yán;hh	100
@@ -60208,7 +60220,6 @@ sort: by_weight
 氢过氧化物	qīng;qj guò;zc yǎng;qy huà;rb wù;nw	100
 倾国银弹波	qīng;ry guó;wy yín;jg dàn;gu bō;dp	100
 青果止嗽丸	qīng;fo guǒ;ta zhǐ;bl,lu sòu;kq wán;jd	100
-青蛤散人民	qīng;fo há;ik sǎn;cw rén;pn mín;vv	100
 青海湖鸟岛	qīng;fo hǎi;dm hú;do niǎo;na dǎo;nu	100
 清海节度使	qīng;do hǎi;dm jié;ce dù;gy shǐ;rl	100
 氢氦锂铍硼	qīng;qj hài;qr lǐ;jl pī;jp péng;uo	100
@@ -61053,7 +61064,6 @@ sort: by_weight
 秋收的季节	qiū;hh shōu;jw de;bu jì;hz jié;ce	100
 秋收起义歌	qiū;hh shōu;jw qǐ;tj yì;dx gē;kq	100
 秋水共长天	qiū;hh shuǐ;ln gòng;cb cháng;pn tiān;ad	100
-秋水仙胺度	qiū;hh shuǐ;ln xiān;ru àn;on dù;gy	100
 秋水仙碱片	qiū;hh shuǐ;ln xiān;ru jiǎn;uk piàn;pv	100
 秋水仙酰胺	qiū;hh shuǐ;ln xiān;ru xiān;ye àn;on	100
 丘斯综合征	qiū;ia sī;ct zōng;su hé;rk zhēng;rv	100
@@ -61120,7 +61130,6 @@ sort: by_weight
 驱白巴布期	qū;mq bái;po bā;sl bù;uj qī;co	100
 取百家之长	qǔ;ey bǎi;ab jiā;bu zhī;dn cháng;pn	100
 祛斑的方法	qū;pq bān;ww de;bu fāng;wv fǎ;dq	100
-祛斑散人民	qū;pq bān;ww sǎn;cw rén;pn mín;vv	100
 祛斑小妙招	qū;pq bān;ww xiǎo;lb miào;nu zhāo;fk	100
 祛斑小窍门	qū;pq bān;ww xiǎo;lb qiào;bk mén;dv	100
 曲吡那敏片	qǔ;wc,ck bǐ;kb nà;ve mǐn;pw piàn;pv	100
@@ -61187,6 +61196,7 @@ sort: by_weight
 祛痘祛痘印	qū;pq dòu;bb qū;pq dòu;bb yìn;pe	100
 祛痘去痘印	qū;pq dòu;bb qù;ts dòu;bb yìn;pe	100
 去痘印产品	qù;ts dòu;bb yìn;pe chǎn;wi pǐn;kk	100
+祛毒灌肠液	qū;pq dú;fm guàn;dv cháng;op yè;dw	100
 去对面野区	qù;ts duì;yc miàn;ao yě;ly qū;kx	100
 去鄂尔多斯	qù;ts è;ke ěr;dx duō;xx sī;ct	100
 去额尔古纳	qù;ts é;by ěr;dx gǔ;uk nà;sn	100
@@ -61197,7 +61207,6 @@ sort: by_weight
 去房地产化	qù;ts fáng;hf dì;ty chǎn;wi huà;rb	100
 驱风保济油	qū;mq fēng;jx bǎo;ra jì;dq yóu;dy	100
 祛风除湿药	qū;pq fēng;jx chú;em shī;dy yào;cu	100
-驱风合剂二	qū;mq fēng;jx hé;rk jì;qd èr;aa	100
 祛风化痰丸	qū;pq fēng;jx huà;rb tán;bh wán;jd	100
 祛风胜湿酒	qū;pq fēng;jx shèng;ou shī;dy jiǔ;dy	100
 驱风苏合丸	qū;mq fēng;jx sū;cb hé;rk wán;jd	100
@@ -61475,6 +61484,7 @@ sort: by_weight
 区直各部门	qū;kx zhí;uq gè;wk bù;le mén;dv	100
 区直各单位	qū;kx zhí;uq gè;wk dān;bu wèi;rl	100
 区职教中心	qū;kx zhí;ev jiào;lw zhōng;kl xīn;dd	100
+祛止咳合剂	qū;pq zhǐ;bl,lu ké;kr hé;rk jì;qd	100
 曲直濑道三	qū;wc,ck zhí;uq lài;db dào;zz sān;ae	100
 去殖民地化	qù;ts zhí;dq mín;vv dì;ty huà;rb	100
 祛脂生发精	qū;pq zhī;oo shēng;pf fà;fy jīng;mo	100
@@ -63255,7 +63265,6 @@ sort: by_weight
 蠕虫状结构	rú;ie chóng;vd zhuàng;lq jié;sk gòu;ag	100
 如出水芙蓉	rú;nk chū;uu shuǐ;ln fú;cf róng;cg	100
 如出现问题	rú;nk chū;uu xiàn;wj wèn;mk tí;oy	100
-褥疮酊附一	rù;pc chuāng;bv dīng;yd fù;ec yī;aa	100
 如春风拂面	rú;nk chūn;io fēng;jx fú;ff miàn;ao	100
 如此爱你月	rú;nk cǐ;vb ài;vy nǐ;rx yuè;ke	100
 如此地美好	rú;nk cǐ;vb de;ty měi;yd hǎo;nz	100
@@ -63362,6 +63371,7 @@ sort: by_weight
 如惊弓之鸟	rú;nk jīng;xx gōng;vv zhī;dn niǎo;na	100
 如涓涓细流	rú;nk juān;do juān;do xì;st liú;di	100
 入开水锅中	rù;pn kāi;ac shuǐ;ln guō;jn zhōng;kl	100
+乳康口服液	rǔ;vv kāng;gl kǒu;la fú;oy yè;dw	100
 乳康软胶囊	rǔ;vv kāng;gl ruǎn;iq jiāo;of náng;gy	100
 茹科夫斯基	rú;ck kē;hd fū;er sī;ct jī;ct	100
 入口的东西	rù;pn kǒu;la de;bu dōng;ax xi;ak,wk	100
@@ -63481,6 +63491,7 @@ sort: by_weight
 如仙女下凡	rú;nk xiān;ru nǚ;va xià;ab fán;jd	100
 乳腺增生病	rǔ;vv xiàn;ou zēng;to shēng;pf bìng;bn	100
 乳香黄连木	rǔ;vv xiāng;ho huáng;cb lián;zi mù;ur	100
+乳消号胶囊	rǔ;vv xiāo;do hào;kk jiāo;of náng;gy	100
 如新鲜蔬菜	rú;nk xīn;lt xiān;yy shū;ci cài;ca	100
 如行云流水	rú;nk xíng;rd yún;ag,es liú;di shuǐ;ln	100
 如需帮助请	rú;nk xū;ye bāng;fj zhù;ql qǐng;yo	100
@@ -63575,8 +63586,6 @@ sort: by_weight
 软预算约束	ruǎn;iq yù;yy suàn;vc yuē;su shù;gr	100
 软枣猕猴桃	ruǎn;iq zǎo;ud mí;qx hóu;qu táo;av	100
 软皂溶液一	ruǎn;iq zào;bq róng;dg yè;dw yī;aa	100
-软皂液附一	ruǎn;iq zào;bq yè;dw fù;ec yī;aa	100
-软皂液协和	ruǎn;iq zào;bq yè;dw xié;ub hé;hk	100
 软装的搭配	ruǎn;iq zhuāng;ly de;bu dā;fk pèi;yj	100
 软组织挫伤	ruǎn;iq zǔ;sq zhī;sv cuò;fr shāng;rl	100
 软组织萎缩	ruǎn;iq zǔ;sq zhī;sv wěi;cn suō;sb	100
@@ -63807,7 +63816,6 @@ sort: by_weight
 三步杀人曲	sān;ae bù;vu shā;xa rén;pn qǔ;wc,ck	100
 三才封髓丸	sān;ae cái;up fēng;tc suǐ;go wán;jd	100
 三参降脂液	sān;ae cān;sp jiàng;ef zhī;oo yè;dw	100
-三草汤人民	sān;ae cǎo;cu tāng;dp rén;pn mín;vv	100
 三层茴香丸	sān;ae céng;uy huí;ck xiāng;ho wán;jd	100
 三层茄香丸	sān;ae céng;uy qié;ck xiāng;ho wán;jd	100
 三叉汇接区	sān;ae chā;yd huì;dk jiē;fn qū;kx	100
@@ -63960,10 +63968,10 @@ sort: by_weight
 三环己基膦	sān;ae huán;wb jǐ;kv jī;ct lìn;of	100
 三环十二少	sān;ae huán;wb shí;al èr;aa shǎo;xp	100
 三黄宝蜡丸	sān;ae huáng;cb bǎo;by là;io wán;jd	100
+三黄颠倒散	sān;ae huáng;cb diān;uy dǎo;rd sàn;cw	100
 三皇炮捶门	sān;ae huáng;bw pào;hb chuí;ft mén;dv	100
 三黄片糖衣	sān;ae huáng;cb piàn;pv táng;mk yī;wy	100
 三黄清解片	sān;ae huáng;cb qīng;do jiě;dn piàn;pv	100
-三黄散人民	sān;ae huáng;cb sǎn;cw rén;pn mín;vv	100
 三回啊三回	sān;ae huí;wk a;kk sān;ae huí;wk	100
 三季度以来	sān;ae jì;hz dù;gy yǐ;lr lái;aa	100
 三季度营收	sān;ae jì;hz dù;gy yíng;ck shōu;jw	100
@@ -66455,7 +66463,6 @@ sort: by_weight
 深交所主板	shēn;da jiāo;wf suǒ;ht zhǔ;wt bǎn;ay	100
 伸筋丹胶囊	shēn;ru jīn;vl dān;kd jiāo;of náng;gy	100
 伸筋活络丸	shēn;ru jīn;vl huó;du luò;sk wán;jd	100
-伸筋散人民	shēn;ru jīn;vl sǎn;cw rén;pn mín;vv	100
 神经胺酸酶	shén;pu jīng;sj àn;on suān;yw méi;ym	100
 神经氨酸酶	shén;pu jīng;sj ān;qn suān;yw méi;ym	100
 肾精不足证	shèn;lo jīng;mo bù;ab zú;kz zhèng;yv	100
@@ -67022,6 +67029,7 @@ sort: by_weight
 肾旋转异常	shèn;lo xuán;fz zhuǎn;iv yì;sc cháng;xj	100
 肾血管畸形	shèn;lo xuè;pm guǎn;vl jī;tk xíng;kp	100
 肾血浆流量	shèn;lo xuè;pm jiāng;lu liú;di liàng;ol	100
+肾血宁胶囊	shèn;lo xuè;pm níng;bd jiāo;of náng;gy	100
 神学研究院	shén;pu xué;xz yán;uk jiū;bj yuàn;ey	100
 申雪赵宏博	shēn;ol,yl xuě;ye zhào;tx hóng;bs bó;uc	100
 神学政治论	shén;pu xué;xz zhèng;vw zhì;dk lùn;yl	100
@@ -68681,6 +68689,7 @@ sort: by_weight
 视交叉疾患	shì;pj jiāo;wf chā;yd jí;bu huàn;ix	100
 视交叉上核	shì;pj jiāo;wf chā;yd shàng;ba hé;ar	100
 实缴出资额	shí;bd jiǎo;sw chū;uu zī;db é;by	100
+施胶度滑脱	shī;fy jiāo;of dù;gy huá;do tuō;ox	100
 十角馆事件	shí;al jiǎo;dy guǎn;ul shì;gy jiàn;rn	100
 市交警支队	shì;wj jiāo;wf jǐng;ck zhī;uy duì;er	100
 市交投集团	shì;wj jiāo;wf tóu;fu jí;ra tuán;wc	100
@@ -71273,6 +71282,7 @@ sort: by_weight
 疏风活血汤	shū;vi fēng;jx huó;du xuè;pm tāng;dp	100
 疏风再造丸	shū;vi fēng;jx zài;ar zào;zk wán;jd	100
 舒肤止痒酊	shū;ry fū;of zhǐ;bl,lu yǎng;by dīng;yd	100
+舒肝安胶囊	shū;ry gān;og ān;bn jiāo;of náng;gy	100
 舒肝保坤丸	shū;ry gān;og bǎo;ra kūn;tu wán;jd	100
 舒肝和胃丸	shū;ry gān;og hé;hk wèi;to wán;jd	100
 舒肝健胃丸	shū;ry gān;og jiàn;ry wèi;to wán;jd	100
@@ -71336,6 +71346,7 @@ sort: by_weight
 疏筋活血汤	shū;vi jīn;vl huó;du xuè;pm tāng;dp	100
 舒筋活血丸	shū;ry jīn;vl huó;du xuè;pm wán;jd	100
 舒筋止痛酊	shū;ry jīn;vl zhǐ;bl,lu tòng;by dīng;yd	100
+舒筋止痛水	shū;ry jīn;vl zhǐ;bl,lu tòng;by shuǐ;ln	100
 输精管闭锁	shū;id jīng;mo guǎn;vl bì;mc suǒ;jb	100
 输精管壶腹	shū;id jīng;mo guǎn;vl hú;ty fù;ow	100
 输精管畸形	shū;id jīng;mo guǎn;vl jī;tk xíng;kp	100
@@ -72209,7 +72220,6 @@ sort: by_weight
 水果和零食	shuǐ;ln guǒ;ta hé;hk líng;ys shí;rg	100
 水果与蔬菜	shuǐ;ln guǒ;ta yǔ;va shū;ci cài;ca	100
 水寒射肺证	shuǐ;ln hán;bd shè;uc fèi;oj zhèng;yv	100
-水合氯醛二	shuǐ;ln hé;rk lǜ;qu quán;yw èr;aa	100
 水户德川家	shuǐ;ln hù;du dé;rx chuān;pl jiā;bu	100
 睡虎地秦简	shuì;ot hǔ;hj dì;ty qín;ih jiǎn;vo	100
 睡虎地秦墓	shuì;ot hǔ;hj dì;ty qín;ih mù;ct	100
@@ -72429,7 +72439,6 @@ sort: by_weight
 水杨酸苄酯	shuǐ;ln yáng;ap suān;yw biàn;cb zhǐ;yo	100
 水杨酸搽剂	shuǐ;ln yáng;ap suān;yw chá;fm jì;qd	100
 水杨酸丁酯	shuǐ;ln yáng;ap suān;yw dīng;al zhǐ;yo	100
-水杨酸附一	shuǐ;ln yáng;ap suān;yw fù;ec yī;aa	100
 水杨酸己酯	shuǐ;ln yáng;ap suān;yw jǐ;kv zhǐ;yo	100
 水杨酸甲酯	shuǐ;ln yáng;ap suān;yw jiǎ;ol,tl zhǐ;yo	100
 水杨酸甲脂	shuǐ;ln yáng;ap suān;yw jiǎ;ol,tl zhī;oo	100
@@ -74914,7 +74923,6 @@ sort: by_weight
 碳酸钠去垢	tàn;uh suān;yw nà;jn qù;ts gòu;tk	100
 碳酸内二酯	tàn;uh suān;yw nèi;kr èr;aa zhǐ;yo	100
 碳酸氢甲酯	tàn;uh suān;yw qīng;qj jiǎ;ol,tl zhǐ;yo	100
-碳酸氢钠二	tàn;uh suān;yw qīng;qj nà;jn èr;aa	100
 碳酸氢钠粉	tàn;uh suān;yw qīng;qj nà;jn fěn;mf	100
 碳酸氢钠片	tàn;uh suān;yw qīng;qj nà;jn piàn;pv	100
 碳酸氢钠石	tàn;uh suān;yw qīng;qj nà;jn shí;ak	100
@@ -75080,6 +75088,7 @@ sort: by_weight
 膛口制退器	táng;ot kǒu;la zhì;nd tuì;zg qì;kk	100
 唐拉昂曲峰	táng;gk lā;fl áng;oe qǔ;wc,ck fēng;uf	100
 糖磷酸代谢	táng;mk lín;uf suān;yw dài;rg xiè;yc	100
+糖络通胶囊	táng;mk luò;sk tōng;zy jiāo;of náng;gy	100
 糖脉康颗粒	táng;mk mài;oy kāng;gl kē;gy lì;ml	100
 唐灭高句丽	táng;gk miè;ah gāo;wk gōu;bk lí;ad	100
 汤姆孙系数	tāng;dp mǔ;nm sūn;zx xì;px shù;mw	120
@@ -75998,7 +76007,6 @@ sort: by_weight
 天蓬大元帅	tiān;ad péng;cf dà;ar yuán;aw shuài;lj	100
 天平的两端	tiān;ad píng;au de;bu liǎng;ar duān;le	100
 天平节度使	tiān;ad píng;au jié;ce dù;gy shǐ;rl	100
-天平军节度	tiān;ad píng;au jūn;bi jié;ce dù;gy	100
 天气比较凉	tiān;ad qì;pv bǐ;bb jiào;if liáng;dx	100
 天启大爆炸	tiān;ad qǐ;hk dà;ar bào;hu zhà;hv	100
 天气的变化	tiān;ad qì;pv de;bu biàn;wy huà;rb	100
@@ -78608,7 +78616,7 @@ sort: by_weight
 往后的日子	wǎng;rv hòu;ik de;bu rì;wa zi;la	100
 往后的岁月	wǎng;rv hòu;ik de;bu suì;ux yuè;ke	100
 望花亭水库	wàng;ww huā;cb tíng;wd shuǐ;ln kù;gi	100
-王回回狗皮	wáng;at huí;wk huí;wk gǒu;qj pí;py	100
+王回回狗皮	wáng;at huí;wk hui;wk gǒu;qj pí;py	100
 往火坑里跳	wǎng;rv huǒ;br,rb kēng;tj lǐ;tt tiào;zv	100
 往火坑里推	wǎng;rv huǒ;br,rb kēng;tj lǐ;tt tuī;fv	100
 网际加速器	wǎng;kx jì;eu jiā;lk sù;zu qì;kk	100
@@ -81144,7 +81152,6 @@ sort: by_weight
 武汉硚口区	wǔ;gv hàn;dy qiáo;ul kǒu;la qū;kx	100
 武汉青山区	wǔ;gv hàn;dy qīng;fo shān;kl qū;kx	100
 武汉深之度	wǔ;gv hàn;dy shēn;da zhī;dn dù;gy	100
-武汉市甲康	wǔ;gv hàn;dy shì;wj jiǎ;ol,tl kāng;gl	100
 武汉十一中	wǔ;gv hàn;dy shí;al yī;aa zhōng;kl	100
 武汉市一中	wǔ;gv hàn;dy shì;wj yī;aa zhōng;kl	100
 武汉素食人	wǔ;gv hàn;dy sù;fx shí;rg rén;pn	100
@@ -84358,7 +84365,6 @@ sort: by_weight
 像海绵一样	xiàng;ru hǎi;dm mián;sj yí;aa yàng;ay	100
 向孩子道歉	xiàng;pk hái;zr zi;la dào;zz qiàn;jq	100
 像孩子似的	xiàng;ru hái;zr zi;la shì;rr de;bu	100
-像孩子似的	xiàng;ru hái;zr zi;la shì;rr de;bu	100
 像孩子一般	xiàng;ru hái;zr zi;la yì;aa bān;vu	100
 响号驱逐舰	xiǎng;kk hào;kk qū;mq zhú;zu jiàn;vj	100
 祥和的春节	xiáng;py hé;hk de;bu chūn;io jié;ce	100
@@ -85797,6 +85803,7 @@ sort: by_weight
 硝酸乙醯酯	xiāo;uo suān;yw yǐ;vv xī;ym zhǐ;yo	100
 硝酸乙酰酯	xiāo;uo suān;yw yǐ;vv xiān;ye zhǐ;yo	100
 硝酸一叶碱	xiāo;uo suān;yw yí;aa yè;ku jiǎn;uk	100
+硝酸银溶液	xiāo;uo suān;yw yín;jg róng;dg yè;dw	100
 硝酸正戊酯	xiāo;uo suān;yw zhèng;av wù;gp zhǐ;yo	100
 小塔科伊河	xiǎo;lb tǎ;tk kē;hd yī;ry hé;dk	100
 小太保阿基	xiǎo;lb tài;dd bǎo;ra ā;ek jī;ct	100
@@ -85932,6 +85939,7 @@ sort: by_weight
 小岩井小鸟	xiǎo;lb yán;uu jǐng;ac,el xiǎo;lb niǎo;na	100
 消炎灵胶囊	xiāo;do yán;hh líng;eh jiāo;of náng;gy	100
 小眼鳗鳞鳕	xiǎo;lb yǎn;og mán;yy lín;yf xuě;ye	100
+消炎生肌膏	xiāo;do yán;hh shēng;pf jī;oj gāo;wo	100
 小眼一眨巴	xiǎo;lb yǎn;og yì;aa zhǎ;of bā;sl	100
 消炎止痢灵	xiāo;do yán;hh zhǐ;bl,lu lì;bd líng;eh	100
 消炎止痢丸	xiāo;do yán;hh zhǐ;bl,lu lì;bd wán;jd	100
@@ -88735,6 +88743,7 @@ sort: by_weight
 学年的时光	xué;xz nián;pf de;bu shí;to guāng;xe	100
 学年或学期	xué;xz nián;pf huò;ga xué;xz qī;co	100
 血尿安胶囊	xuè;pm niào;uu ān;bn jiāo;of náng;gy	100
+血尿灵合剂	xuè;pm niào;uu líng;eh hé;rk jì;qd	100
 血宁片糖衣	xuè;pm níng;bd piàn;pv táng;mk yī;wy	100
 学平面设计	xué;xz píng;au miàn;ao shè;yu jì;yu	100
 血气分析仪	xuè;pm qì;pv fēn;bd xī;at yí;ry	100
@@ -89488,6 +89497,7 @@ sort: by_weight
 牙龈分离膏	yá;gp,ac yín;vg fēn;bd lí;wn gāo;wo	100
 牙龈活检术	yá;gp,ac yín;vg huó;du jiǎn;aq shù;ad	100
 亚油酸甲酯	yà;ay yóu;dy suān;yw jiǎ;ol,tl zhǐ;yo	100
+亚油酸甲酯	yà;ay yóu;dy suān;yw jiǎ;ol,tl zhǐ;yo	100
 亚油酸胶丸	yà;ay yóu;dy suān;yw jiāo;of wán;jd	100
 亚油酸乙酯	yà;ay yóu;dy suān;yw yǐ;vv zhǐ;yo	100
 亚原生质体	yà;ay yuán;ix shēng;pf zhì;ib tǐ;rb	100
@@ -90176,6 +90186,7 @@ sort: by_weight
 盐酸巴马汀	yán;tm suān;yw bā;sl mǎ;va tīng;dd	100
 盐酸巴米品	yán;tm suān;yw bā;sl mǐ;ba pǐn;kk	100
 盐酸倍他唑	yán;tm suān;yw bèi;rk tā;ry zuò;kr	100
+盐酸吡哆胺	yán;tm suān;yw bǐ;kb duō;kx àn;on	100
 盐酸吡多胺	yán;tm suān;yw bǐ;kb duō;xx àn;on	100
 盐酸吡哆辛	yán;tm suān;yw bǐ;kb duō;kx xīn;lu	100
 盐酸比生群	yán;tm suān;yw bǐ;bb shēng;pf qún;yy	100
@@ -90195,6 +90206,7 @@ sort: by_weight
 盐酸地孟丁	yán;tm suān;yw dì;ty mèng;zm dīng;al	100
 盐酸丁二胍	yán;tm suān;yw dīng;al èr;aa guā;og	100
 盐酸丁福明	yán;tm suān;yw dīng;al fú;pt míng;oo	100
+盐酸丁卡因	yán;tm suān;yw dīng;al kǎ;ub yīn;wd	100
 盐酸丁氯喘	yán;tm suān;yw dīng;al lǜ;qu chuǎn;ke	100
 盐酸二乙嗪	yán;tm suān;yw èr;aa yǐ;vv qín;kh	100
 盐酸芬布酯	yán;tm suān;yw fēn;cf bù;uj zhǐ;yo	100
@@ -90218,6 +90230,7 @@ sort: by_weight
 盐酸氯苯胍	yán;tm suān;yw lǜ;qu běn;cb guā;og	100
 盐酸氯苯肼	yán;tm suān;yw lǜ;qu běn;cb jǐng;oj	100
 盐酸氯哌丁	yán;tm suān;yw lǜ;qu pài;ky dīng;al	100
+盐酸麻黄碱	yán;tm suān;yw má;ga huáng;cb jiǎn;uk	100
 盐酸吗啉呱	yán;tm suān;yw ma;km lín;ka gū;kg	100
 盐酸吗茚酮	yán;tm suān;yw ma;km yìn;ce tóng;yk	100
 盐酸美司坦	yán;tm suān;yw měi;yd sī;vk tǎn;td	100
@@ -90256,6 +90269,7 @@ sort: by_weight
 盐酸溴马秦	yán;tm suān;yw xiù;dq mǎ;va qín;ih	100
 烟酸盐酸盐	yān;hy suān;yw yán;tm suān;yw yán;tm	100
 盐酸氧氮芥	yán;tm suān;yw yǎng;qy dàn;qh jiè;cj	100
+盐酸异丙嗪	yán;tm suān;yw yì;sc bǐng;an qín;kh	100
 盐酸茚洛秦	yán;tm suān;yw yìn;ce luò;dk qín;ih	100
 盐酸茚唑林	yán;tm suān;yw yìn;ce zuò;kr lín;aa	100
 盐酸优降宁	yán;tm suān;yw yōu;ry jiàng;ef níng;bd	100
@@ -90597,6 +90611,7 @@ sort: by_weight
 氧化萎锈灵	yǎng;qy huà;rb wēi;cn xiù;jn líng;eh	100
 氧化物浮选	yǎng;qy huà;rb wù;nw fú;dz xuǎn;ze	100
 氧化物阴极	yǎng;qy huà;rb wù;nw yīn;eo jí;aj	100
+氧化锌擦剂	yǎng;qy huà;rb xīn;jx cā;fu jì;qd	100
 氧化锌搽剂	yǎng;qy huà;rb xīn;jx chá;fm jì;qd	100
 氧化锌试补	yǎng;qy huà;rb xīn;jx shì;yg bǔ;pb	100
 氧化锌洗剂	yǎng;qy huà;rb xīn;jx xǐ;de jì;qd	100
@@ -91415,7 +91430,6 @@ sort: by_weight
 野猪装甲车	yě;ly zhū;qo zhuāng;ly jiǎ;ol,tl chē;au	100
 叶状囊肉瘤	yè;ku zhuàng;lq náng;gy ròu;nr liú;bt	100
 叶状乳头炎	yè;ku zhuàng;lq rǔ;vv tóu;dd yán;hh	100
-液状石蜡二	yè;dw zhuàng;lq shí;ak là;io èr;aa	100
 椰子啊椰子	yē;ae zi;la a;kk yē;ae zi;la	100
 依阿华大学	yī;ry ā;ek huá;ru dà;ar xué;xz	100
 衣阿华大学	yī;wy ā;ek huá;ru dà;ar xué;xz	100
@@ -92737,7 +92751,6 @@ sort: by_weight
 异色光度计	yì;sc sè;db guāng;xe dù;gy jì;yu	100
 一色三节高	yí;aa sè;db sān;ae jié;ce gāo;wk	100
 以色事人者	yǐ;lr sè;db shì;gy rén;pn zhě;lo	100
-依沙吖啶二	yī;ry shā;du ā;ky dìng;kz èr;aa	100
 依沙吖啶片	yī;ry shā;du ā;ky dìng;kz piàn;pv	100
 依沙吖啶贴	yī;ry shā;du ā;ky dìng;kz tiē;bv	100
 伊莎贝拉岛	yī;ry shā;cu bèi;kr lā;fl dǎo;nu	100
@@ -92764,6 +92777,7 @@ sort: by_weight
 蚁神护宝液	yǐ;iy shén;pu hù;fh bǎo;by yè;dw	100
 益肾回春丸	yì;bm shèn;lo huí;wk chūn;io wán;jd	100
 益肾健骨片	yì;bm shèn;lo jiàn;ry gǔ;go piàn;pv	100
+益肾降糖饮	yì;bm shèn;lo jiàng;ef táng;mk yǐn;uq	100
 益肾蠲痹丸	yì;bm shèn;lo juān;bi bì;bw wán;jd	100
 益肾康胶囊	yì;bm shèn;lo kāng;gl jiāo;of náng;gy	100
 益肾灵冲剂	yì;bm shèn;lo líng;eh chōng;dv jì;qd	100
@@ -93963,6 +93977,7 @@ sort: by_weight
 因癌症离世	yīn;wd ái;bu zhèng;bv lí;wn shì;cv	100
 因癌症去世	yīn;wd ái;bu zhèng;bv qù;ts shì;cv	100
 银氨络离子	yín;jg ān;qn luò;sk lí;wn zǐ;la	120
+茵白冲剂号	yīn;cy bái;po chōng;dv jì;qd hào;kk	100
 银版摄影术	yín;jg bǎn;py shè;fy yǐng;op shù;ad	100
 隐爆角砾岩	yǐn;ex bào;hu jiǎo;dy lì;ul yán;uu	100
 隐孢子虫病	yǐn;ex bāo;zb zǐ;la chóng;vd bìng;bn	100
@@ -94621,6 +94636,7 @@ sort: by_weight
 婴儿期创伤	yīng;bn ér;pv qī;co chuāng;rd shāng;rl	100
 婴儿润肤药	yīng;bn ér;pv rùn;dw fū;of yào;cu	100
 婴儿散胶囊	yīng;bn ér;pv sàn;cw jiāo;of náng;gy	100
+婴儿爽身粉	yīng;bn ér;pv shuǎng;dx shēn;zc fěn;mf	100
 婴儿消食散	yīng;bn ér;pv xiāo;do shí;rg sàn;cw	100
 婴儿性痉挛	yīng;bn ér;pv xìng;xu jìng;bj luán;wu	100
 婴儿性偏瘫	yīng;bn ér;pv xìng;xu piān;rc tān;bv	100
@@ -96618,7 +96634,6 @@ sort: by_weight
 愈肝龙颗粒	yù;rx gān;og lóng;yp kē;gy lì;ml	100
 愈肝龙糖浆	yù;rx gān;og lóng;yp táng;mk jiāng;lu	100
 鱼肝油滴剂	yú;da gān;og yóu;dy dī;dg jì;qd	100
-鱼肝油附一	yú;da gān;og yóu;dy fù;ec yī;aa	100
 鱼肝油酸钠	yú;da gān;og yóu;dy suān;yw nà;jn	100
 余甘子喉片	yú;rm gān;ca zǐ;la hóu;ku piàn;pv	100
 浴缸和淋浴	yù;dg gāng;fg hé;hk lín;da yù;dg	100
@@ -98980,7 +98995,6 @@ sort: by_weight
 怎么这样呢	zěn;vx me;ps zhè;zw yàng;ay ne;kb	100
 赠澳大熊猫	zèng;bo ào;dd dà;ar xióng;sh māo;qt	100
 赠白马王彪	zèng;bo bái;po mǎ;va wáng;at biāo;hp	100
-增白散人民	zēng;to bái;po sǎn;cw rén;pn mín;vv	100
 增变器方法	zēng;to biàn;wy qì;kk fāng;wv fǎ;dq	100
 曾布字子宣	zēng;bo bù;uj zì;bz zǐ;la xuān;bd	100
 增产不增收	zēng;to chǎn;wi bù;ab zēng;to shōu;jw	100
@@ -99468,6 +99482,7 @@ sort: by_weight
 张量子空间	zhāng;gi liàng;ol zǐ;la kōng;bg jiān;mo	100
 账龄分析表	zhàng;bi líng;vs fēn;bd xī;at biǎo;fy	100
 账龄分析法	zhàng;bi líng;vs fēn;bd xī;at fǎ;dq	100
+樟硫炉洗剂	zhāng;au liú;ui lú;hh xǐ;de jì;qd	100
 长门大明神	zhǎng;pn mén;dv dà;ar míng;oo shén;pu	100
 张鸣歧旧居	zhāng;gi míng;kn qí;vv jiù;lo jū;ug	100
 掌拇指握法	zhǎng;xu mǔ;fm zhǐ;fo wò;ft fǎ;dq	100
@@ -99475,6 +99490,7 @@ sort: by_weight
 樟脑磺酰啶	zhāng;au nǎo;ox huáng;ub xiān;ye dìng;kz	100
 樟脑硫磺酸	zhāng;au nǎo;ox liú;ui huáng;ub suān;yw	100
 樟脑柳酸醑	zhāng;au nǎo;ox liǔ;ae suān;yw xǔ;yo	100
+樟脑醑龙岩	zhāng;au nǎo;ox xǔ;yo lóng;yp yán;uu	100
 漳平水仙茶	zhāng;du píng;au shuǐ;ln xiān;ru chá;cm	100
 漳平至龙岩	zhāng;du píng;au zhì;gt lóng;yp yán;uu	100
 胀气的食物	zhàng;oi qì;pv de;bu shí;rg wù;nw	100
@@ -99543,7 +99559,6 @@ sort: by_weight
 掌叶覆盆子	zhǎng;xu yè;ku fù;xw pén;fm zi;la	100
 张毅百科王	zhāng;gi yì;lu bǎi;ab kē;hd wáng;at	100
 彰义节度使	zhāng;lp yì;dx jié;ce dù;gy shǐ;rl	100
-彰义军节度	zhāng;lp yì;dx jūn;bi jié;ce dù;gy	100
 张伊丽莎白	zhāng;gi yī;ry lì;ad shā;cu bái;po	100
 张艺谋新片	zhāng;gi yì;cv móu;ya xīn;lt piàn;pv	100
 张艺谋执导	zhāng;gi yì;cv móu;ya zhí;fw dǎo;sc	100
@@ -102194,6 +102209,7 @@ sort: by_weight
 芷阳广场站	zhǐ;cv yáng;eo guǎng;di chǎng;tp zhàn;lv	100
 止痒洗剂立	zhǐ;bl,lu yǎng;by xǐ;de jì;qd lì;wb	100
 止痒洗剂皮	zhǐ;bl,lu yǎng;by xǐ;de jì;qd pí;py	100
+止痒消炎水	zhǐ;bl,lu yǎng;by xiāo;do yán;hh shuǐ;ln	100
 止痒消炎王	zhǐ;bl,lu yǎng;by xiāo;do yán;hh wáng;at	100
 制药等行业	zhì;nd yào;cu děng;vc háng;rd yè;la	100
 只要一出现	zhǐ;kb yào;xn yì;aa chū;uu xiàn;wj	100
@@ -104334,7 +104350,6 @@ sort: by_weight
 兹巴拉斯基	zī;by bā;sl lā;fl sī;ct jī;ct	100
 兹巴拉兹基	zī;by bā;sl lā;fl zī;by jī;ct	100
 紫白癜风病	zǐ;vx bái;po diàn;bu fēng;jx bìng;bn	100
-紫白膏人民	zǐ;vx bái;po gāo;wo rén;pn mín;vv	100
 自伴随算子	zì;po bàn;rb suí;eo suàn;vc zǐ;la	100
 字宝宝乐园	zì;bz bǎo;by bao;by lè;px yuán;wy	100
 自暴自弃者	zì;po bào;ou zì;po qì;wc zhě;lo	100
@@ -107625,8 +107640,6 @@ sort: by_weight
 白花异叶苣苔	bái;po huā;cb yì;sc yè;ku jù;cj tái;ck	100
 白花紫苞鸢尾	bái;po huā;cb zǐ;vx bāo;cb yuān;gn wěi;um	100
 百济复国运动	bǎi;ab jì;dq fù;pw guó;wy yùn;zy dòng;yl	100
-白及胶浆人民	bái;po jí;pn jiāo;of jiāng;lu rén;pn mín;vv	100
-白及胶浆协和	bái;po jí;pn jiāo;of jiāng;lu xié;ub hé;hk	100
 百佳超级市场	bǎi;ab jiā;rt chāo;tk jí;sj shì;wj chǎng;tp	100
 白加黑感冒片	bái;po jiā;lk hēi;lh gǎn;gx mào;oo piàn;pv	100
 摆架式卸纸台	bǎi;fq jià;la shì;gg xiè;ve zhǐ;su tái;sk	100
@@ -107741,7 +107754,6 @@ sort: by_weight
 白色皮片缺血	bái;po sè;db pí;py piàn;pv quē;fg xuè;pm	100
 白色酸洗担体	bái;po sè;db suān;yw xǐ;de dān;fd tǐ;rb	100
 百色田阳机场	bǎi;ab sè;db tián;wu yáng;eo jī;aj chǎng;tp	100
-白色洗剂附一	bái;po sè;db xǐ;de jì;qd fù;ec yī;aa	100
 白色珍珠项链	bái;po sè;db zhēn;wp zhū;ww xiàng;gy liàn;ji	100
 拜沙达竞技场	bài;uf shā;du dá;zd jìng;lx jì;fv chǎng;tp	100
 拜沙达体育场	bài;uf shā;du dá;zd tǐ;rb yù;wo chǎng;tp	100
@@ -110075,7 +110087,6 @@ sort: by_weight
 薄荷桉油含片	bò;cc he;ck ān;an yóu;dy hán;rk piàn;pv	100
 伯赫门基尔希	bó;rb hè;ii mén;dv jī;ct ěr;dx xī;xj	100
 薄荷麝香草酚	bò;cc he;ck shè;gc xiāng;ho cǎo;cu fēn;yf	100
-薄荷水一七五	bò;cc he;ck shuǐ;ln yī;aa qī;av wǔ;aw	100
 薄荷糖的味道	bò;cc he;ck táng;mk de;bu wèi;kw dào;zz	100
 薄荷通吸入剂	bò;cc he;ck tōng;zy xī;kj rù;pn jì;qd	100
 驳回再审申请	bó;mx huí;wk zài;ar shěn;bu shēn;ol,yl qǐng;yo	100
@@ -115122,7 +115133,6 @@ sort: by_weight
 单纯庖疹病毒	dān;bu chún;st páo;gb zhěn;bp bìng;bn dú;fm	100
 单纯疱疹病毒	dān;bu chún;st pào;bb zhěn;bp bìng;bn dú;fm	100
 单纯上链复形	dān;bu chún;st shàng;ba liàn;ji fù;pw xíng;kp	100
-单纯霜一七五	dān;bu chún;st shuāng;yo yī;aa qī;av wǔ;aw	100
 单纯性雀斑痣	dān;bu chún;st xìng;xu què;xv bān;ww zhì;bx	100
 单纯性肾变病	dān;bu chún;st xìng;xu shèn;lo biàn;wy bìng;bn	100
 单纯性肾囊肿	dān;bu chún;st xìng;xu shèn;lo náng;gy zhǒng;ov	100
@@ -115204,7 +115214,6 @@ sort: by_weight
 胆碱能神经元	dǎn;od jiǎn;uk néng;sb shén;pu jīng;sj yuán;aw	100
 胆碱能药中毒	dǎn;od jiǎn;uk néng;sb yào;cu zhòng;kl dú;fm	100
 胆碱能综合征	dǎn;od jiǎn;uk néng;sb zōng;su hé;rk zhēng;rv	100
-胆碱氧化酶度	dǎn;od jiǎn;uk yǎng;qy huà;rb méi;ym dù;gy	100
 胆碱酯酶减少	dǎn;od jiǎn;uk zhǐ;yo méi;ym jiǎn;dk shǎo;xp	100
 胆碱酯酶试纸	dǎn;od jiǎn;uk zhǐ;yo méi;ym shì;yg zhǐ;su	100
 胆碱酯酶增加	dǎn;od jiǎn;uk zhǐ;yo méi;ym zēng;to jiā;lk	100
@@ -115332,7 +115341,6 @@ sort: by_weight
 丹锡高速公路	dān;kd xī;jw gāo;wk sù;zu gōng;bs lù;zk	100
 丹霞地貌景观	dān;kd xiá;yy dì;ty mào;ve jǐng;ox guān;yj	100
 弹匣释放按钮	dàn;gu xiá;kj shì;mf fàng;fw àn;fn niǔ;ji	100
-胆仙胶囊人民	dǎn;od xiān;ru jiāo;of náng;gy rén;pn mín;vv	100
 单纤维肌电图	dān;bu xiān;sq wéi;sv jī;oj diàn;ov,yv tú;wd	100
 单项补体测定	dān;bu xiàng;gy bǔ;pb tǐ;rb cè;dd dìng;bz	100
 单向方差分析	dān;bu xiàng;pk fāng;wv chā;yg fēn;bd xī;at	100
@@ -116165,7 +116173,6 @@ sort: by_weight
 狄仁杰祠堂碑	dí;qh rén;re jié;ah cí;pk táng;xt bēi;uu	100
 低熔冰盐合晶	dī;ru róng;hg bīng;du yán;tm hé;rk jīng;oo	120
 低熔冰盐结晶	dī;ru róng;hg bīng;du yán;tm jié;sk jīng;oo	100
-地塞米松擦剂	dì;ty sāi;bt mǐ;ba sōng;ag cā;fu jì;qd	100
 地塞米松乳膏	dì;ty sāi;bt mǐ;ba sōng;ag rǔ;vv gāo;wo	100
 地塞米松软膏	dì;ty sāi;bt mǐ;ba sōng;ag ruǎn;iq gāo;wo	100
 地塞米松涂剂	dì;ty sāi;bt mǐ;ba sōng;ag tú;dm jì;qd	100
@@ -116708,8 +116715,6 @@ sort: by_weight
 电气总平面图	diàn;ov,yv qì;pv zǒng;bx píng;au miàn;ao tú;wd	100
 电潜单螺杆泵	diàn;ov,yv qián;do dān;bu luó;ix gǎn;ag bèng;uu	120
 殿前都指挥使	diàn;uu qián;bd dū;le zhǐ;fo huī;fi shǐ;rl	100
-颠茄合剂附一	diān;uy qié;ck hé;rk jì;qd fù;ec yī;aa	100
-颠茄合剂协和	diān;uy qié;ck hé;rk jì;qd xié;ub hé;hk	100
 颠茄磺苄啶片	diān;uy qié;ck huáng;ub biàn;cb dìng;kz piàn;pv	100
 碘曲伦注射液	diǎn;ub qǔ;wc,ck lún;rl zhù;dv shè;uc yè;dw	100
 点燃式发动机	diǎn;vh rán;hh shì;gg fā;fy dòng;yl jī;aj	100
@@ -117671,7 +117676,6 @@ sort: by_weight
 对暴力的垄断	duì;yc bào;ou lì;vp de;bu lǒng;lt duàn;vt	100
 对苯二胺皮炎	duì;yc běn;cb èr;aa àn;on pí;py yán;hh	100
 对苯二甲硫肼	duì;yc běn;cb èr;aa jiǎ;ol,tl liú;ui jǐng;oj	100
-对苯二甲酸二	duì;yc běn;cb èr;aa jiǎ;ol,tl suān;yw èr;aa	100
 对苯二甲酸钠	duì;yc běn;cb èr;aa jiǎ;ol,tl suān;yw nà;jn	100
 对苯二甲酸盐	duì;yc běn;cb èr;aa jiǎ;ol,tl suān;yw yán;tm	100
 对苯二甲酸酯	duì;yc běn;cb èr;aa jiǎ;ol,tl suān;yw zhǐ;yo	100
@@ -118416,7 +118420,6 @@ sort: by_weight
 二帝四王之乱	èr;aa dì;wj sì;we wáng;at zhī;dn luàn;uv	100
 二碘二氟甲烷	èr;aa diǎn;ub èr;aa fú;qf jiǎ;ol,tl wán;hy	100
 二碘二氧化钨	èr;aa diǎn;ub èr;aa yǎng;qy huà;rb wū;jw	100
-二碘合银酸二	èr;aa diǎn;ub hé;rk yín;jg suān;yw èr;aa	100
 二碘甲腺氨酸	èr;aa diǎn;ub jiǎ;ol,tl xiàn;ou ān;qn suān;yw	100
 二叠氮亚氨基	èr;aa dié;yq dàn;qh yà;ay ān;qn jī;ct	100
 二丁氨基酮酸	èr;aa dīng;al ān;qn jī;ct tóng;yk suān;yw	100
@@ -118599,7 +118602,6 @@ sort: by_weight
 二甲基氰化砷	èr;aa jiǎ;ol,tl jī;ct qíng;qo huà;rb shēn;uu	100
 二甲基溶纤剂	èr;aa jiǎ;ol,tl jī;ct róng;dg xiān;sq jì;qd	100
 二甲基噻吩烷	èr;aa jiǎ;ol,tl jī;ct sāi;kt fēn;kf wán;hy	100
-二甲基胂基二	èr;aa jiǎ;ol,tl jī;ct shèn;ou jī;ct èr;aa	100
 二甲基胂酸钠	èr;aa jiǎ;ol,tl jī;ct shèn;ou suān;yw nà;jn	100
 二甲基砷酸钠	èr;aa jiǎ;ol,tl jī;ct shēn;uu suān;yw nà;jn	100
 二甲基生育酚	èr;aa jiǎ;ol,tl jī;ct shēng;pf yù;wo fēn;yf	100
@@ -120782,7 +120784,6 @@ sort: by_weight
 纷纷伸出援手	fēn;sf fēn;sf shēn;ru chū;uu yuán;fy shǒu;pf	100
 分分钟的事儿	fēn;bd fēn;bd zhōng;jv de;bu shì;gy er;pv	100
 酚甘油滴耳液	fēn;yf gān;ca yóu;dy dī;dg ěr;ol yè;dw	100
-酚甘油一七五	fēn;yf gān;ca yóu;dy yī;aa qī;av wǔ;aw	100
 焚膏油以继晷	fén;ah gào;wo yóu;dy yǐ;lr jì;sm guǐ;ok	100
 芬格博德科纳	fēn;cf gé;ak bó;uc dé;rx kē;hd nà;sn	100
 分工协作机制	fēn;bd gōng;aa xié;ub zuò;rv jī;aj zhì;nd	100
@@ -122438,8 +122439,6 @@ sort: by_weight
 钙质微晶灰岩	gài;jg zhì;ib wēi;rj jīng;oo huī;uh yán;uu	100
 改宗伊斯兰教	gǎi;jw zōng;bu yī;ry sī;ct lán;bs jiào;lw	100
 肝癌高危人群	gān;og ái;bu gāo;wk wēi;dv rén;pn qún;yy	100
-甘安合剂肺科	gān;ca ān;bn hé;rk jì;qd fèi;oj kē;hd	100
-甘安合剂附一	gān;ca ān;bn hé;rk jì;qd fù;ec yī;aa	100
 甘氨酸茶碱钠	gān;ca ān;qn suān;yw chá;cm jiǎn;uk nà;jn	100
 甘氨酸冲洗液	gān;ca ān;qn suān;yw chōng;dv xǐ;de yè;dw	100
 甘氨酸类糖苷	gān;ca ān;qn suān;yw lèi;md táng;mk gān;cg	100
@@ -122749,10 +122748,8 @@ sort: by_weight
 甘油标绘示数	gān;ca yóu;dy biāo;au huì;sy shì;ex,ax shù;mw	100
 甘油二硬脂酸	gān;ca yóu;dy èr;aa yìng;ug zhī;oo suān;yw	100
 甘油果糖软袋	gān;ca yóu;dy guǒ;ta táng;mk ruǎn;iq dài;ry	100
-甘油合剂附一	gān;ca yóu;dy hé;rk jì;qd fù;ec yī;aa	100
 甘油醛磷酸盐	gān;ca yóu;dy quán;yw lín;uf suān;yw yán;tm	100
 甘油醛磷酸酯	gān;ca yóu;dy quán;yw lín;uf suān;yw zhǐ;yo	100
-甘油溶液附一	gān;ca yóu;dy róng;dg yè;dw fù;ec yī;aa	100
 甘油三硝酸酯	gān;ca yóu;dy sān;ae xiāo;uo suān;yw zhǐ;yo	100
 甘油三乙酸酯	gān;ca yóu;dy sān;ae yǐ;vv suān;yw zhǐ;yo	100
 甘油三酯过高	gān;ca yóu;dy sān;ae zhǐ;yo guò;zc gāo;wk	100
@@ -125059,7 +125056,6 @@ sort: by_weight
 古爪哇穿山甲	gǔ;uk zhǎo;in wā;kt chuān;by shān;kl jiǎ;ol,tl	100
 骨折挫伤胶囊	gǔ;go zhé;ft cuò;fr shāng;rl jiāo;of náng;gy	100
 骨折骨再折术	gǔ;go zhé;ft gǔ;go zài;ar zhé;ft shù;ad	100
-骨折后个人史	gǔ;go zhé;ft hòu;ik gè;rl rén;pn shǐ;kn	100
 骨折畸形愈合	gǔ;go zhé;ft jī;tk xíng;kp yù;rx hé;rk	100
 骨折连接不正	gǔ;go zhé;ft lián;zi jiē;fn bú;ab zhèng;av	100
 骨折型股骨柄	gǔ;go zhé;ft xíng;kt gǔ;ou gǔ;go bǐng;an	100
@@ -136028,7 +136024,6 @@ sort: by_weight
 抗美援越战争	kàng;fj měi;yd yuán;fy yuè;tl zhàn;vg zhēng;dy	100
 抗米勒管激素	kàng;fj mǐ;ba lè;cl guǎn;vl jī;dw sù;fx	100
 抗免疫球蛋白	kàng;fj miǎn;de yì;bu qiú;wq dàn;zi bái;po	100
-抗敏灵散人民	kàng;fj mǐn;pw líng;eh sǎn;cw rén;pn mín;vv	100
 康乃狄克大学	kāng;gl nǎi;pv,vp dí;qh kè;ux,ge dà;ar xué;xz	100
 康乃狄克州人	kāng;gl nǎi;pv,vp dí;qh kè;ux,ge zhōu;dl rén;pn	100
 康尼查罗反应	kāng;gl ní;ub chá;ad luó;sx fǎn;iy yìng;ga	100
@@ -137711,7 +137706,6 @@ sort: by_weight
 类小行星天体	lèi;md xiǎo;lb xíng;rd xīng;ou tiān;ad tǐ;rb	100
 类型特征之比	lèi;md xíng;kt tè;nc zhēng;rv zhī;dn bǐ;bb	100
 类亚类错牙合	lèi;md yà;ay lèi;md cuò;jo yá;gp,ac hé;rk	100
-雷杨酊一七五	léi;yt yáng;ap dīng;yd yī;aa qī;av wǔ;aw	100
 雷耶氏综合征	léi;yt yé;ee shì;pv zōng;su hé;rk zhēng;rv	100
 耒宜高速公路	lěi;fa yí;bq gāo;wk sù;zu gōng;bs lù;zk	100
 类银河恶魔城	lèi;md yín;jg hé;dk è;yx mó;gg chéng;ti	100
@@ -138814,8 +138808,6 @@ sort: by_weight
 淋巴胸管损伤	lín;da bā;sl xiōng;ox guǎn;vl sǔn;fb shāng;rl	100
 淋巴样白血病	lín;da bā;sl yàng;ay bái;po xuè;pm bìng;bn	100
 邻苯二甲基酐	lín;re běn;cb èr;aa jiǎ;ol,tl jī;ct gān;yg	100
-邻苯二甲醛度	lín;re běn;cb èr;aa jiǎ;ol,tl quán;yw dù;gy	100
-邻苯二甲酸二	lín;re běn;cb èr;aa jiǎ;ol,tl suān;yw èr;aa	100
 邻苯二甲酸酐	lín;re běn;cb èr;aa jiǎ;ol,tl suān;yw gān;yg	100
 邻苯二钾酸酐	lín;re běn;cb èr;aa jiǎ;jj suān;yw gān;yg	100
 邻苯二甲酸铜	lín;re běn;cb èr;aa jiǎ;ol,tl suān;yw tóng;jk	100
@@ -139485,7 +139477,6 @@ sort: by_weight
 硫酸阿奇霉素	liú;ui suān;yw ā;ek qí;dk méi;ym sù;fx	100
 硫酸阿司米星	liú;ui suān;yw ā;ek sī;vk mǐ;ba xīng;ou	100
 硫酸阿糖霉素	liú;ui suān;yw ā;ek táng;mk méi;ym sù;fx	100
-硫酸阿托品毒	liú;ui suān;yw ā;ek tuō;fq pǐn;kk dú;fm	100
 硫酸阿托品片	liú;ui suān;yw ā;ek tuō;fq pǐn;kk piàn;pv	100
 硫酸奥西那林	liú;ui suān;yw ào;pd xī;ak,wk nà;ve lín;aa	100
 硫酸巴龙霉素	liú;ui suān;yw bā;sl lóng;yp méi;ym sù;fx	100
@@ -143328,7 +143319,6 @@ sort: by_weight
 尿毒灵灌肠液	niào;uu dú;fm líng;eh guàn;dv cháng;op yè;dw	100
 尿毒症性脑病	niào;uu dú;fm zhèng;bv xìng;xu nǎo;ox bìng;bn	100
 尿苷成套试剂	niào;uu gān;cg chéng;gv tào;dg shì;yg jì;qd	100
-尿感合剂人民	niào;uu gǎn;gx hé;rk jì;qd rén;pn mín;vv	100
 鸟苷环磷酸钠	niǎo;na gān;cg huán;wb lín;uf suān;yw nà;jn	100
 尿苷磷酸钠盐	niào;uu gān;cg lín;uf suān;yw nà;jn yán;tm	100
 鸟苷磷酸钠盐	niǎo;na gān;cg lín;uf suān;yw nà;jn yán;tm	100
@@ -144874,6 +144864,7 @@ sort: by_weight
 七彩云南翡翠	qī;av cǎi;vp yún;ag,es nán;ug fěi;fx cuì;xu	100
 芪参补气胶囊	qí;cu cān;sp bǔ;pb qì;pv jiāo;of náng;gy	100
 杞参补肾颗粒	qǐ;aj cān;sp bǔ;pb shèn;lo kē;gy lì;ml	100
+芪参健心颗粒	qí;cu cān;sp jiàn;ry xīn;dd kē;gy lì;ml	100
 芪参通络胶囊	qí;cu cān;sp tōng;zy luò;sk jiāo;of náng;gy	100
 汽车博览公园	qì;dq chē;au bó;uc lǎn;lj gōng;bs yuán;wy	100
 汽车博览中心	qì;dq chē;au bó;uc lǎn;lj zhōng;kl xīn;dd	100
@@ -145926,7 +145917,6 @@ sort: by_weight
 羟甲基淀粉钠	qiǎng;yj jiǎ;ol,tl jī;ct diàn;dz fěn;mf nà;jn	100
 羟甲基泛粉钠	qiǎng;yj jiǎ;ol,tl jī;ct fàn;df fěn;mf nà;jn	100
 羟甲基磺酸钠	qiǎng;yj jiǎ;ol,tl jī;ct huáng;ub suān;yw nà;jn	100
-羟甲基糠醛度	qiǎng;yj jiǎ;ol,tl jī;ct kāng;ml quán;yw dù;gy	100
 羟甲基纤维素	qiǎng;yj jiǎ;ol,tl jī;ct xiān;sq wéi;sv sù;fx	100
 羟甲基烟酰胺	qiǎng;yj jiǎ;ol,tl jī;ct yān;hy xiān;ye àn;on	100
 羟甲氯四环素	qiǎng;yj jiǎ;ol,tl lǜ;qu sì;we huán;wb sù;fx	100
@@ -149555,7 +149545,6 @@ sort: by_weight
 陕蒙高速公路	shǎn;ej méng;cu gāo;wk sù;zu gōng;bs lù;zk	100
 山柰酚山柰素	shān;kl nài;au fēn;yf shān;kl nài;au sù;fx	100
 陕南秦巴山区	shǎn;ej nán;ug qín;ih bā;sl shān;kl qū;kx	100
-山南西道节度	shān;kl nán;ug xī;ak,wk dào;zz jié;ce dù;gy	100
 山平高速公路	shān;kl píng;au gāo;wk sù;zu gōng;bs lù;zk	100
 山葡健脾颗粒	shān;kl pú;cf jiàn;ry pí;ou kē;gy lì;ml	100
 山普拉古墓群	shān;kl pǔ;bo lā;fl gǔ;uk mù;ct qún;yy	100
@@ -150341,7 +150330,6 @@ sort: by_weight
 社区支部书记	shè;pt qū;kx zhī;uy bù;le shū;vd jì;yj	100
 舌全部切除术	shé;qk quán;rw bù;le qiē;qd chú;em shù;ad	100
 佘山天主教堂	shé;ru shān;kl tiān;ad zhǔ;wt jiào;lw táng;xt	100
-蛇伤胶囊人民	shé;ib shāng;rl jiāo;of náng;gy rén;pn mín;vv	100
 佘诗曼的演技	shé;ru shī;yc màn;oy de;bu yǎn;db jì;fv	100
 设视频分会场	shè;yu shì;pj pín;vy fēn;bd huì;ry chǎng;tp	100
 射手座的女人	shè;uc shǒu;pf zuò;gr de;bu nǚ;va rén;pn	100
@@ -151033,7 +151021,6 @@ sort: by_weight
 声电子相互酌	shēng;tu diàn;ov,yv zǐ;la xiāng;ao hù;ah zhuó;yu	100
 声东击西之计	shēng;tu dōng;ax jī;fk xī;ak,wk zhī;dn jì;yu	100
 生而不可与死	shēng;pf ér;al bù;ab kě;dk yǔ;va sǐ;db	100
-生发灵一七五	shēng;pf fà;fy líng;eh yī;aa qī;av wǔ;aw	100
 省发展改革委	shěng;uo fā;fy zhǎn;uy gǎi;jw gé;cu wěi;hn	100
 生附四君子汤	shēng;pf fù;ec sì;we jūn;yk zǐ;la tāng;dp	100
 省港旗兵系列	shěng;uo gǎng;ds qí;fb bīng;qb xì;px liè;dd	100
@@ -152024,8 +152011,7 @@ sort: by_weight
 时间最优控制	shí;to jiān;mo zuì;oy yōu;ry kòng;fg zhì;nd	100
 视交叉综合征	shì;pj jiāo;wf chā;yd zōng;su hé;rk zhēng;rv	100
 是叫地上太平	shì;oz jiào;kj dì;ty shàng;ba tài;dd píng;au	100
-施胶度滑脱度	shī;fy jiāo;of dù;gy huá;do tuō;ox dù;gy	100
-施胶度墨水漂	shī;fy jiāo;of dù;gy mò;lt shuǐ;ln piāo;du	120
+施胶度墨水漂	shī;fy jiāo;of dù;gy mò;lt shuǐ;ln piāo;du	100
 市郊旅客列车	shì;wj jiāo;we lǚ;fy kè;bk liè;dd chē;au	100
 时矫首而遐观	shí;to jiǎo;ul shǒu;bz ér;al xiá;zy guān;yj	100
 市交巡警支队	shì;wj jiāo;wf xún;zv jǐng;ck zhī;uy duì;er	100
@@ -154110,7 +154096,6 @@ sort: by_weight
 水果和蔬菜中	shuǐ;ln guǒ;ta hé;hk shū;ci cài;ca zhōng;kl	100
 水合二氧化碳	shuǐ;ln hé;rk èr;aa yǎng;qy huà;rb tàn;uh	100
 水和二氧化碳	shuǐ;ln hé;hk èr;aa yǎng;qy huà;rb tàn;uh	100
-水合氯醛附一	shuǐ;ln hé;rk lǜ;qu quán;yw fù;ec yī;aa	100
 水合氯醛合剂	shuǐ;ln hé;rk lǜ;qu quán;yw hé;rk jì;qd	100
 水合氯醛溶液	shuǐ;ln hé;rk lǜ;qu quán;yw róng;dg yè;dw	100
 水合氢氧化铝	shuǐ;ln hé;rk qīng;qj yǎng;qy huà;rb lǚ;jk	100
@@ -155813,8 +155798,6 @@ sort: by_weight
 碳酸氯乙叉酯	tàn;uh suān;yw lǜ;qu yǐ;vv chā;yd zhǐ;yo	100
 碳酸氯乙烯酯	tàn;uh suān;yw lǜ;qu yǐ;vv xī;hj zhǐ;yo	100
 碳酸氢根离子	tàn;uh suān;yw qīng;qj gēn;ag lí;wn zǐ;la	100
-碳酸氢钠附一	tàn;uh suān;yw qīng;qj nà;jn fù;ec yī;aa	100
-碳酸氢钠机关	tàn;uh suān;yw qīng;qj nà;jn jī;aj guān;bt	100
 碳酸氢钠溶液	tàn;uh suān;yw qīng;qj nà;jn róng;dg yè;dw	100
 碳酸亚乙叉酯	tàn;uh suān;yw yà;ay yǐ;vv chā;yd zhǐ;yo	100
 碳酸亚乙烯酯	tàn;uh suān;yw yà;ay yǐ;vv xī;hj zhǐ;yo	100
@@ -156435,7 +156418,6 @@ sort: by_weight
 天宁万寿禅寺	tiān;ad níng;bd wàn;av shòu;fc chán;pu sì;tc	100
 天疱疮样反应	tiān;ad pào;bb chuāng;bv yàng;ay fǎn;iy yìng;ga	100
 甜品店的店员	tián;ug pǐn;kk diàn;gv de;bu diàn;gv yuán;kb	100
-天平军节度使	tiān;ad píng;au jūn;bi jié;ce dù;gy shǐ;rl	100
 天气变化无常	tiān;ad qì;pv biàn;wy huà;rb wú;ay cháng;xj	100
 天气变幻莫测	tiān;ad qì;pv biàn;wy huàn;yv mò;cd cè;dd	100
 天杞补肾胶囊	tiān;ad qǐ;aj bǔ;pb shèn;lo jiāo;of náng;gy	100
@@ -157977,7 +157959,7 @@ sort: by_weight
 网红经纪公司	wǎng;kx hóng;sg jīng;sj jì;sj gōng;bs sī;vk	100
 网红雪花丁香	wǎng;kx hóng;sg xuě;ye huā;cb dīng;al xiāng;ho	100
 往后的日子里	wǎng;rv hòu;ik de;bu rì;wa zi;la lǐ;tt	100
-王回回狗皮膏	wáng;at huí;wk huí;wk gǒu;qj pí;py gāo;wo	100
+王回回狗皮膏	wáng;at huí;wk hui;wk gǒu;qj pí;py gāo;wo	100
 忘记该忘记的	wàng;wx jì;yj gāi;yr wàng;wx jì;yj de;bu	100
 望基湖停车场	wàng;ww jī;ct hú;do tíng;rd chē;au chǎng;tp	100
 网际网路文法	wǎng;kx jì;eu wǎng;kx lù;zk wén;wx fǎ;dq	100
@@ -164484,7 +164466,6 @@ sort: by_weight
 牙用不锈钢丝	yá;gp,ac yòng;kf,ol bú;ab xiù;jn gāng;jx sī;sa	100
 牙用不锈钢线	yá;gp,ac yòng;kf,ol bú;ab xiù;jn gāng;jx xiàn;sj	100
 鸦有反哺之义	yā;yn yǒu;uo fǎn;iy bǔ;kf zhī;dn yì;dx	100
-亚油酸甲酯度	yà;ay yóu;dy suān;yw jiǎ;ol,tl zhǐ;yo dù;gy	100
 亚油酸乙酯钙	yà;ay yóu;dy suān;yw yǐ;vv zhǐ;yo gài;jg	100
 牙源性黏液瘤	yá;gp,ac yuán;dx xìng;xu nián;hv yè;dw liú;bt	100
 牙源性纤维瘤	yá;gp,ac yuán;dx xìng;xu xiān;sq wéi;sv liú;bt	100
@@ -165019,7 +165000,6 @@ sort: by_weight
 盐酸苯环壬酯	yán;tm suān;yw běn;cb huán;wb rén;pt zhǐ;yo	100
 盐酸苯羟甲胺	yán;tm suān;yw běn;cb qiǎng;yj jiǎ;ol,tl àn;on	100
 盐酸苯乙双胍	yán;tm suān;yw běn;cb yǐ;vv shuāng;yy guā;og	100
-盐酸吡哆胺度	yán;tm suān;yw bǐ;kb duō;kx àn;on dù;gy	100
 盐酸吡格列酮	yán;tm suān;yw bǐ;kb gé;ak liè;dd tóng;yk	100
 盐酸吡硫醇片	yán;tm suān;yw bǐ;kb liú;ui chún;yz piàn;pv	100
 盐酸比哌立登	yán;tm suān;yw bǐ;bb pài;ky lì;wb dēng;bb	100
@@ -165069,9 +165049,7 @@ sort: by_weight
 盐酸地匹福林	yán;tm suān;yw dì;ty pǐ;ke fú;pt lín;aa	100
 盐酸地昔帕明	yán;tm suān;yw dì;ty xī;co pà;jb míng;oo	100
 盐酸丁丙诺啡	yán;tm suān;yw dīng;al bǐng;an nuò;yk fēi;kf	100
-盐酸丁丙诺非	yán;tm suān;yw dīng;al bǐng;an nuò;yk fēi;ls	100
 盐酸丁咯地尔	yán;tm suān;yw dīng;al gē;kk dì;ty ěr;dx	1006
-盐酸丁卡因胶	yán;tm suān;yw dīng;al kǎ;ub yīn;wd jiāo;of	100
 盐酸丁卡因片	yán;tm suān;yw dīng;al kǎ;ub yīn;wd piàn;pv	100
 盐酸丁螺环酮	yán;tm suān;yw dīng;al luó;ix huán;wb tóng;yk	100
 盐酸丁氯喘片	yán;tm suān;yw dīng;al lǜ;qu chuǎn;ke piàn;pv	100
@@ -165079,7 +165057,6 @@ sort: by_weight
 盐酸度洛西汀	yán;tm suān;yw dù;gy luò;dk xī;ak,wk tīng;dd	100
 盐酸多奈哌齐	yán;tm suān;yw duō;xx nài;du pài;ky qí;wl	100
 盐酸多匹可明	yán;tm suān;yw duō;xx pǐ;ke kě;dk míng;oo	100
-盐酸多柔吡星	yán;tm suān;yw duō;xx róu;ma bǐ;kb xīng;ou	100
 盐酸多柔比星	yán;tm suān;yw duō;xx róu;ma bǐ;bb xīng;ou	100
 盐酸多塞平片	yán;tm suān;yw duō;xx sāi;bt píng;au piàn;pv	100
 盐酸多沙普仑	yán;tm suān;yw duō;xx shā;du pǔ;bo lún;rb	100
@@ -165992,7 +165969,6 @@ sort: by_weight
 液体接界电池	yè;dw tǐ;rb jiē;fn jiè;tj diàn;ov,yv chí;dy	100
 液体接界电势	yè;dw tǐ;rb jiē;fn jiè;tj diàn;ov,yv shì;fl	100
 液体热交换器	yè;dw tǐ;rb rè;fh jiāo;wf huàn;fr qì;kk	100
-液体石蜡附一	yè;dw tǐ;rb shí;ak là;io fù;ec yī;aa	100
 液体阻力系数	yè;dw tǐ;rb zǔ;eq lì;vp xì;px shù;mw	120
 叶天士温热论	yè;ku tiān;ad shì;ua wēn;dm rè;fh lùn;yl	100
 野外火源管控	yě;ly wài;xb huǒ;br,rb yuán;dx guǎn;vl kòng;fg	100
@@ -167035,7 +167011,6 @@ sort: by_weight
 以色列放线菌	yǐ;lr sè;db liè;dd fàng;fw xiàn;sj jūn;ch	100
 异色性虹膜炎	yì;sc sè;db xìng;xu hóng;ig mó;od yán;hh	100
 异色性皮肌炎	yì;sc sè;db xìng;xu pí;py jī;oj yán;hh	100
-依沙吖啶附一	yī;ry shā;du ā;ky dìng;kz fù;ec yī;aa	100
 依沙吖啶凝胶	yī;ry shā;du ā;ky dìng;kz níng;dz jiāo;of	100
 依沙吖啶溶液	yī;ry shā;du ā;ky dìng;kz róng;dg yè;dw	100
 依沙吖啶软膏	yī;ry shā;du ā;ky dìng;kz ruǎn;iq gāo;wo	100
@@ -168067,7 +168042,6 @@ sort: by_weight
 银屑病关节炎	yín;jg xiè;uo bìng;bn guān;bt jié;ce yán;hh	100
 银屑病性肾炎	yín;jg xiè;uo bìng;bn xìng;xu shèn;lo yán;hh	100
 银屑病样尿布	yín;jg xiè;uo bìng;bn yàng;ay niào;uu bù;uj	100
-银锌霜一七五	yín;jg xīn;jx shuāng;yo yī;aa qī;av wǔ;aw	100
 隐性变数理论	yǐn;ex xìng;xu biàn;wy shù;mw lǐ;wl lùn;yl	100
 银杏色的初恋	yín;jg xìng;ak sè;db de;bu chū;pd liàn;wx	100
 银杏酮酯滴丸	yín;jg xìng;ak tóng;yk zhǐ;yo dī;dg wán;jd	100
@@ -170896,7 +170870,6 @@ sort: by_weight
 樟叶木防己碱	zhāng;au yè;ku mù;ur fáng;ef jǐ;kv jiǎn;uk	100
 樟宜国际机场	zhāng;au yí;bq guó;wy jì;eu jī;aj chǎng;tp	100
 樟宜海军基地	zhāng;au yí;bq hǎi;dm jūn;bi jī;ct dì;ty	100
-彰义军节度使	zhāng;lp yì;dx jūn;bi jié;ce dù;gy shǐ;rl	100
 樟宜空军基地	zhāng;au yí;bq kōng;bg jūn;bi jī;ct dì;ty	100
 张艺谋的电影	zhāng;gi yì;cv móu;ya de;bu diàn;ov,yv yǐng;op	100
 张艺谋的妻子	zhāng;gi yì;cv móu;ya de;bu qī;un zǐ;la	100
@@ -172121,8 +172094,6 @@ sort: by_weight
 痔康舒口服液	zhì;bc kāng;gl shū;ry kǒu;la fú;oy yè;dw	100
 治咳川贝枇杷	zhì;dk ké;kr chuān;pl bèi;kr pí;ab pá;ab	100
 止咳喘热参片	zhǐ;bl,lu ké;kr chuǎn;ke rè;fh cān;sp piàn;pv	100
-止咳合剂人民	zhǐ;bl,lu ké;kr hé;rk jì;qd rén;pn mín;vv	100
-止咳合剂协和	zhǐ;bl,lu ké;kr hé;rk jì;qd xié;ub hé;hk	100
 止咳桔红颗粒	zhǐ;bl,lu ké;kr jú;ak hóng;sg kē;gy lì;ml	100
 止咳橘红颗粒	zhǐ;bl,lu ké;kr jú;ak hóng;sg kē;gy lì;ml	100
 止咳灵口服液	zhǐ;bl,lu ké;kr líng;eh kǒu;la fú;oy yè;dw	100
@@ -175022,7 +174993,6 @@ sort: by_weight
 总侵蚀基准面	zǒng;bx qīn;ry shí;ui jī;ct zhǔn;dv miàn;ao	100
 纵情山河万里	zòng;sr qíng;xo shān;kl hé;dk wàn;av lǐ;tt	100
 纵然相思入骨	zòng;sr rán;xh xiāng;ao sī;tx rù;pn gǔ;go	100
-棕色合剂人民	zōng;au sè;db hé;rk jì;qd rén;pn mín;vv	100
 总是不厌其烦	zǒng;bx shì;oz bú;ab yàn;iq qí;cb fán;hy	100
 总是反反复复	zǒng;bx shì;oz fǎn;iy fǎn;iy fù;pw fù;pw	100
 总是后知后觉	zǒng;bx shì;oz hòu;ik zhī;uk hòu;ik jué;xj	100
@@ -176677,7 +176647,6 @@ sort: by_weight
 八月十五看龙灯	bā;pn yuè;ke shí;al wǔ;aw kàn;uo lóng;yp dēng;hd	100
 八月十五夜玩月	bā;pn yuè;ke shí;al wǔ;aw yè;ww wán;wy yuè;ke	100
 坝镇国土资源所	bà;tb zhèn;jb guó;wy tǔ;ua zī;db yuán;dx suǒ;ht	100
-八珍合剂一七五	bā;pn zhēn;wp hé;rk jì;qd yī;aa qī;av wǔ;aw	100
 八珍颗粒无糖型	bā;pn zhēn;wp kē;gy lì;ml wú;ay táng;mk xíng;kt	100
 八正颗粒无糖型	bā;pn zhèng;av kē;gy lì;ml wú;ay táng;mk xíng;kt	100
 八正木通与车前	bā;pn zhèng;av mù;ur tōng;zy yǔ;va chē;au qián;bd	100
@@ -177602,12 +177571,6 @@ sort: by_weight
 苯二氮平类药物	běn;cb èr;aa dàn;qh píng;au lèi;md yào;cu wù;nw	100
 苯二氮卓类药物	běn;cb èr;aa dàn;qh zhuó;bu lèi;md yào;cu wù;nw	100
 苯二甲酸二丁酯	běn;cb èr;aa jiǎ;ol,tl suān;yw èr;aa dīng;al zhǐ;yo	100
-苯酚滴耳液省二	běn;cb fēn;yf dī;dg ěr;ol yè;dw shěng;uo èr;aa	100
-苯酚滴耳液市一	běn;cb fēn;yf dī;dg ěr;ol yè;dw shì;wj yī;aa	100
-苯酚滴耳液协和	běn;cb fēn;yf dī;dg ěr;ol yè;dw xié;ub hé;hk	100
-苯酚甘油一七五	běn;cb fēn;yf gān;ca yóu;dy yī;aa qī;av wǔ;aw	100
-苯酚溶液一七五	běn;cb fēn;yf róng;dg yè;dw yī;aa qī;av wǔ;aw	100
-苯酚消毒液协和	běn;cb fēn;yf xiāo;do dú;fm yè;dw xié;ub hé;hk	100
 本福德号驱逐舰	běn;aa fú;pt dé;rx hào;kk qū;mq zhú;zu jiàn;vj	100
 苯海拉明注射液	běn;cb hǎi;dm lā;fl míng;oo zhù;dv shè;uc yè;dw	100
 苯磺酸阿曲库铵	běn;cb huáng;ub suān;yw ā;ek qǔ;wc,ck kù;gi ǎn;jn	100
@@ -178570,7 +178533,6 @@ sort: by_weight
 不顾别人的感受	bú;ab gù;iy bié;kd rén;pn de;bu gǎn;gx shòu;vy	100
 不顾难以图后兮	bú;ab gù;iy nán;yv yǐ;lr tú;wd hòu;ik xī;bk	100
 不顾世俗的眼光	bú;ab gù;iy shì;cv sú;rg de;bu yǎn;og guāng;xe	100
-补骨酯酊一七五	bǔ;pb gǔ;go zhǐ;yo dīng;yd yī;aa qī;av wǔ;aw	100
 不顾自己的安危	bú;ab gù;iy zì;po jǐ;kv de;bu ān;bn wēi;dv	100
 不顾自己的身体	bú;ab gù;iy zì;po jǐ;kv de;bu shēn;zc tǐ;rb	100
 不顾自己的生命	bú;ab gù;iy zì;po jǐ;kv de;bu shēng;pf mìng;re	100
@@ -178885,7 +178847,6 @@ sort: by_weight
 补肾安神口服液	bǔ;pb shèn;lo ān;bn shén;pu kǒu;la fú;oy yè;dw	100
 补肾斑龙片糖衣	bǔ;pb shèn;lo bān;ww lóng;yp piàn;pv táng;mk yī;wy	100
 补肾健脾口服液	bǔ;pb shèn;lo jiàn;ry pí;ou kǒu;la fú;oy yè;dw	100
-补肾祛毒丸省二	bǔ;pb shèn;lo qū;pq dú;fm wán;jd shěng;uo èr;aa	100
 补肾润肺口服液	bǔ;pb shèn;lo rùn;dw fèi;oj kǒu;la fú;oy yè;dw	100
 补肾填精口服液	bǔ;pb shèn;lo tián;tb jīng;mo kǒu;la fú;oy yè;dw	100
 补肾养血口服液	bǔ;pb shèn;lo yǎng;yl xuè;pm kǒu;la fú;oy yè;dw	100
@@ -180612,7 +180573,6 @@ sort: by_weight
 船上管弦江面渌	chuán;vk shàng;ba guǎn;vl xián;gx jiāng;dg miàn;ao lù;du	100
 穿上漂亮的衣服	chuān;by shàng;ba piào;du liang;wj de;bu yī;wy fu;oy	100
 穿什么样的衣服	chuān;by shén;ru me;ps yàng;ay de;bu yī;wy fu;oy	100
-喘舒口服液肺科	chuǎn;ke shū;ry kǒu;la fú;oy yè;dw fèi;oj kē;hd	100
 传说在很早以前	chuán;rv shuō;yx zài;ut hěn;rg zǎo;ou yǐ;lr qián;bd	100
 传说中的女网警	chuán;rv shuō;yx zhōng;kl de;bu nǚ;va wǎng;kx jǐng;ck	100
 川苏救心喷雾剂	chuān;pl sū;cb jiù;qw xīn;dd pēn;kb wù;yl jì;qd	100
@@ -181135,7 +181095,6 @@ sort: by_weight
 醋酸氯己定贴膏	cù;yo suān;yw lǜ;qu jǐ;kv dìng;bz tiē;bv gāo;wo	100
 醋酸氯己定涂膜	cù;yo suān;yw lǜ;qu jǐ;kv dìng;bz tú;dm mó;od	100
 醋酸氯已定贴膏	cù;yo suān;yw lǜ;qu yǐ;kv dìng;bz tiē;bv gāo;wo	100
-醋酸氯已定协和	cù;yo suān;yw lǜ;qu yǐ;kv dìng;bz xié;ub hé;hk	100
 醋酸泼尼松龙片	cù;yo suān;yw pō;dy ní;ub sōng;ag lóng;yp piàn;pv	100
 醋酸泼尼松乳膏	cù;yo suān;yw pō;dy ní;ub sōng;ag rǔ;vv gāo;wo	100
 醋酸泼尼松眼膏	cù;yo suān;yw pō;dy ní;ub sōng;ag yǎn;og gāo;wo	100
@@ -182474,7 +182433,6 @@ sort: by_weight
 帝冢山四丁目站	dì;wj zhǒng;bu shān;kl sì;we dīng;al mù;we zhàn;lv	100
 地主家的傻儿子	dì;ty zhǔ;wt jiā;bu de;bu shǎ;rw ér;pv zi;la	100
 点背不能怨社会	diǎn;vh bèi;bo bù;ab néng;sb yuàn;xx shè;pt huì;ry	100
-碘苯酚涂剂协和	diǎn;ub běn;cb fēn;yf tú;dm jì;qd xié;ub hé;hk	100
 碘吡啶酮乙酸钠	diǎn;ub bǐ;kb dìng;kz tóng;yk yǐ;vv suān;yw nà;jn	100
 电波女与青春男	diàn;ov,yv bō;dp nǚ;va yǔ;va qīng;fo chūn;io nán;tl	100
 电场的叠加原理	diàn;ov,yv chǎng;tp de;bu dié;yq jiā;lk yuán;ix lǐ;wl	100
@@ -182529,11 +182487,8 @@ sort: by_weight
 淀粉转葡糖苷酶	diàn;dz fěn;mf zhuǎn;iv pú;cf táng;mk gān;cg méi;ym	100
 淀粉转葡糖基酶	diàn;dz fěn;mf zhuǎn;iv pú;cf táng;mk jī;ct méi;ym	100
 颠覆国家政权罪	diān;uy fù;xw guó;wy jiā;bu zhèng;vw quán;ay zuì;sf	100
-碘伏溶液一七五	diǎn;ub fú;rq róng;dg yè;dw yī;aa qī;av wǔ;aw	100
 电感式接近开关	diàn;ov,yv gǎn;gx shì;gg jiē;fn jìn;zt kāi;ac guān;bt	100
 碘甘油龙岩市二	diǎn;ub gān;ca yóu;dy lóng;yp yán;uu shì;wj èr;aa	100
-碘甘油龙岩市一	diǎn;ub gān;ca yóu;dy lóng;yp yán;uu shì;wj yī;aa	100
-碘甘油南平市一	diǎn;ub gān;ca yóu;dy nán;ug píng;au shì;wj yī;aa	100
 碘甘油厦门市二	diǎn;ub gān;ca yóu;dy xià;iw mén;dv shì;wj èr;aa	100
 电光超人古立特	diàn;ov,yv guāng;xe chāo;tk rén;pn gǔ;uk lì;wb tè;nc	100
 电光源混合气体	diàn;ov,yv guāng;xe yuán;dx hùn;db hé;rk qì;pv tǐ;rb	100
@@ -182545,8 +182500,6 @@ sort: by_weight
 碘化二苯基碘𬭩	diǎn;ub huà;rb èr;aa běn;cb jī;ct diǎn;ub wēng;jx	100
 电话或电子邮件	diàn;ov,yv huà;yu huò;ga diàn;ov,yv zǐ;la yóu;ye jiàn;rn	100
 碘化钾淀粉试纸	diǎn;ub huà;rb jiǎ;jj diàn;dz fěn;mf shì;yg zhǐ;su	100
-碘化钾溶液市一	diǎn;ub huà;rb jiǎ;jj róng;dg yè;dw shì;wj yī;aa	100
-碘化钾溶液协和	diǎn;ub huà;rb jiǎ;jj róng;dg yè;dw xié;ub hé;hk	100
 电化学反射光谱	diàn;ov,yv huà;rb xué;xz fǎn;iy shè;uc guāng;xe pǔ;yo	100
 电极过程动力学	diàn;ov,yv jí;aj guò;zc chéng;hw dòng;yl lì;vp xué;xz	100
 点击可查看大图	diǎn;vh jī;fk kě;dk chá;ad kàn;uo dà;ar tú;wd	100
@@ -183859,7 +183812,6 @@ sort: by_weight
 儿童之家幼儿园	ér;pv tóng;ll zhī;dn jiā;bu yòu;yl ér;pv yuán;wy	100
 二万五千里长征	èr;aa wàn;av wǔ;aw qiān;pu lǐ;tt cháng;pn zhēng;rv	100
 二王八司马事件	èr;aa wáng;at bā;pn sī;vk mǎ;va shì;gy jiàn;rn	100
-二味拔毒散省二	èr;aa wèi;kw bá;fy dú;fm sàn;cw shěng;uo èr;aa	100
 二维超声心动图	èr;aa wéi;sv chāo;tk shēng;tu xīn;dd dòng;yl tú;wd	100
 二维傅立叶变换	èr;aa wéi;sv fù;rc lì;wb yè;ku biàn;wy huàn;fr	100
 二维呋喃唑酮片	èr;aa wéi;sv fū;kf nán;kg zuò;kr tóng;yk piàn;pv	100
@@ -184667,7 +184619,6 @@ sort: by_weight
 肺弥散功能降低	fèi;oj mí;gx sàn;cw gōng;gl néng;sb jiàng;ef dī;ru	100
 非免疫规划疫苗	fēi;ls miǎn;de yì;bu guī;fj huà;gd yì;bu miáo;ct	100
 非灭菌普通棉签	fēi;ls miè;ah jūn;ch pǔ;bo tōng;zy mián;aj qiān;vq	100
-非那根糖浆人民	fēi;ls nà;ve gēn;ag táng;mk jiāng;lu rén;pn mín;vv	100
 非那根止咳糖浆	fēi;ls nà;ve gēn;ag zhǐ;bl,lu ké;kr táng;mk jiāng;lu	100
 非那雄胺分散片	fēi;ls nà;ve xióng;uv àn;on fēn;bd sǎn;cw piàn;pv	100
 肺囊性纤维化病	fèi;oj náng;gy xìng;xu xiān;sq wéi;sv huà;rb bìng;bn	100
@@ -184832,7 +184783,6 @@ sort: by_weight
 非洲木薯花叶病	fēi;ls zhōu;dv mù;ur shǔ;co huā;cb yè;ku bìng;bn	100
 非洲人类锥虫病	fēi;ls zhōu;dv rén;pn lèi;md zhuī;jv chóng;vd bìng;bn	100
 非洲猪瘟病毒目	fēi;ls zhōu;dv zhū;qo wēn;bm bìng;bn dú;fm mù;we	100
-痱子粉南平市皮	fèi;bf zǐ;la fěn;mf nán;ug píng;au shì;wj pí;py	100
 非自民连立政权	fēi;ls zì;po mín;vv lián;zi lì;wb zhèng;vw quán;ay	100
 非子天机清妙者	fēi;ls zǐ;la tiān;ad jī;aj qīng;do miào;nu zhě;lo	100
 非宗派化基督教	fēi;ls zōng;bu pài;dy huà;rb jī;ct dū;uo jiào;lw	100
@@ -185332,17 +185282,12 @@ sort: by_weight
 复方贝母氯化铵	fù;pw fāng;wv bèi;kr mǔ;md lǜ;qu huà;rb ǎn;jn	100
 复方北五味子片	fù;pw fāng;wv běi;lb wǔ;aw wèi;kw zǐ;la piàn;pv	100
 复方苯甲酸搽剂	fù;pw fāng;wv běn;cb jiǎ;ol,tl suān;yw chá;fm jì;qd	100
-复方苯甲酸附一	fù;pw fāng;wv běn;cb jiǎ;ol,tl suān;yw fù;ec yī;aa	100
 复方苯甲酸软膏	fù;pw fāng;wv běn;cb jiǎ;ol,tl suān;yw ruǎn;iq gāo;wo	100
 复方苯甲酸涂剂	fù;pw fāng;wv běn;cb jiǎ;ol,tl suān;yw tú;dm jì;qd	100
 复方苯硝那敏片	fù;pw fāng;wv běn;cb xiāo;uo nà;ve mǐn;pw piàn;pv	100
 复方鳖甲软肝片	fù;pw fāng;wv biē;xy jiǎ;ol,tl ruǎn;iq gān;og piàn;pv	100
 复方丙谷胺胶囊	fù;pw fāng;wv bǐng;an gǔ;bk àn;on jiāo;of náng;gy	100
 复方薄荷滴鼻液	fù;pw fāng;wv bò;cc he;ck dī;dg bí;zw yè;dw	100
-复方薄荷脑鼻用	fù;pw fāng;wv bò;cc hé;ck nǎo;ox bí;zw yòng;kf,ol	100
-复方薄荷脑滴鼻	fù;pw fāng;wv bò;cc hé;ck nǎo;ox dī;dg bí;zw	100
-复方薄荷脑附一	fù;pw fāng;wv bò;cc hé;ck nǎo;ox fù;ec yī;aa	100
-复方薄荷脑人民	fù;pw fāng;wv bò;cc hé;ck nǎo;ox rén;pn mín;vv	100
 复方薄荷脑软膏	fù;pw fāng;wv bò;cc hé;ck nǎo;ox ruǎn;iq gāo;wo	100
 复方薄荷油滴鼻	fù;pw fāng;wv bò;cc he;ck yóu;dy dī;dg bí;zw	100
 复方菠萝蛋白酶	fù;pw fāng;wv bō;cp luó;cx dàn;zi bái;po méi;ym	100
@@ -185394,10 +185339,6 @@ sort: by_weight
 复方地塞米松软	fù;pw fāng;wv dì;ty sāi;bt mǐ;ba sōng;ag ruǎn;iq	100
 复方颠茄铋镁片	fù;pw fāng;wv diān;uy qié;ck bì;jb měi;jd piàn;pv	100
 复方颠茄口服液	fù;pw fāng;wv diān;uy qié;ck kǒu;la fú;oy yè;dw	100
-复方碘溶液附一	fù;pw fāng;wv diǎn;ub róng;dg yè;dw fù;ec yī;aa	100
-复方碘溶液人民	fù;pw fāng;wv diǎn;ub róng;dg yè;dw rén;pn mín;vv	100
-复方碘溶液市一	fù;pw fāng;wv diǎn;ub róng;dg yè;dw shì;wj yī;aa	100
-复方碘溶液协和	fù;pw fāng;wv diǎn;ub róng;dg yè;dw xié;ub hé;hk	100
 复方丁香开胃贴	fù;pw fāng;wv dīng;al xiāng;ho kāi;ac wèi;to tiē;bv	100
 复方丁香罗勒油	fù;pw fāng;wv dīng;al xiāng;ho luó;sx lè;cl yóu;dy	100
 复方冬凌草含片	fù;pw fāng;wv dōng;wd líng;dw cǎo;cu hán;rk piàn;pv	100
@@ -185461,7 +185402,6 @@ sort: by_weight
 复方磺胺嘧啶锌	fù;pw fāng;wv huáng;ub àn;on mì;ku dìng;kz xīn;jx	100
 复方磺胺氧化锌	fù;pw fāng;wv huáng;ub àn;on yǎng;qy huà;rb xīn;jx	100
 复方磺胺异恶唑	fù;pw fāng;wv huáng;ub àn;on yì;sc è;yx zuò;kr	100
-复方黄连膏人民	fù;pw fāng;wv huáng;cb lián;zi gāo;wo rén;pn mín;vv	100
 复方黄芪口服液	fù;pw fāng;wv huáng;cb qí;cu kǒu;la fú;oy yè;dw	100
 复方活脑舒胶囊	fù;pw fāng;wv huó;du nǎo;ox shū;ry jiāo;of náng;gy	100
 复方鸡骨草胶囊	fù;pw fāng;wv jī;yn gǔ;go cǎo;cu jiāo;of náng;gy	100
@@ -185531,9 +185471,6 @@ sort: by_weight
 复方硫酸软骨素	fù;pw fāng;wv liú;ui suān;yw ruǎn;iq gǔ;go sù;fx	100
 复方硫酸新霉素	fù;pw fāng;wv liú;ui suān;yw xīn;lt méi;ym sù;fx	100
 复方硫酸亚铁片	fù;pw fāng;wv liú;ui suān;yw yà;ay tiě;jf piàn;pv	100
-复方硫洗剂附一	fù;pw fāng;wv liú;ui xǐ;de jì;qd fù;ec yī;aa	100
-复方硫洗剂省皮	fù;pw fāng;wv liú;ui xǐ;de jì;qd shěng;uo pí;py	100
-复方硫洗剂协和	fù;pw fāng;wv liú;ui xǐ;de jì;qd xié;ub hé;hk	100
 复方柳唑气雾剂	fù;pw fāng;wv liǔ;ae zuò;kr qì;pv wù;yl jì;qd	100
 复方龙脑樟脑油	fù;pw fāng;wv lóng;yp nǎo;ox zhāng;au nǎo;ox yóu;dy	100
 复方炉甘石洗剂	fù;pw fāng;wv lú;hh gān;ca shí;ak xǐ;de jì;qd	100
@@ -185583,7 +185520,6 @@ sort: by_weight
 复方牛磺酸胶囊	fù;pw fāng;wv niú;pu huáng;ub suān;yw jiāo;of náng;gy	100
 复方胚肝铁铵片	fù;pw fāng;wv pēi;op gān;og tiě;jf ǎn;jn piàn;pv	100
 复方硼砂含漱液	fù;pw fāng;wv péng;uo shā;uu hán;rk shù;dq yè;dw	100
-复方硼砂散省立	fù;pw fāng;wv péng;uo shā;uu sàn;cw shěng;uo lì;wb	100
 复方硼砂漱口片	fù;pw fāng;wv péng;uo shā;uu shù;dq kǒu;la piàn;pv	100
 复方枇杷氯化铵	fù;pw fāng;wv pí;ab pá;ab lǜ;qu huà;rb ǎn;jn	100
 复方皮维碘溶液	fù;pw fāng;wv pí;py wéi;sv diǎn;ub róng;dg yè;dw	100
@@ -185699,7 +185635,6 @@ sort: by_weight
 复方锌布颗粒剂	fù;pw fāng;wv xīn;jx bù;uj kē;gy lì;ml jì;qd	100
 复方新霉素软膏	fù;pw fāng;wv xīn;lt méi;ym sù;fx ruǎn;iq gāo;wo	100
 复方新霉素眼药	fù;pw fāng;wv xīn;lt méi;ym sù;fx yǎn;og yào;cu	100
-复方锌硼散协和	fù;pw fāng;wv xīn;jx péng;uo sàn;cw xié;ub hé;hk	100
 复方锌硼散足粉	fù;pw fāng;wv xīn;jx péng;uo sàn;cw zú;kz fěn;mf	100
 复方锌铁钙颗粒	fù;pw fāng;wv xīn;jx tiě;jf gài;jg kē;gy lì;ml	100
 复方杏香兔耳风	fù;pw fāng;wv xìng;ak xiāng;ho tù;dd ěr;ol fēng;jx	100
@@ -185927,7 +185862,6 @@ sort: by_weight
 氟罗沙星注射液	fú;qf luó;sx shā;du xīng;ou zhù;dv shè;uc yè;dw	100
 氟氯烷类化合物	fú;qf lǜ;qu wán;hy lèi;md huà;rb hé;rk wù;nw	100
 氟氯西林钠胶囊	fú;qf lǜ;qu xī;ak,wk lín;aa nà;jn jiāo;of náng;gy	100
-呋麻滴鼻液市一	fū;kf má;ga dī;dg bí;zw yè;dw shì;wj yī;aa	100
 富马酸阿奇霉素	fù;bt mǎ;va suān;yw ā;ek qí;dk méi;ym sù;fx	100
 富马酸比索洛尔	fù;bt mǎ;va suān;yw bǐ;bb suǒ;ux luò;dk ěr;dx	100
 富马酸福莫特罗	fù;bt mǎ;va suān;yw fú;pt mò;cd tè;nc luó;sx	100
@@ -186489,7 +186423,6 @@ sort: by_weight
 甘油古洛庚酮糖	gān;ca yóu;dy gǔ;uk luò;dk gēng;gr tóng;yk táng;mk	100
 甘油果糖塑料瓶	gān;ca yóu;dy guǒ;ta táng;mk sù;nt liào;md píng;bw	100
 甘油果糖注射液	gān;ca yóu;dy guǒ;ta táng;mk zhù;dv shè;uc yè;dw	100
-甘油合剂一七五	gān;ca yóu;dy hé;rk jì;qd yī;aa qī;av wǔ;aw	100
 甘油抗坏血酸钠	gān;ca yóu;dy kàng;fj huài;tb xuè;pm suān;yw nà;jn	100
 甘油磷酸脱氢酶	gān;ca yóu;dy lín;uf suān;yw tuō;ox qīng;qj méi;ym	100
 甘油磷酸氧化酶	gān;ca yóu;dy lín;uf suān;yw yǎng;qy huà;rb méi;ym	100
@@ -187613,9 +187546,6 @@ sort: by_weight
 工信部综合油耗	gōng;aa xìn;rk bù;le zōng;su hé;rk yóu;dy hào;lm	100
 弓形体抗体测定	gōng;vv xíng;kp tǐ;rb kàng;fj tǐ;rb cè;dd dìng;bz	100
 弓形体属心肌炎	gōng;vv xíng;kp tǐ;rb shǔ;uy xīn;dd jī;oj yán;hh	100
-汞溴红溶液市一	gǒng;gu xiù;dq hóng;sg róng;dg yè;dw shì;wj yī;aa	100
-汞溴红溶液协和	gǒng;gu xiù;dq hóng;sg róng;dg yè;dw xié;ub hé;hk	100
-汞溴红药水机关	gǒng;gu xiù;dq hóng;sg yào;cu shuǐ;ln jī;aj guān;bt	100
 供血动脉夹闭术	gōng;rg xuè;pm dòng;yl mài;oy jiā;ar bì;mc shù;ad	100
 功勋国家合唱团	gōng;gl xūn;kl guó;wy jiā;bu hé;rk chàng;ko tuán;wc	100
 供养亲属抚恤金	gōng;rg yǎng;yl qīn;la shǔ;uy fǔ;fw xù;xm jīn;rb	100
@@ -189687,7 +189617,6 @@ sort: by_weight
 假醛固酮减少症	jiǎ;ry quán;yw gù;wg tóng;yk jiǎn;dk shǎo;xp zhèng;bv	100
 甲醛合次硫酸氢	jiǎ;ol,tl quán;yw hé;rk cì;dq liú;ui suān;yw qīng;qj	100
 甲醛空气净化器	jiǎ;ol,tl quán;yw kōng;bg qì;pv jìng;dy huà;rb qì;kk	100
-甲醛溶液一七五	jiǎ;ol,tl quán;yw róng;dg yè;dw yī;aa qī;av wǔ;aw	100
 加权算术平均法	jiā;lk quán;ay suàn;vc shù;ad píng;au jūn;ty fǎ;dq	100
 加权最小二乘法	jiā;lk quán;ay zuì;oy xiǎo;lb èr;aa chéng;qr fǎ;dq	100
 甲炔诺酮埋植剂	jiǎ;ol,tl quē;hg nuò;yk tóng;yk mái;tl zhí;aq jì;qd	100
@@ -189753,7 +189682,6 @@ sort: by_weight
 加味藿香正气丸	jiā;lk wèi;kw huò;cv xiāng;ho zhèng;av qì;pv wán;jd	100
 加味霍香正气丸	jiā;lk wèi;kw huò;yv xiāng;ho zhèng;av qì;pv wán;jd	100
 加味健步虎潜丸	jiā;lk wèi;kw jiàn;ry bù;vu hǔ;hj qián;do wán;jd	100
-加味金黄散省二	jiā;lk wèi;kw jīn;rb huáng;cb sàn;cw shěng;uo èr;aa	100
 加味葵子茯苓散	jiā;lk wèi;kw kuí;ct zǐ;la fú;cq líng;cs sàn;cw	100
 加味六味地黄汤	jiā;lk wèi;kw liù;wb wèi;kw dì;ty huáng;cb tāng;dp	100
 加味散结痤疮丸	jiā;lk wèi;kw sàn;cw jié;sk cuó;br chuāng;bv wán;jd	100
@@ -189790,7 +189718,6 @@ sort: by_weight
 甲溴贝那替嗪片	jiǎ;ol,tl xiù;dq bèi;kr nà;ve tì;fo qín;kh piàn;pv	100
 甲溴贝那替秦片	jiǎ;ol,tl xiù;dq bèi;kr nà;ve tì;fo qín;ih piàn;pv	100
 甲戌乙亥山头火	jiǎ;ol,tl xū;ga yǐ;vv hài;wr shān;kl tóu;dd huǒ;br,rb	100
-甲癣搽剂号市皮	jiǎ;ol,tl xuǎn;by chá;fm jì;qd hào;kk shì;wj pí;py	100
 加压空心钉纯钛	jiā;lk yā;id kōng;bg xīn;dd dīng;jd chún;st tài;jt	100
 甲氧苄胺嘧啶片	jiǎ;ol,tl yǎng;qy biàn;cb àn;on mì;ku dìng;kz piàn;pv	100
 甲氧苄啶注射液	jiǎ;ol,tl yǎng;qy biàn;cb dìng;kz zhù;dv shè;uc yè;dw	100
@@ -189838,7 +189765,6 @@ sort: by_weight
 甲状腺上下动脉	jiǎ;ol,tl zhuàng;lq xiàn;ou shàng;ba xià;ab dòng;yl mài;oy	100
 甲状腺最下动脉	jiǎ;ol,tl zhuàng;lq xiàn;ou zuì;oy xià;ab dòng;yl mài;oy	100
 甲子兰酒文物馆	jiǎ;ol,tl zǐ;la lán;bs jiǔ;dy wén;wx wù;nw guǎn;ul	100
-甲紫溶液一七五	jiǎ;ol,tl zǐ;vx róng;dg yè;dw yī;aa qī;av wǔ;aw	100
 甲子神将王文卿	jiǎ;ol,tl zǐ;la shén;pu jiàng;lc wáng;at wén;wx qīng;pg	100
 甲子乙丑海中金	jiǎ;ol,tl zǐ;la yǐ;vv chǒu;vt hǎi;dm zhōng;kl jīn;rb	100
 家族黑蒙性白痴	jiā;bu zú;fu hēi;lh méng;cu xìng;xu bái;po chī;bk	100
@@ -190256,8 +190182,6 @@ sort: by_weight
 金威二氏综合征	jīn;rb wēi;gn èr;aa shì;pv zōng;su hé;rk zhēng;rv	100
 晋西北七城战役	jìn;yo xī;ak,wk běi;lb qī;av chéng;ti zhàn;vg yì;ru	100
 尽信书不如无书	jìn;id xìn;rk shū;vd bù;ab rú;nk wú;ay shū;vd	100
-金星消毒液机关	jīn;rb xīng;ou xiāo;do dú;fm yè;dw jī;aj guān;bt	100
-金星消毒液协和	jīn;rb xīng;ou xiāo;do dú;fm yè;dw xié;ub hé;hk	100
 进行性白质脑病	jìn;zj xíng;rd xìng;xu bái;po zhì;ib nǎo;ox bìng;bn	100
 进行性脊髓麻痹	jìn;zj xíng;rd xìng;xu jǐ;ro suǐ;go má;ga bì;bw	100
 进行性肌萎缩症	jìn;zj xíng;rd xìng;xu jī;oj wěi;cn suō;sb zhèng;bv	100
@@ -190673,7 +190597,6 @@ sort: by_weight
 枸橼酸喷托维林	jǔ;aj yuán;au suān;yw pēn;kb tuō;fq wéi;sv lín;aa	100
 枸橼酸苹果酸钙	jǔ;aj yuán;au suān;yw píng;cp guǒ;ta suān;yw gài;jg	100
 枸橼酸曲吡那敏	jǔ;aj yuán;au suān;yw qǔ;wc,ck bǐ;kb nà;ve mǐn;pw	100
-枸橼酸溶液协和	jǔ;aj yuán;au suān;yw róng;dg yè;dw xié;ub hé;hk	100
 枸橼酸舒芬太尼	jǔ;aj yuán;au suān;yw shū;ry fēn;cf tài;dd ní;ub	100
 枸橼酸他莫昔芬	jǔ;aj yuán;au suān;yw tā;ry mò;cd xī;co fēn;cf	100
 枸橼酸坦度螺酮	jǔ;aj yuán;au suān;yw tǎn;td dù;gy luó;ix tóng;yk	100
@@ -190757,7 +190680,6 @@ sort: by_weight
 卡普二氏培养基	kǎ;ub pǔ;bo èr;aa shì;pv péi;tk yǎng;yl jī;ct	100
 卡普兰迈耶曲线	kǎ;ub pǔ;bo lán;bs mài;zw yé;ee qū;wc,ck xiàn;sj	100
 卡塞二氏综合征	kǎ;ub sāi;bt èr;aa shì;pv zōng;su hé;rk zhēng;rv	100
-卡氏擦剂一七五	kǎ;ub shì;pv cā;fu jì;qd yī;aa qī;av wǔ;aw	100
 卡氏肺囊虫肺炎	kǎ;ub shì;pv fèi;oj náng;gy chóng;vd fèi;oj yán;hh	100
 卡氏肺囊虫感染	kǎ;ub shì;pv fèi;oj náng;gy chóng;vd gǎn;gx rǎn;da	100
 卡斯奇里恩战役	kǎ;ub sī;ct qí;dk lǐ;tt ēn;yx zhàn;vg yì;ru	100
@@ -191099,7 +191021,6 @@ sort: by_weight
 口服水解蛋白粉	kǒu;la fú;oy shuǐ;ln jiě;dn dàn;zi bái;po fěn;mf	100
 口服四维葡萄糖	kǒu;la fú;oy sì;we wéi;sv pú;cf táo;cf táng;mk	100
 口服五维葡萄糖	kǒu;la fú;oy wǔ;aw wéi;sv pú;cf táo;cf táng;mk	100
-口服洗肠盐协和	kǒu;la fú;oy xǐ;de cháng;op yán;tm xié;ub hé;hk	100
 口角病损切除术	kǒu;la jué;dy bìng;bn sǔn;fb qiē;qd chú;em shù;ad	100
 口糜淋痛小肠火	kǒu;la mí;gm lín;da tòng;by xiǎo;lb cháng;op huǒ;br,rb	100
 口面指型综合征	kǒu;la miàn;ao zhǐ;fo xíng;kt zōng;su hé;rk zhēng;rv	100
@@ -191380,7 +191301,6 @@ sort: by_weight
 类风湿性心脏病	lèi;md fēng;jx shī;dy xìng;xu xīn;dd zàng;ot bìng;bn	100
 类风湿性血管炎	lèi;md fēng;jx shī;dy xìng;xu xuè;pm guǎn;vl yán;hh	100
 类风湿因子测定	lèi;md fēng;jx shī;dy yīn;wd zǐ;la cè;dd dìng;bz	100
-雷佛奴尔液省皮	léi;yt fó;rf nú;ny ěr;dx yè;dw shěng;uo pí;py	100
 雷福二氏持针钳	léi;yt fú;pt èr;aa shì;pv chí;fc zhēn;ju qián;jg	100
 雷夫叙姆综合征	léi;yt fū;er xù;ry mǔ;nm zōng;su hé;rk zhēng;rv	100
 类高血糖素多肽	lèi;md gāo;wk xuè;pm táng;mk sù;fx duō;xx tài;ot	100
@@ -191664,7 +191584,6 @@ sort: by_weight
 淋巴组织生成素	lín;da bā;sl zǔ;sq zhī;sv shēng;pf chéng;gv sù;fx	100
 淋巴组织增生病	lín;da bā;sl zǔ;sq zhī;sv zēng;to shēng;pf bìng;bn	100
 邻苯二甲酸丁酯	lín;re běn;cb èr;aa jiǎ;ol,tl suān;yw dīng;al zhǐ;yo	120
-邻苯二甲酸二酯	lín;re běn;cb èr;aa jiǎ;ol,tl suān;yw èr;aa zhǐ;yo	100
 邻苯二甲酸氢钾	lín;re běn;cb èr;aa jiǎ;ol,tl suān;yw qīng;qj jiǎ;jj	100
 邻苯二甲酸氢铜	lín;re běn;cb èr;aa jiǎ;ol,tl suān;yw qīng;qj tóng;jk	100
 邻苯二甲酰亚胺	lín;re běn;cb èr;aa jiǎ;ol,tl xiān;ye yà;ay àn;on	100
@@ -191808,6 +191727,8 @@ sort: by_weight
 流动性偏好理论	liú;di dòng;yl xìng;xu piān;rc hǎo;nz lǐ;wl lùn;yl	100
 流动性升水理论	liú;di dòng;yl xìng;xu shēng;pc shuǐ;ln lǐ;wl lùn;yl	100
 六氟化硫稀释法	liù;wb fú;qf huà;rb liú;ui xī;hj shì;mf fǎ;dq	100
+六氟磷酸二茂钴	liù;wb fú;qf lín;uf suān;yw èr;aa mào;cg gǔ;jg	100
+六氟磷酸二茂铁	liù;wb fú;qf lín;uf suān;yw èr;aa mào;cg tiě;jf	100
 六氟磷酸根离子	liù;wb fú;qf lín;uf suān;yw gēn;ag lí;wn zǐ;la	100
 流感病毒相变异	liú;di gǎn;gx bìng;bn dú;fm xiāng;ao biàn;wy yì;sc	100
 流感病毒抑制物	liú;di gǎn;gx bìng;bn dú;fm yì;fe zhì;nd wù;nw	100
@@ -191842,10 +191763,6 @@ sort: by_weight
 六叔丁氧基二钨	liù;wb shū;uy,by dīng;al yǎng;qy jī;ct èr;aa wū;jw	100
 六水丁二酸二钠	liù;wb shuǐ;ln dīng;al èr;aa suān;yw èr;aa nà;jn	120
 六水硫酸亚铁铵	liù;wb shuǐ;ln liú;ui suān;yw yà;ay tiě;jf ǎn;jn	120
-硫酸阿托品附一	liú;ui suān;yw ā;ek tuō;fq pǐn;kk fù;ec yī;aa	100
-硫酸阿托品机关	liú;ui suān;yw ā;ek tuō;fq pǐn;kk jī;aj guān;bt	100
-硫酸阿托品人民	liú;ui suān;yw ā;ek tuō;fq pǐn;kk rén;pn mín;vv	100
-硫酸阿托品省二	liú;ui suān;yw ā;ek tuō;fq pǐn;kk shěng;uo èr;aa	100
 硫酸阿托品眼膏	liú;ui suān;yw ā;ek tuō;fq pǐn;kk yǎn;og gāo;wo	100
 硫酸氨基葡萄糖	liú;ui suān;yw ān;qn jī;ct pú;cf táo;cf táng;mk	100
 硫酸巴龙霉素片	liú;ui suān;yw bā;sl lóng;yp méi;ym sù;fx piàn;pv	100
@@ -191859,11 +191776,6 @@ sort: by_weight
 硫酸吗啡控释片	liú;ui suān;yw mǎ;km fēi;kf kòng;fg shì;mf piàn;pv	100
 硫酸吗啡注射液	liú;ui suān;yw mǎ;km fēi;kf zhù;dv shè;uc yè;dw	100
 硫酸镁溶液传染	liú;ui suān;yw měi;jd róng;dg yè;dw chuán;rv rǎn;da	100
-硫酸镁溶液附一	liú;ui suān;yw měi;jd róng;dg yè;dw fù;ec yī;aa	100
-硫酸镁溶液省二	liú;ui suān;yw měi;jd róng;dg yè;dw shěng;uo èr;aa	100
-硫酸镁溶液省立	liú;ui suān;yw měi;jd róng;dg yè;dw shěng;uo lì;wb	100
-硫酸镁溶液市一	liú;ui suān;yw měi;jd róng;dg yè;dw shì;wj yī;aa	100
-硫酸镁溶液协和	liú;ui suān;yw měi;jd róng;dg yè;dw xié;ub hé;hk	100
 硫酸普拉睾酮钠	liú;ui suān;yw pǔ;bo lā;fl gāo;pg tóng;yk nà;jn	100
 硫酸庆大霉素片	liú;ui suān;yw qìng;gd dà;ar méi;ym sù;fx piàn;pv	100
 硫酸氢氯吡格雷	liú;ui suān;yw qīng;qj lǜ;qu bǐ;kb gé;ak léi;yt	100
@@ -192107,29 +192019,19 @@ sort: by_weight
 氯酚待因复方片	lǜ;qu fēn;yf dài;rc yīn;wd fù;pw fāng;wv piàn;pv	100
 氯芬黄敏片糖衣	lǜ;qu fēn;cf huáng;cb mǐn;pw piàn;pv táng;mk yī;wy	100
 氯睾丸素醋酸酯	lǜ;qu gāo;pg wán;jd sù;fx cù;yo suān;yw zhǐ;yo	100
-氯化铵合剂市一	lǜ;qu huà;rb ǎn;jn hé;rk jì;qd shì;wj yī;aa	100
 氯化氨基汞软膏	lǜ;qu huà;rb ān;qn jī;ct gǒng;gu ruǎn;iq gāo;wo	100
 氯化铵基汞软膏	lǜ;qu huà;rb ǎn;jn jī;ct gǒng;gu ruǎn;iq gāo;wo	100
 氯化钾环戊噻嗪	lǜ;qu huà;rb jiǎ;jj huán;wb wù;gp sāi;kt qín;kh	100
 氯化甲基烟酰胺	lǜ;qu huà;rb jiǎ;ol,tl jī;ct yān;hy xiān;ye àn;on	100
 氯化钾口服溶液	lǜ;qu huà;rb jiǎ;jj kǒu;la fú;oy róng;dg yè;dw	100
 氯化钾溶液传染	lǜ;qu huà;rb jiǎ;jj róng;dg yè;dw chuán;rv rǎn;da	100
-氯化钾溶液肺科	lǜ;qu huà;rb jiǎ;jj róng;dg yè;dw fèi;oj kē;hd	100
-氯化钾溶液附一	lǜ;qu huà;rb jiǎ;jj róng;dg yè;dw fù;ec yī;aa	100
-氯化钾溶液省二	lǜ;qu huà;rb jiǎ;jj róng;dg yè;dw shěng;uo èr;aa	100
-氯化钾溶液省立	lǜ;qu huà;rb jiǎ;jj róng;dg yè;dw shěng;uo lì;wb	100
-氯化钾溶液市一	lǜ;qu huà;rb jiǎ;jj róng;dg yè;dw shì;wj yī;aa	100
-氯化钾溶液协和	lǜ;qu huà;rb jiǎ;jj róng;dg yè;dw xié;ub hé;hk	100
 氯化镁四水合物	lǜ;qu huà;rb měi;jd sì;we shuǐ;ln hé;rk wù;nw	100
-氯化钠溶液附一	lǜ;qu huà;rb nà;jn róng;dg yè;dw fù;ec yī;aa	100
-氯化钠溶液市一	lǜ;qu huà;rb nà;jn róng;dg yè;dw shì;wj yī;aa	100
 氯化三甲基硅烷	lǜ;qu huà;rb sān;ae jiǎ;ol,tl jī;ct guī;ut wán;hy	100
 氯化三甲基矽烷	lǜ;qu huà;rb sān;ae jiǎ;ol,tl jī;ct xī;ux wán;hy	100
 氯化四吡啶合钴	lǜ;qu huà;rb sì;we bǐ;kb dìng;kz hé;rk gǔ;jg	100
 氯化四吡啶合镍	lǜ;qu huà;rb sì;we bǐ;kb dìng;kz hé;rk niè;ja	100
 氯化四吡啶合铁	lǜ;qu huà;rb sì;we bǐ;kb dìng;kz hé;rk tiě;jf	100
 氯化四乙酸二锝	lǜ;qu huà;rb sì;we yǐ;vv suān;yw èr;aa dé;jc	100
-氯化锌擦剂市一	lǜ;qu huà;rb xīn;jx cā;fu jì;qd shì;wj yī;aa	100
 氯化亚铊注射液	lǜ;qu huà;rb yà;ay tā;jb zhù;dv shè;uc yè;dw	100
 氯化亚锡冻干品	lǜ;qu huà;rb yà;ay xī;jw dòng;dd gān;au pǐn;kk	100
 氯化乙酰甲胆碱	lǜ;qu huà;rb yǐ;vv xiān;ye jiǎ;ol,tl dǎn;od jiǎn;uk	100
@@ -192159,7 +192061,6 @@ sort: by_weight
 滤泡性甲状腺癌	lǜ;dx pào;db xìng;xu jiǎ;ol,tl zhuàng;lq xiàn;ou ái;bu	100
 氯普噻吨片糖衣	lǜ;qu pǔ;bo sāi;kt dūn;kt piàn;pv táng;mk yī;wy	100
 氯普噻吨注射液	lǜ;qu pǔ;bo sāi;kt dūn;kt zhù;dv shè;uc yè;dw	100
-氯强滴眼液市一	lǜ;qu qiáng;gi dī;dg yǎn;og yè;dw shì;wj yī;aa	100
 氯屈膦酸二钠片	lǜ;qu qū;ui lìn;of suān;yw èr;aa nà;jn piàn;pv	100
 氯醛半缩醛睾酮	lǜ;qu quán;yw bàn;bf suō;sb quán;yw gāo;pg tóng;yk	100
 氯醛亚硝基萘酚	lǜ;qu quán;yw yà;ay xiāo;uo jī;ct nài;cu fēn;yf	100
@@ -192236,7 +192137,6 @@ sort: by_weight
 玛木然止泻胶囊	mǎ;wm mù;ur rán;xh zhǐ;bl,lu xiè;dy jiāo;of náng;gy	100
 马尼神经松解术	mǎ;va ní;ub shén;pu jīng;sj sōng;ag jiě;dn shù;ad	100
 马尿酸乌洛托品	mǎ;va niào;uu suān;yw wū;pa luò;dk tuō;fq pǐn;kk	100
-麻强滴鼻液协和	má;ga qiáng;gi dī;dg bí;zw yè;dw xié;ub hé;hk	100
 麻仁润肠软胶囊	má;ga rén;re rùn;dw cháng;op ruǎn;iq jiāo;of náng;gy	100
 麻绳专挑细处断	má;ga shéng;sd zhuān;ts tiāo;fv xì;st chù;wb duàn;vt	100
 马斯洛需求理论	mǎ;va sī;ct luò;dk xū;ye qiú;au,ad lǐ;wl lùn;yl	100
@@ -192272,7 +192172,6 @@ sort: by_weight
 麦冬芍药当归配	mài;fw dōng;wd sháo;cu yào;cu dāng;xe guī;le pèi;yj	100
 麦冬生地大麻仁	mài;fw dōng;wd shēng;pf dì;ty dà;ar má;ga rén;re	100
 脉管复康片糖衣	mài;oy guǎn;vl fù;pw kāng;gl piàn;pv táng;mk yī;wy	100
-脉管号胶囊人民	mài;oy guǎn;vl hào;kk jiāo;of náng;gy rén;pn mín;vv	100
 脉缓舌黄身又痛	mài;oy huǎn;sy shé;qk huáng;cb shēn;zc yòu;vn tòng;by	100
 卖火柴的小女孩	mài;ud huǒ;br,rb chái;va de;bu xiǎo;lb nǚ;va hái;zr	100
 麦角胺咖啡因片	mài;fw jiǎo;dy àn;on kā;kk fēi;kf yīn;wd piàn;pv	100
@@ -192576,9 +192475,7 @@ sort: by_weight
 面中部发育不良	miàn;ao zhōng;kl bù;le fā;fy yù;wo bù;ab liáng;dg	100
 妙法内攻并外攘	miào;nu fǎ;dq nèi;kr gōng;gw bìng;bk wài;xb rǎng;ff	100
 苗生红中医诊所	miáo;ct shēng;pf hóng;sg zhōng;kl yī;ku zhěn;yp suǒ;ht	100
-灭菌纯化水附一	miè;ah jūn;ch chún;st huà;rb shuǐ;ln fù;ec yī;aa	100
 灭菌凡士林纱布	miè;ah jūn;ch fán;jd shì;ua lín;aa shā;su bù;uj	100
-灭菌蒸馏水协和	miè;ah jūn;ch zhēng;ch liú;ut shuǐ;ln xié;ub hé;hk	100
 敏迪特非那丁片	mǐn;pw dí;zy tè;nc fēi;ls nà;ve dīng;al piàn;pv	100
 民航旅客运输量	mín;vv háng;vj lǚ;fy kè;bk yùn;zy shū;id liàng;ol	100
 闵可夫斯基度规	mǐn;mw kě;dk fū;er sī;ct jī;ct dù;gy guī;fj	100
@@ -192929,7 +192826,6 @@ sort: by_weight
 捻发音蜂窝织炎	niǎn;fx fā;fy yīn;lo fēng;if wō;bn zhī;sv yán;hh	100
 年龄性别死亡率	nián;pf líng;vs xìng;xu bié;kd sǐ;db wáng;wv lǜ;wu	100
 黏膜白色海绵痣	nián;hv mó;od bái;po sè;db hǎi;dm mián;sj zhì;bx	100
-黏膜溃疡膏附一	nián;hv mó;od kuì;db yáng;bp gāo;wo fù;ec yī;aa	100
 黏膜下浸润麻醉	nián;hv mó;od xià;ab jìn;dy rùn;dw má;ga zuì;yu	100
 年平均日交通量	nián;pf píng;au jūn;ty rì;wa jiāo;wf tōng;zy liàng;ol	100
 年轻地球创造论	nián;pf qīng;ij dì;ty qiú;wq chuàng;rd zào;zk lùn;yl	100
@@ -193017,7 +192913,6 @@ sort: by_weight
 尿流改道复原术	niào;uu liú;di gǎi;jw dào;zz fù;pw yuán;ix shù;ad	100
 尿路排石口服液	niào;uu lù;zk pái;ff shí;ak kǒu;la fú;oy yè;dw	100
 尿嘧啶替加氟片	niào;uu mì;ku dìng;kz tì;fo jiā;lk fú;qf piàn;pv	100
-尿囊素霜一七五	niào;uu náng;gy sù;fx shuāng;yo yī;aa qī;av wǔ;aw	100
 尿浓缩稀释试验	niào;uu nóng;dy suō;sb xī;hj shì;mf shì;yg yàn;mq	100
 尿培养阳性所见	niào;uu péi;tk yǎng;yl yáng;eo xìng;xu suǒ;ht jiàn;ke	100
 尿乳糜定性检查	niào;uu rǔ;vv mí;gm dìng;bz xìng;xu jiǎn;aq chá;ad	100
@@ -193322,21 +193217,10 @@ sort: by_weight
 蓬莱长扁朽木甲	péng;cf lái;cl cháng;pn biǎn;hc xiǔ;ak mù;ur jiǎ;ol,tl	100
 硼砂甘油钾溶液	péng;uo shā;uu gān;ca yóu;dy jiǎ;jj róng;dg yè;dw	100
 硼酸冰片滴耳液	péng;uo suān;yw bīng;du piàn;pv dī;dg ěr;ol yè;dw	100
-硼酸滴耳液省二	péng;uo suān;yw dī;dg ěr;ol yè;dw shěng;uo èr;aa	100
-硼酸滴耳液省立	péng;uo suān;yw dī;dg ěr;ol yè;dw shěng;uo lì;wb	100
-硼酸滴耳液市一	péng;uo suān;yw dī;dg ěr;ol yè;dw shì;wj yī;aa	100
-硼酸滴耳液协和	péng;uo suān;yw dī;dg ěr;ol yè;dw xié;ub hé;hk	100
 硼酸甘油滴耳液	péng;uo suān;yw gān;ca yóu;dy dī;dg ěr;ol yè;dw	100
-硼酸甘油一七五	péng;uo suān;yw gān;ca yóu;dy yī;aa qī;av wǔ;aw	100
 硼酸酒精滴耳液	péng;uo suān;yw jiǔ;dy jīng;mo dī;dg ěr;ol yè;dw	100
-硼酸酒精一七五	péng;uo suān;yw jiǔ;dy jīng;mo yī;aa qī;av wǔ;aw	100
-硼酸溶液一七五	péng;uo suān;yw róng;dg yè;dw yī;aa qī;av wǔ;aw	100
-硼酸氧化锌附一	péng;uo suān;yw yǎng;qy huà;rb xīn;jx fù;ec yī;aa	100
 硼酸氧化锌软膏	péng;uo suān;yw yǎng;qy huà;rb xīn;jx ruǎn;iq gāo;wo	100
 膨体聚四氟乙烯	péng;op tǐ;rb jù;eu sì;we fú;qf yǐ;vv xī;hj	100
-硼锌鱼软膏附一	péng;uo xīn;jx yú;da ruǎn;iq gāo;wo fù;ec yī;aa	100
-硼锌鱼软膏省皮	péng;uo xīn;jx yú;da ruǎn;iq gāo;wo shěng;uo pí;py	100
-硼锌鱼软膏市皮	péng;uo xīn;jx yú;da ruǎn;iq gāo;wo shì;wj pí;py	100
 朋友我们的传说	péng;oo you;uy wǒ;ga men;rm de;bu chuán;rv shuō;yx	100
 皮瓣逆转设计法	pí;py bàn;xg nì;zn zhuǎn;iv shè;yu jì;yu fǎ;dq	100
 匹多莫德分散片	pǐ;ke duō;xx mò;cd dé;rx fēn;bd sǎn;cw piàn;pv	100
@@ -193371,7 +193255,6 @@ sort: by_weight
 皮肤瘘管切除术	pí;py fū;of lòu;bn guǎn;vl qiē;qd chú;em shù;ad	100
 皮肤挛缩松解术	pí;py fū;of luán;wu suō;sb sōng;ag jiě;dn shù;ad	100
 皮肤毛细血管瘤	pí;py fū;of máo;pv xì;st xuè;pm guǎn;vl liú;bt	100
-皮肤墨水一七五	pí;py fū;of mò;lt shuǐ;ln yī;aa qī;av wǔ;aw	100
 皮肤囊肿切除术	pí;py fū;of náng;gy zhǒng;ov qiē;qd chú;em shù;ad	100
 皮肤黏膜无苍白	pí;py fū;of nián;hv mó;od wú;ay cāng;cv bái;po	100
 皮肤黏膜消毒液	pí;py fū;of nián;hv mó;od xiāo;do dú;fm yè;dw	100
@@ -193843,7 +193726,6 @@ sort: by_weight
 切连科夫计数器	qiè;qd lián;zi kē;hd fū;er jì;yu shù;mw qì;kk	100
 芩暴红止咳颗粒	qín;cv bào;ou hóng;sg zhǐ;bl,lu ké;kr kē;gy lì;ml	100
 芩暴红止咳糖浆	qín;cv bào;ou hóng;sg zhǐ;bl,lu ké;kr táng;mk jiāng;lu	100
-芩蓝滴鼻液省二	qín;cv lán;cm dī;dg bí;zw yè;dw shěng;uo èr;aa	100
 芩连归桂槟草香	qín;cv lián;zi guī;le guì;at bīn;ab cǎo;cu xiāng;ho	100
 芩连芪柏共煎尝	qín;cv lián;zi qí;cu bǎi;ab gòng;cb jiān;bh cháng;xy	100
 芩连曲术茯苓襄	qín;cv lián;zi qǔ;wc,ck shù;ad fú;cq líng;cs xiāng;yf	100
@@ -194078,7 +193960,6 @@ sort: by_weight
 取得资格的人员	qǔ;ey dé;rc zī;db gé;ak de;bu rén;pn yuán;kb	100
 取得最后的胜利	qǔ;ey dé;rc zuì;oy hòu;ik de;bu shèng;ou lì;hd	100
 取得最终的胜利	qǔ;ey dé;rc zuì;oy zhōng;sd de;bu shèng;ou lì;hd	100
-祛毒灌肠液省二	qū;pq dú;fm guàn;dv cháng;op yè;dw shěng;uo èr;aa	100
 驱毒养颜口服液	qū;mq dú;fm yǎng;yl yán;wy kǒu;la fú;oy yè;dw	100
 取锻灶下灰一斗	qǔ;ey duàn;ju zào;ht xià;ab huī;uh yì;aa dǒu;ud	100
 祛风骨痛巴布膏	qū;pq fēng;jx gǔ;go tòng;by bā;sl bù;uj gāo;wo	100
@@ -194155,7 +194036,6 @@ sort: by_weight
 区政务服务中心	qū;kx zhèng;vw wù;wl fú;oy wù;wl zhōng;kl xīn;dd	100
 屈指功能重建术	qū;ui zhǐ;fo gōng;gl néng;sb chóng;ql jiàn;zy shù;ad	100
 区职工培训中心	qū;kx zhí;ev gōng;aa péi;tk xùn;yi zhōng;kl xīn;dd	100
-祛止咳合剂市一	qū;pq zhǐ;bl,lu ké;kr hé;rk jì;qd shì;wj yī;aa	100
 屈指浅肌切除术	qū;ui zhǐ;fo qiǎn;dj jī;oj qiē;qd chú;em shù;ad	100
 屈肘功能重建术	qū;ui zhǒu;oc gōng;gl néng;sb chóng;ql jiàn;zy shù;ad	100
 全病毒灭活疫苗	quán;rw bìng;bn dú;fm miè;ah huó;du yì;bu miáo;ct	100
@@ -194874,7 +194754,6 @@ sort: by_weight
 乳房肿物切除术	rǔ;vv fáng;hf zhǒng;ov wù;nw qiē;qd chú;em shù;ad	100
 乳杆菌活菌胶囊	rǔ;vv gǎn;ag jūn;ch huó;du jūn;ch jiāo;of náng;gy	100
 乳果糖口服溶液	rǔ;vv guǒ;ta táng;mk kǒu;la fú;oy róng;dg yè;dw	100
-乳康口服液人民	rǔ;vv kāng;gl kǒu;la fú;oy yè;dw rén;pn mín;vv	100
 乳糜心包引流术	rǔ;vv mí;gm xīn;dd bāo;bs yǐn;gl liú;di shù;ad	100
 乳糜性心包积液	rǔ;vv mí;gm xìng;xu xīn;dd bāo;bs jī;hv yè;dw	100
 乳宁胶囊石刁柏	rǔ;vv níng;bd jiāo;of náng;gy shí;ak diāo;va bǎi;ab	100
@@ -194940,7 +194819,6 @@ sort: by_weight
 乳腺肿物穿刺术	rǔ;vv xiàn;ou zhǒng;ov wù;nw chuān;by cì;ud shù;ad	100
 乳腺肿物切除术	rǔ;vv xiàn;ou zhǒng;ov wù;nw qiē;qd chú;em shù;ad	100
 乳香风湿气雾剂	rǔ;vv xiāng;ho fēng;jx shī;dy qì;pv wù;yl jì;qd	100
-乳消号胶囊省二	rǔ;vv xiāo;do hào;kk jiāo;of náng;gy shěng;uo èr;aa	100
 乳牙预成冠修复	rǔ;vv yá;gp,ac yù;yy chéng;gv guān;bc xiū;rp fù;pw	100
 如意定喘片糖衣	rú;nk yì;lx dìng;bz chuǎn;ke piàn;pv táng;mk yī;wy	100
 如意算盘打得响	rú;nk yì;lx suàn;vc pán;vm dǎ;fd de;rc xiǎng;kk	100
@@ -195033,7 +194911,6 @@ sort: by_weight
 三号蛇胆川贝片	sān;ae hào;kk shé;ib dǎn;od chuān;pl bèi;kr piàn;pv	100
 三合激素注射液	sān;ae hé;rk jī;dw sù;fx zhù;dv shè;uc yè;dw	100
 三踝开放性骨折	sān;ae huái;zg kāi;ac fàng;fw xìng;xu gǔ;go zhé;ft	100
-三黄颠倒散省二	sān;ae huáng;cb diān;uy dǎo;rd sàn;cw shěng;uo èr;aa	100
 三级方程式赛车	sān;ae jí;sj fāng;wv chéng;hw shì;gg sài;bb chē;au	100
 三级医疗保健网	sān;ae jí;sj yī;ku liáo;bl bǎo;ra jiàn;ry wǎng;kx	100
 三钾二枸橼酸铋	sān;ae jiǎ;jj èr;aa jǔ;aj yuán;au suān;yw bì;jb	100
@@ -195162,6 +195039,7 @@ sort: by_weight
 疝环充填式补片	shàn;bu huán;wb chōng;wy tián;tb shì;gg bǔ;pb piàn;pv	100
 山梨醇单油酸酯	shān;kl lí;ha chún;yz dān;bu yóu;dy suān;yw zhǐ;yo	100
 山梨酸及其钾盐	shān;kl lí;ha suān;yw jí;pn qí;cb jiǎ;jj yán;tm	100
+山南西道节度使	shān;kl nán;ug xī;ak,wk dào;zz jié;ce dù;gy shǐ;rl	100
 疝囊高位结扎术	shàn;bu náng;gy gāo;wk wèi;rl jié;sk zā;fv shù;ad	100
 膳食碳水化合物	shàn;ok shí;rg tàn;uh shuǐ;ln huà;rb hé;rk wù;nw	100
 单县卫生防疫部	shàn;bu xiàn;qs wèi;ea shēng;pf fáng;ef yì;bu bù;le	100
@@ -195429,7 +195307,6 @@ sort: by_weight
 肾虚不固阴虚证	shèn;lo xū;hy bú;ab gù;wg yīn;eo xū;hy zhèng;yv	100
 肾血管肌脂肪瘤	shèn;lo xuè;pm guǎn;vl jī;oj zhī;oo fáng;of liú;bt	100
 肾血管性高血压	shèn;lo xuè;pm guǎn;vl xìng;xu gāo;wk xuè;pm yā;id	100
-肾血宁胶囊省二	shèn;lo xuè;pm níng;bd jiāo;of náng;gy shěng;uo èr;aa	100
 深血栓性静脉炎	shēn;da xuè;pm shuān;aw xìng;xu jìng;fy mài;oy yán;hh	100
 肾炎康复糖衣片	shèn;lo yán;hh kāng;gl fù;pw táng;mk yī;wy piàn;pv	100
 肾炎肾小球肾炎	shèn;lo yán;hh shèn;lo xiǎo;lb qiú;wq shèn;lo yán;hh	100
@@ -195844,7 +195721,6 @@ sort: by_weight
 舒肝快胃丸水丸	shū;ry gān;og kuài;xg wèi;to wán;jd shuǐ;ln wán;jd	100
 舒肝调气丸水丸	shū;ry gān;og tiáo;yk qì;pv wán;jd shuǐ;ln wán;jd	100
 舒筋活血定痛散	shū;ry jīn;vl huó;du xuè;pm dìng;bz tòng;by sàn;cw	100
-舒筋止痛水省二	shū;ry jīn;vl zhǐ;bl,lu tòng;by shuǐ;ln shěng;uo èr;aa	100
 庶可以见病知源	shù;gh kě;dk yǐ;lr jiàn;ke bìng;bn zhī;uk yuán;dx	100
 输卵管妊娠流产	shū;id luǎn;pd guǎn;vl rèn;nw shēn;ni liú;di chǎn;wi	100
 输卵管妊娠破裂	shū;id luǎn;pd guǎn;vl rèn;nw shēn;ni pò;up liè;dy	100
@@ -196054,8 +195930,6 @@ sort: by_weight
 水杨酸苯酚贴膏	shuǐ;ln yáng;ap suān;yw běn;cb fēn;yf tiē;bv gāo;wo	100
 水杨酸苯甲酸松	shuǐ;ln yáng;ap suān;yw běn;cb jiǎ;ol,tl suān;yw sōng;ag	100
 水杨酸苯佐卡因	shuǐ;ln yáng;ap suān;yw běn;cb zuǒ;rg kǎ;ub yīn;wd	100
-水杨酸擦剂省立	shuǐ;ln yáng;ap suān;yw cā;fu jì;qd shěng;uo lì;wb	100
-水杨酸搽剂省立	shuǐ;ln yáng;ap suān;yw chá;fm jì;qd shěng;uo lì;wb	100
 水杨酸毒扁豆碱	shuǐ;ln yáng;ap suān;yw dú;fm biǎn;hc dòu;ab jiǎn;uk	100
 水杨酸复合洗剂	shuǐ;ln yáng;ap suān;yw fù;pw hé;rk xǐ;de jì;qd	100
 水杨酸钠可可碱	shuǐ;ln yáng;ap suān;yw nà;jn kě;dk kě;dk jiǎn;uk	100
@@ -196296,7 +196170,6 @@ sort: by_weight
 碳酸酐酶抑制剂	tàn;uh suān;yw gān;yg méi;ym yì;fe zhì;nd jì;qd	100
 碳酸甲酯肉桂酯	tàn;uh suān;yw jiǎ;ol,tl zhǐ;yo ròu;nr guì;at zhǐ;yo	100
 碳酸氢钠滴耳液	tàn;uh suān;yw qīng;qj nà;jn dī;dg ěr;ol yè;dw	100
-碳酸氢钠粉协和	tàn;uh suān;yw qīng;qj nà;jn fěn;mf xié;ub hé;hk	100
 碳酸氢钠注射液	tàn;uh suān;yw qīng;qj nà;jn zhù;dv shè;uc yè;dw	100
 碳酸四氯乙叉酯	tàn;uh suān;yw sì;we lǜ;qu yǐ;vv chā;yd zhǐ;yo	100
 碳酸四氯乙烯酯	tàn;uh suān;yw sì;we lǜ;qu yǐ;vv xī;hj zhǐ;yo	100
@@ -196309,7 +196182,6 @@ sort: by_weight
 碳足迹追踪评价	tàn;uh zú;kz jì;zb zhuī;zl zōng;zu píng;yp jià;rj	100
 唐菖蒲伯克氏菌	táng;gk chāng;co pú;cf bó;rb kè;ux,ge shì;pv jūn;ch	100
 糖类碳水化合物	táng;mk lèi;md tàn;uh shuǐ;ln huà;rb hé;rk wù;nw	100
-糖络通胶囊人民	táng;mk luò;sk tōng;zy jiāo;of náng;gy rén;pn mín;vv	100
 糖尿病患者妊娠	táng;mk niào;uu bìng;bn huàn;ix zhě;lo rèn;nw shēn;ni	100
 糖尿病酮酸血症	táng;mk niào;uu bìng;bn tóng;yk suān;yw xuè;pm zhèng;bv	100
 糖皮质激素增加	táng;mk pí;py zhì;ib jī;dw sù;fx zēng;to jiā;lk	100
@@ -196487,7 +196359,6 @@ sort: by_weight
 头部毛囊周围炎	tóu;dd bù;le máo;pv náng;gy zhōu;kk wéi;ww yán;hh	100
 头部乳头状皮炎	tóu;dd bù;le rǔ;vv tóu;dd zhuàng;lq pí;py yán;hh	100
 头部伤口清创术	tóu;dd bù;le shāng;rl kǒu;la qīng;do chuàng;rd shù;ad	100
-头发洗剂号市皮	tóu;dd fa;fy xǐ;de jì;qd hào;kk shì;wj pí;py	100
 透过经济看政治	tòu;zn guò;zc jīng;sj jì;dq kàn;uo zhèng;vw zhì;dk	100
 透过生态看管理	tòu;zn guò;zc shēng;pf tài;tx kān;uo guǎn;vl lǐ;wl	100
 透过问题看责任	tòu;zn guò;zc wèn;mk tí;oy kàn;uo zé;fb rèn;rw	100
@@ -196904,6 +196775,7 @@ sort: by_weight
 午饭同伴综合征	wǔ;pu fàn;uy tóng;kk bàn;rb zōng;su hé;rk zhēng;rv	100
 五氟苯基化合物	wǔ;aw fú;qf běn;cb jī;ct huà;rb hé;rk wù;nw	100
 五氟硫基苯甲醛	wǔ;aw fú;qf liú;ui jī;ct běn;cb jiǎ;ol,tl quán;yw	100
+武汉市甲康医院	wǔ;gv hàn;dy shì;wj jiǎ;ol,tl kāng;gl yī;ku yuàn;ey	100
 五号甲板室行动	wǔ;aw hào;kk jiǎ;ol,tl bǎn;ay shì;bt xíng;rd dòng;yl	100
 无患有司之不公	wú;ay huàn;ix yǒu;uo sī;vk zhī;dn bù;ab gōng;bs	100
 五甲基环戊二烯	wǔ;aw jiǎ;ol,tl jī;ct huán;wb wù;gp èr;aa xī;hj	100
@@ -197524,7 +197396,6 @@ sort: by_weight
 硝酸异山梨醇酯	xiāo;uo suān;yw yì;sc shān;kl lí;ha chún;yz zhǐ;yo	100
 硝酸异山梨酯片	xiāo;uo suān;yw yì;sc shān;kl lí;ha zhǐ;yo piàn;pv	100
 硝酸异山梨脂片	xiāo;uo suān;yw yì;sc shān;kl lí;ha zhī;oo piàn;pv	100
-硝酸银溶液市一	xiāo;uo suān;yw yín;jg róng;dg yè;dw shì;wj yī;aa	100
 小腿残端修整术	xiǎo;lb tuǐ;og cán;dj duān;le xiū;rp zhěng;uv shù;ad	100
 小腿多发性骨折	xiǎo;lb tuǐ;og duō;xx fā;fy xìng;xu gǔ;go zhé;ft	100
 小腿假肢成人型	xiǎo;lb tuǐ;og jiǎ;ry zhī;ov chéng;gv rén;pn xíng;kt	100
@@ -197551,7 +197422,6 @@ sort: by_weight
 消炎解痛巴布膏	xiāo;do yán;hh jiě;dn tòng;by bā;sl bù;uj gāo;wo	100
 消炎利胆片糖衣	xiāo;do yán;hh lì;hd dǎn;od piàn;pv táng;mk yī;wy	100
 消炎利胆软胶囊	xiāo;do yán;hh lì;hd dǎn;od ruǎn;iq jiāo;of náng;gy	100
-消炎生肌膏人民	xiāo;do yán;hh shēng;pf jī;oj gāo;wo rén;pn mín;vv	100
 消炎止带外洗液	xiāo;do yán;hh zhǐ;bl,lu dài;cj wài;xb xǐ;de yè;dw	100
 消炎止咳口服液	xiāo;do yán;hh zhǐ;bl,lu ké;kr kǒu;la fú;oy yè;dw	100
 逍遥法外的方法	xiāo;zo yáo;zf fǎ;dq wài;xb de;bu fāng;wv fǎ;dq	100
@@ -198027,7 +197897,6 @@ sort: by_weight
 血脉清片薄膜衣	xuè;pm mài;oy qīng;do piàn;pv báo;cc mó;od yī;wy	100
 血脉荣卫之通塞	xuè;pm mài;oy róng;ca wèi;ea zhī;dn tōng;zy sāi;bt	100
 血美安片薄膜衣	xuè;pm měi;yd ān;bn piàn;pv báo;cc mó;od yī;wy	100
-血尿灵合剂人民	xuè;pm niào;uu líng;eh hé;rk jì;qd rén;pn mín;vv	100
 血凝仪专用试剂	xuè;pm níng;dz yí;ry zhuān;ts yòng;kf,ol shì;yg jì;qd	100
 血偏衰者则脉涩	xuè;pm piān;rc shuāi;yv zhě;lo zé;bd mài;oy sè;dv	100
 血气毛细采血管	xuè;pm qì;pv máo;pv xì;st cǎi;va xiě;pm guǎn;vl	100
@@ -198392,7 +198261,6 @@ sort: by_weight
 盐酸地卡因溶液	yán;tm suān;yw dì;ty kǎ;ub yīn;wd róng;dg yè;dw	100
 盐酸地美索酯片	yán;tm suān;yw dì;ty měi;yd suǒ;ux zhǐ;yo piàn;pv	100
 盐酸丁咯地尔片	yán;tm suān;yw dīng;al gē;kk dì;ty ěr;dx piàn;pv	100
-盐酸丁卡因附一	yán;tm suān;yw dīng;al kǎ;ub yīn;wd fù;ec yī;aa	100
 盐酸丁卡因胶浆	yán;tm suān;yw dīng;al kǎ;ub yīn;wd jiāo;of jiāng;lu	100
 盐酸丁螺环酮片	yán;tm suān;yw dīng;al luó;ix huán;wb tóng;yk piàn;pv	100
 盐酸对氯苯丁胺	yán;tm suān;yw duì;yc lǜ;qu běn;cb dīng;al àn;on	100
@@ -198480,7 +198348,6 @@ sort: by_weight
 盐酸吗啡控释片	yán;tm suān;yw mǎ;km fēi;kf kòng;fg shì;mf piàn;pv	100
 盐酸吗啡注射液	yán;tm suān;yw mǎ;km fēi;kf zhù;dv shè;uc yè;dw	100
 盐酸麻黄碱糖浆	yán;tm suān;yw má;ga huáng;cb jiǎn;uk táng;mk jiāng;lu	100
-盐酸麻黄碱协和	yán;tm suān;yw má;ga huáng;cb jiǎn;uk xié;ub hé;hk	100
 盐酸马普替林片	yán;tm suān;yw mǎ;va pǔ;bo tì;fo lín;aa piàn;pv	100
 盐酸毛果芸香碱	yán;tm suān;yw máo;pv guǒ;ta yún;cy xiāng;ho jiǎn;uk	100
 盐酸美克洛嗪片	yán;tm suān;yw měi;yd kè;ux,ge luò;dk qín;kh piàn;pv	100
@@ -198560,7 +198427,6 @@ sort: by_weight
 盐酸小檗碱胶囊	yán;tm suān;yw xiǎo;lb bò;ua jiǎn;uk jiāo;of náng;gy	100
 盐酸缬更昔洛韦	yán;tm suān;yw xié;sy gèng;an xī;co luò;dk wéi;fv	100
 盐酸乙胺丁醇片	yán;tm suān;yw yǐ;vv àn;on dīng;al chún;yz piàn;pv	100
-盐酸异丙嗪附一	yán;tm suān;yw yì;sc bǐng;an qín;kh fù;ec yī;aa	100
 盐酸异可利定片	yán;tm suān;yw yì;sc kě;dk lì;hd dìng;bz piàn;pv	100
 盐酸乙哌立松片	yán;tm suān;yw yǐ;vv pài;ky lì;wb sōng;ag piàn;pv	100
 盐酸依匹斯汀片	yán;tm suān;yw yī;ry pǐ;ke sī;ct tīng;dd piàn;pv	100
@@ -198627,11 +198493,7 @@ sort: by_weight
 氧化偶氮苯乙醚	yǎng;qy huà;rb ǒu;rd dàn;qh běn;cb yǐ;vv mí;ym	100
 氧化偶氮化合物	yǎng;qy huà;rb ǒu;rd dàn;qh huà;rb hé;rk wù;nw	100
 氧化羟基自由基	yǎng;qy huà;rb qiǎng;yj jī;ct zì;po yóu;ol,lt jī;ct	100
-氧化锌擦剂市皮	yǎng;qy huà;rb xīn;jx cā;fu jì;qd shì;wj pí;py	100
-氧化锌擦剂协和	yǎng;qy huà;rb xīn;jx cā;fu jì;qd xié;ub hé;hk	100
-氧化锌搽剂市一	yǎng;qy huà;rb xīn;jx chá;fm jì;qd shì;wj yī;aa	100
 氧化锌丁香油酚	yǎng;qy huà;rb xīn;jx dīng;al xiāng;ho yóu;dy fēn;yf	100
-氧化锌油一七五	yǎng;qy huà;rb xīn;jx yóu;dy yī;aa qī;av wǔ;aw	100
 氧化性醇酸树脂	yǎng;qy huà;rb xìng;xu chún;yz suān;yw shù;ac zhī;oo	100
 氧化焰和还原焰	yǎng;qy huà;rb yàn;hj hé;hk huán;zb yuán;ix yàn;hj	100
 氧化樟脑注射液	yǎng;qy huà;rb zhāng;au nǎo;ox zhù;dv shè;uc yè;dw	100
@@ -199020,7 +198882,6 @@ sort: by_weight
 以深化中央巡视	yǐ;lr shēn;da huà;rb zhōng;kl yāng;kr xún;zv shì;pj	100
 益肾健胃口服液	yì;bm shèn;lo jiàn;ry wèi;to kǒu;la fú;oy yè;dw	100
 益肾健腰口服液	yì;bm shèn;lo jiàn;ry yāo;on kǒu;la fú;oy yè;dw	100
-益肾降糖饮人民	yì;bm shèn;lo jiàng;ef táng;mk yǐn;uq rén;pn mín;vv	100
 一身尽发热而黄	yì;aa shēn;zc jìn;id fā;fy rè;fh ér;al huáng;cb	100
 益肾蠲痹丸水丸	yì;bm shèn;lo juān;bi bì;bw wán;jd shuǐ;ln wán;jd	100
 以什么样的方式	yǐ;lr shén;ru me;ps yàng;ay de;bu fāng;wv shì;gg	100
@@ -199399,7 +199260,6 @@ sort: by_weight
 婴儿黏液性水肿	yīng;bn ér;pv nián;hv yè;dw xìng;xu shuǐ;ln zhǒng;ov	100
 婴儿丘疹性皮炎	yīng;bn ér;pv qiū;ia zhěn;bp xìng;xu pí;py yán;hh	100
 婴儿手足搐搦症	yīng;bn ér;pv shǒu;pf zú;kz chù;ft nuò;fg zhèng;bv	100
-婴儿爽身粉省立	yīng;bn ér;pv shuǎng;dx shēn;zc fěn;mf shěng;uo lì;wb	100
 婴儿松软综合征	yīng;bn ér;pv sōng;ag ruǎn;iq zōng;su hé;rk zhēng;rv	100
 婴儿臀部肉芽肿	yīng;bn ér;pv tún;uo bù;le ròu;nr yá;cy zhǒng;ov	100
 婴儿型肾多囊病	yīng;bn ér;pv xíng;kt shèn;lo duō;xx náng;gy bìng;bn	100
@@ -199770,10 +199630,8 @@ sort: by_weight
 掌骨开放性骨折	zhǎng;xu gǔ;go kāi;ac fàng;fw xìng;xu gǔ;go zhé;ft	100
 掌骨肿瘤刮除术	zhǎng;xu gǔ;go zhǒng;ov liú;bt guā;ud chú;em shù;ad	100
 掌筋膜纤维瘤病	zhǎng;xu jīn;vl mó;od xiān;sq wéi;sv liú;bt bìng;bn	100
-樟硫炉洗剂省皮	zhāng;au liú;ui lú;hh xǐ;de jì;qd shěng;uo pí;py	100
 掌挛缩病切除术	zhǎng;xu luán;wu suō;sb bìng;bn qiē;qd chú;em shù;ad	100
 樟脑水合氯醛酊	zhāng;au nǎo;ox shuǐ;ln hé;rk lǜ;qu quán;yw dīng;yd	100
-樟脑醑龙岩市一	zhāng;au nǎo;ox xǔ;yo lóng;yp yán;uu shì;wj yī;aa	100
 掌深动静脉损伤	zhǎng;xu shēn;da dòng;yl jìng;fy mài;oy sǔn;fb shāng;rl	100
 掌声指关节扭伤	zhǎng;xu shēng;tu zhǐ;fo guān;bt jié;ce niǔ;fi shāng;rl	100
 张翼德怒鞭督邮	zhāng;gi yì;xg dé;rx nù;nx biān;cg dū;uo yóu;ye	100
@@ -200051,8 +199909,6 @@ sort: by_weight
 止血宁片薄膜衣	zhǐ;bl,lu xuè;pm níng;bd piàn;pv báo;cc mó;od yī;wy	100
 止血祛瘀明目片	zhǐ;bl,lu xuè;pm qū;pq yū;bd míng;oo mù;we piàn;pv	100
 痔炎消片薄膜衣	zhì;bc yán;hh xiāo;do piàn;pv báo;cc mó;od yī;wy	100
-止痒冷霜一七五	zhǐ;bl,lu yǎng;by lěng;ds shuāng;yo yī;aa qī;av wǔ;aw	100
-止痒消炎水省皮	zhǐ;bl,lu yǎng;by xiāo;do yán;hh shuǐ;ln shěng;uo pí;py	100
 职业临床心理学	zhí;ev yè;la lín;lk chuáng;ga xīn;dd lǐ;wl xué;xz	100
 智欲圆而行欲方	zhì;uo yù;gq yuán;wb ér;al xíng;rd yù;gq fāng;wv	100
 支原体性尿道炎	zhī;uy yuán;ix tǐ;rb xìng;xu niào;uu dào;zz yán;hh	100
@@ -200953,7 +200809,6 @@ sort: by_weight
 独此一家别无分号	dú;qi cǐ;vb yì;aa jiā;bu bié;kd wú;ay fēn;bd hào;kk	100
 独乐乐不如众乐乐	dú;qi yuè;px lè;px bù;ab rú;nk zhòng;rr yuè;px lè;px	100
 断章取义驴唇马嘴	duàn;vt zhāng;lu qǔ;ey yì;dx lǘ;mh chún;ik mǎ;va zuǐ;ky	100
-对苯二甲酸二甲酯	duì;yc běn;cb èr;aa jiǎ;ol,tl suān;yw èr;aa jiǎ;ol,tl zhǐ;yo	100
 多分子层吸附理论	duō;xx fēn;bd zǐ;la céng;uy xī;kj fù;ec lǐ;wl lùn;yl	100
 多劳多得少劳少得	duō;xx láo;cl duō;xx dé;rc shǎo;xp láo;cl shǎo;xp dé;rc	100
 多一事不如少一事	duō;xx yí;aa shì;gy bù;ab rú;nk shǎo;xp yí;aa shì;gy	100
@@ -201091,6 +200946,7 @@ sort: by_weight
 聚氯乙烯覆面胶带	jù;eu lǜ;qu yǐ;vv xī;hj fù;xw miàn;ao jiāo;of dài;cj	100
 聚四氟乙烯滑动板	jù;eu sì;we fú;qf yǐ;vv xī;hj huá;do dòng;yl bǎn;ay	100
 聚氧乙烯烷基醇醚	jù;eu yǎng;qy yǐ;vv xī;hj wán;hy jī;ct chún;yz mí;ym	120
+枸橼酸钠二水合物	jǔ;aj yuán;au suān;yw nà;jn èr;aa shuǐ;ln hé;rk wù;nw	100
 君子不立危墙之下	jūn;yk zǐ;la bú;ab lì;wb wēi;dv qiáng;tk zhī;dn xià;ab	100
 君子一言驷马难追	jūn;yk zǐ;la yì;aa yán;wk sì;ms mǎ;va nán;yv zhuī;zl	100
 开链式鱼尾式喷射	kāi;ac liàn;ji shì;gg yú;da wěi;um shì;gg pēn;kb shè;uc	100
@@ -201116,6 +200972,7 @@ sort: by_weight
 良莠不齐鱼龙混杂	liáng;dg yǒu;cn bù;ab qí;wl yú;da lóng;yp hùn;db zá;ja	100
 磷酸二苯基异辛酯	lín;uf suān;yw èr;aa běn;cb jī;ct yì;sc xīn;lu zhǐ;yo	120
 邻乙氧基苯甲酰肼	lín;re yǐ;vv yǎng;qy jī;ct běn;cb jiǎ;ol,tl xiān;ye jǐng;oj	120
+六氟磷酸二苯碘鎓	liù;wb fú;qf lín;uf suān;yw èr;aa běn;cb diǎn;ub wēng;jx	100
 六基坑开挖与降水	liù;wb jī;ct kēng;tj kāi;ac wā;fv yǔ;va jiàng;ef shuǐ;ln	100
 六苴含铜砂岩矿床	liù;wb jū;cq hán;rk tóng;jk shā;uu yán;uu kuàng;ug chuáng;ga	100
 流水不腐户枢不蠹	liú;di shuǐ;ln bù;ab fǔ;gr hù;du shū;aq bú;ab dù;gi	100
