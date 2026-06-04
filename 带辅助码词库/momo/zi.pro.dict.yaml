@@ -1529,7 +1529,7 @@ sort: by_weight
 鶝	bì;an	1
 㓖	bì;df	1
 㕭	bì;ky	1
-㗊	bī;kk	1
+㗊	bī;xx	1
 㘠	bì;wb	1
 㘩	bì;tb	1
 㙄	bì;tt	1
@@ -1759,7 +1759,7 @@ sort: by_weight
 苄	biàn;cb	126
 砭	biān;uf	113
 鳊	biān;yc	102
-釆	biàn;va	92
+釆	biàn;pm	92
 辯	biàn;xk	83
 昪	biàn;oc	75
 貶	biǎn;bf	68
@@ -3363,7 +3363,7 @@ sort: by_weight
 簅	chǎn;vu	1
 㢟	chān;zv	1
 𦈎	chǎn;	1
-囅	chǎn;ky	1
+囅	chǎn;xy	1
 㙴	chàn;tk	1
 㙻	chán;tt	1
 㤐	chān;	1
@@ -3376,7 +3376,7 @@ sort: by_weight
 儳	chàn;rt	1
 刬	chàn;jd	1
 剗	chàn;gd	1
-單	chán;ku	1
+單	chán;xu	1
 嘽	chān;ku	1
 嚵	chān;kt	1
 崭	chán;ut	1
@@ -4852,7 +4852,7 @@ sort: by_weight
 耡	chú;ll	1
 蟵	chú;ic	1
 檚	chǔ;az	1
-嘼	chù;kk	1
+嘼	chù;xk	1
 竌	chù;lj	1
 敊	chù;uy	1
 椘	chǔ;av	1
@@ -6277,7 +6277,7 @@ sort: by_weight
 担	dàn;fd	788
 郸	dān;be	353
 惮	dàn;xu	318
-單	dān;ku	302
+單	dān;xu	302
 疸	dǎn;bd	257
 石	dàn;ak	244
 眈	dān;oe	208
@@ -6316,7 +6316,7 @@ sort: by_weight
 瘅	dàn;bu	6
 紞	dǎn;se	5
 窞	dàn;bj	4
-鄲	dān;ke	3
+鄲	dān;xe	3
 禫	dàn;pu	2
 髧	dàn;ee	1
 撢	dǎn;fu	1
@@ -6366,7 +6366,7 @@ sort: by_weight
 亶	dàn;wd	1
 呾	dàn;kd	1
 唌	dàn;kv	1
-嘼	dān;kk	1
+嘼	dān;xk	1
 惔	dàn;xh	1
 愖	dān;xb	1
 担	dǎn;fd	1
@@ -8424,7 +8424,7 @@ sort: by_weight
 鹅	é;wn	1438
 恶	ě;yx	1398
 厄	è;iv	584
-鄂	è;ke	526
+鄂	è;xe	526
 噩	è;wk	473
 鳄	è;yk	426
 阿	ē;ek	404
@@ -8434,7 +8434,7 @@ sort: by_weight
 扼	è;fv	251
 蛾	é;iw	226
 讹	é;yb	203
-颚	è;ky	183
+颚	è;xy	183
 愕	è;xk	165
 垩	è;yt	148
 萼	è;ck	133
@@ -8445,7 +8445,7 @@ sort: by_weight
 婀	ē;nk	78
 悪	è;yx	70
 锷	è;jk	63
-鹗	è;kn	57
+鹗	è;xn	57
 額	é;by	51
 惡	è;yx	46
 噁	ě;kx	41
@@ -8468,9 +8468,9 @@ sort: by_weight
 涐	é;dw	7
 誐	é;yw	6
 囮	é;wb	5
-咢	è;kk	4
+咢	è;xk	4
 妸	ē;nk	3
-顎	è;ky	2
+顎	è;xy	2
 阨	è;ev	1
 蕚	è;ck	1
 堮	è;tk	1
@@ -8493,8 +8493,8 @@ sort: by_weight
 頟	é;wy	1
 阸	è;ev	1
 堊	è;yt	1
-鶚	è;kn	1
-卾	è;ke	1
+鶚	è;xn	1
+卾	è;xe	1
 鑩	è;je	1
 吪	é;kb	1
 砐	è;uj	1
@@ -8529,7 +8529,7 @@ sort: by_weight
 磀	é;un	1
 蝁	è;yi	1
 䄉	é;pw	1
-覨	è;kj	1
+覨	è;xj	1
 㔩	è;bm	1
 㗁	è;kk	1
 𨱂	é;	1
@@ -8554,9 +8554,9 @@ sort: by_weight
 輵	è;ir	1
 鋨	é;jw	1
 鰪	è;ym	1
-㓵	è;kd	1
+㓵	è;xd	1
 㕎	è;im	1
-㖾	è;kn	1
+㖾	è;xn	1
 㗉	è;fk	1
 㠋	è;uk	1
 㟯	è;	1
@@ -8584,7 +8584,7 @@ sort: by_weight
 䛩	è;yy	1
 䝈	è;uv	1
 䞩	è;tk	1
-䣞	è;ke	1
+䣞	è;xe	1
 䩹	é;cg	1
 䫷	è;ey	1
 䱮	é;yd	1
@@ -12611,7 +12611,7 @@ sort: by_weight
 皋	háo;bu	1
 藃	hào;cq	1
 號	háo;kj	1
-㕺	háo;kk	1
+㕺	háo;xk	1
 㘪	hào;tm	1
 㚪	hào;nm	1
 㝀	hào;mz	1
@@ -14029,7 +14029,7 @@ sort: by_weight
 𠂄	huān;dr	1
 𠄔	huàn;	1
 𠟼	huán;yd	1
-𠺐	huàn;kj	1
+𠺐	huàn;xj	1
 𠻍	huàn;ky	1
 𡄤	huán;ky	1
 𡅱	huàn;kt	1
@@ -15165,7 +15165,7 @@ sort: by_weight
 鸄	jī;bn	1
 𠮯	jǐ;jk	1
 𠮷	jí;	1
-㗊	jí;kk	1
+㗊	jí;xx	1
 㙨	jì;tr	1
 㦸	jǐ;bg	1
 㾵	jì;bu	1
@@ -15651,7 +15651,7 @@ sort: by_weight
 铗	jiá;jj	19
 袷	jiá;pk	17
 賈	jiǎ;xb	15
-斝	jiǎ;kd	14
+斝	jiǎ;xd	14
 槚	jiǎ;ab	13
 泇	jiā;dk	12
 頰	jiá;dy	11
@@ -15731,7 +15731,7 @@ sort: by_weight
 䁍	jià;ok	1
 䂟	jiā;	1
 䇲	jiā;vj	1
-䑝	jiǎ;kf	1
+䑝	jiǎ;xf	1
 䕛	jiá;cr	1
 䖬	jiǎ;	1
 䘥	jiá;pj	1
@@ -19248,7 +19248,7 @@ sort: by_weight
 𠥺	kōu;	1
 库	kù;gi	23556
 苦	kǔ;cg	9434
-哭	kū;kq	9245
+哭	kū;xq	9245
 酷	kù;yk	3823
 裤	kù;pi	2252
 枯	kū;ag	1348
@@ -20640,7 +20640,7 @@ sort: by_weight
 㒦	lěi;rt	1
 㔣	lèi;tl	1
 㔣	léi;tl	1
-㗊	léi;kk	1
+㗊	léi;xx	1
 㡞	lěi;jn	1
 㭩	lèi;ac	1
 㰐	lěi;ao	1
@@ -22478,7 +22478,7 @@ sort: by_weight
 㵳	liú;dp	1
 㶯	liù;he	1
 㽌	liù;yw	1
-㽞	liú;kt	1
+㽞	liú;xt	1
 䉧	liú;vd	1
 䉧	liǔ;vd	1
 䉹	liǔ;vr	1
@@ -23637,7 +23637,7 @@ sort: by_weight
 麻	má;ga	4104
 嘛	ma;ka	3898
 玛	mǎ;wm	729
-骂	mà;sm	692
+骂	mà;xm	692
 蚂	mǎ;im	555
 抹	mā;fw	527
 吗	má;km	500
@@ -23661,7 +23661,7 @@ sort: by_weight
 螞	mǎ;im	63
 鎷	mǎ;jm	57
 犘	má;gn	51
-駡	mà;km	46
+駡	mà;xm	46
 嘜	mà;kw	41
 蚂	mā;im	37
 溤	mǎ;dm	33
@@ -25902,7 +25902,7 @@ sort: by_weight
 馕	nǎng;uy	1
 㒄	nàng;rh	1
 䂇	náng;mi	1
-𠶬	nàng;kw	1
+𠶬	nàng;xw	1
 𡿝	nàng;uy	1
 𢖧	nàng;ry	1
 𣰶	nǎng;ym	1
@@ -26606,7 +26606,7 @@ sort: by_weight
 䋻	nín;sg	1
 䚾	nín;yw	1
 䛘	nín;yw	1
-𠽝	nín;kb	1
+𠽝	nín;xb	1
 宁	níng;bd	4434
 凝	níng;dz	2794
 柠	níng;ad	2507
@@ -26904,7 +26904,7 @@ sort: by_weight
 𠕝	nuó;	1
 𠕰	nuó;	1
 𠸱	nuò;ku	1
-𠹈	nuó;kl	1
+𠹈	nuó;xl	1
 𡖔	nuǒ;xo	1
 𡖫	nuó;xv	1
 𡬥	nuó;kc	1
@@ -28566,7 +28566,7 @@ sort: by_weight
 柒	qī;da	23613
 妻	qī;un	23252
 气	qì;pv	22786
-器	qì;kk	19132
+器	qì;xx	19132
 齐	qí;wl	11441
 起	qǐ;tj	10868
 祁	qí;pe	1946
@@ -28674,7 +28674,7 @@ sort: by_weight
 愭	qí;xo	1
 倛	qī;rb	1
 竒	qí;wk	1
-噐	qì;kk	1
+噐	qì;xx	1
 忯	qí;xu	1
 婍	qǐ;nk	1
 臍	qí;oo	1
@@ -28814,7 +28814,7 @@ sort: by_weight
 㓞	qì;fd	1
 㔑	qì;cd	1
 㖢	qí;kb	1
-㗊	qì;kk	1
+㗊	qì;xx	1
 㘍	qì;kg	1
 㙨	qí;tr	1
 㝄	qì;wt	1
@@ -32484,7 +32484,7 @@ sort: by_weight
 𧴭	shǎn;pb	1
 傓	shān;rx	1
 儃	shàn;rd	1
-單	shàn;ku	1
+單	shàn;xu	1
 姍	shàn;nc	1
 姗	shàn;nc	1
 嶦	shàn;uk	1
@@ -33631,7 +33631,7 @@ sort: by_weight
 㥅	shòu;xy	1
 𠈅	shōu;rw	1
 𣒻	shòu;at	1
-嘼	shòu;kk	1
+嘼	shòu;xk	1
 扌	shǒu;aa	1
 敊	shōu;uy	1
 醻	shòu;yc	1
@@ -35987,7 +35987,7 @@ sort: by_weight
 髰	tì;eu	1
 鶙	tí;wn	1
 蕛	tí;cd	1
-鷤	tí;kn	1
+鷤	tí;xn	1
 朑	tì;ou	1
 謕	tí;yj	1
 䴘	tī;in	1
@@ -37127,7 +37127,7 @@ sort: by_weight
 柝	tuò;ai	120
 託	tuō;yq	108
 侂	tuō;rq	97
-鼍	tuó;kd	87
+鼍	tuó;xd	87
 箨	tuò;vf	78
 騨	tuó;mu	70
 讬	tuō;yq	63
@@ -37157,7 +37157,7 @@ sort: by_weight
 馱	tuó;md	4
 杔	tuō;aq	3
 沰	tuō;du	2
-鼉	tuó;kd	1
+鼉	tuó;xd	1
 岮	tuó;ub	1
 鰖	tuǒ;yo	1
 挩	tuō;fx	1
@@ -37963,7 +37963,7 @@ sort: by_weight
 㕒	wéi;iw	1
 㕒	wēi;iw	1
 㕒	wěi;iw	1
-㖐	wěi;ky	1
+㖐	wěi;xy	1
 㛱	wěi;ny	1
 㞇	wěi;yy	1
 㟪	wěi;uy	1
@@ -40290,7 +40290,7 @@ sort: by_weight
 宵	xiāo;bo	463
 硝	xiāo;uo	417
 潇	xiāo;db	375
-嚣	xiāo;kk	338
+嚣	xiāo;xx	338
 啸	xiào;kb	304
 淆	xiáo;do	274
 骁	xiāo;mw	247
@@ -40325,7 +40325,7 @@ sort: by_weight
 洨	xiáo;df	12
 殽	xiáo;xu	11
 敩	xiào;xw	10
-囂	xiāo;kk	9
+囂	xiāo;xx	9
 翛	xiāo;rx	8
 嘯	xiào;ka	7
 瀟	xiāo;da	6
@@ -41443,7 +41443,7 @@ sort: by_weight
 偦	xū;ro	1
 冔	xú;oy	1
 喐	xù;ke	1
-嘼	xù;kk	1
+嘼	xù;xk	1
 妶	xù;nx	1
 姁	xū;nj	1
 恓	xù;xx	1
@@ -42437,7 +42437,7 @@ sort: by_weight
 唁	yàn;kk	6
 芫	yán;cy	5
 鼹	yǎn;jn	4
-嚴	yán;kw	3
+嚴	yán;xw	3
 啱	yán;ku	2
 蝘	yǎn;in	1
 顏	yán;wy	1
@@ -44583,7 +44583,7 @@ sort: by_weight
 烎	yín;kh	4
 隂	yīn;eg	3
 溵	yīn;du	2
-嚚	yín;kk	1
+嚚	yín;xx	1
 冘	yín;be	1
 垔	yīn;xt	1
 隐	yìn;ex	1
@@ -47674,7 +47674,7 @@ sort: by_weight
 辗	zhǎn;iy	227
 戦	zhàn;xg	204
 毡	zhān;mv	193
-戰	zhàn;kg	166
+戰	zhàn;xg	166
 颤	zhàn;wy	157
 霑	zhān;yv	134
 旃	zhān;fd	121
@@ -48361,7 +48361,7 @@ sort: by_weight
 竧	zhěn;lu	1
 縝	zhěn;sb	1
 覙	zhěn;dj	1
-辴	zhěn;ki	1
+辴	zhěn;xi	1
 陳	zhèn;ed	1
 黱	zhèn;oh	1
 㓄	zhèn;se	1
@@ -49370,7 +49370,7 @@ sort: by_weight
 宙	zhòu;by	691
 舟	zhōu;pd	656
 皱	zhòu;dp	623
-咒	zhòu;kj	591
+咒	zhòu;xj	591
 肘	zhǒu;oc	561
 昼	zhòu;id	532
 轴	zhòu;iy	505
@@ -49399,7 +49399,7 @@ sort: by_weight
 冑	zhòu;ye	32
 鸼	zhōu;vn	29
 赒	zhōu;bk	26
-喌	zhōu;kv	23
+喌	zhōu;xv	23
 僽	zhòu;rx	21
 紂	zhòu;sc	19
 珘	zhōu;wv	17
@@ -51007,7 +51007,7 @@ sort: by_weight
 䯿	zuó;eu	1
 𠂇	zuǒ;ap	1
 𠇸	zuǒ;	1
-𠱯	zuò;kg	1
+𠱯	zuò;xg	1
 𠹠	zuō;ka	1
 𠻳	zuò;	1
 𡉡	zuò;	1
