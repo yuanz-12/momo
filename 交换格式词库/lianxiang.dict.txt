@@ -178,7 +178,6 @@ a wǒ bù zhī dào	啊我不知道
 āi ěr tuō huò luàn	埃尔托霍乱
 ài fā péng you quān	爱发朋友圈
 āi fēi ěr tiě tǎ	埃菲尔铁塔
-ài fēi tóng yì bān	暧非同一般
 ài gàn shá gàn shá	爱干啥干啥
 āi gē èr shì dí	埃戈二氏笛
 āi gé lín shì yàn	埃格林试验
@@ -1695,6 +1694,7 @@ bái zhǎng cháng bì yuán	白掌长臂猿
 bǎi zhě bàn shēn qún	百褶半身裙
 bǎi zhě de shè jì	百褶的设计
 bǎi zhě lián yī qún	百褶连衣裙
+bāi zhe shǒu zhǐ tou	掰着手指头
 bái zhǐ háng bái zhǐ	白芷杭白芷
 bái zhì hòu lián hé	白质后连合
 bái zhī jī huáng fàn	白汁鸡皇饭
@@ -1717,7 +1717,6 @@ bái zhú huáng qín tāng	白术黄芩汤
 bái zhú mài mén dōng	白术麦门冬
 bái zhú sháo yào tāng	白术芍药汤
 bái zhú yǐ rén tāng	白术苡仁汤
-bāi zhuó shǒu zhǐ tou	掰着手指头
 bài zi de bǐ yù	稗子的比喻
 bǎi zī kè lǐ kè	柏孜克里克
 bǎi zǐ lǐ gōng yuán	百子里公园
@@ -10981,6 +10980,7 @@ dà xùn tā qún dǎo	大巽他群岛
 dǎ yā shì jiào yù	打压式教育
 dà yà zhōu zhǔ yì	大亚洲主义
 dà yǎn dèng xiǎo yǎn	大眼瞪小眼
+dà yǎng huà shì jiàn	大氧化事件
 dǎ yǎng shēng lán qiú	打养生篮球
 dǎ yě ào lā fū	打野奥拉夫
 dǎ yě dǎ bù de	打也打不得
@@ -11029,6 +11029,7 @@ dà zhàng fū chǔ shì	大丈夫处世
 dà zhàng fū suǒ wéi	大丈夫所为
 dǎ zhàng qīn xiōng dì	打仗亲兄弟
 dǎ zhe cā biān qiú	打着擦边球
+dǎ zhe shǒu diàn tǒng	打着手电筒
 dà zhēn tàn bō luó	大侦探波罗
 dà zhēn tàn bō luò	大侦探波洛
 dà zhòng chuán bō shǐ	大众传播史
@@ -11052,7 +11053,6 @@ dà zhuā bǔ shì jiàn	大抓捕事件
 dà zhuān huò běn kē	大专或本科
 dà zhuàn le yì bǐ	大赚了一笔
 dà zhuāng yán lùn jīng	大庄严论经
-dǎ zhuó shǒu diàn tǒng	打着手电筒
 dǎ zì jī jiàn pán	打字机键盘
 dà zì liú pén dì	大自流盆地
 dà zì rán de měi	大自然的美
@@ -12114,6 +12114,7 @@ dǎo yǎn jiān biān jù	导演兼编剧
 dǎo yǎn jiān zhǔ yǎn	导演兼主演
 dǎo yǎn xié huì jiǎng	导演协会奖
 dǎo yǎn yǔ yǎn yuán	导演与演员
+dào yě dào bù míng	道也道不明
 dào yí dìng chéng dù	到一定程度
 dào yí dìng jìng jiè	到一定境界
 dào yí dìng nián líng	到一定年龄
@@ -12123,6 +12124,7 @@ dào yì fàng liǎng páng	道义放两旁
 dào yīn jiān chū chāi	到阴间出差
 dào yìng biàn tuǒ qiú	倒应变椭球
 dào yǐng zhōng de dēng	倒影中的灯
+dào yòu dào bù míng	道又道不明
 dào yǒu qǐng liú bù	道友请留步
 dǎo yǔ jù xíng huà	岛屿巨型化
 dǎo yǔ zhū rú huà	岛屿侏儒化
@@ -20195,8 +20197,7 @@ fù zé de lǎo shī	负责的老师
 fú zé hàn zì chū	浮则汗自出
 fù zé měi zhì huì	富泽美智惠
 fù zé rèn dà guó	负责任大国
-fù zé rèn de hǎo	负责任的好
-fù zé rèn de shuō	负责任的说
+fù zé rèn dì shuō	负责任地说
 fù zé rèn tài dù	负责任态度
 fú zé xiǎo biàn nán	伏则小便难
 fù zhài hé quán yì	负债和权益
@@ -33596,6 +33597,7 @@ jiāo yì zhí bō shì	交易直播室
 jiāo yín shī luó dé	交银施罗德
 jiāo yǒu bú shèn a	交友不慎啊
 jiào yǒu dài biǎo xìng	较有代表性
+jiào yòu jiāo bú huì	教又教不会
 jiāo yóu zhōng jiān cáo	焦油中间槽
 jiào yù bù yìn fā	教育部印发
 jiào yù bù zhí shǔ	教育部直属
@@ -42629,6 +42631,7 @@ luò lún zī xì tǒng	洛伦兹系统
 luò lún zī yīn shù	洛伦兹因数
 luó mǎ shì dà jiē	骡马市大街
 luò mǎ zhōu hé tào	落马洲河套
+luó màn ní kāng dì	罗曼尼康帝
 luò mò de bèi yǐng	落寞的背影
 luò mò ěr jī fēn	洛默尔积分
 luò mù fēi luò yè	落木非落叶
@@ -46070,13 +46073,13 @@ nà zěn me bàn a	那怎么办啊
 nà zěn me bàn ne	那怎么办呢
 nà zěn me bàn ya	那怎么办呀
 ná zhe dèng zi kàn	拿着凳子看
+ná zhe shǒu jī wán	拿着手机玩
 nà zhèng shì hé nǐ	那正适合你
 nà zhèng shì hé nǐ	那正是和你
 nà zhì bú èr yuè	那智不二越
 nà zhì huǒ chéng yán	钠质火成岩
 ná zhōng guó shuō shì	拿中国说事
 nà zhǒng xīn lǐ de	那种心理的
-ná zhuó shǒu jī wán	拿着手机玩
 ná zuò pǐn shuō huà	拿作品说话
 nài bó tè wén zì	奈伯特文字
 nǎi bù zhī yǒu hàn	乃不知有汉
@@ -62329,6 +62332,7 @@ shuō wén jiě zì zhù	说文解字注
 shuō xī bān yá yǔ	说西班牙语
 shuō yě shuō bù wán	说也说不完
 shuō yí qiè yǒu bù	说一切有部
+shuō yòu shuō bù qīng	说又说不清
 shuō yǔ shān guǐ tīng	说与山鬼听
 shuō zǒu jiù zǒu le	说走就走了
 shuō zǒu zán jiù zǒu	说走咱就走
@@ -85886,6 +85890,7 @@ zhè shì gè shá zì	这是个啥字
 zhè shì gè shǎ zi	这是个傻子
 zhè shì hái méi wán	这事还没完
 zhè shì jiāng shī ma	这是僵尸吗
+zhè shì nǎ yì jí	这是哪一集
 zhè shì qiǎo hé ma	这是巧合吗
 zhè shì tú láo de	这是徒劳的
 zhè shì wǒ de dǎo	这是我的岛
@@ -104208,13 +104213,13 @@ fǔ zé guān fǎ yú dì	俯则观法于地
 fù zé rèn de biǎo xiàn	负责任的表现
 fù zé rèn de dà guó	负责任的大国
 fù zé rèn de fāng shì	负责任的方式
-fù zé rèn de gào sù	负责任的告诉
 fù zé rèn de lǎo shī	负责任的老师
 fù zé rèn de nán rén	负责任的男人
-fù zé rèn de pī lù	负责任的披露
 fù zé rèn de qǐ yè	负责任的企业
 fù zé rèn de tài dù	负责任的态度
 fù zé rèn de zuò fǎ	负责任的做法
+fù zé rèn dì gào sù	负责任地告诉
+fù zé rèn dì pī lù	负责任地披露
 fù zé rì cháng shì wù	负责日常事务
 fù zé zǔ zhī shí shī	负责组织实施
 fù zhài dǐ xiāo kē mù	负债抵销科目
@@ -117808,7 +117813,7 @@ liǎng rén qíng tóu yì hé	两人情投意合
 liǎng rén rì jiǔ shēng qíng	两人日久生情
 liǎng rén shí zhǐ jǐn kòu	两人十指紧扣
 liǎng rén shí zhǐ xiāng kòu	两人十指相扣
-liǎng rén shǒu qiān zhuó shǒu	两人手牵着手
+liǎng rén shǒu qiān zhe shǒu	两人手牵着手
 liǎng rén xiāng rú yǐ mò	两人相濡以沫
 liǎng rén xiāng shí xiāng liàn	两人相识相恋
 liǎng rén xiāng shì yí xiào	两人相视一笑
@@ -140287,7 +140292,7 @@ yī shī zī gé zhèng shū	医师资格证书
 yì shí zuó mo bú tòu	一时琢磨不透
 yì shǒu gē de shí jiān	一首歌的时间
 yǐ shòu jiào yù chéng dù	已受教育程度
-yì shǒu ná zhuó shǒu jī	一手拿着手机
+yì shǒu ná zhe shǒu jī	一手拿着手机
 yì shù chuàng zuò shuò shì	艺术创作硕士
 yì shù fēn wéi nóng hòu	艺术氛围浓厚
 yì shù jiā de chuàng zuò	艺术家的创作
