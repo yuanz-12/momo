@@ -1,7 +1,7 @@
 # Rime dictionary
 # encoding: utf-8
 #https://github.com/amzxyz/RIME-LMDG
-#------行政区划、地理、地标、实体------
+#------行政区划、地理、地标、景区、实体------
 ---
 name: diming
 version: "LTS"
@@ -227,7 +227,11 @@ sort: by_weight
 万镇	wàn;av zhèn;jb	1
 湾沚	wān;dg zhǐ;dv	509
 望安	wàng;ww ān;bn	463
+王村	wáng;at cūn;ac	904
 望都	wàng;ww dū;le	252
+王寺	wáng;at sì;tc	178
+王屋	wáng;at wū;ut	729
+王庄	wáng;at zhuāng;gt	900
 卫滨	wèi;ea bīn;db	43
 威县	wēi;gn xiàn;qs	1094
 魏县	wèi;hg xiàn;qs	1064
@@ -17948,6 +17952,7 @@ sort: by_weight
 王殿村	wáng;at diàn;uu cūn;ac	52
 王店乡	wáng;at diàn;gv xiāng;vp	217
 王店镇	wáng;at diàn;gv zhèn;jb	353
+王顶堤	wáng;at dǐng;dy dī;tz	6
 王东村	wáng;at dōng;ax cūn;ac	1
 汪洞乡	wāng;dw dòng;dk xiāng;vp	1
 往洞镇	wǎng;rv dòng;dk zhèn;jb	1
@@ -17963,7 +17968,9 @@ sort: by_weight
 王坟镇	wáng;at fén;tw zhèn;jb	188
 望丰乡	wàng;ww fēng;sl,al xiāng;vp	1
 王奉镇	wáng;at fèng;if zhèn;jb	1
+王佛寺	wáng;at fó;rf sì;tc	32
 王府村	wáng;at fǔ;gc cūn;ac	159
+王府井	wáng;at fǔ;gc jǐng;ac,el	766
 王阜乡	wáng;at fù;pu xiāng;vp	538
 王府镇	wáng;at fǔ;gc zhèn;jb	167
 望夫镇	wàng;ww fū;er zhèn;jb	1
@@ -17986,6 +17993,7 @@ sort: by_weight
 汪沟镇	wāng;dw gōu;dg zhèn;jb	1
 王拐村	wáng;at guǎi;fl cūn;ac	94
 王官村	wáng;at guān;bl cūn;ac	145
+王官屯	wáng;at guān;bl tún;av	72
 望关镇	wàng;ww guān;bt zhèn;jb	1
 王官庄	wáng;at guān;bl zhuāng;gt	1
 王郭村	wáng;at guō;we cūn;ac	112
@@ -18022,12 +18030,14 @@ sort: by_weight
 王家河	wáng;at jiā;bu hé;dk	327
 王家井	wáng;at jiā;bu jǐng;ac,el	226
 王家口	wáng;at jiā;bu kǒu;la	120
+王家岭	wáng;at jiā;bu lǐng;us	396
 王家楼	wáng;at jiā;bu lóu;an	145
 王家庙	wáng;at jiā;bu miào;gy	133
 王家弄	wáng;at jiā;bu nòng;wc	69
 王家坪	wáng;at jiā;bu píng;tp	312
 王家坡	wáng;at jiā;bu pō;tp	215
 王家桥	wáng;at jiā;bu qiáo;al	270
+王家沙	wáng;at jiā;bu shā;du	50
 王家山	wáng;at jiā;bu shān;kl	246
 王家台	wáng;at jiā;bu tái;sk	263
 王家滩	wáng;at jiā;bu tān;dv	94
@@ -18100,7 +18110,9 @@ sort: by_weight
 王民乡	wáng;at mín;vv xiāng;vp	1
 望谟县	wàng;ww mó;yd xiàn;qs	168
 王磨镇	wáng;at mó;gu zhèn;jb	1
+王母池	wáng;at mǔ;md chí;dy	302
 王木村	wáng;at mù;ur cūn;ac	145
+王母宫	wáng;at mǔ;md gōng;bk	6
 王南村	wáng;at nán;ug cūn;ac	31
 汪棚镇	wāng;dw péng;ao zhèn;jb	1
 王坪村	wáng;at píng;tp cūn;ac	263
@@ -18197,6 +18209,7 @@ sort: by_weight
 汪洋镇	wāng;dw yáng;dy zhèn;jb	1
 王窑村	wáng;at yáo;bf cūn;ac	82
 王窑镇	wáng;at yáo;bf zhèn;jb	1
+王爷庙	wáng;at ye;fe miào;gy	6
 王益区	wáng;at yì;bm qū;kx	1
 王尹镇	wáng;at yǐn;ep zhèn;jb	1
 王营村	wáng;at yíng;ck cūn;ac	185
@@ -18225,9 +18238,12 @@ sort: by_weight
 王召乡	wáng;at zhào;dk xiāng;vp	139
 王助镇	wáng;at zhù;ql zhèn;jb	1
 王庄村	wáng;at zhuāng;gt cūn;ac	424
+王庄路	wáng;at zhuāng;gt lù;zk	213
 王庄乡	wáng;at zhuāng;gt xiāng;vp	300
+王庄站	wáng;at zhuāng;gt zhàn;lv	266
 王庄镇	wáng;at zhuāng;gt zhèn;jb	348
 王子村	wáng;at zǐ;la cūn;ac	252
+王子路	wáng;at zǐ;la lù;zk	382
 王子镇	wáng;at zǐ;la zhèn;jb	155
 王子庄	wáng;at zǐ;la zhuāng;gt	133
 王佐村	wáng;at zuǒ;rg cūn;ac	159
