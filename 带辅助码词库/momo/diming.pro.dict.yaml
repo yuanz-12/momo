@@ -527,9 +527,11 @@ sort: by_weight
 寿县	shòu;fc xiàn;qs	1241
 水林	shuǐ;ln lín;aa	455
 泗县	sì;ds xiàn;qs	636
+宋村	sòng;ba cūn;ac	878
 嵩县	sōng;uk xiàn;qs	434
 睢县	suī;ov xiàn;qs	395
 随县	suí;eo xiàn;qs	372
+孙村	sūn;zx cūn;ac	307
 孙桥	sūn;zx qiáo;al	29
 孙镇	sūn;zx zhèn;jb	1
 索县	suǒ;ux xiàn;qs	884
@@ -8624,6 +8626,7 @@ sort: by_weight
 黄邱村	huáng;cb qiū;qe cūn;ac	1
 黄渠村	huáng;cb qú;da cūn;ac	103
 黄渠镇	huáng;cb qú;da zhèn;jb	1
+黄荣村	huáng;cb róng;ca cūn;ac	20
 黄桑乡	huáng;cb sāng;ya xiāng;vp	1
 黄沙村	huáng;cb shā;du cūn;ac	249
 黄砂村	huáng;cb shā;uu cūn;ac	103
@@ -11421,6 +11424,7 @@ sort: by_weight
 李口村	lǐ;az kǒu;la cūn;ac	31
 李口镇	lǐ;az kǒu;la zhèn;jb	213
 历口镇	lì;il kǒu;la zhèn;jb	1
+李朗村	lǐ;az lǎng;lo cūn;ac	10
 里老乡	lǐ;tt lǎo;lb xiāng;vp	1
 黎里镇	lí;hu lǐ;tt zhèn;jb	202
 李林村	lǐ;az lín;aa cūn;ac	103
@@ -11498,6 +11502,7 @@ sort: by_weight
 礼士镇	lǐ;pv shì;ua zhèn;jb	552
 立石镇	lì;wb shí;ak zhèn;jb	522
 李士庄	lǐ;az shì;ua zhuāng;gt	127
+李树村	lǐ;az shù;ac cūn;ac	5
 梨树区	lí;ha shù;ac qū;kx	123
 梨树县	lí;ha shù;ac xiàn;qs	178
 梨树乡	lí;ha shù;ac xiāng;vp	1
@@ -11542,6 +11547,7 @@ sort: by_weight
 李圩村	lǐ;az wéi;ty cūn;ac	1
 李维县	lǐ;az wéi;sv xiàn;qs	56
 黎圩镇	lí;hu wéi;ty zhèn;jb	1
+李沃村	lǐ;az wò;dy cūn;ac	10
 犁倭镇	lí;hn wō;rn zhèn;jb	1
 李屋村	lǐ;az wū;ut cūn;ac	231
 蠡吾镇	lí;hi wú;wk zhèn;jb	1
@@ -25674,6 +25680,7 @@ sort: by_weight
 赵和镇	zhào;tx hé;hk zhèn;jb	1
 赵湖村	zhào;tx hú;do cūn;ac	159
 赵虎镇	zhào;tx hǔ;hj zhèn;jb	1
+赵化村	zhào;tx huà;rb cūn;ac	9
 昭化区	zhāo;ok huà;rb qū;kx	158
 赵化镇	zhào;tx huà;rb zhèn;jb	181
 昭化镇	zhāo;ok huà;rb zhèn;jb	1
@@ -25684,6 +25691,7 @@ sort: by_weight
 赵家堡	zhào;tx jiā;bu bǎo;rt	295
 赵家场	zhào;tx jiā;bu chǎng;tp	274
 赵家村	zhào;tx jiā;bu cūn;ac	312
+赵家村	zhào;tx jiā;bu cūn;ac	2	278
 赵家店	zhào;tx jiā;bu diàn;gv	243
 赵家渡	zhào;tx jiā;bu dù;dy	270
 赵家墩	zhào;tx jiā;bu dūn;tw	212
@@ -51272,6 +51280,7 @@ sort: by_weight
 前进林场	qián;bd jìn;zj lín;aa chǎng;tp	1
 前进农场	qián;bd jìn;zj nóng;by chǎng;tp	1
 前荆沟村	qián;bd jīng;cd gōu;dg cūn;ac	1
+浅井头村	qiǎn;dj jǐng;ac,el tóu;dd cūn;ac	10
 前景庄村	qián;bd jǐng;ox zhuāng;gt cūn;ac	1
 前旧县村	qián;bd jiù;lo xiàn;qs cūn;ac	1
 前巨仁村	qián;bd jù;kk rén;re cūn;ac	1
@@ -51468,6 +51477,7 @@ sort: by_weight
 前桃洼村	qián;bd táo;av wā;dt cūn;ac	1
 前桃塬村	qián;bd táo;av yuán;tx cūn;ac	1
 前桃园村	qián;bd táo;av yuán;wy cūn;ac	1
+前田楼村	qián;bd tián;wu lóu;an cūn;ac	20
 前田庄村	qián;bd tián;wu zhuāng;gt cūn;ac	1
 前铁社区	qián;bd tiě;jf shè;pt qū;kx	99
 前亭子村	qián;bd tíng;wd zi;la cūn;ac	1
@@ -57279,6 +57289,7 @@ sort: by_weight
 特塔鲁乡	tè;nc tǎ;tk lǔ;yo xiāng;vp	1
 特乌鲁乡	tè;nc wū;pa lǔ;yo xiāng;vp	1
 特兴街道	tè;nc xīng;xb jiē;rt dào;zz	1
+藤公山村	téng;cu gōng;bs shān;kl cūn;ac	40
 滕家河村	téng;ou jiā;bu hé;dk cūn;ac	1
 滕家庄村	téng;ou jiā;bu zhuāng;gt cūn;ac	1
 腾龙街道	téng;om lóng;yp jiē;rt dào;zz	1
@@ -57577,6 +57588,7 @@ sort: by_weight
 田镇街道	tián;wu zhèn;jb jiē;rt dào;zz	1
 天置山庄	tiān;ad zhì;sq shān;kl zhuāng;gt	1
 天中街道	tiān;ad zhōng;kl jiē;rt dào;zz	1
+田中央村	tián;wu zhōng;kl yāng;kr cūn;ac	20
 天竺地区	tiān;ad zhú;ve dì;ty qū;kx	1
 天竺岗村	tiān;ad zhú;ve gǎng;ux cūn;ac	1
 天柱山村	tiān;ad zhù;av shān;kl cūn;ac	1
