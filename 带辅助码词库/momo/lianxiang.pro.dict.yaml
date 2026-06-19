@@ -53633,7 +53633,7 @@ sort: by_weight
 人只要拥有	rén;pn zhǐ;kb yào;xn yōng;fy yǒu;uo	100
 人质症候群	rén;pn zhì;ib zhèng;bv hòu;ru qún;yy	100
 人种地理学	rén;pn zhǒng;hv dì;ty lǐ;wl xué;xz	100
-任重而道远	rèn;rw zhòng;ql ér;al dào;zz yuǎn;zy	100
+任重而道远	rén;rw zhòng;ql ér;al dào;zz yuǎn;zy	100
 人种改良学	rén;pn zhǒng;hv gǎi;jw liáng;dg xué;xz	100
 人终其一生	rén;pn zhōng;sd qí;cb yì;aa shēng;pf	100
 人种药理学	rén;pn zhǒng;hv yào;cu lǐ;wl xué;xz	100
@@ -56494,10 +56494,8 @@ sort: by_weight
 沈吕九方程	shěn;de lǚ;kk jiǔ;pv fāng;wv chéng;hw	100
 什么程度才	shén;ru me;ps chéng;hw dù;gy cái;up	100
 什么东西呀	shén;ru me;ps dōng;ax xi;ak,wk ya;ky	100
-什么都不干	shén;ru me;ps dōu;le bú;ab gàn;au	100
 什么都不精	shén;ru me;ps dōu;le bù;ab jīng;mo	100
 什么都不图	shén;ru me;ps dōu;le bù;ab tú;wd	100
-什么都不问	shén;ru me;ps dōu;le bú;ab wèn;mk	100
 什么都没学	shén;ru me;ps dōu;le méi;du xué;xz	100
 什么都是错	shén;ru me;ps dōu;le shì;oz cuò;jo	100
 什么反应的	shén;ru me;ps fǎn;iy yìng;ga de;bu	100
@@ -58765,6 +58763,8 @@ sort: by_weight
 世茂世界湾	shì;cv mào;cg shì;cv jiè;tj wān;dg	100
 世贸中心站	shì;cv mào;pb zhōng;kl xīn;dd zhàn;lv	100
 什么都不搭	shí;ru me;ps dōu;le bù;ab dā;fk	100
+什么都不干	shí;ru me;ps dōu;le bú;ab gàn;au	100
+什么都不问	shí;ru me;ps dōu;le bú;ab wèn;mk	100
 时美百服咛	shí;to měi;yd bǎi;ab fú;oy níng;kd	100
 饰美叉丝壳	shì;uj měi;yd chā;yd sī;sa ké;tj	100
 十美分硬币	shí;al měi;yd fēn;bd yìng;ug bì;pj	100
@@ -67457,7 +67457,7 @@ sort: by_weight
 危害和平罪	wēi;dv hài;bk hé;hk píng;au zuì;sf	100
 威海刘公岛	wēi;gn hǎi;dm liú;wd gōng;bs dǎo;nu	100
 危害人类罪	wēi;dv hài;bk rén;pn lèi;md zuì;sf	100
-喂孩子吃饭	wèi;ky hái;zr zǐ;la chī;kv fàn;uy	100
+喂孩子吃饭	wèi;ky hái;zr zi;la chī;kv fàn;uy	100
 未合并领土	wèi;aa,er hé;rk bìng;bk lǐng;ry tǔ;ua	100
 渭河平原带	wèi;do hé;dk píng;au yuán;ix dài;cj	100
 围合式布局	wéi;ww hé;rk shì;gg bù;uj jú;uk	100
@@ -70572,8 +70572,8 @@ sort: by_weight
 喜欢艾米尔	xǐ;tk huan;yq ài;cx mǐ;ba ěr;dx	100
 喜欢安德鲁	xǐ;tk huan;yq ān;bn dé;rx lǔ;yo	100
 喜欢布莱德	xǐ;tk huan;yq bù;uj lái;cl dé;rx	100
-喜欢吃的菜	xǐ;tk huān;yq chī;kv de;bu cài;ca	100
-喜欢吃面食	xǐ;tk huān;yq chī;kv miàn;ao shí;rg	100
+喜欢吃的菜	xǐ;tk huan;yq chī;kv de;bu cài;ca	100
+喜欢吃面食	xǐ;tk huan;yq chī;kv miàn;ao shí;rg	100
 喜欢的老师	xǐ;tk huan;yq de;bu lǎo;lb shī;lj	100
 喜欢的美食	xǐ;tk huan;yq de;bu měi;yd shí;rg	100
 喜欢的人是	xǐ;tk huan;yq de;bu rén;pn shì;oz	100
@@ -83844,7 +83844,7 @@ sort: by_weight
 运输与物流	yùn;zy shū;id yǔ;va wù;nw liú;di	100
 运算符重载	yùn;zy suàn;vc fú;vc chóng;ql zǎi;gi	100
 运算子重载	yùn;zy suàn;vc zǐ;la zhòng;ql zài;gi	100
-芸苔素内酯	yún;cy tái;ck sù;fx nèi;kr zhǐ;yo	100
+芸薹素内酯	yún;cy tái;ct sù;fx nèi;kr zhǐ;yo	100
 运维检修部	yùn;zy wéi;sv jiǎn;aq xiū;rp bù;le	100
 运维自动化	yùn;zy wéi;sv zì;po dòng;yl huà;rb	100
 云县公安局	yún;ag,es xiàn;qs gōng;bs ān;bn jú;uk	100
@@ -93780,7 +93780,7 @@ sort: by_weight
 表现主义音乐	biǎo;fy xiàn;wj zhǔ;wt yì;dx yīn;lo yuè;px	100
 表现主义作家	biǎo;fy xiàn;wj zhǔ;wt yì;dx zuò;rv jiā;bu	100
 表现主义作品	biǎo;fy xiàn;wj zhǔ;wt yì;dx zuò;rv pǐn;kk	100
-表芸苔素内酯	biǎo;fy yún;cy tái;ck sù;fx nèi;kr zhǐ;yo	100
+表芸薹素内酯	biǎo;fy yún;cy tái;ct sù;fx nèi;kr zhǐ;yo	100
 表彰先进典型	biǎo;fy zhāng;lp xiān;ne jìn;zj diǎn;qb,cb xíng;kt	100
 标志性的建筑	biāo;au zhì;tx xìng;xu de;bu jiàn;zy zhù;vf	100
 标志性的笑容	biāo;au zhì;tx xìng;xu de;bu xiào;vy róng;bg	100
@@ -97160,24 +97160,6 @@ sort: by_weight
 创纪录的水平	chuàng;rd jì;sj lù;eu de;bu shuǐ;ln píng;au	100
 创纪之城五期	chuàng;rd jì;sj zhī;dn chéng;ti wǔ;aw qī;co	100
 创金合信基金	chuàng;rd jīn;rb hé;rk xìn;rk jī;ct jīn;rb	100
-创伤后骨萎缩	chuāng;rd shāng;rl hòu;ik gǔ;go wěi;cn suō;sb	100
-创伤破坏强度	chuāng;rd shāng;rl pò;up huài;tb qiáng;gi dù;gy	100
-创伤性白内障	chuāng;rd shāng;rl xìng;xu bái;po nèi;kr zhàng;eu	100
-创伤性臂切断	chuāng;rd shāng;rl xìng;xu bì;uo qiē;qd duàn;vt	100
-创伤性肝破裂	chuāng;rd shāng;rl xìng;xu gān;og pò;up liè;dy	100
-创伤性膈破裂	chuāng;rd shāng;rl xìng;xu gé;og pò;up liè;dy	100
-创伤性脑出血	chuāng;rd shāng;rl xìng;xu nǎo;ox chū;uu xiě;pm	100
-创伤性脑梗塞	chuāng;rd shāng;rl xìng;xu nǎo;ox gěng;ag sè;bt	100
-创伤性脑受压	chuāng;rd shāng;rl xìng;xu nǎo;ox shòu;vy yā;id	100
-创伤性脑损伤	chuāng;rd shāng;rl xìng;xu nǎo;ox sǔn;fb shāng;rl	100
-创伤性尿道瘘	chuāng;rd shāng;rl xìng;xu niào;uu dào;zz lòu;bn	100
-创伤性脾破裂	chuāng;rd shāng;rl xìng;xu pí;ou pò;up liè;dy	100
-创伤性青光眼	chuāng;rd shāng;rl xìng;xu qīng;fo guāng;xe yǎn;og	100
-创伤性胃穿孔	chuāng;rd shāng;rl xìng;xu wèi;to chuān;by kǒng;zv	100
-创伤性血气胸	chuāng;rd shāng;rl xìng;xu xuè;pm qì;pv xiōng;ox	100
-创伤性牙折断	chuāng;rd shāng;rl xìng;xu yá;gp,ac zhé;ft duàn;vt	100
-创伤用骶骨板	chuāng;rd shāng;rl yòng;kf,ol dǐ;gu gǔ;go bǎn;ay	100
-创伤用骶骨棒	chuāng;rd shāng;rl yòng;kf,ol dǐ;gu gǔ;go bàng;af	100
 创神网络科技	chuàng;rd shén;pu wǎng;kx luò;sk kē;hd jì;fv	100
 创圣的大天使	chuàng;rd shèng;yt de;bu dà;ar tiān;ad shǐ;rl	100
 创圣机械天使	chuàng;rd shèng;yt jī;aj xiè;ac tiān;ad shǐ;rl	100
@@ -123904,7 +123886,7 @@ sort: by_weight
 认清当前形势	rèn;yr qīng;do dāng;xe qián;bd xíng;kp shì;fl	100
 认清生活真相	rèn;yr qīng;do shēng;pf huó;du zhēn;ub xiàng;ao	100
 人情世故的事	rén;pn qíng;xo shì;cv gù;gw de;bu shì;gy	100
-任泉和李冰冰	rèn;rw quán;bu hé;hk lǐ;az bīng;du bīng;du	100
+任泉和李冰冰	rén;rw quán;bu hé;hk lǐ;az bīng;du bīng;du	100
 人群聚集场所	rén;pn qún;yy jù;eu jí;ra chǎng;tp suǒ;ht	100
 人群普遍易感	rén;pn qún;yy pǔ;bo biàn;zc yì;ow gǎn;gx	100
 人群熙熙攘攘	rén;pn qún;yy xī;ih xī;ih rǎng;ff rǎng;ff	100
@@ -155863,8 +155845,8 @@ sort: by_weight
 孩子毕竟是孩子	hái;zr zi;la bì;bu jìng;le shì;oz hái;zr zi;la	100
 孩子不好好吃饭	hái;zr zi;la bù;ab hǎo;nz hǎo;nz chī;kv fàn;uy	100
 孩子缺乏安全感	hái;zr zi;la quē;fg fá;pv ān;bn quán;rw gǎn;gx	100
-孩子是自己的好	hái;zr zǐ;la shì;oz zì;po jǐ;kv de;bu hǎo;nz	100
-孩子特别喜欢吃	hái;zr zi;la tè;nc bié;kd xǐ;tk huān;yq chī;kv	100
+孩子是自己的好	hái;zr zi;la shì;oz zì;po jǐ;kv de;bu hǎo;nz	100
+孩子特别喜欢吃	hái;zr zi;la tè;nc bié;kd xǐ;tk huan;yq chī;kv	100
 孩子最好的老师	hái;zr zi;la zuì;oy hǎo;nz de;bu lǎo;lb shī;lj	100
 罕百里教法学派	hǎn;bg bǎi;ab lǐ;tt jiào;lw fǎ;dq xué;xz pài;dy	100
 汉堡纤维蛋白原	hàn;dy bǎo;rt xiān;sq wéi;sv dàn;zi bái;po yuán;ix	100
@@ -160630,6 +160612,7 @@ sort: by_weight
 植物体细胞杂交	zhí;aq wù;nw tǐ;rb xì;st bāo;ob zá;ja jiāo;wf	100
 直线缝合器钉仓	zhí;uq xiàn;sj féng;sf hé;rk qì;xx dīng;jd cāng;rv	100
 直线切割缝合器	zhí;uq xiàn;sj qiē;qd gē;bd féng;sf hé;rk qì;xx	100
+知小礼而无大义	zhī;uk xiǎo;lb lǐ;pv ér;al wú;ay dà;ar yì;dx	100
 致泻性大肠杆菌	zhì;gw xiè;dy xìng;xu dà;ar cháng;op gǎn;ag jūn;ch	100
 直型钢板不锈钢	zhí;uq xíng;kt gāng;jx bǎn;ay bú;ab xiù;jn gāng;jx	100
 直型钢板钛合金	zhí;uq xíng;kt gāng;jx bǎn;ay tài;jt hé;rk jīn;rb	100

@@ -53633,7 +53633,7 @@ sort: by_weight
 人只要拥有	rén zhǐ yào yōng yǒu	100
 人质症候群	rén zhì zhèng hòu qún	100
 人种地理学	rén zhǒng dì lǐ xué	100
-任重而道远	rèn zhòng ér dào yuǎn	100
+任重而道远	rén zhòng ér dào yuǎn	100
 人种改良学	rén zhǒng gǎi liáng xué	100
 人终其一生	rén zhōng qí yì shēng	100
 人种药理学	rén zhǒng yào lǐ xué	100
@@ -56494,10 +56494,8 @@ sort: by_weight
 沈吕九方程	shěn lǚ jiǔ fāng chéng	100
 什么程度才	shén me chéng dù cái	100
 什么东西呀	shén me dōng xi ya	100
-什么都不干	shén me dōu bú gàn	100
 什么都不精	shén me dōu bù jīng	100
 什么都不图	shén me dōu bù tú	100
-什么都不问	shén me dōu bú wèn	100
 什么都没学	shén me dōu méi xué	100
 什么都是错	shén me dōu shì cuò	100
 什么反应的	shén me fǎn yìng de	100
@@ -58765,6 +58763,8 @@ sort: by_weight
 世茂世界湾	shì mào shì jiè wān	100
 世贸中心站	shì mào zhōng xīn zhàn	100
 什么都不搭	shí me dōu bù dā	100
+什么都不干	shí me dōu bú gàn	100
+什么都不问	shí me dōu bú wèn	100
 时美百服咛	shí měi bǎi fú níng	100
 饰美叉丝壳	shì měi chā sī ké	100
 十美分硬币	shí měi fēn yìng bì	100
@@ -67457,7 +67457,7 @@ sort: by_weight
 危害和平罪	wēi hài hé píng zuì	100
 威海刘公岛	wēi hǎi liú gōng dǎo	100
 危害人类罪	wēi hài rén lèi zuì	100
-喂孩子吃饭	wèi hái zǐ chī fàn	100
+喂孩子吃饭	wèi hái zi chī fàn	100
 未合并领土	wèi hé bìng lǐng tǔ	100
 渭河平原带	wèi hé píng yuán dài	100
 围合式布局	wéi hé shì bù jú	100
@@ -70572,8 +70572,8 @@ sort: by_weight
 喜欢艾米尔	xǐ huan ài mǐ ěr	100
 喜欢安德鲁	xǐ huan ān dé lǔ	100
 喜欢布莱德	xǐ huan bù lái dé	100
-喜欢吃的菜	xǐ huān chī de cài	100
-喜欢吃面食	xǐ huān chī miàn shí	100
+喜欢吃的菜	xǐ huan chī de cài	100
+喜欢吃面食	xǐ huan chī miàn shí	100
 喜欢的老师	xǐ huan de lǎo shī	100
 喜欢的美食	xǐ huan de měi shí	100
 喜欢的人是	xǐ huan de rén shì	100
@@ -83844,7 +83844,7 @@ sort: by_weight
 运输与物流	yùn shū yǔ wù liú	100
 运算符重载	yùn suàn fú chóng zǎi	100
 运算子重载	yùn suàn zǐ zhòng zài	100
-芸苔素内酯	yún tái sù nèi zhǐ	100
+芸薹素内酯	yún tái sù nèi zhǐ	100
 运维检修部	yùn wéi jiǎn xiū bù	100
 运维自动化	yùn wéi zì dòng huà	100
 云县公安局	yún xiàn gōng ān jú	100
@@ -93780,7 +93780,7 @@ sort: by_weight
 表现主义音乐	biǎo xiàn zhǔ yì yīn yuè	100
 表现主义作家	biǎo xiàn zhǔ yì zuò jiā	100
 表现主义作品	biǎo xiàn zhǔ yì zuò pǐn	100
-表芸苔素内酯	biǎo yún tái sù nèi zhǐ	100
+表芸薹素内酯	biǎo yún tái sù nèi zhǐ	100
 表彰先进典型	biǎo zhāng xiān jìn diǎn xíng	100
 标志性的建筑	biāo zhì xìng de jiàn zhù	100
 标志性的笑容	biāo zhì xìng de xiào róng	100
@@ -97160,24 +97160,6 @@ sort: by_weight
 创纪录的水平	chuàng jì lù de shuǐ píng	100
 创纪之城五期	chuàng jì zhī chéng wǔ qī	100
 创金合信基金	chuàng jīn hé xìn jī jīn	100
-创伤后骨萎缩	chuāng shāng hòu gǔ wěi suō	100
-创伤破坏强度	chuāng shāng pò huài qiáng dù	100
-创伤性白内障	chuāng shāng xìng bái nèi zhàng	100
-创伤性臂切断	chuāng shāng xìng bì qiē duàn	100
-创伤性肝破裂	chuāng shāng xìng gān pò liè	100
-创伤性膈破裂	chuāng shāng xìng gé pò liè	100
-创伤性脑出血	chuāng shāng xìng nǎo chū xiě	100
-创伤性脑梗塞	chuāng shāng xìng nǎo gěng sè	100
-创伤性脑受压	chuāng shāng xìng nǎo shòu yā	100
-创伤性脑损伤	chuāng shāng xìng nǎo sǔn shāng	100
-创伤性尿道瘘	chuāng shāng xìng niào dào lòu	100
-创伤性脾破裂	chuāng shāng xìng pí pò liè	100
-创伤性青光眼	chuāng shāng xìng qīng guāng yǎn	100
-创伤性胃穿孔	chuāng shāng xìng wèi chuān kǒng	100
-创伤性血气胸	chuāng shāng xìng xuè qì xiōng	100
-创伤性牙折断	chuāng shāng xìng yá zhé duàn	100
-创伤用骶骨板	chuāng shāng yòng dǐ gǔ bǎn	100
-创伤用骶骨棒	chuāng shāng yòng dǐ gǔ bàng	100
 创神网络科技	chuàng shén wǎng luò kē jì	100
 创圣的大天使	chuàng shèng de dà tiān shǐ	100
 创圣机械天使	chuàng shèng jī xiè tiān shǐ	100
@@ -123904,7 +123886,7 @@ sort: by_weight
 认清当前形势	rèn qīng dāng qián xíng shì	100
 认清生活真相	rèn qīng shēng huó zhēn xiàng	100
 人情世故的事	rén qíng shì gù de shì	100
-任泉和李冰冰	rèn quán hé lǐ bīng bīng	100
+任泉和李冰冰	rén quán hé lǐ bīng bīng	100
 人群聚集场所	rén qún jù jí chǎng suǒ	100
 人群普遍易感	rén qún pǔ biàn yì gǎn	100
 人群熙熙攘攘	rén qún xī xī rǎng rǎng	100
@@ -155863,8 +155845,8 @@ sort: by_weight
 孩子毕竟是孩子	hái zi bì jìng shì hái zi	100
 孩子不好好吃饭	hái zi bù hǎo hǎo chī fàn	100
 孩子缺乏安全感	hái zi quē fá ān quán gǎn	100
-孩子是自己的好	hái zǐ shì zì jǐ de hǎo	100
-孩子特别喜欢吃	hái zi tè bié xǐ huān chī	100
+孩子是自己的好	hái zi shì zì jǐ de hǎo	100
+孩子特别喜欢吃	hái zi tè bié xǐ huan chī	100
 孩子最好的老师	hái zi zuì hǎo de lǎo shī	100
 罕百里教法学派	hǎn bǎi lǐ jiào fǎ xué pài	100
 汉堡纤维蛋白原	hàn bǎo xiān wéi dàn bái yuán	100
@@ -160630,6 +160612,7 @@ sort: by_weight
 植物体细胞杂交	zhí wù tǐ xì bāo zá jiāo	100
 直线缝合器钉仓	zhí xiàn féng hé qì dīng cāng	100
 直线切割缝合器	zhí xiàn qiē gē féng hé qì	100
+知小礼而无大义	zhī xiǎo lǐ ér wú dà yì	100
 致泻性大肠杆菌	zhì xiè xìng dà cháng gǎn jūn	100
 直型钢板不锈钢	zhí xíng gāng bǎn bú xiù gāng	100
 直型钢板钛合金	zhí xíng gāng bǎn tài hé jīn	100
