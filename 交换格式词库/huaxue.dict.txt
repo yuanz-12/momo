@@ -459,7 +459,32 @@ jiǎ běn kūn	甲苯醌
 jiǎ běn lán	甲苯蓝
 jiǎ chún tǎn	甲醇钽
 jiǎ fú kuí	甲氟喹
+jiǎ jī běn	甲基苯
+jiǎ jī chéng	甲基橙
+jiǎ jī diǎn	甲基碘
+jiǎ jī dīng	甲基丁
+jiǎ jī ēn	甲基蒽
+jiǎ jī gǒng	甲基汞
+jiǎ jī hóng	甲基红
+jiǎ jī huà	甲基化
+jiǎ jī huáng	甲基黄
+jiǎ jī jǐ	甲基己
+jiǎ jī jiǎ	甲基钾
+jiǎ jī jǐng	甲基肼
+jiǎ jī lán	甲基蓝
+jiǎ jī lǐ	甲基锂
+jiǎ jī lìn	甲基膦
 jiǎ jī lǜ	甲基氯
+jiǎ jī lǜ	甲基绿
+jiǎ jī mí	甲基醚
+jiǎ jī nài	甲基萘
+jiǎ jī niào	甲基脲
+jiǎ jī qū	甲基䓛
+jiǎ jī shèn	甲基胂
+jiǎ jī xiù	甲基溴
+jiǎ jī zhì	甲基质
+jiǎ jī zǐ	甲基紫
+jiǎ jī zú	甲基族
 jiǎ lǜ fǎng	甲氯仿
 jiā qīng běn	加氢苯
 jiǎ suān bèi	甲酸钡
@@ -530,6 +555,13 @@ kě lǜ dān	可氯丹
 kē tǎn kuàng	钶钽矿
 kē xìng jiǎn	苛性碱
 kǔ jī lǜ	苦基氯
+kuí lín huáng	喹啉黄
+kuí lín jī	喹啉基
+kuí lín jiǎn	喹啉碱
+kuí lín lán	喹啉蓝
+kuí lín lèi	喹啉类
+kuí lín lín	喹啉磷
+kuí lín suān	喹啉酸
 lán mù kuàng	蓝钼矿
 lǐ pī shí	锂铍石
 lián běn àn	联苯胺
@@ -2850,11 +2882,106 @@ jiǎ běn yǐ xī	甲苯乙烯
 jiǎ chā èr lǜ	甲叉二氯
 jiǎ fán yóu kuàng	钾钒铀矿
 jiǎ fú pài suān	甲氟哌酸
+jiǎ jī ān suān	甲基氨酸
+jiǎ jī ǎn yán	甲基铵盐
 jiǎ jī běn àn	甲基苯胺
+jiǎ jī bǐ dìng	甲基吡啶
+jiǎ jī bǐ gē	甲基吡咯
+jiǎ jī bǐ qín	甲基吡嗪
+jiǎ jī bǐ zuò	甲基吡唑
+jiǎ jī biàn àn	甲基苄胺
+jiǎ jī biàn jǐng	甲基苄肼
+jiǎ jī bǐng quán	甲基丙醛
+jiǎ jī bǐng tóng	甲基丙酮
+jiǎ jī bǐng xī	甲基丙烯
+jiǎ jī chéng shì	甲基橙试
+jiǎ jī dǎn ēn	甲基胆蒽
+jiǎ jī dǎn jiǎn	甲基胆碱
+jiǎ jī diàn hóng	甲基靛红
+jiǎ jī dié dàn	甲基叠氮
+jiǎ jī dīng àn	甲基丁胺
+jiǎ jī dīng chún	甲基丁醇
+jiǎ jī dīng jī	甲基丁基
+jiǎ jī dīng quán	甲基丁醛
+jiǎ jī dīng suān	甲基丁酸
+jiǎ jī dīng tóng	甲基丁酮
+jiǎ jī dīng wán	甲基丁烷
+jiǎ jī dīng xī	甲基丁烯
+jiǎ jī dīng zhǐ	甲基丁酯
+jiǎ jī dòu zāi	甲基豆甾
+jiǎ jī duō bā	甲基多巴
+jiǎ jī ēn kūn	甲基蒽醌
 jiǎ jī èr lǜ	甲基二氯
+jiǎ jī fū nán	甲基呋喃
+jiǎ jī gǎn jūn	甲基杆菌
+jiǎ jī gān yóu	甲基甘油
+jiǎ jī gāo tóng	甲基睾酮
+jiǎ jī gēng àn	甲基庚胺
+jiǎ jī gēng chún	甲基庚醇
+jiǎ jī gēng tóng	甲基庚酮
+jiǎ jī gēng wán	甲基庚烷
+jiǎ jī gōng tǐ	甲基供体
+jiǎ jī guī yóu	甲基硅油
+jiǎ jī huà jì	甲基化剂
+jiǎ jī huà méi	甲基化酶
+jiǎ jī huà wù	甲基化物
+jiǎ jī huáng suān	甲基磺酸
+jiǎ jī jǐ àn	甲基己胺
+jiǎ jī jì ǎn	甲基季铵
+jiǎ jī jǐ chún	甲基己醇
+jiǎ jī jǐ suān	甲基己酸
+jiǎ jī jǐ tóng	甲基己酮
+jiǎ jī jǐ wán	甲基己烷
+jiǎ jī jiǎ zhǐ	甲基甲酯
 jiǎ jī jiān běn	甲基间苯
+jiǎ jī kāng quán	甲基糠醛
+jiǎ jī kuí lín	甲基喹啉
+jiǎ jī lào àn	甲基酪胺
+jiǎ jī lián àn	甲基联胺
 jiǎ jī lián běn	甲基联苯
+jiǎ jī lìn suān	甲基膦酸
+jiǎ jī liú niào	甲基硫脲
 jiǎ jī lǜ biàn	甲基氯苄
+jiǎ jī ma lín	甲基吗啉
+jiǎ jī mì dìng	甲基嘧啶
+jiǎ jī mī zuò	甲基咪唑
+jiǎ jī mù táng	甲基木糖
+jiǎ jī nài kūn	甲基萘醌
+jiǎ jī niào gān	甲基尿苷
+jiǎ jī niǎo gān	甲基鸟苷
+jiǎ jī pài dìng	甲基哌啶
+jiǎ jī pài qín	甲基哌嗪
+jiǎ jī piào lìng	甲基嘌呤
+jiǎ jī qiàn sù	甲基茜素
+jiǎ jī qiǎng àn	甲基羟胺
+jiǎ jī qiú jūn	甲基球菌
+jiǎ jī rén suān	甲基壬酸
+jiǎ jī sāi zuò	甲基噻唑
+jiǎ jī sè àn	甲基色胺
+jiǎ jī wù àn	甲基戊胺
+jiǎ jī wù chún	甲基戊醇
+jiǎ jī wù quán	甲基戊醛
+jiǎ jī wù suān	甲基戊酸
+jiǎ jī wù tóng	甲基戊酮
+jiǎ jī wù wán	甲基戊烷
+jiǎ jī wù xī	甲基戊烯
+jiǎ jī xiàn gān	甲基腺苷
+jiǎ jī xiàn sù	甲基腺素
+jiǎ jī xiāng chéng	甲基香橙
+jiǎ jī xiàng jiāo	甲基橡胶
+jiǎ jī xīn àn	甲基辛胺
+jiǎ jī xīn chún	甲基辛醇
+jiǎ jī xīn suān	甲基辛酸
+jiǎ jī xíng chéng	甲基形成
+jiǎ jī yān suān	甲基烟酸
+jiǎ jī yè suān	甲基叶酸
+jiǎ jī yǐ àn	甲基乙胺
+jiǎ jī yǐ quē	甲基乙炔
+jiǎ jī yǐn duǒ	甲基吲哚
+jiǎ jī yíng yǎng	甲基营养
+jiǎ jī zǐ chún	甲基梓醇
+jiǎ jī zǐ jīng	甲基紫精
+jiǎ jī zǔ àn	甲基组胺
 jiā lā běn fēng	加拉苯砜
 jiǎ lǜ bǐng suān	甲氯丙酸
 jiā lǜ chǔ lǐ	加氯处理
@@ -14120,13 +14247,10 @@ tuō qīng yǐ suān nà yán	脱氢乙酸钠盐
 tuō qīng yì xióng zāi tóng	脱氢异雄甾酮
 tuō yǎng bāo gān lín suān	脱氧胞苷磷酸
 tuō yǎng hé gān suān nà	脱氧核苷酸钠
-tuō yǎng hé táng hé suān	脱氧核糖核酸
 tuō yǎng pí zhì zāi tóng	脱氧皮质甾酮
-tuò yè suān chén jī bìng	唾液酸沉积病
 tuò yè suān táng qiào zhī	唾液酸糖鞘脂
 tuò yè suān táng zhī lèi	唾液酸糖脂类
 tuò yè suān zhān dàn bái	唾液酸粘蛋白
-tuò yè suān zhù jī zhèng	唾液酸贮积症
 wán jī běn héng suān nà	烷基苯横酸钠
 wán jī běn huáng suān yán	烷基苯磺酸盐
 wán jī jiān běn èr fēn	烷基间苯二酚
@@ -15941,7 +16065,7 @@ fù fāng yán suān lǜ bǐng qín	复方盐酸氯丙嗪
 fù fāng yán suān lǜ jǐ dìng	复方盐酸氯己定
 fù fāng yán suān má huáng jiǎn	复方盐酸麻黄碱
 fù fāng yán suān ma lín gū	复方盐酸吗啉呱
-fù fāng yán suān ma lín guā	复方盐酸吗啉胍
+fù fāng yán suān mǎ lín guā	复方盐酸吗啉胍
 fù fāng yán suān pài zuò qín	复方盐酸哌唑嗪
 fù fāng yán suān wěi má huáng	复方盐酸伪麻黄
 fù fāng yè lǜ suān tóng nà	复方叶绿酸铜钠
@@ -15962,8 +16086,6 @@ fú huà nà hú jì tú bù	氟化钠糊剂涂布
 fù jiā nǚ yǔ qióng suān láng	富家女与穷酸郎
 fú jiǎ sōng lóng dī yǎn yè	氟甲松龙滴眼液
 fú kāng zuò bō li suān nà	氟康唑玻璃酸钠
-fú kāng zuò piàn báo mó yī	氟康唑片薄膜衣
-fú kuí nuò tóng lèi yào wù	氟喹诺酮类药物
 fú lín suān èr huán jǐ zhǐ	氟磷酸二环己酯
 fú luó shā xīng gān lù chún	氟罗沙星甘露醇
 fú luó shā xīng pú táo táng	氟罗沙星葡萄糖
@@ -16866,25 +16988,10 @@ shí èr wán jī liú suān nà	十二烷基硫酸钠
 shí èr xī jī dīng èr suān	十二烯基丁二酸
 shì èr yǎng huà tàn shēng wù	嗜二氧化碳生物
 shí guǎn suān guàn zhù shì yàn	食管酸灌注试验
-shì jiǎn lì xì bāo zēng duō	嗜碱粒细胞增多
-shì jiǎn xì bāo bái xuè bìng	嗜碱细胞白血病
-shì jiǎn xìng lì xì bāo tuō	嗜碱性粒细胞脱
 shí pǐn liù piān tàn suān nà	食品六偏碳酸钠
-shì suān lì xì bāo jiǎn shǎo	嗜酸粒细胞减少
-shì suān lì xì bāo zēng duō	嗜酸粒细胞增多
-shì suān xì bāo bái xuè bìng	嗜酸细胞白血病
-shì suān xì bāo xìng fèi yán	嗜酸细胞性肺炎
-shì suān xì bāo xìng wèi yán	嗜酸细胞性胃炎
-shì suān xì bāo xìng xiào chuǎn	嗜酸细胞性哮喘
-shì suān xì bāo zēng duō zhèng	嗜酸细胞增多症
-shì suān xìng fēng wō zhī yán	嗜酸性蜂窝织炎
-shì suān xìng kē lì xì bāo	嗜酸性颗粒细胞
-shì suān xìng xì bāo fèi yán	嗜酸性细胞肺炎
 shí xiāo suān yī yǎng sān yī	十硝酸一氧三铱
 shì yán wài liú hóng luó jūn	嗜盐外硫红螺菌
 shí yī suān gāo tóng jiāo wán	十一酸睾酮胶丸
-shí yóu hán liú huà hé wù	石油含硫化合物
-shí yóu hán yǎng huà hé wù	石油含氧化合物
 shòu tǐ lào ān suān jī méi	受体酪氨酸激酶
 shòu zhì jiē céng lín suān huà	受质阶层磷酸化
 shū dīng jī duì běn èr fēn	叔丁基对苯二酚
@@ -17311,7 +17418,6 @@ dīng èr xī běn yǐ xī xiàng jiāo	丁二烯苯乙烯橡胶
 èr yǎng huà huán jǐ xī yǐ xī	二氧化环己烯乙烯
 èr yì qíng suān èr běn jiǎ wán	二异氰酸二苯甲烷
 èr yì qíng suān yì fó ěr tóng	二异氰酸异佛尔酮
-fù fāng ān fēn wán àn kē lì	复方氨酚烷胺颗粒
 gè suān yán sè dù sè dù tú	铬酸盐色度色度图
 guò yǎng běn jiǎ suān shū dīng zhǐ	过氧苯甲酸叔丁酯
 huán wù xī shí sān tàn xī suān	环戊烯十三碳烯酸
@@ -17362,7 +17468,6 @@ xī jù lǜ yǐ xī fù hé zhǐ	烯聚氯乙稀复合纸
 xī shī de qīng fú suān mù sù	吸湿的氢氟酸木素
 xiàn xíng dī mì dù jù yǐ xī	线型低密度聚乙烯
 xiàn zhì xìng hé suān nèi qiē méi	限制性核酸内切酶
-xiǎo ér ān fēn wán àn kē lì	小儿氨酚烷胺颗粒
 yà èr yǎng huà tàn hùn hé qì	氩二氧化碳混合气
 yà liú suān yán jiāng bāo zhuāng zhǐ	亚硫酸盐浆包装纸
 yǎng huà huán yuán diàn wèi dī dìng	氧化还原电位滴定
@@ -17387,12 +17492,8 @@ yòng xī tǔ jīn shǔ chǔ cún qīng	用稀土金属储存氢
 zhào zi rè suān huí shōu xì tǒng	罩子热酸回收系统
 zhèng dīng jī suō shuǐ gān yóu mí	正丁基缩水甘油醚
 zhèng xīn jī yì sāi zuò lín tóng	正辛基异噻唑啉酮
-ā lún ní wū sī suān jiǎn lǐ lùn	阿仑尼乌斯酸碱理论
 bǐng xī yǐ xī qiàn duàn gòng jù wù	丙烯乙烯嵌段共聚物
-chī bú dào pú táo shuō pú táo suān	吃不到葡萄说葡萄酸
 fǎn shì dīng xī èr suān èr xīn zhǐ	反式丁烯二酸二辛酯
 guò yǎng huà wù hé chāo yǎng huà wù	过氧化物和超氧化物
 shuǐ yìn gǔn gǔ jià èr yǎng huà měng	水印辊骨架二氧化锰
 xīn zhì qīng yǎng huà tóng xuán zhuó yè	新制氢氧化铜悬浊液
-bù lǎng sī tè láo ruì suān jiǎn lǐ lùn	布朗斯特劳瑞酸碱理论
-xiǎo ér liú suān qìng dà méi sù kē lì	小儿硫酸庆大霉素颗粒

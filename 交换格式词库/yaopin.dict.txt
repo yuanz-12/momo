@@ -34,11 +34,15 @@ jiē gǔ piàn	接骨片
 jīn dǎn piàn	金胆片
 jīn hóng piàn	金红片
 jǐng tòng piàn	颈痛片
+kuí liú píng	喹硫平
+kuí ní dīng	奎尼丁
+kuí nuò tóng	喹诺酮
 lì bí piàn	利鼻片
 lì fèi piàn	利肺片
 lì gān piàn	利肝片
 lǐ zhōng piàn	理中片
 lóng qīng piàn	癃清片
+mǎ lín guā	吗啉胍
 mài píng piàn	脉平片
 mài zhī líng	迈之灵
 nǎo ān piàn	脑安片
@@ -113,6 +117,7 @@ duàn xuè liú piàn	断血流片
 fèn nǎi jìng piàn	奋乃静片
 fù gān níng piàn	复肝宁片
 fù kāng níng piàn	妇康宁片
+fú kāng zuò piàn	氟康唑片
 fù shèn níng piàn	复肾宁片
 fù wèi sàn piàn	复胃散片
 fù yán kāng piàn	妇炎康片
@@ -162,6 +167,7 @@ lì nǎo xīn piàn	利脑心片
 lóng bì shū piàn	癃闭舒片
 lóng fèng bǎo piàn	龙凤宝片
 luǎn lín zhī piàn	卵磷脂片
+mǎ lín guā piàn	吗啉胍片
 mài luò tōng piàn	脉络通片
 mǐ dàn píng piàn	米氮平片
 nǎo dé shēng piàn	脑得生片
@@ -6678,8 +6684,8 @@ má huáng jiǎn zhù shè yè	麻黄碱注射液
 má huáng sù dī bí yè	麻黄素滴鼻液
 má huáng sù zhù shè yè	麻黄素注射液
 mǎ lán gǎn hán jiāo náng	马兰感寒胶囊
-ma lín guā dī yǎn yè	吗啉胍滴眼液
-ma lín guā zhù shè yè	吗啉胍注射液
+mǎ lín guā dī yǎn yè	吗啉胍滴眼液
+mǎ lín guā zhù shè yè	吗啉胍注射液
 mǎ lìn zǐ sù jiāo náng	马蔺子素胶囊
 ma lǜ bèi àn jiāo náng	吗氯贝胺胶囊
 má qín xiāo ké kē lì	麻芩消咳颗粒
@@ -8032,7 +8038,7 @@ yán suān luó tōng dìng piàn	盐酸罗通定片
 yán suān lǜ bǐng qín piàn	盐酸氯丙嗪片
 yán suān lǜ pài dīng piàn	盐酸氯哌丁片
 yán suān má huáng jiǎn piàn	盐酸麻黄碱片
-yán suān ma lín guā piàn	盐酸吗啉胍片
+yán suān mǎ lín guā piàn	盐酸吗啉胍片
 yán suān měi shā tóng piàn	盐酸美沙酮片
 yán suān měi sī tǎn piàn	盐酸美司坦片
 yán suān měi xī lǜ piàn	盐酸美西律片
@@ -9313,6 +9319,7 @@ fú jī biǎo miàn huó xìng jì	氟基表面活性剂
 fù kē bái fèng kǒu fú yè	妇科白凤口服液
 fù kē fēn qīng wán shuǐ wán	妇科分清丸水丸
 fù kē yǎng róng nóng suō wán	妇科养荣浓缩丸
+fú kuí nuò tóng lèi yào wù	氟喹诺酮类药物
 fú líng xìng rén gān cǎo tāng	茯苓杏仁甘草汤
 fú luó shā xīng fēn sǎn piàn	氟罗沙星分散片
 fú luó shā xīng zhù shè yè	氟罗沙星注射液
@@ -11048,6 +11055,7 @@ zuò zhū dá xī wán shuǐ wán	坐珠达西丸水丸
 bǐ mì sī tè jiǎ dī yǎn yè	吡嘧司特钾滴眼液
 dān shēn chuān xiōng qín zhù shè yè	丹参川芎嗪注射液
 fù fāng ān fēn nà mǐn kē lì	复方氨酚那敏颗粒
+fù fāng ān fēn wán àn kē lì	复方氨酚烷胺颗粒
 fù fāng chái hú ān shén kē lì	复方柴胡安神颗粒
 fù fāng mù ní zī qí kē lì	复方木尼孜其颗粒
 fù fāng tuǒ bù méi sù yǎn gāo	复方妥布霉素眼膏
@@ -11057,6 +11065,7 @@ jīn shǔ bāo shí mián píng diàn piàn	金属包石棉平垫片
 qiáng suān xíng lí zǐ jiāo huàn jì	强酸型离子交换剂
 shuāng lǜ fēn suān huǎn shì jiāo náng	双氯芬酸缓释胶囊
 xiǎo ér ān fēn nà mǐn kē lì	小儿氨酚那敏颗粒
+xiǎo ér ān fēn wán àn kē lì	小儿氨酚烷胺颗粒
 xiǎo ér huà tán zhǐ ké kē lì	小儿化痰止咳颗粒
 xiǎo ér sì wéi pú gài kē lì	小儿四维葡钙颗粒
 yuán sù de jí zhōng hé fēn sǎn	元素的集中和分散
@@ -11069,6 +11078,7 @@ guì zhī qù sháo yào jiā zào jiá tāng	桂枝去芍药加皂荚汤
 huáng qí sháo yào guì zhī kǔ jiǔ tāng	黄芪芍药桂枝苦酒汤
 yán suān tè bǐ nài fēn pēn wù jì	盐酸特比萘芬喷雾剂
 guì zhī qù guì jiā fú líng bái zhú tāng	桂枝去桂加茯苓白术汤
+xiǎo ér liú suān qìng dà méi sù kē lì	小儿硫酸庆大霉素颗粒
 xiǎo ér shuāng huáng jiǎ yǎng biàn dìng kē lì	小儿双磺甲氧苄啶颗粒
 mù fáng jǐ qù shí gāo jiā fú líng máng xiāo tāng	木防己去石膏加茯苓芒硝汤
 guì zhī qù sháo yào jiā shǔ qī mǔ lì lóng gǔ jiù nì tāng	桂枝去芍药加蜀漆牡蛎龙骨救逆汤

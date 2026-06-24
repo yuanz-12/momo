@@ -43,11 +43,15 @@ sort: by_weight
 金胆片	jīn;rb dǎn;od piàn;pv	100
 金红片	jīn;rb hóng;sg piàn;pv	100
 颈痛片	jǐng;jy tòng;by piàn;pv	100
+喹硫平	kuí;kt liú;ui píng;au	273
+奎尼丁	kuí;dt ní;ub dīng;al	31
+喹诺酮	kuí;kt nuò;yk tóng;yk	22
 利鼻片	lì;hd bí;zw piàn;pv	100
 利肺片	lì;hd fèi;oj piàn;pv	100
 利肝片	lì;hd gān;og piàn;pv	100
 理中片	lǐ;wl zhōng;kl piàn;pv	100
 癃清片	lóng;bu qīng;do piàn;pv	100
+吗啉胍	mǎ;km lín;ka guā;og	30
 脉平片	mài;oy píng;au piàn;pv	100
 迈之灵	mài;zw zhī;dn líng;eh	100
 脑安片	nǎo;ox ān;bn piàn;pv	100
@@ -122,6 +126,7 @@ sort: by_weight
 奋乃静片	fèn;dt nǎi;pv,vp jìng;fy piàn;pv	100
 复肝宁片	fù;pw gān;og níng;bd piàn;pv	100
 妇康宁片	fù;ne kāng;gl níng;bd piàn;pv	100
+氟康唑片	fú;qf kāng;gl zuò;kr piàn;pv	100
 复肾宁片	fù;pw shèn;lo níng;bd piàn;pv	100
 复胃散片	fù;pw wèi;to sàn;cw piàn;pv	100
 妇炎康片	fù;ne yán;hh kāng;gl piàn;pv	100
@@ -171,6 +176,7 @@ sort: by_weight
 癃闭舒片	lóng;bu bì;mc shū;ry piàn;pv	100
 龙凤宝片	lóng;yp fèng;jy bǎo;by piàn;pv	100
 卵磷脂片	luǎn;pd lín;uf zhī;oo piàn;pv	100
+吗啉胍片	mǎ;km lín;ka guā;og piàn;pv	212
 脉络通片	mài;oy luò;sk tōng;zy piàn;pv	100
 米氮平片	mǐ;ba dàn;qh píng;au piàn;pv	100
 脑得生片	nǎo;ox dé;rc shēng;pf piàn;pv	100
@@ -6687,8 +6693,8 @@ sort: by_weight
 麻黄素滴鼻液	má;ga huáng;cb sù;fx dī;dg bí;zw yè;dw	100
 麻黄素注射液	má;ga huáng;cb sù;fx zhù;dv shè;uc yè;dw	100
 马兰感寒胶囊	mǎ;va lán;bs gǎn;gx hán;bd jiāo;of náng;gy	100
-吗啉胍滴眼液	ma;km lín;ka guā;og dī;dg yǎn;og yè;dw	100
-吗啉胍注射液	ma;km lín;ka guā;og zhù;dv shè;uc yè;dw	100
+吗啉胍滴眼液	mǎ;km lín;ka guā;og dī;dg yǎn;og yè;dw	100
+吗啉胍注射液	mǎ;km lín;ka guā;og zhù;dv shè;uc yè;dw	100
 马蔺子素胶囊	mǎ;va lìn;cv zǐ;la sù;fx jiāo;of náng;gy	100
 吗氯贝胺胶囊	ma;km lǜ;qu bèi;kr àn;on jiāo;of náng;gy	100
 麻芩消咳颗粒	má;ga qín;cv xiāo;do ké;kr kē;gy lì;ml	100
@@ -8041,7 +8047,7 @@ sort: by_weight
 盐酸氯丙嗪片	yán;tm suān;yw lǜ;qu bǐng;an qín;kh piàn;pv	100
 盐酸氯哌丁片	yán;tm suān;yw lǜ;qu pài;ky dīng;al piàn;pv	100
 盐酸麻黄碱片	yán;tm suān;yw má;ga huáng;cb jiǎn;uk piàn;pv	100
-盐酸吗啉胍片	yán;tm suān;yw ma;km lín;ka guā;og piàn;pv	100
+盐酸吗啉胍片	yán;tm suān;yw mǎ;km lín;ka guā;og piàn;pv	100
 盐酸美沙酮片	yán;tm suān;yw měi;yd shā;du tóng;yk piàn;pv	100
 盐酸美司坦片	yán;tm suān;yw měi;yd sī;vk tǎn;td piàn;pv	100
 盐酸美西律片	yán;tm suān;yw měi;yd xī;ak,wk lǜ;ry piàn;pv	100
@@ -9322,6 +9328,7 @@ sort: by_weight
 妇科白凤口服液	fù;ne kē;hd bái;po fèng;jy kǒu;la fú;oy yè;dw	100
 妇科分清丸水丸	fù;ne kē;hd fēn;bd qīng;do wán;jd shuǐ;ln wán;jd	100
 妇科养荣浓缩丸	fù;ne kē;hd yǎng;yl róng;ca nóng;dy suō;sb wán;jd	100
+氟喹诺酮类药物	fú;qf kuí;kt nuò;yk tóng;yk lèi;md yào;cu wù;nw	100
 茯苓杏仁甘草汤	fú;cq líng;cs xìng;ak rén;re gān;ca cǎo;cu tāng;dp	100
 氟罗沙星分散片	fú;qf luó;sx shā;du xīng;ou fēn;bd sǎn;cw piàn;pv	100
 氟罗沙星注射液	fú;qf luó;sx shā;du xīng;ou zhù;dv shè;uc yè;dw	100
@@ -11057,6 +11064,7 @@ sort: by_weight
 吡嘧司特钾滴眼液	bǐ;kb mì;ku sī;vk tè;nc jiǎ;jj dī;dg yǎn;og yè;dw	100
 丹参川芎嗪注射液	dān;kd shēn;sp chuān;pl xiōng;cg qín;kh zhù;dv shè;uc yè;dw	100
 复方氨酚那敏颗粒	fù;pw fāng;wv ān;qn fēn;yf nà;ve mǐn;pw kē;gy lì;ml	100
+复方氨酚烷胺颗粒	fù;pw fāng;wv ān;qn fēn;yf wán;hy àn;on kē;gy lì;ml	100
 复方柴胡安神颗粒	fù;pw fāng;wv chái;va hú;go ān;bn shén;pu kē;gy lì;ml	100
 复方木尼孜其颗粒	fù;pw fāng;wv mù;ur ní;ub zī;zw qí;cb kē;gy lì;ml	100
 复方妥布霉素眼膏	fù;pw fāng;wv tuǒ;vn bù;uj méi;ym sù;fx yǎn;og gāo;wo	100
@@ -11066,6 +11074,7 @@ sort: by_weight
 强酸型离子交换剂	qiáng;gi suān;yw xíng;kt lí;wn zǐ;la jiāo;wf huàn;fr jì;qd	100
 双氯芬酸缓释胶囊	shuāng;yy lǜ;qu fēn;cf suān;yw huǎn;sy shì;mf jiāo;of náng;gy	100
 小儿氨酚那敏颗粒	xiǎo;lb ér;pv ān;qn fēn;yf nà;ve mǐn;pw kē;gy lì;ml	100
+小儿氨酚烷胺颗粒	xiǎo;lb ér;pv ān;qn fēn;yf wán;hy àn;on kē;gy lì;ml	100
 小儿化痰止咳颗粒	xiǎo;lb ér;pv huà;rb tán;bh zhǐ;bl,lu ké;kr kē;gy lì;ml	100
 小儿四维葡钙颗粒	xiǎo;lb ér;pv sì;we wéi;sv pú;cf gài;jg kē;gy lì;ml	100
 元素的集中和分散	yuán;aw sù;fx de;bu jí;ra zhōng;kl hé;hk fēn;bd sǎn;cw	100
@@ -11078,6 +11087,7 @@ sort: by_weight
 黄芪芍药桂枝苦酒汤	huáng;cb qí;cu sháo;cu yào;cu guì;at zhī;av kǔ;cg jiǔ;dy tāng;dp	100
 盐酸特比萘芬喷雾剂	yán;tm suān;yw tè;nc bǐ;bb nài;cu fēn;cf pēn;kb wù;yl jì;qd	100
 桂枝去桂加茯苓白术汤	guì;at zhī;av qù;ts guì;at jiā;lk fú;cq líng;cs bái;po zhú;ad tāng;dp	100
+小儿硫酸庆大霉素颗粒	xiǎo;lb ér;pv liú;ui suān;yw qìng;gd dà;ar méi;ym sù;fx kē;gy lì;ml	100
 小儿双磺甲氧苄啶颗粒	xiǎo;lb ér;pv shuāng;yy huáng;ub jiǎ;ol,tl yǎng;qy biàn;cb dìng;kz kē;gy lì;ml	100
 木防己去石膏加茯苓芒硝汤	mù;ur fáng;ef jǐ;kv qù;ts shí;ak gāo;wo jiā;lk fú;cq líng;cs máng;cw xiāo;uo tāng;dp	100
 桂枝去芍药加蜀漆牡蛎龙骨救逆汤	guì;at zhī;av qù;ts sháo;cu yào;cu jiā;lk shǔ;si qī;du mǔ;nt lì;iw lóng;yp gǔ;go jiù;qw nì;zn tāng;dp	100
