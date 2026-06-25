@@ -5038,7 +5038,6 @@ cháo huān mù yàn	朝欢暮宴
 cháo jì chāng yǐ	朝既昌矣
 cháo jì yíng yǐ	朝既盈矣
 cháo jī yú xī	朝隮于西
-cháo shí yú zhū	朝食于株
 cháo tíng shàng zūn	朝廷尚尊
 chè gù jiù xīn	撤故就新
 chē mǎ huáng huáng	车马煌煌
@@ -17375,6 +17374,7 @@ zhǎo píng bái dài	沼苹白带
 zhào qí suǒ hǎo	召其所好
 zhào rén chéng qìng	兆人承庆
 zhào shā míng dú	赵杀鸣犊
+zhāo shí yú zhū	朝食于株
 zhào shū qiè jùn	诏书切峻
 zhào shū tè xià	诏书特下
 zhāo shùn lǎo rén	昭顺老人
@@ -33172,7 +33172,6 @@ cháo rù mò líng shān	潮入秣陵山
 cháo rù tiān yuàn zhōng	朝入天苑中
 cháo rú yù yǐ huì	朝如玉已会
 cháo rù yún zhōng jùn	朝入云中郡
-cháo sān ér mù sì	朝三而暮四
 cháo shàng dōng pō bù	朝上东坡步
 cháo shàng gāo lóu shàng	朝上高楼上
 cháo shàng huáng jīn tái	朝上黄金台
@@ -33194,7 +33193,6 @@ cháo shēng yíng fǎ gǔ	潮声迎法鼓
 cháo shēng zhǐ tīng lái	潮声只听来
 cháo shēng zì dào mén	潮声自到门
 cháo shì ān mǎ zǎo	朝事鞍马早
-cháo shí bù yíng cháng	朝食不盈肠
 cháo shì bù zú wèn	朝市不足问
 cháo shì chéng wú méi	朝市成芜没
 cháo shì chū xī è	晁氏出西鄂
@@ -33221,8 +33219,6 @@ cháo shuǐ hái guī hǎi	潮水还归海
 cháo shuǐ hū fù guò	潮水忽复过
 cháo shuì zú shǐ qǐ	朝睡足始起
 cháo shùn yù pèi yíng	朝蕣玉佩迎
-cháo sī dēng zhǎn jué	朝思登崭绝
-cháo sì yǔ mù sān	朝四与暮三
 cháo sòng nán qù kè	朝送南去客
 chāo sú jià cháng fēng	超俗驾长风
 cháo suí bái yún qù	朝随白云去
@@ -33317,10 +33313,6 @@ cháo wéi shuāng dì huā	朝为双蒂花
 cháo wéi tián shè láng	朝为田舍郎
 cháo wéi yuè xī nǚ	朝为越溪女
 cháo wéi zhū mén guì	朝为朱门贵
-cháo wén bù jí xī	朝闻不及夕
-cháo wén jiǎng yì yú	朝闻讲艺馀
-cháo wén wǔ sè shū	朝闻五色书
-cháo wén xún chéng jié	朝闻循诚节
 cháo wú hán shì dá	朝无寒士达
 cháo wù rù jī yǐng	巢悟入箕颍
 cháo wū shuā yǔ yí	巢乌刷羽仪
@@ -46576,7 +46568,6 @@ dēng cháo chéng kǎi tàn	登朝成慨叹
 dēng cháo fēi dà yǐn	登朝非大隐
 dēng cháo ruò yǒu yán	登朝若有言
 dēng cháo shēn xǔ guó	登朝身许国
-dēng cháo sī jiǎn shù	登朝思检束
 dēng cháo yǒu qīng shēng	登朝有清声
 dēng chē chū wǔ hú	登车出五湖
 dēng chē jūn mò wàng	登车君莫望
@@ -46984,6 +46975,7 @@ dēng yuè tiào bǎi chuān	登岳眺百川
 dēng yuè yì cháng yáo	登岳一长谣
 dēng zhàn xíng bù pí	登栈行不疲
 dēng zhào huā fēn fēn	灯照花纷纷
+dēng zhāo sī jiǎn shù	登朝思检束
 dēng zhě shàng ya chuǎn	登者尚呀喘
 dēng zhēn cháo yù huáng	登真朝玉皇
 dēng zhì duō yì qù	登陟多异趣
@@ -50889,13 +50881,13 @@ duǎn yán shān dào cǎo	短檐苫稻草
 duàn yān shāng bié wàng	断烟伤别望
 duǎn yàn tī cán huā	短焰剔残花
 duàn yàn xī jiāng yuǎn	断雁西江远
-duān yǐ cháo sì yuè	端扆朝四岳
 duān yí dà guī lì	端仪大圭立
 duǎn yī fáng zhàn dì	短衣防战地
 duān yǐ jìng hé yōu	端扆竟何忧
 duān yǐ lè chéng gōng	端扆乐成功
 duān yǐ shǔ yuán chén	端扆属元辰
 duǎn yī yī yǐ xù	短衣衣已续
+duān yǐ zhāo sì yuè	端扆朝四岳
 duǎn yīng hé yòng zhuó	短缨何用濯
 duàn yīng jí sháo shuǐ	断罂汲勺水
 duān yōu dào wèi tōng	端忧道未通
@@ -79954,7 +79946,7 @@ huī hàn qǐ xiù yáng	挥翰绮绣扬
 huī hàn qīng yún lǐ	挥翰青云里
 huī hàn sù chūn tiān	挥翰宿春天
 huī hàn tí cāng qiào	挥翰题苍峭
-huī hàn wàng cháo shí	挥翰忘朝食
+huī hàn wàng zhāo shí	挥翰忘朝食
 huī hàn xuān míng yù	挥翰宣鸣玉
 huī hàn yà chéng liú	挥汗讶成流
 huī hàn yǔ zǐ tóng	挥汗与子同
@@ -113536,7 +113528,7 @@ mèng mèi dǔ shén nǚ	梦寐睹神女
 mèng mèi hái qín jīng	梦寐还秦京
 mèng mèi huā cōng sè	梦寐花骢色
 mèng mèi huái suǒ huān	梦寐怀所欢
-méng mèi jí cháo sān	蒙昧即朝三
+méng mèi jí zhāo sān	蒙昧即朝三
 mèng mèi jiàn míng jūn	梦寐见明君
 mèng mèi jīn xī jiàn	梦寐今夕见
 mèng mèi jù fēi shí	梦寐俱非实
@@ -121684,11 +121676,11 @@ péi yóu kuì bìng zuò	陪游愧并作
 péi yóu qī shèng liè	陪游七圣列
 péi yóu wǔ lǎo rén	陪游五老人
 péi yóu zhí cì pú	陪游值赐酺
-pèi yù cháo sān bì	佩玉朝三陛
 pèi yù jiān gāo wèi	佩玉兼高位
 pèi yù sān cháo guì	佩玉三朝贵
 pèi yù yāo wú lì	佩玉腰无力
 pèi yù yóu xī yáo	佩玉游西瑶
+pèi yù zhāo sān bì	佩玉朝三陛
 pèi yù zhǔ rén xián	佩玉主人贤
 pèi yuǎn tiān suì qióng	配远天遂穷
 pèi yūn zǐ bīng láng	帔晕紫槟榔
@@ -157165,7 +157157,6 @@ sì chán hé zhēn rú	四禅合真如
 sì chán míng jìng yè	四禅明静业
 sī cháng fěn dié fēi	丝长粉蝶飞
 sì cháo èr shí nián	四朝二十年
-sì cháo sān shí zǎi	四朝三十载
 sī cháo yǐn yù jié	司朝引玉节
 sì cháo zhì xūn huá	四朝致勋华
 sī chén qiě wèi wén	思臣且未闻
@@ -158269,6 +158260,7 @@ sī zhàng wǒ qióng è	私仗我穷饿
 sī zhào bīng yù sè	思照冰玉色
 sì zhào qǐ wén fēng	四照起文烽
 sī zhào qiè lián pō	思赵切廉颇
+sì zhāo sān shí zǎi	四朝三十载
 sì zhào zhú huā shēng	四照逐花生
 sǐ zhě bù kě huǐ	死者不可悔
 sǐ zhě bù yuǎn zàng	死者不远葬
@@ -191564,7 +191556,7 @@ xiū xiū mò mò mò	休休莫莫莫
 xiū yán liáng yuàn dì	羞言梁苑地
 xiū yán shàng bù kāi	羞颜尚不开
 xiū yán wèi cháng kāi	羞颜未尝开
-xiū yán wèi cháo shí	羞言未朝食
+xiū yán wèi zhāo shí	羞言未朝食
 xiù yán xī wèi yǐ	秀岩西未已
 xiù yāo cháng mìng qǐ	绣腰长命绮
 xiū yáo tài yuán guō	休轺太原郭
@@ -219965,12 +219957,14 @@ zhāo rì zhào yě tián	朝日照野田
 zhāo rì zhèng gǎo gǎo	朝日正杲杲
 zhāo rì zhòng jī míng	朝日众鸡鸣
 zhào rù chéng míng gōng	召入承明宫
+zhāo sān ér mù sì	朝三而暮四
 zhào sè duō chóu qǔ	赵瑟多愁曲
 zhào sè qīng xiāng sì	赵瑟清相似
 zhào sè zhèng gāo zhāng	赵瑟正高张
 zhào shān shē huǒ dòng	照山畲火动
 zhāo shāng rú yǒu qǔ	招商如有曲
 zhāo shēng zhào rì jiàn	朝升照日槛
+zhāo shí bù yíng cháng	朝食不盈肠
 zhào shǐ chū hūn mèi	照使出昏昧
 zhào shǐ chū jiāo shǎng	诏使出郊垧
 zhào shǐ guī jīn cè	诏使归金策
@@ -220012,6 +220006,8 @@ zhào shuǐ rán xī jiǎo	照水然犀角
 zhào shuǐ róng suī lǎo	照水容虽老
 zhào shuǐ xué shū tóu	照水学梳头
 zhào shuǐ yān bō bái	照水烟波白
+zhāo sī dēng zhǎn jué	朝思登崭绝
+zhāo sì yǔ mù sān	朝四与暮三
 zhào sǒu bào wǔ xián	赵叟抱五弦
 zhào sǒu dé mì jué	赵叟得秘诀
 zhào sǒu dé qí miào	赵叟得其妙
@@ -220035,7 +220031,11 @@ zhào wáng lái shè yàn	诏王来射雁
 zhāo wáng wèn bù huí	昭王问不回
 zhāo wáng zūn jiǔ qián	昭王尊酒前
 zhào wèi fāng chù rǎo	赵魏方俶扰
+zhāo wén bù jí xī	朝闻不及夕
+zhāo wén jiǎng yì yú	朝闻讲艺馀
+zhāo wén wǔ sè shū	朝闻五色书
 zhāo wén xī sǐ xiū	朝闻夕死休
+zhāo wén xún chéng jié	朝闻循诚节
 zhào wǒ bái rú sī	照我白如丝
 zhāo wǒ fàn hú má	招我饭胡麻
 zhào wǒ guān shàng shuāng	照我冠上霜
@@ -246695,7 +246695,6 @@ cháo shì wén jī cháng bàn tú	朝士闻鸡常半途
 chāo shì wú yǒu wǒ dú xíng	超世无有我独行
 cháo shì yǒu ēn zhōng zuò huò	晁氏有恩忠作祸
 cháo shuǐ wú qíng yì jiě guī	潮水无情亦解归
-cháo sī sú lǚ jì jiāng guī	朝思俗侣寄将归
 cháo sòng jiǔ jiāng hán yǔ lái	潮送九江寒雨来
 cháo suí qiān mò mù yún zhōng	朝随阡陌暮云中
 cháo tà luò huā xiāng bàn chū	朝蹋落花相伴出
@@ -246733,8 +246732,6 @@ cháo wàng xíng chén bì kòng xián	朝望行尘避控弦
 cháo wàng yān chén shàng gāo zhǒng	朝望烟尘上高冢
 cháo wéi bǎi fù yóu yù nù	朝为百赋犹郁怒
 cháo wèn cǐ xīn hé suǒ sī	朝问此心何所思
-cháo wén yóu zǐ chàng lí gē	朝闻游子唱骊歌
-cháo wén yóu zǐ chàng lí gē	朝闻游子唱离歌
 cháo wū rǔ yàn mǎn gāo lóu	巢乌乳燕满高楼
 cháo xī yíng kè yàn zhòng gāng	朝曦迎客艳重冈
 cháo xiàng tián tián luàn xié zhōng	巢向田田乱叶中
@@ -255428,8 +255425,6 @@ fāng cǎo wáng sūn zhī hé chù	芳草王孙知何处
 fāng cǎo xián yún zhú sǔn yú	芳草闲云逐隼旟
 fāng cǎo yíng chuán lǜ wèi chéng	芳草迎船绿未成
 fāng cǎo yù lán guī qù lái	芳草欲阑归去来
-fàng cháo sān rì jūn ēn zhòng	放朝三日君恩重
-fàng cháo sān rì wéi ní tú	放朝三日为泥涂
 fàng chē zài cǎo nóng shì jì	放车载草农事济
 fāng chén duì jiǔ yuǎn xiāng sī	芳晨对酒远相思
 fāng chén lì rì táo huā pǔ	芳晨丽日桃花浦
@@ -255595,6 +255590,8 @@ fāng zhàng shè hǎi fèi shí jié	方丈涉海费时节
 fāng zhàng xiān rén chū miǎo máng	方丈仙人出渺茫
 fāng zhàng xiāo xiāo luò yè zhōng	方丈萧萧落叶中
 fāng zhào lián piān cì guī yǒu	方召联翩赐圭卣
+fàng zhāo sān rì jūn ēn zhòng	放朝三日君恩重
+fàng zhāo sān rì wéi ní tú	放朝三日为泥涂
 fāng zhǎo tú yóu bǐ mù yú	芳沼徒游比目鱼
 fāng zhě fēng fān dòng bù tóng	方者风旛动不同
 fāng zhī cháo yě gèng huān yú	方知朝野更欢娱
@@ -266151,7 +266148,6 @@ huí cháng wén zhī fū zǐ yuē	回尝闻之夫子曰
 huí cháng wén zhū fū zǐ yuē	回尝闻诸夫子曰
 huí cháng wú nài bié chóu jiān	回肠无奈别愁煎
 huí chàng yíng shén sān liǎng shēng	回唱迎神三两声
-huì cháo sì hǎi dēng tú jí	会朝四海登图籍
 huì cháo yuán zhèng wú bù zhì	会朝元正无不至
 huí chē chì niú qiān xiàng běi	回车叱牛牵向北
 huí chē guò mén wèn wú yàng	回车过门问无恙
@@ -266516,6 +266512,7 @@ huí zhān èr miào fēi wú lǚ	回瞻二妙非吾侣
 huí zhān jùn gé yáo fēi jiàn	回瞻郡阁遥飞槛
 huí zhān wǔ pèi běi fēng chū	回旃舞旆北风初
 huí zhān xiāng hǎo yīn chuí lèi	回瞻相好因垂泪
+huì zhāo sì hǎi dēng tú jí	会朝四海登图籍
 huí zhào sù xī shì ān mìng	回棹宿昔试安命
 huí zhào zhǎng mén guàn cuī lèi	回照长门惯催泪
 huí zhèn chē yǐ fù lù xī	回朕车以复路兮
@@ -271659,7 +271656,6 @@ jiǔ céng yún wài yǐ lán gān	九层云外倚阑干
 jiǔ chǎn míng yuè zhuǎn chéng xī	酒阐明月转城西
 jiǔ cháng jù zhú dòng tíng kuān	酒肠俱逐洞庭宽
 jiǔ cháng nà de sì huā hóng	久长那得似花红
-jiǔ cháo sān jiàn tài píng nián	九朝三见太平年
 jiù cháo yóu yǒu zhǔ rén zhī	旧巢犹有主人知
 jiù chén chóng dié qǐ nán huāng	旧臣重叠起南荒
 jiù chén tóu bìn shuāng huá zǎo	旧臣头鬓霜华早
@@ -272224,6 +272220,7 @@ jiǔ zhǎn shěng péi bō juǎn bái	酒盏省陪波卷白
 jiǔ zhǎn zhuó lái xū mǎn mǎn	酒盏酌来须满满
 jiù zhàng wú fù sì chén āi	旧瘴无复似尘埃
 jiū zhàng xiān shēng yù shào nián	鸠杖先生愈少年
+jiǔ zhāo sān jiàn tài píng nián	九朝三见太平年
 jiǔ zhé wān zhōng wàn hú zhōu	九折湾中万斛舟
 jiǔ zhé yán qián qiǎo zhù fēng	九折岩前巧贮风
 jiǔ zhēn chéng zhào shàng lóng hú	九真承诏上龙胡
@@ -276036,7 +276033,7 @@ lí gēn wǔ yuè liú cán xuě	篱根五月留残雪
 lì gēn yuán zài pò yán zhōng	立根原在破岩中
 lí gēng bèi hè huán dǔ zhōng	藜羹被褐环堵中
 lì gēng bú shòu zhòng mù lián	力耕不受众目怜
-lí gēng fù wǒ shì cháo sān	藜羹赋我是朝三
+lí gēng fù wǒ shì zhāo sān	藜羹赋我是朝三
 lí gēng tuō sù fēi gōng kuáng	藜羹脱粟非公狂
 lí gōng bié guǎn lín cháo shì	离宫别馆临朝市
 lí gōng diàn gé ài fēi niǎo	离宫殿阁碍飞鸟
@@ -282736,7 +282733,7 @@ mù fǔ qiū fēng rì yè qīng	幕府秋风日夜清
 mù fǔ shàng gōng lián jiù fá	幕府上功联旧伐
 mǔ fù shū zhì qī jì yī	母附书至妻寄衣
 mù gòng lín héng liǎng àn yān	幕共林横两岸烟
-mù gǔ cháo zhōng zì jī zhuàng	暮鼓朝钟自击撞
+mù gǔ zhāo zhōng zì jī zhuàng	暮鼓朝钟自击撞
 mù guā lǚ fèi qióng yáo zhòng	木瓜屡费琼瑶重
 mù guī dé tù shí liù qī	暮归得兔十六七
 mù guī zǒu mǎ shā hé táng	暮归走马沙河塘
@@ -282829,9 +282826,9 @@ mù qián mí mí chūn cǎo shēn	墓前靡靡春草深
 mù qián shēng zhì jiǔ qīng sì	幕前生致九青兕
 mù qióng qióng ér bú mèi xī	目茕茕而不寐兮
 mù qiū bǎ dé mù chūn shī	暮秋把得暮春诗
-mù qù cháo lái táo bú zhù	暮去朝来淘不住
-mù qù cháo lái wú xiē qī	暮去朝来无歇期
-mù qù cháo lái yán sè gù	暮去朝来颜色故
+mù qù zhāo lái táo bú zhù	暮去朝来淘不住
+mù qù zhāo lái wú xiē qī	暮去朝来无歇期
+mù qù zhāo lái yán sè gù	暮去朝来颜色故
 mù rén dēng xí chéng gē wǔ	木人登席呈歌舞
 mù rì guāng huá hái yù yuè	沐日光华还浴月
 mù rú chóu hú shì tiān dì	目如愁胡视天地
@@ -290827,7 +290824,6 @@ rán xī hé chù mì qióng zhī	然犀何处觅琼枝
 rǎn xū nà fù chàng yáng guān	染须那复唱阳关
 rán yǐn chāo rán dìng yì qún	髯尹超然定逸群
 rán yún shāo shù huǒ shí pián	然云烧树火实骈
-rán zé cháo sì ér mù sān	然则朝四而暮三
 rán zé guǎn zhòng zhī lǐ hū	然则管仲知礼乎
 rán zé hé guì yú dào xié	然则何贵于道邪
 rán zé jūn zhī suǒ dú zhě	然则君之所读者
@@ -290836,6 +290832,7 @@ rán zé rú mò yáng bǐng sì	然则儒墨杨秉四
 rán zé shùn yǒu tiān xià yě	然则舜有天下也
 rán zé wèi zhī dào zú hū	然则谓之道足乎
 rán zé yì yǔ zhī bù jǔ	然则一羽之不举
+rán zé zhāo sì ér mù sān	然则朝四而暮三
 rán zé zǐ fēi shí zhì yě	然则子非食志也
 rán zhōng bù yǐ zài wú dì	然终不以在吾第
 rán zhōng yú cǐ ér yǐ yǐ	然终於此而已矣
@@ -290935,7 +290932,7 @@ rén cóng běi gù shān biān qù	人从北固山边去
 rén cóng bié pǔ jīng nián qù	人从别浦经年去
 rèn cóng qí qǔ mì fēng hóu	任从骑取觅封侯
 rèn cuì chū chán qiào jīn cuò	刃淬初蟾鞘金错
-rén cūn chuī mǐ cháo shí yú	任村炊米朝食鱼
+rén cūn chuī mǐ zhāo shí yú	任村炊米朝食鱼
 rěn dài míng nián mò cāng cù	忍待明年莫仓卒
 rén dào biàn xū pāo shì shì	人到便须抛世事
 rén dào chóu lái wú chǔ huì	人到愁来无处会
@@ -301320,7 +301317,7 @@ tài píng gē wǔ wǎn chūn ráo	太平歌舞晚春饶
 tái píng jiù jī shuǐ fā yuán	台平旧基水发源
 tài píng shí jié zhèn rú guān	太平时节振儒冠
 tài píng shuí zhì luàn zhě shuí	太平谁致乱者谁
-tài píng tiān zǐ cháo yíng rì	太平天子朝迎日
+tài píng tiān zǐ zhāo yíng rì	太平天子朝迎日
 tài píng wàn suì zì dāng zhōng	太平万岁字当中
 tài píng wú yòng jīng lún zhě	太平无用经纶者
 tài píng xià zhí jīng qí hóng	太平下直旌旗红
@@ -302849,7 +302846,7 @@ tíng qián chūn niǎo zhuó lín shēng	庭前春鸟啄林声
 tíng qián chūn zhú hóng yīng jìn	亭前春逐红英尽
 tíng qián fāng shù zhāo xī gǎi	庭前芳树朝夕改
 tíng qián hái yǒu luò méi huā	庭前还有落梅花
-tíng qián jiàn jǐ cháo yíng rì	庭前剑戟朝迎日
+tíng qián jiàn jǐ zhāo yíng rì	庭前剑戟朝迎日
 tíng qián jiē shàng hé suǒ yǒu	庭前阶上何所有
 tíng qián jìn rì lì dào yè	庭前尽日立到夜
 tíng qián lǎo zi jiù hú chuáng	亭前老子旧胡床
@@ -312957,7 +312954,7 @@ xīn zhī qí fēi kǒu nuò wéi	心知其非口诺唯
 xīn zhī rì yuè zài chóng xiāo	心知日月在重霄
 xìn zhǐ rú guī zì zhe hén	信指如归自着痕
 xīn zhī suǒ jiàn jiē huàn yǐng	心知所见皆幻影
-xīn zhī wài wù děng cháo sān	心知外物等朝三
+xīn zhī wài wù děng zhāo sān	心知外物等朝三
 xīn zhī wèi quē wú duō dì	心知魏阙无多地
 xìn zhī xī wēng néng jiě yù	信知溪翁能解玉
 xīn zhì yōu yāo shàng jì xì	心志幽妖尚觊隙
@@ -325908,6 +325905,7 @@ zhào shū zhēng bài tuō hé shang	诏书征拜脱荷裳
 zhào shū zhuó shǒu èr qiān dàn	诏书擢守二千石
 zhào shuǐ hóng qú xì xì xiāng	照水红蕖细细香
 zhào shuǐ zī róng suī yǐ lǎo	照水姿容虽已老
+zhāo sī sú lǚ jì jiāng guī	朝思俗侣寄将归
 zhào sǒu jìn wén hái yìn shòu	赵叟近闻还印绶
 zhāo sù hú tíng jìn què huí	招宿湖亭尽却回
 zhào tā jǐ xǔ rén cháng duàn	照他几许人肠断
@@ -325923,6 +325921,8 @@ zhào wèi jiāng jūn fú juàn sù	诏谓将军拂绢素
 zhào wèi yàn hán duō jìng zú	赵魏燕韩多劲卒
 zhāo wén wú kuī yì wú chéng	昭文无亏亦无成
 zhāo wén xī sǐ wú hé hèn	朝闻夕死吾何恨
+zhāo wén yóu zǐ chàng lí gē	朝闻游子唱骊歌
+zhāo wén yóu zǐ chàng lí gē	朝闻游子唱离歌
 zhào wǒ shuāi yán hū luò dì	照我衰颜忽落地
 zhào wǒ zhàn rán xīn bù qǐ	照我湛然心不起
 zhāo xī cuī rén zì bái tóu	朝夕催人自白头
@@ -333902,8 +333902,8 @@ zūn xiān wáng zhī fǎ ér guò zhě	遵先王之法而过者
 āi yuān guǒ xuě xī hái chù qí xiū	哀冤果雪兮还处其休
 ān dé qīng tiān huà zuò yì zhāng zhǐ	安得青天化作一张纸
 ān dé yě cán chéng jiǎn tiān yǔ sù	安得野蚕成茧天雨粟
-ān néng cháo sì mù sān làng yōu xǐ	安能朝四暮三浪忧喜
 ān néng cuī méi zhé yāo shì quán guì	安能摧眉折腰事权贵
+ān néng zhāo sì mù sān làng yōu xǐ	安能朝四暮三浪忧喜
 ān zhī fū zǐ zhī yóu ruò shì yě	安知夫子之犹若是也
 bā kǒu zhī jiā kě yǐ wú jī yǐ	八口之家可以无饥矣
 bā yuè shí wǔ yè zèng zhāng gōng cáo	八月十五夜赠张功曹
