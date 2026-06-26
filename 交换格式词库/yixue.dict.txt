@@ -645,11 +645,9 @@ fàn ài èr shì bìng	范艾二氏病
 fǎn chú zōng hé zhēng	反刍综合征
 fán dà yī zhì bìng	凡大医治病
 fàn fā xìng shī zhěn	泛发性湿疹
-fàn le lǎo máo bìng	犯了老毛病
 fǎn liú xìng shèn bìng	反流性肾病
 fǎn liú xìng wèi yán	反流性胃炎
 fàn yǒu zōng hé zhēng	饭友综合征
-fáng chǎn shuì kāi zhēng	房产税开征
 fáng hú èr shì bìng	房胡二氏病
 fáng jiǎo fēn lí shù	房角分离术
 fáng quē xiū bǔ shù	房缺修补术
@@ -2952,7 +2950,6 @@ quán shēn xìng shuǐ zhǒng	全身性水肿
 quán shēn xìng yán zhèng	全身性炎症
 quān tào shāo zhuó shù	圈套烧灼术
 quán wèi qiē chú shù	全胃切除术
-quē diǎn hé máo bìng	缺点和毛病
 quē shī zōng hé zhēng	缺失综合征
 qún tǐ xìng yì bìng	群体性癔病
 qún tǐ xìng yì zhèng	群体性癔症
@@ -14096,10 +14093,12 @@ xī wǔ hé yī xiū bǔ shù	膝五合一修补术
 xì zhī qì guǎn fèi pào ái	细支气管肺泡癌
 xì zhī qì guǎn kuò zhāng zhèng	细支气管扩张症
 xì zhī qì guǎn nèi yì wù	细支气管内异物
+xià bàn kǒu yá liè quē sǔn	下半口牙列缺损
 xià chún zhǒng wù qiē chú shù	下唇肿物切除术
 xià dèng shén jīng fēng bì shù	下凳神经封闭术
 xià fù dòng jìng mài sǔn shāng	下腹动静脉损伤
 xià hé gǔ è xìng zhǒng liú	下颌骨恶性肿瘤
+xià hé gǔ hòu tiān quē shī	下颌骨后天缺失
 xià hé gǔ jiǎo qiè gǔ shù	下颌骨角切骨术
 xià hé gǔ liáng xìng zhǒng liú	下颌骨良性肿瘤
 xià hé gǔ nèi gù dìng shù	下颌骨内固定术
@@ -14107,7 +14106,10 @@ xià hé guān jié chéng xíng shù	下颌关节成形术
 xià hé jié gǔ zhěng xíng shù	下颌截骨整形术
 xià hé kāi chuāng yǐn liú shù	下颌开窗引流术
 xià hé kē tū qiē chú shù	下颌髁突切除术
+xià hé mó yá hòu diàn qū	下颌磨牙后垫区
+xià hé qián tíng gōu guò qiǎn	下颌前庭沟过浅
 xià hé qián tíng jiā shēn shù	下颌前庭加深术
+xià hé ruǎn zǔ zhī liè shāng	下颌软组织裂伤
 xià hé shé gǔ jī shén jīng	下颌舌骨肌神经
 xià hé shēng zhī jié gǔ shù	下颌升支截骨术
 xià hé shǐ zhuàng pī kāi shù	下颌矢状劈开术
@@ -14147,11 +14149,16 @@ xià zhī jìng mài yí zhí shù	下肢静脉移植术
 xià zhī jìng mài zhuǎn liú shù	下肢静脉转流术
 xià zhī lín bā guǎn zào yǐng	下肢淋巴管造影
 xià zhī lín bā zào yǐng shù	下肢淋巴造影术
+xià zhī pí fū sī liè shāng	下肢皮肤撕裂伤
 xià zhī pí fū yuán wèi ái	下肢皮肤原位癌
+xià zhī ruǎn zǔ zhī gǎn rǎn	下肢软组织感染
 xià zhī shāng kǒu féng hé shù	下肢伤口缝合术
 xià zhī shēn jìng mài shuān sè	下肢深静脉栓塞
 xià zhī shēn jìng mài xiǎn xiàng	下肢深静脉显像
 xià zhī shén jīng xiān wéi liú	下肢神经纤维瘤
+xià zhī xíng jiē gǔ gāng bǎn	下肢型接骨钢板
+xià zhī xuè guǎn liú qiē chú	下肢血管瘤切除
+xiàn bìng dú kàng tǐ cè dìng	腺病毒抗体测定
 xiàn bìng dú xìng jiǎo mó yán	腺病毒性角膜炎
 xiàn bìng dú xìng nǎo mó yán	腺病毒性脑膜炎
 xián guǎn bān hén xiū zhèng shù	涎管瘢痕修正术
@@ -14756,6 +14763,7 @@ yí guǎn kōng cháng wěn hé shù	胰管空肠吻合术
 yí guǎn qiē kāi qǔ shí shù	胰管切开取石术
 yì guǎn shén jīng qiē duàn shù	翼管神经切断术
 yí guǎn tào guǎn chā rù shù	胰管套管插入术
+yì kāng jǐng zhuī qiān yǐn dài	益康颈椎牵引带
 yì miáo jiē zhòng hòu nǎo yán	疫苗接种后脑炎
 yì miáo jiē zhòng jiǎo mó yán	疫苗接种角膜炎
 yì qī ěr kuò chéng xíng shù	一期耳廓成形术

@@ -494,6 +494,7 @@ bèi tā mǐ sōng piàn	倍他米松片
 bèi tā sī tīng piàn	倍他司汀片
 běn bā bǐ tuǒ piàn	苯巴比妥片
 běn bǐng ān zhǐ piàn	苯丙氨酯片
+běn fēn dī ěr yè	苯酚滴耳液
 běn fēn wěi má piàn	苯酚伪麻片
 běn hǎi lā míng piàn	苯海拉明片
 běn huán rén zhǐ piàn	苯环壬酯片
@@ -502,6 +503,7 @@ běn kǎ tè luó piàn	苯卡特罗片
 běn qiǎng jiǎ àn piàn	苯羟甲胺片
 běn shì biē jiǎ wán	本事鳖甲丸
 běn tuǒ yīng nà piàn	苯妥英钠片
+běn wù chún jiāo wán	苯芴醇胶丸
 běn xiù mǎ lóng piàn	苯溴马隆片
 běn yǐ pài dìng piàn	苯已哌定片
 běn yǐ shuāng guā piàn	苯乙双胍片
@@ -2620,6 +2622,7 @@ pēi tāi jiě dòng yè	胚胎解冻液
 pēn tuō wéi lín piàn	喷托维林片
 pén yán jìng jiāo náng	盆炎净胶囊
 pén yán jìng kē lì	盆炎净颗粒
+péng suān dī ěr yè	硼酸滴耳液
 péng suān ruǎn gāo yī	硼酸软膏一
 péng xīn yú ruǎn gāo	硼锌鱼软膏
 pǐ ān qīng méi sù	匹氨青霉素
@@ -5105,7 +5108,6 @@ chóng cǎo qǐ zhī kē lì	虫草杞芝颗粒
 chóng cǎo tóu bāo jūn fěn	虫草头孢菌粉
 chóng cǎo wǔ wèi kē lì	虫草五味颗粒
 chóng cǎo yáng shēn jiāo náng	虫草洋参胶囊
-chóu huà shuǐ yā liè yè	稠化水压裂液
 chú shī zhǐ yǎng ruǎn gāo	除湿止痒软膏
 chú shī zhǐ yǎng xǐ yè	除湿止痒洗液
 chū xiě rè yù fáng piàn	出血热预防片
@@ -5379,6 +5381,7 @@ fēng shī shèng yào jiāo náng	风湿圣药胶囊
 fēng xiāng zhī shí wèi wán	枫香脂十味丸
 fú biǎo miàn huó xìng jì	氟表面活性剂
 fú fá tā tīng jiāo náng	氟伐他汀胶囊
+fù fāng ā běn dá zuò	复方阿苯达唑
 fù fāng ā mǐ sān qín	复方阿米三嗪
 fù fāng ā qín mǐ tè	复方阿嗪米特
 fù fāng ā sī pǐ lín	复方阿司匹林
@@ -5390,6 +5393,7 @@ fù fāng ān fēn měi shā	复方氨酚美沙
 fù fāng ān fēn nà mǐn	复方氨酚那敏
 fù fāng ān fēn pú xīn	复方氨酚葡锌
 fù fāng ān fēn shèn sù	复方氨酚肾素
+fù fāng ān fēn wán àn	复方氨酚烷胺
 fù fāng ān fēn yù mǐn	复方氨酚愈敏
 fù fāng ān jī bǐ lín	复方氨基比林
 fù fāng ān mǐn hǔ zhàng	复方氨敏虎杖
@@ -5407,7 +5411,12 @@ fù fāng bān máo jiāo náng	复方斑蝥胶囊
 fù fāng báo zhāng ān yóu	复方薄樟桉油
 fù fāng bèi tā mǐ sōng	复方倍他米松
 fù fāng běi wǔ wèi zǐ	复方北五味子
+fù fāng běn bā bǐ tuǒ	复方苯巴比妥
+fù fāng běn hǎi lā míng	复方苯海拉明
+fù fāng běn jiǎ suān dīng	复方苯甲酸酊
 fù fāng běn xiāo pǔ piàn	复方苯硝朴片
+fù fāng běn yǐ pài dìng	复方苯乙哌啶
+fù fāng běn zuǒ kǎ yīn	复方苯佐卡因
 fù fāng bǐ lā xī tǎn	复方吡拉西坦
 fù fāng biē jiǎ ruǎn gān	复方鳖甲软肝
 fù fāng bǐng wù xiān àn	复方丙戊酰胺
@@ -5429,6 +5438,8 @@ fù fāng chūn shā kē lì	复方春砂颗粒
 fù fāng cí èr chún piàn	复方雌二醇片
 fù fāng cì wǔ jiā piàn	复方刺五加片
 fù fāng cōng róng jiāo náng	复方苁蓉胶囊
+fù fāng cù suān mián fēn	复方醋酸棉酚
+fù fāng cù suān xiāo kuí	复方醋酸硝喹
 fù fāng dà chái hú tāng	复方大柴胡汤
 fù fāng dà chéng qì tāng	复方大承气汤
 fù fāng dá nà zuò shuān	复方达那唑栓
@@ -5444,6 +5455,7 @@ fù fāng dì dá jiāo náng	复方蒂达胶囊
 fù fāng dì fēn ní duō	复方地芬尼多
 fù fāng dì fēn nuò zhǐ	复方地芬诺酯
 fù fāng dì jǐn táng jiāng	复方地锦糖浆
+fù fāng dì kuí lǜ ǎn	复方地喹氯铵
 fù fāng dì sāi mǐ sōng	复方地塞米松
 fù fāng dì shě píng piàn	复方地舍平片
 fù fāng dì xī pàn piàn	复方地西泮片
@@ -5458,6 +5470,7 @@ fù fāng dù zhòng zhuàng yāo	复方杜仲壮腰
 fù fāng duō wéi yuán sù	复方多维元素
 fù fāng é zhú yóu shuān	复方莪术油栓
 fù fāng ér chá jiāo náng	复方儿茶胶囊
+fù fāng èr yǎng huà tài	复方二氧化钛
 fù fāng fǎ mò tì dīng	复方法莫替丁
 fù fāng fàn yǐng pú àn	复方泛影葡胺
 fù fāng fēi nà xī dīng	复方非那西丁
@@ -5466,11 +5479,15 @@ fù fāng fēn kā wěi má	复方酚咖伪麻
 fù fāng fēng shī chá jì	复方风湿搽剂
 fù fāng fēng shī níng piàn	复方风湿宁片
 fù fāng fú ěr kě dìng	复方福尔可定
+fù fāng fú niào mì dìng	复方氟尿嘧啶
+fù fāng fú qīng sōng dīng	复方氟轻松酊
 fù fāng fú róng yè dīng	复方芙蓉叶酊
 fù fāng fū sāi mǐ piàn	复方呋噻米片
 fù fāng fū sāi mǐ piàn	复方呋塞米片
 fù fāng gān bì měi piàn	复方甘铋镁片
 fù fāng gān cǎo hé jì	复方甘草合剂
+fù fāng gān cǎo suān ǎn	复方甘草酸铵
+fù fāng gān cǎo suān gān	复方甘草酸苷
 fù fāng gān cǎo tián sù	复方甘草甜素
 fù fāng gān jìn gāo piàn	复方肝浸膏片
 fù fāng gǎn mào líng piàn	复方感冒灵片
@@ -5478,6 +5495,7 @@ fù fāng gān shuǐ jiě wù	复方肝水解物
 fù fāng gān yóu xǐ jì	复方甘油洗剂
 fù fāng gǎng sōng xǐ yè	复方岗松洗液
 fù fāng gǎng sōng zhǐ yǎng	复方岗松止痒
+fù fāng gāo měng suān jiǎ	复方高锰酸钾
 fù fāng gāo zī bān piàn	复方高滋斑片
 fù fāng gōng yīng jiāo náng	复方公英胶囊
 fù fāng gōu mì jiàng yā	复方钩密降压
@@ -5504,21 +5522,30 @@ fù fāng huáng lián sù piàn	复方黄莲素片
 fù fāng huáng lián sù piàn	复方黄连素片
 fù fāng huáng lián sù zhēn	复方黄连素针
 fù fāng huáng qí yì qì	复方黄芪益气
+fù fāng huáng qín wán àn	复方黄芩烷胺
 fù fāng huáng qín xǐ jì	复方黄芩洗剂
 fù fāng huáng sōng shī jīn	复方黄松湿巾
 fù fāng huī huáng méi sù	复方灰黄霉素
 fù fāng jī nà jīn piàn	复方鸡内金片
+fù fāng jǐ suān gāo tóng	复方己酸睾酮
 fù fāng jī xuě cǎo piàn	复方积雪草片
 fù fāng jī xuè téng gāo	复方鸡血藤膏
+fù fāng jiǎ dì yùn tóng	复方甲地孕酮
 fù fāng jiǎ xiāo zuò shuān	复方甲硝唑栓
 fù fāng jiǎ yǎng nà míng	复方甲氧那明
 fù fāng jiǎ yùn huán zhǐ	复方甲孕环酯
+fù fāng jiān běn èr fēn	复方间苯二芬
+fù fāng jiān běn èr fēn	复方间苯二酚
 fù fāng jiàng yā píng piàn	复方降压平片
+fù fāng jiǎo cài suān zhǐ	复方角菜酸酯
 fù fāng jié gěng pí pá	复方桔梗枇杷
 fù fāng jié gěng zhǐ ké	复方桔梗止咳
 fù fāng jīn fèng chá jì	复方金凤搽剂
 fù fāng jīn jiǎ jiāo náng	复方金甲胶囊
 fù fāng jīn lián kē lì	复方金连颗粒
+fù fāng jù wéi tóng diǎn	复方聚维酮碘
+fù fāng jù yǐ èr chún	复方聚乙二醇
+fù fāng jǔ yuán suān nà	复方枸橼酸钠
 fù fāng kǎ bǐ duō bā	复方卡比多巴
 fù fāng kǎ lì zī rán	复方卡力孜然
 fù fāng kā lín kē lì	复方咖磷颗粒
@@ -5532,22 +5559,42 @@ fù fāng léi ní tì dīng	复方雷尼替丁
 fù fāng lì duō kǎ yīn	复方利多卡因
 fù fāng lì xuè píng piàn	复方利血平片
 fù fāng lì yān líng piàn	复方利咽灵片
+fù fāng lián běn biàn zuò	复方联苯苄唑
+fù fāng lián běn shuāng zhǐ	复方联苯双酯
 fù fāng lián pú kē lì	复方连蒲颗粒
 fù fāng lín fēi tuǒ piàn	复方林非妥片
+fù fāng lín suān gē dìng	复方磷酸咯啶
+fù fāng lín suān pài kuí	复方磷酸哌喹
+fù fāng lín suān qīng nà	复方磷酸氢钠
+fù fāng lín suān yà tiě	复方磷酸亚铁
 fù fāng líng jiǎo jiàng yā	复方羚角降压
+fù fāng liú huáng rǔ gāo	复方硫磺乳膏
+fù fāng liú huáng rǔ gāo	复方硫黄乳膏
 fù fāng liú huáng xǐ jì	复方硫磺洗剂
 fù fāng liǔ jú jiāo náng	复方柳菊胶囊
 fù fāng liǔ jú kē lì	复方柳菊颗粒
+fù fāng liú suān yà tiě	复方硫酸亚铁
 fù fāng lóng dǎn jìn gāo	复方龙胆浸膏
 fù fāng lóng jiǎ sǎn jì	复方龙甲散剂
 fù fāng lù róng jiàn gǔ	复方鹿茸健骨
 fù fāng luó bù má piàn	复方罗布麻片
 fù fāng luò fá tā tīng	复方洛伐他汀
+fù fāng lǜ bèi suān gài	复方氯贝酸钙
+fù fāng lǜ bèi suān lǚ	复方氯贝酸铝
+fù fāng lǜ dì yùn tóng	复方氯地孕酮
+fù fāng lǜ huà ān gǒng	复方氯化氨汞
+fù fāng lǜ jǐ dìng shuān	复方氯己定栓
+fù fāng lǜ jiě lín dìng	复方氯解磷定
+fù fāng lǜ méi sù dīng	复方氯霉素酊
+fù fāng lǜ méi sù shuān	复方氯霉素栓
 fù fāng lǚ suān bì piàn	复方铝酸铋片
+fù fāng lǜ zuò shā zōng	复方氯唑沙宗
 fù fāng mǎ yīng dān piàn	复方马缨丹片
+fù fāng mài jiǎo yì jiǎn	复方麦角异碱
 fù fāng měi shā fēn piàn	复方美沙芬片
 fù fāng měi suǒ bā mò	复方美索巴莫
 fù fāng měi tì luò ěr	复方美替洛尔
+fù fāng mǐ fēi sī tóng	复方米非司酮
 fù fāng mī kāng zuò shuāng	复方咪康唑霜
 fù fāng míng jiāo xiān wéi	复方明胶纤维
 fù fāng mù jī kē lì	复方木鸡颗粒
@@ -5562,7 +5609,9 @@ fù fāng nán guā yǎng yīn	复方南瓜养阴
 fù fāng nán xīng zhǐ tòng	复方南星止痛
 fù fāng nǎo ān tài piàn	复方脑安泰片
 fù fāng niú huáng qīng wèi	复方牛黄清胃
+fù fāng nuò fú shā xīng	复方诺氟沙星
 fù fāng pēi gān tiě ǎn	复方胚肝铁铵
+fù fāng péng shā róng yè	复方硼砂溶液
 fù fāng péng shā shù kǒu	复方硼砂漱口
 fù fāng pí pá yè gāo	复方枇杷叶膏
 fù fāng pú cén jiāo náng	复方蒲岑胶囊
@@ -5577,12 +5626,15 @@ fù fāng qìng dà méi sù	复方庆大霉素
 fù fāng qīng dài jiāo náng	复方青黛胶囊
 fù fāng qīng guǒ kē lì	复方青果颗粒
 fù fāng qīng hāo chá jì	复方青蒿搽剂
+fù fāng qīng yǎng huà lǚ	复方氢氧化铝
 fù fāng qǔ ān nài dé	复方曲安奈德
 fù fāng qǔ mǎ duō piàn	复方曲马多片
 fù fāng qǔ ní sī tè	复方曲尼司特
 fù fāng qù yǎng yùn xī	复方去氧孕烯
 fù fāng quē cí chún piàn	复方炔雌醇片
+fù fāng quē nuò tóng mó	复方炔诺酮膜
 fù fāng quē nuò tóng piàn	复方炔诺酮片
+fù fāng quē nuò yùn tóng	复方炔诺孕酮
 fù fāng sāi lóng jiāo náng	复方塞隆胶囊
 fù fāng sāi ma luò ěr	复方噻吗洛尔
 fù fāng sān jù jiǎ quán	复方三聚甲醛
@@ -5594,6 +5646,7 @@ fù fāng sāng shèn hé jì	复方桑椹合剂
 fù fāng shā fēn nà mǐn	复方沙芬那敏
 fù fāng shā jí zǐ yóu	复方沙棘籽油
 fù fāng shān jīn chē huā	复方山金车花
+fù fāng shān làng dàng jiǎn	复方山莨菪碱
 fù fāng shāng fù níng gāo	复方伤复宁膏
 fù fāng shè xiāng cǎo fēn	复方麝香草酚
 fù fāng shè xiāng liǔ zhǐ	复方麝香柳酯
@@ -5602,14 +5655,21 @@ fù fāng shēn jīn jiāo náng	复方伸筋胶囊
 fù fāng shí lín tōng piàn	复方石淋通片
 fù fāng shí wéi jiāo náng	复方石韦胶囊
 fù fāng shí wéi kē lì	复方石韦颗粒
+fù fāng shí yī xī suān	复方十一烯酸
 fù fāng shǒu cān yì zhì	复方手参益智
 fù fāng shǒu wū bǔ yè	复方首乌补液
 fù fāng shǒu wū dì huáng	复方首乌地黄
 fù fāng shuāng huā kē lì	复方双花颗粒
 fù fāng shuāng huā táng jiāng	复方双花糖浆
 fù fāng shuāng jǐng tài qín	复方双肼酞嗪
+fù fāng shuǐ yáng suān dīng	复方水杨酸酊
+fù fāng shuǐ yáng suān nà	复方水杨酸钠
 fù fāng shuǐ yáng xiān àn	复方水杨酰胺
 fù fāng sì jì qīng piàn	复方四季青片
+fù fāng sōng chún nà mǐn	复方松醇那敏
+fù fāng suān téng xiāo zhì	复方酸藤消痔
+fù fāng tàn suān qīng nà	复方碳酸氢钠
+fù fāng tàn suān yà tiě	复方碳酸亚铁
 fù fāng téng guǒ zhì chuāng	复方藤果痔疮
 fù fāng tì xiāo zuò shuāng	复方替硝唑霜
 fù fāng tiān má jiāo náng	复方天麻胶囊
@@ -5617,6 +5677,7 @@ fù fāng tiān má kē lì	复方天麻颗粒
 fù fāng tiān má yì yīn	复方天麻益阴
 fù fāng tián qī wèi tòng	复方田七胃痛
 fù fāng tiān xiān jiāo náng	复方天仙胶囊
+fù fāng tóng kāng zuò shuāng	复方酮康唑霜
 fù fāng tōng mài jiāo náng	复方通脉胶囊
 fù fāng tóu bāo kè luò	复方头孢克洛
 fù fāng tǔ jǐn pí dīng	复方土槿皮酊
@@ -5627,6 +5688,7 @@ fù fāng tuǒ luò tè luó	复方妥洛特罗
 fù fāng wáng bù liú xíng	复方王不留行
 fù fāng wéi bǐng gān yán	复方维丙肝炎
 fù fāng wèi dàn bái méi	复方胃蛋白酶
+fù fāng wěi má huáng jiǎn	复方伪麻黄碱
 fù fāng wèi mó sù piàn	复方胃膜素片
 fù fāng wèi níng jiāo náng	复方胃宁胶囊
 fù fāng wū jī jiāo náng	复方乌鸡胶囊
@@ -5635,6 +5697,7 @@ fù fāng wū méi qū shǔ	复方乌梅祛暑
 fù fāng wǔ wèi zǐ dīng	复方五味子酊
 fù fāng wǔ wèi zǐ piàn	复方五味子片
 fù fāng wǔ zhǐ gān piàn	复方五指柑片
+fù fāng xī bǐ lǜ ǎn	复方西吡氯铵
 fù fāng xī líng jiě dú	复方西羚解毒
 fù fāng xī mī tì dīng	复方西咪替丁
 fù fāng xǐ shù tiē piàn	复方喜树贴片
@@ -5658,8 +5721,12 @@ fù fāng xuán jū yì qì	复方玄驹益气
 fù fāng xuě shēn jiāo náng	复方雪参胶囊
 fù fāng xuè shuān tōng piàn	复方血栓通片
 fù fāng xuè téng yào jiǔ	复方血藤药酒
+fù fāng yà yóu suān gài	复方亚油酸钙
 fù fāng yán bái cài piàn	复方岩白菜片
 fù fāng yán bái cài sù	复方岩白菜素
+fù fāng yǎng fú shā xīng	复方氧氟沙星
+fù fāng yǎng huà xīn hú	复方氧化锌糊
+fù fāng yǎng huà xīn sàn	复方氧化锌散
 fù fāng yáng shēn zhǐ ké	复方洋参止咳
 fù fāng yǐ àn mì dìng	复方乙胺嘧啶
 fù fāng yì gān líng piàn	复方益肝灵片
@@ -5679,6 +5746,7 @@ fù fāng yù fēn má huáng	复方愈酚麻黄
 fù fāng yú xīng cǎo piàn	复方鱼腥草片
 fù fāng yú xīng cǎo sù	复方鱼腥草素
 fù fāng yuán hú zhǐ tòng	复方元胡止痛
+fù fāng yùn èr xī tóng	复方孕二烯酮
 fù fāng zàng hóng huā yóu	复方藏红花油
 fù fāng zào fán jiāo náng	复方皂矾胶囊
 fù fāng zǎo rén jiāo náng	复方枣仁胶囊
@@ -5691,6 +5759,7 @@ fù fāng zī bǔ lì gāo	复方滋补力膏
 fù fāng zǐ cān kē lì	复方紫参颗粒
 fù fāng zǐ jīng xiāo shāng	复方紫荆消伤
 fù fāng zuǒ xuán duō bā	复方左旋多巴
+fú fēn nà suān dīng zhǐ	氟芬那酸丁酯
 fú fēn nà suān jiāo náng	氟芬那酸胶囊
 fù fū kāng pēn wù jì	妇肤康喷雾剂
 fù gǎn lín kǒu fú yè	馥感啉口服液
@@ -5698,7 +5767,11 @@ fú gé liè bō táng piàn	伏格列波糖片
 fù guì gǔ tòng jiāo náng	附桂骨痛胶囊
 fù guì gǔ tòng kē lì	附桂骨痛颗粒
 fú guì lì qín jiāo náng	氟桂利嗪胶囊
+fù hé lín suān qīng jiǎ	复合磷酸氢钾
+fù hé lín suān zhǐ méi	复合磷酸酯酶
+fù hé qīng yǎng huà lǚ	复合氢氧化铝
 fù hé wéi shēng sù piàn	复合维生素片
+fù hé wù tuō qīng méi	复合物脱氢酶
 fù jié kāng pēn wù jì	妇洁康喷雾剂
 fù jié xiāo dú xǐ yè	妇洁消毒洗液
 fù kāng bǎo kǒu fú yè	妇康宝口服液
@@ -6672,6 +6745,7 @@ lǜ kā huáng mǐn jiāo náng	氯咖黄敏胶囊
 lǜ léi tā dìng jiāo náng	氯雷他定胶囊
 lǜ lìn suān èr nà piàn	氯膦酸二钠片
 lǚ měi jiā hùn xuán yè	铝镁加混悬液
+lǜ méi sù dī ěr yè	氯霉素滴耳液
 lǜ méi sù ruǎn jiāo náng	氯霉素软胶囊
 lǜ méi sù zhù shè yè	氯霉素注射液
 lǜ méi zhǐ xiè kē lì	绿梅止泻颗粒
@@ -6932,6 +7006,7 @@ qī wèi kē téng zi wán	七味瞌藤子丸
 qī wèi mǎ qián zǐ wán	七味马钱子丸
 qī wèi páng xiè jiǎ wán	七味螃蟹甲丸
 qī wèi shā shēn tāng sàn	七味沙参汤散
+qī wèi suān téng guǒ wán	七味酸藤果丸
 qī wèi tù ěr cǎo sàn	七味兔耳草散
 qī wèi wèi tòng jiāo náng	七味胃痛胶囊
 qī wèi wèi tōng jiāo náng	七味胃通胶囊
@@ -7438,6 +7513,7 @@ shuǐ hé lǜ quán hé jì	水合氯醛合剂
 shuǐ niú jiǎo jiě dú wán	水牛角解毒丸
 shuǐ xiàn hé wèi kē lì	水线和胃颗粒
 shuǐ xìng jìn chū zhì jì	水性浸出制剂
+shuǐ yáng suān dī ěr yè	水杨酸滴耳液
 shuǐ yáng suān měi jiāo náng	水杨酸镁胶囊
 shuǐ yáng suān mī zuò piàn	水杨酸咪唑片
 shùn qì shí sān wèi sàn	顺气十三味散
@@ -8071,6 +8147,7 @@ yān xiān àn zhù shè yè	烟酰胺注射液
 yáng bì yù zhǐ tòng piàn	疡必愈止痛片
 yáng cān yì shèn jiāo náng	阳参益肾胶囊
 yáng dì huáng dú gān piàn	洋地黄毒苷片
+yǎng fú shā xīng ěr yè	氧氟沙星耳液
 yǎng fú shā xīng hán piàn	氧氟沙星含片
 yǎng fú shā xīng jiāo náng	氧氟沙星胶囊
 yǎng fú shā xīng ruǎn gāo	氧氟沙星软膏
@@ -8784,6 +8861,7 @@ dǎn jiǎn shòu tǐ jī dòng jì	胆碱受体激动剂
 dān lán tōng luò kǒu fú yè	丹蓝通络口服液
 dàn pǔ sāi dūn zhù shè yè	氮普噻吨注射液
 dān shēn kē lì wú táng xíng	丹参颗粒无糖型
+dàn tóng kāng zuò dī ěr yè	氮酮康唑滴耳液
 dǎn wéi dīng kǒu fú rǔ yè	胆维丁口服乳液
 dān xī yù píng fēng kē lì	丹溪玉屏风颗粒
 dān xiāng guān xīn zhù shè yè	丹香冠心注射液
@@ -10001,6 +10079,9 @@ péi fú shā xīng zhù shè yè	培氟沙星注射液
 péi tā sī tīng zhù shè yè	培他司汀注射液
 pēn tā zuǒ xīn zhù shè yè	喷他佐辛注射液
 péng shā gān yóu jiǎ róng yè	硼砂甘油钾溶液
+péng suān bīng piàn dī ěr yè	硼酸冰片滴耳液
+péng suān gān yóu dī ěr yè	硼酸甘油滴耳液
+péng suān jiǔ jīng dī ěr yè	硼酸酒精滴耳液
 péng suān yǎng huà xīn ruǎn gāo	硼酸氧化锌软膏
 pǐ duō mò dé fēn sǎn piàn	匹多莫德分散片
 pǐ duō mò dé kǒu fú yè	匹多莫德口服液
@@ -10423,6 +10504,7 @@ tài zǐ bǎo xīn kǒu fú yè	太子保心口服液
 tài zǐ kāi wèi kǒu fú yè	太子开胃口服液
 tàn suān gài gàn hùn xuán jì	碳酸钙干混悬剂
 tàn suān gān méi yì zhì jì	碳酸酐酶抑制剂
+tàn suān qīng nà dī ěr yè	碳酸氢钠滴耳液
 tàn suān qīng nà zhù shè yè	碳酸氢钠注射液
 tán xìng méi cháng róng jiāo náng	弹性酶肠溶胶囊
 tè bǐ nài fēn pēn wù jì	特比萘芬喷雾剂
@@ -10837,6 +10919,7 @@ yán suān zuǒ xuán mī zuò piàn	盐酸左旋咪唑片
 yán xiāo dí nà ér táng jiāng	炎消迪娜儿糖浆
 yán xiāo dí nà ěr táng jiāng	炎消迪娜尔糖浆
 yán zhǐ běn huán rén zhǐ piàn	盐酯苯环壬酯片
+yǎng fú shā xīng dī ěr yè	氧氟沙星滴耳液
 yǎng fú shā xīng huǎn shì piàn	氧氟沙星缓释片
 yǎng fú shā xīng zhù shè yè	氧氟沙星注射液
 yǎng huà zhāng nǎo zhù shè yè	氧化樟脑注射液
@@ -11062,6 +11145,7 @@ fù fāng tuǒ bù méi sù yǎn gāo	复方妥布霉素眼膏
 huán xíng lián jiē jīn shǔ diàn piàn	环形连接金属垫片
 jiā qīng tuō wán jī cuī huà jì	加氢脱烷基催化剂
 jīn shǔ bāo shí mián píng diàn piàn	金属包石棉平垫片
+lǜ méi sù gān yóu dī ěr yè	氯霉素甘油滴耳液
 qiáng suān xíng lí zǐ jiāo huàn jì	强酸型离子交换剂
 shuāng lǜ fēn suān huǎn shì jiāo náng	双氯芬酸缓释胶囊
 xiǎo ér ān fēn nà mǐn kē lì	小儿氨酚那敏颗粒
@@ -11076,6 +11160,7 @@ gān cǎo gān jiāng fú líng bái zhú tāng	甘草干姜茯苓白术汤
 guì zhī qù sháo yào jiā fù zǐ tāng	桂枝去芍药加附子汤
 guì zhī qù sháo yào jiā zào jiá tāng	桂枝去芍药加皂荚汤
 huáng qí sháo yào guì zhī kǔ jiǔ tāng	黄芪芍药桂枝苦酒汤
+qǔ ān nài dé yì kāng zuò rǔ gāo	曲安奈德益康唑乳膏
 yán suān tè bǐ nài fēn pēn wù jì	盐酸特比萘芬喷雾剂
 guì zhī qù guì jiā fú líng bái zhú tāng	桂枝去桂加茯苓白术汤
 xiǎo ér liú suān qìng dà méi sù kē lì	小儿硫酸庆大霉素颗粒
