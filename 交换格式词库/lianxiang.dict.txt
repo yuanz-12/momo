@@ -373,6 +373,7 @@ a wǒ bù zhī dào	啊我不知道
 ài wǒ de nán rén	爱我的男人
 ài wǒ de shì jiè	爱我的世界
 ài wú chǔ bú zài	爱无处不在
+ài xī miè le dēng	爱熄灭了灯
 ài xiàng tài píng yáng	爱像太平洋
 ài xiàng yì bǎ huǒ	爱像一把火
 ài xiàng yí zhèn fēng	爱像一阵风
@@ -1091,6 +1092,7 @@ bà tiān kāi tuò shǐ	霸天开拓史
 bā tián yà shǐ zǐ	八田亚矢子
 bā tōng xiàn nán yán	八通线南延
 bǎ tóu fā jiǎn duǎn	把头发剪短
+bǎ wán le yí zhèn	把玩了一阵
 bà wáng cháo shān chéng	霸王朝山城
 bà wáng de dà lù	霸王的大陆
 bà wáng nǚ fú xīng	霸王女福星
@@ -1738,6 +1740,9 @@ bàn dǎo tǐ yuán jiàn	半导体元件
 bàn dǎo tǐ zhěng liú	半导体整流
 bàn dǎo tǐ zhì chéng	半导体制程
 bàn dǎo wú hé huà	半岛无核化
+bàn de bú cuò a	办得不错啊
+bàn de bú cuò ba	办得不错吧
+bàn de bú cuò ya	办得不错呀
 bàn de bù hǎo a	办得不好啊
 bàn de hěn hǎo ya	办得很好呀
 bàn de nà xiē shì	办的那些事
@@ -3706,6 +3711,7 @@ bì xiū de gōng kè	必修的功课
 bì xū wéi shēng sù	必需维生素
 bì xū xiāo fèi pǐn	必需消费品
 bì xū yíng yǎng sù	必需营养素
+bì xū zhuàn huí lái	必须赚回来
 bì xuán diào xì tǒng	臂悬吊系统
 bì xuè shū xiāng mèng	碧血书香梦
 bì xuè xǐ yín qiāng	碧血洗银枪
@@ -3866,6 +3872,7 @@ biān kuàng hé dǐ wén	边框和底纹
 biàn lái biàn qù de	变来变去的
 biàn láng wàng xiǎng zhèng	变狼妄想症
 biàn le gè mú yàng	变了个模样
+biàn le xīn de rén	变了心的人
 biàn lì de fú wù	便利的服务
 biàn lì de jiāo tōng	便利的交通
 biàn lì de tiáo jiàn	便利的条件
@@ -4718,6 +4725,7 @@ bú dòng jiù huì sǐ	不动就会死
 bù dǒng jiù yào wèn	不懂就要问
 bú dòng míng wáng zhuàn	不动明王传
 bù dǒng shén me shì	不懂什么是
+bù dǒng shì de hěn	不懂事得很
 bù dōu yí yàng ma	不都一样吗
 bù dōu yí yàng ma	不都一样嘛
 bù dú zǐ qí zǐ	不独子其子
@@ -5406,6 +5414,7 @@ bǔ shuǐ hù fū pǐn	补水护肤品
 bǔ shuì tōng zhī dān	补税通知单
 bú shùn xīn de shì	不顺心的事
 bù shuō huà de xīng	不说话的星
+bù shuō huǎng liàn rén	不说谎恋人
 bù shuō shì gè jié	不说是个结
 bù shuō zhè xiē le	不说这些了
 bù sǐ de ái zhèng	不死的癌症
@@ -5640,6 +5649,7 @@ bú yào bái bú yào	不要白不要
 bú yào cuò guò ó	不要错过哦
 bú yào cuò guò yō	不要错过哟
 bú yào dǎ rǎo wǒ	不要打扰我
+bú yào dìng wài mài	不要订外卖
 bú yào dòu tā xiào	不要逗她笑
 bú yào huái yí wǒ	不要怀疑我
 bú yào liǎn de shì	不要脸的事
@@ -5825,6 +5835,7 @@ bù zhōng zhǐ sù sòng	不中止诉讼
 bù zhòu yǔ fāng fǎ	步骤与方法
 bǔ zhù hé jiǎng lì	补助和奖励
 bù zhuǎn de fēng shàn	不转的风扇
+bù zhǔn yǔ fàng xíng	不准予放行
 bú zì bào zì qì	不自暴自弃
 bú zì jué dì jiù	不自觉地就
 bù zǐ mài dà le	步子迈大了
@@ -6001,6 +6012,7 @@ cái wù huì bào jú	财务汇报局
 cái wù jì huà shī	财务计划师
 cái wù yù huì jì	财务与会计
 cái wù yǔ jīn róng	财务与金融
+cái wù zài bǎo xiǎn	财务再保险
 cái xià dìng jué xīn	才下定决心
 cǎi xià le shā chē	踩下了刹车
 cǎi xiàng dǎo nǚ hái	彩象岛女孩
@@ -6364,6 +6376,7 @@ céng jīng de guò wǎng	曾经的过往
 céng jīng de huí yì	曾经的回忆
 céng jīng de shì yán	曾经的誓言
 céng jīng de tóng shì	曾经的同事
+céng jīng de wǎng hóng	曾经的网红
 céng jīng de zhàn yǒu	曾经的战友
 céng jīng de zhǔ rén	曾经的主人
 céng mǔ dān gé sī	曾姆丹格斯
@@ -6385,6 +6398,7 @@ chā bèi jīn xiàn pí	叉背金线魮
 chā bié yù xiàn fǎ	差别阈限法
 chà bu duō dé le	差不多得了
 chà bù duō dé lei	差不多得嘞
+chà bu duō dōu kuài	差不多都快
 chā chì hǔ léi héng	插翅虎雷横
 chā chún chāi zǐ gǔ	叉唇钗子股
 chā chún duì yè lán	叉唇对叶兰
@@ -7839,6 +7853,8 @@ chéng běn hé suàn bù	成本核算部
 chéng běn hé xiào lǜ	成本和效率
 chéng běn yǔ shōu yì	成本与收益
 chéng bǐ lì tōng qì	成比例通气
+chéng bù chéng gōng lóu	成不成功喽
+chéng bù chéng gōng wa	成不成功哇
 chéng bù guī zé zhuàng	呈不规则状
 chéng bù liǎo dà qì	成不了大器
 chéng bù liǎo dà qì	成不了大气
@@ -8403,6 +8419,7 @@ chǐ tòng xiāo yán líng	齿痛消炎灵
 chī tóu nà tiáo yú	吃头那条鱼
 chī wán dōng xi hòu	吃完东西后
 chī wǎn fàn le ma	吃晚饭了吗
+chī wán fàn méi yǒu	吃完饭没有
 chī wán huǒ guō hòu	吃完火锅后
 chī xiàn zhěn biān rén	黐线枕边人
 chī xiàng tài nán kàn	吃相太难看
@@ -10681,6 +10698,7 @@ dǎ le gè sǐ jié	打了个死结
 dǎ le gè xiǎng zhǐ	打了个响指
 dǎ le shēng zhāo hu	打了声招呼
 dā le shùn fēng chē	搭了顺风车
+dà lè tòu kāi jiǎng	大乐透开奖
 dǎ léi de shí hou	打雷的时候
 dǎ léi yào xià yǔ	打雷要下雨
 dà lì de fā zhǎn	大力的发展
@@ -10714,6 +10732,7 @@ dá luó sī zhī zhàn	怛逻斯之战
 dá luó sī zhī zhàn	怛罗斯之战
 dá màn sī jī dǎo	达曼斯基岛
 dà mǎn zú zhǔ yì	大满族主义
+dǎ méi dǎ jià ya	打没打架呀
 dà měi guó zhǔ yì	大美国主义
 dà miàn jī liú bái	大面积留白
 dà miàn jī qiàn shōu	大面积歉收
@@ -11820,6 +11839,7 @@ dào běn yǔ yǔ fǎ	道本语语法
 dǎo bì le shì de	倒闭了似的
 dào bǐ sài jié shù	到比赛结束
 dào bié de dì fāng	到别的地方
+dào bú dào wèi ba	到不到位吧
 dǎo cāng qiān dài zǐ	岛仓千代子
 dào cǎo rén shǒu jì	稻草人手记
 dào cǎo xióng yǐng yè	稻草熊影业
@@ -12464,6 +12484,7 @@ děng hòu dù gān shè	等厚度干涉
 dēng hù yán jiū suǒ	登户研究所
 dēng huā mèng quán zhuàn	灯花梦全传
 děng huà xué xì liè	等化学系列
+děng huì er shì shì	等会儿试试
 děng huí guò shén lái	等回过神来
 děng huī zhèng zhǎng yán	等辉正长岩
 dēng huǒ jī dū xiàng	灯火基督像
@@ -12535,6 +12556,7 @@ dēng shuā rǎn sè tǐ	灯刷染色体
 dèng shuí shuí huái yùn	瞪谁谁怀孕
 dēng tǎ jiàn zào zhě	灯塔建造者
 dēng tǎ kān shǒu rén	灯塔看守人
+děng tā wán shì le	等他完事了
 dēng tǎ zhuān yè bǎn	灯塔专业版
 děng wēi xiǎn wù pǐn	等危险物品
 děng wēn qū xiàn xì	等温曲线系
@@ -15354,6 +15376,7 @@ duì cè de cè lüè	对策的策略
 duì cè de jiē duàn	对策的阶段
 duì cè hé cuò shī	对策和措施
 duì cè shàng fāng zhí	对策上方值
+duì chèn bú duì chèn	对称不对称
 duì chèn duō chǔ lǐ	对称多处理
 duì chèn guāng miàn jiè	对称光面介
 duì chèn hán shù huán	对称函数环
@@ -16168,6 +16191,7 @@ duō zhuān jiā xì tǒng	多专家系统
 èr cì xíng de zhì	二次型的秩
 èr cì yīn zǐ fǎ	二次因子法
 èr cì yuán rén wù	二次元人物
+èr cì yuán yī fu	二次元衣服
 ér cùn kǒu guān chǐ	而寸口关尺
 ér dà bù yóu niáng	儿大不由娘
 èr dàn sān huà gǒng	二氮三化汞
@@ -17651,6 +17675,7 @@ fáng shǒu hé lán bǎn	防守和篮板
 fáng shǒu jī jí xìng	防守积极性
 fáng shǒu lán bǎn lǜ	防守篮板率
 fáng shǒu lán bǎn qiú	防守篮板球
+fàng shǒu méi fàng shǒu	放手没放手
 fáng shǒu xíng zhōng fēng	防守型中锋
 fàng shǒu yì bó ba	放手一搏吧
 fáng shǒu yǔ jìn gōng	防守与进攻
@@ -22055,6 +22080,7 @@ gēn zhe gǎn jué zǒu	跟着感觉走
 gēn zhe lǎo shī xué	跟着老师学
 gēn zhe shì chǎng zǒu	跟着市场走
 gēn zhe xiàng mù zǒu	跟着项目走
+gēn zhe yì qǐ hāi	跟着一起嗨
 gēn zhēn de shì de	跟真的似的
 gēn zhēn de yí yàng	跟真的一样
 gēn zhēn zhā shì de	跟针扎似的
@@ -22370,6 +22396,8 @@ gèng jiā de yōu yǎ	更加的优雅
 gèng jiā de zhēn shí	更加的真实
 gèng jiā de zhù zhòng	更加的注重
 gèng jiā de zì xìn	更加的自信
+gèng jiā dì fāng biàn	更加地方便
+gèng jiā dì jīng zhì	更加地精致
 gèng jiā jiān dìng de	更加坚定地
 gèng jiā kuài sù de	更加快速地
 gèng jiā shēn dù de	更加深度的
@@ -22408,6 +22436,7 @@ gèng shí de jǔ cuò	更实的举措
 gèng shí de zuò fēng	更实的作风
 gēng shǐ dì liú xuán	更始帝刘玄
 gěng shì èr jí guǎn	耿氏二极管
+gèng shì hé wǒ de	更适合我的
 gèng tǎo rén xǐ huan	更讨人喜欢
 gēng wéi jīng cǎi de	更为精彩的
 gēng wéi rén xìng huà	更为人性化
@@ -23081,6 +23110,7 @@ gòu bú gòu dà ba	够不够大吧
 gǒu bù xián jiā pín	狗不嫌家贫
 gòu chéng de wēi xié	构成的威胁
 gōu chì nòng dié zú	钩翅弄蝶族
+gòu cí fǎ yì shí	构词法意识
 gǒu dā la shé tou	狗耷拉舌头
 gōu dā zài yì qǐ	勾搭在一起
 gōu dàn bái zhì lèi	钩蛋白质类
@@ -23232,6 +23262,7 @@ gǔ diǎn shēng wù xíng	古典生物型
 gǔ diǎn xiāng róng de	古典相容的
 gǔ diǎn xué xué zhě	古典学学者
 gǔ diǎn yǔ shí shàng	古典与时尚
+gù dìng hòu xuǎn xiàng	固定候选项
 gù dìng huì lǜ zhì	固定汇率制
 gù dìng jià hé tong	固定价合同
 gù dìng shì qiú fá	固定式球阀
@@ -26012,6 +26043,7 @@ hé bàng kè zhuān xiàn	合蚌客专线
 hé bǎo cún hán zi	核保存函子
 hé bào mò shì lù	核爆末世录
 hé bào mò shì lù	核爆默示录
+hé bào zhà xiào yìng	核爆炸效应
 hé běi bǎo dìng de	河北保定的
 hé běi bǎo dìng rén	河北保定人
 hé běi bǎo dìng shì	河北保定市
@@ -29296,6 +29328,7 @@ huì lā gài ěr jì	惠拉盖尔济
 huì lā xiǎo tí qín	会拉小提琴
 huí lái ba shùn ài	回来吧顺爱
 huì lái chéng huáng miào	惠来城隍庙
+huí lái de wǎn de	回来得晚的
 huí lǎo jiā tàn qīn	回老家探亲
 huí le gè diàn huà	回了个电话
 huí le tàng lǎo jiā	回了趟老家
@@ -31699,6 +31732,7 @@ jiā lǐ de yào shi	家里的钥匙
 jiā lǐ de zhòng dàn	家里的重担
 jiā lì fú ní yà	加利福尼亚
 jiā lǐ màn dān dǎo	加里曼丹岛
+jiā lǐ méi yǒu kuàng	家里没有矿
 jiǎ liǎn jiě mèi tuán	假脸姐妹团
 jiǎ lián yè chóng shí	假镰叶虫实
 jiǎ liǎng nán tuī lǐ	假两难推理
@@ -37567,6 +37601,7 @@ kǎo shén me xué xiào	考什么学校
 kǎo shēng de chéng jì	考生的成绩
 kǎo shēng hé jiā zhǎng	考生和家长
 kǎo shēng jí jiā zhǎng	考生及家长
+kǎo shì kǎo de hǎo	考试考得好
 kǎo shì xìn xī wǎng	考试信息网
 kǎo shì yè dān wèi	考事业单位
 kào xiū xi huǎn jiě	靠休息缓解
@@ -39078,6 +39113,7 @@ lái dà yí mā le	来大姨妈了
 lái dào shì lái guò	来倒是来过
 lái dǎo yòu bīng wèi	来岛又兵卫
 lái de dōu shì kè	来的都是客
+lái de shì shí hou	来得是时候
 lái dé tài kuài la	来得太快啦
 lái de tài kuài le	来得太快了
 lái de tóng wèi sù	铼的同位素
@@ -40015,6 +40051,7 @@ lí kǎ tí fāng chéng	黎卡提方程
 lí kāi běi jīng le	离开北京了
 lí kāi xué xiào hòu	离开学校后
 lí kāi yāng shì hòu	离开央视后
+lí kāi zhè lǐ a	离开这里啊
 lì kè cì shì tǐ	立克次氏体
 lì kè cì tǐ dòu	立克次体痘
 lì kè dí yà sī	力克迪亚斯
@@ -40068,10 +40105,10 @@ lǐ lùn yǔ shí cāo	理论与实操
 lǐ lùn yǔ shí wù	理论与实务
 lǐ lùn yǔ shí yàn	理论与实验
 lǐ lùn yǔ shí zhàn	理论与实战
-lì luò de duǎn fà	利落的短发
-lì luò de fà xíng	利落的发型
-lì luò de jiǎn cái	利落的剪裁
-lì luò de xiàn tiáo	利落的线条
+lì luo de duǎn fà	利落的短发
+lì luo de fà xíng	利落的发型
+lì luo de jiǎn cái	利落的剪裁
+lì luo de xiàn tiáo	利落的线条
 lì lǜ de biàn huà	利率的变化
 lì mǎ dòu guī ju	利玛窦规矩
 lì mǎ dòu sù shè	利玛窦宿舍
@@ -43336,6 +43373,7 @@ mǎn mǎn de zì xìn	满满的自信
 mǎn mǎn dōu shì ài	满满都是爱
 mǎn mǎn dōu shì nǐ	满满都是你
 mǎn mǎn dōu shì xì	满满都是戏
+màn màn ér chī ba	慢慢儿吃吧
 mǎn mǎn fù néng liàng	满满负能量
 màn màn huí jiā lù	漫漫回家路
 màn màn màn màn de	慢慢慢慢地
@@ -45893,6 +45931,7 @@ nà me dà de yǔ	那么大的雨
 nà me jiù qǐng nǐ	那么就请你
 nà me lěng de tiān	那么冷的天
 nà me rè de tiān	那么热的天
+nà me zhāo jí a	那么着急啊
 nà méi bàn fǎ le	那没办法了
 nà měi kè xīng rén	那美克星人
 nà měi lì de fēng	那美丽的风
@@ -46120,6 +46159,7 @@ nán fāng yǔ běi fāng	南方与北方
 nán fù kē yī shēng	男妇科医生
 nán fù nǚ zhǔ rèn	男妇女主任
 nán gé pái lóu qún	南阁牌楼群
+nán guò de yào sǐ	难过得要死
 nán guò měi rén guān	难过美人关
 nán guó yào yè yǒu	南国药业有
 nán hái de bà ba	男孩的爸爸
@@ -46148,6 +46188,7 @@ nán jí zhōu bàn dǎo	南极洲半岛
 nán jiǎ hǎi líng diàn	南甲海灵殿
 nán jiě xíng wèn tí	难解型问题
 nán jīng bó wù yuàn	南京博物院
+nán jīng fáng dì chǎn	南京房地产
 nán jīng gōng lüè zhàn	南京攻略战
 nán kǎi kē sī dǎo	南凯科斯岛
 nán kāi qū fǎ yuàn	南开区法院
@@ -57262,7 +57303,6 @@ shēng chǎn jì shù kē	生产技术科
 shēng chǎn jí xiāo shòu	生产及销售
 shēng chǎn jí yán fā	生产及研发
 shēng chǎn jīng yíng bù	生产经营部
-shēng chǎn jīng yíng xìng	生产经营性
 shēng chǎn shè bèi jí	生产设备及
 shēng chǎn shí jiàn de	生产实践的
 shēng chǎn shuì jìng é	生产税净额
@@ -57353,7 +57393,6 @@ shēng guó hún shén shè	生国魂神社
 shēng guó qí yí shì	升国旗仪式
 shēng hái shì bù shēng	生还是不生
 shēng hái zi de shì	生孩子的事
-shěng háng zhèng xué yuàn	省行政学院
 shèng hè lè ná dǎo	圣赫勒拿岛
 shěng hóng shí zì huì	省红十字会
 shēng huà fǎn yìng qì	生化反应器
@@ -57760,6 +57799,7 @@ shěng xīn huá shū diàn	省新华书店
 shěng xīn yòu shěng lì	省心又省力
 shěng xīn yòu shěng qián	省心又省钱
 shèng xíng dí dàng xià	盛行的当下
+shěng xíng zhèng xué yuàn	省行政学院
 shěng xiōng kē yī yuàn	省胸科医院
 shēng xiù de tiě dīng	生锈的铁钉
 shēng xiù de xiǎo dāo	生锈的小刀
@@ -63690,6 +63730,7 @@ tái měi jī jīn huì	台美基金会
 tài méi rén xìng le	太没人性了
 tài méi yì sī le	太没意思了
 tài měng le zhè ge	太猛了这个
+tài méng le zhè ge	太萌了这个
 tāi pán táng dàn bái	胎盘糖旦白
 tāi pán xìng nán chǎn	胎盘性难产
 tài píng hóu kuí chá	太平猴魁茶
@@ -68881,6 +68922,9 @@ wǒ huàn huà chéng yǔ	我幻化成雨
 wǒ huí bù le jiā	我回不了家
 wǒ huí dào jiā le	我回到家了
 wǒ huì jiā yóu de	我会加油的
+wǒ huí lái de chí	我回来得迟
+wǒ huí lái de wǎn	我回来得晚
+wǒ huí lái de zǎo	我回来得早
 wǒ huí lǎo jiā le	我回老家了
 wǒ huì pà nǐ ma	我会怕你吗
 wǒ huì xīn téng de	我会心疼的
@@ -69224,6 +69268,7 @@ wǒ xīn xīn kǔ kǔ	我辛辛苦苦
 wǒ xīn yǒu bù gān	我心有不甘
 wǒ xìng fú kuài lè	我幸福快乐
 wǒ xíng wǒ sù téng	我行我素藤
+wǒ xiū gǎi yí xià	我修改一下
 wō xuán yā suō jī	涡旋压缩机
 wǒ xuǎn zé le nǐ	我选择了你
 wǒ yǎn zhōng de nǐ	我眼中的你
@@ -75469,7 +75514,7 @@ xióng biàn shù yuán lǐ	雄辩术原理
 xiōng bù hé bèi bù	胸部和背部
 xiōng bù hé fù bù	胸部和腹部
 xióng cán é jiā cán	雄蚕蛾家蚕
-xiōng chéng jì zhòng jì	凶城计中计
+xiōng chéng jì zhōng jì	凶城计中计
 xiōng dà de mèi zi	胸大的妹子
 xiōng dà de nǚ rén	胸大的女人
 xióng dà hé xióng èr	熊大和熊二
@@ -78854,6 +78899,7 @@ yī hè wǎ ní pài	依赫瓦尼派
 yí hé yuán tóng tíng	颐和园铜亭
 yì hēi dié ér dīng	亦黑迭儿丁
 yī hóng rǎn sè jì	伊红染色剂
+yǐ hòu bú huì le	以后不会了
 yǐ hòu dé zài wù	以厚德载物
 yí hòu shuǐ shǐ bīng	一候水始冰
 yī hù gōng zuò zhě	医护工作者
@@ -84877,6 +84923,7 @@ zé yōu de yuán zé	择优的原则
 zé zhèng hǎo xiāng fǎn	则正好相反
 zéi yú yǒng jiē shì	鲗鱼涌街市
 zěn me bàn jiā kāng	怎么办家康
+zěn me bù huí le	怎么不回了
 zěn me chà zhè me	怎么差这么
 zěn me gè sǐ fǎ	怎么个死法
 zěn me huí shì la	怎么回事啦
@@ -87080,7 +87127,6 @@ zhǐ gǔ jiān guān jié	趾骨间关节
 zhí gǔ jiān guān jié	跖骨间关节
 zhī gǔ wài shàng kē	肢骨外上髁
 zhī guǎn dǎn guǎn lòu	支管胆管瘘
-zhí guǎn duàn zhǎng dù	直管段长度
 zhǐ guān jié róng hé	指关节融合
 zhǐ guān jié róng hé	趾关节融合
 zhǐ guān jié tuō wèi	指关节脱位
@@ -88666,7 +88712,7 @@ zhǒng yuán yà yóu zǐ	冢原亚由子
 zhōng yuán zhī bà zhě	中原之霸者
 zhōng yuè guān xì shǐ	中越关系史
 zhòng zài cān yù ma	重在参与嘛
-zhǒng zài xiǎo yuán zhōng	种在小园中
+zhòng zài xiǎo yuán zhōng	种在小园中
 zhōng zhēn de ài qíng	忠贞的爱情
 zhòng zhèng guī huà qún	重正规化群
 zhòng zhì bú zhòng liàng	重质不重量
@@ -93949,7 +93995,7 @@ bǐ jiào qì bǐ cháng yí	比较器比长仪
 bǐ jiào tè lì dú xíng	比较特立独行
 bǐ jiào xīn lǐ xué jiā	比较心理学家
 bì jiǎo xíng qīng guāng yǎn	闭角型青光眼
-bǐ jiào zhōng guī zhōng jǔ	比较中规中矩
+bǐ jiào zhòng guī zhòng jǔ	比较中规中矩
 bì jìng hái zi hái xiǎo	毕竟孩子还小
 bí jū bó kè shì jūn	鼻疽伯克氏菌
 bǐ kāng mǎ lā xuǎn jūn	秕糠马拉癣菌
@@ -94235,7 +94281,7 @@ biǎo xiàn chā qiáng rén yì	表现差强人意
 biǎo xiàn fēi cháng yōu yì	表现非常优异
 biǎo xiàn jí qí chū sè	表现极其出色
 biǎo xiàn kě quān kě diǎn	表现可圈可点
-biǎo xiàn zhōng guī zhōng jǔ	表现中规中矩
+biǎo xiàn zhòng guī zhòng jǔ	表现中规中矩
 biǎo xiàn zhǔ yì diàn yǐng	表现主义电影
 biǎo xiàn zhǔ yì huà jiā	表现主义画家
 biǎo xiàn zhǔ yì huì huà	表现主义绘画
@@ -112692,7 +112738,7 @@ jié bó suì dào xiào yìng	杰伯隧道效应
 jiè bú dào de ài liàn	届不到的爱恋
 jiě bù kāi de xīn jié	解不开的心结
 jiē bù yī zhī shì yě	皆布衣之士也
-jiè cài zhǒng de bǐ yù	芥菜种的比喻
+jiè cài zhòng de bǐ yù	芥菜种的比喻
 jié cāo suì le yí dì	节操碎了一地
 jié cháng níng guàn cháng jì	结肠宁灌肠剂
 jiē chéng jǔ mǔ hán shù	阶乘矩母函数
@@ -116755,7 +116801,7 @@ lǐ sī èr shì xì bāo	李斯二氏细胞
 lǐ sī màn rǎn sè sù	李斯曼染色素
 lǐ sī wéi kè tiáo yuē	里斯维克条约
 lǐ suǒ dāng rán de shì	理所当然的事
-lì suǒ èr shì gǔ jiǎn	利索二氏骨剪
+lì suo èr shì gǔ jiǎn	利索二氏骨剪
 lì suǒ néng jí de shì	力所能及的事
 lǐ suǒ yīng dāng de shì	理所应当的事
 lǐ tán gāo sù gōng lù	醴潭高速公路
@@ -130035,7 +130081,7 @@ sū zī dá ěr sī jī	苏兹达尔斯基
 suàn fǎ bǔ quē shī zhí	算法补缺失值
 suàn shì jiàn shi dào le	算是见识到了
 suàn shì jǐn shàng tiān huā	算是锦上添花
-suàn shì zhōng guī zhōng jǔ	算是中规中矩
+suàn shì zhòng guī zhòng jǔ	算是中规中矩
 suàn shù jī běn dìng lǐ	算术基本定理
 suàn shù jī běn dìng lǐ	算数基本定理
 suàn shù jǐ hé jí shù	算术几何级数
@@ -134930,7 +134976,7 @@ xiǎn de fēi cháng jīng shén	显得非常精神
 xiǎn de fēi cháng jīng zhì	显得非常精致
 xiǎn de fēi cháng kě ài	显得非常可爱
 xiǎn de fēi cháng zhòng yào	显得非常重要
-xiǎn de gān jìng lì luò	显得干净利落
+xiǎn de gān jìng lì luo	显得干净利落
 xiǎn de gé gé bú rù	显得格格不入
 xiǎn de gé wài měi lì	显得格外美丽
 xiǎn de gé wài mí rén	显得格外迷人
@@ -146024,7 +146070,7 @@ zì jǐ yuè xiàn yuè shēn	自己越陷越深
 zì jī zhèn dàng diàn lù	自激振荡电路
 zì jī zhèn dàng xì tǒng	自激振荡系统
 zì jià yóu de péng you	自驾游的朋友
-zì jiā zhǒng de shū cài	自家种的蔬菜
+zì jiā zhòng de shū cài	自家种的蔬菜
 zì jiāo bù qīn hé xìng	自交不亲和性
 zì jiào zhèng kòng zhì qì	自校正控制器
 zì jiào zhèng tiáo jié qì	自校正调节器
@@ -149721,6 +149767,7 @@ cái shì zhēn zhèng de xìng fú	才是真正的幸福
 cái shì zhēn zhèng de yíng jiā	才是真正的赢家
 cái shì zhèng què de xuǎn zé	才是正确的选择
 cái shì zuì dà de xìng fú	才是最大的幸福
+cái shì zuì zhòng yào de shì	才是最重要的事
 cái shū zhī héng sǎo qiān jūn	财叔之横扫千军
 cǎi táo bā jiǎo xīng wén dòu	彩陶八角星纹豆
 cái wù bào biǎo de biān zhì	财务报表的编制
@@ -154224,7 +154271,7 @@ fèng qī shān mù yuán běi qū	凤栖山墓园北区
 fēng qǐ yú qīng píng zhī mò	风起于青萍之末
 fēng qiáo fēng jǐng míng shèng qū	枫桥风景名胜区
 fēng qíng guó jì lǚ xíng shè	风情国际旅行社
-fēng qíng wàn zhǒng de nǚ rén	风情万种的女人
+fēng qíng wàn zhòng de nǚ rén	风情万种的女人
 fēng qù yōu mò de yǔ yán	风趣幽默的语言
 fēng quǎn shào nián de tiān kōng	风犬少年的天空
 fēng qún bēng huài zhèng hòu qún	蜂群崩坏症候群
@@ -154707,8 +154754,8 @@ gǎn jiāo fǔ zhī qì yán xī	感交甫之弃言兮
 gǎn jiào rì yuè huàn xīn tiān	敢叫日月换新天
 gǎn jǐn xíng dòng qǐ lái ba	赶紧行动起来吧
 gǎn jǐn zhǎo gè nán péng you	赶紧找个男朋友
-gān jìng lì luò de duǎn fà	干净利落的短发
-gān jìng lì luò de xiàn tiáo	干净利落的线条
+gān jìng lì luo de duǎn fà	干净利落的短发
+gān jìng lì luo de xiàn tiáo	干净利落的线条
 gān jīng shī rè lì néng pái	肝经湿热力能排
 gān jìng shū shì de huán jìng	干净舒适的环境
 gān jìng zhěng jié de dào lù	干净整洁的道路
@@ -160711,6 +160758,7 @@ yī nuò shā xīng pú táo táng	依诺沙星葡萄糖
 yì pài kè gōng yè pǐn zhǎn	易派客工业品展
 yǐ pái shān dǎo hǎi zhī shì	以排山倒海之势
 yī qì bú jiàng xīn xià pǐ	噫气不降心下痞
+yì qǐ lái kàn liú xīng yǔ	一起来看流星雨
 yǐ qí tā fāng shì gōng kāi	以其他方式公开
 yǐ qián xiǎng dōu bù gǎn xiǎng	以前想都不敢想
 yǐ qiáng liè de shì yè xīn	以强烈的事业心
