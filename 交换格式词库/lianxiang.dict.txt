@@ -11081,6 +11081,7 @@ dài dài mù dà shà	代代木大厦
 dài dài mù shàng yuán	代代木上原
 dài dān dài shù qún	殆单代数群
 dài dào chóng féng shí	待到重逢时
+dài dāo qiē gē bèng	带刀切割泵
 dài dào shì dài guò	待倒是待过
 dǎi dào yí gè rén	逮到一个人
 dài dào yí gè rén	带到一个人
@@ -41154,10 +41155,10 @@ liàng zǐ shì shì fàng	量子式释放
 liàng zǐ wú xù xì	量子无序系
 liàng zǐ yǐn lì xué	量子引力学
 liáo bìng yòu fā nüè	疗病诱发疟
-liǎo bù qǐ de hán	了不起的韩
-liǎo bù qǐ de pǐn	了不起的品
-liǎo bù qǐ de xuǎn	了不起的选
-liǎo bù qǐ wǔ shè	了不起舞社
+liǎo bu qǐ de hán	了不起的韩
+liǎo bu qǐ de pǐn	了不起的品
+liǎo bu qǐ de xuǎn	了不起的选
+liǎo bu qǐ wǔ shè	了不起舞社
 liáo cǎo bù liáo cǎo	潦草不潦草
 liáo chéng kāi fā qū	聊城开发区
 liáo dào shì liáo guò	聊倒是聊过
@@ -43264,6 +43265,7 @@ mǎn dǎo zhēn zhī jiè	满岛真之介
 mǎn dì de lā jī	满地的垃圾
 mǎn dì de luò yè	满地的落叶
 mǎn dōu hǎi hā tún	满都海哈屯
+màn gōng chū làn huó	慢工出烂活
 mǎn guī lín yè jú	满归林业局
 mǎn hàn bù tōng hūn	满汉不通婚
 màn huà hé dòng huà	漫画和动画
@@ -58169,6 +58171,7 @@ shí diāo gōng yì pǐn	石雕工艺品
 shì dìng xìng wèn tí	适定性问题
 shì dōng běi dà xué	是东北大学
 shì dòng huà diàn yǐng	是动画电影
+shì dōu bú huì shì	试都不会试
 shī dù cè dìng fǎ	湿度测定法
 shī dù chuán gǎn qì	湿度传感器
 shī dù de biàn huà	湿度的变化
@@ -63722,7 +63725,7 @@ tài lì shì zhǐ jia	泰利氏指甲
 tài lǐ xiǎng zhǔ yì	太理想主义
 tài liàn nèi qiē méi	肽链内切酶
 tái liáng shì gòu jià	抬梁式构架
-tài liǎo bù qǐ le	太了不起了
+tài liǎo bu qǐ le	太了不起了
 tài méi ěr bàn dǎo	泰梅尔半岛
 tài méi ěr bàn dǎo	太梅尔半岛
 tài měi hé jīn mén	钛镁合金门
@@ -68852,7 +68855,6 @@ wǒ de nà ge tā	我的那个她
 wǒ de qī zǐ ma	我的妻子吗
 wǒ de qīng chūn gāo	我的青春高
 wǒ de shēng yīn shì	我的声音是
-wǒ de wèi lái shì	我的未来是
 wǒ de wèi lái shì	我的未来式
 wǒ de yí bù shū	我的一部书
 wǒ de yì zhōng rén	我的意中人
@@ -83131,6 +83133,7 @@ yǔ sǐ shén sài pǎo	与死神赛跑
 yù sù ér bù dá	欲速而不达
 yǔ sù gòu cí xué	语素构词学
 yú sù jī qī xǐ	鱼素鸡七喜
+yù sù zé yì tuó	欲速则一坨
 yù suàn de biān zhì	预算的编制
 yù suàn de zhí xíng	预算的执行
 yù suàn wài zhī chū	预算外支出
@@ -87122,15 +87125,6 @@ zhì gōng chū bǎn shè	致公出版社
 zhí gōng de gōng zī	职工的工资
 zhí gòng gá jǔ pài	直贡噶举派
 zhī gōng sī jīng lǐ	支公司经理
-zhǐ gǔ jiān guān jié	指骨间关节
-zhǐ gǔ jiān guān jié	趾骨间关节
-zhí gǔ jiān guān jié	跖骨间关节
-zhī gǔ wài shàng kē	肢骨外上髁
-zhī guǎn dǎn guǎn lòu	支管胆管瘘
-zhǐ guān jié róng hé	指关节融合
-zhǐ guān jié róng hé	趾关节融合
-zhǐ guān jié tuō wèi	指关节脱位
-zhǐ guān jié tuō wèi	趾关节脱位
 zhì guān zhòng yào de	至关重要的
 zhí guāng dǎo xiān wéi	直光导纤维
 zhī guāng zhèng zhǎng yán	脂光正长岩
@@ -87556,8 +87550,6 @@ zhì néng zuò biàn qì	智能坐便器
 zhī nǐ sǐ wǒ huó	之你死我活
 zhǐ nì xià qì zhě	止逆下气者
 zhì nǐ yú sǐ dì	置你于死地
-zhì nián lóng tài láng	置鲶龙太郎
-zhì nián lóng tài láng	置鲇龙太郎
 zhí nián qí dà chén	值年旗大臣
 zhí nián qí yá mén	值年旗衙门
 zhí nián shén lǐ bǐng	值年神李丙
@@ -95641,7 +95633,7 @@ bù zhī hé nián hé yuè	不知何年何月
 bù zhī jǐ qiān lǐ yě	不知几千里也
 bù zhì jiā tíng zuò yè	布置家庭作业
 bù zhī lǎo zhī jiāng zhì	不知老之将至
-bù zhī lù sǐ shéi shǒu	不知鹿死谁手
+bù zhī lù sǐ shuí shǒu	不知鹿死谁手
 bù zhī míng de xiǎo huā	不知名的小花
 bù zhī míng de xiǎo zhàn	不知名的小站
 bù zhī míng de xīng xīng	不知名的星星
@@ -105375,7 +105367,7 @@ gēn shì fēn tún jī dì	根室分屯基地
 gēn tóng líng rén xiāng bǐ	跟同龄人相比
 gēn tóu bèi cè rèn dài	跟骰背侧韧带
 gēn tóu zú dǐ rèn dài	跟骰足底韧带
-gēn tú piàn dǎ jiāo dào	跟图片打交道
+gēn tú piàn dǎ jiāo dao	跟图片打交道
 gēn wǒ dǎ diàn huà de	跟我打电话的
 gēn wǒ zài yì qǐ ba	跟我在一起吧
 gēn xiǎo biān lái kàn kàn	跟小编来看看
@@ -117320,16 +117312,16 @@ liàng zǐ yǐn lì zhǎng luò	量子引力涨落
 liàng zǐ yǐn xíng chuán tài	量子隐形传态
 liàng zǐ zhī nuò xiào yìng	量子之诺效应
 liàng zǐ zī xùn kē xué	量子资讯科学
-liǎo bù qǐ de bà ba	了不起的爸爸
-liǎo bù qǐ de cháng chéng	了不起的长城
-liǎo bù qǐ de dīng yī	了不起的丁一
-liǎo bù qǐ de hái zi	了不起的孩子
-liǎo bù qǐ de huǒ jiàn	了不起的火箭
-liǎo bù qǐ de jiàng rén	了不起的匠人
-liǎo bù qǐ de lǎo bà	了不起的老爸
-liǎo bù qǐ de nǚ rén	了不起的女人
-liǎo bù qǐ de tiǎo zhàn	了不起的挑战
-liǎo bù qǐ de wáng líng	了不起的亡灵
+liǎo bu qǐ de bà ba	了不起的爸爸
+liǎo bu qǐ de cháng chéng	了不起的长城
+liǎo bu qǐ de dīng yī	了不起的丁一
+liǎo bu qǐ de hái zi	了不起的孩子
+liǎo bu qǐ de huǒ jiàn	了不起的火箭
+liǎo bu qǐ de jiàng rén	了不起的匠人
+liǎo bu qǐ de lǎo bà	了不起的老爸
+liǎo bu qǐ de nǚ rén	了不起的女人
+liǎo bu qǐ de tiǎo zhàn	了不起的挑战
+liǎo bu qǐ de wáng líng	了不起的亡灵
 liáo bù wán de huà tí	聊不完的话题
 liáo chéng dà xué xiào zhǎng	聊城大学校长
 liáo chéng huà yǐ guī jìn	聊乘化以归尽
@@ -123244,7 +123236,7 @@ qīng shào nián de jiàn kāng	青少年的健康
 qīng shào nián de xīn lǐ	青少年的心理
 qīng shào nián hé chéng rén	青少年和成人
 qīng shào nián wéi quán gǎng	青少年维权岗
-qíng shēn shēn yǔ méng méng	情深深雨蒙蒙
+qíng shēn shēn yǔ méng méng	情深深雨濛濛
 qíng shèng kǎ sà nuò wǎ	情圣卡萨诺瓦
 qíng shì biàn gēng yuán zé	情事变更原则
 qíng shì biàn gēng yuán zé	情势变更原则
@@ -160011,6 +160003,7 @@ wén huà yǐn lǐng bǎo ān quán	文化引领保安全
 wēn nüè jiā shǔ qī bàn fēn	温疟加蜀漆半分
 wēn yáng huà qì tiān guì zhī	温阳化气添桂枝
 wén yì lǐ lùn yǔ pī píng	文艺理论与批评
+wǒ de wèi lái bú shì mèng	我的未来不是梦
 wǒ men shēng huó de dì fāng	我们生活的地方
 wǒ men xīn jiāng hǎo dì fāng	我们新疆好地方
 wǒ mìng yóu wǒ bù yóu tiān	我命由我不由天
