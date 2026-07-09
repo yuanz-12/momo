@@ -10528,9 +10528,9 @@ sort: by_weight
 打斗的场面	dǎ;fd dòu;ud de;bu chǎng;tp miàn;ao	10
 打斗过程中	dǎ;fd dòu;ud guò;zc chéng;hw zhōng;kl	10
 大豆磷脂粉	dà;ar dòu;ab lín;uf zhī;oo fěn;mf	10
-大都美术馆	dà;ar dōu;le měi;yd shù;ad guǎn;ul	10
 大渡河水系	dà;ar dù;dy hé;dk shuǐ;ln xì;px	10
 大都会人寿	dà;ar dū;le huì;ry rén;pn shòu;fc	10
+大都美术馆	dà;ar dū;le měi;yd shù;ad guǎn;ul	10
 大肚弥勒佛	dà;ar dù;ot mí;gx lè;cl fó;rf	10
 打盹的小猫	dǎ;fd dǔn;ot de;bu xiǎo;lb māo;qt	10
 大多数时候	dà;ar duō;xx shù;mw shí;to hou;ru	10
@@ -43504,7 +43504,7 @@ sort: by_weight
 满满一大盆	mǎn;dl mǎn;dl yí;aa dà;ar pén;fm	10
 满满一大碗	mǎn;dl mǎn;dl yí;aa dà;ar wǎn;uv	10
 满满一桌子	mǎn;dl mǎn;dl yì;aa zhuō;ba zi;la	10
-慢慢悠悠地	màn;xy màn;xy yōu;rx yōu;rx de;ty	10
+慢慢悠悠地	màn;xy man;xy yōu;rx yōu;rx de;ty	10
 满满正能量	mǎn;dl mǎn;dl zhèng;av néng;sb liàng;ol	10
 漫漫自由路	màn;dy màn;dy zì;po yóu;ol,lt lù;zk	10
 曼妙的曲线	màn;oy miào;nu de;bu qū;wc,ck xiàn;sj	10
@@ -78316,6 +78316,8 @@ sort: by_weight
 叶绿体被膜	yè;ku lǜ;su tǐ;rb bèi;pp mó;od	10
 叶绿体基粒	yè;ku lǜ;su tǐ;rb jī;ct lì;ml	10
 叶绿体基质	yè;ku lǜ;su tǐ;rb jī;ct zhì;ib	10
+页码比较多	yè;ab mǎ;um bǐ;bb jiào;if duō;xx	12
+野马比较多	yě;ly mǎ;va bǐ;bb jiào;if duō;xx	10
 野蛮其体魄	yě;ly mán;wi qí;cb tǐ;rb pò;bg	10
 野蛮人科南	yě;ly mán;wi rén;pn kē;hd nán;ug	10
 野蛮人柯南	yě;ly mán;wi rén;pn kē;ak nán;ug	10
@@ -93915,7 +93917,7 @@ sort: by_weight
 被讨厌的勇气	bèi;pp tǎo;yc yàn;iq de;bu yǒng;sl qì;pv	10
 贝特二氏定律	bèi;kr tè;nc èr;aa shì;pv dìng;bz lǜ;ry	10
 被提上了日程	bèi;pp tí;fz shàng;ba le;al rì;wa chéng;hw	10
-北庭大都护府	běi;lb tíng;gw dà;ar dōu;le hù;fh fǔ;gc	10
+北庭大都护府	běi;lb tíng;gw dà;ar dū;le hù;fh fǔ;gc	10
 北庭故城遗址	běi;lb tíng;gw gù;gw chéng;ti yí;zb zhǐ;tv	10
 北投温泉浴场	běi;lb tóu;fu wēn;dm quán;bu yù;dg chǎng;tp	10
 被偷走的一代	bèi;pp tōu;rd zǒu;tz de;bu yí;aa dài;rg	10
@@ -96237,7 +96239,7 @@ sort: by_weight
 产业升级换代	chǎn;wi yè;la shēng;pc jí;sj huàn;fr dài;rg	10
 产业提质增效	chǎn;wi yè;la tí;fz zhì;ib zēng;to xiào;ww	10
 产业招商引资	chǎn;wi yè;la zhāo;fk shāng;wk yǐn;gl zī;db	10
-单于大都护府	chán;bu yú;au dà;ar dōu;le hù;fh fǔ;gc	10
+单于大都护府	chán;bu yú;au dà;ar dū;le hù;fh fǔ;gc	10
 禅宗六祖慧能	chán;pu zōng;bu liù;wb zǔ;pq huì;fx néng;sb	10
 长安大学教授	cháng;pn ān;bn dà;ar xué;xz jiào;lw shòu;fy	10
 长安大学校友	cháng;pn ān;bn dà;ar xué;xz xiào;af yǒu;uy	10
@@ -161970,6 +161972,7 @@ sort: by_weight
 别往自己脸上贴金	bié;kd wǎng;rv zì;po jǐ;kv liǎn;oq shàng;ba tiē;bv jīn;rb	10
 兵来将挡水来土掩	bīng;qb lái;aa jiàng;lc dǎng;fe shuǐ;ln lái;aa tǔ;ua yǎn;fd	10
 兵马未动粮草先行	bīng;qb mǎ;va wèi;aa,er dòng;yl liáng;ml cǎo;cu xiān;ne xíng;rd	10
+玻色爱因斯坦凝聚	bō;wp sè;db ài;vy yīn;wd sī;ct tǎn;td níng;dz jù;eu	10
 玻色爱因斯坦统计	bō;wp sè;db ài;vy yīn;wd sī;ct tǎn;td tǒng;sy jì;yu	10
 不愤不启不悱不发	bú;ab fèn;xb bù;ab qǐ;hk bù;ab fěi;xf bù;ab fā;fy	10
 不该交的朋友不交	bù;ab gāi;yr jiāo;wf de;bu péng;oo you;uy bù;ab jiāo;wf	10
