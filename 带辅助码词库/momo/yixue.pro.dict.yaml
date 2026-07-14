@@ -710,7 +710,7 @@ sort: by_weight
 肺胚细胞瘤	fèi;oj pēi;op xì;st bāo;ob liú;bt	10
 肺脾积热证	fèi;oj pí;ou jī;hv rè;fh zhèng;yv	10
 肺脾两虚证	fèi;oj pí;ou liǎng;ar xū;hy zhèng;yv	10
-肺脾气虚证	fèi;oj pí;ou qì;pv xū;hy zhèng;yv	10
+肺脾气虚证	fèi;oj pí;ou qi;pv xū;hy zhèng;yv	10
 肺脾湿热证	fèi;oj pí;ou shī;dy rè;fh zhèng;yv	10
 肺气衰竭证	fèi;oj qì;pv shuāi;yv jié;lr zhèng;yv	10
 肺气郁痹证	fèi;oj qì;pv yù;ue bì;bw zhèng;yv	10
@@ -1037,8 +1037,8 @@ sort: by_weight
 肝脾不调证	gān;og pí;ou bù;ab tiáo;yk zhèng;yv	10
 肝脾亏虚证	gān;og pí;ou kuī;ak xū;hy zhèng;yv	10
 肝脾两虚证	gān;og pí;ou liǎng;ar xū;hy zhèng;yv	10
-肝脾气郁证	gān;og pí;ou qì;pv yù;ue zhèng;yv	10
-肝脾气滞证	gān;og pí;ou qì;pv zhì;dj zhèng;yv	10
+肝脾气郁证	gān;og pí;ou qi;pv yù;ue zhèng;yv	10
+肝脾气滞证	gān;og pí;ou qi;pv zhì;dj zhèng;yv	10
 肝脾湿火证	gān;og pí;ou shī;dy huǒ;br,rb zhèng;yv	10
 肝脾湿热证	gān;og pí;ou shī;dy rè;fh zhèng;yv	10
 肝脾血瘀证	gān;og pí;ou xuè;pm yū;bd zhèng;yv	10
@@ -2651,10 +2651,10 @@ sort: by_weight
 脾皮样囊肿	pí;ou pí;py yàng;ay náng;gy zhǒng;ov	10
 皮片移植术	pí;py piàn;pv yí;hx zhí;aq shù;ad	10
 皮片植皮术	pí;py piàn;pv zhí;aq pí;py shù;ad	10
-脾气不升证	pí;ou qì;pv bù;ab shēng;pc zhèng;yv	10
-脾气不足证	pí;ou qì;pv bù;ab zú;kz zhèng;yv	10
-脾气亏虚证	pí;ou qì;pv kuī;ak xū;hy zhèng;yv	10
-脾气下陷证	pí;ou qì;pv xià;ab xiàn;ej zhèng;yv	10
+脾气不升证	pí;ou qi;pv bù;ab shēng;pc zhèng;yv	10
+脾气不足证	pí;ou qi;pv bù;ab zú;kz zhèng;yv	10
+脾气亏虚证	pí;ou qi;pv kuī;ak xū;hy zhèng;yv	10
+脾气下陷证	pí;ou qi;pv xià;ab xiàn;ej zhèng;yv	10
 脾腔分流术	pí;ou qiāng;og fēn;bd liú;di shù;ad	10
 脾区综合征	pí;ou qū;kx zōng;su hé;rk zhēng;rv	10
 脾曲综合征	pí;ou qǔ;wc,ck zōng;su hé;rk zhēng;rv	10
@@ -4154,7 +4154,7 @@ sort: by_weight
 心脾积热证	xīn;dd pí;ou jī;hv rè;fh zhèng;yv	10
 心脾亏虚证	xīn;dd pí;ou kuī;ak xū;hy zhèng;yv	10
 心脾两虚证	xīn;dd pí;ou liǎng;ar xū;hy zhèng;yv	10
-心脾气虚证	xīn;dd pí;ou qì;pv xū;hy zhèng;yv	10
+心脾气虚证	xīn;dd pí;ou qi;pv xū;hy zhèng;yv	10
 心脾湿热证	xīn;dd pí;ou shī;dy rè;fh zhèng;yv	10
 心脾受损证	xīn;dd pí;ou shòu;vy sǔn;fb zhèng;yv	10
 心脾血虚证	xīn;dd pí;ou xuè;pm xū;hy zhèng;yv	10
@@ -14316,7 +14316,7 @@ sort: by_weight
 心内膜恶性肿瘤	xīn;dd nèi;kr mó;od è;yx xìng;xu zhǒng;ov liú;bt	10
 心内膜良性肿瘤	xīn;dd nèi;kr mó;od liáng;dg xìng;xu zhǒng;ov liú;bt	10
 心内异物取出术	xīn;dd nèi;kr yì;sc wù;nw qǔ;ey chū;uu shù;ad	10
-心脾气血两虚证	xīn;dd pí;ou qì;pv xuè;pm liǎng;ar xū;hy zhèng;yv	10
+心脾气血两虚证	xīn;dd pí;ou qi;pv xuè;pm liǎng;ar xū;hy zhèng;yv	10
 心腔外伤修补术	xīn;dd qiāng;og wài;xb shāng;rl xiū;rp bǔ;pb shù;ad	10
 新生儿单纯疱疹	xīn;lt shēng;pf ér;pv dān;bu chún;st pào;bb zhěn;bp	10
 心室病损切除术	xīn;dd shì;bt bìng;bn sǔn;fb qiē;qd chú;em shù;ad	10
