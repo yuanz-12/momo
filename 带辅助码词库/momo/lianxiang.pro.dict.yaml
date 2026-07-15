@@ -10725,7 +10725,7 @@ sort: by_weight
 打了个饱嗝	dǎ;fd le;al gè;rl bǎo;ub gé;kg	10
 打了个盹儿	dǎ;fd le;al gè;rl dǔn;ot er;pv	10
 打了个寒噤	dǎ;fd le;al gè;rl hán;bd jìn;ku	10
-打了个激灵	dǎ;fd le;al gè;rl jī;dw líng;eh	10
+打了个激灵	dǎ;fd le;al gè;rl jī;dw ling;eh	10
 打了个手势	dǎ;fd le;al gè;rl shǒu;pf shì;fl	10
 打了个死结	dǎ;fd le;al gè;rl sǐ;db jié;sk	10
 打了个响指	dǎ;fd le;al gè;rl xiǎng;kk zhǐ;fo	10
@@ -14837,6 +14837,7 @@ sort: by_weight
 都心甘情愿	dōu;le xīn;dd gān;ca qíng;xo yuàn;ix	10
 豆血红蛋白	dòu;ab xuè;pm hóng;sg dàn;zi bái;po	10
 都遥遥领先	dōu;le yáo;zf yáo;zf lǐng;ry xiān;ne	10
+都要做的事	dōu;le yào;xn zuò;rw de;bu shì;gy	10
 都一个小时	dōu;le yí;aa gè;rl xiǎo;lb shí;to	10
 都一目了然	dōu;le yí;aa mù;we liǎo;al rán;xh	10
 都一清二楚	dōu;le yì;aa qīng;do èr;aa chǔ;az	10
@@ -29999,7 +30000,7 @@ sort: by_weight
 火星人花花	huǒ;br,rb xīng;ou rén;pn huā;cb huā;cb	10
 活性炭滤网	huó;du xìng;xu tàn;uh lǜ;dx wǎng;kx	10
 活性炭吸附	huó;du xìng;xu tàn;uh xī;kj fù;ec	10
-活性碳吸附	huó;du xìng;xu tàn;uh xī;kj fù;ec	10
+活性炭吸附	huó;du xìng;xu tàn;uh xī;kj fù;ec	10
 活性污泥法	huó;du xìng;xu wū;dk ní;db fǎ;dq	10
 活性稀释剂	huó;du xìng;xu xī;hj shì;mf jì;qd	10
 活性益生菌	huó;du xìng;xu yì;bm shēng;pf jūn;ch	10
@@ -99172,7 +99173,6 @@ sort: by_weight
 档案管理程式	dàng;ae àn;ba guǎn;vl lǐ;wl chéng;hw shì;gg	10
 党报党刊征订	dǎng;xx bào;fy dǎng;xx kān;gd zhēng;rv dìng;yd	10
 当别分屯基地	dāng;xe bié;kd fēn;bd tún;av jī;ct dì;ty	10
-挡不住的疯情	dǎng;fe bú;ab zhù;rv de;bu fēng;bf qíng;xo	10
 挡不住的风情	dǎng;fe bú;ab zhù;rv de;bu fēng;jx qíng;xo	10
 挡不住的奇迹	dǎng;fe bú;ab zhù;rv de;bu qí;dk jì;zb	10
 挡不住的诱惑	dǎng;fe bú;ab zhù;rv de;bu yòu;yn huò;gx	10
@@ -100852,6 +100852,8 @@ sort: by_weight
 东一句西一句	dōng;ax yī;aa jù;bk xī;ak,wk yī;aa jù;bk	10
 东医寿世保元	dōng;ax yī;ku shòu;fc shì;cv bǎo;ra yuán;aw	10
 东医四象新篇	dōng;ax yī;ku sì;we xiàng;du xīn;lt piān;vc	10
+东一头西一头	dōng;ax yī;aa tóu;dd xī;ak,wk yī;aa tóu;dd	10
+东一下西一下	dōng;ax yī;aa xià;ab xī;ak,wk yī;aa xià;ab	10
 东英金融集团	dōng;ax yīng;cy jīn;rb róng;gi jí;ra tuán;wc	10
 东永高速公路	dōng;ax yǒng;du gāo;wk sù;zu gōng;bs lù;zk	10
 董永与七仙女	dǒng;cv yǒng;du yǔ;va qī;av xiān;ru nǚ;va	10
@@ -101383,6 +101385,7 @@ sort: by_weight
 多项式的容度	duō;xx xiàng;gy shì;gg de;bu róng;bg dù;gy	10
 多项式的因子	duō;xx xiàng;gy shì;gg de;bu yīn;wd zǐ;la	10
 多项式多面体	duō;xx xiàng;gy shì;gg duō;xx miàn;ao tǐ;rb	10
+多项世界第一	duō;xx xiàng;gy shì;cv jiè;tj dì;vd yī;aa	10
 夺项王天下者	duó;dc xiàng;gy wàng;at tiān;ad xià;ab zhě;lo	10
 多效蒸馏水器	duō;xx xiào;ww zhēng;ch liú;ut shuǐ;ln qì;xx	10
 惰性初始模式	duò;xo xìng;xu chū;pd shǐ;nk mó;ad shì;gg	10
@@ -103825,7 +103828,7 @@ sort: by_weight
 父亲意外去世	fù;bx qīn;la yì;lx wài;xb qù;ts shì;cv	10
 浮球式疏水阀	fú;dz qiú;wq shì;gg shū;vi shuǐ;ln fá;mg	10
 福泉高速公路	fú;pt quán;bu gāo;wk sù;zu gōng;bs lù;zk	10
-复热不足冷损	fù;pw rè;fh bù;ab zú;kz lěng;ds sǔn;fb	10
+复热不足冷损	fù;pw rè;fh bu;ab zú;kz lěng;ds sǔn;fb	10
 妇人大全良方	fù;ne rén;pn dà;ar quán;rw liáng;dg fāng;wv	10
 辅仁大学教授	fǔ;if rén;re dà;ar xué;xz jiào;lw shòu;fy	10
 辅仁大学校友	fǔ;if rén;re dà;ar xué;xz xiào;af yǒu;uy	10
@@ -105957,6 +105960,7 @@ sort: by_weight
 工资福利支出	gōng;aa zī;db fú;pt lì;hd zhī;uy chū;uu	10
 工资薪金支出	gōng;aa zī;db xīn;ct jīn;rb zhī;uy chū;uu	10
 工资指导价位	gōng;aa zī;db zhǐ;fo dǎo;sc jià;rj wèi;rl	10
+工作上的失误	gōng;aa zuò;rv shàng;ba de;bu shī;pf wù;yt	10
 工作小组监查	gōng;aa zuò;rv xiǎo;lb zǔ;sq jiān;lm chá;ad	10
 构成刑事犯罪	gòu;ag chéng;gv xíng;kd shì;gy fàn;qv zuì;sf	10
 构成正当防卫	gòu;ag chéng;gv zhèng;av dàng;xe fáng;ef wèi;ea	10
@@ -106090,6 +106094,7 @@ sort: by_weight
 股东行动主义	gǔ;ou dōng;ax xíng;rd dòng;yl zhǔ;wt yì;dx	10
 股东应占利润	gǔ;ou dōng;ax yīng;ga zhàn;bw lì;hd rùn;dw	10
 股东应占溢利	gǔ;ou dōng;ax yīng;ga zhàn;bw yì;dm lì;hd	10
+孤独的牧羊人	gū;zg dú;qi de;bu mù;nw yáng;bf rén;pn	10
 股二头肌上囊	gǔ;ou èr;aa tóu;dd jī;oj shàng;ba náng;gy	10
 孤儿院的孩子	gū;zg ér;pv yuàn;ey de;bu hái;zr zi;la	10
 股份减持计划	gǔ;ou fèn;rf jiǎn;dk chí;fc jì;yu huà;gd	10
@@ -106288,6 +106293,7 @@ sort: by_weight
 古希腊娈童恋	gǔ;uk xī;xj là;oo luán;wn tóng;ll liàn;wx	10
 古希腊文化的	gǔ;uk xī;xj là;oo wén;wx huà;rb de;bu	10
 古希腊语方言	gǔ;uk xī;xj là;oo yǔ;yk fāng;wv yán;wk	10
+姑息足以养奸	gū;ng xī;zx zú;kz yǐ;lr yǎng;yl jiān;ng	10
 谷酰胺转酞酶	gǔ;bk xiān;ye àn;on zhuǎn;iv tài;yt méi;ym	10
 谷酰基转移酶	gǔ;bk xiān;ye jī;ct zhuǎn;iv yí;hx méi;ym	10
 故乡的野菜花	gù;gw xiāng;vp de;bu yě;ly cài;ca huā;cb	10
@@ -106471,6 +106477,7 @@ sort: by_weight
 管那么多干嘛	guǎn;vl nà;ve me;ps duō;xx gàn;au má;ka	10
 管内旅客列车	guǎn;vl nèi;kr lǚ;fy kè;bk liè;dd chē;au	10
 官能第七十三	guān;bl néng;sb dì;vd qī;av shí;al sān;ae	10
+关你们什么事	guān;bt nǐ;rx men;rm shén;ru me;ps shì;gy	10
 管权管事管人	guǎn;vl quán;ay guǎn;vl shì;gy guǎn;vl rén;pn	10
 关上阴阳交界	guān;bt shàng;ba yīn;eo yáng;eo jiāo;wf jiè;tj	10
 莞深高速公路	guǎn;cy shēn;da gāo;wk sù;zu gōng;bs lù;zk	10
@@ -107073,6 +107080,7 @@ sort: by_weight
 过高或者过低	guò;zc gāo;wk huò;ga zhě;lo guò;zc dī;ru	10
 过更好的生活	guò;zc gèng;an hǎo;nz de;bu shēng;pf huó;du	10
 郭公庄车辆段	guō;we gōng;bs zhuāng;gt chē;au liàng;il duàn;pu	10
+过惯了苦日子	guò;zc guàn;xb le;al kǔ;cg rì;wa zi;la	10
 国国家美术馆	guó;wy guó;wy jiā;bu měi;yd shù;ad guǎn;ul	10
 国海富兰克林	guó;wy hǎi;dm fù;bt lán;bs kè;ux,ge lín;aa	10
 国航万丽酒店	guó;wy háng;vj wàn;av lì;ad jiǔ;dy diàn;gv	10
@@ -112426,6 +112434,7 @@ sort: by_weight
 胶澳租界条约	jiāo;of ào;dd zū;hq jiè;tj tiáo;wa yuē;su	10
 搅拌釜反应器	jiǎo;fj bàn;fb fǔ;fb fǎn;iy yìng;ga qì;xx	10
 脚本编程语言	jiǎo;oe běn;aa biān;sc chéng;hw yǔ;yk yán;wk	10
+交不到男朋友	jiāo;wf bú;ab dào;gd nán;tl péng;oo you;uy	10
 交不可约元素	jiāo;wf bù;ab kě;dk yuē;su yuán;aw sù;fx	10
 脚步丈量世界	jiǎo;oe bù;vu zhàng;an liáng;ol shì;cv jiè;tj	10
 交叉等腰梯形	jiāo;wf chā;yd děng;vc yāo;on tī;ad xíng;kp	10
@@ -112492,6 +112501,7 @@ sort: by_weight
 交绝不出恶声	jiāo;wf jué;sb bù;ab chū;uu è;yx shēng;tu	10
 教科文卫工委	jiào;lw kē;hd wén;wx wèi;ea gōng;aa wěi;hn	10
 娇兰花草水语	jiāo;nl lán;bs huā;cb cǎo;cu shuǐ;ln yǔ;yk	10
+浇了一盆凉水	jiāo;dw le;al yì;aa pén;fm liáng;dx shuǐ;ln	10
 胶粒度涂胶器	jiāo;of lì;ml dù;gy tú;dm jiāo;of qì;xx	12
 角砾状混合岩	jiǎo;dy lì;ul zhuàng;lq hùn;db hé;rk yán;uu	10
 铰链四杆机构	jiǎo;jf liàn;ji sì;we gān;ag jī;aj gòu;ag	10
@@ -113783,6 +113793,7 @@ sort: by_weight
 景婺黄常高速	jǐng;ox wù;mn huáng;cb cháng;xj gāo;wk sù;zu	10
 精武英雄陈真	jīng;mo wǔ;gv yīng;cy xióng;uv chén;ed zhēn;ub	10
 京西国际学校	jīng;wx xī;ak,wk guó;wy jì;eu xué;xz xiào;af	10
+惊喜还是惊吓	jīng;xx xǐ;tk hái;zb shì;oz jīng;xx xià;kx	10
 精细化的服务	jīng;mo xì;st huà;rb de;bu fú;oy wù;wl	10
 精细化的管理	jīng;mo xì;st huà;rb de;bu guǎn;vl lǐ;wl	10
 精细化的运营	jīng;mo xì;st huà;rb de;bu yùn;zy yíng;ck	10
@@ -116407,6 +116418,8 @@ sort: by_weight
 雷射奇异鸟旗	léi;yt shè;uc qí;dk yì;sc niǎo;na qí;fb	10
 雷声大雨点小	léi;yt shēng;tu dà;ar yǔ;ad diǎn;vh xiǎo;lb	10
 雷斯多夫效应	léi;yt sī;ct duō;xx fū;er xiào;ww yìng;ga	10
+累死人不偿命	lèi;tx sǐ;db rén;pn bù;ab cháng;ry mìng;re	12
+雷死人不偿命	léi;yt sǐ;db rén;pn bù;ab cháng;ry mìng;re	10
 雷斯威克条约	léi;yt sī;ct wēi;gn kè;ux,ge tiáo;wa yuē;su	10
 类似乡级单位	lèi;md sì;rr xiāng;vp jí;sj dān;bu wèi;rl	10
 肋锁韧带压迹	lèi;ol suǒ;jb rèn;wd dài;cj yā;id jì;zb	10
@@ -118823,6 +118836,7 @@ sort: by_weight
 玫瑰是红色的	méi;ww gui;wg shì;oz hóng;sg sè;db de;bu	10
 玫瑰碗体育场	méi;ww gui;wg wǎn;uv tǐ;rb yù;wo chǎng;tp	10
 美国俄勒冈州	měi;yd guó;wy é;rw lè;cl gāng;kx zhōu;dl	10
+美国合众银行	měi;yd guó;wy hé;rk zhòng;rr yín;jg háng;rd	10
 美国宇航局于	měi;yd guó;wy yǔ;by háng;vj jú;uk yú;au	10
 美好从未停歇	měi;yd hǎo;nz cóng;rr wèi;aa,er tíng;rd xiē;oq	10
 美和技术学院	měi;yd hé;hk jì;fv shù;ad xué;xz yuàn;ey	10
@@ -118997,6 +119011,7 @@ sort: by_weight
 每天提心吊胆	měi;pm tiān;ad tí;fz xīn;dd diào;kj dǎn;od	10
 每天同一时间	měi;pm tiān;ad tóng;kk yī;aa shí;to jiān;mo	10
 每天无所事事	měi;pm tiān;ad wú;ay suǒ;ht shì;gy shì;gy	10
+每天要做的事	měi;pm tiān;ad yào;xn zuò;rw de;bu shì;gy	10
 每天以泪洗面	měi;pm tiān;ad yǐ;lr lèi;do xǐ;de miàn;ao	10
 每天朝九晚五	měi;pm tiān;ad zhāo;uo jiǔ;pv wǎn;oe wǔ;aw	10
 每天走一万步	měi;pm tiān;ad zǒu;tz yí;aa wàn;av bù;vu	10
@@ -120023,6 +120038,7 @@ sort: by_weight
 难经汇注笺正	nán;yv jīng;sj huì;dk zhù;dv jiān;vj zhèng;av	10
 难经经释补正	nán;yv jīng;sj jīng;sj shì;mf bǔ;pb zhèng;av	10
 南京虐童事件	nán;ug jīng;wx nüè;he tóng;ll shì;gy jiàn;rn	10
+南京邮电大学	nán;ug jīng;wx yóu;ye diàn;ov,yv dà;ar xué;xz	10
 南卡罗来纳州	nán;ug kǎ;ub luó;sx lái;aa nà;sn zhōu;dl	10
 南卡罗莱纳州	nán;ug kǎ;ub luó;sx lái;cl nà;sn zhōu;dl	10
 难啃的硬骨头	nán;yv kěn;ko de;bu yìng;ug gǔ;go tou;dd	10
@@ -124578,6 +124594,7 @@ sort: by_weight
 人纤维蛋白原	rén;pn xiān;sq wéi;sv dàn;zi bái;po yuán;ix	10
 仁新高速公路	rén;re xīn;lt gāo;wk sù;zu gōng;bs lù;zk	10
 人心齐泰山移	rén;pn xīn;dd qí;wl tài;iu shān;kl yí;hx	10
+人性的真善美	rén;pn xìng;xu de;bu zhēn;ub shàn;yk měi;yd	10
 人行地下通道	rén;pn xíng;rd dì;ty xià;ab tōng;zy dào;zz	10
 人行过街天桥	rén;pn xíng;rd guò;zc jiē;rt tiān;ad qiáo;al	10
 人性化的操作	rén;pn xìng;xu huà;rb de;bu cāo;fa zuò;rv	10
@@ -124910,7 +124927,7 @@ sort: by_weight
 若阿金纳布科	ruò;ck ā;ek jīn;rb nà;sn bù;uj kē;hd	10
 弱不可达基数	ruò;gg bù;ab kě;dk dá;zd jī;ct shù;mw	10
 弱不可达序数	ruò;gg bù;ab kě;dk dá;zd xù;gy shù;mw	10
-若但热不寒者	ruò;ck dàn;rd rè;fh bù;ab hán;bd zhě;lo	10
+若但热不寒者	ruò;ck dàn;rd rè;fh bu;ab hán;bd zhě;lo	10
 弱电统一理论	ruò;gg diàn;ov,yv tǒng;sy yī;aa lǐ;wl lùn;yl	10
 弱电相互作用	ruò;gg diàn;ov,yv xiāng;ao hù;ah zuò;rv yòng;kf,ol	10
 若尔当标准形	ruò;ck ěr;dx dāng;xe biāo;au zhǔn;dv xíng;kp	10
@@ -128210,7 +128227,6 @@ sort: by_weight
 嗜异性粒细胞	shì;ko yì;sc xìng;xu lì;ml xì;st bāo;ob	10
 时亦犹其未央	shí;to yì;wb yóu;qy qí;cb wèi;aa,er yāng;kr	10
 十一月的萧邦	shí;al yī;aa yuè;ke de;bu xiāo;cb bāng;fe	10
-十一月的肖邦	shí;al yī;aa yuè;ke de;bu xiāo;xo bāng;fe	10
 十一周年纪念	shí;al yī;aa zhōu;kk nián;pf jì;sj niàn;rx	10
 石银高速公路	shí;ak yín;jg gāo;wk sù;zu gōng;bs lù;zk	10
 石英丝验电器	shí;ak yīng;cy sī;sa yàn;mq diàn;ov,yv qì;xx	10
@@ -128627,6 +128643,7 @@ sort: by_weight
 受控热核反应	shòu;vy kòng;fg rè;fh hé;ar fǎn;iy yìng;ga	10
 受控热核聚变	shòu;vy kòng;fg rè;fh hé;ar jù;eu biàn;wy	10
 首款非专利药	shǒu;bz kuǎn;tq fēi;ls zhuān;ts lì;hd yào;cu	10
+受了那么多苦	shòu;vy le;al nà;ve me;ps duō;xx kǔ;cg	10
 首楞严三昧经	shǒu;bz léng;af yán;ai sān;ae mèi;ow jīng;sj	10
 受理破产申请	shòu;vy lǐ;wl pò;up chǎn;wi shēn;ol,yl qǐng;yo	10
 受理群众举报	shòu;vy lǐ;wl qún;yy zhòng;rr jǔ;xf bào;fy	10
@@ -130993,7 +131010,6 @@ sort: by_weight
 天皇明仁退位	tiān;ad huáng;bw míng;oo rén;re tuì;zg wèi;rl	10
 天绘系列卫星	tiān;ad huì;sy xì;px liè;dd wèi;ea xīng;ou	10
 天机不可泄露	tiān;ad jī;aj bù;ab kě;dk xiè;du lòu;yk	10
-天机不可泄漏	tiān;ad jī;aj bù;ab kě;dk xiè;du lòu;dy	10
 天基动能武器	tiān;ad jī;ct dòng;yl néng;sb wǔ;gv qì;xx	10
 天基红外系统	tiān;ad jī;ct hóng;sg wài;xb xì;px tǒng;sy	10
 天基激光武器	tiān;ad jī;ct jī;dw guāng;xe wǔ;gv qì;xx	10
@@ -132216,6 +132232,7 @@ sort: by_weight
 丸红株式会社	wán;jd hóng;sg zhū;aw shì;gg huì;ry shè;pt	10
 挽回经济损失	wǎn;fe huí;wk jīng;sj jì;dq sǔn;fb shī;pf	10
 挽回老公的心	wǎn;fe huí;wk lǎo;lb gōng;bs de;bu xīn;dd	10
+玩火者必自焚	wán;wy huǒ;br,rb zhě;lo bì;xp zì;po fén;ah	10
 万基国家公园	wàn;av jī;ct guó;wy jiā;bu gōng;bs yuán;wy	10
 万家灯火阑珊	wàn;av jiā;bu dēng;hd huǒ;br,rb lán;mj shān;wc	10
 万家精选股票	wàn;av jiā;bu jīng;mo xuǎn;ze gǔ;ou piào;xu	10
@@ -133791,6 +133808,7 @@ sort: by_weight
 五六岁的孩子	wǔ;aw liù;wb suì;ux de;bu hái;zr zi;la	10
 物流与供应链	wù;nw liú;di yǔ;va gōng;rg yìng;ga liàn;ji	10
 物流运输方案	wù;nw liú;di yùn;zy shū;id fāng;wv àn;ba	10
+乌龙山剿匪记	wū;pa lóng;yp shān;kl jiǎo;vd fěi;kf jì;yj	10
 武隆天生三桥	wǔ;gv lóng;eu tiān;ad shēng;pf sān;ae qiáo;al	10
 舞龙舞狮表演	wǔ;pf lóng;yp wǔ;pf shī;qj biǎo;fy yǎn;db	10
 乌鲁木齐公司	wū;pa lǔ;yo mù;ur qí;wl gōng;bs sī;vk	10
@@ -140585,6 +140603,8 @@ sort: by_weight
 永佑寺舍利塔	yǒng;du yòu;rk sì;tc shè;rg lì;hd tǎ;tk	10
 拥有一技之长	yōng;fy yǒu;uo yí;aa jì;fv zhī;dn cháng;pn	10
 拥有一口好牙	yōng;fy yǒu;uo yì;aa kǒu;la hǎo;nz yá;gp,ac	10
+拥有一辆好车	yōng;fy yǒu;uo yí;aa liàng;il hǎo;nz chē;au	12
+拥有一辆豪车	yōng;fy yǒu;uo yí;aa liàng;il háo;wu chē;au	10
 拥有一席之地	yōng;fy yǒu;uo yì;aa xí;gj zhī;dn dì;ty	10
 拥有主场优势	yōng;fy yǒu;uo zhǔ;wt chǎng;tp yōu;ry shì;fl	10
 拥有专利权的	yōng;fy yǒu;uo zhuān;ts lì;hd quán;ay de;bu	10
@@ -141936,6 +141956,7 @@ sort: by_weight
 粤音朗读测试	yuè;pk yīn;lo lǎng;lo dú;yd cè;dd shì;yg	10
 粤语耶鲁拼法	yuè;pk yǔ;yk yé;ee lǔ;yo pīn;fk fǎ;dq	10
 粤语正音运动	yuè;pk yǔ;yk zhèng;av yīn;lo yùn;zy dòng;yl	10
+越长大越明白	yuè;tl zhǎng;pn dà;ar yuè;tl míng;oo bai;po	10
 运宝高速公路	yùn;zy bǎo;by gāo;wk sù;zu gōng;bs lù;zk	10
 运宝黄河大桥	yùn;zy bǎo;by huáng;cb hé;dk dà;ar qiáo;al	10
 云豹装甲车族	yún;ag,es bào;vu zhuāng;ly jiǎ;ol,tl chē;au zú;fu	10
@@ -143298,6 +143319,7 @@ sort: by_weight
 正态仲态转换	zhèng;av tài;tx zhòng;rv tài;tx zhuǎn;iv huàn;fr	10
 整体表现不佳	zhěng;uv tǐ;rb biǎo;fy xiàn;wj bù;ab jiā;rt	10
 整体的豪华感	zhěng;uv tǐ;rb de;bu háo;wu huá;ru gǎn;gx	10
+整体的时尚感	zhěng;uv tǐ;rb de;bu shí;to shàng;xk gǎn;gx	10
 整体刚度矩阵	zhěng;uv tǐ;rb gāng;kd dù;gy jǔ;uj zhèn;ei	10
 政体基本形式	zhèng;vw tǐ;rb jī;ct běn;aa xíng;kp shì;gg	10
 整体经济形势	zhěng;uv tǐ;rb jīng;sj jì;dq xíng;kp shì;fl	10
@@ -144599,6 +144621,7 @@ sort: by_weight
 中关村示范区	zhōng;kl guān;bt cūn;ac shì;ex,ax fàn;cv qū;kx	10
 中关村五道口	zhōng;kl guān;bt cūn;ac wǔ;aw dào;zz kǒu;la	10
 中国低碳榜样	zhōng;kl guó;wy dī;ru tàn;uh bǎng;af yàng;ay	10
+中国曲艺之乡	zhōng;kl guó;wy qǔ;wc,ck yì;cv zhī;dn xiāng;vp	10
 中国式现代化	zhōng;kl guó;wy shì;gg xiàn;wj dài;rg huà;rb	10
 忠国信息科技	zhōng;vx guó;wy xìn;rk xī;zx kē;hd jì;fv	10
 中国页岩革命	zhōng;kl guó;wy yè;ab yán;uu gé;cu mìng;re	10
@@ -149128,6 +149151,7 @@ sort: by_weight
 不见硝烟的战争	bú;ab jiàn;ke xiāo;uo yān;hy de;bu zhàn;vg zhēng;dy	10
 不建议大家购买	bú;ab jiàn;zy yì;yy dà;ar jiā;bu gòu;bg mǎi;ad	10
 不见真佛不烧香	bú;ab jiàn;ke zhēn;ub fó;rf bù;ab shāo;hw xiāng;ho	10
+不见真佛不烧香	bú;ab jiàn;ke zhēn;ub fó;rf bù;ab shāo;hw xiāng;ho	10
 不降落的滑翔翼	bú;ab jiàng;ef luò;ck de;bu huá;do xiáng;yx yì;xg	10
 补交土地出让金	bǔ;pb jiāo;wf tǔ;ua dì;ty chū;uu ràng;yu jīn;rb	10
 补缴土地出让金	bǔ;pb jiǎo;sw tǔ;ua dì;ty chū;uu ràng;yu jīn;rb	10
@@ -151291,7 +151315,7 @@ sort: by_weight
 打败天下无敌手	dǎ;fd bài;bw tiān;ad xià;ab wú;ay dí;uw shǒu;pf	10
 打扮的光鲜亮丽	dǎ;fd bàn;ff de;bu guāng;xe xiān;yy liàng;wj lì;ad	10
 打扮的花枝招展	dǎ;fd bàn;ff de;bu huā;cb zhī;av zhāo;fk zhǎn;uy	10
-打扮的漂漂亮亮	dǎ;fd bàn;ff de;bu piāo;du piāo;du liàng;wj liàng;wj	10
+打扮得漂漂亮亮	dǎ;fd bàn;ff de;rc piāo;du piāo;du liàng;wj liàng;wj	10
 达比克草原战役	dá;zd bǐ;bb kè;ux,ge cǎo;cu yuán;ix zhàn;vg yì;ru	10
 大比例尺地形图	dà;ar bǐ;bb lì;rd chǐ;un dì;ty xíng;kp tú;wd	10
 大便急迫性增多	dà;ar biàn;rg jí;dx pò;zb xìng;xu zēng;to duō;xx	10
@@ -151423,7 +151447,6 @@ sort: by_weight
 打拼自己的事业	dǎ;fd pīn;fk zì;po jǐ;kv de;bu shì;gy yè;la	10
 打破吉尼斯纪录	dǎ;fd pò;up jí;tk ní;ub sī;ct jì;sj lù;eu	10
 打破砂锅问到底	dǎ;fd pò;up shā;uu guō;jn wèn;mk dào;gd dǐ;gu	12
-打破沙锅问到底	dǎ;fd pò;up shā;du guō;jn wèn;mk dào;gd dǐ;gu	10
 打破砂锅璺到底	dǎ;fd pò;up shā;uu guō;jn wèn;jy dào;gd dǐ;gu	10
 打起十二分精神	dǎ;fd qǐ;tj shí;al èr;aa fēn;bd jīng;mo shén;pu	10
 大气数据计算机	dà;ar qì;pv shù;mw jù;fg jì;yu suàn;vc jī;aj	10
@@ -151926,6 +151949,7 @@ sort: by_weight
 得来全不费工夫	de;rc lái;aa quán;rw bú;ab fèi;fb gōng;aa fu;er	10
 德里加尔斯基岛	dé;rx lǐ;tt jiā;lk ěr;dx sī;ct jī;ct dǎo;nu	10
 德罗宁汽车公司	dé;rx luó;sx níng;bd qì;dq chē;au gōng;bs sī;vk	10
+得民心者得天下	dé;rc mín;vv xīn;dd zhě;lo dé;rc tiān;ad xià;ab	10
 得饶人处且饶人	dé;rc ráo;uw rén;pn chù;wb qiě;oa ráo;uw rén;pn	10
 德热里纳托马斯	dé;rx rè;fh lǐ;tt nà;sn tuō;fq mǎ;va sī;ct	10
 得人心者得天下	dé;rc rén;pn xīn;dd zhě;lo dé;rc tiān;ad xià;ab	10
@@ -152663,6 +152687,7 @@ sort: by_weight
 洞玄灵宝定观经	dòng;dk xuán;wy líng;eh bǎo;by dìng;bz guān;yj jīng;sj	10
 洞穴仆人弓箭手	dòng;dk xué;bb pú;rb rén;pn gōng;vv jiàn;vd shǒu;pf	10
 冬雪雪冬小大寒	dōng;wd xuě;ye xuě;ye dōng;wd xiǎo;lb dà;ar hán;bd	10
+东一榔头西一棒	dōng;ax yì;aa láng;ae tou;dd xī;ak,wk yī;aa bàng;af	10
 动员全社会力量	dòng;yl yuán;kb quán;rw shè;pt huì;ry lì;vp liàng;ol	10
 动植物公园北门	dòng;yl zhí;aq wù;nw gōng;bs yuán;wy běi;lb mén;dv	10
 动作冒险类游戏	dòng;yl zuò;rv mào;oo xiǎn;eq lèi;md yóu;dz xì;yg	10
@@ -154522,6 +154547,7 @@ sort: by_weight
 富有磁性的声音	fù;bt yǒu;uo cí;uy xìng;xu de;bu shēng;tu yīn;lo	10
 富有社会责任感	fù;bt yǒu;uo shè;pt huì;ry zé;fb rèn;rw gǎn;gx	10
 富有视觉冲击力	fù;bt yǒu;uo shì;pj jué;xj chōng;dv jī;fk lì;vp	10
+腹有诗书气自华	fù;ow yǒu;uo shī;yc shū;vd qì;pv zì;po huá;ru	10
 富有诗意的名字	fù;bt yǒu;uo shī;yc yì;lx de;bu míng;xk zì;bz	10
 负有一定的责任	fù;db yǒu;uo yí;aa dìng;bz de;bu zé;fb rèn;rw	10
 复游于赤壁之下	fù;pw yóu;dz yú;au chì;tb bì;ut zhī;dn xià;ab	10
@@ -156256,6 +156282,7 @@ sort: by_weight
 桂枝麻黄各半汤	guì;at zhī;av má;ga huáng;cb gè;wk bàn;bf tāng;dp	10
 桂枝生姜枳实汤	guì;at zhī;av shēng;pf jiāng;yn zhǐ;av shí;bd tāng;dp	10
 过饱和结晶学说	guò;zc bǎo;ub hé;hk jié;sk jīng;oo xué;xz shuō;yx	10
+国不可一日无君	guó;wy bù;ab kě;dk yí;aa rì;wa wú;ay jūn;yk	10
 国产新能源汽车	guó;wy chǎn;wi xīn;lt néng;sb yuán;dx qì;dq chē;au	10
 过程型激励理论	guò;zc chéng;hw xíng;kt jī;dw lì;il lǐ;wl lùn;yl	10
 过碘酸希夫反应	guò;zc diǎn;ub suān;yw xī;xj fū;er fǎn;iy yìng;ga	10
@@ -156357,6 +156384,8 @@ sort: by_weight
 航空甲板巡洋舰	háng;vj kōng;bg jiǎ;ol,tl bǎn;ay xún;zv yáng;dy jiàn;vj	10
 行业数字化转型	háng;rd yè;la shù;mw zì;bz huà;rb zhuǎn;iv xíng;kt	10
 杭州互联网法院	háng;aj zhōu;dl hù;ah lián;et wǎng;kx fǎ;dq yuàn;ey	10
+好钢用在刀刃上	hǎo;nz gāng;jx yòng;kf,ol zài;ut dāo;vp rèn;dd shàng;ba	10
+好钢用在刀刃上	hǎo;nz gāng;jx yòng;kf,ol zài;ut dāo;vp rèn;dd shàng;ba	10
 好汉不吃眼前亏	hǎo;nz hàn;dy bù;ab chī;kv yǎn;og qián;bd kuī;ak	10
 好莱坞星光大道	hǎo;nz lái;cl wù;tw xīng;ou guāng;xe dà;ar dào;zz	10
 好马不吃回头草	hǎo;nz mǎ;va bù;ab chī;kv huí;wk tóu;dd cǎo;cu	10
@@ -156515,6 +156544,8 @@ sort: by_weight
 华富增效胃动力	huá;ru fù;bt zēng;to xiào;ww wèi;to dòng;yl lì;vp	10
 花岗岩化成矿说	huā;cb gǎng;ux yán;uu huà;rb chéng;gv kuàng;ug shuō;yx	10
 画虎不成反类犬	huà;at hǔ;hj bù;ab chéng;gv fǎn;iy lèi;md quǎn;dd	10
+画虎画皮难画骨	huà;at hǔ;hj huà;at pí;py nán;yv huà;at gǔ;go	10
+花花轿子人抬人	huā;cb huā;cb jiào;il zi;la rén;pn tái;fk rén;pn	10
 花甲少年趣旅行	huā;cb jiǎ;ol,tl shào;xp nián;pf qù;ty lǚ;fy xíng;rd	10
 化疗后骨髓抑制	huà;rb liáo;bl hòu;ik gǔ;go suǐ;go yì;fe zhì;nd	10
 华南二叉韧革菌	huá;ru nán;ug èr;aa chā;yd rèn;wd gé;cu jūn;ch	10
@@ -156776,6 +156807,7 @@ sort: by_weight
 脊椎应力性骨折	jǐ;ro zhuī;av yīng;ga lì;vp xìng;xu gǔ;go zhé;ft	10
 极坐标定位方法	jí;aj zuò;tr biāo;au dìng;bz wèi;rl fāng;wv fǎ;dq	10
 贾阿二氏色觉计	jiǎ;xb ā;ek èr;aa shì;pv sè;db jué;xj jì;yu	10
+家不可一日无主	jiā;bu bù;ab kě;dk yí;aa rì;wa wú;ay zhǔ;wt	10
 加参安肺生化汤	jiā;lk cān;sp ān;bn fèi;oj shēng;pf huà;rb tāng;dp	10
 甲辰乙巳覆灯火	jiǎ;ol,tl chén;iy yǐ;vv sì;kv fù;xw dēng;hd huǒ;br,rb	10
 加大抗生素剂量	jiā;lk dà;ar kàng;fj shēng;pf sù;fx jì;qd liàng;ol	10
@@ -156791,6 +156823,7 @@ sort: by_weight
 价格市场化机制	jià;rj gé;ak shì;wj chǎng;tp huà;rb jī;aj zhì;nd	10
 甲骨文诉谷歌案	jiǎ;ol,tl gǔ;go wén;wx sù;yi gǔ;bk gē;kq àn;ba	10
 甲贺流忍术屋敷	jiǎ;ol,tl hè;lb liú;di rěn;dx shù;ad wū;ut fū;fw	10
+家花不如野花香	jiā;bu huā;cb bù;ab rú;nk yě;ly huā;cb xiāng;ho	10
 加减补中益气汤	jiā;lk jiǎn;dk bǔ;pb zhōng;kl yì;bm qì;pv tāng;dp	10
 加减黄芩知母汤	jiā;lk jiǎn;dk huáng;cb qín;cv zhī;uk mǔ;md tāng;dp	10
 加减活血解毒汤	jiā;lk jiǎn;dk huó;du xuè;pm jiě;dn dú;fm tāng;dp	10
@@ -157119,6 +157152,7 @@ sort: by_weight
 金斯敦血红蛋白	jīn;rb sī;ct dūn;ww xuè;pm hóng;sg dàn;zi bái;po	10
 今天故事的主角	jīn;rv tiān;ad gù;gw shi;gy de;bu zhǔ;wt jué;dy	10
 晋西北七城战役	jìn;yo xī;ak,wk běi;lb qī;av chéng;ti zhàn;vg yì;ru	10
+今宵有酒今宵醉	jīn;rv xiāo;bo yǒu;uo jiǔ;dy jīn;rv xiāo;bo zuì;yu	10
 尽信书不如无书	jìn;id xìn;rk shū;vd bù;ab rú;nk wú;ay shū;vd	10
 进行性脊髓麻痹	jìn;zj xíng;rd xìng;xu jǐ;ro suǐ;go má;ga bì;bw	10
 进行性麻痹痴呆	jìn;zj xíng;rd xìng;xu má;ga bì;bw chī;bk dāi;ka	10
@@ -157214,6 +157248,8 @@ sort: by_weight
 酒不醉人人自醉	jiǔ;dy bú;ab zuì;yu rén;pn rén;pn zì;po zuì;yu	10
 灸刺诸药不能治	jiǔ;jh cì;ud zhū;yo yào;cu bù;ab néng;sb zhì;dk	10
 九二式重装甲车	jiǔ;pv èr;aa shì;gg zhòng;ql zhuāng;ly jiǎ;ol,tl chē;au	10
+酒逢知己千杯少	jiǔ;dy féng;zf zhī;uk jǐ;kv qiān;pu bēi;ab shǎo;xp	10
+酒逢知己千杯少	jiǔ;dy féng;zf zhī;uk jǐ;kv qiān;pu bēi;ab shǎo;xp	10
 酒精滥用家族史	jiǔ;dy jīng;mo làn;dm yòng;kf,ol jiā;bu zú;fu shǐ;kn	10
 酒精糖度对照表	jiǔ;dy jīng;mo táng;mk dù;gy duì;yc zhào;oh biǎo;fy	10
 酒精性癫痫发作	jiǔ;dy jīng;mo xìng;xu diān;by xián;ba fā;fy zuò;rv	10
@@ -157222,6 +157258,7 @@ sort: by_weight
 究竟一乘宝性论	jiū;bj jìng;le yī;aa chéng;qr bǎo;by xìng;xu lùn;yl	10
 久久其身必甲错	jiǔ;pn jiǔ;pn qí;cb shēn;zc bì;xp jiǎ;ol,tl cuò;jo	10
 久留米血红蛋白	jiǔ;pn liú;pt mǐ;ba xuè;pm hóng;sg dàn;zi bái;po	10
+酒香不怕巷子深	jiǔ;dy xiāng;ho bú;ab pà;xb xiàng;gs,cs zi;la shēn;da	10
 九针论第七十八	jiǔ;pv zhēn;ju lùn;yl dì;vd qī;av shí;al bā;pn	10
 九针十二原第一	jiǔ;pv zhēn;ju shí;al èr;aa yuán;ix dì;vd yī;aa	10
 九制豨莶草药酒	jiǔ;pv zhì;nd xī;uj xiān;cq cǎo;cu yào;cu jiǔ;dy	10
@@ -157877,6 +157914,7 @@ sort: by_weight
 脉冲场凝胶电泳	mài;oy chōng;dv chǎng;tp níng;dz jiāo;of diàn;ov,yv yǒng;dy	10
 脉冲超短波疗法	mài;oy chōng;dv chāo;tk duǎn;ub bō;dp liáo;bl fǎ;dq	10
 脉冲式给药系统	mài;oy chōng;dv shì;gg gěi;sk yào;cu xì;px tǒng;sy	10
+迈出的重要一步	mài;zw chū;uu de;bu zhòng;ql yào;xn yí;aa bù;vu	10
 脉得诸芤动微紧	mài;oy dé;rc zhū;yo kōu;cv dòng;yl wēi;rj jǐn;lx	10
 麦冬加入长寿丸	mài;fw dōng;wd jiā;lk rù;pn cháng;pn shòu;fc wán;jd	10
 麦冬芍药当归配	mài;fw dōng;wd sháo;cu yào;cu dāng;xe guī;le pèi;yj	10
@@ -157911,6 +157949,7 @@ sort: by_weight
 梅奥人工心肺机	méi;am ào;pd rén;pn gōng;aa xīn;dd fèi;oj jī;aj	10
 美宝保湿洁面乳	měi;yd bǎo;by bǎo;ra shī;dy jié;dk miàn;ao rǔ;vv	10
 眉部瘢痕性红斑	méi;uo bù;le bān;bu hén;bg xìng;xu hóng;sg bān;ww	10
+美得不要不要的	měi;yd de;rc bú;ab yào;xn bú;ab yào;xn de;bu	10
 煤的低位发热量	méi;ha de;bu dī;ru wèi;rl fā;fy rè;fh liàng;ol	10
 煤的高位发热量	méi;ha de;bu gāo;wk wèi;rl fā;fy rè;fh liàng;ol	10
 梅毒病原携带者	méi;am dú;fm bìng;bn yuán;ix xié;fn dài;cj zhě;lo	10
@@ -158048,6 +158087,7 @@ sort: by_weight
 那珂号轻巡洋舰	nà;ve kē;wk hào;kk qīng;ij xún;zv yáng;dy jiàn;vj	10
 那可是个大工程	nà;ve kě;dk shì;oz gè;rl dà;ar gōng;aa chéng;hw	10
 那空是贪玛叻府	nà;ve kōng;bg shì;oz tān;rb mǎ;wm lè;kl fǔ;gc	10
+哪凉快哪呆着去	nǎ;ke liáng;dx kuài;xg nǎ;ke dāi;ka zhe;yo qù;ts	10
 那么多喜欢你的	nà;ve me;ps duō;xx xǐ;tk huan;yq nǐ;rx de;bu	10
 那么你的意思是	nà;ve me;ps nǐ;rx de;bu yì;lx si;tx shì;oz	10
 那么请你告诉我	nà;ve me;ps qǐng;yo nǐ;rx gào;nk sù;yi wǒ;ga	10
@@ -158415,6 +158455,7 @@ sort: by_weight
 强力枇杷露炼蜜	qiáng;gi lì;vp pí;ab pá;ab lù;yk liàn;hd mì;bi	10
 强龙不压地头蛇	qiáng;gi lóng;yp bù;ab yā;id dì;ty tóu;dd shé;ib	10
 腔内近距离治疗	qiāng;og nèi;kr jìn;zt jù;zj lí;wn zhì;dk liáo;bl	10
+墙内开花墙外香	qiáng;tk nèi;kr kāi;ac huā;cb qiáng;tk wài;xb xiāng;ho	10
 强迫型人格障碍	qiǎng;gi pò;zb xíng;kt rén;pn gé;ak zhàng;eu ài;uc	10
 强迫型行为疾患	qiǎng;gi pò;zb xíng;kt xíng;rd wéi;ld jí;bu huàn;ix	10
 羟乙基淀粉血浆	qiǎng;yj yǐ;vv jī;ct diàn;dz fěn;mf xuè;pm jiāng;lu	10
@@ -158553,6 +158594,7 @@ sort: by_weight
 去甲氧柔红霉素	qù;ts jiǎ;ol,tl yǎng;qy róu;ma hóng;sg méi;ym sù;fx	10
 区块链和比特币	qū;kx kuài;tg liàn;ji hé;hk bǐ;bb tè;nc bì;pj	10
 去了很远的地方	qù;ts le;al hěn;rg yuǎn;zy de;bu dì;ty fāng;wv	10
+娶了媳妇忘了娘	qǔ;en le;al xí;nx fù;ne wàng;wx le;al niáng;nl	10
 去你想去的地方	qù;ts nǐ;rx xiǎng;ax qù;ts de;bu dì;ty fāng;wv	10
 去年的这个时候	qù;ts nián;pf de;bu zhè;zw ge;rl shí;to hou;ru	10
 去年天气旧亭台	qù;ts nián;pf tiān;ad qì;pv jiù;lo tíng;wd tái;sk	10
@@ -159125,6 +159167,7 @@ sort: by_weight
 塞斯坦舍奈麻痹	sāi;bt sī;ct tǎn;td shě;rg nài;du má;ga bì;bw	10
 三倍体和多倍体	sān;ae bèi;rk tǐ;rb hé;hk duō;xx bèi;rk tǐ;rb	10
 三参桔梗朱砂味	sān;ae cān;sp jié;ak gěng;ag zhū;pw shā;uu wèi;kw	10
+三个和尚没水吃	sān;ae gè;rl hé;hk shang;xk méi;du shuǐ;ln chī;kv	10
 三国两晋南北朝	sān;ae guó;wy liǎng;ar jìn;yo nán;ug běi;lb cháo;uo	10
 三国之见龙卸甲	sān;ae guó;wy zhī;dn jiàn;ke lóng;yp xiè;ve jiǎ;ol,tl	10
 三级方程式赛车	sān;ae jí;sj fāng;wv chéng;hw shì;gg sài;bb chē;au	10
@@ -159232,6 +159275,7 @@ sort: by_weight
 生姜半夏汤主之	shēng;pf jiāng;yn bàn;bf xià;bw tāng;dp zhǔ;wt zhī;dn	10
 生理性眼球震颤	shēng;pf lǐ;wl xìng;xu yǎn;og qiú;wq zhèn;yi chàn;wy	10
 生脉麦味与人参	shēng;pf mài;oy mài;fw wèi;kw yú;va rén;pn cān;sp	10
+盛名之下无虚士	shèng;im míng;xk zhī;dn xià;ab wú;ay xū;hy shì;ua	10
 生我养我的地方	shēng;pf wǒ;ga yǎng;yl wǒ;ga de;bu dì;ty fāng;wv	10
 生物瓣膜失功能	shēng;pf wù;nw bàn;xg mó;od shī;pf gōng;gl néng;sb	10
 生物标志化合物	shēng;pf wù;nw biāo;au zhì;tx huà;rb hé;rk wù;nw	10
@@ -159267,10 +159311,12 @@ sort: by_weight
 食管内压力测定	shí;rg guǎn;vl nèi;kr yā;id lì;vp cè;dd dìng;bz	10
 食管自发性破裂	shí;rg guǎn;vl zì;po fā;fy xìng;xu pò;up liè;dy	10
 释迦如来舍利塔	shì;mf jiā;zk rú;nk lái;aa shè;rg lì;hd tǎ;tk	10
+世间安得两全法	shì;cv jiān;mo ān;bn dé;rc liǎng;ar quán;rw fǎ;dq	10
 时间曲线下面积	shí;to jiān;mo qū;wc,ck xiàn;sj xià;ab miàn;ao jī;hv	10
 时间数字转换器	shí;to jiān;mo shù;mw zì;bz zhuǎn;iv huàn;fr qì;xx	10
 石景山冰川擦痕	shí;ak jǐng;ox shān;kl bīng;du chuān;pl cā;fu hén;bg	10
 嗜巨噬细胞抗体	shì;ko jù;kk shì;kr xì;st bāo;ob kàng;fj tǐ;rb	10
+视具体情况而定	shì;pj jù;qb tǐ;rb qíng;xo kuàng;dx ér;al dìng;bz	10
 视觉模拟评分法	shì;pj jué;xj mó;ad nǐ;fr píng;yp fēn;bd fǎ;dq	10
 势均力敌的较量	shì;fl jūn;ty lì;vp dí;uw de;bu jiào;if liàng;ol	10
 噬菌体展示技术	shì;kr jūn;ch tǐ;rb zhǎn;uy shì;ex,ax jì;fv shù;ad	10
@@ -159303,6 +159349,7 @@ sort: by_weight
 视网膜中央动脉	shì;pj wǎng;kx mó;od zhōng;kl yāng;kr dòng;yl mài;oy	10
 湿温初起法堪遵	shī;dy wēn;dm chū;pd qǐ;tj fǎ;dq kān;tb zūn;zc	10
 湿温时疫是主方	shī;dy wēn;dm shí;to yì;bu shì;oz zhǔ;wt fāng;wv	10
+事无不可对人言	shì;gy wú;ay bù;ab kě;dk duì;yc rén;pn yán;wk	10
 事务级建模方法	shì;gy wù;wl jí;sj jiàn;zy mó;ad fāng;wv fǎ;dq	10
 十五味萝蒂明目	shí;al wǔ;aw wèi;kw luó;cx dì;cj míng;oo mù;we	10
 十五味气血双补	shí;al wǔ;aw wèi;kw qì;pv xuè;pm shuāng;yy bǔ;pb	10
@@ -159321,6 +159368,7 @@ sort: by_weight
 实验室确诊病例	shí;bd yàn;mq shì;bt què;uy zhěn;yp bìng;bn lì;rd	10
 实验者期望效应	shí;bd yàn;mq zhě;lo qī;co wàng;ww xiào;ww yìng;ga	10
 湿阳化饮又健脾	shī;dy yáng;eo huà;rb yǐn;uq yòu;vn jiàn;ry pí;ou	10
+师夷长技以制夷	shī;lj yí;ar cháng;pn jì;fv yǐ;lr zhì;nd yí;ar	10
 师夷长技以制夷	shī;lj yí;ar cháng;pn jì;fv yǐ;lr zhì;nd yí;ar	10
 是以陈涉不用汤	shì;oz yǐ;lr chén;ed shè;du bú;ab yòng;kf,ol tāng;dp	10
 嗜异性凝集试验	shì;ko yì;sc xìng;xu níng;dz jí;ra shì;yg yàn;mq	10
@@ -159360,9 +159408,11 @@ sort: by_weight
 湿瘀蒸肌致发黄	shī;dy yū;bd zhēng;ch jī;oj zhì;gw fā;fy huáng;cb	10
 实战略合作基础	shí;bd zhàn;vg lüè;tk hé;rk zuò;rv jī;ct chǔ;ui	10
 实者枳壳易人参	shí;bd zhě;lo zhǐ;av qiào;tj yì;ow rén;pn shēn;sp	10
+十指不沾阳春水	shí;al zhǐ;fo bù;ab zhān;dv yáng;eo chūn;io shuǐ;ln	10
 受北美法律保护	shòu;vy běi;lb měi;yd fǎ;dq lǜ;ry bǎo;ra hù;fh	10
 手持身份证照片	shǒu;pf chí;fc shēn;zc fèn;rf zhèng;yv zhào;oh piān;pv	10
 受到法律的制裁	shòu;vy dào;gd fǎ;dq lǜ;ry de;bu zhì;nd cái;gy	10
+守得云开见月明	shǒu;bc dé;rc yún;ag,es kāi;ac jiàn;ke yuè;ke míng;oo	10
 受害人的近亲属	shòu;vy hài;bk rén;pn de;bu jìn;zt qīn;la shǔ;uy	10
 手和腕部度烧伤	shǒu;pf hé;hk wàn;ov bù;le dù;gy shāo;hw shāng;rl	10
 守护者皇冠面甲	shǒu;bc hù;fh zhě;lo huáng;bw guān;bc miàn;ao jiǎ;ol,tl	10
@@ -159489,6 +159539,7 @@ sort: by_weight
 水饮下行悸眩去	shuǐ;ln yǐn;uq xià;ab xíng;rd jì;xz xuàn;ox qù;ts	10
 水用甘澜扬百遍	shuǐ;ln yòng;kf,ol gān;ca lán;dj yáng;fp bǎi;ab biàn;zc	10
 瞬时最大承载量	shùn;of shí;to zuì;oy dà;ar chéng;ln zài;gi liàng;ol	10
+说的比唱的好听	shuō;yx de;bu bǐ;bb chàng;ko de;bu hǎo;nz tīng;kt	10
 四部医典蓝琉璃	sì;we bù;le yī;ku diǎn;qb,cb lán;cm liú;wi lí;wn	10
 四部总录医药编	sì;we bù;le zǒng;bx lù;eu yī;ku yào;cu biān;sc	10
 丝虫病性乳糜尿	sī;sa chóng;vd bìng;bn xìng;xu rǔ;vv mí;gm niào;uu	10
@@ -159702,6 +159753,7 @@ sort: by_weight
 头部创伤性切断	tóu;dd bù;le chuāng;rd shāng;rl xìng;xu qiē;qd duàn;vt	10
 头部多发性损伤	tóu;dd bù;le duō;xx fā;fy xìng;xu sǔn;fb shāng;rl	10
 头部后天性缺陷	tóu;dd bù;le hòu;ik tiān;ad xìng;xu quē;fg xiàn;ej	10
+头顶三尺有神明	tóu;dd dǐng;dy sān;ae chǐ;un yǒu;uo shén;pu míng;oo	10
 透过经济看政治	tòu;zn guò;zc jīng;sj jì;dq kàn;uo zhèng;vw zhì;dk	10
 透过生态看管理	tòu;zn guò;zc shēng;pf tài;tx kān;uo guǎn;vl lǐ;wl	10
 透过问题看责任	tòu;zn guò;zc wèn;mk tí;oy kàn;uo zé;fb rèn;rw	10
@@ -159709,6 +159761,8 @@ sort: by_weight
 透过业务看政治	tòu;zn guò;zc yè;la wù;wl kàn;uo zhèng;vw zhì;dk	10
 透过作风看队伍	tòu;zn guò;zc zuò;rv fēng;jx kàn;uo duì;er wǔ;rw	10
 头和颈度腐蚀伤	tóu;dd hé;hk jǐng;jy dù;gy fǔ;gr shí;ui shāng;rl	10
+偷鸡不成蚀把米	tōu;rd jī;yn bù;ab chéng;gv shí;ui bǎ;fb mǐ;ba	10
+偷鸡不着蚀把米	tōu;rd jī;yn bù;ab zháo;yo shí;ui bǎ;fb mǐ;ba	10
 偷鸡不着蚀把米	tōu;rd jī;yn bù;ab zháo;yo shí;ui bǎ;fb mǐ;ba	10
 头肩肘手胯膝足	tóu;dd jiān;ho zhǒu;oc shǒu;pf kuà;ok xī;ou zú;kz	10
 头颅计算机扫描	tóu;dd lú;by jì;yu suàn;vc jī;aj sǎo;fe miáo;ft	10
@@ -159742,6 +159796,7 @@ sort: by_weight
 推广新能源汽车	tuī;fv guǎng;di xīn;lt néng;sb yuán;dx qì;dq chē;au	10
 推荐型髋关节柄	tuī;fv jiàn;cz xíng;kt kuān;gj guān;bt jié;ce bǐng;an	10
 推进数字化转型	tuī;fv jìn;zj shù;mw zì;bz huà;rb zhuǎn;iv xíng;kt	10
+推之百世而不悖	tuī;fv zhī;dn bǎi;ab shì;cv ér;al bú;ab bèi;xz	10
 托槽粘着定位器	tuō;fq cáo;ao nián;mv zhuó;yo dìng;bz wèi;rl qì;xx	10
 托得西拉斯条约	tuō;fq dé;rc xī;ak,wk lā;fl sī;ct tiáo;wa yuē;su	10
 托德西拉斯条约	tuō;fq dé;rx xī;ak,wk lā;fl sī;ct tiáo;wa yuē;su	10
@@ -159811,6 +159866,7 @@ sort: by_weight
 万里长城嘉峪关	wàn;av lǐ;tt cháng;pn chéng;ti jiā;tk yù;ug guān;bt	10
 万里长城山海关	wàn;av lǐ;tt cháng;pn chéng;ti shān;kl hǎi;dm guān;bt	10
 完美小姐进化论	wán;by měi;yd xiǎo;lb jiě;nq jìn;zj huà;rb lùn;yl	10
+玩弄于股掌之中	wán;wy nòng;wc yú;au gǔ;ou zhǎng;xu zhī;dn zhōng;kl	10
 晚期潜伏性梅毒	wǎn;oe qī;co qián;do fú;rq xìng;xu méi;am dú;fm	10
 完全非弹性碰撞	wán;by quán;rw fēi;ls tán;gu xìng;xu pèng;uy zhuàng;fl	10
 完全随机化设计	wán;by quán;rw suí;eo jī;aj huà;rb shè;yu jì;yu	10
@@ -159913,6 +159969,7 @@ sort: by_weight
 文化艺术中心南	wén;wx huà;rb yì;cv shù;ad zhōng;kl xīn;dd nán;ug	10
 文化引领保安全	wén;wx huà;rb yǐn;gl lǐng;ry bǎo;ra ān;bn quán;rw	10
 温疟加蜀漆半分	wēn;dm nüè;be jiā;lk shǔ;si qī;du bàn;bf fēn;bd	10
+闻弦歌而知雅意	wén;me xián;gx gē;kq ér;al zhī;uk yǎ;yv yì;lx	10
 温阳化气添桂枝	wēn;dm yáng;eo huà;rb qì;pv tiān;dx guì;at zhī;av	10
 文艺理论与批评	wén;wx yì;cv lǐ;wl lùn;yl yǔ;va pī;fb píng;yp	10
 我的未来不是梦	wǒ;ga de;bu wèi;aa,er lái;aa bú;ab shì;oz mèng;ax	12
@@ -160084,6 +160141,7 @@ sort: by_weight
 下肢股骨接钢板	xià;ab zhī;ov gǔ;ou gǔ;go jiē;fn gāng;jx bǎn;ay	10
 下之即胸满短气	xià;ab zhī;dn jí;ge xiōng;ox mǎn;dl duǎn;ub qì;pv	10
 苋菜黄连素胶蘘	xiàn;cj cài;ca huáng;cb lián;zi sù;fx jiāo;of ráng;cf	10
+咸吃萝卜淡操心	xián;gk chī;kv luó;cx bo;ld dàn;dh cāo;fa xīn;dd	10
 仙传外科集验方	xiān;ru chuán;rv wài;xb kē;hd jí;ra yàn;mq fāng;wv	10
 现代综合进化论	xiàn;wj dài;rg zōng;su hé;rk jìn;zj huà;rb lùn;yl	10
 宪法的政治理论	xiàn;be fǎ;dq de;bu zhèng;vw zhì;dk lǐ;wl lùn;yl	10
@@ -160127,6 +160185,7 @@ sort: by_weight
 先煮肥大枣十枚	xiān;ne zhǔ;lh féi;ob dà;ar zǎo;ud shí;al méi;aw	10
 线状植物稀少地	xiàn;sj zhuàng;lq zhí;aq wù;nw xī;hj shǎo;xp dì;ty	10
 想把我唱给你听	xiǎng;ax bǎ;fb wǒ;ga chàng;ko gěi;sk nǐ;rx tīng;kt	10
+像打了鸡血一样	xiàng;ru dǎ;fd le;al jī;yn xiě;pm yí;aa yàng;ay	10
 相当因果关系说	xiāng;ao dāng;xe yīn;wd guǒ;ta guān;bt xì;px shuō;yx	10
 相对论性不变量	xiāng;ao duì;yc lùn;yl xìng;xu bú;ab biàn;wy liàng;ol	10
 相对论性不变式	xiāng;ao duì;yc lùn;yl xìng;xu bú;ab biàn;wy shì;gg	10
@@ -160333,6 +160392,8 @@ sort: by_weight
 心脏乳头肌破裂	xīn;dd zàng;ot rǔ;vv tóu;dd jī;oj pò;up liè;dy	10
 心脏手术个人史	xīn;dd zàng;ot shǒu;pf shù;ad gè;rl rén;pn shǐ;kn	10
 新增投资者数量	xīn;lt zēng;to tóu;fu zī;db zhě;lo shù;mw liàng;ol	10
+新账旧账一起算	xīn;lt zhàng;bi jiù;lo zhàng;bi yì;aa qǐ;tj suàn;vc	10
+新账老账一起算	xīn;lt zhàng;bi lǎo;lb zhàng;bi yì;aa qǐ;tj suàn;vc	10
 新制橘皮竹茹汤	xīn;lt zhì;nd jú;ak pí;py zhú;gg rú;ck tāng;dp	10
 心中如啖蒜齑状	xīn;dd zhōng;kl rú;nk dàn;kh suàn;cu jī;qj zhuàng;lq	10
 心中恶寒不足者	xīn;dd zhōng;kl wù;yx hán;bd bù;ab zú;kz zhě;lo	10
@@ -160889,6 +160950,7 @@ sort: by_weight
 游走在法律边缘	yóu;dz zǒu;tz zài;ut fǎ;dq lǜ;ry biān;zl yuán;su	10
 遇到不懂的地方	yù;zd dào;gd bù;ab dǒng;xv de;bu dì;ty fāng;wv	10
 遇到不会的题目	yù;zd dào;gd bú;ab huì;ry de;bu tí;oy mù;we	10
+遇到不顺心的事	yù;zd dào;gd bú;ab shùn;iy xīn;dd de;bu shì;gy	10
 遇到问题绕着走	yù;zd dào;gd wèn;mk tí;oy rào;sw zhe;yo zǒu;tz	10
 预防口腔正畸学	yù;yy fáng;ef kǒu;la qiāng;og zhèng;av jī;tk xué;xz	10
 预防性免疫疗法	yù;yy fáng;ef xìng;xu miǎn;de yì;bu liáo;bl fǎ;dq	10
@@ -160936,6 +160998,7 @@ sort: by_weight
 月经抽吸或调节	yuè;ke jīng;sj chōu;fy xī;kj huò;ga tiáo;yk jié;ce	10
 粤军阵亡烈士墓	yuè;pk jūn;bi zhèn;ei wáng;wv liè;dh shì;ua mù;ct	10
 越南红花羊蹄甲	yuè;tl nán;ug hóng;sg huā;cb yáng;bf tí;zj jiǎ;ol,tl	10
+月如无恨月长圆	yuè;ke rú;nk wú;ay hèn;xg yuè;ke cháng;pn yuán;wb	10
 运筹学与控制论	yùn;zy chóu;vc xué;xz yǔ;va kòng;fg zhì;nd lùn;yl	10
 运动发酵单胞菌	yùn;zy dòng;yl fā;fy jiào;yz dān;bu bāo;ob jūn;ch	10
 运动方程分析解	yùn;zy dòng;yl fāng;wv chéng;hw fēn;bd xī;at jiě;dn	10
@@ -160995,6 +161058,7 @@ sort: by_weight
 战甲车发展中心	zhàn;vg jiǎ;ol,tl chē;au fā;fy zhǎn;uy zhōng;kl xīn;dd	10
 詹诺托克罗斯蒂	zhān;dk nuò;yk tuō;fq kè;ux,ge luó;sx sī;ct dì;cj	10
 占用消防车通道	zhàn;bw yòng;kf,ol xiāo;do fáng;ef chē;au tōng;zy dào;zz	10
+占着茅坑不拉屎	zhān;bw zhe;yo máo;cm kēng;tj bù;ab lā;fl shǐ;um	10
 站着说话不腰疼	zhàn;lv zhe;yo shuō;yx huà;yu bù;ab yāo;on téng;bd	10
 掌板创伤性破裂	zhǎng;xu bǎn;ay chuāng;rd shāng;rl xìng;xu pò;up liè;dy	10
 张伯伦莫顿假说	zhāng;gi bó;rb lún;rl mò;cd dùn;ty jiǎ;ry shuō;yx	10
@@ -161065,6 +161129,7 @@ sort: by_weight
 整形美容外科学	zhěng;uv xíng;kp měi;yd róng;bg wài;xb kē;hd xué;xz	10
 正则形式的博弈	zhèng;av zé;bd xíng;kp shì;gg de;bu bó;uc yì;wc	10
 正长球粒霞霓岩	zhèng;av zhǎng;pn qiú;wq lì;ml xiá;yy ní;ye yán;uu	10
+睁着眼睛说瞎话	zhēng;oy zhe;yo yǎn;og jīng;oo shuō;yx xiā;ok huà;yu	10
 政治经济学概论	zhèng;vw zhì;dk jīng;sj jì;dq xué;xz gài;aw lùn;yl	10
 蒸之如斗米饭久	zhēng;ch zhī;dn rú;nk dòu;ud mǐ;ba fàn;uy jiǔ;pn	10
 正中颌关系异常	zhèng;av zhōng;kl hé;ry guān;bt xì;px yì;sc cháng;xj	10
@@ -161121,10 +161186,12 @@ sort: by_weight
 指数增强型基金	zhǐ;fo shù;mw zēng;to qiáng;gi xíng;kt jī;ct jīn;rb	10
 止嗽散内用桔梗	zhǐ;bl,lu sòu;kq sàn;cw nèi;kr yòng;kf,ol jié;ak gěng;ag	10
 肢体擦伤伴异物	zhī;ov tǐ;rb cā;fu shāng;rl bàn;rb yì;sc wù;nw	10
+知我者谓我心忧	zhī;uk wǒ;ga zhě;lo wèi;yo wǒ;ga xīn;dd yōu;xy	10
 知屋漏者在宇下	zhī;uk wū;ut lòu;dy zhě;lo zài;ut yǔ;by xià;ab	10
 植物体细胞杂交	zhí;aq wù;nw tǐ;rb xì;st bāo;ob zá;ja jiāo;wf	10
 直线缝合器钉仓	zhí;uq xiàn;sj féng;sf hé;rk qì;xx dīng;jd cāng;rv	10
 直线切割缝合器	zhí;uq xiàn;sj qiē;qd gē;bd féng;sf hé;rk qì;xx	10
+只羡鸳鸯不羡仙	zhǐ;kb xiàn;yq yuān;xn yāng;yn bú;ab xiàn;yq xiān;ru	10
 知小礼而无大义	zhī;uk xiǎo;lb lǐ;pv ér;al wú;ay dà;ar yì;dx	10
 致泻性大肠杆菌	zhì;gw xiè;dy xìng;xu dà;ar cháng;op gǎn;ag jūn;ch	10
 直型钢板不锈钢	zhí;uq xíng;kt gāng;jx bǎn;ay bú;ab xiù;jn gāng;jx	10
@@ -161142,6 +161209,7 @@ sort: by_weight
 治之十日以上瘥	zhì;dk zhī;dn shí;al rì;wa yǐ;lr shàng;ba chài;bg	10
 置之死地而后快	zhì;sq zhī;dn sǐ;db dì;ty ér;al hòu;ik kuài;xg	10
 置之死地而后生	zhì;sq zhī;dn sǐ;db dì;ty ér;al hòu;ik shēng;pf	10
+只重衣衫不重人	zhǐ;kb zhòng;ql yī;wy shān;pp bú;ab zhòng;ql rén;pn	10
 枳竹陈皮加半枣	zhǐ;av zhú;gg chén;ed pí;py jiā;lk bàn;bf zǎo;ud	10
 栀子柏皮加甘草	zhī;av zi;la bǎi;ab pí;py jiā;lk gān;ca cǎo;cu	10
 栀子大黄汤主之	zhī;av zi;la dà;ar huáng;cb tāng;dp zhǔ;wt zhī;dn	10
@@ -161599,6 +161667,7 @@ sort: by_weight
 自由与受保护的	zì;po yóu;ol,lt yǔ;va shòu;vy bǎo;ra hù;fh de;bu	10
 自由政府间主义	zì;po yóu;ol,lt zhèng;vw fǔ;gc jiān;mo zhǔ;wt yì;dx	10
 自由支配的时间	zì;po yóu;ol,lt zhī;uy pèi;yj de;bu shí;to jiān;mo	10
+子欲养而亲不在	zǐ;la yù;gq yǎng;yl ér;al qīn;la bú;ab zài;ut	10
 资源枯竭型城市	zī;db yuán;dx kū;ag jié;lr xíng;kt chéng;ti shì;wj	10
 自竹经系统反射	zì;po zhú;gg jīng;sj xì;px tǒng;sy fǎn;iy shè;uc	10
 总胆管切开取石	zǒng;bx dǎn;od guǎn;vl qiē;qd kāi;ac qǔ;ey shí;ak	10
@@ -161685,6 +161754,7 @@ sort: by_weight
 左旋咪唑宝塔糖	zuǒ;ug xuán;fz mī;km zuò;kr bǎo;by tǎ;tk táng;mk	10
 佐治亚理工学院	zuǒ;rg zhì;dk yà;ay lǐ;wl gōng;aa xué;xz yuàn;ey	10
 作专题工作报告	zuò;rv zhuān;ts tí;oy gōng;aa zuò;rv bào;fy gào;nk	10
+做自己该做的事	zuò;rw zì;po jǐ;kv gāi;yr zuò;rw de;bu shì;gy	10
 做最真实的自己	zuò;rw zuì;oy zhēn;ub shí;bd de;bu zì;po jǐ;kv	10
 阿拉伯联合酋长国	ā;ek lā;fl bó;rb lián;et hé;rk qiú;by zhǎng;pn guó;wy	10
 安全是最大的效益	ān;bn quán;rw shì;oz zuì;oy dà;ar de;bu xiào;ww yì;bm	10
@@ -161727,6 +161797,7 @@ sort: by_weight
 不是你死就是我亡	bú;ab shì;oz nǐ;rx sǐ;db jiù;wy shì;oz wǒ;ga wáng;wv	10
 不在其位不谋其政	bú;ab zài;ut qí;cb wèi;rl bù;ab móu;ya qí;cb zhèng;vw	10
 不知哪块云彩下雨	bù;ab zhī;uk nǎ;ke kuài;tg yún;ag,es cǎi;vp xià;ab yǔ;ad	10
+不知我者谓我何求	bù;ab zhī;uk wǒ;ga zhě;lo wèi;yo wǒ;ga hé;rk qiú;au,ad	10
 彩板科特江苏沃森	cǎi;vp bǎn;ay kē;hd tè;nc jiāng;dg sū;cb wò;dy sēn;aa	10
 财政决算支出审计	cái;bc zhèng;vw jué;dg suàn;vc zhī;uy chū;uu shěn;bu jì;yu	10
 苍蝇不叮无缝的蛋	cāng;cv ying;id bù;ab dīng;kd wú;ay fèng;sf de;bu dàn;zi	10
