@@ -114,7 +114,7 @@ bāo ròu zhān lún bìng	胞肉粘轮病
 bāo shēng tán hé bìng	胞生痰核病
 bào shòu jīng kǒng zhèng	暴受惊恐证
 bāo tuō xìng chún yán	剥脱性唇炎
-bāo tuō xìng kěn yán	剥脱性龈炎
+bāo tuō xìng yín yán	剥脱性龈炎
 bāo xū rú qiú bìng	胞虚如球病
 bāo yī bú xià bìng	胞衣不下病
 bào yǐn bào shí zhèng	暴饮暴食症
@@ -242,7 +242,7 @@ bó suǒ èr shì bìng	伯索二氏病
 bō wéi èr shì bìng	波韦二氏病
 bù bù èr shì bìng	布布二氏病
 bù jiā zōng hé zhēng	布加综合征
-bù jié xìng kěn yán	不洁性龈炎
+bù jié xìng yín yán	不洁性龈炎
 bù kǎi èr shì bìng	布凯二氏病
 bù lā dé lì bìng	布拉德利病
 bù lè èr shì liú	布勒二氏瘤
@@ -659,10 +659,10 @@ féi ā èr shì bìng	肥阿二氏病
 fèi ā mǐ bā bìng	肺阿米巴病
 fèi bāo chóng náng zhǒng	肺包虫囊肿
 féi cè jī jiàn yán	腓侧肌腱炎
-féi dà xìng kěn yán	肥大性龈炎
 féi dà xìng shī zhěn	肥大性湿疹
 féi dà xìng wèi yán	肥大性胃炎
 féi dà xìng yān yán	肥大性咽炎
+féi dà xìng yín yán	肥大性龈炎
 fèi dòng jìng mài lòu	肺动静脉瘘
 fèi duàn qiē chú shù	肺段切除术
 fèi duàn zhī qì guǎn	肺段支气管
@@ -1825,8 +1825,8 @@ jiāng bǐ èr shì bìng	江比二氏病
 jiāng mó qiāng jī yè	浆膜腔积液
 jiāng mó xià jī liú	浆膜下肌瘤
 jiāng rén zōng hé zhēng	僵人综合征
-jiāng xì bāo kěn yán	浆细胞龈炎
 jiāng xì bāo ròu liú	浆细胞肉瘤
+jiāng xì bāo yín yán	浆细胞龈炎
 jiāng yè fǎn yìng qì	浆液反应器
 jiāo gǎn shén jīng jié	交感神经节
 jiāo gǎn shén jīng xì	交感神经系
@@ -2032,8 +2032,8 @@ kǎ mǎ zōng hé zhēng	卡马综合征
 kǎ méi zōng hé zhēng	卡梅综合征
 kǎ pèi èr shì bìng	卡佩二氏病
 kǎ sī ěr màn zhèng	卡斯尔曼症
-kǎ tā xìng kěn yán	卡它性龈炎
 kǎ tā xìng yán zhèng	卡他性炎症
+kǎ tā xìng yín yán	卡它性龈炎
 kǎi ěr ní gé zhēng	凯尔尼格征
 kāi fàng xìng xuè xiōng	开放性血胸
 kāi fàng zhé gǔ shù	开放折骨术
@@ -2376,7 +2376,7 @@ mén qí jié zā shù	门奇结扎术
 mén tǐ fēn liú shù	门体分流术
 měng bào xìng gān yán	猛爆性肝炎
 méng chū qī náng zhǒng	萌出期囊肿
-méng chū xìng kěn yán	萌出性龈炎
+méng chū xìng yín yán	萌出性龈炎
 méng dào ěr shì bìng	蒙道尔氏病
 mèng xiǎng de yuǎn zhēng	梦想的远征
 mǐ kù lì qí bìng	米库利奇病
@@ -3043,7 +3043,7 @@ rè zhòng yú shī zhèng	热重于湿证
 rè zhuó xiōng gé zhèng	热灼胸膈证
 rè zhuó yíng yīn zhèng	热灼营阴证
 rè zhuó zhēn yīn zhèng	热灼真阴证
-rèn chén qī kěn yán	妊辰期龈炎
+rèn chén qī yín yán	妊辰期龈炎
 rén chù gòng huàn bìng	人畜共患病
 rén chù gòng tōng bìng	人畜共通病
 rén dòu jiē zhòng shù	人痘接种术
@@ -13242,7 +13242,7 @@ qīn shí xìng xiān wéi liú bìng	侵蚀性纤维瘤病
 qīn xí xìng xiān wéi liú bìng	侵袭性纤维瘤病
 qīng chuàng dòu dào qīng chú shù	清创窦道清除术
 qīng chuàng yóu lí zhí pí shù	清创游离植皮术
-qīng chūn fā yù qī kěn yán	青春发育期龈炎
+qīng chūn fā yù qī yín yán	青春发育期龈炎
 qīng chūn qī jiǎ zhuàng xiàn zhǒng	青春期甲状腺肿
 qīng chūn qián qī yá zhōu yán	青春前期牙周炎
 qīng dù rèn shēn zhòng dú zhèng	轻度妊娠中毒症
@@ -14580,7 +14580,7 @@ yá kē mó xíng guān cè qì	牙科模型观测器
 yá kē zhù shǒu yǐ páng dèng	牙科助手椅旁凳
 yá kē zōng hé zhì liáo jī	牙科综合治疗机
 yá kē zōng hé zhì liáo tái	牙科综合治疗台
-yá liè yōng jǐ xìng kěn yán	牙列拥挤性龈炎
+yá liè yōng jǐ xìng yín yán	牙列拥挤性龈炎
 yà lín chuáng xìng táng niào bìng	亚临床性糖尿病
 yá shēng jūn xìng nóng pí bìng	芽生菌性脓皮病
 yá suǐ huó lì cè yàn qì	牙髓活力测验器
