@@ -11120,6 +11120,8 @@ sort: by_weight
 老君镇	lǎo;lb jūn;yk zhèn;jb	10
 老莱镇	lǎo;lb lái;cl zhèn;jb	10
 老林镇	lǎo;lb lín;aa zhèn;jb	10
+乐陵市	lào;px líng;ew shì;wj	565
+乐陵县	lào;px líng;ew xiàn;qs	129
 老隆镇	lǎo;lb lóng;eu zhèn;jb	199
 老马镇	lǎo;lb mǎ;va zhèn;jb	10
 老麦乡	lǎo;lb mài;fw xiāng;vp	10
@@ -11178,8 +11180,6 @@ sort: by_weight
 乐江镇	lè;px jiāng;dg zhèn;jb	10
 乐居镇	lè;px jū;ug zhèn;jb	10
 乐里镇	lè;px lǐ;tt zhèn;jb	10
-乐陵市	lè;px líng;ew shì;wj	565
-乐陵县	lè;px líng;ew xiàn;qs	129
 勒马乡	lè;cl mǎ;va xiāng;vp	10
 乐民镇	lè;px mín;vv zhèn;jb	10
 乐平市	lè;px píng;au shì;wj	10
@@ -33187,7 +33187,7 @@ sort: by_weight
 德正街道	dé;rx zhèng;av jiē;rt dào;zz	10
 德州德城	dé;rx zhōu;dl dé;rx chéng;ti	10
 德州街道	dé;rx zhōu;dl jiē;rt dào;zz	10
-德州乐陵	dé;rx zhōu;dl lè;px líng;ew	10
+德州乐陵	dé;rx zhōu;dl lào;px líng;ew	10
 德州临邑	dé;rx zhōu;dl lín;lk yì;kb	10
 德州陵城	dé;rx zhōu;dl líng;ew chéng;ti	10
 德州宁津	dé;rx zhōu;dl níng;bd jīn;dy	10
@@ -54404,7 +54404,6 @@ sort: by_weight
 赛乌素镇	sài;bb wū;pa sù;fx zhèn;jb	10
 赛鱼街道	sài;bb yú;da jiē;rt dào;zz	10
 三八街道	sān;ae bā;pn jiē;rt dào;zz	10
-三拨子乡	sān;ae bá;fy zi;la xiāng;vp	10
 三百弓村	sān;ae bǎi;ab gōng;vv cūn;ac	10
 三百户村	sān;ae bǎi;ab hù;du cūn;ac	10
 三白山村	sān;ae bái;po shān;kl cūn;ac	10
@@ -54415,6 +54414,7 @@ sort: by_weight
 三堡社区	sān;ae bǎo;rt shè;pt qū;kx	130
 三宝营乡	sān;ae bǎo;by yíng;ck xiāng;vp	10
 三卜树村	sān;ae bo;ld shù;ac cūn;ac	10
+三拨子乡	sān;ae bō;fy zi;la xiāng;vp	10
 三埠街道	sān;ae bù;tu jiē;rt dào;zz	10
 三汊港镇	sān;ae chà;di gǎng;ds zhèn;jb	10
 三岔河村	sān;ae chà;fu hé;dk cūn;ac	10
@@ -62457,7 +62457,6 @@ sort: by_weight
 西八千乡	xī;ak,wk bā;pn qiān;pu xiāng;vp	10
 西坝头村	xī;ak,wk bà;tb tóu;dd cūn;ac	10
 西把栅乡	xī;ak,wk bǎ;fb zhà;ac xiāng;vp	10
-西拨子村	xī;ak,wk bá;fy zi;la cūn;ac	10
 西白岱村	xī;ak,wk bái;po dài;ru cūn;ac	10
 西柏店村	xī;ak,wk bǎi;ab diàn;gv cūn;ac	10
 西柏涧村	xī;ak,wk bǎi;ab jiàn;do cūn;ac	10
@@ -62540,6 +62539,7 @@ sort: by_weight
 西卜沙乡	xī;ak,wk bo;ld shā;du xiāng;vp	10
 希博特乡	xī;xj bó;uc tè;nc xiāng;vp	10
 西卜庄村	xī;ak,wk bo;ld zhuāng;gt cūn;ac	10
+西拨子村	xī;ak,wk bō;fy zi;la cūn;ac	10
 西布河乡	xī;ak,wk bù;uj hé;dk xiāng;vp	10
 西埠后村	xī;ak,wk bù;tu hòu;ik cūn;ac	10
 西步乐村	xī;ak,wk bù;vu lè;px cūn;ac	10
@@ -78830,7 +78830,7 @@ sort: by_weight
 德阳市什邡市	dé;rx yáng;eo shì;wj shí;ru fāng;fe shì;wj	10
 德阳市中江县	dé;rx yáng;eo shì;wj zhōng;kl jiāng;dg xiàn;qs	10
 德州市德城区	dé;rx zhōu;dl shì;wj dé;rx chéng;ti qū;kx	10
-德州市乐陵市	dé;rx zhōu;dl shì;wj lè;px líng;ew shì;wj	10
+德州市乐陵市	dé;rx zhōu;dl shì;wj lào;px líng;ew shì;wj	10
 德州市临邑县	dé;rx zhōu;dl shì;wj lín;lk yì;kb xiàn;qs	10
 德州市陵城区	dé;rx zhōu;dl shì;wj líng;ew chéng;ti qū;kx	10
 德州市宁津县	dé;rx zhōu;dl shì;wj níng;bd jīn;dy xiàn;qs	10

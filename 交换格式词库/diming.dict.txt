@@ -11111,6 +11111,8 @@ lǎo jūn xiāng	老军乡
 lǎo jūn zhèn	老君镇
 lǎo lái zhèn	老莱镇
 lǎo lín zhèn	老林镇
+lào líng shì	乐陵市
+lào líng xiàn	乐陵县
 lǎo lóng zhèn	老隆镇
 lǎo mǎ zhèn	老马镇
 lǎo mài xiāng	老麦乡
@@ -11169,8 +11171,6 @@ lè jiǎn zhèn	乐俭镇
 lè jiāng zhèn	乐江镇
 lè jū zhèn	乐居镇
 lè lǐ zhèn	乐里镇
-lè líng shì	乐陵市
-lè líng xiàn	乐陵县
 lè mǎ xiāng	勒马乡
 lè mín zhèn	乐民镇
 lè píng shì	乐平市
@@ -33178,7 +33178,7 @@ dé yuán jiē dào	德源街道
 dé zhèng jiē dào	德正街道
 dé zhōu dé chéng	德州德城
 dé zhōu jiē dào	德州街道
-dé zhōu lè líng	德州乐陵
+dé zhōu lào líng	德州乐陵
 dé zhōu lín yì	德州临邑
 dé zhōu líng chéng	德州陵城
 dé zhōu níng jīn	德州宁津
@@ -54395,7 +54395,6 @@ sài wài jiǔ bǎo	塞外酒堡
 sài wū sù zhèn	赛乌素镇
 sài yú jiē dào	赛鱼街道
 sān bā jiē dào	三八街道
-sān bá zi xiāng	三拨子乡
 sān bǎi gōng cūn	三百弓村
 sān bǎi hù cūn	三百户村
 sān bái shān cūn	三白山村
@@ -54406,6 +54405,7 @@ sān bǎo jiē dào	三宝街道
 sān bǎo shè qū	三堡社区
 sān bǎo yíng xiāng	三宝营乡
 sān bo shù cūn	三卜树村
+sān bō zi xiāng	三拨子乡
 sān bù jiē dào	三埠街道
 sān chà gǎng zhèn	三汊港镇
 sān chà hé cūn	三岔河村
@@ -62448,7 +62448,6 @@ xī bā lǐ zhuāng	西八里庄
 xī bā qiān xiāng	西八千乡
 xī bà tóu cūn	西坝头村
 xī bǎ zhà xiāng	西把栅乡
-xī bá zi cūn	西拨子村
 xī bái dài cūn	西白岱村
 xī bǎi diàn cūn	西柏店村
 xī bǎi jiàn cūn	西柏涧村
@@ -62531,6 +62530,7 @@ xī bó róng cūn	西博荣村
 xī bo shā xiāng	西卜沙乡
 xī bó tè xiāng	希博特乡
 xī bo zhuāng cūn	西卜庄村
+xī bō zi cūn	西拨子村
 xī bù hé xiāng	西布河乡
 xī bù hòu cūn	西埠后村
 xī bù lè cūn	西步乐村
@@ -78821,7 +78821,7 @@ dé yáng shì mián zhú shì	德阳市绵竹市
 dé yáng shì shí fāng shì	德阳市什邡市
 dé yáng shì zhōng jiāng xiàn	德阳市中江县
 dé zhōu shì dé chéng qū	德州市德城区
-dé zhōu shì lè líng shì	德州市乐陵市
+dé zhōu shì lào líng shì	德州市乐陵市
 dé zhōu shì lín yì xiàn	德州市临邑县
 dé zhōu shì líng chéng qū	德州市陵城区
 dé zhōu shì níng jīn xiàn	德州市宁津县

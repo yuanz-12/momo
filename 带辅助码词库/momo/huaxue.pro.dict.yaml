@@ -3723,14 +3723,45 @@ sort: by_weight
 铍肉芽肿	pī;jp ròu;nr yá;cy zhǒng;ov	45
 铍铜合金	pī;jp tóng;jk hé;rk jīn;rb	220
 偏苯三酸	piān;rc běn;cb sān;ae suān;yw	238
+偏钒酸铵	piān;rc fán;jf suān;yw ǎn;jn	220
+偏钒酸钾	piān;rc fán;jf suān;yw jiǎ;jj	45
+偏钒酸锂	piān;rc fán;jf suān;yw lǐ;jl	45
+偏钒酸钠	piān;rc fán;jf suān;yw nà;jn	153
+偏钒酸盐	piān;rc fán;jf suān;yw yán;tm	45
+偏钒酸银	piān;rc fán;jf suān;yw yín;jg	45
+偏硅酸钙	piān;rc guī;ut suān;yw gài;jg	4
+偏硅酸锂	piān;rc guī;ut suān;yw lǐ;jl	153
+偏硅酸钠	piān;rc guī;ut suān;yw nà;jn	153
+偏硅酸铅	piān;rc guī;ut suān;yw qiān;jk	45
+偏硅酸盐	piān;rc guī;ut suān;yw yán;tm	171
+偏磷酸铵	piān;rc lín;uf suān;yw ǎn;jn	117
 偏磷酸钡	piān;rc lín;uf suān;yw bèi;jb	50
+偏磷酸钙	piān;rc lín;uf suān;yw gài;jg	50
+偏磷酸根	piān;rc lín;uf suān;yw gēn;ag	130
+偏磷酸钴	piān;rc lín;uf suān;yw gǔ;jg	50
+偏磷酸钾	piān;rc lín;uf suān;yw jiǎ;jj	4
+偏磷酸铝	piān;rc lín;uf suān;yw lǚ;jk	45
+偏磷酸酶	piān;rc lín;uf suān;yw méi;ym	45
+偏磷酸镁	piān;rc lín;uf suān;yw měi;jd	38
+偏磷酸钠	piān;rc lín;uf suān;yw nà;jn	432
+偏磷酸镍	piān;rc lín;uf suān;yw niè;ja	50
 偏磷酸铍	piān;rc lín;uf suān;yw pī;jp	45
 偏磷酸铈	piān;rc lín;uf suān;yw shì;jj	4
 偏磷酸钍	piān;rc lín;uf suān;yw tǔ;jt	76
+偏磷酸盐	piān;rc lín;uf suān;yw yán;tm	212
 偏磷酸镱	piān;rc lín;uf suān;yw yì;jx	4
+偏磷酸银	piān;rc lín;uf suān;yw yín;jg	4
+偏铝酸钙	piān;rc lǚ;jk suān;yw gài;jg	117
+偏铝酸钾	piān;rc lǚ;jk suān;yw jiǎ;jj	50
+偏铝酸钠	piān;rc lǚ;jk suān;yw nà;jn	374
+偏铝酸盐	piān;rc lǚ;jk suān;yw yán;tm	162
 偏氯乙烯	piān;rc lǜ;qu yǐ;vv xī;hj	130
 偏铌酸盐	piān;rc ní;jb suān;yw yán;tm	50
 偏硼酸钡	piān;rc péng;uo suān;yw bèi;jb	162
+偏硼酸钙	piān;rc péng;uo suān;yw gài;jg	50
+偏硼酸钾	piān;rc péng;uo suān;yw jiǎ;jj	144
+偏硼酸锂	piān;rc péng;uo suān;yw lǐ;jl	207
+偏硼酸钠	piān;rc péng;uo suān;yw nà;jn	162
 偏砷酸钠	piān;rc shēn;uu suān;yw nà;jn	45
 偏钛酸钡	piān;rc tài;jt suān;yw bèi;jb	4
 偏钨酸铵	piān;rc wū;jw suān;yw ǎn;jn	45
@@ -9395,9 +9426,9 @@ sort: by_weight
 辛酰水杨酸	xīn;lu xiān;ye shuǐ;ln yáng;ap suān;yw	10
 新亚甲基蓝	xīn;lt yà;ay jiǎ;ol,tl jī;ct lán;cm	10
 锌指核酸酶	xīn;jx zhǐ;fo hé;ar suān;yw méi;ym	10
-杏芎氯化钠	xìng;ak qiōng;cg lǜ;qu huà;rb nà;jn	10
 杏仁腈溶液	xìng;ak rén;re jīng;oo róng;dg yè;dw	10
 形式氧化态	xíng;kp shì;gg yǎng;qy huà;rb tài;tx	10
+杏芎氯化钠	xìng;ak xiōng;cg lǜ;qu huà;rb nà;jn	10
 型种氨基酸	xíng;kt zhǒng;hv ān;qn jī;ct suān;yw	10
 雄二烯二酮	xióng;uv èr;aa xī;hj èr;aa tóng;yk	10
 熊去氧胆酸	xióng;sh qù;ts yǎng;qy dǎn;od suān;yw	10
