@@ -1,0 +1,24 @@
+# rime dictionary
+# encoding: utf-8
+#https://github.com/amzxyz/RIME-LMDG
+# ------- 方言-------
+# 詞庫維護中避免當成爛詞刪除，獨立維護，以明確用途
+---
+name: fangyan
+version: "LTS"
+sort: by_weight
+...
+娭毑	āi;nu jiě;my
+飽咗	bǎo;ub zuo;kg
+睇戲	dì;od xì;hg
+了難	liǎo;al nán;cv
+撩撇	liāo;fx piē;fw
+埋數	mái;tl shù;uw
+鬧熱	nào;mj rè;th
+恰酒	qià;xk jiǔ;dy
+唔該	wú;kk gāi;yr
+正嘢	zhèng;av yě;ky
+恰得苦	qià;xk dé;rc kǔ;cg
+恰點酒	qià;xk diǎn;lv jiǔ;dy
+系哩度	xì;px lī;kl dù;gy
+恰點東西	qià;xk diǎn;lv dōng;ir xi;ak,wk
