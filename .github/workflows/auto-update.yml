@@ -16,28 +16,28 @@ jobs:
 
       - name: 下载并筛选目标仓库的最新词典文件
         run: |
-          # 1. 创建分类输入文件夹，以及用于存放免处理文件的旁路暂存区
+          # 1. 创建按功能分类的输入文件夹，以及免处理的“隔离区”文件夹
           mkdir -p input_dicts/dicts
           mkdir -p input_dicts/dicts_hant
-          mkdir -p bypass_temp/dicts
-          mkdir -p bypass_temp/dicts_hant
+          mkdir -p raw_bypass/dicts
+          mkdir -p raw_bypass/dicts_hant
           
-          # 2. 克隆仓库，复制文件
+          # 2. 克隆仓库，并分别将 dicts 与 dicts_hant 内的文件复制到对应目录下
           git clone --depth 1 --branch wanxiang https://github.com/amzxyz/RIME-LMDG.git temp_repo
           cp -r temp_repo/dicts/* input_dicts/dicts/
           cp -r temp_repo/dicts_hant/* input_dicts/dicts_hant/
           rm -rf temp_repo
           
-          # 3. 动态筛选：查找含有 en 或 mixed 的文件，移动到 bypass_temp 暂存，免于脚本处理
-          find input_dicts -type f \( -name "*en*" -o -name "*mixed*" \) | while read -r file; do
-            # 提取相对路径，例如 input_dicts/dicts/mixed.dict.yaml -> dicts/mixed.dict.yaml
+          # 3. 提取文件名前缀为 en 或 mixed 的文件，移动至隔离区，使其免于 Python 处理
+          find input_dicts/dicts input_dicts/dicts_hant -type f \( -name "en*" -o -name "mixed*" \) | while read -r file; do
+            # 提取相对路径（例如：dicts/mixed.dict.yaml）
             rel_path="${file#input_dicts/}"
-            # 移动文件，保留其原本的文件夹归属
-            mv "$file" "bypass_temp/$rel_path"
+            # 移动到对应的隔离区目录下
+            mv "$file" "raw_bypass/$rel_path"
             echo "已隔离原始文件，跳过脚本处理: $rel_path"
           done
           
-          # 4. 追加下载单个词库文件（已替换为 moe.dict.yaml）
+          # 4. 追加下载 moe.dict.yaml 到 input_dicts/dicts 目录下
           curl -L "https://raw.githubusercontent.com/suiginko/moetype/main/moe.dict.yaml" \
             -o "input_dicts/dicts/moe.dict.yaml"
           echo "已成功追加下载 moe.dict.yaml 到 dicts 目录"
@@ -51,24 +51,26 @@ jobs:
           mkdir -p "辅助码表"
           python duofuzhu.py
 
-      - name: 深入子目录批量重命名词库 (*.dict.yaml -> *.pro.dict.yaml)
+      - name: 深入子目录批量重命名词库并合并原文件
         run: |
+          # 第一步：先将经过 Python 处理的词库重命名为 *.pro.dict.yaml
           find output_dicts -type f -name "*.dict.yaml" | while read -r file; do
             new_name="${file%.dict.yaml}.pro.dict.yaml"
             mv "$file" "$new_name"
             echo "✅ 已重命名: $file -> $new_name"
           done
+          
+          # 第二步：把隔离区里免处理的原始文本合并到输出目录中
+          cp -r raw_bypass/* output_dicts/
+          echo "✅ 已将免处理的原始文件无缝合并至输出目录，准备提交"
 
-      - name: 合并免处理文件并提交输出到仓库
+      - name: 提交输出文件到仓库
         env:
           GIT_AUTHOR_NAME: ci-bot
           GIT_AUTHOR_EMAIL: ci@example.com
           GIT_COMMITTER_NAME: ci-bot
           GIT_COMMITTER_EMAIL: ci-bot@example.com
         run: |
-          # 将之前跳过处理的原始文件（en、mixed），原封不动地合并入输出目录对应的路径下
-          cp -r bypass_temp/* output_dicts/
-          
           cp -rf output_dicts/* .
           git add .
           
