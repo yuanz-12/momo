@@ -16,21 +16,24 @@ jobs:
 
       - name: 下载并筛选目标仓库的最新词典文件
         run: |
-          mkdir input_dicts
+          # 1. 创建按功能分类的输入文件夹结构
+          mkdir -p input_dicts/dicts
+          mkdir -p input_dicts/dicts_hant
           
-          # 1. 克隆并复制第一个仓库的全部词典
+          # 2. 克隆仓库，并分别将 dicts 与 dicts_hant 内的文件复制到对应目录下
           git clone --depth 1 --branch wanxiang https://github.com/amzxyz/RIME-LMDG.git temp_repo
-          cp -r temp_repo/dicts/* input_dicts/
+          cp -r temp_repo/dicts/* input_dicts/dicts/
+          cp -r temp_repo/dicts_hant/* input_dicts/dicts_hant/
           rm -rf temp_repo
           
-          # 2. 自动排除不需要的 mixed.dict.yaml 文件
-          rm -f input_dicts/mixed.dict.yaml
-          echo "已排除 mixed.dict.yaml"
+          # 3. 自动排除 input_dicts/dicts 中的 mixed.dict.yaml
+          rm -f input_dicts/dicts/mixed.dict.yaml
+          echo "已从 dicts 中排除 mixed.dict.yaml"
           
-          # 3. 新增爬取单个独立词典文件（已转换为 Raw 原始文件地址）
+          # 4. 追加下载 tone_moe.dict.yaml 到 input_dicts/dicts 目录下
           curl -L "https://raw.githubusercontent.com/suiginko/moetype/main/tone_moe.dict.yaml" \
-            -o "input_dicts/tone_moe.dict.yaml"
-          echo "已成功追加下载 tone_moe.dict.yaml"
+            -o "input_dicts/dicts/tone_moe.dict.yaml"
+          echo "已成功追加下载 tone_moe.dict.yaml 到 dicts 目录"
 
       - name: 处理原始词库
         run: |
@@ -48,6 +51,7 @@ jobs:
             mv "$file" "$new_name"
             echo "✅ 已重命名: $file -> $new_name"
           done
+
       - name: 提交输出文件到仓库
         env:
           GIT_AUTHOR_NAME: ci-bot
