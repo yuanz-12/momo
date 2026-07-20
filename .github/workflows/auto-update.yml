@@ -16,11 +16,9 @@ jobs:
 
       - name: 下载并筛选目标仓库的最新词典文件
         run: |
-          # 1. 创建按功能分类的输入文件夹，以及免处理的“隔离区”文件夹
+          # 1. 创建按功能分类的输入文件夹结构
           mkdir -p input_dicts/dicts
           mkdir -p input_dicts/dicts_hant
-          mkdir -p raw_bypass/dicts
-          mkdir -p raw_bypass/dicts_hant
           
           # 2. 克隆仓库，并分别将 dicts 与 dicts_hant 内的文件复制到对应目录下
           git clone --depth 1 --branch wanxiang https://github.com/amzxyz/RIME-LMDG.git temp_repo
@@ -28,14 +26,10 @@ jobs:
           cp -r temp_repo/dicts_hant/* input_dicts/dicts_hant/
           rm -rf temp_repo
           
-          # 3. 提取文件名前缀为 en 或 mixed 的文件，移动至隔离区，使其免于 Python 处理
-          find input_dicts/dicts input_dicts/dicts_hant -type f \( -name "en*" -o -name "mixed*" \) | while read -r file; do
-            # 提取相对路径（例如：dicts/mixed.dict.yaml）
-            rel_path="${file#input_dicts/}"
-            # 移动到对应的隔离区目录下
-            mv "$file" "raw_bypass/$rel_path"
-            echo "已隔离原始文件，跳过脚本处理: $rel_path"
-          done
+          # 3. 自动排除来自于 RIME-LMDG 的所有前缀为 en 和 mixed 的文件
+          rm -f input_dicts/dicts/en* input_dicts/dicts/mixed*
+          rm -f input_dicts/dicts_hant/en* input_dicts/dicts_hant/mixed*
+          echo "已排除所有前缀为 en 和 mixed 的文件"
           
           # 4. 追加下载 moe.dict.yaml 到 input_dicts/dicts 目录下
           curl -L "https://raw.githubusercontent.com/suiginko/moetype/main/moe.dict.yaml" \
@@ -51,18 +45,13 @@ jobs:
           mkdir -p "辅助码表"
           python duofuzhu.py
 
-      - name: 深入子目录批量重命名词库并合并原文件
+      - name: 深入子目录批量重命名词库 (*.dict.yaml -> *.pro.dict.yaml)
         run: |
-          # 第一步：先将经过 Python 处理的词库重命名为 *.pro.dict.yaml
           find output_dicts -type f -name "*.dict.yaml" | while read -r file; do
             new_name="${file%.dict.yaml}.pro.dict.yaml"
             mv "$file" "$new_name"
             echo "✅ 已重命名: $file -> $new_name"
           done
-          
-          # 第二步：把隔离区里免处理的原始文本合并到输出目录中
-          cp -r raw_bypass/* output_dicts/
-          echo "✅ 已将免处理的原始文件无缝合并至输出目录，准备提交"
 
       - name: 提交输出文件到仓库
         env:
