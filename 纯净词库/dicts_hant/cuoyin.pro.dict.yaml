@@ -1,0 +1,162 @@
+# Rime dictionary
+# encoding: utf-8
+#https://github.com/amzxyz/RIME-LMDG
+#錯音錯字對照表
+---
+name: cuoyin
+version: "LTS"
+sort: by_weight
+...
+株木琅瑪	zhū mù láng mǎ	205	有声
+衾何以堪	qīn hé yǐ kān	43	小说
+墨明棋妙	mò míng qí miào	13032	乐队
+壓力山大	yā lì shān dà	5312	网络语
+鴨梨山大	yā lí shān dà	5342	网络语
+麻麻賴賴	má má lài lài	16	网络语
+絕代雙椒	jué dài shuāng jiāo	858	网络语
+毀人不倦	huǐ rén bú juàn	146	歌曲名
+佛教勝地	fó jiào shèng dì	67	佛教(圣)地
+杉杉來吃	shān shān lái chī	1091	书名
+食話食說	shí huà shí shuō	259	节目
+零零總總	ling ling zong zong	6	林林总总
+棄如敝履	qì rú bì lǚ	486	弃如敝屣(xǐ)
+卡扣	kǎ kòu	3690	qiǎ kòu
+味噌	wèi zēng	1043	cēng
+味噌湯	wèi zēng tāng	1008	味噌(cēng)汤
+太差勁	tài chà jìng	89	jìn
+文縐縐	wén zōu zōu	16	zhōu
+大柵欄	dà zhà lán	23	dà shí làn
+粘貼	nián tiē	884	粘(zhān)贴
+曝光	pù guāng	682	曝(bào)光
+東庠島	dong yang dao	4	东庠(xiáng)岛
+視頻	shì píng	682	视频(pín)
+剖腹產	pāo fù chǎn	170	剖(pōu)腹产
+阻塞	zu sai	20	阻塞(sè)
+魔爪	mó zhuǎ	20	zhǎo
+着想	zháo xiǎng	862	着(zhuó)想
+崩潰	bēn kuì	480	崩(bēng)溃
+句芒	jù máng	428	句(gōu)芒
+烘焙	hōng péi	966	hōng bèi
+諂媚	xiàn mèi	510	chǎn mèi
+着落	zháo luò	470	zhuó luò
+脅差	lei cha	73	xié chā
+剛勁	gāng jìn	901	gāng jìng
+井陉	jing jing	1237	jǐng xíng
+猇亭	hu ting	146	xiāo tíng
+猇亭區	hu ting qu	88	猇(xiāo)亭区
+屎溺	shǐ nì	29646	shǐ niào
+東庠	dong yang	826	dōng xiáng
+莒縣	lü xian	737	jǔ xiàn
+浚縣	jun xian	1348	xùn xiàn
+郯城	ye cheng	897	tán chéng
+麗水	lì shuǐ	580	lí shuǐ
+琿春	huī chūn	667	hún chūn
+甪直	yòng zhí	888	lù zhí
+五厙	wǔ kù	218	wú shè
+台州	tái zhōu	720	tāi zhōu
+膻中	shan zhong	2450	膻(dàn)中
+澠池	yíng chí	624	miǎn chí
+澠池	shéng chí	1092	miǎn chí
+鉛山	qiān shān	434	yán shān
+鉛山縣	qiān shān xiàn	180	铅(yán)山县
+按耐	àn nài	30	按捺(nà)
+甭介	béng jie	794	甭价(jie)
+別介	bié jie	769	别价(jie)
+檳榔	bīn láng	630	bīng láng
+草薙	cao zhi	948	cǎo tì
+摻和	chān he	538	chān huo
+稱職	cheng zhi	1119	chèn zhí
+齜牙	cī yá	11	zī yá
+齜着牙	cī zhe yá	10	zī zhe yá
+齜牙咧嘴	cī yá liě zuǐ	17	zī yá liě zuǐ
+湊活	còu huo	984	凑合(he)
+道行	dào hang	10928	dào héng
+給予	gěi yǔ	350	jǐ yǔ
+厚朴	hòu pǔ	588	hòu pò
+餛飩	hun dun	8209	hún tun
+角色	jiǎo sè	686	jué sè
+結紮	jié zhā	130	jié zā
+鉅惠	jù huì	1033	(巨)惠
+主角	zhǔ jiǎo	1195	zhǔ jué
+女主角	nǚ zhǔ jiǎo	200	女主角(jué)
+埋怨	mái yuàn	439	mán yuàn
+模板	mó bǎn	1172	mú bǎn
+模具	mó jù	218	mú jù
+模樣	mó yàng	519	mú yàng
+人模狗樣	rén mó gǒu yàng	15	rén mú góu yàng
+一模一樣	yì mó yí yàng	902	yì mú yí yàng
+有模有樣	yǒu mó yǒu yàng	28	yǒu mú yǒu yàng
+裝模作樣	zhuāng mó zuò yàng	49	zhuāng mú zuò yàng
+木訥	mù nà	470	mù nè
+弄堂	nòng táng	855	lòng táng
+暖和	nuǎn he	590	nuǎn huo
+偌大	nuò dà	680	偌(ruò)大
+強勁	qiáng jìn	568	qiáng jìng
+說服	shuì fú	1033	shuō fú
+似的	sì de	821	似(shì)的
+藤蔓	téng màn	320	téng wàn
+調換	tiáo huàn	620	diào huàn
+胴體	tóng tǐ	837	dòng tǐ
+蕁麻	xún má	124	qián má
+蕁麻疹	qián má zhěn	200	xún má zhěn
+亳州	háo zhōu	500	bó zhōu
+天秤座	tiān píng zuò	100	秤(chèng)
+戛然而止	ga ran er zhi	590	戛(jiá)然而止
+自怨自艾	zì yuàn zì ài	520	自怨自艾(yì)
+洪洞	hóng dòng	2918	hóng tóng
+蔚縣	wèi xiàn	1094	yù xiàn
+嵊州	chéng zhōu	762	shèng zhōu
+吱聲	zhī shēng	1468	zī shēng
+脖頸	bó jǐng	480	bó gěng
+脖頸兒	bó jǐng er	10	bó gěng er
+草薙劍	cao zhi jian	318	cǎo tì jiàn
+草薙京	cao zhi jing	254	cǎo tì jīng
+大宛馬	dà wǎn mǎ	10	dà yuān mǎ
+獨樂樂	dú lè lè	10	dú yuè lè
+眾樂樂	zhoòng lè lè	20	zhòng yuè lè
+海參崴	hǎi shēn wēi	385	hǎi shēn wǎi
+賈平凹	jià píng wā	250	jiǎ píng āo
+卡脖子	kǎ bó zi	310	qiǎ bó zi
+六安	liù ān	628	lù ān
+六安市	liù ān shì	88	lù ān shì
+六安縣	liù ān xiàn	10	lù ān xiàn
+六合區	liù hé qū	115	lù hé qū
+安徽六安	an hui liu an	2	ān huī lù ān
+南京六合	nán jīng liù hé	1	nán jīng lù hé
+安徽六安市	ān huī liù ān shì	1	ān huī lù ān shì
+南京六合區	nán jīng liù hé qū	1	nán jīng lù hé qū
+安徽省六安市	ān huī shěng liù ān shì	1	ān huī shěng lù ān shì
+南京市六合區	nán jīng shì liù hé qū	1	nán jīng shì lù hé qū
+螺螄粉	luó shī fěn	150	luó sī fěn
+溫庭筠	wēn tíng jūn	210	温庭筠(yún)
+關卡	guān kǎ	14734	guān qiǎ
+牛皮癬	niú pí xiǎn	289	(癣)xuǎn
+三昧真火	sān wèi zhēn huǒ	440	三昧(mèi)真火
+優惠券	yōu huì juàn	420	优惠券(quàn)
+沒食子	méi shí zǐ	304	没(mò)食子
+魔蠍座	mó xiē zuò	403	摩羯(jié)座
+鄱陽湖	pan yang hu	250	pó yáng hú
+契科夫	qī kē fū	524	契诃(hē)夫
+太行山	tài xíng shān	390	tài háng shān
+頭皮屑	tóu pí xuè	530	tóu pi xiè
+萬柏林	wàn bó lín	10	万柏(bǎi)林
+雪佛蘭	xuě fó lán	370	xuě fú lán
+鴨綠江	yā lǜ jiāng	150	yā lù jiāng
+張柏芝	zhāng bǎi zhī	1056	zhāng bó zhī
+阿彌陀佛	ā mí tuó fó	37	ē mí tuó fó
+南無阿彌陀佛	nā mó ā mí tuó fó	4	nā mó ē mí tuó fó
+南無阿彌陀佛	nán wú ā mí tuó fó	4	nā mó ē mí tuó fó
+南無阿彌陀佛	nán wú ē mí tuó fó	4	nā mó ē mí tuó fó
+按耐不住	àn nài bú zhù	948	按捺(nà)不住
+大腹便便	dà fù biàn biàn	15	dà fù pián pián
+歇斯底里	jiē sī dǐ lǐ	88	xiē sī dǐ lǐ
+力能扛鼎	lì néng káng dǐng	3	lì néng gāng dǐng
+模稜兩可	mó líng liǎng kě	85	mó léng liǎng kě
+心寬體胖	xīn kuān tǐ pàng	4	xīn kūan tǐ pán
+虛與委蛇	xu yu wei she	9	xū yǔ wēi yí
+血脈僨張	xuè mài fèn zhāng	265	血脉贲(bēn)张 | 血脉偾(fèn)张
+血脈噴張	xuè mài pēn zhāng	750	血脉贲(bēn)张 | 血脉偾(fèn)张
+飲鴆解渴	yǐn jiù jiě kě	1	饮鸩(zhèn)解渴
+飲鴆止渴	yǐn jiù zhǐ kě	34	饮鸩(zhèn)止渴
+驀然回首	mù rán huí shǒu	39	蓦(mò)然回首
+拾級而上	shí jí ér shàng	64	拾(shè)级而上

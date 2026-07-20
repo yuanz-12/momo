@@ -1,0 +1,227 @@
+# rime dictionary
+# encoding: utf-8
+#https://github.com/amzxyz/RIME-LMDG
+# ----颱風--同步更新最新颱風表----
+---
+name: taifeng
+version: "LTS"
+sort: by_weight
+...
+颱風達維	tái;fk fēng;ji dá;zy wéi;sv	1
+颱風娜基莉	tái;fk fēng;ji nà;ne jī;ct lì;cd	1
+颱風科羅旺	tái;fk fēng;ji kē;hd luó;sv wàng;ow	1
+颱風風神	tái;fk fēng;ji fēng;ji shén;pu	1
+颱風杜鵑	tái;fk fēng;ji dù;at juān;kn	1
+颱風鴻雁	tái;fk fēng;ji hóng;dn yàn;iv	1
+颱風海鷗	tái;fk fēng;ji hǎi;dm ōu;kn	1
+颱風米雷	tái;fk fēng;ji mǐ;ba léi;yt	1
+颱風鳳凰	tái;fk fēng;ji fèng;jn huáng;jw	1
+颱風彩雲	tái;fk fēng;ji cǎi;vp yún;yy	1
+颱風蠍虎	tái;fk fēng;ji xiē;iq hǔ;hj	1
+颱風布拉萬	tái;fk fēng;ji bù;uj lā;fl wàn;cd	1
+颱風帕布	tái;fk fēng;ji pà;jb bù;uj	1
+颱風蝴蝶	tái;fk fēng;ji hú;io dié;ia	1
+颱風梅花	tái;fk fēng;ji méi;am huā;cb	1
+颱風傑拉華	tái;fk fēng;ji jié;ra lā;fl huá;cf	1
+颱風聖帕	tái;fk fēng;ji shèng;ew pà;jb	1
+颱風苗柏	tái;fk fēng;ji miáo;ct bǎi;ab	1
+颱風森拉克	tái;fk fēng;ji sēn;aa lā;fl kè;ux,ge	1
+颱風尼伯特	tái;fk fēng;ji ní;ub bó;rb tè;nc	1
+颱風南瑪都	tái;fk fēng;ji nán;ug mǎ;wm dū;le	1
+颱風丹娜絲	tái;fk fēng;ji dān;kd nà;ne sī;sx	1
+颱風黑格比	tái;fk fēng;ji hēi;lh gé;ak bǐ;bb	1
+颱風盧碧	tái;fk fēng;ji lú;hm bì;wu	1
+颱風塔拉斯	tái;fk fēng;ji tǎ;tk lā;fl sī;ct	1
+颱風格美	tái;fk fēng;ji gé;ak měi;yd	1
+颱風百合	tái;fk fēng;ji bǎi;ab hé;rk	1
+颱風薔薇	tái;fk fēng;ji qiáng;ck wēi;cj	1
+颱風派比安	tái;fk fēng;ji pài;dy bǐ;bb ān;bn	1
+颱風韋帕	tái;fk fēng;ji wéi;wf pà;jb	1
+颱風米克拉	tái;fk fēng;ji mǐ;ba kè;ux,ge lā;fl	1
+颱風妮妲	tái;fk fēng;ji nī;nb dá;nd	1
+颱風玫瑰	tái;fk fēng;ji méi;ww gui;wg	1
+颱風瑪莉亞	tái;fk fēng;ji mǎ;wm lì;cd yà;aa	1
+颱風范斯高	tái;fk fēng;ji fàn;cv sī;ct gāo;wk	1
+颱風海高斯	tái;fk fēng;ji hǎi;dm gāo;wk sī;ct	1
+颱風奧麥斯	tái;fk fēng;ji ào;pd mài;lw sī;ct	1
+颱風洛克	tái;fk fēng;ji luò;dk kè;ux,ge	1
+颱風巴威	tái;fk fēng;ji bā;sl wēi;gn	1
+颱風桑卡	tái;fk fēng;ji sāng;ya kǎ;ub	1
+颱風羅莎	tái;fk fēng;ji luó;sv shā;cu	1
+颱風美莎克	tái;fk fēng;ji měi;yd shā;cu kè;ux,ge	1
+颱風燦都	tái;fk fēng;ji càn;hm dōu;le	1
+颱風納沙	tái;fk fēng;ji nà;sn shā;du	1
+颱風悟空	tái;fk fēng;ji wù;xk kōng;bg	1
+颱風海神	tái;fk fēng;ji hǎi;dm shén;pu	1
+颱風電母	tái;fk fēng;ji diàn;yd mǔ;md	1
+颱風海棠	tái;fk fēng;ji hǎi;dm táng;xa	1
+颱風楊柳	tái;fk fēng;ji yáng;aw liǔ;ae	1
+颱風蒲公英	tái;fk fēng;ji pú;cf gōng;bs yīng;cy	1
+颱風珊珊	tái;fk fēng;ji shān;wc shān;wc	1
+颱風玲玲	tái;fk fēng;ji líng;ws líng;ws	1
+颱風榕樹	tái;fk fēng;ji róng;ag shù;ac	1
+颱風劍魚	tái;fk fēng;ji jiàn;rd yú;dh	1
+颱風鯨魚	tái;fk fēng;ji jīng;yx yú;dh	1
+颱風燦鴻	tái;fk fēng;ji càn;hm hóng;dn	1
+颱風南川	tái;fk fēng;ji nán;ug chuān;pl	1
+颱風貝碧嘉	tái;fk fēng;ji bèi;ob bì;wu jiā;tk	1
+颱風瑪瑙	tái;fk fēng;ji mǎ;wm nǎo;wx	1
+颱風珊瑚	tái;fk fēng;ji shān;wc hú;wo	1
+颱風塔巴	tái;fk fēng;ji tǎ;tk bā;sl	1
+颱風浪卡	tái;fk fēng;ji làng;dl kǎ;ub	1
+颱風瑪娃	tái;fk fēng;ji mǎ;wm wá;nt	1
+颱風蘇力	tái;fk fēng;ji sū;ch lì;vp	1
+颱風米娜	tái;fk fēng;ji mǐ;ba nà;ne	1
+颱風古超	tái;fk fēng;ji gǔ;uk chāo;tk	1
+颱風西馬侖	tái;fk fēng;ji xī;ak,wk mǎ;mh lún;rc	1
+颱風泰利	tái;fk fēng;ji tài;iu lì;hd	1
+颱風浣熊	tái;fk fēng;ji huàn;dy xióng;sh	1
+颱風暹芭	tái;fk fēng;ji xiān;zv bā;cb	1
+颱風卡努	tái;fk fēng;ji kǎ;ub nǔ;nl	1
+颱風艾濤	tái;fk fēng;ji ài;cx tāo;dc	1
+颱風夏浪	tái;fk fēng;ji xià;bw làng;dl	1
+颱風桑達	tái;fk fēng;ji sāng;ya dá;zy	1
+#2000年以來除名
+颱風高基	tái;fk fēng;ji gāo;wk jī;ct	1
+颱風翠絲	tái;fk fēng;ji cuì;xu sī;sx	1
+颱風天馬	tái;fk fēng;ji tiān;ad mǎ;mh	1
+颱風銀杏	tái;fk fēng;ji yín;jg xìng;ak	1
+颱風木蘭	tái;fk fēng;ji mù;ur lán;cj	1
+颱風簡古維	tái;fk fēng;ji jiǎn;vo gǔ;uk wéi;sv	1
+颱風舒力基	tái;fk fēng;ji shū;ry lì;vp jī;ct	1
+颱風鴛鴦	tái;fk fēng;ji yuān;xn yāng;yn	1
+颱風點心	tái;fk fēng;ji diǎn;lv xīn;dd	1
+颱風青馬	tái;fk fēng;ji qīng;fo mǎ;mh	1
+颱風小犬	tái;fk fēng;ji xiǎo;lb quǎn;dd	1
+颱風希比	tái;fk fēng;ji xī;xj bǐ;bb	1
+颱風天琴	tái;fk fēng;ji tiān;ad qín;wv	1
+颱風小熊	tái;fk fēng;ji xiǎo;lb xióng;sh	1
+颱風洛鞍	tái;fk fēng;ji luò;dk ān;cn	1
+颱風薔琵	tái;fk fēng;ji qiáng;ck pí;wb	1
+颱風坡鹿	tái;fk fēng;ji pō;tp lù;gb	1
+颱風三巴	tái;fk fēng;ji sān;ae bā;sl	1
+颱風西望洋	tái;fk fēng;ji xī;ak,wk wàng;ww yáng;dy	1
+颱風煙花	tái;fk fēng;ji yān;ht huā;cb	1
+颱風鸚鵡	tái;fk fēng;ji yīng;bn wǔ;gn	1
+颱風查帕卡	tái;fk fēng;ji chá;ad pà;jb kǎ;ub	1
+颱風蒂魯	tái;fk fēng;ji dì;cj lǔ;yo	1
+颱風木恩	tái;fk fēng;ji mù;ur ēn;yx	1
+颱風馬力斯	tái;fk fēng;ji mǎ;mh lì;vp sī;ct	1
+颱風銀河	tái;fk fēng;ji yín;jg hé;dk	1
+颱風核桃	tái;fk fēng;ji hé;ar tao;av	1
+颱風山神	tái;fk fēng;ji shān;kl shén;pu	1
+颱風竹節草	tái;fk fēng;ji zhú;gg jié;ve cǎo;cu	1
+颱風浮蓮	tái;fk fēng;ji fú;dz lián;ci	1
+颱風安比	tái;fk fēng;ji ān;bn bǐ;bb	1
+颱風白鹿	tái;fk fēng;ji bái;po lù;gb	1
+颱風雲雀	tái;fk fēng;ji yún;yy què;xv	1
+颱風紅霞	tái;fk fēng;ji hóng;sg xiá;yy	1
+颱風蜻蜓	tái;fk fēng;ji qīng;io tíng;iw	1
+颱風白海豚	tái;fk fēng;ji bái;po hǎi;dm tún;ou	1
+颱風獅子山	tái;fk fēng;ji shī;qj zi;la shān;kl	1
+颱風船尾	tái;fk fēng;ji chuán;vk wěi;um	1
+颱風道璣	tái;fk fēng;ji dào;zz jī;wr	1
+颱風山貓	tái;fk fēng;ji shān;kl māo;vt	1
+颱風麗琵	tái;fk fēng;ji lì;lb pí;wb	1
+颱風藍湖	tái;fk fēng;ji lán;cm hú;do	1
+颱風帕卡	tái;fk fēng;ji pà;jb kǎ;ub	1
+颱風琵琶	tái;fk fēng;ji pí;wb pá;wb	1
+颱風琵鷺	tái;fk fēng;ji pí;wb lù;zn	1
+颱風普拉桑	tái;fk fēng;ji pǔ;bo lā;fl sāng;ya	1
+颱風妮亞圖	tái;fk fēng;ji nī;nb yà;aa tú;wk	1
+颱風沙德爾	tái;fk fēng;ji shā;du dé;rx ěr;ab	1
+颱風沙布爾	tái;fk fēng;ji shā;du bù;uj ěr;ab	1
+颱風樺加沙	tái;fk fēng;ji huà;af jiā;lk shā;du	1
+颱風紫檀	tái;fk fēng;ji zǐ;vx tán;ad	1
+颱風阿穆丘	tái;fk fēng;ji ā;ek mù;hp qiū;ia	1
+颱風娜尼	tái;fk fēng;ji nà;ne ní;ub	1
+颱風簡拉維	tái;fk fēng;ji jiǎn;vo lā;fl wéi;sv	1
+颱風古莎莉	tái;fk fēng;ji gǔ;uk shā;cu lì;cd	1
+颱風布裏	tái;fk fēng;ji bù;uj lǐ;yl	1
+颱風布拉帕	tái;fk fēng;ji bù;uj lā;fl pà;jb	1
+颱風博羅依	tái;fk fēng;ji bó;uc luó;sv yī;ry	1
+颱風艾莎尼	tái;fk fēng;ji ài;cx shā;cu ní;ub	1
+颱風百里嘉	tái;fk fēng;ji bǎi;ab lǐ;tt jiā;tk	1
+颱風麥德姆	tái;fk fēng;ji mài;lw dé;rx mǔ;nm	1
+颱風艾利	tái;fk fēng;ji ài;cx lì;hd	1
+颱風蘭恩	tái;fk fēng;ji lán;cj ēn;yx	1
+颱風花斑	tái;fk fēng;ji huā;cb bān;ww	1
+颱風班朗	tái;fk fēng;ji bān;wl lǎng;lo	1
+颱風海星	tái;fk fēng;ji hǎi;dm xīng;ou	1
+颱風翰文	tái;fk fēng;ji hàn;ux wén;wx	1
+颱風莫拉克	tái;fk fēng;ji mò;cd lā;fl kè;ux,ge	1
+颱風莎莉嘉	tái;fk fēng;ji shā;cu lì;cd jiā;tk	1
+颱風庫都	tái;fk fēng;ji kù;gi dōu;le	1
+颱風天鴿	tái;fk fēng;ji tiān;ad gē;rn	1
+颱風查特安	tái;fk fēng;ji chá;ad tè;nc ān;bn	1
+颱風啟德	tái;fk fēng;ji qǐ;hw dé;rx	1
+颱風伊布都	tái;fk fēng;ji yī;ry bù;uj dōu;le	1
+颱風莫拉菲	tái;fk fēng;ji mò;cd lā;fl fēi;cf	1
+颱風天秤	tái;fk fēng;ji tiān;ad chèng;hp	1
+颱風鹿莎	tái;fk fēng;ji lù;gb shā;cu	1
+颱風山竹	tái;fk fēng;ji shān;kl zhú;gg	1
+颱風山陀兒	tái;fk fēng;ji shān;kl tuó;eb ér;je	1
+颱風畫眉	tái;fk fēng;ji huà;ya méi;uo	1
+颱風溫比亞	tái;fk fēng;ji wēn;dm bǐ;bb yà;aa	1
+颱風鳴蟬	tái;fk fēng;ji míng;kn chán;iu	1
+颱風彩虹	tái;fk fēng;ji cǎi;vp hóng;ig	1
+颱風法茜	tái;fk fēng;ji fǎ;dq qiàn;cx	1
+颱風鳳仙	tái;fk fēng;ji fèng;jn xiān;ru	1
+颱風海貝思	tái;fk fēng;ji hǎi;dm bèi;ob sī;tx	1
+颱風雲娜	tái;fk fēng;ji yún;yy nà;ne	1
+颱風凡亞比	tái;fk fēng;ji fán;jd yà;aa bǐ;bb	1
+颱風北冕	tái;fk fēng;ji běi;lb miǎn;oe	1
+颱風蘇特	tái;fk fēng;ji sū;ch tè;nc	1
+颱風利奇馬	tái;fk fēng;ji lì;hd qí;dk mǎ;mh	1
+颱風婷婷	tái;fk fēng;ji tíng;nd tíng;nd	1
+颱風巴蓬	tái;fk fēng;ji bā;sl péng;cf	1
+颱風欣欣	tái;fk fēng;ji xīn;iq xīn;iq	1
+颱風玉兔	tái;fk fēng;ji yù;wd tù;dd	1
+颱風龍王	tái;fk fēng;ji lóng;lv wáng;at	1
+颱風海葵	tái;fk fēng;ji hǎi;dm kuí;ct	1
+颱風天鵝	tái;fk fēng;ji tiān;ad é;wn	1
+颱風麥莎	tái;fk fēng;ji mài;lw shā;cu	1
+颱風蓮花	tái;fk fēng;ji lián;ci huā;cb	1
+颱風彩蝶	tái;fk fēng;ji cǎi;vp dié;ia	1
+颱風杜蘇芮	tái;fk fēng;ji dù;at sū;ch ruì;cn	1
+颱風碧利斯	tái;fk fēng;ji bì;wu lì;hd sī;ct	1
+颱風環高	tái;fk fēng;ji huán;wy gāo;wk	1
+颱風珍珠	tái;fk fēng;ji zhēn;wp zhū;ww	1
+颱風黃蜂	tái;fk fēng;ji huáng;cb fēng;if	1
+颱風榴蓮	tái;fk fēng;ji liú;at lián;ci	1
+颱風康森	tái;fk fēng;ji kāng;gl sēn;aa	1
+颱風桑美	tái;fk fēng;ji sāng;ya měi;yd	1
+颱風軒嵐諾	tái;fk fēng;ji xuān;ig lán;uf nuò;yk	1
+颱風象神	tái;fk fēng;ji xiàng;du shén;pu	1
+颱風圓規	tái;fk fēng;ji yuán;wb guī;fj	1
+颱風凱薩娜	tái;fk fēng;ji kǎi;uj sà;cu nà;ne	1
+颱風馬鞍	tái;fk fēng;ji mǎ;mh ān;cn	1
+颱風馬勒卡	tái;fk fēng;ji mǎ;mh lè;cl kǎ;ub	1
+颱風芭瑪	tái;fk fēng;ji bā;cb mǎ;wm	1
+颱風鮎魚	tái;fk fēng;ji nián;yv yú;dh	1
+颱風雷伊	tái;fk fēng;ji léi;yt yī;ry	1
+颱風尼格	tái;fk fēng;ji ní;ub gé;ak	1
+颱風天鷹	tái;fk fēng;ji tiān;ad yīng;gn	1
+颱風奧鹿	tái;fk fēng;ji ào;pd lù;gb	1
+颱風寶霞	tái;fk fēng;ji bǎo;bb xiá;yy	1
+颱風菲特	tái;fk fēng;ji fēi;cf tè;nc	1
+颱風海燕	tái;fk fēng;ji hǎi;dm yàn;ch	1
+颱風清松	tái;fk fēng;ji qīng;do sōng;ag	1
+颱風蘇拉	tái;fk fēng;ji sū;ch lā;fl	1
+颱風尤特	tái;fk fēng;ji yóu;yd tè;nc	1
+颱風艾雲尼	tái;fk fēng;ji ài;cx yún;yy ní;ub	1
+颱風韋森特	tái;fk fēng;ji wéi;wf sēn;aa tè;nc	1
+颱風飛燕	tái;fk fēng;ji fēi;fc yàn;ch	1
+颱風威馬遜	tái;fk fēng;ji wēi;gn mǎ;mh xùn;zx	1
+颱風康妮	tái;fk fēng;ji kāng;gl nī;nb	1
+颱風巨爵	tái;fk fēng;ji jù;kk jué;vc	1
+颱風茉莉	tái;fk fēng;ji mò;cw lì;cd	1
+颱風萬宜	tái;fk fēng;ji wàn;cd yí;bq	1
+颱風桃芝	tái;fk fēng;ji táo;av zhī;cv	1
+颱風蘇迪羅	tái;fk fēng;ji sū;ch dí;zy luó;sv	1
+颱風潭美	tái;fk fēng;ji tán;du měi;yd	1
+颱風海馬	tái;fk fēng;ji hǎi;dm mǎ;mh	1
+颱風天兔	tái;fk fēng;ji tiān;ad tù;dd	1
+颱風莫蘭蒂	tái;fk fēng;ji mò;cd lán;cj dì;cj	1
+颱風摩羯	tái;fk fēng;ji mó;gu jié;yr	1
+颱風洛坦	tái;fk fēng;ji luò;dk tǎn;td	1
