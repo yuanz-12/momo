@@ -2661,7 +2661,6 @@ sort: by_weight
 鸲鹟	qú;jn wēng;gn	92
 鼩鼹	qú;jj yǎn;jn	90
 鸲莺	qú;jn yīng;cn	96
-拳参	quán;ju cān;sp	75
 犬蝠	quǎn;dd fú;it	54
 泉鳉	quán;bu jiāng;yc	63
 全蠊	quán;rw lián;ij	53
@@ -2670,6 +2669,7 @@ sort: by_weight
 拳螺	quán;ju luó;ix	63
 蜷螺	quán;iv luó;ix	58
 泉七	quán;bu qī;av	59
+拳参	quán;ju shēn;sp	75
 拳蟹	quán;ju xiè;di	53
 犬熊	quǎn;dd xióng;sh	86
 泉蝇	quán;bu yíng;id	57
@@ -21086,6 +21086,7 @@ sort: by_weight
 大玻璃草	dà;ar bō;wp li;wn cǎo;cu	1
 大波斯菊	dà;ar bō;dp sī;ct jú;cm	1
 大波纹蛾	dà;ar bō;dp wén;sw é;iw	1
+大长尾鼩	dà;ar cháng;pn wěi;um qú;jj	1
 大车前草	dà;ar chē;au qián;bd cǎo;cu	1
 大翅环蝶	dà;ar chì;vx huán;wb dié;ia	1
 大窗钩蛾	dà;ar chuāng;bw gōu;jg é;iw	1
@@ -21328,7 +21329,6 @@ sort: by_weight
 大圆盾菌	dà;ar yuán;wb dùn;io jūn;ch	1
 大渊鼬鳚	dà;ar yuān;dm yòu;jy wèi;yc	1
 大窄颈螳	dà;ar zhǎi;bv jǐng;jy táng;it	1
-大长尾鼩	dà;ar zhǎng;pn wěi;um qú;jj	1
 大震旦介	dà;ar zhèn;yi dàn;oa jiè;rl	1
 大针苔草	dà;ar zhēn;ju tái;ck cǎo;cu	1
 大趾鼬鳚	dà;ar zhǐ;zv yòu;jy wèi;yc	1
@@ -33401,6 +33401,7 @@ sort: by_weight
 大鼻丽脂鲤	dà;ar bí;zw lì;ad zhī;oo lǐ;yl	1
 大鼻南乳鱼	dà;ar bí;zw nán;ug rǔ;vv yú;da	1
 大鼻软口鱼	dà;ar bí;zw ruǎn;iq kǒu;la yú;da	1
+大长舌果蝠	dà;ar cháng;pn shé;qk guǒ;ta fú;it	1
 大齿慈脂鲤	dà;ar chǐ;vr cí;bx zhī;oo lǐ;yl	1
 大齿底潜鱼	dà;ar chǐ;vr dǐ;gu qián;do yú;da	1
 大齿管吻鲶	dà;ar chǐ;vr guǎn;vl wěn;kw nián;yx	1
@@ -33763,7 +33764,6 @@ sort: by_weight
 大鱼带小鱼	dà;ar yú;da dài;cj xiǎo;lb yú;da	1
 大圆颌针鱼	dà;ar yuán;wb hé;ry zhēn;ju yú;da	1
 大猿金花虫	dà;ar yuán;qy jīn;rb huā;cb chóng;vd	1
-大长舌果蝠	dà;ar zhǎng;pn shé;qk guǒ;ta fú;it	1
 大智与木鱼	dà;ar zhì;uo yǔ;va mù;ur yú;da	1
 大众甲壳虫	dà;ar zhòng;rr jiǎ;ol,tl ké;tj chóng;vd	1
 大嘴黑口鱼	dà;ar zuǐ;ky hēi;lh kǒu;la yú;da	1
