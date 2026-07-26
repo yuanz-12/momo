@@ -7136,6 +7136,7 @@ hǎi yú zhèn	海虞鎮
 hǎi yuán xiàn	海原縣
 hǎi yuān zhèn	海淵鎮
 hǎi zhōu qū	海州區
+hài zhōu zhèn	解州鎮
 hǎi zhū qū	海珠區
 hǎi zǐ xiāng	海子鄉
 hǎi zǐ zhèn	海子鎮
@@ -15474,7 +15475,7 @@ pì dōng xiāng	淠東鄉
 pí dū qū	郫都區
 pí lú zhèn	毗盧鎮
 pí mǎ xiàn	皮馬縣
-pí pá zhèn	琵琶鎮
+pí pa zhèn	琵琶鎮
 pí shān xiàn	皮山縣
 pǐ sī bǎo	匹斯堡
 pí tè bǎo	皮特堡
@@ -22385,7 +22386,6 @@ xié xīng zhèn	協興鎮
 xié xióng xiāng	協雄鄉
 xiè yáng xiāng	謝洋鄉
 xiè zài zhàn	卸載站
-xiè zhōu zhèn	解州鎮
 xiè zhuāng zhèn	謝莊鎮
 xīn ān xiàn	新安縣
 xīn ān xiāng	新安鄉
@@ -31892,6 +31892,8 @@ dà chāng gǔ zhèn	大昌古鎮
 dà chāng hàn zhèn	大昌汗鎮
 dà chǎng jiē dào	大廠街道
 dà chǎng sān cūn	大廠三村
+dà cháng tíng cūn	大長亭村
+dà cháng tún zhàn	大長屯站
 dà cháo yáng cūn	大朝陽村
 dà chē xíng cūn	大車行村
 dà chén gè zhuāng	大陳各莊
@@ -32813,8 +32815,6 @@ dà zhāng jiā cūn	大張家村
 dà zhāng jiā zhèn	大張家鎮
 dà zhāng lóu zhèn	大張樓鎮
 dà zhāng shān xiāng	大鄣山鄉
-dà zhǎng tíng cūn	大長亭村
-dà zhǎng tún zhàn	大長屯站
 dà zhāng wān cūn	大張灣村
 dà zhāng yíng cūn	大張營村
 dà zhāng zhuāng cūn	大張莊村
@@ -38925,6 +38925,7 @@ hǎi zé tān xiāng	海則灘鄉
 hǎi zé tān zhèn	海則灘鎮
 hǎi zhōu jiē dào	海州街道
 hǎi zhōu jiē dào	海洲街道
+hài zhōu yíng cūn	解州營村
 hǎi zhuàng jiē dào	海幢街道
 hǎi zǐ gōu cūn	海子溝村
 hǎi zǐ gōu xiāng	海子溝鄉
@@ -52036,14 +52037,14 @@ pí lā lì xiāng	皮拉力鄉
 pǐ lín sī bǎo	匹林斯堡
 pì lǜ xīn cūn	淠綠新村
 pí pá dòng cūn	枇杷洞村
-pí pá gōu cūn	琵琶溝村
+pí pa gōu cūn	琵琶溝村
 pí pá gōu cūn	枇杷溝村
-pí pá jiē dào	琵琶街道
-pí pá sì cūn	琵琶寺村
+pí pa jiē dào	琵琶街道
+pí pa sì cūn	琵琶寺村
 pí pá wān cūn	枇杷灣村
-pí pá yuán cūn	琵琶垣村
-pí pá zhài cūn	琵琶寨村
-pí pá zuǐ cūn	琵琶嘴村
+pí pa yuán cūn	琵琶垣村
+pí pa zhài cūn	琵琶寨村
+pí pa zuǐ cūn	琵琶嘴村
 pí pó tún cūn	皮婆屯村
 pī shān jiē dào	伾山街道
 pí shí gài cūn	皮什蓋村
@@ -65491,7 +65492,6 @@ xiè wū cí xiāng	謝烏茨鄉
 xiè xīn zhuāng cūn	謝辛莊村
 xiè yáng shè qū	渫陽社區
 xié yún èr zhuāng	擷雲二莊
-xiè zhōu yíng cūn	解州營村
 xiē zi miào cūn	蠍子廟村
 xiē zi shān cūn	蠍子山村
 xīn ài lǐ cūn	新艾里村

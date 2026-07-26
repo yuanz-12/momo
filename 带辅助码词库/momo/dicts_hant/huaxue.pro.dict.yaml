@@ -1751,7 +1751,17 @@ sort: by_weight
 異丙苯	yì;tg bǐng;an běn;cb	9
 乙醇鈮	yǐ;vv chún;yz ní;jb	144
 乙醇鉭	yǐ;vv chún;yz tǎn;jd	220
+異丁胺	yì;tg dīng;al àn;on	243
 異丁苯	yì;tg dīng;al běn;cb	338
+異丁醇	yì;tg dīng;al chún;yz	6
+異丁基	yì;tg dīng;al jī;ct	423
+異丁腈	yì;tg dīng;al jīng;oo	324
+異丁醛	yì;tg dīng;al quán;yw	252
+異丁酸	yì;tg dīng;al suān;yw	423
+乙丁酮	yǐ;vv dīng;al tóng;yk	45
+異丁烷	yì;tg dīng;al wán;hy	353
+異丁烯	yì;tg dīng;al xī;hj	25
+異丁酯	yì;tg dīng;al zhǐ;yo	327
 銥鋨礦	yī;jy é;jw kuàng;ub	45
 銥海綿	yī;jy hǎi;dm mián;sj	45
 乙基苯	yǐ;vv jī;ct běn;cb	400
@@ -2640,7 +2650,13 @@ sort: by_weight
 氟氯菊酯	fú;qf lǜ;qu jú;cm zhǐ;yo	4
 氟氯黴素	fú;qf lǜ;qu méi;rh sù;fx	50
 氟氯鉛礦	fú;qf lǜ;qu qiān;jk kuàng;ub	4
+氟鋁石膏	fú;qf lǚ;jk shí;ak gāo;wo	144
 氟氯舒松	fú;qf lǜ;qu shū;ry sōng;ag	45
+氟鋁酸銨	fú;qf lǚ;jk suān;yw ǎn;jn	76
+氟鋁酸鈣	fú;qf lǚ;jk suān;yw gài;jg	45
+氟鋁酸鉀	fú;qf lǚ;jk suān;yw jiǎ;jj	50
+氟鋁酸鈉	fú;qf lǚ;jk suān;yw nà;jn	189
+氟鋁酸鹽	fú;qf lǚ;jk suān;yw yán;im	99
 氟氯西林	fú;qf lǜ;qu xī;ak,wk lín;aa	248
 氟氯乙烷	fú;qf lǜ;qu yǐ;vv wán;hy	99
 富馬酰氯	fù;bt mǎ;mh xiān;ye lǜ;qu	76
@@ -2853,6 +2869,11 @@ sort: by_weight
 還原鎢粉	huán;zy yuán;ix wū;jh fěn;mf	4
 磺胺苯酰	huáng;ub àn;on běn;cb xiān;ye	45
 黃鋇鈾礦	huáng;cb bèi;jb yóu;jy kuàng;ub	45
+黃腐酸鉀	huáng;cb fǔ;gr suān;yw jiǎ;jj	117
+黃腐酸鈉	huáng;cb fǔ;gr suān;yw nà;jn	45
+黃腐質酸	huáng;cb fǔ;gr zhì;ib suān;yw	4
+黃腐植酸	huáng;cb fǔ;gr zhí;aq suān;yw	3
+黃苷磷酸	huáng;cb gān;cg lín;uf suān;yw	45
 磺基苯酸	huáng;ub jī;ct běn;cb suān;yw	45
 黃菱鈾礦	huáng;cb líng;cw yóu;jy kuàng;ub	45
 黃榴砷礦	huáng;cb liú;at shēn;uu kuàng;ub	45
@@ -4480,7 +4501,18 @@ sort: by_weight
 乙叉二氯	yǐ;vv chā;yd èr;aa lǜ;qu	45
 乙醇酰氯	yǐ;vv chún;yz xiān;ye lǜ;qu	45
 一氮化鈾	yī;aa dàn;qh huà;rb yóu;jy	153
+異丁醇鋁	yì;tg dīng;al chún;yz lǚ;jk	45
+異丁基醚	yì;tg dīng;al jī;ct mí;ym	144
+異丁硫醇	yì;tg dīng;al liú;ui chún;yz	4
+異丁司特	yì;tg dīng;al sī;vk tè;nc	162
+異丁酸酐	yì;tg dīng;al suān;yw gān;yg	45
+異丁酸鋰	yì;tg dīng;al suān;yw lǐ;jl	45
+異丁酸酯	yì;tg dīng;al suān;yw zhǐ;yo	117
+異丁烯腈	yì;tg dīng;al xī;hj jīng;oo	45
+異丁烯醛	yì;tg dīng;al xī;hj quán;yw	4
+異丁烯酸	yì;tg dīng;al xī;hj suān;yw	162
 異丁酰氯	yì;tg dīng;al xiān;ye lǜ;qu	45
+異丁橡膠	yì;tg dīng;al xiàng;au jiāo;op	99
 乙二胺類	yǐ;vv èr;aa àn;on lèi;my	117
 乙二醇類	yǐ;vv èr;aa chún;yz lèi;my	153
 乙二醇銻	yǐ;vv èr;aa chún;yz tī;jd	45
@@ -4505,6 +4537,7 @@ sort: by_weight
 釔褐簾石	yǐ;jv hè;pr lián;vj shí;ak	45
 釔褐榴石	yǐ;jv hè;pr liú;at shí;ak	45
 銥化合物	yī;jy huà;rb hé;rk wù;nw	171
+異黃樟素	yì;tg huáng;cb zhāng;au sù;fx	230
 乙基苯胺	yǐ;vv jī;ct běn;cb àn;on	162
 乙基溴苯	yǐ;vv jī;ct xiù;dq běn;cb	45
 一磷化鈾	yī;aa lín;uf huà;rb yóu;jy	117

@@ -2652,7 +2652,6 @@ qú wèi	鼩蝟
 qú wēng	鴝鶲
 qú yǎn	鼩鼴
 qú yīng	鴝鶯
-quán cān	拳參
 quǎn fú	犬蝠
 quán jiāng	泉鱂
 quán lián	全蠊
@@ -2661,6 +2660,7 @@ quǎn líng	犬羚
 quán luó	拳螺
 quán luó	蜷螺
 quán qī	泉七
+quán shēn	拳參
 quán xiè	拳蟹
 quǎn xióng	犬熊
 quán yíng	泉蠅
@@ -4426,6 +4426,7 @@ zuǒ píng	左鮃
 ā bù há	阿布蛤
 ā dīng fēng	阿丁楓
 ā dōng yú	阿東魚
+ā fú huā	阿福花
 ā guǒ yíng	阿果蠅
 ā lì yíng	阿麗蠅
 ā lǐ yú	阿里魚
@@ -4635,6 +4636,7 @@ bā rè yuán	巴熱螈
 bā ruǐ shù	八蕊樹
 bā sè dōng	八色鶇
 bā shān lóng	巴山龍
+bā shì jūn	巴氏菌
 bā shǔ lóng	巴蜀龍
 bā tǎ cháng	巴塔鱨
 bā wàn shāo	八腕蛸
@@ -5035,6 +5037,7 @@ bāo shí zǎo	孢石藻
 bào shù lián	抱樹蓮
 báo shuò cǎo	薄蒴草
 bào tè jūn	鮑特菌
+bāo tè jūn	包特菌
 báo tī luó	薄梯螺
 bào tiào zhū	豹跳蛛
 bǎo tíng huā	保亭花
@@ -6414,6 +6417,7 @@ dà mǐ cǎo	大米草
 dà míng hé	大茗荷
 dà míng zhú	大明竹
 dá mó shā	達摩鯊
+dà mù xī	大暮蜥
 dà nán shé	大南蛇
 dà nòng dié	大弄蝶
 dà pán yìn	大盤䲟
@@ -6676,6 +6680,7 @@ dé wén gé	德文蛤
 dé yè é	德夜蛾
 dèng bó huā	鄧伯花
 děng cǎi yíng	等彩蠅
+děng chēng chóng	等稱蟲
 děng cì chóng	等刺蟲
 dēng é yà	燈蛾亞
 děng jí chóng	等棘蟲
@@ -7478,6 +7483,7 @@ fēi jiá dié	菲蛺蝶
 fēi jiǎo yú	飛角魚
 fèi jīn cǎo	肺筋草
 féi jù lán	肥距蘭
+fēi jūn mò	非君莫
 fèi kǎi xiā	費鎧蝦
 fēi lì yú	緋麗魚
 féi niú mù	肥牛木
@@ -8074,6 +8080,7 @@ gǔ chuí cǎo	鼓槌草
 gù chún lán	固脣蘭
 gǔ dài lóng	古代龍
 gū dāi yú	咕呆魚
+gù dàn jūn	固氮菌
 gǔ dào chóng	谷盜蟲
 gǔ dǐng jī	骨頂雞
 gǔ dú é	古毒蛾
@@ -9970,6 +9977,7 @@ jiāo bāo ké	蕉孢殼
 jiǎo bí lóng	角鼻龍
 jiǎo biǎn yá	角扁蚜
 jiǎo chā cài	角叉菜
+jiǎo chā lái	角叉萊
 jiāo chán yú	礁蟾魚
 jiǎo chǐ é	角尺蛾
 jiāo chǐ jīng	鮫齒鯨
@@ -11655,6 +11663,7 @@ lóng xī xiè	龍溪蟹
 lóng xì zhū	龍隙蛛
 lóng xiàn chóng	龍線蟲
 lóng xiě shù	龍血樹
+lóng xīng yún	龍興雲
 lóng xū cài	龍鬚菜
 lóng xū lán	龍鬚蘭
 lóng yá cǎo	龍牙草
@@ -11704,6 +11713,7 @@ lú kěn lóng	盧肯龍
 lú lì cǎo	蘆莉草
 lù liè xī	陸鬣蜥
 lú màn méi	盧曼黴
+lú mò lóng	盧默龍
 lǔ mò yú	滷墨魚
 lù mù bèi	祿目貝
 lù róng cǎo	鹿茸草
@@ -12073,6 +12083,7 @@ màn lóng dǎn	蔓龍膽
 màn lǜ róng	蔓綠絨
 màn máng chūn	曼盲蝽
 màn máo ké	蔓毛殼
+mán qián yú	鰻潛魚
 màn shé mán	蔓蛇鰻
 màn shé wěi	蔓蛇尾
 màn tái é	漫苔蛾
@@ -12314,6 +12325,7 @@ méi gōng yī	梅蚣衣
 méi gōng yú	湄公魚
 měi gōu é	美鉤蛾
 měi guān lán	美冠蘭
+méi guān què	煤冠雀
 měi guān wèi	美冠䲁
 méi gui mù	玫瑰木
 méi gui shù	玫瑰樹
@@ -12367,6 +12379,7 @@ měi shū yù	美梳芋
 méi shuā jué	眉刷蕨
 měi suí mǎn	美綏蟎
 měi tái é	美苔蛾
+méi tái jūn	煤炱菌
 měi tiě yù	美鐵芋
 méi tóng yú	梅童魚
 méi wǎng é	黴網蛾
@@ -12566,6 +12579,7 @@ mò xué zhū	墨穴蛛
 mò yá yíng	墨蚜蠅
 mò yè é	陌夜蛾
 mó yè é	膜夜蛾
+mò zhǐ chóng	墨指蟲
 mó zhī lǐ	磨脂鯉
 mò zǐ yú	魩仔魚
 mó zuò méi	膜座黴
@@ -13283,12 +13297,12 @@ pī máo xī	披毛犀
 pī máo yà	披毛亞
 pí mó mǎn	皮膜蟎
 pí nòng dié	琵弄蝶
-pí pá chái	琵琶柴
-pí pá luó	琵琶螺
+pí pa chái	琵琶柴
+pí pa luó	琵琶螺
 pí pá luó	枇杷螺
-pí pá nián	琵琶鯰
-pí pá xiè	琵琶蟹
-pí pá yú	琵琶魚
+pí pa nián	琵琶鯰
+pí pa xiè	琵琶蟹
+pí pa yú	琵琶魚
 pí pán jūn	皮盤菌
 pí sūn mù	皮孫木
 pí tiào jiǎ	皮跳甲
@@ -13587,6 +13601,7 @@ qiān kǒng xī	千孔螅
 qián léng xī	前棱蜥
 qiān lǐ guāng	千里光
 qián liè chūn	鉗獵蝽
+qián máo chóng	前毛蟲
 qián máo wén	前毛蚊
 qiān mǔ cǎo	千母草
 qiān nián jiàn	千年健
@@ -14597,6 +14612,7 @@ shén xiān yú	神仙魚
 shén xiāng cǎo	神香草
 shén xiāo dié	神綃蝶
 shèn yào lán	腎藥蘭
+shén yīng guī	神鷹龜
 shēn zǎo xiā	深藻蝦
 shén zhōu lóng	神州龍
 shén zhōu niǎo	神州鳥
@@ -15215,6 +15231,7 @@ sī fěn zǎo	絲粉藻
 sī fēn zhū	斯芬蛛
 sì fú huā	四福花
 sī gài sǎn	絲蓋傘
+sì gōu chóng	四鉤蟲
 sì gǔ zhào	似骨鮡
 sī guā xiǎn	絲瓜蘚
 sī guān niǎo	絲冠鳥
@@ -15224,6 +15241,7 @@ sì hé mù	四合木
 sì hú lóng	似鵠龍
 sì huán zǎo	四環藻
 sī huī xiǎn	絲灰蘚
+sì jí chóng	四棘蟲
 sì jī lóng	似雞龍
 sì jì xià	四季夏
 sì jí zǎo	四集藻
@@ -16116,6 +16134,7 @@ wěi xùn chóng	僞蕈蟲
 wěi xùn jiǎ	僞蕈甲
 wěi yào mù	尾藥木
 wèi yè chóng	胃葉蟲
+wěi yè chóng	尾葉蟲
 wěi yè é	尾夜蛾
 wěi yè é	委夜蛾
 wēi yè é	微夜蛾
@@ -18253,6 +18272,8 @@ yǒng bǐ luó	蛹筆螺
 yǒng cháo luó	蛹巢螺
 yǒng chuān lóng	永川龍
 yǒng jìng lóng	永靖龍
+yōng jūn yōng	擁軍擁
+yōng jūn yōu	擁軍優
 yǒng kāng yú	永康魚
 yǒng liè lóng	泳獵龍
 yǒng shì lóng	勇士龍
@@ -18508,6 +18529,7 @@ yuán jiá dié	圓蛺蝶
 yuǎn jiá dié	遠蛺蝶
 yuán jiǎ nián	原甲鯰
 yuán jiá wěi	原鋏尾
+yuán jiá yíng	圓莢螢
 yuán jiǎ zǎo	原甲藻
 yuán jiǎn xī	原瞼蜥
 yuán jiān xiǎn	圓尖蘚
@@ -18775,6 +18797,7 @@ zhāng kǒu luó	張口螺
 zhāng kǒu xiè	張口蟹
 zhǎng liè lán	掌裂蘭
 zhǎng lín shān	掌鱗杉
+zhǎng máo měng	長毛獴
 zhǎng mǔ lì	掌牡蠣
 zhǎng shàn bèi	掌扇貝
 zhàng shé qīng	杖蛇鯖
@@ -18886,6 +18909,7 @@ zhēn fáng fú	真魴鮄
 zhēn fáng téng	針房藤
 zhēn fěn dié	珍粉蝶
 zhēn fěn shī	針粉蝨
+zhēn fú yíng	真浮螢
 zhēn gǎn jūn	真桿菌
 zhēn gān zǎo	針杆藻
 zhēn gāng cān	真肛參
@@ -19112,6 +19136,8 @@ zhì zú zhū	櫛足蛛
 zhōng bǐng chóng	中柄蟲
 zhǒng bǐng jú	腫柄菊
 zhōng bō yú	中波魚
+zhōng cāng shǔ	中倉鼠
+zhōng chéng juàn	終成眷
 zhōng dài zǎo	中帶藻
 zhōng dùn zhū	中遁蛛
 zhōng è cǎo	鍾萼草
@@ -19841,6 +19867,7 @@ bā yuè jīng yú	八月鯨魚
 bā zhuǎ zhāng yú	八爪章魚
 bái ān kāng yú	白鮟鱇魚
 bái bā bào yú	白扒鮑魚
+bǎi bǎi ěr lóng	柏柏爾龍
 bái bān bì yú	白斑躄魚
 bái bān chì què	白斑翅雀
 bái bān gǒu yú	白斑狗魚
@@ -19910,6 +19937,7 @@ bái lín suō cǎo	白鱗莎草
 bái lín tái cǎo	白鱗苔草
 bái lìng láng yú	白令狼魚
 bái líng què qǔ	白翎雀曲
+bái lún dùn jiè	白輪盾蚧
 bái mǎ tóu yú	白馬頭魚
 bái máo dù juān	白毛杜鵑
 bái máo wū yā	白毛烏鴉
@@ -20244,12 +20272,14 @@ bì shān shàng lóng	璧山上龍
 bǐ shì wú shǔ	比氏鼯鼠
 bǐ sī bì hǔ	比斯壁虎
 bì tán guān yú	碧潭觀魚
+bì wěi lún chóng	臂尾輪蟲
 bǐ wěi shù qú	筆尾樹鼩
 bǐ wěi shù shǔ	筆尾樹鼠
 bí xī lóng yà	鼻蜥龍亞
 bí yān hé shù	鼻煙盒樹
 bí yán yá yíng	鼻顏蚜蠅
 biǎn bí lì yú	扁鼻麗魚
+biǎn bí qiáng lóng	扁鼻強龍
 biān bō wén é	邊波紋蛾
 biǎn chǐ zhōu é	扁齒舟蛾
 biān dǎ xiù qiú	鞭打繡球
@@ -20289,6 +20319,7 @@ biǎn wú gēn píng	扁無根萍
 biǎn xī jīn guī	扁犀金龜
 biǎn xiàn yóu nián	扁線油鯰
 biǎn yá hàn yú	扁牙漢魚
+biǎn yá qián yú	扁牙潛魚
 biǎn yàn chǐ yú	扁咽齒魚
 biǎn yān guǎn yú	扁煙管魚
 biǎn yǎn xiā hǔ	扁眼鰕虎
@@ -20331,6 +20362,7 @@ bìng qū jī fēng	並區姬蜂
 bīng xiā hǔ yú	冰鰕虎魚
 bǐng yǎn cháng chūn	柄眼長蝽
 bìng zhí xī chóng	併殖吸蟲
+bǐng zhì xiàn chóng	秉志線蟲
 bǐng zhuàng tái cǎo	柄狀苔草
 bō biān gé jūn	波邊革菌
 bō bō yú yú	啵啵魚魚
@@ -20982,6 +21014,7 @@ cì tū fēi shī	刺突飛蝨
 cì wěi fēi xī	刺尾飛蜥
 cì wěi fēng niǎo	刺尾蜂鳥
 cì wěi huī dié	刺尾灰蝶
+cì wéi jǐ bèi	刺圍脊貝
 cì wěi liè xī	刺尾鬣蜥
 cì wěi yǔ yàn	刺尾雨燕
 cì xiā hǔ yú	刺鰕虎魚
@@ -21022,6 +21055,7 @@ cū huì yīng wǔ	粗喙鸚鵡
 cū jí bí yú	粗棘鼻魚
 cū jí xī xián	粗棘蜥䲗
 cù jiāng huī dié	酢漿灰蝶
+cū jiǎo měng yǐ	粗角猛蟻
 cū jiǎo tiào jiǎ	粗角跳甲
 cū jiǎo yè jiǎ	粗角葉甲
 cū lèi jié luó	粗肋結螺
@@ -21077,6 +21111,7 @@ dà bǐ mù yú	大比目魚
 dà bō li cǎo	大玻璃草
 dà bō sī jú	大波斯菊
 dà bō wén é	大波紋蛾
+dà cháng wěi qú	大長尾鼩
 dà chē qián cǎo	大車前草
 dà chì huán dié	大翅環蝶
 dà chuāng gōu é	大窗鉤蛾
@@ -21319,7 +21354,6 @@ dà yǔ huā jiè	大羽花介
 dà yuán dùn jūn	大圓盾菌
 dà yuān yòu wèi	大淵鼬䲁
 dà zhǎi jǐng táng	大窄頸螳
-dà zhǎng wěi qú	大長尾鼩
 dà zhèn dàn jiè	大震旦介
 dà zhēn tái cǎo	大針苔草
 dà zhǐ yòu wèi	大趾鼬䲁
@@ -22014,6 +22048,7 @@ fěi xiǎo fēi yú	斐小飛魚
 fēi xiǎo juàn é	菲小卷蛾
 fēi zhōu ài hǔ	非洲艾虎
 fēi zhōu bá qiā	非洲菝葜
+fēi zhōu cóng jú	非洲叢鵙
 fēi zhōu dài shé	非洲帶蛇
 fēi zhōu dì dōng	非洲地鶇
 fēi zhōu dòu kòu	非洲豆蔻
@@ -22068,6 +22103,7 @@ fēi zhōu zhǎo shǔ	非洲沼鼠
 fēi zhōu zhì héng	非洲雉鴴
 fēi zhōu zhī lǐ	非洲脂鯉
 fěn bái yīng há	粉白櫻蛤
+fěn bān cóng jú	粉斑叢鵙
 fěn bāo gé jūn	粉孢革菌
 fěn bèi tái cǎo	粉被苔草
 fěn cuì liú é	粉翠瘤蛾
@@ -23278,10 +23314,18 @@ huáng dī xiàn yú	黃低線魚
 huáng dì zhāng yú	皇帝章魚
 huáng diǎn huí yú	黃點茴魚
 huáng dié chǐ é	黃蝶尺蛾
+huáng é xiào wēng	黃額嘯鶲
 huáng é yā què	黃額鴉雀
+huáng é yīng wǔ	黃額鸚鵡
 huáng ěr yīng gē	黃耳鸚哥
 huáng ěr yīng wǔ	黃耳鸚鵡
+huáng féi wěi xiē	黃肥尾蠍
 huáng fěn dié yà	黃粉蝶亞
+huáng fù gān shé	黃腹桿蛇
+huáng fù guān bēi	黃腹冠鵯
+huáng fù jiāo yīng	黃腹鷦鶯
+huáng fù jiǎo zhì	黃腹角雉
+huáng fù liǔ yīng	黃腹柳鶯
 huáng fù shān què	黃腹山雀
 huáng gōng jiá dié	黃肱蛺蝶
 huáng gōu gōu é	黃鉤鉤蛾
@@ -23548,6 +23592,7 @@ jǐ yè shèng jué	戟葉聖蕨
 jǐ yè shí wéi	戟葉石韋
 jǐ yè suān mó	戟葉酸模
 jǐ yè tái cǎo	戟葉苔草
+jí yè tāo chóng	棘葉絛蟲
 jí yín fǔ yú	棘銀斧魚
 jī yín hàn yú	基銀漢魚
 jī yīng gē yú	姬鸚哥魚
@@ -23677,6 +23722,7 @@ jiàn chāng yì lóng	建昌翼龍
 jiān chì huán dié	尖翅環蝶
 jiān chì jiá é	尖翅蛺蛾
 jiàn chǐ lì yú	劍齒麗魚
+jiān chì nòng dié	尖翅弄蝶
 jiān chì yàn yú	尖翅燕魚
 jiān chǐ zǐ yú	尖齒紫魚
 jiàn è chǐ yú	劍鱷齒魚
@@ -24148,6 +24194,7 @@ jūn pèi fēi shī	軍配飛蝨
 jūn wěi chǒu yú	軍委醜魚
 jūn zhī mǎ lù	菌肢馬陸
 kǎ duō xiǎn dié	卡多蜆蝶
+kǎ ěr wén chóng	卡爾文蟲
 kǎ là tào è	卡臘套鱷
 kǎ lái táo nián	卡來陶鯰
 kǎ láng tái cǎo	卡郎苔草
@@ -24551,6 +24598,7 @@ lì huā hǎi kuí	麗花海葵
 lì huā jīn guī	麗花金龜
 lì jiā bù lóng	利加布龍
 lì jiá zhī lǐ	麗頰脂鯉
+lì jiān què wú	慄肩雀鵐
 lì jiān tiān niú	粒肩天牛
 lì jīn xiǎo fēng	麗金小蜂
 lí jù lín yú	犁鋸鱗魚
@@ -25200,6 +25248,7 @@ máo tuǐ yè yīng	毛腿夜鷹
 máo wěi fēng niǎo	矛尾蜂鳥
 máo wěi shuì shǔ	毛尾睡鼠
 máo wén chǐ é	毛紋尺蛾
+máo wěn dài xióng	毛吻袋熊
 máo wěn hǎi lóng	矛吻海龍
 máo wěn qú yǎn	毛吻鼩鼴
 máo xì xiàn chóng	毛細線蟲
@@ -25459,6 +25508,7 @@ mò ní xiǎn dié	莫尼蜆蝶
 mò sēn shì yú	莫森氏魚
 mò shì huí yú	默氏茴魚
 mò shì ruǎn yú	莫氏軟魚
+mò shì tāo chóng	莫氏絛蟲
 mò shì xī jiāng	莫氏溪鱂
 mò tè nà lóng	莫特納龍
 mò tuō tái cǎo	墨脫苔草
@@ -25632,6 +25682,7 @@ nǐ cuì gān zǎo	擬脆杆藻
 nǐ cuò lín nián	擬銼鱗鯰
 nǐ dà è tái	擬大萼苔
 nǐ dān jiǎo tún	擬單角魨
+nǐ dān náng chóng	擬單囊蟲
 nǐ dān qí yú	擬單鰭魚
 nǐ dēng lóng yú	擬燈籠魚
 nǐ dì pí xiāo	擬地皮消
@@ -25969,6 +26020,7 @@ pào bāo mǎ bó	泡孢馬勃
 pāo guāng xī xiè	拋光溪蟹
 pào guǒ qiàn cǎo	泡果茜草
 pào mò lǐ yú	泡沫鯉魚
+pào mò shān hú	泡沫珊瑚
 pào náng hǎi kuí	泡囊海葵
 pào shuāng xī chóng	泡雙吸蟲
 pào yǎn cháng chūn	泡眼長蝽
@@ -26001,8 +26053,8 @@ pī jiǎ dì zhōng	披甲地螽
 pī jiān zhēn jī	披肩榛雞
 pí lì kǎ xī	皮利卡蜥
 pī máo qiú yú	披毛犰狳
-pí pá hú jū	琵琶湖鮈
-pí pá shǔ yú	琵琶鼠魚
+pí pa hú jū	琵琶湖鮈
+pí pa shǔ yú	琵琶鼠魚
 pí ruǎn shān hú	皮軟珊瑚
 pí sà nuò lóng	皮薩諾龍
 pí shì fèng lí	皮氏鳳梨
@@ -26158,6 +26210,7 @@ qián sì tuó lóng	前似鴕龍
 qián wáng chǐ shòu	前王齒獸
 qián wèi chóng yuán	前衛蟲螈
 qián wēi xiàn chóng	前微線蟲
+qián zhí xī chóng	前殖吸蟲
 qiáng bǐng jī fēng	強柄姬蜂
 qiáng chǐ dài shǔ	強齒袋鼠
 qiáng chǐ jí shǔ	強齒棘鼠
@@ -26188,6 +26241,7 @@ qīng bào jiá dié	青豹蛺蝶
 qīng cháng hé yú	青長頜魚
 qīng cháng wěi xuě	青長尾鱈
 qīng chì fēi shī	青翅飛蝨
+qīng dān bāo jūn	氫單胞菌
 qīng dàn tú yú	青彈塗魚
 qīng dào fū yú	清道夫魚
 qīng dùn jiǎ yú	清燉甲魚
@@ -26269,7 +26323,9 @@ qǔ zhǐ jī fēng	曲趾姬蜂
 qǔ zuǐ jiāo liáo	曲嘴鷦鷯
 qǔ zuǐ sēn yīng	曲嘴森鶯
 quán bāo luó jūn	全孢螺菌
+quán biān máo chóng	全鞭毛蟲
 quǎn chǐ fēi jì	犬齒非鯽
+quǎn chǐ shān hú	犬齒珊瑚
 quǎn chǐ zhī lǐ	犬齒脂鯉
 quán chún gōng yú	全脣弓魚
 quán chún jù tái	全脣苣苔
@@ -26476,6 +26532,7 @@ sān jiǎo bàn há	三角瓣蛤
 sān jiǎo bàn huā	三角瓣花
 sān jiǎo bì yì	三角避役
 sān jiǎo bō yú	三角波魚
+sān jiǎo chǐ shòu	三角齒獸
 sān jiǎo hǎi lěi	三角海蕾
 sān jiǎo kǒu luó	三角口螺
 sān jiǎo kuò yú	三角蛞蝓
@@ -26664,6 +26721,7 @@ shēn dù fù yú	深杜父魚
 shēn gōu jī fēng	深溝姬蜂
 shēn hǎi dài yú	深海帶魚
 shēn hǎi diàn yáo	深海電鰩
+shēn hǎi fú yíng	深海浮螢
 shēn hǎi hēi yú	深海黑魚
 shēn hǎi jiǎo jiè	深海角介
 shēn hǎi jiǎo yú	深海角魚
@@ -26750,6 +26808,7 @@ shí pán shuǐ mǔ	十盤水母
 shǐ pín chǐ shòu	始貧齒獸
 shí pǔ lì yú	石樸麗魚
 shǐ qián è yú	史前鱷魚
+shí qiān fēng lóng	石千峰龍
 shǐ qián shā yú	史前鯊魚
 shǐ qīng chǐ é	始青尺蛾
 shǐ qiú guǒ luó	始球果螺
@@ -26895,6 +26954,7 @@ shuāng bāo tái chóng	雙胞苔蟲
 shuāng bāo xiù jūn	雙胞鏽菌
 shuāng bì bì yú	雙臂躄魚
 shuāng biān āo luó	雙邊凹螺
+shuāng cè bēi chóng	雙側杯蟲
 shuāng chā zhǐ hǔ	雙叉趾虎
 shuāng chǐ chán xiā	雙齒蟬蝦
 shuāng chǐ hǎi jì	雙齒海鯽
@@ -27294,6 +27354,7 @@ tiān lán xiǎn dié	天藍蜆蝶
 tiān lán xiù qiú	天藍繡球
 tián liè jī fēng	田獵姬蜂
 tián lín jiāng huā	田林姜花
+tiān mù máo chóng	天幕毛蟲
 tiān qí huī dié	天奇灰蝶
 tiān shān suān mó	天山酸模
 tiān shān xié hāo	天山邪蒿
@@ -27534,6 +27595,7 @@ wěi bān kuī yú	尾斑盔魚
 wēi bàn zé xiè	微瓣澤瀉
 wēi bāo yī jūn	微孢衣菌
 wěi biāo shuǐ zǎo	偽鏢水蚤
+wěi cái nǚ chóng	僞才女蟲
 wěi chì chì jiǎ	僞赤翅甲
 wěi cì wěi yú	尾刺尾魚
 wěi dài zhī é	僞帶織蛾
@@ -27549,6 +27611,7 @@ wěi hǎi bǎi hé	僞海百合
 wěi hēi bān yá	僞黑斑蚜
 wěi hēi máng zhū	僞黑盲蛛
 wěi hú dān jūn	僞壺擔菌
+wěi jí wěn chóng	僞棘吻蟲
 wěi jiá xiǎn dié	僞蛺蜆蝶
 wěi jīn xiǎo fēng	葦金小蜂
 wēi kǒng shān hú	微孔珊瑚
@@ -27639,6 +27702,7 @@ wěi zhǎi chǐ xiā	僞窄齒蝦
 wéi zhǎng zhōu é	圍掌舟蛾
 wéi zhào nòng dié	幃罩弄蝶
 wěi zhēn jiá dié	僞珍蛺蝶
+wěi zhǐ huán chóng	僞指環蟲
 wēi zhǒng tóu lóng	微腫頭龍
 wěi zì yóu yú	僞自由魚
 wěn bǎn jiǎ nián	吻板甲鯰
@@ -28363,12 +28427,14 @@ xiǎo ruò lì yú	小若麗魚
 xiǎo shā dīng yú	小沙丁魚
 xiǎo shān wō niú	小山蝸牛
 xiǎo shé shí é	小舌石蛾
+xiǎo shé shuǐ mǔ	小舌水母
 xiǎo shé tóu yú	小蛇頭魚
 xiǎo shè xiāng guī	小麝香龜
 xiǎo shé xíng bèi	小舌形貝
 xiǎo shé zǐ wǎn	小舌紫菀
 xiǎo shì jī fēng	小室姬蜂
 xiǎo shí kǒng zǎo	小石孔藻
+xiǎo shǐ shì chóng	小史氏蟲
 xiǎo shí xīn chóng	小食心蟲
 xiǎo shí yá yíng	小食蚜蠅
 xiǎo shí yǐ shòu	小食蟻獸
@@ -28453,6 +28519,7 @@ xiǎo yè zǐ wēi	小葉紫薇
 xiǎo yīn dì jué	小陰地蕨
 xiǎo yín hàn yú	小銀漢魚
 xiǎo yǐn jí yóu	小隱棘鮋
+xiǎo yóu zhì chóng	小油櫛蟲
 xiǎo yú jiǎ mǎn	小隅甲蟎
 xiǎo yuán jīng diāo	小圓鯨鯛
 xiǎo yuán ké luó	小圓殼螺
@@ -28536,6 +28603,7 @@ xīn diǎn pào chóng	心碘泡蟲
 xīn duǎn yǎn xiè	新短眼蟹
 xīn dùn ké méi	新盾殼黴
 xīn fù xī qiū	新腹吸鰍
+xīn fǔ xíng chóng	新斧形蟲
 xīn gé bēi sǎn	辛格杯傘
 xīn gēn liú jūn	新根瘤菌
 xīn guāng chún yú	新光脣魚
@@ -28546,6 +28614,7 @@ xīn hòu yán jiǎ	新厚閻甲
 xīn huà bān yá	新樺斑蚜
 xīn huá jiǎ mǎn	新滑甲蟎
 xìn jí tún yú	信及豚魚
+xīn jí wěn chóng	新棘吻蟲
 xīn jiān é xiè	新尖額蟹
 xīn jiāng jù lóng	新疆巨龍
 xīn jiāng liè lóng	新疆獵龍
@@ -29245,6 +29314,7 @@ yǒng bāo jiǎ ké	蛹孢假殼
 yǒng níng suān mó	永寧酸模
 yóu bèi dú wā	疣背毒蛙
 yóu bèi xū shā	疣背須鯊
+yóu bì è shī	遊臂顎蝨
 yóu bí qī yā	疣鼻棲鴨
 yóu biào tiáo qiū	遊鰾條鰍
 yóu diǎn bǎi hé	油點百合
@@ -29288,6 +29358,7 @@ yóu yīn tā shòu	尤因他獸
 yóu yīng gē yú	疣鸚哥魚
 yóu yīng zuǐ yú	疣鸚嘴魚
 yù bì chǐ é	玉臂尺蛾
+yú bō dòu chóng	魚波豆蟲
 yù cháng wěn yú	鷸長吻魚
 yǔ chǐ zhōu é	羽齒舟蛾
 yǔ fēng sì yú	羽風肆魚
@@ -29562,6 +29633,7 @@ zhǎi yè zhú bǎi	窄葉竹柏
 zhǎi yè zǐ zhū	窄葉紫珠
 zhǎi zhì jī fēng	窄痣姬蜂
 zhǎi zuǐ bà wēng	窄嘴霸鶲
+zhǎi zuǐ liè què	窄嘴鴷雀
 zhǎn bāo luò yán	展苞落檐
 zhān dù fù yú	粘杜父魚
 zhǎn mó liú é	展膜瘤蛾
@@ -30808,7 +30880,7 @@ bái dài jiāo què diāo	白帶椒雀鯛
 bái dài jù jiá dié	白帶鋸蛺蝶
 bái dài mǎ fū yú	白帶馬夫魚
 bái dài nǐ huā yì	白帶擬花鮨
-bái dài pí pá luó	白帶琵琶螺
+bái dài pí pa luó	白帶琵琶螺
 bái dài pí zhī lǐ	白帶魮脂鯉
 bái dài piàn suō luó	白帶騙梭螺
 bái dài yù lún luó	白帶玉輪螺
@@ -32801,6 +32873,7 @@ cháng wěi zú gōu yú	長尾足溝魚
 cháng wěn bèi jí yú	長吻背棘魚
 cháng wěn biān fú yú	長吻蝙蝠魚
 cháng wěn cháng hé yú	長吻長頜魚
+cháng wěn cháng wěi xuě	長吻長尾鱈
 cháng wěn ěr kǒng nián	長吻耳孔鯰
 cháng wěn fān xī yú	長吻帆蜥魚
 cháng wěn fù lì nián	長吻副粒鯰
@@ -32811,9 +32884,11 @@ cháng wěn huáng cháng yú	長吻黃鱨魚
 cháng wěn jī chǐ shā	長吻基齒鯊
 cháng wěn jí jiǎo yú	長吻棘角魚
 cháng wěn jīn huā chóng	長吻金花蟲
+cháng wěn jù wěi shā	長吻鋸尾鯊
 cháng wěn kē chǐ yú	長吻頦齒魚
 cháng wěn lì zhī lǐ	長吻麗脂鯉
 cháng wěn luǒ jiá diāo	長吻裸頰鯛
+cháng wěn mí chǐ kē	長吻迷齒科
 cháng wěn niè kǒu yú	長吻鑷口魚
 cháng wěn píng tóu yú	長吻平頭魚
 cháng wěn pǔ lì yú	長吻樸麗魚
@@ -33212,6 +33287,7 @@ cí shuāng guān lì yú	慈雙冠麗魚
 cì tài yáng pán chóng	刺太陽盤蟲
 cì tū gāo yuán qiū	刺突高原鰍
 cì tún huá xī qiū	刺臀華吸鰍
+cì wěi huā tiān niú	刺尾花天牛
 cì wei huā xiān luó	刺蝟花仙螺
 cì wei jí jiǎ nián	刺蝟棘甲鯰
 cì wěi lì ké xiè	刺猥慄殼蟹
@@ -33383,6 +33459,7 @@ dà bí jīng yóu nián	大鼻鯨油鯰
 dà bí lì zhī lǐ	大鼻麗脂鯉
 dà bí nán rǔ yú	大鼻南乳魚
 dà bí ruǎn kǒu yú	大鼻軟口魚
+dà cháng shé guǒ fú	大長舌果蝠
 dà chǐ cí zhī lǐ	大齒慈脂鯉
 dà chǐ dǐ qián yú	大齒底潛魚
 dà chǐ guǎn wěn nián	大齒管吻鯰
@@ -33745,7 +33822,6 @@ dà yú chī xiǎo yú	大魚吃小魚
 dà yú dài xiǎo yú	大魚帶小魚
 dà yuán hé zhēn yú	大圓頜針魚
 dà yuán jīn huā chóng	大猿金花蟲
-dà zhǎng shé guǒ fú	大長舌果蝠
 dà zhì yǔ mù yú	大智與木魚
 dà zhòng jiǎ ké chóng	大眾甲殼蟲
 dà zuǐ hēi kǒu yú	大嘴黑口魚
@@ -34337,7 +34413,7 @@ duǎn è fēng dòu cǎo	短萼蜂斗草
 duǎn è gǔ jīng cǎo	短萼穀精草
 duǎn è hé guǒ chá	短萼核果茶
 duǎn è huǒ yàn huā	短萼火焰花
-duǎn é pí pá xiè	短額琵琶蟹
+duǎn é pí pa xiè	短額琵琶蟹
 duǎn é piáo là chán	短額瓢蠟蟬
 duǎn è shān dòu gēn	短萼山豆根
 duǎn è tiān liào mù	短萼天料木
@@ -34401,7 +34477,7 @@ duǎn huì pú gōng yīng	短喙蒲公英
 duǎn huì suō yī há	短喙蓑衣蛤
 duǎn huì xì cháng chūn	短喙細長蝽
 duǎn huì xī dài lóng	短喙蜥代龍
-duǎn jí de diāo yà	短棘的鯛亞
+duǎn jí dì diāo yà	短棘的鯛亞
 duǎn jí yīng zhú diāo	短棘鸚竺鯛
 duǎn jí zhú guāng yú	短棘燭光魚
 duǎn jiān hòu léng qín	短尖厚棱芹
@@ -36576,6 +36652,7 @@ hè jī bān fěn dié	褐基斑粉蝶
 hé jiāng dān jí chóng	合江單極蟲
 hé jiāng diǎn pào chóng	合江碘泡蟲
 hé jiāng liǎng jí chóng	合江兩極蟲
+hè jiǎo lì yè fēng	褐角麗葉蜂
 hé kǒu guāng chún yú	河口光脣魚
 hé kǒu hóu pán yú	河口喉盤魚
 hé kǒu lián zuò jué	河口蓮座蕨
@@ -36644,6 +36721,7 @@ hé shì shí bān yú	荷氏石斑魚
 hè shì shì niǎo lóng	赫氏嗜鳥龍
 hè shì shí wén yú	赫氏食蚊魚
 hé shì shuāng qí mán	何氏雙鰭鰻
+hè shì wú biào yóu	赫氏無鰾鮋
 hè shì xià kǒu nián	赫氏下口鯰
 hè shì xīn yín yú	赫氏新銀魚
 hè shì xiōng hàn yú	赫氏胸漢魚
@@ -36676,6 +36754,7 @@ hé yè wā ěr cǎo	禾葉挖耳草
 hé yè yíng zi cǎo	禾葉蠅子草
 hè yìn jiā fēng niǎo	褐印加蜂鳥
 hé yīng dà dīng cǎo	合纓大丁草
+hè yuán lǜ cì é	褐緣綠刺蛾
 hè yún mǎ nǎo luó	褐雲瑪瑙螺
 hè yún yuán suō luó	褐雲緣梭螺
 hé zhǐ shí yè què	合趾拾葉雀
@@ -36826,7 +36905,10 @@ hēi hè suì tái cǎo	黑褐穗苔草
 hēi hé tí gài jué	黑合蹄蓋蕨
 hēi héng dài jǐn yú	黑橫帶錦魚
 hēi hóng kuò zuǐ niǎo	黑紅闊嘴鳥
+hēi hóu fèng yè yīng	黑喉縫葉鶯
 hēi hóu huī fēng niǎo	黑喉輝蜂鳥
+hēi hóu máo jiǎo yàn	黑喉毛腳燕
+hēi hóu wěi jiāo liáo	黑喉葦鷦鷯
 hēi hóu yǐn fēng niǎo	黑喉隱蜂鳥
 hēi hóu zhī bù niǎo	黑喉織布鳥
 hēi hú jiāo páng xiè	黑胡椒螃蟹
@@ -36896,6 +36978,7 @@ hēi qí jīn qiāng yú	黑鰭金槍魚
 hēi qí jù kǒu yú	黑奇巨口魚
 hēi qí jù zhī lǐ	黑鰭鋸脂鯉
 hēi qí lóng tóu yú	黑鰭隆頭魚
+hēi qí niú mù diāo	黑鰭牛目鯛
 hēi qí pǔ lì yú	黑鰭樸麗魚
 hēi qí shī yīng diāo	黑鰭溼鸚鯛
 hēi qí shí zhī lǐ	黑鰭石脂鯉
@@ -37245,6 +37328,7 @@ hóng jiá lán shì què	紅頰藍飾雀
 hóng jiàn chǐ lì yú	紅劍齒麗魚
 hóng jiāo chā jí chóng	紅交叉棘蟲
 hóng jiāo fèng huáng luó	紅嬌鳳凰螺
+hóng jiǎo hēi chì chán	紅腳黑翅蟬
 hóng jiǎo kǔ è niǎo	紅腳苦惡鳥
 hóng jīn nǐ què diāo	紅金擬雀鯛
 hóng jǐng bàn pǔ yù	紅頸瓣蹼鷸
@@ -37723,6 +37807,7 @@ huán diǎn lǜ chǐ é	環點綠尺蛾
 huán è fèng xiān huā	環萼鳳仙花
 huán jiāng gāo yuán qiū	環江高原鰍
 huān lè jiǎ ké chóng	歡樂甲殼蟲
+huán lì xī yè fēng	環麗希葉蜂
 huán rào zá bān luó	環繞雜斑螺
 huān sì jǐng xī chóng	獾似頸吸蟲
 huán wěi tiān zhú diāo	環尾天竺鯛
@@ -37765,6 +37850,7 @@ huáng bèi ruò méi diāo	黃背若梅鯛
 huáng biān luǒ xiōng shàn	黃邊裸胸鱔
 huáng biān zhòng gōu nián	黃邊重鉤鯰
 huáng bǐng niú gān jūn	黃柄牛肝菌
+huáng cháng wěn dié yú	黃長吻蝶魚
 huáng chì bān fù què	黃翅斑腹雀
 huáng chì bù yóu nián	黃翅怖油鯰
 huáng chì cuì jiá dié	黃翅翠蛺蝶
@@ -37991,7 +38077,10 @@ huáng yì yuè lì yú	黃翼悅麗魚
 huáng yǒu diǎn pào chóng	黃䱂碘泡蟲
 huáng yǒu liǎng jí chóng	黃䱂兩極蟲
 huáng yǔ zhòng gōu nián	黃雨重鉤鯰
+huáng yuán biǎn yè fēng	黃緣扁葉蜂
 huáng yuán jīn xiàn yú	黃緣金線魚
+huáng yuán qīng bù jiǎ	黃緣青步甲
+huáng yuán yuán fù zhū	黃緣圓腹蛛
 huáng zhì duǎn cháng jué	黃志短腸蕨
 huáng zhì shuāng gài jué	黃志雙蓋蕨
 huáng zhóu fèng yā jué	黃軸鳳丫蕨
@@ -38012,13 +38101,18 @@ huī bái yì mǔ cǎo	灰白益母草
 huī bàn xiàn zhī lǐ	灰半線脂鯉
 huī bān yì lì yú	灰斑鮨麗魚
 huī bèi chā zhù huā	灰背叉柱花
+huī bèi dà wú shǔ	灰背大鼯鼠
+huī bèi fèng yè yīng	灰背縫葉鶯
 huī bèi jié zhī jué	灰背節肢蕨
 huī bèi lǎo guàn cǎo	灰背老鸛草
 huī bèi liú zú jué	灰背瘤足蕨
+huī bèi shàn wěi yīng	灰背扇尾鶯
 huī bèi shuāng shàn jué	灰背雙扇蕨
 huī bèi tiě xiàn jué	灰背鐵線蕨
 huī biǎn lóng tóu yú	灰扁隆頭魚
 huī biān zhái ní yú	灰邊宅泥魚
+huī chì xiǎo juàn é	灰翅小卷蛾
+huī chì yìn jiā què	灰翅印加雀
 huì dōng liǎng jí chóng	會東兩極蟲
 huī duǎn zuǐ ào yā	灰短嘴澳鴉
 huī é cì wěi yú	灰額刺尾魚
@@ -38027,6 +38121,7 @@ huī fèng tóu yīng wǔ	輝鳳頭鸚鵡
 huī fù cuì fēng niǎo	輝腹翠蜂鳥
 huī fù xiù yǎn niǎo	灰腹繡眼鳥
 huī gān bǔ xuè cǎo	灰杆補血草
+huī guān shàn wěi yīng	灰冠扇尾鶯
 huī guāng sāi què diāo	灰光鰓雀鯛
 huì guǒ zào mào huā	喙果皁帽花
 huī hè zhě lì yú	灰褐褶麗魚
@@ -38035,6 +38130,7 @@ huī hóng tiān zhú diāo	灰紅天竺鯛
 huī hóu huáng fēng niǎo	輝喉煌蜂鳥
 huī hóu lǐng fēng niǎo	輝喉領蜂鳥
 huī hóu shān jiāo niǎo	灰喉山椒鳥
+huī hóu xiù yǎn niǎo	灰喉繡眼鳥
 huī hú dù fù yú	灰湖杜父魚
 huī huáng nǐ què diāo	灰黃擬雀鯛
 huī huáng ruò lì yú	灰黃若麗魚
@@ -38042,6 +38138,7 @@ huī huáng xīn mán nián	灰黃新鰻鯰
 huī huáng zhuó mù niǎo	灰黃啄木鳥
 huī jí xiōng jí diāo	灰棘胸棘鯛
 huī jiá chuí mì niǎo	灰頰垂蜜鳥
+huī jiá méi huā què	灰頰梅花雀
 huī jīng jié zhī jué	灰莖節肢蕨
 huī kè chǐ què diāo	灰刻齒雀鯛
 huī kē yǐn fēng niǎo	灰頦隱蜂鳥
@@ -39187,6 +39284,7 @@ kè lā mǎ yī lóng	克拉瑪依龍
 kē lái kǎ bì hǔ	科萊卡壁虎
 kè láo dí ōu xī	克勞迪歐蜥
 kě lè luǒ yǎn xī	可樂裸眼蜥
+kè léi bó shì jūn	克雷伯氏菌
 kē lì biǎn zú xiè	顆粒扁足蟹
 kē lì bīn ěr luó	顆粒濱耳螺
 kē lì chá shì xiè	顆粒查氏蟹
@@ -39197,7 +39295,7 @@ kē lì lí míng xiè	顆粒黎明蟹
 kē lì lí tóu yáo	顆粒犁頭鰩
 kē lì liù zú xiè	顆粒六足蟹
 kē lì máo ké xiè	顆粒毛殼蟹
-kē lì pí pá fèn	顆粒琵琶鱝
+kē lì pí pa fèn	顆粒琵琶鱝
 kē lì suō zi xiè	顆粒梭子蟹
 kè lǐ wēng jú shí	克里翁菊石
 kē lì yù shǔ luó	顆粒玉黍螺
@@ -39724,6 +39822,7 @@ lè shì huáng dài yú	勒氏皇帶魚
 lè shì liàng lì diāo	勒氏亮麗鯛
 lè shì tù zhī lǐ	勒氏兔脂鯉
 lè shì yīng zuǐ yú	勒氏鸚嘴魚
+lè sū wéi sī lóng	勒蘇維斯龍
 lè xíng máo zhī lǐ	鰳形矛脂鯉
 léi bā qí sī lóng	雷巴齊斯龍
 lèi bái suì tái cǎo	類白穗苔草
@@ -40500,6 +40599,7 @@ luǒ wěn zhēn jiǎ nián	裸吻真甲鯰
 luǒ wǔ jiǎo guā cān	裸五角瓜參
 luǒ xiàng fǔ hǎi nián	裸項俯海鯰
 luó xuán bái diāo luó	螺旋白雕螺
+luó xuán bāo zǐ chóng	螺旋孢子蟲
 luó xuán jù bāo méi	螺旋聚孢黴
 luó xuán juǎn guǎn luó	螺旋卷管螺
 luó xuán luǒ náng jūn	螺旋裸囊菌
@@ -41125,6 +41225,7 @@ mí luàn huán lèi luó	迷亂環肋螺
 mí nǐ biàn sè lóng	迷你變色龍
 mí nǐ hǎi sī luó	迷你海螄螺
 mí nǐ lán huī dié	迷你藍灰蝶
+mǐ qì lín jiǎo shí	米契林角石
 mí rén fèng xiān huā	迷人鳳仙花
 mí rén lín máo jué	迷人鱗毛蕨
 mí rén tū zhóu jué	迷人凸軸蕨
@@ -41494,6 +41595,7 @@ nǐ duō dá yè chán	擬多達葉蟬
 nǐ é xiǎo huī dié	擬蛾小灰蝶
 ní gē bǐ mù yú	尼哥比目魚
 nǐ gōng jìng jí dīng	擬弓脛吉丁
+nǐ guài jí wěn chóng	擬怪棘吻蟲
 nǐ guāng cì hú nián	擬光刺胡鯰
 nǐ guāng kuān jiǎ xiè	擬光寬甲蟹
 nǐ hǎi kāng jí mán	擬海康吉鰻
@@ -41818,6 +41920,7 @@ páng zhū zú jiǎ mǎn	旁珠足甲蟎
 pào guǒ lěng shuǐ huā	泡果冷水花
 páo lǐ hóng shuǐ yú	袍裏紅水魚
 pào lín lèi máo jué	泡鱗肋毛蕨
+pào mò zhù shān hú	泡沫柱珊瑚
 pào pào diāo yú shāo	泡泡鯛魚燒
 pào wěi dài tāo chóng	泡尾帶絛蟲
 pào xíng diǎn pào chóng	泡形碘泡蟲
@@ -41871,10 +41974,10 @@ pī jiān zhān xīng yú	披肩瞻星魚
 pí láo tè shì jūn	琵勞特氏菌
 pí léi jiá zhī lǐ	皮雷頰脂鯉
 pí mǎ yìng tóu yú	皮馬硬頭魚
-pí pá hú jù nián	琵琶湖巨鯰
-pí pá luó bo luó	琵琶蘿蔔螺
+pí pa hú jù nián	琵琶湖巨鯰
+pí pa luó bo luó	琵琶蘿蔔螺
 pí pá nǐ máng xiè	枇杷擬盲蟹
-pí pá tǒng qiú chóng	琵琶筒球蟲
+pí pa tǒng qiú chóng	琵琶筒球蟲
 pǐ shì ěr tè xiè	仳氏爾特蟹
 pí shì jiào gū yú	皮氏叫姑魚
 pí shì kǎi míng hé	皮氏鎧茗荷
@@ -42324,7 +42427,7 @@ qīng hǎi hú luǒ lǐ	青海湖裸鯉
 qīng hǎi luó bo luó	青海蘿蔔螺
 qīng hǎi yǐ lǐ cǎo	青海以禮草
 qīng hǎi zhòng bīn cǎo	青海仲彬草
-qīng jiǎ yǎn de diāo	青甲眼的鯛
+qīng jiǎ yǎn dì diāo	青甲眼的鯛
 qīng jīn chì què diāo	青金翅雀鯛
 qīng jīng yīng zuǐ yú	青鯨鸚嘴魚
 qīng liàng zhú guāng yú	清亮燭光魚
@@ -42825,7 +42928,7 @@ sān chǐ fèng huáng luó	三齒鳳凰螺
 sān chǐ huá yīng yú	三齒華纓魚
 sān chǐ jǐ yǎn luó	三齒麂眼螺
 sān chǐ nǐ yīng yú	三齒擬纓魚
-sān chǐ pí pá xiè	三齒琵琶蟹
+sān chǐ pí pa xiè	三齒琵琶蟹
 sān chǐ pǔ lì yú	三齒樸麗魚
 sān chǐ qián gāng mán	三齒前肛鰻
 sān chì shuǐ máo huā	三翅水毛花
@@ -43866,6 +43969,7 @@ sì jiān yè jié pí	似尖葉節蜱
 sì jiāo qiú bāo chóng	似驕球孢蟲
 sì jiǎo wǎng jí chóng	四角網棘蟲
 sì jiǎo xuán lán chóng	四角旋籃蟲
+sì jié dà tóu yǐ	四節大頭蟻
 sī jié dēng xīn cǎo	絲節燈心草
 sì jié jīn xiǎo fēng	四節金小蜂
 sì jīn chì niǎo lóng	似金翅鳥龍
@@ -43978,6 +44082,7 @@ sī wěi nǐ huā yì	絲尾擬花鮨
 sī wěi tǎ shì yú	絲尾塔氏魚
 sì wěi yǎ luó yú	似鮪雅羅魚
 sī wěi yín huā yì	絲尾銀花鮨
+sì wěi zhǐ huán chóng	似僞指環蟲
 sì wén niè lì yú	似紋鑷麗魚
 sì xì jiān tiáo qiū	似細尖條鰍
 sì xī ōu bái yú	似蜥歐白魚
@@ -44871,6 +44976,7 @@ wēi chǐ wěn shā cán	微齒吻沙蠶
 wěi dài ruò jí yú	尾帶弱棘魚
 wěi dài tiān zhú diāo	尾帶天竺鯛
 wěi dài yá huā yì	尾帶牙花鮨
+wēi dé ěr hǎi bào	威德爾海豹
 wěi dēng xīng shān yú	尾燈星衫魚
 wěi diǎn hú dié yú	尾點蝴蝶魚
 wěi diǎn pí zhī lǐ	尾點魮脂鯉
@@ -44926,6 +45032,7 @@ wéi qì ěr jú shí	維契爾菊石
 wēi qí hóu pán yú	微鰭喉盤魚
 wēi qí jiá fèng nián	萎鰭頰縫鯰
 wēi qí xīn shé mán	微鰭新蛇鰻
+wéi qiè gé dá è	維切格達鱷
 wēi qiú hēi fěn jūn	微球黑粉菌
 wèi què rèn jīng yú	未確認鯨魚
 wēi shān diǎn pào chóng	微山碘泡蟲
@@ -46133,6 +46240,7 @@ xiǎo jīn gāng róng luó	小金剛蠑螺
 xiǎo jīn hǔ ěr cǎo	小金虎耳草
 xiǎo jú dīng yá chóng	小菊釘蚜蟲
 xiǎo jù fèng xiān huā	小距鳳仙花
+xiāo jù huā tiān niú	肖鋸花天牛
 xiǎo kǒng chán yú yà	小孔蟾魚亞
 xiāo kǒng hǎi lóng yú	肖孔海龍魚
 xiǎo kǒng táo lè nián	小孔陶樂鯰
@@ -46417,6 +46525,9 @@ xié zhǎn jiǎ máo jué	斜展假毛蕨
 xīn bà bō lā yú	新耙波拉魚
 xīn bān cì wěi yú	心斑刺尾魚
 xīn bàn yíng zi cǎo	心瓣蠅子草
+xīn běn ní dēng chóng	新本尼登蟲
+xīn cháng jí wěn chóng	新長棘吻蟲
+xīn cháng tū xiàn chóng	新腸突線蟲
 xìn dé shā dīng yú	信德沙丁魚
 xìn dé zhuó mù niǎo	信德啄木鳥
 xīn è fèng xiān huā	心萼鳳仙花
@@ -46937,6 +47048,7 @@ yè huā yíng zi cǎo	夜花蠅子草
 yè jiǎ jīn xiǎo fēng	葉甲金小蜂
 yè jù fù zhī lǐ	葉鋸腹脂鯉
 yě lǐ diǎn pào chóng	野鯉碘泡蟲
+yě lǐ zhǐ huán chóng	野鯉指環蟲
 yě qí chǐ lì yú	野奇齒麗魚
 yè qiú dǐng bīng huā	腋球頂冰花
 yě shēng duǎn jiāng xiè	野生短漿蟹
@@ -46960,6 +47072,7 @@ yì biàn pí zhī lǐ	易變魮脂鯉
 yí bīn diǎn pào chóng	宜賓碘泡蟲
 yí bīn liǎng jí chóng	宜賓兩極蟲
 yì bǐng chì guǒ jú	翼柄翅果菊
+yī bō lā bìng dú	伊波拉病毒
 yī bó máo lì yú	伊博矛麗魚
 yì bō sāi dōng lóng	異波塞東龍
 yī bù lǐ hú nián	伊布裏胡鯰
@@ -47447,12 +47560,14 @@ yuán chǐ gǒu wá huā	圓齒狗娃花
 yuán chǐ jiǎ liú jué	圓齒假瘤蕨
 yuán chǐ lèi máo jué	圓齒肋毛蕨
 yuán chǐ lín gài jué	圓齒鱗蓋蕨
+yuán chì méi yǎn dié	圓翅眉眼蝶
 yuán chì qiāo xíng chóng	圓翅鍬形蟲
 yuán chì róng nòng dié	圓翅絨弄蝶
 yuán chǐ ròu suì cǎo	圓齒肉穗草
 yuán chǐ tiě jiǎo jué	圓齒鐵角蕨
 yuán chǐ tiě xiàn jué	圓齒鐵線蕨
 yuán chǐ yā zhí huā	圓齒鴉蹠花
+yuán chǐ zhāo cháo xiè	圓齒招潮蟹
 yuán chì zǐ bān dié	圓翅紫斑蝶
 yuán chún chǐ zhī lǐ	原唇齒脂鯉
 yuán chún jiǎ mài jué	圓唇假脈蕨
@@ -47474,6 +47589,7 @@ yuán è qiāo xíng chóng	原顎鍬形蟲
 yuán è qiè yè yǐ	圓顎切葉蟻
 yuǎn fāng yán cí xiè	遠方巖瓷蟹
 yuán fù gāo yuán qiū	圓腹高原鰍
+yuán fù zhǐ huán chóng	圓腹指環蟲
 yuán gài yīn shí jué	圓蓋陰石蕨
 yuán gāng kāng jí mán	圓肛康吉鰻
 yuán guī jīn huā chóng	圓龜金花蟲
@@ -47727,15 +47843,17 @@ zhá shì lì tǐ yú	札氏麗體魚
 zhá wèn zhū chǐ yú	札汶豬齒魚
 zhǎi bàn méi huā cǎo	窄瓣梅花草
 zhǎi chì bō huī dié	窄翅波灰蝶
+zhǎi chì bō wén é	窄翅波紋蛾
 zhǎi chǐ cháng shé fú	窄齒長舌蝠
 zhǎi chún zhū lóng cǎo	窄脣豬籠草
 zhǎi dài lì tǐ yú	窄帶麗體魚
 zhǎi dài shuāng dié yú	窄帶雙蝶魚
 zhǎi è fèng xiān huā	窄萼鳳仙花
-zhǎi é pí pá xiè	窄額琵琶蟹
+zhǎi é pí pa xiè	窄額琵琶蟹
 zhǎi é pǔ lì yú	窄額樸麗魚
 zhǎi fù jiàn shuǐ zǎo	窄腹劍水蚤
 zhǎi huā fèng xiān huā	窄花鳳仙花
+zhǎi jiá qiè yè fēng	窄頰切葉蜂
 zhǎi jǐng jīn huā chóng	窄頸金花蟲
 zhǎi kǒu pǔ lì yú	窄口樸麗魚
 zhǎi qí guì zhī lǐ	窄鰭桂脂鯉
@@ -48257,6 +48375,7 @@ zhū hóng yín hàn yú	侏虹銀漢魚
 zhū hóu táng nà què	朱喉唐納雀
 zhū huán juǎn guǎn luó	珠環捲管螺
 zhū huán xiè shǒu luó	珠環蟹守螺
+zhū jǐ jī zhūn zhōu	豬脊雞肫粥
 zhū jiāng dān jí chóng	珠江單極蟲
 zhú jié huā shé mán	竹節花蛇鰻
 zhú jié liǔ shān hú	竹節柳珊瑚
@@ -48607,6 +48726,7 @@ zuò yán zhǒng zi jué	座延種子蕨
 ǎi cuò kǒu xiàng bí yú	矮銼口象鼻魚
 āi dōu shì pǔ lì yú	埃都氏樸麗魚
 ài dù shì máng hú nián	艾杜氏盲胡鯰
+ài ěr jiā nài jiǎo lóng	艾爾加奈角龍
 ài fū shì qǐ é yú	艾夫氏企鵝魚
 ài gē shì máo bí nián	艾戈氏毛鼻鯰
 ài huá lā méng tè nián	愛華拉蒙特鯰
@@ -48774,6 +48894,7 @@ bā lā guā hé bīng nián	巴拉瓜河兵鯰
 bā lā ná dà gōu nián	巴拉拿大鉤鯰
 bā lā nà tù zhī lǐ	巴拉那兔脂鯉
 bā lā wàng quē qí nián	巴拉望缺鰭鯰
+bā lā wàng ruǎn máo shǔ	巴拉望軟毛鼠
 bā lǐng páng quē qí nián	巴領旁缺鰭鯰
 bā shì bàn xiàn zhī lǐ	巴氏半線脂鯉
 bā shì biǎn bí lì yú	巴氏扁鼻麗魚
@@ -50842,6 +50963,7 @@ hóng huā bān gǒu mǔ yú	紅花斑狗母魚
 hóng huā yán shēng rěn dōng	紅花岩生忍冬
 hóng huáng nǐ zhuó mù niǎo	紅黃擬啄木鳥
 hóng huǒ qiú dì wáng huā	紅火球帝王花
+hóng jiá cháng wěn sōng shǔ	紅頰長吻松鼠
 hóng jiān jīn gāng yīng wǔ	紅肩金剛鸚鵡
 hóng jǐng lǜ zhuó mù niǎo	紅頸綠啄木鳥
 hóng jǐng nǐ lóng tóu yú	紅頸擬隆頭魚
@@ -51545,6 +51667,7 @@ kè gǔ xīn chún zhī lǐ	克古新脣脂鯉
 kè hén jù xiōng zhī lǐ	刻痕鋸胸脂鯉
 kě kě ěr yīng wǔ luó	可可爾鸚鵡螺
 kē kè fù shī zi yú	科克副獅子魚
+kē kē sī qún dǎo què	科科斯群島雀
 kē kǒng fù shī zi yú	頦孔副獅子魚
 kē kuí dá xiǎo yóu nián	科奎達小油鯰
 kē lā shì xià kǒu nián	科拉氏下口鯰
@@ -51566,6 +51689,7 @@ kē shì bù qióng lì yú	科氏布瓊麗魚
 kē shì cū dù fù yú	科氏粗杜父魚
 kè shì dān bāo jiào mǔ	克氏擔孢酵母
 kē shì duǎn yì zhī lǐ	科氏短蜴脂鯉
+kè shì fǎng chuí shuǐ zǎo	克氏紡錘水蚤
 kè shì fèi dù fù yú	克氏吠杜父魚
 kē shì fù chǐ zhī lǐ	科氏複齒脂鯉
 kè shì fù dù fù yú	克氏副杜父魚
@@ -52532,7 +52656,7 @@ péng shì liú lì tiáo qiū	朋氏瘤粒條鰍
 pī jiān xiàng chǐ zhī lǐ	披肩象齒脂鯉
 pí lún hé shì xīng nián	皮倫河視星鯰
 pí mǎ hóng yín hàn yú	皮馬虹銀漢魚
-pí pá jù yì zhī lǐ	琵琶鋸翼脂鯉
+pí pa jù yì zhī lǐ	琵琶鋸翼脂鯉
 pí shì gōu chǐ zhī lǐ	皮氏鉤齒脂鯉
 pí shì hóng yín hàn yú	皮氏虹銀漢魚
 pí tè lā shì bīng nián	皮特拉氏兵鯰
@@ -52573,6 +52697,7 @@ píng zǐ fù shī zi yú	平紫副獅子魚
 pó luó zhōu fāng wěi nián	婆羅洲方尾鯰
 pó luó zhōu mán hú nián	婆羅洲鰻胡鯰
 pō shì cè huáng xī chóng	潑氏側黃吸蟲
+pō shì cháng wěn sōng shǔ	泊氏長吻松鼠
 pò shì luǒ nán jí yú	珀氏裸南極魚
 pò shì xī xíng zhī lǐ	珀氏蜥形脂鯉
 pò suì jīn gāng kǒu lóng	破碎金剛口龍
@@ -52735,7 +52860,7 @@ rì běn fù xiān nǚ yú	日本副仙女魚
 rì běn gān xiā hǔ yú	日本竿鰕虎魚
 rì běn hǎi jīng shī yú	日本海晶獅魚
 rì běn hóng yín hàn yú	日本虹銀漢魚
-rì běn jiǎ yǎn de diāo	日本甲眼的鯛
+rì běn jiǎ yǎn dì diāo	日本甲眼的鯛
 rì běn luǒ píng tóu yú	日本裸平頭魚
 rì běn lǜ yīng zuǐ yú	日本綠鸚嘴魚
 rì běn nǐ lóng tóu yú	日本擬隆頭魚
@@ -52924,6 +53049,7 @@ shēn zǐ lù jì jū xiè	深紫陸寄居蟹
 shēn zōng fù shī zi yú	深棕副獅子魚
 shēn zōng sī lóng tóu yú	深棕絲隆頭魚
 shēng bāo shì xiān wéi jūn	生孢噬纖維菌
+shèng lú xī yà hēi què	聖盧西亞黑雀
 shéng zhuàng yǐn dài lì yú	繩狀隱帶麗魚
 shī bā dé cì kāo yú	施巴德刺尻魚
 shī bí zhí dù fù yú	獅鼻直杜父魚
@@ -53984,6 +54110,7 @@ xīn guān bìng dú hé suān	新冠病毒核酸
 xīn guó zhí xiàn zhī lǐ	新國直線脂鯉
 xīn hàn nuò wēi wén niǎo	新漢諾威文鳥
 xīn jǐ nèi yà bì yú	新幾內亞躄魚
+xīn jǐ nèi yà dài lí	新幾內亞袋狸
 xīn jī nèi yà xīn mán	新畿內亞新鰻
 xīn jiā shān xiè jiǎ cǎo	辛家山蟹甲草
 xìn jiāng hòu qí huā qiū	信江後鰭花鰍
@@ -54631,6 +54758,7 @@ zuǒ yòu kā fēi shuāng yú	左右咖啡雙魚
 ān bù sī shì yì jiǎ nián	安布斯氏翼甲鯰
 ān dōng shì fù chǐ zhī lǐ	安東氏複齒脂鯉
 ān shì ǎi fēi zhōu zhī lǐ	安氏矮非洲脂鯉
+ào dì cháng wěn fù jiǎo tún	奧蒂長吻副角魨
 ào lǐ nuò kē hé jīng nián	奧裏諾科河鯨鯰
 ào mǎ luó luǒ bèi diàn mán	奧馬羅裸背電鰻
 ào shì duǎn hé jiāng zhī lǐ	奧氏短頜鱂脂鯉
@@ -54734,6 +54862,7 @@ bù kǎn nán yuán rè dài nián	布坎南原熱帶鯰
 bù lǎng shì zhí xiàn zhī lǐ	布朗氏直線脂鯉
 bù lǐ sī kè máo lì yú	布裏斯克矛麗魚
 bù lǐ zhōng huá pá yán qiū	埔里中華爬巖鰍
+bù lóng sī gé luó fū lóng	布隆斯格羅夫龍
 bù luò kè duǎn shēn diàn mán	布洛克短身電鰻
 bù luó kè shì hǎi zhú yú	布羅克氏海蠋魚
 bù ruì sī shì cuì fēng niǎo	布瑞斯氏翠蜂鳥
@@ -54774,6 +54903,8 @@ cháng qí zá lín dù fù yú	長鰭雜鱗杜父魚
 cháng shēn yì xiù cháo xiǎn qiū	長身益秀朝鮮鰍
 cháng wěi shēn hǎi gǒu mǔ yú	長尾深海狗母魚
 cháng wěi yù mǐ juǎn guǎn luó	長尾玉米捲管螺
+cháng wěn duō jí niú wěi yú	長吻多棘牛尾魚
+cháng wěn mài shì bèi jí yú	長吻麥氏背棘魚
 cháng xiōng qí luǒ bèi diàn mán	長胸鰭裸背電鰻
 cháng xiōng zhǒng tuǐ jīn xiǎo fēng	長胸腫腿金小蜂
 cháng yè mò tuō lóu tī cǎo	長葉墨脫樓梯草
@@ -54958,10 +55089,12 @@ guāng zhǎng yìng ké jì jū xiè	光掌硬殼寄居蟹
 hā ēn shì dà wěn diàn mán	哈恩氏大吻電鰻
 hè shì nǐ yì xiàng qí nián	赫氏擬翼項鰭鯰
 hè shì yī dū máo bí nián	赫氏伊都毛鼻鯰
+héng dài dà lín cháng wěn yú	橫帶大鱗長吻魚
 hóng xiōng cháng biǎn tiě jiǎ chóng	紅胸長扁鐵甲蟲
 hóng xiōng lì biǎn tiě jiǎ chóng	紅胸麗扁鐵甲蟲
 hòu yè bái huā suān téng guǒ	厚葉白花酸藤果
 jī shì jiǎ pí hé diàn mán	基氏賈皮河電鰻
+jiā lè bǐ hǎi quǎn wěn fú	加勒比海犬吻蝠
 jiā péng yǎ fēi zhōu zhī lǐ	加彭雅非洲脂鯉
 jīn huáng dà chǐ xī bó nián	金黃大齒錫伯鯰
 jīn lóng yīng wǔ huàn chá tāng	金籠鸚鵡喚茶湯
@@ -55039,6 +55172,7 @@ ní bù lì xià tún diàn mán	尼布利下臀電鰻
 ní kè lǐ hé xià kǒu nián	尼克裏河下口鯰
 ní luó hé fēi zhōu zhī lǐ	尼羅河非洲脂鯉
 nǐ mǎ lì lín ēn xiàn chóng	擬瑪麗林恩線蟲
+pà ēn qiè tè quǎn chǐ shòu	帕恩切特犬齒獸
 pà ěr mò shì máo kǒu nián	帕爾默氏毛口鯰
 pà lā shì gāo jiā suǒ lǐ	帕拉氏高加索鯉
 pà shì dào jí niú wěi yú	帕氏倒棘牛尾魚
@@ -55084,6 +55218,7 @@ tāng mǔ sēn shì máo kǒu nián	湯姆森氏毛口鯰
 tāng shì gǔ lǎo yì niǎo lóng	湯氏古老翼鳥龍
 tè lǎng bèi hā shì jiǎ nián	特朗貝哈氏甲鯰
 tè shì nǐ wú chǐ zhī lǐ	特氏擬無齒脂鯉
+tiáo wén dà lín cháng wěn yú	條紋大鱗長吻魚
 tú kāng hé bàn chǐ zhī lǐ	圖康河半齒脂鯉
 tuō lì mǎ huā dǐng fēng niǎo	托利馬花頂蜂鳥
 tuō liú suān yán jiǎn gǎn jūn	脫硫酸鹽鹼桿菌
@@ -55100,6 +55235,7 @@ wū kǎ yà hé zhēn jiǎ nián	烏卡亞河真甲鯰
 wù yuán huáng shān shǔ wěi cǎo	婺源黃山鼠尾草
 xī fāng lán wěi cuì fēng niǎo	西方藍尾翠蜂鳥
 xī jiǎ zī sì zhēn xiǎo lǐ	希賈茲似真小鯉
+xī lǐ bó sī róu máo shǔ	西里伯斯柔毛鼠
 xī yáng ruǎn lú shí shǒu yú	西洋軟顱石首魚
 xī zàng bái bān chì xuě què	西藏白斑翅雪雀
 xiàn máo zhǎng liè xiè jiǎ cǎo	腺毛掌裂蟹甲草

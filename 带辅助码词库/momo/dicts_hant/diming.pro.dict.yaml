@@ -7145,6 +7145,7 @@ sort: by_weight
 海原縣	hǎi;dm yuán;ix xiàn;qx	182
 海淵鎮	hǎi;dm yuān;da zhèn;jb	10
 海州區	hǎi;dm zhōu;dl qū;kk	185
+解州鎮	hài;dn zhōu;dl zhèn;jb	105
 海珠區	hǎi;dm zhū;ww qū;kk	263
 海子鄉	hǎi;dm zǐ;la xiāng;xg	10
 海子鎮	hǎi;dm zǐ;la zhèn;jb	10
@@ -15483,7 +15484,7 @@ sort: by_weight
 郫都區	pí;pe dū;le qū;kk	172
 毗盧鎮	pí;tb lú;hm zhèn;jb	10
 皮馬縣	pí;py mǎ;mh xiàn;qx	167
-琵琶鎮	pí;wb pá;wb zhèn;jb	10
+琵琶鎮	pí;wb pa;wb zhèn;jb	10
 皮山縣	pí;py shān;kl xiàn;qx	166
 匹斯堡	pǐ;ke sī;ct bǎo;rt	199
 皮特堡	pí;py tè;nc bǎo;rt	185
@@ -22394,7 +22395,6 @@ sort: by_weight
 協雄鄉	xié;ul xióng;uv xiāng;xg	10
 謝洋鄉	xiè;yc yáng;dy xiāng;xg	10
 卸載站	xiè;ve zài;gi zhàn;lv	99
-解州鎮	xiè;dn zhōu;dl zhèn;jb	105
 謝莊鎮	xiè;yc zhuāng;ct zhèn;jb	10
 新安縣	xīn;lt ān;bn xiàn;qx	215
 新安鄉	xīn;lt ān;bn xiāng;xg	10
@@ -31901,6 +31901,8 @@ sort: by_weight
 大昌汗鎮	dà;ar chāng;oo hàn;dg zhèn;jb	10
 大廠街道	dà;ar chǎng;gw jiē;rt dào;zz	10
 大廠三村	dà;ar chǎng;gw sān;ae cūn;ac	10
+大長亭村	dà;ar cháng;ey tíng;wd cūn;ac	10
+大長屯站	dà;ar cháng;ey tún;av zhàn;lv	99
 大朝陽村	dà;ar cháo;uo yáng;ew cūn;ac	10
 大車行村	dà;ar chē;iu xíng;rd cūn;ac	10
 大陳各莊	dà;ar chén;ed gè;wk zhuāng;ct	10
@@ -32822,8 +32824,6 @@ sort: by_weight
 大張家鎮	dà;ar zhāng;gi jiā;bu zhèn;jb	10
 大張樓鎮	dà;ar zhāng;gi lóu;an zhèn;jb	10
 大鄣山鄉	dà;ar zhāng;le shān;kl xiāng;xg	10
-大長亭村	dà;ar zhǎng;ey tíng;wd cūn;ac	10
-大長屯站	dà;ar zhǎng;ey tún;av zhàn;lv	99
 大張灣村	dà;ar zhāng;gi wān;dg cūn;ac	10
 大張營村	dà;ar zhāng;gi yíng;hk cūn;ac	10
 大張莊村	dà;ar zhāng;gi zhuāng;ct cūn;ac	10
@@ -38934,6 +38934,7 @@ sort: by_weight
 海則灘鎮	hǎi;dm zé;bd tān;dv zhèn;jb	10
 海州街道	hǎi;dm zhōu;dl jiē;rt dào;zz	10
 海洲街道	hǎi;dm zhōu;dv jiē;rt dào;zz	10
+解州營村	hài;dn zhōu;dl yíng;hk cūn;ac	10
 海幢街道	hǎi;dm zhuàng;jl jiē;rt dào;zz	10
 海子溝村	hǎi;dm zǐ;la gōu;dr cūn;ac	10
 海子溝鄉	hǎi;dm zǐ;la gōu;dr xiāng;xg	10
@@ -52045,14 +52046,14 @@ sort: by_weight
 匹林斯堡	pǐ;ke lín;aa sī;ct bǎo;rt	10
 淠綠新村	pì;dw lǜ;su xīn;lt cūn;ac	10
 枇杷洞村	pí;ab pá;ab dòng;dk cūn;ac	10
-琵琶溝村	pí;wb pá;wb gōu;dr cūn;ac	10
+琵琶溝村	pí;wb pa;wb gōu;dr cūn;ac	10
 枇杷溝村	pí;ab pá;ab gōu;dr cūn;ac	10
-琵琶街道	pí;wb pá;wb jiē;rt dào;zz	10
-琵琶寺村	pí;wb pá;wb sì;tc cūn;ac	10
+琵琶街道	pí;wb pa;wb jiē;rt dào;zz	10
+琵琶寺村	pí;wb pa;wb sì;tc cūn;ac	10
 枇杷灣村	pí;ab pá;ab wān;dg cūn;ac	10
-琵琶垣村	pí;wb pá;wb yuán;td cūn;ac	10
-琵琶寨村	pí;wb pá;wb zhài;ba cūn;ac	10
-琵琶嘴村	pí;wb pá;wb zuǐ;ky cūn;ac	10
+琵琶垣村	pí;wb pa;wb yuán;td cūn;ac	10
+琵琶寨村	pí;wb pa;wb zhài;ba cūn;ac	10
+琵琶嘴村	pí;wb pa;wb zuǐ;ky cūn;ac	10
 皮婆屯村	pí;py pó;dn tún;av cūn;ac	10
 伾山街道	pī;rp shān;kl jiē;rt dào;zz	10
 皮什蓋村	pí;py shí;ru gài;cm cūn;ac	10
@@ -65500,7 +65501,6 @@ sort: by_weight
 謝辛莊村	xiè;yc xīn;lu zhuāng;ct cūn;ac	10
 渫陽社區	xiè;da yáng;ew shè;pt qū;kk	45
 擷雲二莊	xié;fy yún;yy èr;aa zhuāng;ct	10
-解州營村	xiè;dn zhōu;dl yíng;hk cūn;ac	10
 蠍子廟村	xiē;iq zi;la miào;go cūn;ac	10
 蠍子山村	xiē;iq zi;la shān;kl cūn;ac	10
 新艾里村	xīn;lt ài;cx lǐ;tt cūn;ac	10

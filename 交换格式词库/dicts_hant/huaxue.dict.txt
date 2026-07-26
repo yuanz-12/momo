@@ -1742,7 +1742,17 @@ yǐ běn fēn	乙苯酚
 yì bǐng běn	異丙苯
 yǐ chún ní	乙醇鈮
 yǐ chún tǎn	乙醇鉭
+yì dīng àn	異丁胺
 yì dīng běn	異丁苯
+yì dīng chún	異丁醇
+yì dīng jī	異丁基
+yì dīng jīng	異丁腈
+yì dīng quán	異丁醛
+yì dīng suān	異丁酸
+yǐ dīng tóng	乙丁酮
+yì dīng wán	異丁烷
+yì dīng xī	異丁烯
+yì dīng zhǐ	異丁酯
 yī é kuàng	銥鋨礦
 yī hǎi mián	銥海綿
 yǐ jī běn	乙基苯
@@ -2631,7 +2641,13 @@ fú lǜ jiǎ wán	氟氯甲烷
 fú lǜ jú zhǐ	氟氯菊酯
 fú lǜ méi sù	氟氯黴素
 fú lǜ qiān kuàng	氟氯鉛礦
+fú lǚ shí gāo	氟鋁石膏
 fú lǜ shū sōng	氟氯舒松
+fú lǚ suān ǎn	氟鋁酸銨
+fú lǚ suān gài	氟鋁酸鈣
+fú lǚ suān jiǎ	氟鋁酸鉀
+fú lǚ suān nà	氟鋁酸鈉
+fú lǚ suān yán	氟鋁酸鹽
 fú lǜ xī lín	氟氯西林
 fú lǜ yǐ wán	氟氯乙烷
 fù mǎ xiān lǜ	富馬酰氯
@@ -2844,6 +2860,11 @@ huán yǎng qī lǜ	環氧七氯
 huán yuán wū fěn	還原鎢粉
 huáng àn běn xiān	磺胺苯酰
 huáng bèi yóu kuàng	黃鋇鈾礦
+huáng fǔ suān jiǎ	黃腐酸鉀
+huáng fǔ suān nà	黃腐酸鈉
+huáng fǔ zhì suān	黃腐質酸
+huáng fǔ zhí suān	黃腐植酸
+huáng gān lín suān	黃苷磷酸
 huáng jī běn suān	磺基苯酸
 huáng líng yóu kuàng	黃菱鈾礦
 huáng liú shēn kuàng	黃榴砷礦
@@ -4471,7 +4492,18 @@ yì bǐng lǜ jǐng	異丙氯肼
 yǐ chā èr lǜ	乙叉二氯
 yǐ chún xiān lǜ	乙醇酰氯
 yī dàn huà yóu	一氮化鈾
+yì dīng chún lǚ	異丁醇鋁
+yì dīng jī mí	異丁基醚
+yì dīng liú chún	異丁硫醇
+yì dīng sī tè	異丁司特
+yì dīng suān gān	異丁酸酐
+yì dīng suān lǐ	異丁酸鋰
+yì dīng suān zhǐ	異丁酸酯
+yì dīng xī jīng	異丁烯腈
+yì dīng xī quán	異丁烯醛
+yì dīng xī suān	異丁烯酸
 yì dīng xiān lǜ	異丁酰氯
+yì dīng xiàng jiāo	異丁橡膠
 yǐ èr àn lèi	乙二胺類
 yǐ èr chún lèi	乙二醇類
 yǐ èr chún tī	乙二醇銻
@@ -4496,6 +4528,7 @@ yǐ gāo lǜ xìng	以高氯性
 yǐ hè lián shí	釔褐簾石
 yǐ hè liú shí	釔褐榴石
 yī huà hé wù	銥化合物
+yì huáng zhāng sù	異黃樟素
 yǐ jī běn àn	乙基苯胺
 yǐ jī xiù běn	乙基溴苯
 yī lín huà yóu	一磷化鈾
