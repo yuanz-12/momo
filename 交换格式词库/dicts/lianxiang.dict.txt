@@ -5623,6 +5623,7 @@ bú xiù gāng chǎo guō	不锈钢炒锅
 bú xiù gāng chòng yā	不锈钢冲压
 bú xiù gāng chú guì	不锈钢橱柜
 bú xiù gāng chú jù	不锈钢厨具
+bú xiù gāng dǎo huán	不锈钢导环
 bú xiù gāng dāo jù	不锈钢刀具
 bú xiù gāng fǎ lán	不锈钢法兰
 bú xiù gāng fēng tóu	不锈钢封头
@@ -6891,6 +6892,7 @@ cháng jù bái hè lán	长距白鹤兰
 cháng jù fěn dié lán	长距粉蝶兰
 cháng jù gēn jié lán	长距根节兰
 cháng jù lí shū diàn	长距离输电
+cháng jù lí tuō zhuài	长距离拖拽
 cháng jù lí xíng shǐ	长距离行驶
 cháng jù měi guān lán	长距美冠兰
 cháng jù shé chún lán	长距舌唇兰
@@ -7773,6 +7775,7 @@ chén shuì de shī zi	沉睡的狮子
 chén shuì de xīn líng	沉睡的心灵
 chén shuì de xiōng měng	沉睡的凶猛
 chén shuì de xióng shī	沉睡的雄狮
+chén shuǐ zhù tóu qì	沉水助投器
 chén sī chéng jiān zhì	陈思诚监制
 chén sì nài dōu zǐ	辰巳奈都子
 chén táng zhuāng tiě lù	陈塘庄铁路
@@ -9287,6 +9290,8 @@ chuàng jiàn de yè miàn	创建的页面
 chuàng jiàn hé biān jí	创建和编辑
 chuàng jìn nián xīn gāo	创近年新高
 chuāng kǒu chéng xù jí	窗口程序集
+chuāng kǒu qī suō duǎn	窗口期缩短
+chuāng kǒu qī yán cháng	窗口期延长
 chuāng kǒu shì kōng tiáo	窗口式空调
 chuāng lǐ de nǚ rén	窗里的女人
 chuàng lì shǐ xīn dī	创历史新低
@@ -10519,7 +10524,9 @@ dá ěr wén diàn bō	达尔文电波
 dá ěr wén jié jié	达尔文结节
 dá ěr wén zhǔ yì	达尔文主义
 dǎ fān cù tán zi	打翻醋坛子
+dà fàn wéi fù gài	大范围覆盖
 dà fàn wéi jiàng yǔ	大范围降雨
+dà fàn wéi sōu suǒ	大范围搜索
 dǎ fáng shǒu fǎn jī	打防守反击
 dà fēi jī xiàng mù	大飞机项目
 dá fēn qí jiā jū	达芬奇家居
@@ -15244,6 +15251,8 @@ duàn jiā xiá shuǐ kù	段家峡水库
 duǎn jiān qī jiǎ xiàng	短间期假象
 duàn jiǎo de xiǎo niǎo	断脚的小鸟
 duǎn jìn chéng yōu xiān	短进程优先
+duǎn jù lí chōng cì	短距离冲刺
+duǎn jù lí tuō zhuài	短距离拖拽
 duǎn jù lí wú xiàn	短距离无线
 duǎn jù qǐ luò jī	短距起落机
 duǎn kǒng jiǎ mǎn gǔ	短孔甲螨股
@@ -15339,6 +15348,7 @@ duǎn yè xiāng chá cài	短叶香茶菜
 duǎn yì yán huáng qí	短翼岩黄耆
 duǎn yì yán huáng qí	短翼岩黄芪
 duàn yù hé xū zhú	段誉和虚竹
+duǎn zàn chuāng kǒu qī	短暂窗口期
 duǎn zàn de ài qíng	短暂的爱情
 duǎn zàn de chūn tiān	短暂的春天
 duǎn zàn de fēn bié	短暂的分别
@@ -16358,6 +16368,7 @@ duō zhuān jiā xì tǒng	多专家系统
 èr lǐ tou yí zhǐ	二里头遗址
 ěr liào de wèi xíng	饵料的味型
 ěr liào de zhuàng tài	饵料的状态
+ěr liào fù jí qū	饵料富集区
 èr liè wěi líng cài	二裂委陵菜
 èr liè yín xìng yè	二裂银杏叶
 èr lín gān yóu quán	二磷甘油醛
@@ -17463,6 +17474,8 @@ fáng bú shèng fáng a	防不胜防啊
 fāng chā bǐ jiǎn dìng	方差比检定
 fāng chā de fèn liàng	方差的分量
 fáng chǎn kōng zhì shuì	房产空置税
+fáng chán rào dǎo huán	防缠绕导环
+fáng chán rào tào guǎn	防缠绕套管
 fáng chǎn shuì kāi zhēng	房产税开征
 fáng chǎn shuì shì diǎn	房产税试点
 fáng chǎn xìn xī wǎng	房产信息网
@@ -19631,6 +19644,7 @@ fú jí èr shì fǎ	弗吉二氏法
 fù jǐ hé dìng lǐ	复几何定理
 fú jí ní yà zhōu	弗吉尼亚州
 fù jī wǎ lǐ nà	富基瓦里纳
+fú jī xíng yú zhǒng	伏击型鱼种
 fú jì xiū yú qī	伏季休渔期
 fù jī yà shā liè	富基亚沙列
 fù jiā dà xiǎo jiě	富家大小姐
@@ -20004,6 +20018,7 @@ fù shù de jí shì	复数的极式
 fù shǔ xiāo huà xiàn	附属消化腺
 fù shù xuǎn qū zhì	复数选区制
 fǔ shú yǒu jī féi	腐熟有机肥
+fú shuǐ zhù tóu qì	浮水助投器
 fú sī èr shì fǎ	福斯二氏法
 fù sī lìng zhǎng guān	副司令长官
 fú sī luó gōng sī	福斯罗公司
@@ -20132,6 +20147,7 @@ fù xiàn xìng kōng jiān	复线性空间
 fù xiāng guān xì shù	复相关系数
 fù xiàng liàng kōng jiān	复向量空间
 fú xiáng sì hēi cháo	蝠翔似黑潮
+fú xiǎo chuāng kǒu qī	拂晓窗口期
 fú xiǎo de yóu nà	拂晓的尤娜
 fù xiāo sè chā de	复消色差的
 fù xiāo sè chā jìng	复消色差镜
@@ -20196,6 +20212,7 @@ fù yǒu ài xīn dì	富有爱心地
 fù yòu bǎo jiàn suǒ	妇幼保健所
 fù yòu bǎo jiàn yuàn	妇幼保健院
 fù yòu bǎo jiàn zhàn	妇幼保健站
+fú yóu shēng wù dài	浮游生物带
 fú yóu shēng wù xué	浮游生物学
 fù yú biǎo xiàn lì	富于表现力
 fù yǔ bú yù zhě	复与不愈者
@@ -23305,6 +23322,7 @@ gǔ diǎn shēng wù xíng	古典生物型
 gǔ diǎn xiāng róng de	古典相容的
 gǔ diǎn xué xué zhě	古典学学者
 gǔ diǎn yǔ shí shàng	古典与时尚
+gù dìng chuāng kǒu qī	固定窗口期
 gù dìng hòu xuǎn xiàng	固定候选项
 gù dìng huì lǜ zhì	固定汇率制
 gù dìng jià hé tong	固定价合同
@@ -28544,6 +28562,7 @@ huǎn bù dòng wù mén	缓步动物门
 huàn cǎi lán shā yán	幻彩蓝砂岩
 huàn cǎi yǒng xiāng jiāng	幻彩咏香江
 huán cháo hú dà dào	环巢湖大道
+huǎn chén zhù tóu qì	缓沉助投器
 huán chéng běi lù kǒu	环城北路口
 huán chéng běi lù zhàn	环城北路站
 huàn chéng céng huàn chéng	换乘层换乘
@@ -28968,6 +28987,7 @@ huáng huā shuǐ bā jiāo	黄花水芭蕉
 huáng huá xīn jì yuán	煌华新纪元
 huáng huā yán bào chūn	黄花岩报春
 huāng huāng zhāng zhāng de	慌慌张张地
+huáng hūn chuāng kǒu qī	黄昏窗口期
 huáng hūn de guǎng chǎng	黄昏的广场
 huáng hūn de jiǎo luò	黄昏的角落
 huáng hūn lí mí jué	黄昏黎糜觉
@@ -34067,6 +34087,7 @@ jiě tí de fāng fǎ	解题的方法
 jiě tí de sī lù	解题的思路
 jiē tī jīn zì tǎ	阶梯金字塔
 jiē tī shì dì jìn	阶梯式递进
+jiē tī shì sōu xún	阶梯式搜寻
 jié tǐ xī shī lù	洁体西施露
 jiē tī xíng jī chǔ	阶梯形基础
 jiē tī xíng jǔ zhèn	阶梯形矩阵
@@ -34232,6 +34253,7 @@ jìn dào de miàn tiáo	劲道的面条
 jīn dào guì jīn shǔ	金道贵金属
 jīn dé ěr bó gé	金德尔伯格
 jīn dēng sì shí kū	金灯寺石窟
+jìn dǐ céng huó dòng	近底层活动
 jìn dì qiú guǐ dào	近地球轨道
 jìn dì xiǎo xíng xīng	近地小行星
 jìn dì zhǔ zhī yì	尽地主之谊
@@ -39838,6 +39860,7 @@ lěng méng lǐ gōng nán	冷萌理工男
 lěng mò yǔ wēn róu	冷漠与温柔
 lěng níng jí shì yàn	冷凝集试验
 lěng níng xiè shuǐ qì	冷凝泄水器
+lěng nuǎn liú jiāo huì	冷暖流交汇
 lěng què shí jiān duǎn	冷却时间短
 lěng què tuō shuǐ fǎ	冷却脱水法
 lěng quē xuè shí jiān	冷缺血时间
@@ -50736,6 +50759,7 @@ qiāng cháng dòng wù mén	腔肠动物门
 qiàng chǎo yuán bái cài	炝炒圆白菜
 qiáng chéng zhòng jié gòu	墙承重结构
 qiǎng cí duó lǐ de	强词夺理的
+qiáng cí lā ěr pán	强磁拉饵盘
 qiáng dà de bèi jǐng	强大的背景
 qiáng dà de gōng shì	强大的攻势
 qiáng dà de guó lì	强大的国力
@@ -52003,6 +52027,7 @@ qīng xīn lián zǐ yǐn	清心莲子饮
 qīng xīn lǜ chá de	清新绿茶的
 qīng xīn wū lóng chá	青心乌龙茶
 qīng xíng chōng fēng qiāng	轻型冲锋枪
+qīng xíng dà wù gān	轻型大物竿
 qīng xíng diàn dòng chē	轻型电动车
 qīng xíng gāng jié gòu	轻型钢结构
 qīng xíng gōng jī jī	轻型攻击机
@@ -63688,6 +63713,7 @@ tài háng shān lù zhàn	太行山路站
 tài hào fú xī shì	太昊伏羲氏
 tài hé chéng yí zhǐ	太和城遗址
 tài hé gōng jīn diàn	太和宫金殿
+tài hé jīn gān shāo	钛合金竿稍
 tài hé lì zhì zhuàn	太合立志传
 tài hé yán pái lóu	太和岩牌楼
 tài hòu lǎo fó yé	太后老佛爷
@@ -65405,6 +65431,7 @@ tiě jiǎ xiǎo líng jīng	铁甲小灵精
 tiě jiǎ xiǎo qí shì	铁甲小骑士
 tiě jiǎo wú gōng gēn	铁脚蜈蚣根
 tiě jiào zi lè he	铁叫子乐和
+tiē jié gòu yóu zǒu	贴结构游走
 tiě jié hé dàn bái	铁结合蛋白
 tiě kuàng shí mào yì	铁矿石贸易
 tiě kuàng shí pǐn wèi	铁矿石品位
@@ -69656,6 +69683,7 @@ wú guī lǜ kě xún	无规律可循
 wǔ guì shān shān mài	五桂山山脉
 wǔ guì shān zhǔ fēng	五桂山主峰
 wú guī xǐ fà shuǐ	无硅洗发水
+wú guī zé piāo luò	无规则飘落
 wǔ gùn jù lè bù	舞棍俱乐部
 wú guó jí rén shì	无国籍人士
 wú guó jiè yī shī	无国界医师
@@ -73258,6 +73286,7 @@ xiǎo ěr kē wò zhàn	晓尔科沃站
 xiāo ěr yǎn suàn fǎ	萧尔演算法
 xiǎo fǎn chú shòu yì	小反刍兽疫
 xiǎo fàn shū dǎo qū	小贩疏导区
+xiǎo fàn wéi sōu yú	小范围搜鱼
 xiǎo fāng gé biǎo fǎ	小方格表法
 xiǎo fāng gé wǎng fǎ	小方格网法
 xiāo fáng jiù yuán jú	消防救援局
@@ -73926,6 +73955,7 @@ xiǎo yóu nà qí jī	小尤纳奇基
 xiǎo yóu xì hé jí	小游戏合集
 xiǎo yóu zhì chóng qū	小油栉虫区
 xiǎo yóu zhì chóng tǒng	小油栉虫统
+xiǎo yú bì nàn qū	小鱼避难区
 xiǎo yú chī dà xiā	小鱼吃大虾
 xiǎo yù chí sūn xīn	小尉迟孙新
 xiǎo yú chī xiā mǐ	小鱼吃虾米
@@ -76551,6 +76581,7 @@ xūn yī cǎo zhuāng yuán	薰衣草庄园
 xún yī wèn yào wǎng	寻医问药网
 xùn yóu jiā sù qì	迅游加速器
 xún yóu xíng bìng rén	巡游型病人
+xún yóu xíng yú zhǒng	巡游型鱼种
 xún yú jí qián tǐng	鲟鱼级潜艇
 xún zhǎo de dá àn	寻找的答案
 xún zhǎo de dōng xi	寻找的东西
@@ -77065,6 +77096,7 @@ yān jiāo gāo xīn qū	燕郊高新区
 yǎn jiǎo mó yí zhí	眼角膜移植
 yǎn jiè de kāi kuò	眼界的开阔
 yǎn jié dī yǎn lù	眼洁滴眼露
+yán jié gòu sōu suǒ	沿结构搜索
 yǎn jiè hé gé jú	眼界和格局
 yán jǐn de gōng yì	严谨的工艺
 yán jīn sōng píng shì	岩津松平氏
@@ -88468,6 +88500,7 @@ zhòng shén de shān lǐng	众神的山岭
 zhōng shēn de shì yè	终身的事业
 zhōng shēn gù yòng zhì	终身雇用制
 zhōng shēn gù yōng zhì	终身雇佣制
+zhōng shēn hǎi zuò diào	中深海作钓
 zhòng shén yǔ guó wáng	众神与国王
 zhòng shén yǔ jiāng jūn	众神与将军
 zhòng shén yǔ yě shòu	众神与野兽
@@ -89755,6 +89788,7 @@ zhuī huā lǜ róng hāo	锥花绿绒蒿
 zhuī huā sī shí zhú	锥花丝石竹
 zhuì huǐ de fēi jī	坠毁的飞机
 zhuī jí hé xiāng yù	追及和相遇
+zhuī jī xíng yú zhǒng	追击型鱼种
 zhuī jiān pán biàn xìng	椎间盘变性
 zhuī jiān pán jí huàn	椎间盘疾患
 zhuī jiān pán péng chū	椎间盘膨出
@@ -96731,6 +96765,7 @@ chén gǔ zi làn zhī ma	陈谷子烂芝麻
 chén guī chén tǔ guī tǔ	尘归尘土归土
 chén hóng guāng diàn kē jì	宸鸿光电科技
 chén huà chéng jì niàn guǎn	陈化成纪念馆
+chén hūn huó yuè yú zhǒng	晨昏活跃鱼种
 chén huǒ shān jiǎo lì yán	沉火山角砾岩
 chén huǒ shān suì xiè yán	沉火山碎屑岩
 chén jī biàn zhì kuàng chuáng	沉积变质矿床
@@ -114590,6 +114625,7 @@ kǎ lín ā bǐ kǎ ní	卡啉阿比卡尼
 kǎ lín dùn zǐ wǔ quān	卡林顿子午圈
 kǎ lǔ chá kè lái yīn	卡鲁查克莱因
 kǎ luò huáng nà dòng gān	卡络磺钠冻干
+kǎ luó lái nà diào zǔ	卡罗莱纳钓组
 kā luó ní yà zhàn yì	喀罗尼亚战役
 kǎ luó sè sī fāng chéng	卡罗瑟斯方程
 kǎ luò wéi cí tiáo yuē	卡洛维茨条约
