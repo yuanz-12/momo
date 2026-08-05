@@ -2382,6 +2382,7 @@ bǎo shuì qū hǎi guān	保稅區海關
 bǎo shuì rán liào yóu	保稅燃料油
 bǎo sòng yán jiū shēng	保送研究生
 bǎo tǎ zhèn hé yāo	寶塔鎮河妖
+bào tài dà xī wàng	抱太大希望
 bǎo tán huá pú sà	寶檀華菩薩
 bào tè wéi ní kè	鮑特維尼克
 bào tiǎn tiān wù a	暴殄天物啊
@@ -3763,8 +3764,8 @@ bī zè de kōng jiān	逼仄的空間
 bǐ zhě de guān diǎn	筆者的觀點
 bì zhe de yǎn jing	閉着的眼睛
 bǐ zhě liǎo jiě dào	筆者了解到
-bì zhe yǎn jīng mǎi	閉着眼睛買
-bì zhe yǎn jīng xuǎn	閉着眼睛選
+bì zhe yǎn jing mǎi	閉着眼睛買
+bì zhe yǎn jing xuǎn	閉着眼睛選
 bǐ zhě zhù yì dào	筆者注意到
 bī zhēn de chǎng jǐng	逼真的場景
 bī zhēn de huà miàn	逼真的畫面
@@ -5623,6 +5624,7 @@ bú xiù gāng chǎo guō	不鏽鋼炒鍋
 bú xiù gāng chòng yā	不鏽鋼沖壓
 bú xiù gāng chú guì	不鏽鋼櫥櫃
 bú xiù gāng chú jù	不鏽鋼廚具
+bú xiù gāng dǎo huán	不鏽鋼導環
 bú xiù gāng dāo jù	不鏽鋼刀具
 bú xiù gāng fǎ lán	不鏽鋼法蘭
 bú xiù gāng fēng tóu	不鏽鋼封頭
@@ -6891,6 +6893,7 @@ cháng jù bái hè lán	長距白鶴蘭
 cháng jù fěn dié lán	長距粉蝶蘭
 cháng jù gēn jié lán	長距根節蘭
 cháng jù lí shū diàn	長距離輸電
+cháng jù lí tuō zhuài	長距離拖拽
 cháng jù lí xíng shǐ	長距離行駛
 cháng jù měi guān lán	長距美冠蘭
 cháng jù shé chún lán	長距舌唇蘭
@@ -7773,6 +7776,7 @@ chén shuì de shī zi	沉睡的獅子
 chén shuì de xīn líng	沉睡的心靈
 chén shuì de xiōng měng	沉睡的兇猛
 chén shuì de xióng shī	沉睡的雄獅
+chén shuǐ zhù tóu qì	沉水助投器
 chén sī chéng jiān zhì	陳思誠監製
 chén sì nài dōu zǐ	辰巳奈都子
 chén táng zhuāng tiě lù	陳塘莊鐵路
@@ -9287,6 +9291,8 @@ chuàng jiàn de yè miàn	創建的頁面
 chuàng jiàn hé biān jí	創建和編輯
 chuàng jìn nián xīn gāo	創近年新高
 chuāng kǒu chéng xù jí	窗口程序集
+chuāng kǒu qī suō duǎn	窗口期縮短
+chuāng kǒu qī yán cháng	窗口期延長
 chuāng kǒu shì kōng tiáo	窗口式空調
 chuāng lǐ de nǚ rén	窗裡的女人
 chuàng lì shǐ xīn dī	創歷史新低
@@ -10519,7 +10525,9 @@ dá ěr wén diàn bō	達爾文電波
 dá ěr wén jié jié	達爾文結節
 dá ěr wén zhǔ yì	達爾文主義
 dǎ fān cù tán zi	打翻醋罈子
+dà fàn wéi fù gài	大範圍覆蓋
 dà fàn wéi jiàng yǔ	大範圍降雨
+dà fàn wéi sōu suǒ	大範圍搜索
 dǎ fáng shǒu fǎn jī	打防守反擊
 dà fēi jī xiàng mù	大飛機項目
 dá fēn qí jiā jū	達芬奇家居
@@ -15244,6 +15252,8 @@ duàn jiā xiá shuǐ kù	段家峽水庫
 duǎn jiān qī jiǎ xiàng	短間期假象
 duàn jiǎo de xiǎo niǎo	斷腳的小鳥
 duǎn jìn chéng yōu xiān	短進程優先
+duǎn jù lí chōng cì	短距離衝刺
+duǎn jù lí tuō zhuài	短距離拖拽
 duǎn jù lí wú xiàn	短距離無線
 duǎn jù qǐ luò jī	短距起落機
 duǎn kǒng jiǎ mǎn gǔ	短孔甲蟎股
@@ -15339,6 +15349,7 @@ duǎn yè xiāng chá cài	短葉香茶菜
 duǎn yì yán huáng qí	短翼岩黃耆
 duǎn yì yán huáng qí	短翼巖黃芪
 duàn yù hé xū zhú	段譽和虛竹
+duǎn zàn chuāng kǒu qī	短暫窗口期
 duǎn zàn de ài qíng	短暫的愛情
 duǎn zàn de chūn tiān	短暫的春天
 duǎn zàn de fēn bié	短暫的分別
@@ -16358,6 +16369,7 @@ duō zhuān jiā xì tǒng	多專家系統
 èr lǐ tou yí zhǐ	二里頭遺址
 ěr liào de wèi xíng	餌料的味型
 ěr liào de zhuàng tài	餌料的狀態
+ěr liào fù jí qū	餌料富集區
 èr liè wěi líng cài	二裂委陵菜
 èr liè yín xìng yè	二裂銀杏葉
 èr lín gān yóu quán	二磷甘油醛
@@ -17463,6 +17475,8 @@ fáng bú shèng fáng a	防不勝防啊
 fāng chā bǐ jiǎn dìng	方差比檢定
 fāng chā de fèn liàng	方差的分量
 fáng chǎn kōng zhì shuì	房產空置稅
+fáng chán rào dǎo huán	防纏繞導環
+fáng chán rào tào guǎn	防纏繞套管
 fáng chǎn shuì kāi zhēng	房產稅開徵
 fáng chǎn shuì shì diǎn	房產稅試點
 fáng chǎn xìn xī wǎng	房產信息網
@@ -19631,6 +19645,7 @@ fú jí èr shì fǎ	弗吉二氏法
 fù jǐ hé dìng lǐ	復幾何定理
 fú jí ní yà zhōu	弗吉尼亞州
 fù jī wǎ lǐ nà	富基瓦里納
+fú jī xíng yú zhǒng	伏擊型魚種
 fú jì xiū yú qī	伏季休漁期
 fù jī yà shā liè	富基亞沙列
 fù jiā dà xiǎo jiě	富家大小姐
@@ -20004,6 +20019,7 @@ fù shù de jí shì	複數的極式
 fù shǔ xiāo huà xiàn	附屬消化腺
 fù shù xuǎn qū zhì	複數選區制
 fǔ shú yǒu jī féi	腐熟有機肥
+fú shuǐ zhù tóu qì	浮水助投器
 fú sī èr shì fǎ	福斯二氏法
 fù sī lìng zhǎng guān	副司令長官
 fú sī luó gōng sī	福斯羅公司
@@ -20132,6 +20148,7 @@ fù xiàn xìng kōng jiān	復線性空間
 fù xiāng guān xì shù	複相關係數
 fù xiàng liàng kōng jiān	復向量空間
 fú xiáng sì hēi cháo	蝠翔似黑潮
+fú xiǎo chuāng kǒu qī	拂曉窗口期
 fú xiǎo de yóu nà	拂曉的尤娜
 fù xiāo sè chā de	復消色差的
 fù xiāo sè chā jìng	復消色差鏡
@@ -20196,6 +20213,7 @@ fù yǒu ài xīn dì	富有愛心地
 fù yòu bǎo jiàn suǒ	婦幼保健所
 fù yòu bǎo jiàn yuàn	婦幼保健院
 fù yòu bǎo jiàn zhàn	婦幼保健站
+fú yóu shēng wù dài	浮游生物帶
 fú yóu shēng wù xué	浮游生物學
 fù yú biǎo xiàn lì	富於表現力
 fù yǔ bú yù zhě	復與不癒者
@@ -20954,6 +20972,7 @@ gǎo bù qīng chu a	搞不清楚啊
 gǎo bù qīng chu de	搞不清楚的
 gǎo bù qīng chu le	搞不清楚了
 gǎo bú xià qù le	搞不下去了
+gāo chǎn sì mǔ zhū	高產似母豬
 gāo chāng huí hú guó	高昌回鶻國
 gāo chǎng yuán zhǒng chǎng	高場原種場
 gāo chāo de chú yì	高超的廚藝
@@ -23305,6 +23324,7 @@ gǔ diǎn shēng wù xíng	古典生物型
 gǔ diǎn xiāng róng de	古典相容的
 gǔ diǎn xué xué zhě	古典學學者
 gǔ diǎn yǔ shí shàng	古典與時尚
+gù dìng chuāng kǒu qī	固定窗口期
 gù dìng hòu xuǎn xiàng	固定候選項
 gù dìng huì lǜ zhì	固定匯率制
 gù dìng jià hé tong	固定價合同
@@ -26128,6 +26148,7 @@ hé běi shū fǎ jiā	河北書法家
 hé běi táng shān de	河北唐山的
 hé běi tǐ yù guǎn	河北體育館
 hé běi wài guó yǔ	河北外國語
+hé běi xìn dé shè	河北信德社
 hé běi yī kē dà	河北醫科大
 hé běi yī xué yuàn	河北醫學院
 hé běi yóu jī jūn	河北游擊軍
@@ -28544,6 +28565,7 @@ huǎn bù dòng wù mén	緩步動物門
 huàn cǎi lán shā yán	幻彩藍砂岩
 huàn cǎi yǒng xiāng jiāng	幻彩詠香江
 huán cháo hú dà dào	環巢湖大道
+huǎn chén zhù tóu qì	緩沉助投器
 huán chéng běi lù kǒu	環城北路口
 huán chéng běi lù zhàn	環城北路站
 huàn chéng céng huàn chéng	換乘層換乘
@@ -28968,6 +28990,7 @@ huáng huā shuǐ bā jiāo	黃花水芭蕉
 huáng huá xīn jì yuán	煌華新紀元
 huáng huā yán bào chūn	黃花巖報春
 huāng huāng zhāng zhāng de	慌慌張張地
+huáng hūn chuāng kǒu qī	黃昏窗口期
 huáng hūn de guǎng chǎng	黃昏的廣場
 huáng hūn de jiǎo luò	黃昏的角落
 huáng hūn lí mí jué	黃昏黎糜覺
@@ -34067,6 +34090,7 @@ jiě tí de fāng fǎ	解題的方法
 jiě tí de sī lù	解題的思路
 jiē tī jīn zì tǎ	階梯金字塔
 jiē tī shì dì jìn	階梯式遞進
+jiē tī shì sōu xún	階梯式搜尋
 jié tǐ xī shī lù	潔體西施露
 jiē tī xíng jī chǔ	階梯形基礎
 jiē tī xíng jǔ zhèn	階梯形矩陣
@@ -34232,6 +34256,7 @@ jìn dào de miàn tiáo	勁道的面條
 jīn dào guì jīn shǔ	金道貴金屬
 jīn dé ěr bó gé	金德爾伯格
 jīn dēng sì shí kū	金燈寺石窟
+jìn dǐ céng huó dòng	近底層活動
 jìn dì qiú guǐ dào	近地球軌道
 jìn dì xiǎo xíng xīng	近地小行星
 jìn dì zhǔ zhī yì	盡地主之誼
@@ -39394,7 +39419,7 @@ lǎng zhī wàn fāng chéng	朗之萬方程
 lǎng zhī wàn hán shù	朗之萬函數
 lǎng zhī wàn lǐ lùn	朗之萬理論
 lǎng zhī wàn zhèn zǐ	朗之萬振子
-láng zhōng qīng zhēn sì	閬中清真寺
+làng zhōng qīng zhēn sì	閬中清真寺
 làng zhú qiān qiū fēng	浪逐千秋峯
 láo āi dé dà shà	勞埃德大廈
 láo āi dé lán dīng	勞埃德蘭丁
@@ -39838,6 +39863,7 @@ lěng méng lǐ gōng nán	冷萌理工男
 lěng mò yǔ wēn róu	冷漠與溫柔
 lěng níng jí shì yàn	冷凝集試驗
 lěng níng xiè shuǐ qì	冷凝洩水器
+lěng nuǎn liú jiāo huì	冷暖流交匯
 lěng què shí jiān duǎn	冷卻時間短
 lěng què tuō shuǐ fǎ	冷卻脫水法
 lěng quē xuè shí jiān	冷缺血時間
@@ -40349,7 +40375,7 @@ lì wèi mín suǒ móu	利為民所謀
 lì wēi xiū fù zhòng	力微休負重
 lǐ wén huà chǎn yè	禮文化產業
 lì wén shí lóng zǐ	麗紋石龍子
-lì wén zhèng jīng huà	麗文正經話
+lì wén zhèng jing huà	麗文正經話
 lǐ wò èr shì fǎ	裏沃二氏法
 lǐ wò lì zhàn yì	裏沃利戰役
 lí wǒ yuǎn diǎn er	離我遠點兒
@@ -46005,6 +46031,7 @@ nà shí de zhōng guó	那時的中國
 nà shí hou hái xiǎo	那時候還小
 ná shì jiè guàn jūn	拿世界冠軍
 ná shí lì shuō huà	拿實力說話
+nà shì nǐ de shì	那是你的事
 nà shí nián shào a	那時年少啊
 nà shí wǒ hái xiǎo	那時我還小
 nà shí yuè zhèng yuán	那時月正圓
@@ -50736,6 +50763,7 @@ qiāng cháng dòng wù mén	腔腸動物門
 qiàng chǎo yuán bái cài	熗炒圓白菜
 qiáng chéng zhòng jié gòu	牆承重結構
 qiǎng cí duó lǐ de	強詞奪理的
+qiáng cí lā ěr pán	強磁拉餌盤
 qiáng dà de bèi jǐng	強大的背景
 qiáng dà de gōng shì	強大的攻勢
 qiáng dà de guó lì	強大的國力
@@ -52003,6 +52031,7 @@ qīng xīn lián zǐ yǐn	清心蓮子飲
 qīng xīn lǜ chá de	清新綠茶的
 qīng xīn wū lóng chá	青心烏龍茶
 qīng xíng chōng fēng qiāng	輕型衝鋒槍
+qīng xíng dà wù gān	輕型大物竿
 qīng xíng diàn dòng chē	輕型電動車
 qīng xíng gāng jié gòu	輕型鋼結構
 qīng xíng gōng jī jī	輕型攻擊機
@@ -63688,6 +63717,7 @@ tài háng shān lù zhàn	太行山路站
 tài hào fú xī shì	太昊伏羲氏
 tài hé chéng yí zhǐ	太和城遺址
 tài hé gōng jīn diàn	太和宮金殿
+tài hé jīn gān shāo	鈦合金竿稍
 tài hé lì zhì zhuàn	太合立志傳
 tài hé yán pái lóu	太和巖牌樓
 tài hòu lǎo fó yé	太后老佛爺
@@ -65405,6 +65435,7 @@ tiě jiǎ xiǎo líng jīng	鐵甲小靈精
 tiě jiǎ xiǎo qí shì	鐵甲小騎士
 tiě jiǎo wú gōng gēn	鐵腳蜈蚣根
 tiě jiào zi lè he	鐵叫子樂和
+tiē jié gòu yóu zǒu	貼結構遊走
 tiě jié hé dàn bái	鐵結合蛋白
 tiě kuàng shí mào yì	鐵礦石貿易
 tiě kuàng shí pǐn wèi	鐵礦石品位
@@ -69656,6 +69687,7 @@ wú guī lǜ kě xún	無規律可循
 wǔ guì shān shān mài	五桂山山脈
 wǔ guì shān zhǔ fēng	五桂山主峰
 wú guī xǐ fà shuǐ	無硅洗髮水
+wú guī zé piāo luò	無規則飄落
 wǔ gùn jù lè bù	舞棍俱樂部
 wú guó jí rén shì	無國籍人士
 wú guó jiè yī shī	無國界醫師
@@ -73258,6 +73290,7 @@ xiǎo ěr kē wò zhàn	曉爾科沃站
 xiāo ěr yǎn suàn fǎ	蕭爾演算法
 xiǎo fǎn chú shòu yì	小反芻獸疫
 xiǎo fàn shū dǎo qū	小販疏導區
+xiǎo fàn wéi sōu yú	小範圍搜魚
 xiǎo fāng gé biǎo fǎ	小方格表法
 xiǎo fāng gé wǎng fǎ	小方格網法
 xiāo fáng jiù yuán jú	消防救援局
@@ -73926,6 +73959,7 @@ xiǎo yóu nà qí jī	小尤納奇基
 xiǎo yóu xì hé jí	小遊戲合集
 xiǎo yóu zhì chóng qū	小油櫛蟲區
 xiǎo yóu zhì chóng tǒng	小油櫛蟲統
+xiǎo yú bì nàn qū	小魚避難區
 xiǎo yú chī dà xiā	小魚吃大蝦
 xiǎo yù chí sūn xīn	小尉遲孫新
 xiǎo yú chī xiā mǐ	小魚吃蝦米
@@ -76551,6 +76585,7 @@ xūn yī cǎo zhuāng yuán	薰衣草莊園
 xún yī wèn yào wǎng	尋醫問藥網
 xùn yóu jiā sù qì	迅遊加速器
 xún yóu xíng bìng rén	巡遊型病人
+xún yóu xíng yú zhǒng	巡遊型魚種
 xún yú jí qián tǐng	鱘魚級潛艇
 xún zhǎo de dá àn	尋找的答案
 xún zhǎo de dōng xi	尋找的東西
@@ -77065,6 +77100,7 @@ yān jiāo gāo xīn qū	燕郊高新區
 yǎn jiǎo mó yí zhí	眼角膜移植
 yǎn jiè de kāi kuò	眼界的開闊
 yǎn jié dī yǎn lù	眼潔滴眼露
+yán jié gòu sōu suǒ	沿結構搜索
 yǎn jiè hé gé jú	眼界和格局
 yán jǐn de gōng yì	嚴謹的工藝
 yán jīn sōng píng shì	巖津松平氏
@@ -77902,7 +77938,7 @@ yáo gǔn yuè rén wù	搖滾樂人物
 yáo gǔn yuè zhī wáng	搖滾樂之王
 yáo hǎi gōng yuán zhàn	瑤海公園站
 yáo hǎi tíng bǎo chǎng	瑤海停保場
-yāo hǎo hǎo huó zhe	要好好活着
+yào hǎo hǎo huó zhe	要好好活着
 yáo hào zhòng qiān lǜ	搖號中籤率
 yǎo hé bù píng héng	咬頜不平衡
 yào hē diǎn chá ma	要喝點茶嗎
@@ -78040,7 +78076,7 @@ yáo yáo xiǎo wěi ba	搖搖小尾巴
 yáo yè bì yún xié	搖曳碧雲斜
 yáo yè de shēn zī	搖曳的身姿
 yáo yè de zhú guāng	搖曳的燭光
-yào yì běn zhèng jīng	要一本正經
+yào yì běn zhèng jing	要一本正經
 yào yì fēn wéi èr	要一分為二
 yào yīng yán shuǐ kù	鷂鷹巖水庫
 yào yòng jià zhí gāo	藥用價值高
@@ -82475,6 +82511,8 @@ yōu yì de yè jì	優異的業績
 yōu yì de zhì liàng	優異的質量
 yǒu yí dìng jī lǜ	有一定幾率
 yǒu yí duì chì bǎng	有一對翅膀
+yǒu yí gè rén shì	有一個人是
+yǒu yí gè rèn shi	有一個認識
 yǒu yí gè shì jiè	有一個世界
 yòu yí gè shì jiè	又一個世界
 yòu yí gè shí nián	又一個十年
@@ -88468,6 +88506,7 @@ zhòng shén de shān lǐng	眾神的山嶺
 zhōng shēn de shì yè	終身的事業
 zhōng shēn gù yòng zhì	終身僱用制
 zhōng shēn gù yōng zhì	終身僱傭制
+zhōng shēn hǎi zuò diào	中深海作釣
 zhòng shén yǔ guó wáng	眾神與國王
 zhòng shén yǔ jiāng jūn	眾神與將軍
 zhòng shén yǔ yě shòu	眾神與野獸
@@ -89755,6 +89794,7 @@ zhuī huā lǜ róng hāo	錐花綠絨蒿
 zhuī huā sī shí zhú	錐花絲石竹
 zhuì huǐ de fēi jī	墜毀的飛機
 zhuī jí hé xiāng yù	追及和相遇
+zhuī jī xíng yú zhǒng	追擊型魚種
 zhuī jiān pán biàn xìng	椎間盤變性
 zhuī jiān pán jí huàn	椎間盤疾患
 zhuī jiān pán péng chū	椎間盤膨出
@@ -94128,7 +94168,7 @@ bì yǒu kě hèn zhī chù	必有可恨之處
 bì yǒu qù gù zhī bēi	必有去故之悲
 bì yuè xiū huā zhī mào	閉月羞花之貌
 bì yún guó jì shè qū	碧雲國際社區
-bì zhe yǎn jīng zǒu lù	閉着眼睛走路
+bì zhe yǎn jing zǒu lù	閉着眼睛走路
 bì zhì tuǒ shī guì bǎo	必治妥施貴寶
 bì zhī wéi kǒng bù jí	避之唯恐不及
 bí zhōng gé gǔ jǐ cì	鼻中隔骨嵴刺
@@ -95658,7 +95698,7 @@ bú zhèng cháng de zhuàng tài	不正常的狀態
 bú zhèng dāng de guān xì	不正當的關係
 bú zhèng dāng de shǒu duàn	不正當的手段
 bú zhèng dāng jìng zhēng àn	不正當競爭案
-bú zhèng jīng de nǚ rén	不正經的女人
+bú zhèng jing de nǚ rén	不正經的女人
 bú zhèng què de zī shì	不正確的姿勢
 bú zhèng què de zuò zī	不正確的坐姿
 bù zhī bǐ ér zhī jǐ	不知彼而知己
@@ -96731,6 +96771,7 @@ chén gǔ zi làn zhī ma	陳穀子爛芝麻
 chén guī chén tǔ guī tǔ	塵歸塵土歸土
 chén hóng guāng diàn kē jì	宸鴻光電科技
 chén huà chéng jì niàn guǎn	陳化成紀念館
+chén hūn huó yuè yú zhǒng	晨昏活躍魚種
 chén huǒ shān jiǎo lì yán	沉火山角礫岩
 chén huǒ shān suì xiè yán	沉火山碎屑巖
 chén jī biàn zhì kuàng chuáng	沉積變質礦床
@@ -98581,7 +98622,6 @@ dá kè xiè wéi qí hé	達克謝維奇核
 dà kǒng jìng chuān liú bǎn	大孔徑穿流板
 dà kǒng xī fù shù zhī	大孔吸附樹脂
 dà kǒu dà kǒu de chī	大口大口地喫
-dà kǒu dà kǒu de chī	大口大口的喫
 dà kǒu jìng jié zhǐ fá	大口徑截止閥
 dà kǒu jìng zhǐ huí fá	大口徑止回閥
 dá kù ní yà niǎo lèi	達庫尼亞鳥類
@@ -100899,7 +100939,7 @@ dōu nán gāo sù gōng lù	都南高速公路
 dōu néng rú yuàn yǐ cháng	都能如願以償
 dōu pǔ jīn shǔ bù fen	都普金屬部分
 dōu pǔ jīn shǔ bù jiàn	都普金屬部件
-dōu shì bì zhe yǎn jīng	都是閉着眼睛
+dōu shì bì zhe yǎn jing	都是閉着眼睛
 dōu shì bù hé lǐ de	都是不合理的
 dōu shì guò yǎn yún yān	都是過眼雲煙
 dōu shì hěn lā jī de	都是很垃圾的
@@ -108701,7 +108741,7 @@ hěn shū fu de yàng zi	很舒服的樣子
 hèn tiě bù chéng gāng a	恨鐵不成鋼啊
 hěn wēi miào de gǎn jué	很微妙的感覺
 hěn wēi xiǎn de dōng xi	很危險的東西
-hěn yāo hǎo de péng you	很要好的朋友
+hěn yào hǎo de péng you	很要好的朋友
 hěn yáo yuǎn de shì qíng	很遙遠的事情
 hěn yǒu jì niàn yì yì	很有紀念意義
 hěn yǒu yì yì de shì	很有意義的事
@@ -114590,6 +114630,7 @@ kǎ lín ā bǐ kǎ ní	卡啉阿比卡尼
 kǎ lín dùn zǐ wǔ quān	卡林頓子午圈
 kǎ lǔ chá kè lái yīn	卡魯查克萊因
 kǎ luò huáng nà dòng gān	卡絡磺鈉凍乾
+kǎ luó lái nà diào zǔ	卡羅萊納釣組
 kā luó ní yà zhàn yì	喀羅尼亞戰役
 kǎ luó sè sī fāng chéng	卡羅瑟斯方程
 kǎ luò wéi cí tiáo yuē	卡洛維茨條約
@@ -120498,7 +120539,7 @@ nì xíng zhóu tū yùn shū	逆行軸突運輸
 ní yà jiā lā bàn dǎo	尼亞加拉半島
 ní yà jiā lā pù bù	尼亞加拉瀑布
 nǐ yǎn zhōng de shì jiè	你眼中的世界
-nǐ yāo hǎo hǎo bǎ wò	你要好好把握
+nǐ yào hǎo hǎo bǎ wò	你要好好把握
 nǐ yào qù de dì fāng	你要去的地方
 nǐ yě shì rén lèi ma	你也是人類嗎
 nǐ yé ye de nǎi nai	你爺爺的奶奶
@@ -124783,6 +124824,7 @@ rú cǐ gāo de jià gé	如此高的價格
 rú cǐ gāo de píng jià	如此高的評價
 rú cǐ hòu yán wú chǐ	如此厚顏無恥
 rú cǐ huān lè tóng nián	如此歡樂童年
+rú cǐ jiǎn dān diǎn shì	如此簡單點事
 rú cǐ jīng xīn dòng pò	如此驚心動魄
 rú cǐ míng mù zhāng dǎn	如此明目張膽
 rú cǐ yǔ zhòng bù tóng	如此與眾不同
@@ -130428,6 +130470,7 @@ tài tiě huī shǎn mài yán	鈦鐵輝閃脈岩
 tái tóu de yí shùn jiān	抬頭的一瞬間
 tái wān chéng gōng dà xué	臺灣成功大學
 tái wān chuán tǒng shí pǐn	臺灣傳統食品
+tái wān jī tǐ diàn lù	臺灣積體電路
 tái wān jiāo tōng dà xué	臺灣交通大學
 tái wān qīng huá dà xué	臺灣清華大學
 tái xī jī dū jiào huì	臺西基督教會
@@ -136026,7 +136069,6 @@ xiāo xiāng zhí yè xué yuàn	瀟湘職業學院
 xiǎo xīn bèi hòu yǒu guǐ	小心背後有鬼
 xiǎo xīn yǎn de nán rén	小心眼的男人
 xiǎo xīn yì yì de kàn	小心翼翼地看
-xiǎo xīn yì yì de wèn	小心翼翼的問
 xiǎo xīn yì yì de wèn	小心翼翼地問
 xiǎo xíng bǔ rǔ dòng wù	小型哺乳動物
 xiǎo xíng fú yóu shēng wù	小型浮游生物
@@ -138403,7 +138445,7 @@ yáo gǎn tú xiàng chǔ lǐ	遙感圖像處理
 yāo guài rén jiān bèi mǔ	妖怪人間貝姆
 yáo gǔn de tài yáng huā	搖滾的太陽花
 yáo gǔn qī shí nián dài	搖滾七十年代
-yāo hǎo hǎo dì huó zhe	要好好地活着
+yào hǎo hǎo dì huó zhe	要好好地活着
 yǎo hé guān xì cuò luàn	咬合關係錯亂
 yáo hōng gān de hōng gān	窯烘乾的烘乾
 yào huá bīn hǎi xué xiào	耀華濱海學校
@@ -138975,7 +139017,7 @@ yí gè bǐ yí gè è	一個比一個惡
 yí gè bǐ yí gè qiáng	一個比一個強
 yí gè bǐ yí gè xiōng	一個比一個兇
 yí gè dì zhǔ de sǐ	一個地主的死
-yí gè hěn yāo hǎo de	一個很要好的
+yí gè hěn yào hǎo de	一個很要好的
 yí gè jiào xiǎo hóng de	一個叫小紅的
 yí gè jǐng xíng xíng zhǐ	一個景行行止
 yí gè kōng láo qiān guà	一個空勞牽掛
@@ -138996,6 +139038,7 @@ yí gè wèi zhī shì jiè	一個未知世界
 yí gè wǔ shí duō suì	一個五十多歲
 yí gè wú suǒ wèi jù	一個無所畏懼
 yí gè yuán de miàn jī	一個圓的面積
+yì gēn jīn liǎng tóu dǔ	一根筋兩頭堵
 yǐ gèng dī de jià gé	以更低的價格
 yǐ gèng gāo de zhàn wèi	以更高的站位
 yǐ gōng kāi cù gōng zhèng	以公開促公正
@@ -142861,6 +142904,7 @@ zhē mǎo tán yā wěi yuán	遮卯彈壓委員
 zhè me dà gè shì er	這麼大個事兒
 zhè me dà gè shì qíng	這麼大個事情
 zhè me dà yí gè shì	這麼大一個事
+zhè me jiǎn dān diǎn shì	這麼簡單點事
 zhè me lǐ zhí qì zhuàng	這麼理直氣壯
 zhè me yí jiàn shì er	這麼一件事兒
 zhè me yì lái èr qù	這麼一來二去
@@ -143418,8 +143462,8 @@ zhèng zé yǒu lǐ yìng shè	正則有理映射
 zhèng zé zhì xìn qū yù	正則置信區域
 zhēng zhá zài wēn bǎo xiàn	掙扎在溫飽線
 zhèng zhào shì fǒu qí quán	證照是否齊全
-zhēng zhe yǎn jīng shuì jiào	睜着眼睛睡覺
-zhēng zhe yǎn jīng zuò mèng	睜着眼睛做夢
+zhēng zhe yǎn jing shuì jiào	睜着眼睛睡覺
+zhēng zhe yǎn jing zuò mèng	睜着眼睛做夢
 zhèng zhì ān quán bǎo wèi	政治安全保衛
 zhèng zhì bǎ wò néng lì	政治把握能力
 zhèng zhì bú què dìng xìng	政治不確定性
@@ -153753,7 +153797,7 @@ fēi cháng yán zhòng de hòu guǒ	非常嚴重的後果
 fēi cháng yán zhòng de qíng kuàng	非常嚴重的情況
 fēi cháng yán zhòng de shāng hài	非常嚴重的傷害
 fēi cháng yán zhòng de yǐng xiǎng	非常嚴重的影響
-fēi cháng yāo hǎo de péng you	非常要好的朋友
+fēi cháng yào hǎo de péng you	非常要好的朋友
 fēi cháng yōu xiù de xuǎn shǒu	非常優秀的選手
 fēi cháng zāo gāo de shì qíng	非常糟糕的事情
 fēi cháng zhèng cháng de xiàn xiàng	非常正常的現象
@@ -161131,7 +161175,7 @@ zhèng wù yǎng jī huà hé wù	正戊氧基化合物
 zhěng xíng měi róng wài kē xué	整形美容外科學
 zhèng zé xíng shì de bó yì	正則形式的博弈
 zhèng zhǎng qiú lì xiá ní yán	正長球粒霞霓巖
-zhēng zhe yǎn jīng shuō xiā huà	睜着眼睛說瞎話
+zhēng zhe yǎn jing shuō xiā huà	睜着眼睛說瞎話
 zhèng zhì jīng jì xué gài lùn	政治經濟學概論
 zhēng zhī rú dòu mǐ fàn jiǔ	蒸之如斗米飯久
 zhèng zhōng hé guān xì yì cháng	正中頜關係異常
@@ -162295,6 +162339,7 @@ zhòng shǎng zhī xià bì yǒu yǒng fū	重賞之下必有勇夫
 zhòng yào de shì qíng shuō sān biàn	重要的事情說三遍
 zhōu kǒu diàn yú huà shí chǎn dì	周口店魚化石產地
 zhǔ dòng mài bàn guān bì bù quán	主動脈瓣關閉不全
+zhù fáng yǔ chéng xiāng jiàn shè bù	住房與城鄉建設部
 zhuàng shì yí qù xī bú fù fǎn	壯士一去兮不復返
 zì jǐ yí bù yí gè jiǎo yìn	自己一步一個腳印
 zǐ wài kě jiàn fēn guāng guāng dù	紫外可見分光光度

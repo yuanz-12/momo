@@ -2393,6 +2393,7 @@ sort: by_weight
 保稅燃料油	bǎo;ra shuì;hx rán;hh liào;md yóu;dy	10
 保送研究生	bǎo;ra sòng;zt yán;uk jiū;bj shēng;pf	10
 寶塔鎮河妖	bǎo;bb tǎ;tk zhèn;jb hé;dk yāo;ny	10
+抱太大希望	bào;fb tài;dd dà;ar xī;xj wàng;ww	1
 寶檀華菩薩	bǎo;bb tán;ad huá;cf pú;ck sà;cu	10
 鮑特維尼克	bào;yb tè;nc wéi;sv ní;ub kè;ux,ge	10
 暴殄天物啊	bào;ou tiǎn;dp tiān;ad wù;nw a;kk	10
@@ -3774,8 +3775,8 @@ sort: by_weight
 筆者的觀點	bǐ;vy zhě;lo de;bu guān;cj diǎn;lv	10
 閉着的眼睛	bì;mc zhe;yo de;bu yǎn;og jing;oo	10
 筆者了解到	bǐ;vy zhě;lo liǎo;al jiě;dn dào;gd	10
-閉着眼睛買	bì;mc zhe;yo yǎn;og jīng;oo mǎi;sb	10
-閉着眼睛選	bì;mc zhe;yo yǎn;og jīng;oo xuǎn;zg	10
+閉着眼睛買	bì;mc zhe;yo yǎn;og jing;oo mǎi;sb	10
+閉着眼睛選	bì;mc zhe;yo yǎn;og jing;oo xuǎn;zg	10
 筆者注意到	bǐ;vy zhě;lo zhù;dv yì;lx dào;gd	10
 逼真的場景	bī;zt zhēn;ub de;bu chǎng;tw jǐng;ox	10
 逼真的畫面	bī;zt zhēn;ub de;bu huà;ya miàn;ao	10
@@ -5634,6 +5635,7 @@ sort: by_weight
 不鏽鋼沖壓	bú;ab xiù;ja gāng;ju chòng;dv yā;it	10
 不鏽鋼櫥櫃	bú;ab xiù;ja gāng;ju chú;ac guì;ab	10
 不鏽鋼廚具	bú;ab xiù;ja gāng;ju chú;gc jù;qb	10
+不鏽鋼導環	bú;ab xiù;ja gāng;ju dǎo;zc huán;wy	1
 不鏽鋼刀具	bú;ab xiù;ja gāng;ju dāo;vp jù;qb	10
 不鏽鋼法蘭	bú;ab xiù;ja gāng;ju fǎ;dq lán;cj	10
 不鏽鋼封頭	bú;ab xiù;ja gāng;ju fēng;tc tóu;dy	10
@@ -6902,6 +6904,7 @@ sort: by_weight
 長距粉蝶蘭	cháng;ey jù;zj fěn;mf dié;ia lán;cj	10
 長距根節蘭	cháng;ey jù;zj gēn;ag jié;ve lán;cj	10
 長距離輸電	cháng;ey jù;zj lí;wv shū;id diàn;yd	10
+長距離拖拽	cháng;ey jù;zj lí;wv tuō;fy zhuài;fy	1
 長距離行駛	cháng;ey jù;zj lí;wv xíng;rd shǐ;mu	10
 長距美冠蘭	cháng;ey jù;zj měi;yd guān;bc lán;cj	10
 長距舌唇蘭	cháng;ey jù;zj shé;qk chún;ik lán;cj	10
@@ -7784,6 +7787,7 @@ sort: by_weight
 沉睡的心靈	chén;dj shuì;ot de;bu xīn;dd líng;yr	10
 沉睡的兇猛	chén;dj shuì;ot de;bu xiōng;xe měng;qm	10
 沉睡的雄獅	chén;dj shuì;ot de;bu xióng;uv shī;qj	10
+沉水助投器	chén;dj shuǐ;ln zhù;ql tóu;fu qì;xx	1
 陳思誠監製	chén;ed sī;tx chéng;yi jiān;im zhì;ny	10
 辰巳奈都子	chén;iy sì;kv nài;du dōu;le zǐ;la	10
 陳塘莊鐵路	chén;ed táng;tk zhuāng;ct tiě;jw lù;zk	10
@@ -9298,6 +9302,8 @@ sort: by_weight
 創建和編輯	chuàng;rd jiàn;zy hé;hk biān;sc jí;ie	10
 創近年新高	chuàng;rd jìn;zt nián;pf xīn;lt gāo;wk	10
 窗口程序集	chuāng;bw kǒu;la chéng;hw xù;gy jí;ra	10
+窗口期縮短	chuāng;bw kǒu;la qī;co suō;sb duǎn;ub	1
+窗口期延長	chuāng;bw kǒu;la qī;co yán;zv cháng;ey	1
 窗口式空調	chuāng;bw kǒu;la shì;gg kōng;bg tiáo;yk	10
 窗裡的女人	chuāng;bw lǐ;pl de;bu nǚ;va rén;pn	10
 創歷史新低	chuàng;rd lì;iv shǐ;kn xīn;lt dī;ru	10
@@ -10530,7 +10536,9 @@ sort: by_weight
 達爾文結節	dá;zy ěr;ab wén;wx jié;sk jié;ve	10
 達爾文主義	dá;zy ěr;ab wén;wx zhǔ;wt yì;yw	10
 打翻醋罈子	dǎ;fd fān;mx cù;yo tán;fu zi;la	10
+大範圍覆蓋	dà;ar fàn;vv wéi;wf fù;xw gài;cm	1
 大範圍降雨	dà;ar fàn;vv wéi;wf jiàng;ef yǔ;ad	10
+大範圍搜索	dà;ar fàn;vv wéi;wf sōu;fy suǒ;ux	1
 打防守反擊	dǎ;fd fáng;ef shǒu;bc fǎn;iy jī;iu	10
 大飛機項目	dà;ar fēi;fc jī;ar xiàng;gy mù;we	10
 達芬奇家居	dá;zy fēn;cf qí;dk jiā;bu jū;ug	10
@@ -15255,6 +15263,8 @@ sort: by_weight
 短間期假象	duǎn;ub jiān;mo qī;co jiǎ;ry xiàng;du	10
 斷腳的小鳥	duàn;vt jiǎo;oe de;bu xiǎo;lb niǎo;nh	10
 短進程優先	duǎn;ub jìn;zv chéng;hw yōu;rw xiān;ne	10
+短距離衝刺	duǎn;ub jù;zj lí;wv chōng;rv cì;ud	1
+短距離拖拽	duǎn;ub jù;zj lí;wv tuō;fy zhuài;fy	1
 短距離無線	duǎn;ub jù;zj lí;wv wú;ph xiàn;su	10
 短距起落機	duǎn;ub jù;zj qǐ;tj luò;ck jī;ar	10
 短孔甲蟎股	duǎn;ub kǒng;zv jiǎ;ol,tl mǎn;ir gǔ;ou	10
@@ -15350,6 +15360,7 @@ sort: by_weight
 短翼岩黃耆	duǎn;ub yì;xg yán;uu huáng;cb qí;lo	10
 短翼巖黃芪	duǎn;ub yì;xg yán;uw huáng;cb qí;cu	10
 段譽和虛竹	duàn;pu yù;jk hé;hk xū;hy zhú;gg	10
+短暫窗口期	duǎn;ub zàn;io chuāng;bw kǒu;la qī;co	1
 短暫的愛情	duǎn;ub zàn;io de;bu ài;vw qíng;xo	10
 短暫的春天	duǎn;ub zàn;io de;bu chūn;io tiān;ad	10
 短暫的分別	duǎn;ub zàn;io de;bu fēn;bd bié;kd	10
@@ -16369,6 +16380,7 @@ sort: by_weight
 二里頭遺址	èr;aa lǐ;tt tou;dy yí;zb zhǐ;tv	10
 餌料的味型	ěr;ue liào;md de;bu wèi;kw xíng;kt	10
 餌料的狀態	ěr;ue liào;md de;bu zhuàng;pq tài;sx	10
+餌料富集區	ěr;ue liào;md fù;bt jí;ra qū;kk	1
 二裂委陵菜	èr;aa liè;dy wěi;hn líng;ew cài;ca	10
 二裂銀杏葉	èr;aa liè;dy yín;jg xìng;ak yè;ca	10
 二磷甘油醛	èr;aa lín;uf gān;ca yóu;dy quán;yw	10
@@ -17474,6 +17486,8 @@ sort: by_weight
 方差比檢定	fāng;wv chā;yg bǐ;bb jiǎn;ar dìng;bz	10
 方差的分量	fāng;wv chā;yg de;bu fèn;bd liàng;ol	10
 房產空置稅	fáng;hf chǎn;wu kōng;bg zhì;sq shuì;hx	10
+防纏繞導環	fáng;ef chán;st rào;sw dǎo;zc huán;wy	1
+防纏繞套管	fáng;ef chán;st rào;sw tào;dg guǎn;vl	1
 房產稅開徵	fáng;hf chǎn;wu shuì;hx kāi;mk zhēng;rw	10
 房產稅試點	fáng;hf chǎn;wu shuì;hx shì;yg diǎn;lv	10
 房產信息網	fáng;hf chǎn;wu xìn;rk xī;zx wǎng;sw	10
@@ -19642,6 +19656,7 @@ sort: by_weight
 復幾何定理	fù;rw jǐ;gr hé;rk dìng;bz lǐ;wl	10
 弗吉尼亞州	fú;gl jí;tk ní;ub yà;aa zhōu;dl	10
 富基瓦里納	fù;bt jī;ct wǎ;ad lǐ;tt nà;sn	10
+伏擊型魚種	fú;rq jī;iu xíng;kt yú;dh zhǒng;hv	1
 伏季休漁期	fú;rq jì;hz xiū;ra yú;dy qī;co	10
 富基亞沙列	fù;bt jī;ct yà;aa shā;du liè;dd	10
 富家大小姐	fù;bt jiā;bu dà;ar xiǎo;lb jiě;nq	10
@@ -20015,6 +20030,7 @@ sort: by_weight
 附屬消化腺	fù;ec shǔ;ui xiāo;do huà;rb xiàn;ou	10
 複數選區制	fù;pw shù;uw xuǎn;zg qū;kk zhì;nd	10
 腐熟有機肥	fǔ;gr shú;wh yǒu;uo jī;ar féi;ob	10
+浮水助投器	fú;dz shuǐ;ln zhù;ql tóu;fu qì;xx	1
 福斯二氏法	fú;pt sī;ct èr;aa shì;pv fǎ;dq	10
 副司令長官	fù;ad sī;vk lìng;rs zhǎng;ey guān;bl	10
 福斯羅公司	fú;pt sī;ct luó;sv gōng;bs sī;vk	10
@@ -20143,6 +20159,7 @@ sort: by_weight
 複相關係數	fù;pw xiāng;ao guān;mj xì;rx shù;uw	10
 復向量空間	fù;rw xiàng;pk liàng;ol kōng;bg jiān;mo	10
 蝠翔似黑潮	fú;it xiáng;yx sì;rr hēi;lh cháo;do	10
+拂曉窗口期	fú;ff xiǎo;ow chuāng;bw kǒu;la qī;co	1
 拂曉的尤娜	fú;ff xiǎo;ow de;bu yóu;yd nà;ne	10
 復消色差的	fù;rw xiāo;do sè;db chā;yg de;bu	10
 復消色差鏡	fù;rw xiāo;do sè;db chā;yg jìng;je	10
@@ -20207,6 +20224,7 @@ sort: by_weight
 婦幼保健所	fù;nj yòu;yl bǎo;ra jiàn;ry suǒ;ht	10
 婦幼保健院	fù;nj yòu;yl bǎo;ra jiàn;ry yuàn;ey	10
 婦幼保健站	fù;nj yòu;yl bǎo;ra jiàn;ry zhàn;lv	10
+浮游生物帶	fú;dz yóu;dz shēng;pf wù;nw dài;cj	1
 浮游生物學	fú;dz yóu;dz shēng;pf wù;nw xué;jz	10
 富於表現力	fù;bt yú;fd biǎo;fy xiàn;wj lì;vp	10
 復與不癒者	fù;rw yǔ;jb bú;ab yù;bx zhě;lo	10
@@ -20965,6 +20983,7 @@ sort: by_weight
 搞不清楚的	gǎo;fk bù;ab qīng;do chu;az de;bu	10
 搞不清楚了	gǎo;fk bù;ab qīng;do chu;az le;al	10
 搞不下去了	gǎo;fk bú;ab xià;ab qù;ts le;al	10
+高產似母豬	gāo;wk chǎn;wu sì;rr mǔ;md zhū;uo	10
 高昌回鶻國	gāo;wk chāng;oo huí;wk hú;gn guó;wa	10
 高場原種場	gāo;wk chǎng;tw yuán;ix zhǒng;hv chǎng;tw	10
 高超的廚藝	gāo;wk chāo;tk de;bu chú;gc yì;cy	10
@@ -23316,6 +23335,7 @@ sort: by_weight
 古典相容的	gǔ;uk diǎn;qb,cb xiāng;ao róng;bg de;bu	10
 古典學學者	gǔ;uk diǎn;qb,cb xué;jz xué;jz zhě;lo	10
 古典與時尚	gǔ;uk diǎn;qb,cb yǔ;jb shí;oc shàng;xk	10
+固定窗口期	gù;wg dìng;bz chuāng;bw kǒu;la qī;co	1
 固定候選項	gù;wg dìng;bz hòu;ru xuǎn;zg xiàng;gy	10
 固定匯率制	gù;wg dìng;bz huì;kv lǜ;wu zhì;nd	10
 固定價合同	gù;wg dìng;bz jià;rb hé;rk tong;kk	10
@@ -26139,6 +26159,7 @@ sort: by_weight
 河北唐山的	hé;dk běi;lb táng;gk shān;kl de;bu	10
 河北體育館	hé;dk běi;lb tǐ;gb yù;wo guǎn;ul	10
 河北外國語	hé;dk běi;lb wài;xb guó;wa yǔ;yk	10
+河北信德社	hé;dk běi;lb xìn;rk dé;rx shè;pt	10
 河北醫科大	hé;dk běi;lb yī;ky kē;hd dà;ar	10
 河北醫學院	hé;dk běi;lb yī;ky xué;jz yuàn;ey	10
 河北游擊軍	hé;dk běi;lb yóu;dz jī;iu jūn;bi	10
@@ -28555,6 +28576,7 @@ sort: by_weight
 幻彩藍砂岩	huàn;yv cǎi;vp lán;cm shā;uu yán;uu	10
 幻彩詠香江	huàn;yv cǎi;vp yǒng;yy xiāng;ho jiāng;dg	10
 環巢湖大道	huán;wy cháo;vg hú;do dà;ar dào;zz	10
+緩沉助投器	huǎn;sy chén;dj zhù;ql tóu;fu qì;xx	1
 環城北路口	huán;wy chéng;ti běi;lb lù;zk kǒu;la	10
 環城北路站	huán;wy chéng;ti běi;lb lù;zk zhàn;lv	10
 換乘層換乘	huàn;fd chéng;qr céng;uo huàn;fd chéng;qr	10
@@ -28979,6 +29001,7 @@ sort: by_weight
 煌華新紀元	huáng;hw huá;cf xīn;lt jì;sj yuán;aw	10
 黃花巖報春	huáng;cb huā;cb yán;uw bào;ty chūn;io	10
 慌慌張張地	huāng;xi huāng;xi zhāng;gi zhāng;gi de;ty	10
+黃昏窗口期	huáng;cb hūn;uo chuāng;bw kǒu;la qī;co	1
 黃昏的廣場	huáng;cb hūn;uo de;bu guǎng;gb chǎng;tw	10
 黃昏的角落	huáng;cb hūn;uo de;bu jiǎo;dy luò;ck	10
 黃昏黎糜覺	huáng;cb hūn;uo lí;hu mí;gm jué;jj	10
@@ -34078,6 +34101,7 @@ sort: by_weight
 解題的思路	jiě;dn tí;oy de;bu sī;tx lù;zk	10
 階梯金字塔	jiē;eb tī;ad jīn;rb zì;bz tǎ;tk	10
 階梯式遞進	jiē;eb tī;ad shì;gg dì;zj jìn;zv	10
+階梯式搜尋	jiē;eb tī;ad shì;gg sōu;fy xún;ec	1
 潔體西施露	jié;dx tǐ;gb xī;ak,wk shī;fy lù;yk	10
 階梯形基礎	jiē;eb tī;ad xíng;kp jī;ct chǔ;uz	10
 階梯形矩陣	jiē;eb tī;ad xíng;kp jǔ;uj zhèn;ei	10
@@ -34243,6 +34267,7 @@ sort: by_weight
 金道貴金屬	jīn;rb dào;zz guì;vb jīn;rb shǔ;ui	10
 金德爾伯格	jīn;rb dé;rx ěr;ab bó;rb gé;ak	10
 金燈寺石窟	jīn;rb dēng;hb sì;tc shí;ak kū;bi	10
+近底層活動	jìn;zt dǐ;gu céng;uo huó;du dòng;vl	1
 近地球軌道	jìn;zt dì;ty qiú;wq guǐ;ij dào;zz	10
 近地小行星	jìn;zt dì;ty xiǎo;lb xíng;rd xīng;ou	10
 盡地主之誼	jìn;ym dì;ty zhǔ;wt zhī;dn yì;yq	10
@@ -39405,7 +39430,7 @@ sort: by_weight
 朗之萬函數	lǎng;lo zhī;dn wàn;cd hán;ku shù;uw	10
 朗之萬理論	lǎng;lo zhī;dn wàn;cd lǐ;wl lùn;yc	10
 朗之萬振子	lǎng;lo zhī;dn wàn;cd zhèn;fi zǐ;la	10
-閬中清真寺	láng;ml zhōng;kl qīng;do zhēn;ub sì;tc	10
+閬中清真寺	làng;ml zhōng;kl qīng;do zhēn;ub sì;tc	10
 浪逐千秋峯	làng;dl zhú;zu qiān;pu qiū;hh fēng;uf	10
 勞埃德大廈	láo;hl āi;tu dé;rx dà;ar shà;gw	10
 勞埃德蘭丁	láo;hl āi;tu dé;rx lán;cj dīng;al	10
@@ -39849,6 +39874,7 @@ sort: by_weight
 冷漠與溫柔	lěng;ds mò;dd yǔ;jb wēn;dm róu;ma	10
 冷凝集試驗	lěng;ds níng;dz jí;ra shì;yg yàn;mr	10
 冷凝洩水器	lěng;ds níng;dz xiè;dy shuǐ;ln qì;xx	10
+冷暖流交匯	lěng;ds nuǎn;oy liú;di jiāo;wf huì;kv	1
 冷卻時間短	lěng;ds què;ge shí;oc jiān;mo duǎn;ub	10
 冷卻脫水法	lěng;ds què;ge tuō;ox shuǐ;ln fǎ;dq	10
 冷缺血時間	lěng;ds quē;fg xuè;pm shí;oc jiān;mo	10
@@ -40360,7 +40386,7 @@ sort: by_weight
 力微休負重	lì;vp wēi;rj xiū;ra fù;db zhòng;ql	10
 禮文化產業	lǐ;pb wén;wx huà;rb chǎn;wu yè;yw	10
 麗紋石龍子	lì;lb wén;sw shí;ak lóng;lv zǐ;la	10
-麗文正經話	lì;lb wén;wx zhèng;av jīng;sg huà;yu	10
+麗文正經話	lì;lb wén;wx zhèng;av jing;sg huà;yu	10
 裏沃二氏法	lǐ;yl wò;dy èr;aa shì;pv fǎ;dq	10
 裏沃利戰役	lǐ;yl wò;dy lì;hd zhàn;xg yì;ru	10
 離我遠點兒	lí;wv wǒ;ga yuǎn;zy diǎn;lv er;je	10
@@ -46016,6 +46042,7 @@ sort: by_weight
 那時候還小	nà;ve shí;oc hou;ru hái;zy xiǎo;lb	10
 拿世界冠軍	ná;ru shì;cv jiè;tj guàn;bc jūn;bi	10
 拿實力說話	ná;ru shí;bb lì;vp shuō;yx huà;yu	10
+那是你的事	nà;ve shì;oz nǐ;rx de;bu shì;gy	1
 那時年少啊	nà;ve shí;oc nián;pf shào;xp a;kk	10
 那時我還小	nà;ve shí;oc wǒ;ga hái;zy xiǎo;lb	10
 那時月正圓	nà;ve shí;oc yuè;ke zhèng;av yuán;wb	10
@@ -50747,6 +50774,7 @@ sort: by_weight
 熗炒圓白菜	qiàng;hk chǎo;hu yuán;wb bái;po cài;ca	10
 牆承重結構	qiáng;pk chéng;ln zhòng;ql jié;sk gòu;ar	10
 強詞奪理的	qiǎng;gi cí;yk duó;dc lǐ;wl de;bu	10
+強磁拉餌盤	qiáng;gi cí;uy lā;fl ěr;ue pán;vm	1
 強大的背景	qiáng;gi dà;ar de;bu bèi;bo jǐng;ox	10
 強大的攻勢	qiáng;gi dà;ar de;bu gōng;gw shì;tl	10
 強大的國力	qiáng;gi dà;ar de;bu guó;wa lì;vp	10
@@ -52014,6 +52042,7 @@ sort: by_weight
 清新綠茶的	qīng;do xīn;lt lǜ;su chá;cm de;bu	10
 青心烏龍茶	qīng;fo xīn;dd wū;wh lóng;lv chá;cm	10
 輕型衝鋒槍	qīng;ig xíng;kt chōng;rv fēng;jf qiāng;ak	10
+輕型大物竿	qīng;ig xíng;kt dà;ar wù;nw gān;vg	1
 輕型電動車	qīng;ig xíng;kt diàn;yd dòng;vl chē;iu	10
 輕型鋼結構	qīng;ig xíng;kt gāng;ju jié;sk gòu;ar	10
 輕型攻擊機	qīng;ig xíng;kt gōng;gw jī;iu jī;ar	10
@@ -63699,6 +63728,7 @@ sort: by_weight
 太昊伏羲氏	tài;dd hào;ot fú;rq xī;yk shì;pv	10
 太和城遺址	tài;dd hé;hk chéng;ti yí;zb zhǐ;tv	10
 太和宮金殿	tài;dd hé;hk gōng;bk jīn;rb diàn;uu	10
+鈦合金竿稍	tài;jt hé;rk jīn;rb gān;vg shāo;ho	1
 太合立志傳	tài;dd hé;rk lì;wb zhì;tx zhuàn;rc	10
 太和巖牌樓	tài;dd hé;hk yán;uw pái;pu lóu;an	10
 太后老佛爺	tài;dd hòu;ik lǎo;lb fó;rf yé;fe	10
@@ -65416,6 +65446,7 @@ sort: by_weight
 鐵甲小騎士	tiě;jw jiǎ;ol,tl xiǎo;lb qí;mk shì;ua	10
 鐵腳蜈蚣根	tiě;jw jiǎo;oe wú;it gōng;ig gēn;ag	10
 鐵叫子樂和	tiě;jw jiào;kj zi;la lè;ya he;hk	10
+貼結構遊走	tiē;bv jié;sk gòu;ar yóu;zz zǒu;tz	1
 鐵結合蛋白	tiě;jw jié;sk hé;rk dàn;zi bái;po	10
 鐵礦石貿易	tiě;jw kuàng;ub shí;ak mào;pb yì;ow	10
 鐵礦石品位	tiě;jw kuàng;ub shí;ak pǐn;kk wèi;rl	10
@@ -69667,6 +69698,7 @@ sort: by_weight
 五桂山山脈	wǔ;aw guì;at shān;kl shān;kl mài;oy	10
 五桂山主峰	wǔ;aw guì;at shān;kl zhǔ;wt fēng;uf	10
 無硅洗髮水	wú;ph guī;ut xǐ;de fà;ey shuǐ;ln	10
+無規則飄落	wú;ph guī;fj zé;bd piāo;xf luò;ck	1
 舞棍俱樂部	wǔ;pf gùn;ab jù;rb lè;ya bù;le	10
 無國籍人士	wú;ph guó;wa jí;vo rén;pn shì;ua	10
 無國界醫師	wú;ph guó;wa jiè;tj yī;ky shī;pj	10
@@ -73269,6 +73301,7 @@ sort: by_weight
 蕭爾演算法	xiāo;ca ěr;ab yǎn;db suàn;vc fǎ;dq	10
 小反芻獸疫	xiǎo;lb fǎn;iy chú;bc shòu;kq yì;bu	10
 小販疏導區	xiǎo;lb fàn;by shū;vi dǎo;zc qū;kk	10
+小範圍搜魚	xiǎo;lb fàn;vv wéi;wf sōu;fy yú;dh	1
 小方格表法	xiǎo;lb fāng;wv gé;ak biǎo;fy fǎ;dq	10
 小方格網法	xiǎo;lb fāng;wv gé;ak wǎng;sw fǎ;dq	10
 消防救援局	xiāo;do fáng;ef jiù;qw yuán;fy jú;uk	10
@@ -73937,6 +73970,7 @@ sort: by_weight
 小遊戲合集	xiǎo;lb yóu;zz xì;hg hé;rk jí;ra	10
 小油櫛蟲區	xiǎo;lb yóu;dy zhì;ae chóng;ii qū;kk	10
 小油櫛蟲統	xiǎo;lb yóu;dy zhì;ae chóng;ii tǒng;sy	10
+小魚避難區	xiǎo;lb yú;dh bì;zx nàn;cv qū;kk	1
 小魚吃大蝦	xiǎo;lb yú;dh chī;kv dà;ar xiā;iy	10
 小尉遲孫新	xiǎo;lb yù;uc chí;zn sūn;zx xīn;lt	10
 小魚吃蝦米	xiǎo;lb yú;dh chī;kv xiā;iy mǐ;ba	10
@@ -76562,6 +76596,7 @@ sort: by_weight
 尋醫問藥網	xún;ec yī;ky wèn;mk yào;ca wǎng;sw	10
 迅遊加速器	xùn;zu yóu;zz jiā;lk sù;zu qì;xx	10
 巡遊型病人	xún;zv yóu;zz xíng;kt bìng;bn rén;pn	10
+巡遊型魚種	xún;zv yóu;zz xíng;kt yú;dh zhǒng;hv	1
 鱘魚級潛艇	xún;yc yú;dh jí;sj qián;do tǐng;vw	10
 尋找的答案	xún;ec zhǎo;fg de;bu dá;vk àn;ba	10
 尋找的東西	xún;ec zhǎo;fg de;bu dōng;ir xi;ak,wk	10
@@ -77076,6 +77111,7 @@ sort: by_weight
 眼角膜移植	yǎn;og jiǎo;dy mó;od yí;hx zhí;aq	10
 眼界的開闊	yǎn;og jiè;tj de;bu kāi;mk kuò;mu	10
 眼潔滴眼露	yǎn;og jié;dx dī;dg yǎn;og lù;yk	10
+沿結構搜索	yán;dk jié;sk gòu;ar sōu;fy suǒ;ux	1
 眼界和格局	yǎn;og jiè;tj hé;hk gé;ak jú;uk	10
 嚴謹的工藝	yán;xw jǐn;yw de;bu gōng;aa yì;cy	10
 巖津松平氏	yán;uw jīn;dy sōng;ag píng;au shì;pv	10
@@ -77913,7 +77949,7 @@ sort: by_weight
 搖滾樂之王	yáo;ff gǔn;dk yuè;ya zhī;dn wáng;at	10
 瑤海公園站	yáo;wf hǎi;dm gōng;bs yuán;wy zhàn;lv	10
 瑤海停保場	yáo;wf hǎi;dm tíng;rd bǎo;ra chǎng;tw	10
-要好好活着	yāo;xn hǎo;nz hǎo;nz huó;du zhe;yo	10
+要好好活着	yào;xn hǎo;nz hǎo;nz huó;du zhe;yo	10
 搖號中籤率	yáo;ff hào;kj zhòng;kl qiān;vj lǜ;wu	10
 咬頜不平衡	yǎo;kf hé;ry bù;ab píng;au héng;rd	10
 要喝點茶嗎	yào;xn hē;kr diǎn;lv chá;cm ma;km	10
@@ -78051,7 +78087,7 @@ sort: by_weight
 搖曳碧雲斜	yáo;ff yè;op bì;wu yún;yy xié;rd	10
 搖曳的身姿	yáo;ff yè;op de;bu shēn;zc zī;dn	10
 搖曳的燭光	yáo;ff yè;op de;bu zhú;hi guāng;xe	10
-要一本正經	yào;xn yì;aa běn;aa zhèng;av jīng;sg	10
+要一本正經	yào;xn yì;aa běn;aa zhèng;av jing;sg	10
 要一分為二	yào;xn yì;aa fēn;bd wéi;dh èr;aa	10
 鷂鷹巖水庫	yào;vn yīng;gn yán;uw shuǐ;ln kù;gi	10
 藥用價值高	yào;ca yòng;kf,ol jià;rb zhí;rq gāo;wk	10
@@ -82486,6 +82522,8 @@ sort: by_weight
 優異的質量	yōu;rw yì;tg de;bu zhì;ib liàng;ol	10
 有一定幾率	yǒu;uo yí;aa dìng;bz jī;gr lǜ;wu	10
 有一對翅膀	yǒu;uo yí;aa duì;yc chì;vx bǎng;of	10
+有一個人是	yǒu;uo yí;aa gè;rg rén;pn shì;oz	12
+有一個認識	yǒu;uo yí;aa gè;rg rèn;yx shi;yo	10
 有一個世界	yǒu;uo yí;aa gè;rg shì;cv jiè;tj	10
 又一個世界	yòu;vn yí;aa gè;rg shì;cv jiè;tj	10
 又一個十年	yòu;vn yí;aa gè;rg shí;al nián;pf	10
@@ -88479,6 +88517,7 @@ sort: by_weight
 終身的事業	zhōng;sd shēn;zc de;bu shì;gy yè;yw	10
 終身僱用制	zhōng;sd shēn;zc gù;rv yòng;kf,ol zhì;nd	10
 終身僱傭制	zhōng;sd shēn;zc gù;rv yōng;ro zhì;nd	10
+中深海作釣	zhōng;kl shēn;da hǎi;dm zuò;rv diào;ju	1
 眾神與國王	zhòng;sr shén;pu yǔ;jb guó;wa wáng;at	10
 眾神與將軍	zhòng;sr shén;pu yǔ;jb jiāng;pc jūn;bi	10
 眾神與野獸	zhòng;sr shén;pu yǔ;jb yě;ly shòu;kq	10
@@ -89766,6 +89805,7 @@ sort: by_weight
 錐花絲石竹	zhuī;jv huā;cb sī;sx shí;ak zhú;gg	10
 墜毀的飛機	zhuì;et huǐ;ju de;bu fēi;fc jī;ar	10
 追及和相遇	zhuī;zl jí;pn hé;hk xiāng;ao yù;zd	10
+追擊型魚種	zhuī;zl jī;iu xíng;kt yú;dh zhǒng;hv	1
 椎間盤變性	zhuī;av jiān;mo pán;vm biàn;xw xìng;xu	10
 椎間盤疾患	zhuī;av jiān;mo pán;vm jí;bu huàn;ix	10
 椎間盤膨出	zhuī;av jiān;mo pán;vm péng;op chū;uu	10
@@ -94139,7 +94179,7 @@ sort: by_weight
 必有去故之悲	bì;xp yǒu;uo qù;ts gù;gw zhī;dn bēi;fx	10
 閉月羞花之貌	bì;mc yuè;ke xiū;yi huā;cb zhī;dn mào;ve	10
 碧雲國際社區	bì;wu yún;yy guó;wa jì;eu shè;pt qū;kk	10
-閉着眼睛走路	bì;mc zhe;yo yǎn;og jīng;oo zǒu;tz lù;zk	10
+閉着眼睛走路	bì;mc zhe;yo yǎn;og jing;oo zǒu;tz lù;zk	10
 必治妥施貴寶	bì;xp zhì;dk tuǒ;vn shī;fy guì;vb bǎo;bb	10
 避之唯恐不及	bì;zx zhī;dn wéi;kv kǒng;gx bù;ab jí;pn	10
 鼻中隔骨嵴刺	bí;zw zhōng;kl gé;eg gǔ;go jǐ;uo cì;ud	10
@@ -95669,7 +95709,7 @@ sort: by_weight
 不正當的關係	bú;ab zhèng;av dāng;xt de;bu guān;mj xì;rx	10
 不正當的手段	bú;ab zhèng;av dāng;xt de;bu shǒu;pf duàn;pu	10
 不正當競爭案	bú;ab zhèng;av dāng;xt jìng;lx zhēng;vy àn;ba	10
-不正經的女人	bú;ab zhèng;av jīng;sg de;bu nǚ;va rén;pn	10
+不正經的女人	bú;ab zhèng;av jing;sg de;bu nǚ;va rén;pn	10
 不正確的姿勢	bú;ab zhèng;av què;uv de;bu zī;dn shì;tl	10
 不正確的坐姿	bú;ab zhèng;av què;uv de;bu zuò;tr zī;dn	10
 不知彼而知己	bù;ab zhī;uk bǐ;rp ér;al zhī;uk jǐ;kv	10
@@ -96742,6 +96782,7 @@ sort: by_weight
 塵歸塵土歸土	chén;gt guī;pj chén;gt tǔ;ua guī;pj tǔ;ua	10
 宸鴻光電科技	chén;bi hóng;dn guāng;xe diàn;yd kē;hd jì;fv	10
 陳化成紀念館	chén;ed huà;rb chéng;gv jì;sj niàn;rx guǎn;ul	10
+晨昏活躍魚種	chén;oi hūn;uo huó;du yuè;zv yú;dh zhǒng;hv	1
 沉火山角礫岩	chén;dj huǒ;br shān;kl jiǎo;dy lì;ua yán;uu	10
 沉火山碎屑巖	chén;dj huǒ;br shān;kl suì;uu xiè;uo yán;uw	10
 沉積變質礦床	chén;dj jī;hb biàn;xw zhì;ib kuàng;ub chuáng;ga	10
@@ -98592,7 +98633,6 @@ sort: by_weight
 大孔徑穿流板	dà;ar kǒng;zv jìng;rg chuān;by liú;di bǎn;ay	10
 大孔吸附樹脂	dà;ar kǒng;zv xī;kj fù;ec shù;ac zhī;oo	10
 大口大口地喫	dà;ar kǒu;la dà;ar kǒu;la de;ty chī;kd	10
-大口大口的喫	dà;ar kǒu;la dà;ar kǒu;la de;bu chī;kd	10
 大口徑截止閥	dà;ar kǒu;la jìng;rg jié;gv zhǐ;bl,lu fá;mg	12
 大口徑止回閥	dà;ar kǒu;la jìng;rg zhǐ;bl,lu huí;wk fá;mg	12
 達庫尼亞鳥類	dá;zy kù;gi ní;ub yà;aa niǎo;nh lèi;my	10
@@ -100910,7 +100950,7 @@ sort: by_weight
 都能如願以償	dōu;le néng;sb rú;nk yuàn;iy yǐ;lr cháng;rb	10
 都普金屬部分	dōu;le pǔ;bo jīn;rb shǔ;ui bù;le fen;bd	10
 都普金屬部件	dōu;le pǔ;bo jīn;rb shǔ;ui bù;le jiàn;rn	10
-都是閉着眼睛	dōu;le shì;oz bì;mc zhe;yo yǎn;og jīng;oo	10
+都是閉着眼睛	dōu;le shì;oz bì;mc zhe;yo yǎn;og jing;oo	10
 都是不合理的	dōu;le shì;oz bù;ab hé;rk lǐ;wl de;bu	10
 都是過眼雲煙	dōu;le shì;oz guò;zk yǎn;og yún;yy yān;ht	10
 都是很垃圾的	dōu;le shì;oz hěn;rg lā;tl jī;tj de;bu	10
@@ -108712,7 +108752,7 @@ sort: by_weight
 恨鐵不成鋼啊	hèn;xg tiě;jw bù;ab chéng;gv gāng;ju a;kk	10
 很微妙的感覺	hěn;rg wēi;rj miào;nu de;bu gǎn;gx jué;jj	10
 很危險的東西	hěn;rg wēi;dv xiǎn;er de;bu dōng;ir xi;ak,wk	10
-很要好的朋友	hěn;rg yāo;xn hǎo;nz de;bu péng;oo you;uy	10
+很要好的朋友	hěn;rg yào;xn hǎo;nz de;bu péng;oo you;uy	10
 很遙遠的事情	hěn;rg yáo;zf yuǎn;zy de;bu shì;gy qíng;xo	10
 很有紀念意義	hěn;rg yǒu;uo jì;sj niàn;rx yì;lx yì;yw	10
 很有意義的事	hěn;rg yǒu;uo yì;lx yì;yw de;bu shì;gy	10
@@ -114601,6 +114641,7 @@ sort: by_weight
 卡林頓子午圈	kǎ;ub lín;aa dùn;ty zǐ;la wǔ;pu quān;wv	10
 卡魯查克萊因	kǎ;ub lǔ;yo chá;ad kè;ux,ge lái;cl yīn;wd	10
 卡絡磺鈉凍乾	kǎ;ub luò;sk huáng;ub nà;jn dòng;dd gān;uv	10
+卡羅萊納釣組	kǎ;ub luó;sv lái;cl nà;sn diào;ju zǔ;sq	1
 喀羅尼亞戰役	kā;kk luó;sv ní;ub yà;aa zhàn;xg yì;ru	10
 卡羅瑟斯方程	kǎ;ub luó;sv sè;wb sī;ct fāng;wv chéng;hw	10
 卡洛維茨條約	kǎ;ub luò;dk wéi;sv cí;cq tiáo;rm yuē;su	10
@@ -120509,7 +120550,7 @@ sort: by_weight
 尼亞加拉半島	ní;ub yà;aa jiā;lk lā;fl bàn;bf dǎo;nu	10
 尼亞加拉瀑布	ní;ub yà;aa jiā;lk lā;fl pù;du bù;uj	10
 你眼中的世界	nǐ;rx yǎn;og zhōng;kl de;bu shì;cv jiè;tj	10
-你要好好把握	nǐ;rx yāo;xn hǎo;nz hǎo;nz bǎ;fb wò;ft	10
+你要好好把握	nǐ;rx yào;xn hǎo;nz hǎo;nz bǎ;fb wò;ft	10
 你要去的地方	nǐ;rx yào;xn qù;ts de;bu dì;ty fāng;wv	10
 你也是人類嗎	nǐ;rx yě;vv shì;oz rén;pn lèi;my ma;km	10
 你爺爺的奶奶	nǐ;rx yé;fe ye;fe de;bu nǎi;nn nai;nn	10
@@ -124794,6 +124835,7 @@ sort: by_weight
 如此高的評價	rú;nk cǐ;vb gāo;wk de;bu píng;yp jià;rb	10
 如此厚顏無恥	rú;nk cǐ;vb hòu;iz yán;wy wú;ph chǐ;ex	10
 如此歡樂童年	rú;nk cǐ;vb huān;cq lè;ya tóng;ll nián;pf	10
+如此簡單點事	rú;nk cǐ;vb jiǎn;vo dān;xu diǎn;lv shì;gy	1
 如此驚心動魄	rú;nk cǐ;vb jīng;cm xīn;dd dòng;vl pò;bg	10
 如此明目張膽	rú;nk cǐ;vb míng;oo mù;we zhāng;gi dǎn;ok	10
 如此與眾不同	rú;nk cǐ;vb yǔ;jb zhòng;sr bù;ab tóng;kk	10
@@ -130439,6 +130481,7 @@ sort: by_weight
 抬頭的一瞬間	tái;fk tóu;dy de;bu yí;aa shùn;of jiān;mo	10
 臺灣成功大學	tái;tt wān;dg chéng;gv gōng;gl dà;ar xué;jz	10
 臺灣傳統食品	tái;tt wān;dg chuán;rc tǒng;sy shí;rg pǐn;kk	10
+臺灣積體電路	tái;tt wān;dg jī;hb tǐ;gb diàn;yd lù;zk	10
 臺灣交通大學	tái;tt wān;dg jiāo;wf tōng;zy dà;ar xué;jz	10
 臺灣清華大學	tái;tt wān;dg qīng;do huá;cf dà;ar xué;jz	10
 臺西基督教會	tái;tt xī;ak,wk jī;ct dū;uo jiào;lw huì;ro	10
@@ -136037,7 +136080,6 @@ sort: by_weight
 小心背後有鬼	xiǎo;lb xīn;dd bèi;bo hòu;rw yǒu;uo guǐ;ps	10
 小心眼的男人	xiǎo;lb xīn;dd yǎn;og de;bu nán;tl rén;pn	10
 小心翼翼地看	xiǎo;lb xīn;dd yì;xg yì;xg de;ty kàn;uo	10
-小心翼翼的問	xiǎo;lb xīn;dd yì;xg yì;xg de;bu wèn;mk	10
 小心翼翼地問	xiǎo;lb xīn;dd yì;xg yì;xg de;ty wèn;mk	10
 小型哺乳動物	xiǎo;lb xíng;kt bǔ;kf rǔ;vv dòng;vl wù;nw	10
 小型浮游生物	xiǎo;lb xíng;kt fú;dz yóu;dz shēng;pf wù;nw	10
@@ -138414,7 +138456,7 @@ sort: by_weight
 妖怪人間貝姆	yāo;ny guài;xt rén;pn jiān;mo bèi;ob mǔ;nm	10
 搖滾的太陽花	yáo;ff gǔn;dk de;bu tài;dd yáng;ew huā;cb	10
 搖滾七十年代	yáo;ff gǔn;dk qī;av shí;al nián;pf dài;rg	10
-要好好地活着	yāo;xn hǎo;nz hǎo;nz dì;ty huó;du zhe;yo	10
+要好好地活着	yào;xn hǎo;nz hǎo;nz dì;ty huó;du zhe;yo	10
 咬合關係錯亂	yǎo;kf hé;rk guān;mj xì;rx cuò;jo luàn;vv	10
 窯烘乾的烘乾	yáo;bh hōng;hg gān;uv de;bu hōng;hg gān;uv	12
 耀華濱海學校	yào;gv huá;cf bīn;db hǎi;dm xué;jz xiào;af	10
@@ -138986,7 +139028,7 @@ sort: by_weight
 一個比一個強	yí;aa gè;rg bǐ;bb yí;aa gè;rg qiáng;gi	10
 一個比一個兇	yí;aa gè;rg bǐ;bb yí;aa gè;rg xiōng;xe	10
 一個地主的死	yí;aa gè;rg dì;ty zhǔ;wt de;bu sǐ;db	10
-一個很要好的	yí;aa gè;rg hěn;rg yāo;xn hǎo;nz de;bu	10
+一個很要好的	yí;aa gè;rg hěn;rg yào;xn hǎo;nz de;bu	10
 一個叫小紅的	yí;aa gè;rg jiào;kj xiǎo;lb hóng;sg de;bu	10
 一個景行行止	yí;aa gè;rg jǐng;ox xíng;rd xíng;rd zhǐ;bl,lu	10
 一個空勞牽掛	yí;aa gè;rg kōng;bg láo;hl qiān;xn guà;fb	10
@@ -139007,6 +139049,7 @@ sort: by_weight
 一個五十多歲	yí;aa gè;rg wǔ;aw shí;al duō;xx suì;vu	10
 一個無所畏懼	yí;aa gè;rg wú;ph suǒ;ht wèi;ty jù;xv	10
 一個圓的面積	yí;aa gè;rg yuán;wb de;bu miàn;ao jī;hb	10
+一根筋兩頭堵	yì;aa gēn;ag jīn;vl liǎng;ar tóu;dy dǔ;to	10
 以更低的價格	yǐ;lr gèng;an dī;ru de;bu jià;rb gé;ak	10
 以更高的站位	yǐ;lr gèng;an gāo;wk de;bu zhàn;lv wèi;rl	10
 以公開促公正	yǐ;lr gōng;bs kāi;mk cù;rz gōng;bs zhèng;av	10
@@ -142872,6 +142915,7 @@ sort: by_weight
 這麼大個事兒	zhè;zk me;gy dà;ar gè;rg shì;gy er;je	10
 這麼大個事情	zhè;zk me;gy dà;ar gè;rg shì;gy qíng;xo	10
 這麼大一個事	zhè;zk me;gy dà;ar yí;aa gè;rg shì;gy	10
+這麼簡單點事	zhè;zk me;gy jiǎn;vo dān;xu diǎn;lv shì;gy	1
 這麼理直氣壯	zhè;zk me;gy lǐ;wl zhí;uq qì;qm zhuàng;pt	10
 這麼一件事兒	zhè;zk me;gy yí;aa jiàn;rn shì;gy er;je	10
 這麼一來二去	zhè;zk me;gy yì;aa lái;ur èr;aa qù;ts	10
@@ -143429,8 +143473,8 @@ sort: by_weight
 正則置信區域	zhèng;av zé;bd zhì;sq xìn;rk qū;kk yù;ta	10
 掙扎在溫飽線	zhēng;fy zhá;fv zài;ut wēn;dm bǎo;ub xiàn;su	10
 證照是否齊全	zhèng;yb zhào;oh shì;oz fǒu;bk qí;wo quán;rw	10
-睜着眼睛睡覺	zhēng;oy zhe;yo yǎn;og jīng;oo shuì;ot jiào;jj	10
-睜着眼睛做夢	zhēng;oy zhe;yo yǎn;og jīng;oo zuò;rw mèng;cx	10
+睜着眼睛睡覺	zhēng;oy zhe;yo yǎn;og jing;oo shuì;ot jiào;jj	10
+睜着眼睛做夢	zhēng;oy zhe;yo yǎn;og jing;oo zuò;rw mèng;cx	10
 政治安全保衛	zhèng;vw zhì;dk ān;bn quán;rw bǎo;ra wèi;rf	10
 政治把握能力	zhèng;vw zhì;dk bǎ;fb wò;ft néng;sb lì;vp	10
 政治不確定性	zhèng;vw zhì;dk bú;ab què;uv dìng;bz xìng;xu	10
@@ -153764,7 +153808,7 @@ sort: by_weight
 非常嚴重的情況	fēi;ls cháng;xj yán;xw zhòng;ql de;bu qíng;xo kuàng;dx	10
 非常嚴重的傷害	fēi;ls cháng;xj yán;xw zhòng;ql de;bu shāng;rw hài;bk	10
 非常嚴重的影響	fēi;ls cháng;xj yán;xw zhòng;ql de;bu yǐng;op xiǎng;xo	10
-非常要好的朋友	fēi;ls cháng;xj yāo;xn hǎo;nz de;bu péng;oo you;uy	10
+非常要好的朋友	fēi;ls cháng;xj yào;xn hǎo;nz de;bu péng;oo you;uy	10
 非常優秀的選手	fēi;ls cháng;xj yōu;rw xiù;hn de;bu xuǎn;zg shǒu;pf	10
 非常糟糕的事情	fēi;ls cháng;xj zāo;mo gāo;mh de;bu shì;gy qíng;xo	10
 非常正常的現象	fēi;ls cháng;xj zhèng;av cháng;xj de;bu xiàn;wj xiàng;du	10
@@ -161142,7 +161186,7 @@ sort: by_weight
 整形美容外科學	zhěng;uv xíng;kp měi;yd róng;bg wài;xb kē;hd xué;jz	10
 正則形式的博弈	zhèng;av zé;bd xíng;kp shì;gg de;bu bó;uc yì;wc	10
 正長球粒霞霓巖	zhèng;av zhǎng;ey qiú;wq lì;ml xiá;yy ní;ye yán;uw	10
-睜着眼睛說瞎話	zhēng;oy zhe;yo yǎn;og jīng;oo shuō;yx xiā;ok huà;yu	10
+睜着眼睛說瞎話	zhēng;oy zhe;yo yǎn;og jing;oo shuō;yx xiā;ok huà;yu	10
 政治經濟學概論	zhèng;vw zhì;dk jīng;sg jì;do xué;jz gài;aw lùn;yc	10
 蒸之如斗米飯久	zhēng;ch zhī;dn rú;nk dòu;ud mǐ;ba fàn;uy jiǔ;pn	10
 正中頜關係異常	zhèng;av zhōng;kl hé;ry guān;mj xì;rx yì;tg cháng;xj	10
@@ -162306,6 +162350,7 @@ sort: by_weight
 重要的事情說三遍	zhòng;ql yào;xn de;bu shì;gy qíng;xo shuō;yx sān;ae biàn;zc	10
 周口店魚化石產地	zhōu;kk kǒu;la diàn;gv yú;dh huà;rb shí;ak chǎn;wu dì;ty	10
 主動脈瓣關閉不全	zhǔ;wt dòng;vl mài;oy bàn;xg guān;mj bì;mc bù;ab quán;rw	10
+住房與城鄉建設部	zhù;rv fáng;hf yǔ;jb chéng;ti xiāng;xg jiàn;zy shè;yu bù;le	1
 壯士一去兮不復返	zhuàng;pt shì;ua yí;aa qù;ts xī;bk bú;ab fù;rw fǎn;zy	10
 自己一步一個腳印	zì;po jǐ;kv yí;aa bù;vu yí;aa gè;rg jiǎo;oe yìn;pe	10
 紫外可見分光光度	zǐ;vx wài;xb kě;dk jiàn;oe fēn;bd guāng;xe guāng;xe dù;gy	10
