@@ -431,7 +431,6 @@ a wǒ bù zhī dào	啊我不知道
 ài zhuāng fěn cì xiāo	艾庄粉刺消
 ài zhuāng tóu yǎng líng	艾庄头痒灵
 ǎi zǐ bāo yuān wěi	矮紫苞鸢尾
-ài zī bìng kàng tǐ	爱滋病抗体
 ài zī bìng kàng tǐ	艾滋病抗体
 ài zǐ fāng chéng shì	爱子方程式
 ǎi zi gǔ zī màn	矮子古兹曼
@@ -5863,7 +5862,6 @@ bù zūn zhòng lǎo shī	不尊重老师
 bù zuò bú huì sǐ	不作不会死
 bú zuò de shì qíng	不做的事情
 bú zuò è yuán zé	不作恶原则
-bú zuò è yuán zé	不做恶原则
 bú zuò kuī xīn shì	不作亏心事
 bú zuò kuī xīn shì	不做亏心事
 bú zuò shēng yì le	不做生意了
@@ -10701,6 +10699,7 @@ dà kē lè wéi dǎo	大科勒韦岛
 dà kē mó luó dǎo	大科摩罗岛
 dà kè pèi ěr dǎo	大克佩尔岛
 dà kǒu dà kǒu de	大口大口地
+dà kǒu dà kǒu jué	大口大口嚼
 dà kǒu jìng bù qiāng	大口径步枪
 dà kǒu jìng jī qiāng	大口径机枪
 dà kū hé dà xiào	大哭和大笑
@@ -39083,13 +39082,12 @@ lā dōu lā bú zhù	拉都拉不住
 lā fá ěr pēn guǎn	拉伐耳喷管
 lā fú sēn fāng fǎ	拉弗森方法
 lā gé lǎng rì diǎn	拉格朗日点
-lā gé láng rì diǎn	拉格郎日点
 lā gé lǎng rì liàng	拉格朗日量
 lā gē sī shān mài	拉戈斯山脉
 lā hè bú biàn liàng	拉赫不变量
 lā hè tǎ zhōng xīn	拉赫塔中心
-lā jī chǔ lǐ chǎng	垃圾处理场
 lā jī chǔ lǐ chǎng	垃圾处理厂
+lā jī chǔ lǐ chǎng	垃圾处理场
 lā jī de chǎn shēng	垃圾的产生
 lā jī de chǔ lǐ	垃圾的处理
 lā jī de fēn lèi	垃圾的分类
@@ -39739,7 +39737,6 @@ léi gǔ shí dà jiē	擂鼓石大街
 léi gǔ wèng jīn chuí	擂鼓瓮金锤
 lèi héng tū guān jié	肋横突关节
 lèi héng tū rèn dài	肋横突韧带
-lèi hú luó bo sù	类胡罗卜素
 lèi hú luó bo sù	类胡萝卜素
 lèi hún xì yóu xì	类魂系游戏
 lěi jī fā bìng lǜ	累积发病率
@@ -41810,7 +41807,6 @@ liù gè wèi shén me	六个为什么
 liù gè xiǎo shí hòu	六个小时后
 liù gè xiǎo shí nèi	六个小时内
 liù gǒu bù shuān shéng	遛狗不拴绳
-liù gǒu bù shuān shéng	遛狗不栓绳
 liú guān xióng gù jū	刘冠雄故居
 liù guó dà fēng xiāng	六国大封相
 liú guò de hàn shuǐ	流过的汗水
@@ -58370,15 +58366,12 @@ shì fǔ dà lù zhàn	市府大路站
 shì fù er gōng wěi	市妇儿工委
 shì fǔ guǎng chǎng dōng	市府广场东
 shì fǔ guǎng chǎng zhàn	市府广场站
-shī fu guō dé gāng	师傅郭德纲
-shī fu guō dé gāng	师父郭德纲
 shì fú hái shì huò	是福还是祸
 shī fu hé tú dì	师傅和徒弟
-shī fu lǐng jìn mén	师傅领进门
 shī fu lǐng jìn mén	师父领进门
 shí fù mǎ dà jiē	石驸马大街
 shī fu míng bai le	师父明白了
-shì gā mù ní fó	释伽牟尼佛
+shì gā móu ní fó	释伽牟尼佛
 shì gài shì yīng xióng	是盖世英雄
 shí gàn de jīng shén	实干的精神
 shì gàn shén me de	是干什么的
@@ -58596,8 +58589,8 @@ shí jiā gōng sù rén	十佳公诉人
 shí jiā hé yí zhǐ	石家河遗址
 shì jià jìng zhí bǐ	市价净值比
 shì jiā mó ní fó	释迦摩尼佛
-shì jiā mù ní fó	释迦牟尼佛
-shì jiā mù ní xiàng	释迦牟尼像
+shì jiā móu ní fó	释迦牟尼佛
+shì jiā móu ní xiàng	释迦牟尼像
 shì jiā sān sì láng	世嘉三四郎
 shí jiā shè yǐng shī	十佳摄影师
 shì jiā tíng jiào yù	式家庭教育
@@ -87081,7 +87074,7 @@ zhī dào shén me shì	知道什么是
 zhǐ dǎo shì mín zhǔ	指导式民主
 zhī dào shí qíng hòu	知道实情后
 zhì dào shí wǔ lù	至道十五路
-zhī dào shì xún cháng	只道是寻常
+zhǐ dào shì xún cháng	只道是寻常
 zhǐ dǎo sī xiǎng shì	指导思想是
 zhí dào tā qù shì	直到他去世
 zhǐ dǎo wěi yuán huì	指导委员会
@@ -114305,7 +114298,7 @@ jū mín shēng huó bì xū	居民生活必需
 jū mín shēng huó diàn jià	居民生活电价
 jū mín zì zhì zhāng chéng	居民自治章程
 jù mó zhī xuè yào shuǐ	巨魔之血药水
-jū nà hán mù ní fó	拘那含牟尼佛
+jū nà hán móu ní fó	拘那含牟尼佛
 jǔ nán dì yī zhōng xué	莒南第一中学
 jù pài tóu zī jí tuán	钜派投资集团
 jù pào wǔ zhǐ tiào shǔ	巨泡五趾跳鼠
@@ -120288,7 +120281,6 @@ nèi kē zhǔ rèn yī shī	内科主任医师
 nèi kē zhǔ zhì yī shī	内科主治医师
 nèi kòng shí shī xì zé	内控实施细则
 nèi kuī jìng huó jiǎn qián	内窥镜活检钳
-nèi lā gé láng rì diǎn	内拉格郎日点
 nèi lā gé lǎng rì diǎn	内拉格朗日点
 nèi lì dì zhì zuò yòng	内力地质作用
 nèi liù jiǎo luó sī dāo	内六角螺丝刀
@@ -124528,8 +124520,6 @@ rén shēng nán dé hú tú	人生难得糊涂
 rén shēng qǐ qǐ fú fú	人生起起伏伏
 rén shēng qǐ qǐ luò luò	人生起起落落
 rén shēng ruò rú chū jiàn	人生若如初见
-rén shēng ruò zhǐ chū jiàn	人生若只初见
-rén shēng ruò zhǐ rú chū	人生若只如初
 rén shēng shì měi hǎo de	人生是美好的
 rén shēng shì měi lì de	人生是美丽的
 rén shēng shí zì lù kǒu	人生十字路口
@@ -127431,10 +127421,10 @@ shì jì zuì wěi dà de	世纪最伟大的
 shì jiā bǎo běi xuǎn qū	士嘉堡北选区
 shì jiā dū shì lè yuán	世嘉都市乐园
 shǐ jiā hú tòng xiǎo xué	史家胡同小学
-shì jiā mù ní fó suǒ	释迦牟尼佛所
-shì jiā mù ní fó xiàng	释迦牟尼佛像
-shì jiā mù ní rú lái	释迦牟尼如来
-shì jiā mù ní shì zūn	释迦牟尼世尊
+shì jiā móu ní fó suǒ	释迦牟尼佛所
+shì jiā móu ní fó xiàng	释迦牟尼佛像
+shì jiā móu ní rú lái	释迦牟尼如来
+shì jiā móu ní shì zūn	释迦牟尼世尊
 shì jiā tǔ xīng yóu xì	世嘉土星游戏
 shǐ jiā xiǎo xué fēn xiào	史家小学分校
 shì jiā yìng jiàn nǚ hái	世嘉硬件女孩
@@ -127955,7 +127945,7 @@ shí shī guà tú zuò zhàn	实施挂图作战
 shí shí guāng xiàn zhuī zōng	实时光线追踪
 shí shí háng qíng shù jù	实时行情数据
 shǐ shī huǐ miè jīn shǔ	史诗毁灭金属
-shí shì jiā mù ní fó	时释迦牟尼佛
+shí shì jiā móu ní fó	时释迦牟尼佛
 shí shī jiā tíng bào lì	实施家庭暴力
 shí shí jiān cè shù jù	实时监测数据
 shí shí jiān cè xì tǒng	实时监测系统
@@ -132127,7 +132117,6 @@ wài kē zhèng zhì quán shū	外科证治全书
 wài kē zhèng zhì zhǔn shéng	外科证治准绳
 wài kē zhǔ rèn yī shī	外科主任医师
 wài kē zhǔ zhì yī shī	外科主治医师
-wài lā gé láng rì diǎn	外拉格郎日点
 wài lā gé lǎng rì diǎn	外拉格朗日点
 wài lái wù gōng rén yuán	外来务工人员
 wài lái wù gōng zǐ nǚ	外来务工子女
@@ -132581,7 +132570,6 @@ wáng shì fēi wén shǒu zé	王室绯闻守则
 wáng shì gāo jí chéng yuán	王室高级成员
 wáng shì jiào shī hǎi niè	王室教师海涅
 wǎng shì lì lì zài mù	往事历历在目
-wáng shǒu rén de fěn sī	王守仁的粉丝
 wáng shǔ gōng jì tú zhóu	王蜀宫妓图轴
 wáng sī cōng de nǚ yǒu	王思聪的女友
 wáng sī cōng de wēi bó	王思聪的微博
@@ -145816,7 +145804,6 @@ zhuǎn zhàng dào yín háng kǎ	转账到银行卡
 zhuǎn zhì bàn suí děng jià	转置伴随等价
 zhuǎn zhì bàn suí jǔ zhèn	转置伴随矩阵
 zhuān zhì gè zhǒng bù fú	专治各种不服
-zhuān zhì gè zhǒng bù fú	专制各种不服
 zhuǎn zhì jī fēn fāng chéng	转置积分方程
 zhuàn zhǐ shù bú zhuàn qián	赚指数不赚钱
 zhuān zhì yí nán zá zhèng	专治疑难杂症
@@ -148523,7 +148510,7 @@ běn sài jì shǒu cì jiāo fēng	本赛季首次交锋
 běn sè niú pí bāo zhuāng zhǐ	本色牛皮包装纸
 běn shēng luó èr shì dìng lǜ	本生罗二氏定律
 běn shěng xíng zhèng qū yù nèi	本省行政区域内
-běn shī shì jiā mù ní fó	本师释迦牟尼佛
+běn shī shì jiā móu ní fó	本师释迦牟尼佛
 běn shì xíng zhèng qū yù nèi	本市行政区域内
 běn sī qióng sī dàn bái niào	本斯琼斯蛋白尿
 běn tú gòng sà ěr wéi sī	本图贡萨尔维斯
@@ -154729,7 +154716,6 @@ gàn huá shí bā wáng gōng miào	干华十八王公庙
 gǎn huī wú qiú lì yǔn shí	橄辉无球粒陨石
 gān jiāng gān cǎo yú rén cān	干姜甘草与人参
 gǎn jiāo fǔ zhī qì yán xī	感交甫之弃言兮
-gǎn jiào rì yuè huàn xīn tiān	敢叫日月换新天
 gǎn jǐn xíng dòng qǐ lái ba	赶紧行动起来吧
 gǎn jǐn zhǎo gè nán péng you	赶紧找个男朋友
 gān jìng lì luo de duǎn fà	干净利落的短发
@@ -155731,7 +155717,7 @@ gōng xìn bù zōng hé yóu hào	工信部综合油耗
 gōng xíng tǐ kàng tǐ cè dìng	弓形体抗体测定
 gōng xūn guó jiā hé chàng tuán	功勋国家合唱团
 gōng yǎng qīn shǔ fǔ xù jīn	供养亲属抚恤金
-gōng yǎng shì jiā mù ní fó	供养释迦牟尼佛
+gōng yǎng shì jiā móu ní fó	供养释迦牟尼佛
 gōng yè gāo zhì liàng fā zhǎn	工业高质量发展
 gōng yè gù tǐ fèi qì wù	工业固体废弃物
 gōng yè huà hé chéng shì huà	工业化和城市化
@@ -159238,6 +159224,7 @@ shā shǔ jì yì wài zhòng dú	杀鼠剂意外中毒
 shā tǎ ěr jīng liàn bì jiǎ	沙塔尔精炼臂甲
 shā tè zhū bài lè liàn chǎng	沙特朱拜勒炼厂
 shān dēng jué dǐng wǒ wéi fēng	山登绝顶我为峰
+shān diān yí sì yì hú jiǔ	山巅一寺一壶酒
 shàn huà sì dà xióng bǎo diàn	善化寺大雄宝殿
 shān nán xī dào jié dù shǐ	山南西道节度使
 shàn shí tàn shuǐ huà hé wù	膳食碳水化合物

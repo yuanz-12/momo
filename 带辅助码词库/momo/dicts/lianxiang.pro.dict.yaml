@@ -442,7 +442,6 @@ sort: by_weight
 艾庄粉刺消	ài;cx zhuāng;gt fěn;mf cì;ud xiāo;do	10
 艾庄头痒灵	ài;cx zhuāng;gt tóu;dd yǎng;by líng;eh	10
 矮紫苞鸢尾	ǎi;un zǐ;vx bāo;cb yuān;gn wěi;um	10
-爱滋病抗体	ài;vy zī;dy bìng;bn kàng;fj tǐ;rb	10
 艾滋病抗体	ài;cx zī;dy bìng;bn kàng;fj tǐ;rb	10
 爱子方程式	ài;vy zǐ;la fāng;wv chéng;hw shì;gg	10
 矮子古兹曼	ǎi;un zi;la gǔ;uk zī;by màn;oy	10
@@ -5874,7 +5873,6 @@ sort: by_weight
 不作不会死	bù;ab zuò;rv bú;ab huì;ry sǐ;db	10
 不做的事情	bú;ab zuò;rw de;bu shì;gy qíng;xo	10
 不作恶原则	bú;ab zuò;rv è;yx yuán;ix zé;bd	10
-不做恶原则	bú;ab zuò;rw è;yx yuán;ix zé;bd	10
 不作亏心事	bú;ab zuò;rv kuī;ak xīn;dd shì;gy	10
 不做亏心事	bú;ab zuò;rw kuī;ak xīn;dd shì;gy	10
 不做生意了	bú;ab zuò;rw shēng;pf yì;lx le;al	10
@@ -10712,6 +10710,7 @@ sort: by_weight
 大科摩罗岛	dà;ar kē;hd mó;gu luó;sx dǎo;nu	10
 大克佩尔岛	dà;ar kè;ux,ge pèi;rj ěr;dx dǎo;nu	10
 大口大口地	dà;ar kǒu;la dà;ar kǒu;la de;ty	10
+大口大口嚼	dà;ar kǒu;la dà;ar kǒu;la jué;kc	10
 大口径步枪	dà;ar kǒu;la jìng;rj bù;vu qiāng;av	10
 大口径机枪	dà;ar kǒu;la jìng;rj jī;aj qiāng;av	10
 大哭和大笑	dà;ar kū;xq hé;hk dà;ar xiào;vy	10
@@ -39094,13 +39093,12 @@ sort: by_weight
 拉伐耳喷管	lā;fl fá;rg ěr;ol pēn;kb guǎn;vl	10
 拉弗森方法	lā;fl fú;gl sēn;aa fāng;wv fǎ;dq	10
 拉格朗日点	lā;fl gé;ak lǎng;lo rì;wa diǎn;vh	10
-拉格郎日点	lā;fl gé;ak láng;le rì;wa diǎn;vh	10
 拉格朗日量	lā;fl gé;ak lǎng;lo rì;wa liàng;ol	10
 拉戈斯山脉	lā;fl gē;yd sī;ct shān;kl mài;oy	10
 拉赫不变量	lā;fl hè;ii bú;ab biàn;wy liàng;ol	10
 拉赫塔中心	lā;fl hè;ii tǎ;tk zhōng;kl xīn;dd	10
+垃圾处理厂	lā;tl jī;tj chǔ;wb lǐ;wl chǎng;ap	12
 垃圾处理场	lā;tl jī;tj chǔ;wb lǐ;wl chǎng;tp	10
-垃圾处理厂	lā;tl jī;tj chǔ;wb lǐ;wl chǎng;ap	10
 垃圾的产生	lā;tl jī;tj de;bu chǎn;wi shēng;pf	10
 垃圾的处理	lā;tl jī;tj de;bu chǔ;wb lǐ;wl	10
 垃圾的分类	lā;tl jī;tj de;bu fēn;bd lèi;md	10
@@ -39750,7 +39748,6 @@ sort: by_weight
 擂鼓瓮金锤	léi;ft gǔ;tv wèng;gw jīn;rb chuí;jt	10
 肋横突关节	lèi;ol héng;ab tū;bq guān;bt jié;ce	10
 肋横突韧带	lèi;ol héng;ab tū;bq rèn;wd dài;cj	10
-类胡罗卜素	lèi;md hú;go luó;sx bo;ld sù;fx	10
 类胡萝卜素	lèi;md hú;go luó;cx bo;ld sù;fx	10
 类魂系游戏	lèi;md hún;yg xì;px yóu;dz xì;yg	10
 累积发病率	lěi;tx jī;hv fā;fy bìng;bn lǜ;wu	10
@@ -41821,7 +41818,6 @@ sort: by_weight
 六个小时后	liù;wb gè;rl xiǎo;lb shí;to hòu;ik	10
 六个小时内	liù;wb gè;rl xiǎo;lb shí;to nèi;kr	10
 遛狗不拴绳	liù;zt gǒu;qj bù;ab shuān;fw shéng;sd	10
-遛狗不栓绳	liù;zt gǒu;qj bù;ab shuān;aw shéng;sd	10
 刘冠雄故居	liú;wd guān;bc xióng;uv gù;gw jū;ug	10
 六国大封相	liù;wb guó;wy dà;ar fēng;tc xiāng;ao	10
 流过的汗水	liú;di guò;zc de;bu hàn;dg shuǐ;ln	10
@@ -58381,15 +58377,12 @@ sort: by_weight
 市妇儿工委	shì;wj fù;ne er;pv gōng;aa wěi;hn	10
 市府广场东	shì;wj fǔ;gc guǎng;di chǎng;tp dōng;ax	10
 市府广场站	shì;wj fǔ;gc guǎng;di chǎng;tp zhàn;lv	10
-师傅郭德纲	shī;lj fu;rc guō;we dé;rx gāng;sx	10
-师父郭德纲	shī;lj fu;bx guō;we dé;rx gāng;sx	10
 是福还是祸	shì;oz fú;pt hái;zb shì;oz huò;pn	10
 师傅和徒弟	shī;lj fu;rc hé;hk tú;rz dì;bd	10
-师傅领进门	shī;lj fu;rc lǐng;ry jìn;zj mén;dv	10
 师父领进门	shī;lj fu;bx lǐng;ry jìn;zj mén;dv	10
 石驸马大街	shí;ak fù;mc mǎ;va dà;ar jiē;rt	10
 师父明白了	shī;lj fu;bx míng;oo bai;po le;al	10
-释伽牟尼佛	shì;mf gā;rk mù;sn ní;ub fó;rf	10
+释伽牟尼佛	shì;mf gā;rk móu;sn ní;ub fó;rf	10
 是盖世英雄	shì;oz gài;ym shì;cv yīng;cy xióng;uv	10
 实干的精神	shí;bd gàn;au de;bu jīng;mo shén;pu	10
 是干什么的	shì;oz gàn;au shén;ru me;ps de;bu	10
@@ -58607,8 +58600,8 @@ sort: by_weight
 石家河遗址	shí;ak jiā;bu hé;dk yí;zb zhǐ;tv	10
 市价净值比	shì;wj jià;rj jìng;dy zhí;rq bǐ;bb	10
 释迦摩尼佛	shì;mf jiā;zk mó;gu ní;ub fó;rf	10
-释迦牟尼佛	shì;mf jiā;zk mù;sn ní;ub fó;rf	10
-释迦牟尼像	shì;mf jiā;zk mù;sn ní;ub xiàng;ru	10
+释迦牟尼佛	shì;mf jiā;zk móu;sn ní;ub fó;rf	10
+释迦牟尼像	shì;mf jiā;zk móu;sn ní;ub xiàng;ru	10
 世嘉三四郎	shì;cv jiā;tk sān;ae sì;we láng;le	10
 十佳摄影师	shí;al jiā;rt shè;fy yǐng;op shī;lj	10
 式家庭教育	shì;gg jiā;bu tíng;gw jiào;lw yù;wo	10
@@ -87092,7 +87085,7 @@ sort: by_weight
 指导式民主	zhǐ;fo dǎo;sc shì;gg mín;vv zhǔ;wt	10
 知道实情后	zhī;uk dào;zz shí;bd qíng;xo hòu;ik	10
 至道十五路	zhì;gt dào;zz shí;al wǔ;aw lù;zk	10
-只道是寻常	zhī;kb dào;zz shì;oz xún;ec cháng;xj	10
+只道是寻常	zhǐ;kb dào;zz shì;oz xún;ec cháng;xj	10
 指导思想是	zhǐ;fo dǎo;sc sī;tx xiǎng;ax shì;oz	10
 直到他去世	zhí;uq dào;gd tā;ry qù;ts shì;cv	10
 指导委员会	zhǐ;fo dǎo;sc wěi;hn yuán;kb huì;ry	10
@@ -114316,7 +114309,7 @@ sort: by_weight
 居民生活电价	jū;ug mín;vv shēng;pf huó;du diàn;ov,yv jià;rj	10
 居民自治章程	jū;ug mín;vv zì;po zhì;dk zhāng;lu chéng;hw	10
 巨魔之血药水	jù;kk mó;gg zhī;dn xuè;pm yào;cu shuǐ;ln	10
-拘那含牟尼佛	jū;fj nà;ve hán;rk mù;sn ní;ub fó;rf	10
+拘那含牟尼佛	jū;fj nà;ve hán;rk móu;sn ní;ub fó;rf	10
 莒南第一中学	jǔ;ck nán;ug dì;vd yī;aa zhōng;kl xué;xz	10
 钜派投资集团	jù;jj pài;dy tóu;fu zī;db jí;ra tuán;wc	10
 巨泡五趾跳鼠	jù;kk pào;db wǔ;aw zhǐ;zv tiào;zv shǔ;jv	10
@@ -120299,7 +120292,6 @@ sort: by_weight
 内科主治医师	nèi;kr kē;hd zhǔ;wt zhì;dk yī;ku shī;lj	10
 内控实施细则	nèi;kr kòng;fg shí;bd shī;fy xì;st zé;bd	10
 内窥镜活检钳	nèi;kr kuī;bj jìng;je huó;du jiǎn;aq qián;jg	10
-内拉格郎日点	nèi;kr lā;fl gé;ak láng;le rì;wa diǎn;vh	10
 内拉格朗日点	nèi;kr lā;fl gé;ak lǎng;lo rì;wa diǎn;vh	10
 内力地质作用	nèi;kr lì;vp dì;ty zhì;ib zuò;rv yòng;kf,ol	10
 内六角螺丝刀	nèi;kr liù;wb jiǎo;dy luó;ix sī;sa dāo;vp	10
@@ -124539,8 +124531,6 @@ sort: by_weight
 人生起起伏伏	rén;pn shēng;pf qǐ;tj qǐ;tj fú;rq fú;rq	10
 人生起起落落	rén;pn shēng;pf qǐ;tj qǐ;tj luò;ck luò;ck	10
 人生若如初见	rén;pn shēng;pf ruò;ck rú;nk chū;pd jiàn;ke	10
-人生若只初见	rén;pn shēng;pf ruò;ck zhǐ;kb chū;pd jiàn;ke	10
-人生若只如初	rén;pn shēng;pf ruò;ck zhǐ;kb rú;nk chū;pd	10
 人生是美好的	rén;pn shēng;pf shì;oz měi;yd hǎo;nz de;bu	10
 人生是美丽的	rén;pn shēng;pf shì;oz měi;yd lì;ad de;bu	10
 人生十字路口	rén;pn shēng;pf shí;al zì;bz lù;zk kǒu;la	10
@@ -127442,10 +127432,10 @@ sort: by_weight
 士嘉堡北选区	shì;ua jiā;tk bǎo;rt běi;lb xuǎn;ze qū;kx	10
 世嘉都市乐园	shì;cv jiā;tk dū;le shì;wj lè;px yuán;wy	10
 史家胡同小学	shǐ;kn jiā;bu hú;go tòng;kk xiǎo;lb xué;xz	10
-释迦牟尼佛所	shì;mf jiā;zk mù;sn ní;ub fó;rf suǒ;ht	10
-释迦牟尼佛像	shì;mf jiā;zk mù;sn ní;ub fó;rf xiàng;ru	10
-释迦牟尼如来	shì;mf jiā;zk mù;sn ní;ub rú;nk lái;aa	10
-释迦牟尼世尊	shì;mf jiā;zk mù;sn ní;ub shì;cv zūn;bc	10
+释迦牟尼佛所	shì;mf jiā;zk móu;sn ní;ub fó;rf suǒ;ht	10
+释迦牟尼佛像	shì;mf jiā;zk móu;sn ní;ub fó;rf xiàng;ru	10
+释迦牟尼如来	shì;mf jiā;zk móu;sn ní;ub rú;nk lái;aa	10
+释迦牟尼世尊	shì;mf jiā;zk móu;sn ní;ub shì;cv zūn;bc	10
 世嘉土星游戏	shì;cv jiā;tk tǔ;ua xīng;ou yóu;dz xì;yg	10
 史家小学分校	shǐ;kn jiā;bu xiǎo;lb xué;xz fēn;bd xiào;af	10
 世嘉硬件女孩	shì;cv jiā;tk yìng;ug jiàn;rn nǚ;va hái;zr	10
@@ -127966,7 +127956,7 @@ sort: by_weight
 实时光线追踪	shí;bd shí;to guāng;xe xiàn;sj zhuī;zl zōng;zu	10
 实时行情数据	shí;bd shí;to háng;rd qíng;xo shù;mw jù;fg	10
 史诗毁灭金属	shǐ;kn shī;yc huǐ;ju miè;ah jīn;rb shǔ;uy	10
-时释迦牟尼佛	shí;to shì;mf jiā;zk mù;sn ní;ub fó;rf	10
+时释迦牟尼佛	shí;to shì;mf jiā;zk móu;sn ní;ub fó;rf	10
 实施家庭暴力	shí;bd shī;fy jiā;bu tíng;gw bào;ou lì;vp	10
 实时监测数据	shí;bd shí;to jiān;lm cè;dd shù;mw jù;fg	10
 实时监测系统	shí;bd shí;to jiān;lm cè;dd xì;px tǒng;sy	10
@@ -132138,7 +132128,6 @@ sort: by_weight
 外科证治准绳	wài;xb kē;hd zhèng;yv zhì;dk zhǔn;dv shéng;sd	10
 外科主任医师	wài;xb kē;hd zhǔ;wt rèn;rw yī;ku shī;lj	10
 外科主治医师	wài;xb kē;hd zhǔ;wt zhì;dk yī;ku shī;lj	10
-外拉格郎日点	wài;xb lā;fl gé;ak láng;le rì;wa diǎn;vh	10
 外拉格朗日点	wài;xb lā;fl gé;ak lǎng;lo rì;wa diǎn;vh	10
 外来务工人员	wài;xb lái;aa wù;wl gōng;aa rén;pn yuán;kb	10
 外来务工子女	wài;xb lái;aa wù;wl gōng;aa zǐ;la nǚ;va	10
@@ -132592,7 +132581,6 @@ sort: by_weight
 王室高级成员	wáng;at shì;bt gāo;wk jí;sj chéng;gv yuán;kb	10
 王室教师海涅	wáng;at shì;bt jiào;lw shī;lj hǎi;dm niè;dt	10
 往事历历在目	wǎng;rv shì;gy lì;il lì;il zài;ut mù;we	10
-王守仁的粉丝	wáng;at shǒu;bc rén;re de;bu fěn;mf sī;sa	10
 王蜀宫妓图轴	wáng;at shǔ;si gōng;bk jì;nv tú;wd zhóu;iy	10
 王思聪的女友	wáng;at sī;tx cōng;ex de;bu nǚ;va yǒu;uy	10
 王思聪的微博	wáng;at sī;tx cōng;ex de;bu wēi;rj bó;uc	10
@@ -145827,7 +145815,6 @@ sort: by_weight
 转置伴随等价	zhuǎn;iv zhì;sq bàn;rb suí;eo děng;vc jià;rj	10
 转置伴随矩阵	zhuǎn;iv zhì;sq bàn;rb suí;eo jǔ;uj zhèn;ei	10
 专治各种不服	zhuān;ts zhì;dk gè;wk zhǒng;hv bù;ab fú;oy	10
-专制各种不服	zhuān;ts zhì;nd gè;wk zhǒng;hv bù;ab fú;oy	10
 转置积分方程	zhuǎn;iv zhì;sq jī;hv fēn;bd fāng;wv chéng;hw	10
 赚指数不赚钱	zhuàn;bj zhǐ;fo shù;mw bú;ab zhuàn;bj qián;jj	10
 专治疑难杂症	zhuān;ts zhì;dk yí;bz nán;yv zá;ja zhèng;bv	10
@@ -148534,7 +148521,7 @@ sort: by_weight
 本色牛皮包装纸	běn;aa sè;db niú;pu pí;py bāo;bs zhuāng;ly zhǐ;su	10
 本生罗二氏定律	běn;aa shēng;pf luó;sx èr;aa shì;pv dìng;bz lǜ;ry	10
 本省行政区域内	běn;aa shěng;uo xíng;rd zhèng;vw qū;kx yù;ta nèi;kr	10
-本师释迦牟尼佛	běn;aa shī;lj shì;mf jiā;zk mù;sn ní;ub fó;rf	10
+本师释迦牟尼佛	běn;aa shī;lj shì;mf jiā;zk móu;sn ní;ub fó;rf	10
 本市行政区域内	běn;aa shì;wj xíng;rd zhèng;vw qū;kx yù;ta nèi;kr	10
 本斯琼斯蛋白尿	běn;aa sī;ct qióng;wx sī;ct dàn;zi bái;po niào;uu	10
 本图贡萨尔维斯	běn;aa tú;wd gòng;gb sà;ci ěr;dx wéi;sv sī;ct	10
@@ -154740,7 +154727,6 @@ sort: by_weight
 橄辉无球粒陨石	gǎn;aw huī;gi wú;ay qiú;wq lì;ml yǔn;eb shí;ak	10
 干姜甘草与人参	gān;au jiāng;yn gān;ca cǎo;cu yú;va rén;pn cān;sp	10
 感交甫之弃言兮	gǎn;gx jiāo;wf fǔ;uy zhī;dn qì;wc yán;wk xī;bk	10
-敢叫日月换新天	gǎn;ew jiào;kj rì;wa yuè;ke huàn;fr xīn;lt tiān;ad	10
 赶紧行动起来吧	gǎn;tg jǐn;lx xíng;rd dòng;yl qǐ;tj lái;aa ba;kb	10
 赶紧找个男朋友	gǎn;tg jǐn;lx zhǎo;fg gè;rl nán;tl péng;oo you;uy	10
 干净利落的短发	gān;au jìng;dy lì;hd luo;ck de;bu duǎn;ub fà;fy	10
@@ -155742,7 +155728,7 @@ sort: by_weight
 弓形体抗体测定	gōng;vv xíng;kp tǐ;rb kàng;fj tǐ;rb cè;dd dìng;bz	10
 功勋国家合唱团	gōng;gl xūn;kl guó;wy jiā;bu hé;rk chàng;ko tuán;wc	10
 供养亲属抚恤金	gōng;rg yǎng;yl qīn;la shǔ;uy fǔ;fw xù;xm jīn;rb	10
-供养释迦牟尼佛	gōng;rg yǎng;yl shì;mf jiā;zk mù;sn ní;ub fó;rf	10
+供养释迦牟尼佛	gōng;rg yǎng;yl shì;mf jiā;zk móu;sn ní;ub fó;rf	10
 工业高质量发展	gōng;aa yè;la gāo;wk zhì;ib liàng;ol fā;fy zhǎn;uy	10
 工业固体废弃物	gōng;aa yè;la gù;wg tǐ;rb fèi;gy qì;wc wù;nw	10
 工业化和城市化	gōng;aa yè;la huà;rb hé;hk chéng;ti shì;wj huà;rb	10
@@ -159249,6 +159235,7 @@ sort: by_weight
 沙塔尔精炼臂甲	shā;du tǎ;tk ěr;dx jīng;mo liàn;hd bì;uo jiǎ;ol,tl	10
 沙特朱拜勒炼厂	shā;du tè;nc zhū;pw bài;uf lè;cl liàn;hd chǎng;ap	10
 山登绝顶我为峰	shān;kl dēng;bb jué;sb dǐng;dy wǒ;ga wéi;ld fēng;uf	10
+山巅一寺一壶酒	shān;kl diān;uy yí;aa sì;tc yì;aa hú;ty jiǔ;dy	10
 善化寺大雄宝殿	shàn;yk huà;rb sì;tc dà;ar xióng;uv bǎo;by diàn;uu	10
 山南西道节度使	shān;kl nán;ug xī;ak,wk dào;zz jié;ce dù;gy shǐ;rl	10
 膳食碳水化合物	shàn;ok shí;rg tàn;uh shuǐ;ln huà;rb hé;rk wù;nw	10
