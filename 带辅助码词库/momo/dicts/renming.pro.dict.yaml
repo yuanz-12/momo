@@ -294,6 +294,8 @@ sort: by_weight
 杜梅	dù;at méi;am	583
 杜敏	dù;at mǐn;pw	85
 杜阳	dù;at yáng;eo	886
+杜奕	dù;at yì;wd	46
+段红	duàn;pu hóng;sg	774
 范斌	fàn;cv bīn;wv	82
 樊忱	fán;ad chén;xe	44
 范飞	fàn;cv fēi;vd	145
@@ -2493,7 +2495,7 @@ sort: by_weight
 周霞	zhōu;kk xiá;yy	184
 周详	zhōu;kk xiáng;yy	260
 周晓	zhōu;kk xiǎo;ow	1300
-周新	zhōu;kk xīn;lt	1174
+周新	zhōu;kk xīn;lt	117
 周行	zhōu;kk xíng;rd	576
 周兴	zhōu;kk xīng;xb	125
 周雄	zhōu;kk xióng;uv	84
@@ -4315,6 +4317,7 @@ sort: by_weight
 段清波	duàn;pu qīng;do bō;dp	34
 段青春	duàn;pu qīng;fo chūn;io	334
 段少锋	duàn;pu shǎo;xp fēng;jf	30
+段胜龙	duàn;pu shèng;ou lóng;yp	45
 段苏权	duàn;pu sū;cb quán;ay	137
 段天德	duàn;pu tiān;ad dé;rx	123
 段甜蜜	duàn;pu tián;ug mì;bi	201
@@ -4326,12 +4329,14 @@ sort: by_weight
 段莹莹	duàn;pu yíng;cy yíng;cy	30
 段永刚	duàn;pu yǒng;du gāng;kd	28
 段宇飞	duàn;pu yǔ;by fēi;vd	63
+段于海	duàn;pu yú;au hǎi;dm	50
 段正澄	duàn;pu zhèng;av chéng;db	25
 段正明	duàn;pu zhèng;av míng;oo	142
 段芝贵	duàn;pu zhī;cv guì;vb	188
 段志鹏	duàn;pu zhì;tx péng;on	26
 段智兴	duàn;pu zhì;uo xīng;xb	48
 段志玄	duàn;pu zhì;tx xuán;wy	87
+段竹君	duàn;pu zhú;gg jūn;yk	4
 樊爱能	fán;ad ài;vy néng;sb	234
 范柏群	fàn;cv bǎi;ab qún;yy	266
 范堡罗	fàn;cv bǎo;rt luó;sx	436
@@ -4519,13 +4524,37 @@ sort: by_weight
 冯紫英	féng;dm zǐ;vx yīng;cy	77
 冯自由	féng;dm zì;po yóu;ol,lt	23
 冯子振	féng;dm zǐ;la zhèn;fi	24
+傅伯杰	fù;rc bó;rb jié;ah	189
+傅采林	fù;rc cǎi;va lín;aa	536
+傅达仁	fù;rc dá;zd rén;re	25
+傅大士	fù;rc dà;ar shì;ua	274
+傅鼎生	fù;rc dǐng;po shēng;pf	266
+傅东育	fù;rc dōng;ax yù;wo	6
+傅国生	fù;rc guó;wy shēng;pf	410
+傅国涌	fù;rc guó;wy yǒng;dy	22
+傅海棠	fù;rc hǎi;dm táng;xa	490
+傅华阳	fù;rc huá;ru yáng;eo	175
+傅京孙	fù;rc jīng;wx sūn;zx	207
+傅狷夫	fù;rc juàn;qo fū;er	423
+傅兰雅	fù;rc lán;bs yǎ;yv	482
+傅老榕	fù;rc lǎo;lb róng;ag	3
+傅连暲	fù;rc lián;zi zhāng;ou	85
+傅青主	fù;rc qīng;fo zhǔ;wt	25
 傅慎行	fù;rc shèn;xb xíng;rd	82
+傅石涯	fù;rc shí;ak yá;dt	90
 傅天琳	fù;rc tiān;ad lín;wa	63
 傅天颖	fù;rc tiān;ad yǐng;bh	25
 付庭彦	fù;rc tíng;gw yàn;wp	148
 傅蔚冈	fù;rc wèi;cc gāng;kx	133
+傅筱庵	fù;rc xiǎo;vw ān;gd	16
 付笑谈	fù;rc xiào;vy tán;yh	202
 傅晓田	fù;rc xiǎo;ow tián;wu	48
+傅友兴	fù;rc yǒu;uy xīng;xb	327
+傅振辉	fù;rc zhèn;fi huī;gi	189
+傅振中	fù;rc zhèn;fi zhōng;kl	288
+傅志寰	fù;rc zhì;tx huán;by	232
+傅忠海	fù;rc zhōng;vx hǎi;dm	189
+傅宗书	fù;rc zōng;bu shū;vd	342
 高丙伟	gāo;wk bǐng;an wěi;rw	99
 高伯达	gāo;wk bó;rb dá;zd	50
 高博文	gāo;wk bó;uc wén;wx	346
@@ -9279,6 +9308,13 @@ sort: by_weight
 穆尼埃	mù;hp ní;ub āi;tu	288
 穆尼斯	mù;hp ní;ub sī;ct	297
 穆尼耶	mù;hp ní;ub yé;ee	63
+慕容白	mù;cx róng;bg bái;po	464
+慕容沣	mù;cx róng;bg fēng;df	251
+慕容晴	mù;cx róng;bg qíng;oo	639
+慕容清	mù;cx róng;bg qīng;do	258
+慕容燕	mù;cx róng;bg yàn;ch	210
+慕容雨	mù;cx róng;bg yǔ;ad	702
+慕容忠	mù;cx róng;bg zhōng;vx	356
 穆斯特	mù;hp sī;ct tè;nc	459
 穆特萨	mù;hp tè;nc sà;ci	292
 穆为民	mù;hp wèi;ld mín;vv	454
@@ -16686,7 +16722,6 @@ sort: by_weight
 周孝正	zhōu;kk xiào;lz zhèng;av	33
 周小栀	zhōu;kk xiǎo;lb zhī;av	95
 周小舟	zhōu;kk xiǎo;lb zhōu;pd	63
-周新高	zhōu;kk xīn;lt gāo;wk	164
 周新华	zhōu;kk xīn;lt huá;ru	42
 周新月	zhōu;kk xīn;lt yuè;ke	53
 周行程	zhōu;kk xíng;rd chéng;hw	44

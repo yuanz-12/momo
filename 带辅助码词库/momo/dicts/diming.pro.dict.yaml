@@ -643,6 +643,7 @@ sort: by_weight
 徐村	xú;rm cūn;ac	300
 许都	xǔ;yw dōu;le	1107
 徐汇	xú;rm huì;dk	1565
+徐水	xú;rm shuǐ;ln	140
 徐屯	xú;rm tún;av	279
 许县	xǔ;yw xiàn;qs	92
 徐州	xú;rm zhōu;dl	4198
@@ -5331,6 +5332,7 @@ sort: by_weight
 方集镇	fāng;wv jí;ra zhèn;jb	10
 方家镇	fāng;wv jiā;bu zhèn;jb	10
 方里镇	fāng;wv lǐ;tt zhèn;jb	10
+芳联堡	fāng;cf lián;et bǎo;rt	183
 枋寮乡	fāng;af liáo;bx xiāng;vp	10
 坊楼镇	fāng;tf lóu;an zhèn;jb	10
 房木镇	fáng;hf mù;ur zhèn;jb	10
@@ -18924,7 +18926,6 @@ sort: by_weight
 苏李村	sū;cb lǐ;az cūn;ac	103
 苏里格	sū;cb lǐ;tt gé;ak	10
 苏里乡	sū;cb lǐ;tt xiāng;vp	542
-芳联堡	sū;cf lián;et bǎo;rt	183
 苏岭村	sū;cb lǐng;us cūn;ac	139
 苏楼村	sū;cb lóu;an cūn;ac	94
 苏鲁乡	sū;cb lǔ;yo xiāng;vp	175
@@ -44562,7 +44563,7 @@ sort: by_weight
 柯家庄村	kē;ak jiā;bu zhuāng;gt cūn;ac	10
 客家庄村	kè;bk jiā;bu zhuāng;gt cūn;ac	10
 科教新城	kē;hd jiào;lw xīn;lt chéng;ti	10
-可克达拉	kě;dk kě;ux,ge dá;zd lā;fl	10
+可克达拉	kě;dk kè;ux,ge dá;zd lā;fl	10
 柯柯里乡	kē;ak kē;ak lǐ;tt xiāng;vp	10
 科克苏镇	kē;hd kè;ux,ge sū;cb zhèn;jb	10
 柯柯亚村	kē;ak kē;ak yà;ay cūn;ac	10
@@ -74941,7 +74942,7 @@ sort: by_weight
 科尔沁街道	kē;hd ěr;dx qìn;dx jiē;rt dào;zz	10
 科技工业园	kē;hd jì;fv gōng;aa yè;la yuán;wy	10
 科技园街道	kē;hd jì;fv yuán;wy jiē;rt dào;zz	10
-可克达拉市	kě;dk kě;ux,ge dá;zd lā;fl shì;wj	10
+可克达拉市	kě;dk kè;ux,ge dá;zd lā;fl shì;wj	10
 科克苏林场	kē;hd kè;ux,ge sū;cb lín;aa chǎng;tp	10
 可可托海镇	kě;dk kě;dk tuō;fq hǎi;dm zhèn;jb	10
 柯柯牙街道	kē;ak kē;ak yá;gp,ac jiē;rt dào;zz	10
@@ -82179,7 +82180,7 @@ sort: by_weight
 阿拉坦额莫勒镇	ā;ek lā;fl tǎn;td é;by mò;cd lè;cl zhèn;jb	10
 阿拉坦合力苏木	ā;ek lā;fl tǎn;td hé;rk lì;vp sū;cb mù;ur	10
 阿拉腾朝格苏木	ā;ek lā;fl téng;om cháo;uo gé;ak sū;cb mù;ur	10
-阿勒泰可克达拉	ā;ek lè;cl tài;iu kě;dk kě;ux,ge dá;zd lā;fl	10
+阿勒泰可克达拉	ā;ek lè;cl tài;iu kě;dk kè;ux,ge dá;zd lā;fl	10
 阿勒泰图木舒克	ā;ek lè;cl tài;iu tú;wd mù;ur shū;ry kè;ux,ge	10
 阿勒腾也木勒乡	ā;ek lè;cl téng;om yě;vv mù;ur lè;cl xiāng;vp	10
 阿里地区措勤县	ā;ek lǐ;tt dì;ty qū;kx cuò;fo qín;cl xiàn;qs	10
@@ -82651,7 +82652,7 @@ sort: by_weight
 科尔沁右翼中旗	kē;hd ěr;dx qìn;dx yòu;uk yì;xg zhōng;kl qí;fb	10
 科尔沁左翼后旗	kē;hd ěr;dx qìn;dx zuǒ;ug yì;xg hòu;ik qí;fb	10
 科尔沁左翼中旗	kē;hd ěr;dx qìn;dx zuǒ;ug yì;xg zhōng;kl qí;fb	10
-可克达拉市昆玉	kě;dk kě;ux,ge dá;zd lā;fl shì;wj kūn;ob yù;wd	10
+可克达拉市昆玉	kě;dk kè;ux,ge dá;zd lā;fl shì;wj kūn;ob yù;wd	10
 克拉玛依白碱滩	kè;ux,ge lā;fl mǎ;wm yī;ry bái;po jiǎn;uk tān;dv	10
 克拉玛依独山子	kè;ux,ge lā;fl mǎ;wm yī;ry dú;qi shān;kl zǐ;la	10
 克拉玛依乌尔禾	kè;ux,ge lā;fl mǎ;wm yī;ry wū;pa ěr;dx hé;pa	10
@@ -83965,7 +83966,7 @@ sort: by_weight
 侏儒山街道成功片区	zhū;rw rú;re shān;kl jiē;rt dào;zz chéng;gv gōng;gl piàn;pv qū;kx	10
 侏儒山街道洪北片区	zhū;rw rú;re shān;kl jiē;rt dào;zz hóng;dg běi;lb piàn;pv qū;kx	10
 阿克塞哈萨克族自治县	ā;ek kè;ux,ge sāi;bt hā;kk sà;ci kè;ux,ge zú;fu zì;po zhì;dk xiàn;qs	10
-阿勒泰地区可克达拉市	ā;ek lè;cl tài;iu dì;ty qū;kx kě;dk kě;ux,ge dá;zd lā;fl shì;wj	10
+阿勒泰地区可克达拉市	ā;ek lè;cl tài;iu dì;ty qū;kx kě;dk kè;ux,ge dá;zd lā;fl shì;wj	10
 阿勒泰地区图木舒克市	ā;ek lè;cl tài;iu dì;ty qū;kx tú;wd mù;ur shū;ry kè;ux,ge shì;wj	10
 安徽省国营十字铺茶场	ān;bn huī;rx shěng;uo guó;wy yíng;ck shí;al zì;bz pù;jf chá;cm chǎng;tp	10
 安徽省江北产业集中区	ān;bn huī;rx shěng;uo jiāng;dg běi;lb chǎn;wi yè;la jí;ra zhōng;kl qū;kx	10

@@ -643,6 +643,7 @@ sort: by_weight
 徐村	xú;rm cūn;ac	300
 許都	xǔ;yw dōu;le	1107
 徐匯	xú;rm huì;kv	1565
+徐水	xú;rm shuǐ;ln	140
 徐屯	xú;rm tún;av	279
 許縣	xǔ;yw xiàn;qx	92
 徐州	xú;rm zhōu;dl	4198
@@ -4838,7 +4839,8 @@ sort: by_weight
 東興鄉	dōng;ir xīng;jb xiāng;xg	10
 東興鎮	dōng;ir xīng;jb zhèn;jb	266
 東墟鎮	dōng;ir xū;ty zhèn;jb	10
-東陽市	dōng;ir yáng;ew shì;wj	23
+東陽市	dōng;ir yáng;ew shì;wj	141
+東羊市	dōng;ir yáng;bf shì;wj	122
 東陽縣	dōng;ir yáng;ew xiàn;qx	152
 東洋鄉	dōng;ir yáng;dy xiāng;xg	10
 東陽鄉	dōng;ir yáng;ew xiāng;xg	10
@@ -5330,6 +5332,7 @@ sort: by_weight
 方集鎮	fāng;wv jí;ra zhèn;jb	10
 方家鎮	fāng;wv jiā;bu zhèn;jb	10
 方里鎮	fāng;wv lǐ;tt zhèn;jb	10
+芳聯堡	fāng;cf lián;ej bǎo;rt	183
 枋寮鄉	fāng;af liáo;bx xiāng;xg	10
 坊樓鎮	fāng;tf lóu;an zhèn;jb	10
 房木鎮	fáng;hf mù;ur zhèn;jb	10
@@ -18923,7 +18926,6 @@ sort: by_weight
 蘇李村	sū;ch lǐ;az cūn;ac	103
 蘇里格	sū;ch lǐ;tt gé;ak	10
 蘇里鄉	sū;ch lǐ;tt xiāng;xg	542
-芳聯堡	sū;cf lián;ej bǎo;rt	183
 蘇嶺村	sū;ch lǐng;uy cūn;ac	139
 蘇樓村	sū;ch lóu;an cūn;ac	94
 蘇魯鄉	sū;ch lǔ;yo xiāng;xg	175
@@ -44561,7 +44563,7 @@ sort: by_weight
 柯家莊村	kē;ak jiā;bu zhuāng;ct cūn;ac	10
 客家莊村	kè;bk jiā;bu zhuāng;ct cūn;ac	10
 科教新城	kē;hd jiào;lw xīn;lt chéng;ti	10
-可克達拉	kě;dk kě;ux,ge dá;zy lā;fl	10
+可克達拉	kě;dk kè;ux,ge dá;zy lā;fl	10
 柯柯裏鄉	kē;ak kē;ak lǐ;yl xiāng;xg	10
 科克蘇鎮	kē;hd kè;ux,ge sū;ch zhèn;jb	10
 柯柯亞村	kē;ak kē;ak yà;aa cūn;ac	10
@@ -74940,7 +74942,7 @@ sort: by_weight
 科爾沁街道	kē;hd ěr;ab qìn;dx jiē;rt dào;zz	10
 科技工業園	kē;hd jì;fv gōng;aa yè;yw yuán;wy	10
 科技園街道	kē;hd jì;fv yuán;wy jiē;rt dào;zz	10
-可克達拉市	kě;dk kě;ux,ge dá;zy lā;fl shì;wj	10
+可克達拉市	kě;dk kè;ux,ge dá;zy lā;fl shì;wj	10
 科克蘇林場	kē;hd kè;ux,ge sū;ch lín;aa chǎng;tw	10
 可可托海鎮	kě;dk kě;dk tuō;fq hǎi;dm zhèn;jb	10
 柯柯牙街道	kē;ak kē;ak yá;gp,ac jiē;rt dào;zz	10
@@ -82178,7 +82180,7 @@ sort: by_weight
 阿拉坦額莫勒鎮	ā;ek lā;fl tǎn;td é;by mò;cd lè;cl zhèn;jb	10
 阿拉坦合力蘇木	ā;ek lā;fl tǎn;td hé;rk lì;vp sū;ch mù;ur	10
 阿拉騰朝格蘇木	ā;ek lā;fl téng;om cháo;uo gé;ak sū;ch mù;ur	10
-阿勒泰可克達拉	ā;ek lè;cl tài;iu kě;dk kě;ux,ge dá;zy lā;fl	10
+阿勒泰可克達拉	ā;ek lè;cl tài;iu kě;dk kè;ux,ge dá;zy lā;fl	10
 阿勒泰圖木舒克	ā;ek lè;cl tài;iu tú;wk mù;ur shū;ry kè;ux,ge	10
 阿勒騰也木勒鄉	ā;ek lè;cl téng;om yě;vv mù;ur lè;cl xiāng;xg	10
 阿里地區措勤縣	ā;ek lǐ;tt dì;ty qū;kk cuò;fo qín;cl xiàn;qx	10
@@ -82650,7 +82652,7 @@ sort: by_weight
 科爾沁右翼中旗	kē;hd ěr;ab qìn;dx yòu;uk yì;xg zhōng;kl qí;fb	10
 科爾沁左翼後旗	kē;hd ěr;ab qìn;dx zuǒ;ug yì;xg hòu;rw qí;fb	10
 科爾沁左翼中旗	kē;hd ěr;ab qìn;dx zuǒ;ug yì;xg zhōng;kl qí;fb	10
-可克達拉市昆玉	kě;dk kě;ux,ge dá;zy lā;fl shì;wj kūn;ob yù;wd	10
+可克達拉市昆玉	kě;dk kè;ux,ge dá;zy lā;fl shì;wj kūn;ob yù;wd	10
 克拉瑪依白鹼灘	kè;ux,ge lā;fl mǎ;wm yī;ry bái;po jiǎn;vr tān;dv	10
 克拉瑪依獨山子	kè;ux,ge lā;fl mǎ;wm yī;ry dú;qi shān;kl zǐ;la	10
 克拉瑪依烏爾禾	kè;ux,ge lā;fl mǎ;wm yī;ry wū;wh ěr;ab hé;pa	10
@@ -83964,7 +83966,7 @@ sort: by_weight
 侏儒山街道成功片區	zhū;rw rú;re shān;kl jiē;rt dào;zz chéng;gv gōng;gl piàn;pv qū;kk	10
 侏儒山街道洪北片區	zhū;rw rú;re shān;kl jiē;rt dào;zz hóng;dg běi;lb piàn;pv qū;kk	10
 阿克塞哈薩克族自治縣	ā;ek kè;ux,ge sāi;bt hā;kk sà;cu kè;ux,ge zú;fu zì;po zhì;dk xiàn;qx	10
-阿勒泰地區可克達拉市	ā;ek lè;cl tài;iu dì;ty qū;kk kě;dk kě;ux,ge dá;zy lā;fl shì;wj	10
+阿勒泰地區可克達拉市	ā;ek lè;cl tài;iu dì;ty qū;kk kě;dk kè;ux,ge dá;zy lā;fl shì;wj	10
 阿勒泰地區圖木舒克市	ā;ek lè;cl tài;iu dì;ty qū;kk tú;wk mù;ur shū;ry kè;ux,ge shì;wj	10
 安徽省國營十字鋪茶場	ān;bn huī;rx shěng;uo guó;wa yíng;hk shí;al zì;bz pù;jf chá;cm chǎng;tw	10
 安徽省江北產業集中區	ān;bn huī;rx shěng;uo jiāng;dg běi;lb chǎn;wu yè;yw jí;ra zhōng;kl qū;kk	10

@@ -1,3 +1,4 @@
+néng	能
 ā bā kē qún dǎo	阿巴科群島
 ā bèi bǐ cháng yí	阿貝比長儀
 ā bèi bú biàn liàng	阿貝不變量
@@ -70,8 +71,8 @@ a hái yǒu hòu xù	啊還有後續
 ā luò bā bǐ tuǒ	阿洛巴比妥
 ā luó shì tóng kǒng	阿羅氏瞳孔
 ā luò xī lín nà	阿洛西林鈉
-ā mǎ gā dìng lǜ	阿馬加定律
 ā mǎ gé dìng lǜ	阿馬格定律
+ā mǎ jiā dìng lǜ	阿馬加定律
 ā mǐ bā lì jí	阿米巴痢疾
 ā mǐ niàn zhǔ yì	阿米念主義
 ā mín niàn zhǔ yì	阿民念主義
@@ -374,7 +375,7 @@ a wǒ bù zhī dào	啊我不知道
 ài wèn zhī shí rén	愛問知識人
 ài wǒ de nán rén	愛我的男人
 ài wǒ de shì jiè	愛我的世界
-ài wú chǔ bú zài	愛無處不在
+ài wú chù bú zài	愛無處不在
 ài xī miè le dēng	愛熄滅了燈
 ài xiàng tài píng yáng	愛像太平洋
 ài xiàng yì bǎ huǒ	愛像一把火
@@ -431,7 +432,6 @@ a wǒ bù zhī dào	啊我不知道
 ài zhuāng fěn cì xiāo	艾莊粉刺消
 ài zhuāng tóu yǎng líng	艾莊頭癢靈
 ǎi zǐ bāo yuān wěi	矮紫苞鳶尾
-ài zī bìng kàng tǐ	愛滋病抗體
 ài zī bìng kàng tǐ	艾滋病抗體
 ài zǐ fāng chéng shì	愛子方程式
 ǎi zi gǔ zī màn	矮子古茲曼
@@ -526,13 +526,11 @@ a wǒ bù zhī dào	啊我不知道
 àn jiàn shòu lǐ fèi	案件受理費
 àn jiàn wú rén jī	暗劍無人機
 ān jìng de ài zhe	安靜的愛着
-ān jìng de děng dài	安靜的等待
 ān jìng de děng dài	安靜地等待
 ān jìng de fēn wéi	安靜的氛圍
 ān jìng de jiào shì	安靜的教室
 ān jìng de kàn zhe	安靜地看着
 ān jìng de kě pà	安靜得可怕
-ān jìng de lí kāi	安靜的離開
 ān jìng de lí kāi	安靜地離開
 ān jìng de shēng huó	安靜的生活
 ān jìng de shēng huó	安靜地生活
@@ -2444,7 +2442,6 @@ bǎo yù jiào yù fèi	保育教育費
 bào yǔ lái lín qián	暴雨來臨前
 bǎo yù lèi dòng wù	保育類動物
 bào yǔ lí huā zhēn	暴雨梨花針
-bào yù míng shì jiàn	鮑毓明事件
 bǎo yù shēng wù xué	保育生物學
 bào yú shuā chǎo fàn	鮑魚刷炒飯
 bǎo yù yǔ jiào yù	保育與教育
@@ -2612,7 +2609,6 @@ bèi diào xiāo zhí zhào	被吊銷執照
 běi dǐng niáng niáng miào	北頂娘娘廟
 bèi dīng shí zì jià	被釘十字架
 bèi dòng biàn zhǔ dòng	被動變主動
-bèi dòng de jiē shòu	被動的接受
 bèi dòng de jiē shòu	被動地接受
 bèi dòng de shāng hài	被動的傷害
 bèi dòng guò shǒu jiǎo	被動過手腳
@@ -2932,7 +2928,6 @@ běi lù jǐ hǎi tún	北露脊海豚
 bèi lù rén pāi dào	被路人拍到
 bèi luàn jiàn shè sǐ	被亂箭射死
 bèi mà de hěn cǎn	被罵得很慘
-bèi mà de zuì cǎn	被罵的最慘
 bèi mà de zuì cǎn	被罵得最慘
 běi mǎ lǐ yà nà	北馬裏亞納
 bèi mào chuān jiǎ dàn	被帽穿甲彈
@@ -5863,7 +5858,6 @@ bù zūn zhòng lǎo shī	不尊重老師
 bù zuò bú huì sǐ	不作不會死
 bú zuò de shì qíng	不做的事情
 bú zuò è yuán zé	不作惡原則
-bú zuò è yuán zé	不做惡原則
 bú zuò kuī xīn shì	不作虧心事
 bú zuò kuī xīn shì	不做虧心事
 bú zuò shēng yì le	不做生意了
@@ -6108,7 +6102,6 @@ cān móu zhǎng zhù lǐ	參謀長助理
 cán pò de yǔ yì	殘破的羽翼
 cán rěn de duì dài	殘忍的對待
 cán rěn de jù jué	殘忍的拒絕
-cán rěn de shā hài	殘忍的殺害
 cán rěn de shā hài	殘忍地殺害
 cán rěn de shǒu duàn	殘忍的手段
 cán rěn de xiàn shí	殘忍的現實
@@ -7646,7 +7639,6 @@ chén bǎo guó lǎo shī	陳寶國老師
 chén bù dé bù sǐ	臣不得不死
 chén chāng hào jiù jū	陳昌浩舊居
 chén chéng xiàng shì jiā	陳丞相世家
-chén chūn xiù shì jiàn	陳春秀事件
 chén cí hóng gù jū	陳慈黌故居
 chén dà tiān xiǎo xiā	陳大天小蝦
 chén dào míng lǎo shī	陳道明老師
@@ -7663,7 +7655,6 @@ chén fēng de jì yì	塵封的記憶
 chén fēng de lì shǐ	塵封的歷史
 chén fēng de wǎng shì	塵封的往事
 chén guàn xī lǎo shī	陳冠希老師
-chén guàn xī shì jiàn	陳冠希事件
 chén hè de qián qī	陳赫的前妻
 chén hè hé xǔ jìng	陳赫和許婧
 chén hè zhāng zǐ xuān	陳赫張子萱
@@ -7689,7 +7680,6 @@ chén jiè qí jiù cáng	陳介祺舊藏
 chén jìn shì xì jù	沉浸式戲劇
 chén jìng gū xìn sú	陳靖姑信俗
 chén jiǒng míng shì biàn	陳炯明事變
-chén jiǒng míng shì jiàn	陳炯明事件
 chén jiù de guān niàn	陳舊的觀念
 chén jiù xìng jié hé	陳舊性結核
 chén kě xīn jiān zhì	陳可辛監製
@@ -7698,7 +7688,6 @@ chén kūn hé zhōu xùn	陳坤和周迅
 chén lián bó gōng guǎn	陳廉伯公館
 chén liàn de lǎo rén	晨練的老人
 chén liàn de rén men	晨練的人們
-chén liáng yǔ shì jiàn	陳良宇事件
 chén liú wáng liú xié	陳留王劉協
 chén mèn de kōng qì	沉悶的空氣
 chén mèng jí chuán qí	陳夢吉傳奇
@@ -7819,7 +7808,6 @@ chén yě shì jiàn zhù	辰野式建築
 chén yì zài shàng hǎi	陳毅在上海
 chén yǐng me me dā	晨穎麼麼噠
 chén yīng xióng diàn yǐng	陳英雄電影
-chén yǒng zhōu shì jiàn	陳永洲事件
 chén yuán guāng zǔ cí	陳元光祖祠
 chén yuè yuè niǎo yǔ	陳月月鳥宇
 chén yún jì niàn guǎn	陳雲紀念館
@@ -8230,7 +8218,6 @@ chì bǎng de mì mì	翅膀的祕密
 chì bǎng fēi qǐ lái	翅膀非起來
 chī bǎo hē zú hòu	吃飽喝足後
 chī bǎo le chēng de	吃飽了撐的
-chī bǎo le chēng de	吃飽了撐得
 chí bǎo liú tài dù	持保留態度
 chī bāo zi shì jiàn	吃包子事件
 chì bì zhī zhàn hòu	赤壁之戰後
@@ -10701,6 +10688,7 @@ dà kē lè wéi dǎo	大科勒韋島
 dà kē mó luó dǎo	大科摩羅島
 dà kè pèi ěr dǎo	大克佩爾島
 dà kǒu dà kǒu de	大口大口地
+dà kǒu dà kǒu jué	大口大口嚼
 dà kǒu jìng bù qiāng	大口徑步槍
 dà kǒu jìng jī qiāng	大口徑機槍
 dà kū hé dà xiào	大哭和大笑
@@ -11246,6 +11234,7 @@ dài shù zhěng shù huán	代數整數環
 dài shù zǔ hé xué	代數組合學
 dài tè mò ěr dé	代特莫爾德
 dài tì kǎo shì zuì	代替考試罪
+dài tiān zhǔ wèi zhě	代天主位者
 dài tōng lǜ bō qì	帶通濾波器
 dài tuō nà bǐ qí	代托納比奇
 dài wáng chéng yí zhǐ	代王城遺址
@@ -11369,14 +11358,12 @@ dàn dàn de gǎn shāng	淡淡的感傷
 dàn dàn de huā xiāng	淡淡的花香
 dàn dàn de kàn zhe	淡淡地看着
 dàn dàn de qīng xiāng	淡淡的清香
-dàn dàn de shuō dào	淡淡的說道
 dàn dàn de shuō dào	淡淡地說道
 dàn dàn de xiāng qì	淡淡的香氣
 dàn dàn de xiào yì	淡淡的笑意
 dàn dàn de xīn xiāng	淡淡的馨香
 dàn dàn de yōu xiāng	淡淡的幽香
 dàn dàn de yōu yǎ	淡淡的優雅
-dàn dàn de yōu yǎ	淡淡地優雅
 dàn dàn liǎ shēng huā	淡淡倆生花
 dàn dàn mǒ chá xiāng	淡淡抹茶香
 dān dāng de jīng shén	擔當的精神
@@ -11990,7 +11977,7 @@ dào jǐng chá sù shè	道警察宿舍
 dào jiǔ shí nián dài	到九十年代
 dào kàng rì zhàn zhēng	到抗日戰爭
 dǎo kāo ān yī zǐ	島尻安伊子
-dào kě kě dá lā	到可克達拉
+dào kě kè dá lā	到可克達拉
 dào kè lā mǎ yī	到克拉瑪依
 dào kě yǐ kǎo lǜ	到可以考慮
 dào ké yuè dú qì	稻殼閱讀器
@@ -12624,7 +12611,6 @@ děng yǒu jī huì le	等有機會了
 děng yǒu shí jiān de	等有時間的
 děng yú de gū lū	等魚的咕嚕
 děng yú huò dà yú	等於或大於
-dèng yù jiāo shì jiàn	鄧玉嬌事件
 dēng yù táng ē jiāo	登玉堂阿膠
 dèng zhe dà yǎn jing	瞪着大眼睛
 dēng zhe zì xíng chē	蹬着自行車
@@ -13328,7 +13314,6 @@ dì xīn jīng wěi dù	地心經緯度
 dì xīn lì xiǎn jì	地心歷險記
 dì xīn qiǎng xiǎn jì	地心搶險記
 dì xīn tàn xiǎn jì	地心探險記
-dí xīn xīn shì jiàn	翟欣欣事件
 dì xīn zuò biāo shí	地心坐標時
 dì xīn zuò biāo xì	地心坐標系
 dì xíng hé dì mào	地形和地貌
@@ -14243,7 +14228,6 @@ dǐng jiān de rén cái	頂尖的人才
 dǐng jiān de shè jì	頂尖的設計
 dīng jiān dì pù bù	丁堅地瀑布
 dǐng jiǎo tàn cè qì	頂角探測器
-dīng jǐn hào shì jiàn	丁錦昊事件
 dìng jīn hé dìng jīn	定金和訂金
 dìng jìng ān lǜ dé	定靜安慮得
 dìng jūn shān zhī zhàn	定軍山之戰
@@ -14413,7 +14397,6 @@ dòng dàng de yì nián	動盪的一年
 dōng de tóng wèi sù	氡的同位素
 dòng de zhí duō suo	凍得直哆嗦
 dǒng de zì rán dǒng	懂的自然懂
-dǒng de zì rán dǒng	懂得自然懂
 dōng dì sān huáng tāng	冬地三黃湯
 dòng diàn xué xiào yìng	動電學效應
 dòng dǐng wū lóng chá	凍頂烏龍茶
@@ -15656,7 +15639,6 @@ duō dà diǎn shì a	多大點事啊
 duō dā shù xué wǎng	哆嗒數學網
 duō dāo shí zhōng xué	掇刀石中學
 duō dǎo shuì mián tú	多導睡眠圖
-duō de bù dé liǎo	多的不得了
 duō de bù dé liǎo	多得不得了
 duǒ de liǎo yì shí	躲得了一時
 duó dé sān guàn wáng	奪得三冠王
@@ -16841,8 +16823,8 @@ fā shè jí diàn liú	發射極電流
 fā shè jiē shōu jī	發射接收機
 fā shè zhě yī hào	發射者一號
 fā shēng de jī lǜ	發生的幾率
-fā shēng de shì jiàn	發生的事件
 fā shēng de shí jiān	發生的時間
+fā shēng de shì jiàn	發生的事件
 fā shēng guān xì hòu	發生關係後
 fā shēng guò de shì	發生過的事
 fā shēng guò shì de	發生過似的
@@ -16913,7 +16895,6 @@ fǎ yuàn de zhí xíng	法院的執行
 fǎ yuàn shěn lǐ hòu	法院審理後
 fǎ yuàn zài shěn lǐ	法院在審理
 fā zhǎn dào jí zhì	發展到極致
-fā zhǎn de gèng hǎo	發展的更好
 fā zhǎn de gèng hǎo	發展得更好
 fā zhǎn de hěn kuài	發展得很快
 fā zhǎn de jī yù	發展的機遇
@@ -16972,7 +16953,6 @@ fǎn bǎo xiǎn qī zhà	反保險欺詐
 fǎn bèi cōng míng wù	反被聰明誤
 fǎn bèi dòng yǔ tài	反被動語態
 fǎn biàn shè hán zi	反變射函子
-fàn bīng bīng shì jiàn	范冰冰事件
 fān bú guò shēn lái	翻不過身來
 fān bù liǎo shēn de	翻不了身的
 fān bù liǎo shēn le	翻不了身了
@@ -17223,7 +17203,6 @@ fàn pà èr shì fǎ	範帕二氏法
 fān pāi diàn shì jù	翻拍電視劇
 fǎn pái mù gǔ wǔ	反排木鼓舞
 fān pán de xī wàng	翻盤的希望
-fàn pǎo pǎo shì jiàn	范跑跑事件
 fǎn píng fāng dìng lǜ	反平方定律
 fǎn píng xíng zhé dié	反平行摺疊
 fǎn qì cái bù qiāng	反器材步槍
@@ -20549,7 +20528,6 @@ gǎn dào xiàn chǎng shí	趕到現場時
 gàn de bú cuò a	幹得不錯啊
 gàn dé bú cuò ma	幹得不錯嗎
 gàn dé bù hǎo a	幹得不好啊
-gān dé huái shì jiàn	甘德懷事件
 gàn de nà xiē shì	幹的那些事
 gàn de zěn me yàng	幹得怎麼樣
 gàn de zhēn bàng a	幹得真棒啊
@@ -21543,7 +21521,6 @@ gào yí gè duàn luò	告一個段落
 gāo yī yī bān de	高一一班的
 gāo yìng dá gè tǐ	高應答個體
 gǎo yìng měi guó lǎo	搞硬美國佬
-gāo yīng yīng shì jiàn	高鶯鶯事件
 gāo yǔ jìng wén huà	高語境文化
 gāo yú zhuāng huī yán	高於莊灰岩
 gāo yuǎn de mù biāo	高遠的目標
@@ -23787,7 +23764,6 @@ guài dào gū tǐng huā	怪盜孤挺花
 guài dào qiān miàn rén	怪盜千面人
 guài dào shèng shào nǚ	怪盜聖少女
 guāi guāi bō bō chē	乖乖砵砵車
-guāi guāi de tīng huà	乖乖的聽話
 guāi guāi de tīng huà	乖乖地聽話
 guài guài shǒu hù shén	怪怪守護神
 guài guài shuǐ zú guǎn	怪怪水族館
@@ -24991,7 +24967,6 @@ guò lǜ wǎng qīng xǐ	過濾網清洗
 guō mài èr shì fǎ	郭麥二氏法
 guò méi guò lái a	過沒過來啊
 guò méi guò lái ya	過沒過來呀
-guō měi měi shì jiàn	郭美美事件
 guó mián shí qī chǎng	國棉十七廠
 guó mín bǎo jiàn shǔ	國民保健署
 guó mín dǎng běi fá	國民黨北伐
@@ -25069,8 +25044,8 @@ guó qìng jié kuài lè	國慶節快樂
 guó qìng qī tiān lè	國慶七天樂
 guó qíng yán jiū huì	國情研究會
 guò qù de huí yì	過去的回憶
-guò qù de shì jiàn	過去的事件
 guò qù de shí jiān	過去的時間
+guò qù de shì jiàn	過去的事件
 guò qù de sì nián	過去的四年
 guò qù hé jiāng lái	過去和將來
 guò qù hé wèi lái	過去和未來
@@ -25879,11 +25854,9 @@ hào hàn de yǔ zhòu	浩瀚的宇宙
 hǎo hàn zhí dàng nián	好漢值當年
 hào hào dàng dàng de	浩浩蕩蕩的
 hǎo hǎo de bǎ wò	好好的把握
-hǎo hǎo de huó zhe	好好的活着
 hǎo hǎo de huó zhe	好好地活着
 hǎo hǎo de shēng huó	好好的生活
 hǎo hǎo de shēng huó	好好地生活
-hǎo hǎo de zhēn xī	好好的珍惜
 hǎo hǎo de zhēn xī	好好地珍惜
 hǎo hǎo duì dài tā	好好對待她
 hǎo hǎo xiǎng shòu nǐ	好好享受你
@@ -27270,7 +27243,6 @@ hóng qiáo shāng wù qū	虹橋商務區
 hóng qīng méi dú sù	紅青黴毒素
 hóng qīng tíng xié yè	紅蜻蜓鞋業
 hóng quán yǔ yǒng chūn	洪拳與詠春
-hóng rèn huī shì jiàn	洪任輝事件
 hóng rén wàn shòu gōng	宏仁萬壽宮
 hóng rén zhāng zhì chāo	紅人張智超
 hóng rùn de zuǐ chún	紅潤的嘴唇
@@ -27329,7 +27301,6 @@ hóng shuǐ tuì qù hòu	洪水退去後
 hóng shuǐ zhuāng yè yán	洪水莊頁岩
 hóng shùn qǔ yì shè	洪順曲藝社
 hóng sì fāng miàn jūn	紅四方面軍
-hóng sù zhū shì jiàn	洪素珠事件
 hóng tǎ dà jiǔ diàn	紅塔大酒店
 hóng táng jiāng zǎo tāng	紅糖薑棗湯
 hóng táng zhōng lù zhàn	洪塘中路站
@@ -27412,7 +27383,6 @@ hóng zé hú dà dī	洪澤湖大堤
 hōng zhà dōng jīng jì	轟炸東京記
 hōng zhà jī lián duì	轟炸機聯隊
 hóng zhǒng de yǎn jing	紅腫的眼睛
-hóng zhòng qiū shì jiàn	洪仲丘事件
 hóng zhōu yáo yí zhǐ	洪州窯遺址
 hóng zhù jiǎo yè yán	紅柱角頁岩
 hǒng zì jǐ kāi xīn	哄自己開心
@@ -28957,7 +28927,6 @@ huáng guān de mì mì	皇冠的祕密
 huáng guān wēi ěr fǎ	皇冠威爾法
 huáng guāng yù chū yù	黃光裕出獄
 huáng hǎi bō fù chū	黃海波復出
-huáng hǎi bō shì jiàn	黃海波事件
 huáng hán hóu tiě lù	黃韓侯鐵路
 huáng hé běi dà jiē	黃河北大街
 huáng hé de yuán tóu	黃河的源頭
@@ -32514,7 +32483,6 @@ jiān jiā yè yǒu shuāng	蒹葭夜有霜
 jiǎn jiǎn dān dān de	簡簡單單的
 jiàn jiàn de biǎo qíng	賤賤的表情
 jiān jiān de ěr duo	尖尖的耳朵
-jiàn jiàn de fā xiàn	漸漸的發現
 jiàn jiàn de fā xiàn	漸漸地發現
 jiàn jiàn de gǎn jué	賤賤的感覺
 jiàn jiàn de míng bai	漸漸的明白
@@ -32681,7 +32649,6 @@ jiàn qí guài de shì	件奇怪的事
 jiān qī jiǎ jiāo tì	間期假交替
 jiān qí jiàn tài láng	兼崎健太郎
 jiàn qián hé běn yīn	建前和本音
-jiān qiáng de huó zhe	堅強的活着
 jiān qiáng de huó zhe	堅強地活着
 jiān qiáng de xìn niàn	堅強的信念
 jiān qiáng de yě huā	堅強的野花
@@ -33336,7 +33303,6 @@ jiào huáng zǐ wǔ xiàn	教皇子午線
 jiào huì de zhèng tǒng	教會的正統
 jiào huì gēn jī gē	教會根基歌
 jiāo huì hé duì jiē	交會和對接
-jiāo jí de děng dài	焦急的等待
 jiāo jí de děng dài	焦急地等待
 jiāo jí de mǔ qīn	焦急的母親
 jiāo jì de néng lì	交際的能力
@@ -34385,14 +34351,12 @@ jǐn jǐn bào zhe wǒ	緊緊抱着我
 jǐn jǐn bào zhù nǐ	緊緊抱住你
 jǐn jǐn bào zhù nǐ	緊緊抱著你
 jǐn jǐn bào zhù tā	緊緊抱住她
-jǐn jǐn de bào zhe	緊緊的抱着
 jǐn jǐn de bào zhe	緊緊地抱着
 jǐn jǐn de bào zhù	緊緊的抱住
 jǐn jǐn de dīng zhe	緊緊的盯着
 jǐn jǐn de wò zhù	緊緊的握住
 jǐn jǐn de yōng bào	緊緊的擁抱
 jǐn jǐn de yōng bào	緊緊地擁抱
-jǐn jǐn de zhuā zhù	緊緊的抓住
 jǐn jǐn de zhuā zhù	緊緊地抓住
 jǐn jǐn tiē zhe wǒ	緊緊貼着我
 jǐn jǐn zhuā zhù nǐ	緊緊抓住你
@@ -35207,25 +35171,19 @@ jīng jìn rén wáng de	精盡人亡的
 jīng jīn táng diàn wǎng	京津唐電網
 jīng jīn táng gāo sù	京津塘高速
 jīng jīn xīn chéng zhàn	京津新城站
-jìng jìng de děng dài	靜靜的等待
 jìng jìng de děng dài	靜靜地等待
 jìng jìng de dùn hé	靜靜的頓河
 jìng jìng de kàn nǐ	靜靜的看你
-jìng jìng de líng tīng	靜靜的聆聽
 jìng jìng de líng tīng	靜靜地聆聽
 jìng jìng de péi bàn	靜靜的陪伴
 jìng jìng de shǒu hòu	靜靜的守候
-jìng jìng de sī kǎo	靜靜的思考
 jìng jìng de sī kǎo	靜靜地思考
-jìng jìng de tīng zhe	靜靜的聽着
 jìng jìng de tīng zhe	靜靜地聽着
 jìng jìng de wàng zhe	靜靜的望着
-jìng jìng de xīn shǎng	靜靜的欣賞
 jìng jìng de xīn shǎng	靜靜地欣賞
 jìng jìng de xiū liàn	靜靜的修煉
 jìng jìng de yè lǐ	靜靜的夜裡
 jìng jìng de yè wǎn	靜靜的夜晚
-jìng jìng de zhàn zài	靜靜的站在
 jìng jìng de zhàn zài	靜靜地站在
 jìng jìng de zuò zhe	靜靜地坐着
 jīng jǐng fāng diào chá	經警方調查
@@ -37483,7 +37441,6 @@ kàng dài xiè yào wù	抗代謝藥物
 kàng dān liàn cè dìng	抗單鏈測定
 kāng dé lā jié fū	康德拉捷夫
 kàng de tóng wèi sù	鈧的同位素
-kāng dé xīn shì jiàn	康得新事件
 kàng dēng lù zuò zhàn	抗登陸作戰
 kàng diàn cí gān rǎo	抗電磁干擾
 kāng dīng fǎ lā sī	康丁法拉斯
@@ -39082,13 +39039,12 @@ lā dōu lā bú zhù	拉都拉不住
 lā fá ěr pēn guǎn	拉伐耳噴管
 lā fú sēn fāng fǎ	拉弗森方法
 lā gé lǎng rì diǎn	拉格朗日點
-lā gé láng rì diǎn	拉格郎日點
 lā gé lǎng rì liàng	拉格朗日量
 lā gē sī shān mài	拉戈斯山脈
 lā hè bú biàn liàng	拉赫不變量
 lā hè tǎ zhōng xīn	拉赫塔中心
-lā jī chǔ lǐ chǎng	垃圾處理場
 lā jī chǔ lǐ chǎng	垃圾處理廠
+lā jī chǔ lǐ chǎng	垃圾處理場
 lā jī de chǎn shēng	垃圾的產生
 lā jī de chǔ lǐ	垃圾的處理
 lā jī de fēn lèi	垃圾的分類
@@ -39297,7 +39253,6 @@ lán jiàn tū jī duì	藍劍突擊隊
 lán jié rén mó dǎo	攔截人魔島
 lán jīng de tiān dí	藍鯨的天敵
 lán jīng shí piàn yán	藍晶石片岩
-lán kě er shì jiàn	藍可兒事件
 lán lán de tiān kōng	藍藍的天空
 lǎn lǎn guò yì shēng	懶懶過一生
 lǎn lǎn sǎn sǎn de	懶懶散散地
@@ -39513,7 +39468,6 @@ lǎo jiào shòu xié huì	老教授協會
 lǎo lái zhè yí tào	老來這一套
 láo láo dāo dāo de	嘮嘮叨叨的
 lǎo lao de wài sūn	姥姥的外孫
-láo láo de zhuā zhù	牢牢的抓住
 láo láo de zhuā zhù	牢牢地抓住
 lǎo lao hé lǎo ye	姥姥和姥爺
 láo lèi de yì tiān	勞累的一天
@@ -39738,7 +39692,6 @@ léi gǔ shí dà jiē	擂鼓石大街
 léi gǔ wèng jīn chuí	擂鼓甕金錘
 lèi héng tū guān jié	肋橫突關節
 lèi héng tū rèn dài	肋橫突韌帶
-lèi hú luó bo sù	類胡羅卜素
 lèi hú luó bo sù	類胡蘿蔔素
 lèi hún xì yóu xì	類魂繫遊戲
 lěi jī fā bìng lǜ	累積發病率
@@ -40181,7 +40134,6 @@ lí màn kě jī xìng	黎曼可積性
 lí màn luó lǐ qún	黎曼羅裏羣
 lí màn shàng jī fēn	黎曼上積分
 lǐ mào de huí yìng	禮貌的回應
-lǐ mào de jù jué	禮貌的拒絕
 lǐ mào de jù jué	禮貌地拒絕
 lǐ mào de wēi xiào	禮貌的微笑
 lí māo huàn tài zǐ	狸貓換太子
@@ -41809,13 +41761,11 @@ liù gè wèi shén me	六個為什麼
 liù gè xiǎo shí hòu	六個小時後
 liù gè xiǎo shí nèi	六個小時內
 liù gǒu bù shuān shéng	遛狗不拴繩
-liù gǒu bù shuān shéng	遛狗不栓繩
 liú guān xióng gù jū	劉冠雄故居
 liù guó dà fēng xiāng	六國大封相
 liú guò de hàn shuǐ	流過的汗水
 liú guò de yǎn lèi	流過的眼淚
 liù guó jǐn biāo sài	六國錦標賽
-liú guó liáng shì jiàn	劉國樑事件
 liú hā lá bù huā	劉哈剌不花
 liú hǎi xì jīn chán	劉海戲金蟾
 liù hé bā fǎ quán	六合八法拳
@@ -41918,7 +41868,6 @@ liù qiān liù bǎi yuán	六千六百元
 liù qiān sān bǎi wàn	六千三百萬
 liù qiān sì bǎi wàn	六千四百萬
 liù qiān wǔ bǎi wàn	六千五百萬
-liú qiáng dōng shì jiàn	劉強東事件
 liù qīn bú rèn de	六親不認的
 liù qīng gōng yè qū	六輕工業區
 liú qiú cè fēng shǐ	琉球冊封使
@@ -42044,7 +41993,6 @@ liú xué shēng guī guó	留學生歸國
 liú xuè xīng qī rì	流血星期日
 liú xuè yòu liú lèi	流血又流淚
 liú xué zhōng xīn de	留學中心的
-liú xué zhōu shì jiàn	劉學州事件
 liù yà jiǎ sì àn	六亞甲四胺
 liǔ yā lú yàn tú	柳鴉蘆雁圖
 liǔ yán de qiú mí	柳岩的球迷
@@ -42715,7 +42663,6 @@ luó zhōu gǔ zhèn zhàn	螺洲古鎮站
 luó zhōu tiān hòu gōng	螺洲天后宮
 luó zhōu wēn quán zhàn	螺洲溫泉站
 luǒ zǐ zhí wù mén	裸子植物門
-lǚ ān nī shì jiàn	呂安妮事件
 lǜ àn tiān wén tái	綠岸天文臺
 lǜ àn wàng yuǎn jìng	綠岸望遠鏡
 lǜ bǎo shí xiàng liàn	綠寶石項鍊
@@ -47689,18 +47636,12 @@ nù jiāng dì yī wān	怒江第一灣
 nǔ lì chóng míng dé	努力崇明德
 nú lì dào dé shuō	奴隸道德說
 nǔ lì de chéng dù	努力的程度
-nǔ lì de gōng zuò	努力的工作
 nǔ lì de gōng zuò	努力地工作
 nǔ lì de huí bào	努力的回報
-nǔ lì de huó zhe	努力的活着
 nǔ lì de huó zhe	努力地活着
-nǔ lì de qù zuò	努力的去做
 nǔ lì de qù zuò	努力地去做
-nǔ lì de shēng huó	努力的生活
 nǔ lì de shēng huó	努力地生活
-nǔ lì de xué xí	努力的學習
 nǔ lì de xué xí	努力地學習
-nǔ lì de zhuàn qián	努力的賺錢
 nǔ lì de zhuàn qián	努力地賺錢
 nǔ lì hé fèn dòu	努力和奮鬥
 nǔ lì hé fù chū	努力和付出
@@ -50722,7 +50663,6 @@ qiān yǐn bēng dài fǎ	牽引繃帶法
 qián yìn jiā wén huà	前印加文化
 qián yuán yán shēn miàn	前緣延伸面
 qián yuè lái yuè duō	錢越來越多
-qián yún huì shì jiàn	錢雲會事件
 qián yùn sī jiē duàn	前運思階段
 qián yùn suàn jiē duàn	前運算階段
 qián zài lù shàng pǎo	錢在路上跑
@@ -51045,7 +50985,6 @@ qiǎo miào de shè jì	巧妙地設計
 qiǎo miào de shǒu fǎ	巧妙的手法
 qiáo pái jù lè bù	橋牌俱樂部
 qiāo qǐ èr láng tuǐ	蹺起二郎腿
-qiāo qiāo de lí kāi	悄悄的離開
 qiāo qiāo de lí kāi	悄悄地離開
 qiāo qiāo gào sù tā	悄悄告訴他
 qiāo qiāo gào sù tā	悄悄告訴她
@@ -51188,6 +51127,7 @@ qín liáng yù líng yuán	秦良玉陵園
 qín líng bīng mǎ yǒng	秦陵兵馬俑
 qín líng bó wù yuàn	秦陵博物院
 qín lǐng huái hé xiàn	秦嶺淮河線
+qín lǒng fù hàn jūn	秦隴復漢軍
 qín lǜ shí bā zhǒng	秦律十八種
 qín měi dá guó jì	勤美達國際
 qín měi lǜ yuán dào	勤美綠園道
@@ -51379,7 +51319,6 @@ qīng chǐ yín sè yīn	清齒齦塞音
 qīng chú ái xì bāo	清除癌細胞
 qīng chú cān kǎo xiàn	清除參考線
 qīng chu de biǎo míng	清楚地表明
-qīng chu de jì de	清楚的記得
 qīng chu de jì de	清楚地記得
 qīng chǔ de kàn dào	清楚的看到
 qīng chu de kàn dào	清楚地看到
@@ -51835,7 +51774,6 @@ qǐng rèn zhēn yuè dú	請認真閱讀
 qīng rén zōng yóng yǎn	清仁宗顒琰
 qīng rì lián tiě lù	青日連鐵路
 qīng róng chéng jì xiàn	青榮城際線
-qīng róu de fǔ mō	輕柔的撫摸
 qīng róu de fǔ mō	輕柔地撫摸
 qǐng rú shí tián xiě	請如實填寫
 qīng ruǎn è cā yīn	清軟齶擦音
@@ -51985,9 +51923,7 @@ qīng wǔ qì shè jī	輕武器射擊
 qīng xǐ bú chè dǐ	清洗不徹底
 qīng xǐ bù gān jìng	清洗不乾淨
 qīng xī de biān jiè	清晰的邊界
-qīng xī de jì de	清晰的記得
 qīng xī de jì de	清晰地記得
-qīng xī de kàn dào	清晰的看到
 qīng xī de kàn dào	清晰地看到
 qīng xī de kàn jiàn	清晰地看見
 qīng xǐ fā dòng jī	清洗發動機
@@ -52282,7 +52218,6 @@ qiú pào fēi xì yán	球泡霏細岩
 qiú pú sà bǎo yòu	求菩薩保佑
 qiū qí wěi yuán huì	丘奇委員會
 qiú qiē xiàn fāng chéng	求切線方程
-qiū qìng fēng shì jiàn	邱慶楓事件
 qiū rì de sī yǔ	秋日的私語
 qiū rì de wǔ hòu	秋日的午後
 qiū rì de yáng guāng	秋日的陽光
@@ -52309,7 +52244,6 @@ qiū tiān de lú wěi	秋天的蘆葦
 qiū tiān de shì zi	秋天的柿子
 qiū tiān hé dōng tiān	秋天和冬天
 qiū tiān yǒu diǎn liáng	秋天有點涼
-qiū xiǎo mèi shì jiàn	邱小妹事件
 qiú xié hán shù biǎo	球諧函數表
 qiú xíng bǔ cháng qì	球形補償器
 qiú xíng jī qì rén	球形機器人
@@ -53937,23 +53871,16 @@ rěn zhě lóng jiàn zhuàn	忍者龍劍傳
 rěn zhě luàn tài láng	忍者亂太郎
 rěn zhě xiǎo líng jīng	忍者小靈精
 rèn zhēn de ài wǒ	認真地愛我
-rèn zhēn de duì dài	認真的對待
 rèn zhēn de duì dài	認真地對待
-rèn zhēn de gōng zuò	認真的工作
 rèn zhēn de gōng zuò	認真地工作
 rèn zhēn de guān chá	認真地觀察
 rèn zhēn de kǎo lǜ	認真地考慮
 rèn zhēn de lǎo qù	認真地老去
-rèn zhēn de lǎo qù	認真的老去
 rèn zhēn de nián qīng	認真地年輕
-rèn zhēn de qīng tīng	認真的傾聽
 rèn zhēn de qīng tīng	認真地傾聽
-rèn zhēn de shēng huó	認真的生活
 rèn zhēn de shēng huó	認真地生活
-rèn zhēn de sī kǎo	認真的思考
 rèn zhēn de sī kǎo	認真地思考
 rén zhēn de tài duō	人真的太多
-rèn zhēn de wán chéng	認真的完成
 rèn zhēn de wán chéng	認真地完成
 rèn zhēn de xué xí	認真地學習
 rèn zhēn xué xí bǎ	認真學習把
@@ -53970,7 +53897,6 @@ rén zhì gǎn lǎn qiú	人制橄欖球
 rèn zhī hé qíng gǎn	認知和情感
 rèn zhī lìn sè zhě	認知吝嗇者
 rèn zhí qián gōng shì	任職前公示
-rèn zhì qiáng shì jiàn	任志強事件
 rén zhī suǒ yǐ néng	人之所以能
 rèn zhí xíng dǒng shì	任執行董事
 rén zhǐ yào yōng yǒu	人只要擁有
@@ -58368,15 +58294,12 @@ shì fǔ dà lù zhàn	市府大路站
 shì fù er gōng wěi	市婦兒工委
 shì fǔ guǎng chǎng dōng	市府廣場東
 shì fǔ guǎng chǎng zhàn	市府廣場站
-shī fu guō dé gāng	師傅郭德綱
-shī fu guō dé gāng	師父郭德綱
 shì fú hái shì huò	是福還是禍
 shī fu hé tú dì	師傅和徒弟
-shī fu lǐng jìn mén	師傅領進門
 shī fu lǐng jìn mén	師父領進門
 shí fù mǎ dà jiē	石駙馬大街
 shī fu míng bai le	師父明白了
-shì gā mù ní fó	釋伽牟尼佛
+shì gā móu ní fó	釋伽牟尼佛
 shì gài shì yīng xióng	是蓋世英雄
 shí gàn de jīng shén	實幹的精神
 shì gàn shén me de	是幹什麼的
@@ -58594,8 +58517,8 @@ shí jiā gōng sù rén	十佳公訴人
 shí jiā hé yí zhǐ	石家河遺址
 shì jià jìng zhí bǐ	市價淨值比
 shì jiā mó ní fó	釋迦摩尼佛
-shì jiā mù ní fó	釋迦牟尼佛
-shì jiā mù ní xiàng	釋迦牟尼像
+shì jiā móu ní fó	釋迦牟尼佛
+shì jiā móu ní xiàng	釋迦牟尼像
 shì jiā sān sì láng	世嘉三四郎
 shí jiā shè yǐng shī	十佳攝影師
 shì jiā tíng jiào yù	式家庭教育
@@ -62866,7 +62789,6 @@ sōng gāng měi shù guǎn	松岡美術館
 sòng gāo zōng nán dù	宋高宗南渡
 sòng gē xiàn gěi dǎng	頌歌獻給黨
 sòng gěi bà mā de	送給爸媽的
-sòng gēng yí shì jiàn	宋庚一事件
 sòng gōng dì zhào xiǎn	宋恭帝趙顯
 sōng gǔ měi dài zǐ	松谷美代子
 sōng guǒ tǐ yǐn wō	松果體隱窩
@@ -63321,7 +63243,6 @@ sūn lì de wēi bó	孫儷的微博
 sūn lì de yǎn jì	孫儷的演技
 sūn lì hé dèng chāo	孫儷和鄧超
 sūn lì hé huáng lěi	孫莉和黃磊
-sūn lì rén shì jiàn	孫立人事件
 sūn lì yǔ dèng chāo	孫儷與鄧超
 sūn qiáo kē lā ěr	孫喬科拉爾
 sǔn rén bú lì jǐ	損人不利己
@@ -63339,8 +63260,6 @@ sǔn yì liǎng píng diǎn	損益兩平點
 sǔn yì píng héng biǎo	損益平衡表
 sǔn yì píng héng diǎn	損益平衡點
 sūn yì xiān shì shì	孫逸仙逝世
-sūn zhì gāng shì jiàn	孫志剛事件
-sūn zhōng jiè shì jiàn	孫中界事件
 sūn zhōng shān jì niàn	孫中山紀念
 sūn zhōng shān qù shì	孫中山去世
 sūn zhōng shān quán jí	孫中山全集
@@ -64274,7 +64193,6 @@ táo bǎo hé tiān māo	淘寶和天貓
 tào bǎo nuǎn nèi yī	套保暖內衣
 táo bǐ mài kuí ěr	陶比麥奎爾
 táo bīng zhuī jī lìng	逃兵追緝令
-táo chóng yuán shì jiàn	陶崇園事件
 táo chū kē huàn jì	逃出科幻紀
 táo chū kè lóng dǎo	逃出克隆島
 táo chū kǒng lóng dǎo	逃出恐龍島
@@ -65441,7 +65359,7 @@ tiě kuàng shí mào yì	鐵礦石貿易
 tiě kuàng shí pǐn wèi	鐵礦石品位
 tiě lì wǎ ěr dì	鐵力瓦爾地
 tiě lì wǎ ěr dí	鐵力瓦爾迪
-tiě liàn nǚ shì jiàn	鐵鏈女事件
+tiě liáng xià jiāng nán	鐵良下江南
 tiě lù dà tōng dào	鐵路大通道
 tiě lù hé gōng lù	鐵路和公路
 tiě lù zhōu yóu piào	鐵路周遊票
@@ -65932,8 +65850,8 @@ tōng xùn qì cái lèi	通訊器材類
 tōng yán jué luó shì	通顏覺羅氏
 tóng yàng de fà xíng	同樣的髮型
 tóng yàng de lǎo shī	同樣的老師
-tóng yàng de shí jiān	同樣的時間
 tóng yàng de shì jiàn	同樣的事件
+tóng yàng de shí jiān	同樣的時間
 tóng yàng de shí wù	同樣的食物
 tóng yàng de shì wù	同樣的事物
 tóng yàng de zhāo shì	同樣的招式
@@ -67408,8 +67326,6 @@ wàng láng shàng qīng lóu	望郎上青樓
 wàng le qù dǒng nǐ	忘了去懂你
 wàng le zhè ge shì	忘了這個事
 wáng lì fǎn sī lù	王力反思錄
-wáng lì jūn shì jiàn	王立軍事件
-wáng lì qiáng shì jiàn	王立強事件
 wáng lì yǔ zhòu jūn	王立宇宙軍
 wǎng liǎn shàng tiē jīn	往臉上貼金
 wǎng lù liáo tiān shì	網路聊天室
@@ -67432,14 +67348,12 @@ wáng má zi jiǎn dāo	王麻子剪刀
 wǎng méng quán qiú gòu	網盟全球購
 wáng mìng dà shà xīng	亡命大煞星
 wǎng mó náng qián tíng	網膜囊前庭
-wáng nà nà shì jiàn	王娜娜事件
 wáng nǚ zì míng gǔ	王女自鳴鼓
 wáng pái dòu wáng pái	王牌逗王牌
 wáng pái duì wáng pái	王牌對王牌
 wàng qí hóu zhī sè	望齊侯之色
 wáng qí shān fǎn fǔ	王岐山反腐
 wǎng qián mài yí bù	往前邁一步
-wáng qiān yuán shì jiàn	王千源事件
 wǎng qiāng kǒu shàng zhuàng	往槍口上撞
 wàng qíng kuò shào yé	忘情闊少爺
 wǎng qiú dà shī bēi	網球大師盃
@@ -68089,7 +68003,7 @@ wèi shēng jiān shèn shuǐ	衛生間滲水
 wèi shēng jiān yì wèi	衛生間異味
 wèi shēng jiān yù shì	衛生間浴室
 wéi shèng lì ér zhàn	為勝利而戰
-wéi shēng mín lì mìng	為生民立命
+wèi shēng mín lì mìng	為生民立命
 wéi shēng qī sǐ wáng	圍生期死亡
 wèi shēng shǔ shǔ zhǎng	衛生署署長
 wéi shēng sù dī jì	維生素滴劑
@@ -68159,7 +68073,7 @@ wèi tí chū yì yì	未提出異議
 wéi tì xī fǎn yìng	維悌希反應
 wèi tì xī fǎn yìng	魏悌息反應
 wēi tǐ xì jié gòu	微體系結構
-wéi tiān dì lì xīn	爲天地立心
+wèi tiān dì lì xīn	爲天地立心
 wéi tián měi jiàng táng	維甜美降糖
 wěi tián róng yī láng	尾田榮一郎
 wèi tiān xià wú shuāng	謂天下無雙
@@ -68352,7 +68266,6 @@ wěi zào de huò bì	偽造的貨幣
 wěi zào de wén jiàn	偽造的文件
 wěi zào huò bì zuì	偽造貨幣罪
 wēi zé wú wèi qì	微則無胃氣
-wèi zé xī shì jiàn	魏則西事件
 wèi zé xī zhī sǐ	魏則西之死
 wéi zhàn dòu ér shēng	為戰鬥而生
 wèi zhàn wèi bìng biàn	胃佔位病變
@@ -69529,10 +69442,10 @@ wú chí xù fēng xiàng	無持續風向
 wú chì zhū máo cài	無翅豬毛菜
 wú chóu hé de làng	無愁河的浪
 wǔ chū ài huǒ huā	舞出愛火花
-wú chǔ ān fàng de	無處安放的
-wú chǔ bù fēi huā	無處不飛花
-wú chǔ chóu mì de	無處稠密的
-wú chǔ chóu mì jí	無處稠密集
+wú chù ān fàng de	無處安放的
+wú chù bù fēi huā	無處不飛花
+wú chù chóu mì de	無處稠密的
+wú chù chóu mì jí	無處稠密集
 wú chū qí yòu zhě	無出其右者
 wú chū tóu zhī rì	無出頭之日
 wǔ chū wǒ rén shēng	舞出我人生
@@ -70408,7 +70321,6 @@ wǔ wèi zǐ yǐ sù	五味子乙素
 wǔ wèi zǐ zhǐ jiǎ	五味子酯甲
 wú wén huà bèi jǐng	無文化背景
 wú wēn nà mào lún	吳溫納貌倫
-wú wén xiàn shì jiàn	吳文獻事件
 wú wǒ de jìng jiè	無我的境界
 wú wō xiàng liàng chǎng	無渦向量場
 wú wǒ yuán fēi nǐ	無我原非你
@@ -70593,7 +70505,6 @@ wǔ yí dà hóng páo	武夷大紅袍
 wǔ yī dà sǎo dàng	五一大掃蕩
 wǔ yī dà yóu xíng	五一大遊行
 wú yī dìng zhī guī	無一定之規
-wú yì fán shì jiàn	吳亦凡事件
 wǔ yī gōng yuán zhàn	五一公園站
 wǔ yī guǎng chǎng zhàn	五一廣場站
 wǔ yī huáng jīn zhōu	五一黃金週
@@ -74868,7 +74779,6 @@ xīn xiān jìng chuán shuō	新仙境傳說
 xīn xiàn shí zhǔ yì	新現實主義
 xīn xiān wéi sān jiǎo	心纖維三角
 xīn xiǎng shì chéng de	心想事成的
-xìn xiǎo dāi shì jiàn	信小呆事件
 xīn xiè ěr wǔ dé	欣謝爾伍德
 xīn xiě shí zhǔ yì	新寫實主義
 xīn xiě zhì píng tú	心寫治平圖
@@ -75803,7 +75713,6 @@ xiū zhí tā de lù	修直他的路
 xiù zi de shè jì	袖子的設計
 xǔ ā kēng tuō sī	許阿鏗託斯
 xú bēi hóng huà yuàn	徐悲鴻畫院
-xú bù gāo shì jiàn	徐步高事件
 xū chā mǎn tóu guī	須插滿頭歸
 xū chā wěn fáng fú	須叉吻魴鮄
 xù chǎn shì yàn suǒ	畜產試驗所
@@ -75872,7 +75781,6 @@ xú jìng yè zhī luàn	徐敬業之亂
 xū kāi fā piào zuì	虛開發票罪
 xù kē jìng jì chǎng	旭科競技場
 xǔ kě qǐng qiú fèi	許可請求費
-xǔ kě xīn shì jiàn	許可馨事件
 xǔ kě zhèng hé fā	許可證核發
 xū kōng de zhàn chǎng	虛空的戰場
 xū kōng dùn dì shòu	虛空遁地獸
@@ -77752,7 +77660,6 @@ yǎng lǎo děng lǐng yù	養老等領域
 yǎng lǎo jīn bìng guǐ	養老金並軌
 yǎng lǎo jīn rù shì	養老金入市
 yǎng lǎo zhù cán kǎ	養老助殘卡
-yáng lì juān shì jiàn	楊麗娟事件
 yáng lì píng lǎo shī	楊麗萍老師
 yáng lí zǐ rǎn liào	陽離子染料
 yáng lí zǐ shù zhī	陽離子樹脂
@@ -77768,7 +77675,6 @@ yáng liǔ yī yī chén	楊柳依依陳
 yáng liǔ yī yī fēng	楊柳依依風
 yáng lóng zhài kǒu àn	楊龍寨口岸
 yǎng lù jī xiè huà	養路機械化
-yáng lù kuí shì jiàn	楊祿奎事件
 yáng mǎ fā dòng jī	洋馬發動機
 yáng mǎ hé zhàn yì	羊馬河戰役
 yǎng māo de lǎo shǔ	養貓的老鼠
@@ -77855,7 +77761,6 @@ yǎng yīn jiàn wèi yǐn	養陰健胃飲
 yǎng yīn qīng fèi tāng	養陰清肺湯
 yáng yǐng de yǎn jì	楊穎的演技
 yǎng yú de xiǎo māo	養魚的小貓
-yáng yú fù shì jiàn	楊餘傅事件
 yǎng yú xiān yǎng shuǐ	養魚先養水
 yáng yù xīng miàn guǎn	楊裕興麵館
 yǎng yuán yì shèn jiǔ	養元益腎酒
@@ -81908,7 +81813,7 @@ yǒu lǐ shāi xuǎn fǎ	有理篩選法
 yǒu lǐ shuō bù qīng	有理說不清
 yǒu lǐ tóng diào qún	有理同調群
 yǒu lǐ tóng lún lùn	有理同倫論
-yǒu lì wú chǔ shǐ	有力無處使
+yǒu lì wú chù shǐ	有力無處使
 yǒu lǐ xiǎng de zhū	有理想的豬
 yóu lì yán kuàng chuáng	鈾礫岩礦床
 yǒu lì yě yǒu bì	有利也有弊
@@ -83011,6 +82916,7 @@ yú léi fā shè qì	魚雷發射器
 yú léi gōng jī jī	魚雷攻擊機
 yú léi hōng zhà jī	魚雷轟炸機
 yú léi tǐng shì jiàn	魚雷艇事件
+yú léi tǐng shì jiàn	魚雷艇事件
 yú léi xiū lǐ chǎng	魚雷修理廠
 yú léi xún yáng jiàn	魚雷巡洋艦
 yú lěng kù xiān jìng	於冷酷仙境
@@ -83123,7 +83029,6 @@ yǔ qī zǐ lián hé	與妻子連合
 yù qián qí dēng tǎ	御前崎燈塔
 yù qīn wáng duō duó	豫親王多鐸
 yú qíng dà shù jù	輿情大數據
-yú qīng fāng shì jiàn	余清芳事件
 yú qíng fēn xī shī	輿情分析師
 yù qìng gōng xíng zǒu	毓慶宮行走
 yù qīng zhāo yīng gōng	玉清昭應宮
@@ -84565,7 +84470,7 @@ zài kàn diàn shì a	在看電視啊
 zài kàn diàn shì de	在看電視的
 zài kàn nǐ yì yǎn	再看你一眼
 zài kàn wǒ yì yǎn	再看我一眼
-zài kě kě dá lā	在可克達拉
+zài kě kè dá lā	在可克達拉
 zài kè lā mǎ yī	在克拉瑪依
 zài kè shì yùn yíng	載客試運營
 zài kōng zhōng fēi wǔ	在空中飛舞
@@ -85211,7 +85116,6 @@ zhàn guó qún xióng zhuàn	戰國群雄傳
 zhàn guó sì gōng zǐ	戰國四公子
 zhàn guó sì míng jiàng	戰國四名將
 zhàn guó tiān zhèng jì	戰國天正記
-zhàn hǎi tè shì jiàn	佔海特事件
 zhàn hòu de rì běn	戰後的日本
 zhǎn hǔ tú lóng jiàn	斬虎屠龍劍
 zhàn huǒ de xǐ lǐ	戰火的洗禮
@@ -85389,7 +85293,6 @@ zhāng dà le zuǐ ba	張大了嘴巴
 zhāng dà qiān de huà	張大千的畫
 zhǎng dà yì diǎn hòu	長大一點後
 zhāng dān fēng hóng xīn	張丹峰洪欣
-zhāng dān hóng shì jiàn	張丹紅事件
 zhàng dāo ǒu mó gōng	杖刀偶磨弓
 zhāng dé dòu huáng hòu	章德竇皇后
 zhǎng de fēi cháng xiàng	長得非常像
@@ -85419,7 +85322,6 @@ zhāng gé ěr zhī luàn	張格爾之亂
 zhāng gōng shān gōng yuán	張公山公園
 zhāng gōng shān xīn cūn	張公山新村
 zhāng gōng zǔ shī xiàng	章公祖師像
-zhāng gǔ fēng shì jiàn	張鼓峰事件
 zhāng guāng yù fā jì	章光育發劑
 zhāng guī yú zhī mèng	張鮭魚之夢
 zhàng hào yǐ zhù xiāo	帳號已註銷
@@ -85537,7 +85439,6 @@ zhǎng wò hé yùn yòng	掌握和運用
 zhǎng wò le zhī shi	掌握了知識
 zhāng wǒ lei gè qù	張我勒個去
 zhāng xià shí huī yán	張夏石灰岩
-zhāng xiàn yì shì jiàn	張憲義事件
 zhāng xiàn zhōng chén yín	張獻忠沉銀
 zhāng xiàn zhōng qǐ yì	張獻忠起義
 zhāng xiàn zhōng tú shǔ	張獻忠屠蜀
@@ -85620,7 +85521,6 @@ zhào dēng yǔ dà jiē	趙登禹大街
 zhǎo diǎn shì er gàn	找點事兒幹
 zhǎo diǎn shì qíng zuò	找點事情做
 zhào diàn zǐ fú tè	兆電子伏特
-zhào dòu chún shì jiàn	趙鬥淳事件
 zhǎo dōu zhǎo bú dào	找都找不到
 zhào fāng zi zhuā yào	照方子抓藥
 zhào fēi yàn bié zhuàn	趙飛燕別傳
@@ -85757,7 +85657,6 @@ zhāo zhāo bú jiàn rì	朝朝不見日
 zhào zhǎo huān lì shā	照沼歡莉莎
 zhào zhào jìng zi ba	照照鏡子吧
 zhào zhè me fā zhǎn	照這麼發展
-zhào zhì huá shì jiàn	趙志華事件
 zhào zhōng xiáng lǎo shī	趙忠祥老師
 zhǎo zhuān yè rén shì	找專業人士
 zhǎo zhuāng shì gōng sī	找裝飾公司
@@ -87078,7 +86977,7 @@ zhī dào shén me shì	知道什麼是
 zhǐ dǎo shì mín zhǔ	指導式民主
 zhī dào shí qíng hòu	知道實情後
 zhì dào shí wǔ lù	至道十五路
-zhī dào shì xún cháng	只道是尋常
+zhǐ dào shì xún cháng	只道是尋常
 zhǐ dǎo sī xiǎng shì	指導思想是
 zhí dào tā qù shì	直到他去世
 zhǐ dǎo wěi yuán huì	指導委員會
@@ -88574,7 +88473,6 @@ zhōng tiě èr shí jú	中鐵二十局
 zhōng tiě shí èr jú	中鐵十二局
 zhōng tiě shí wǔ jú	中鐵十五局
 zhōng tiě shí yī jú	中鐵十一局
-zhōng tíng yào shì jiàn	鍾庭耀事件
 zhǒng tòng wài cā dīng	腫痛外擦酊
 zhōng tú xiāng yù fǎ	中途相遇法
 zhōng wáng lǐ xiù chéng	忠王李秀成
@@ -88764,7 +88662,6 @@ zhōng yǐng wén huà chéng	中影文化城
 zhōng yīng yín gōng sī	中英銀公司
 zhōng yòu lì xì bāo	中幼粒細胞
 zhōng yǒu yí rì huì	終有一日會
-zhōng yǔ chén shì jiàn	鍾嶼晨事件
 zhōng yú lǐ xiǎng de	忠於理想的
 zhòng yú tāi líng ér	重於胎齡兒
 zhōng yú yào lí kāi	終於要離開
@@ -88897,11 +88794,9 @@ zhōu jiā zhuāng yí zhǐ	周家莊遺址
 zhōu jiǎn chá zǒng cháng	州檢察總長
 zhòu jiān xíng chē dēng	晝間行車燈
 zhòu jǐn táng jì bēi	晝錦堂記碑
-zhōu jiǔ gēng shì jiàn	周久耕事件
 zhōu kǒu diàn yí zhǐ	周口店遺址
 zhōu kǒu diàn yuán rén	周口店猿人
 zhōu kuò dà lì huì	周擴大例會
-zhōu lǎo hǔ shì jiàn	周老虎事件
 zhōu lì diàn yǐng yuàn	洲立電影院
 zhǒu lí duàn jiǎ zhī	肘離斷假肢
 zhōu liù hé zhōu rì	週六和週日
@@ -89001,7 +88896,6 @@ zhōu zhì mí hóu táo	周至獼猴桃
 zhōu zhì róu jiù jū	周至柔舊居
 zhōu zhōng xīn yī yuàn	州中心醫院
 zhòu zhòu bā bā de	皺皺巴巴的
-zhōu zǐ yú shì jiàn	周子瑜事件
 zhōu zuì gāo fǎ yuàn	州最高法院
 zhù ā màn dà shǐ	駐阿曼大使
 zhù āi jí dà shǐ	駐埃及大使
@@ -92464,7 +92358,6 @@ a yī yā yī yā yō	啊咿呀咿呀喲
 ào tè lán kè shān mài	奧特蘭克山脈
 ào wǎ èr shì xiàn xiàng	奧瓦二氏現象
 ào yà háng kōng gōng sī	澳亞航空公司
-ào yán fèng nán shì jiàn	澳岩縫男事件
 ào yóu yún liú lǎn qì	傲遊雲瀏覽器
 bā bā jiàn duì jì huà	八八艦隊計畫
 bā bā shì zhēn chá jī	八八式偵察機
@@ -92550,7 +92443,6 @@ bā qī huì yì huì zhǐ	八七會議會址
 bā qī huì yì jiù zhǐ	八七會議舊址
 bā qí tōng zhì chū jí	八旗通志初集
 bā qí zhí nián dà chén	八旗值年大臣
-bā qiān má dài shì jiàn	八千麻袋事件
 bā qiān sòng bō rě jīng	八千頌般若經
 bā qiǎng bǐng jī zhè táng	八羥丙基蔗糖
 bà quán zhǔ yì guó jiā	霸權主義國家
@@ -92560,7 +92452,6 @@ bā shǎn gāo sù gōng lù	巴陝高速公路
 bā shàng èr shì lǜ zhù	巴尚二氏濾柱
 bā shè shān hú yà gāng	八射珊瑚亞綱
 bǎ shēng huó guò chéng shī	把生活過成詩
-bā shì ā shū shì jiàn	巴士阿叔事件
 bā shì dá lài lǎ ma	八世達賴喇嘛
 bā shì dé xiāo dú fǎ	巴士德消毒法
 bā shì dǐ yù qiú tú	巴士底獄囚徒
@@ -92629,7 +92520,6 @@ bā yuè èr shí wǔ rì	八月二十五日
 bā yuè èr shí yī rì	八月二十一日
 bā yuè shí wǔ rì yè	八月十五日夜
 bā yuè shí wǔ yè yuè	八月十五夜月
-bā yuè zōng pài shì jiàn	八月宗派事件
 bā yún fēn tún jī dì	八雲分屯基地
 bǎ zā lá wǎ ěr mì	把匝剌瓦爾密
 bǎ zhǎn qī rán běi wàng	把盞淒然北望
@@ -92692,7 +92582,6 @@ bái diàn fēng huàn zhě yīng	白癜風患者應
 bái diàn fēng yì cā jìng	白癜風一擦淨
 bái diǎn xì wěn hǎi tún	白點細吻海豚
 bǎi dòng yuán jù qīng xǐ	擺動圓鋸清洗
-bǎi dù bèi hēi shì jiàn	百度被黑事件
 bǎi dù chāo jí sōu bà	百度超級搜霸
 bǎi dù rén gōng zhì néng	百度人工智能
 bǎi dù shí dà shén shòu	百度十大神獸
@@ -92913,7 +92802,6 @@ bái yú qiáo chéng jì suǒ	白魚橋乘繼所
 bái yuè shān ē sī dá	白嶽山阿斯達
 bái yún dà dào běi zhàn	白雲大道北站
 bái yún jī chǎng běi zhàn	白雲機場北站
-bái yún jī chǎng shì jiàn	白雲機場事件
 bǎi zhàn tiān chóng xì liè	百戰天蟲系列
 bǎi zhàng huái hǎi chán shī	百丈懷海禪師
 bài zhào běn shān wéi shī	拜趙本山為師
@@ -93169,7 +93057,6 @@ bǎo chí zhí xiàn xíng shǐ	保持直線行駛
 bǎo chuán yí zhǐ gōng yuán	寶船遺址公園
 bǎo cún yǒu shēng lì liàng	保存有生力量
 bǎo dà hái shì bǎo xiǎo	保大還是保小
-bǎo dǎo lián méng shì jiàn	保導聯盟事件
 bǎo dǎo shāng yè yín háng	寶島商業銀行
 bǎo de bēi cǎn rì cháng	寶的悲慘日常
 bào ěr shuāng dié dài fǎ	鮑爾雙迭代法
@@ -93435,7 +93322,6 @@ běi dà xī yáng zhèn dàng	北大西洋振盪
 běi dà xìn kē gāo péi	北大信科高培
 běi dà yǔ shān gōng lù	北大嶼山公路
 běi dà yǔ shān yī yuàn	北大嶼山醫院
-běi dà yuè xīn shì jiàn	北大嶽昕事件
 běi dá zī yuán zhōng xué	北達資源中學
 bèi dài èr shì tuō wèi	貝戴二氏脫位
 bèi dài èr shì xiàn xiàng	貝代二氏現象
@@ -93503,7 +93389,6 @@ běi huán gāo sù gōng lù	北環高速公路
 běi huí guī xiàn yǐ běi	北回歸線以北
 běi huí guī xiàn yǐ nán	北回歸線以南
 běi huí mù guā niú nǎi	北回木瓜牛奶
-běi jí nián yú shì jiàn	北極鯰魚事件
 bèi jí qiān jīn yào fāng	備急千金要方
 běi jí xīng de yǎn lèi	北極星的眼淚
 běi jí yán jiū suǒ yán	北極研究所巖
@@ -93517,7 +93402,6 @@ běi jiāo chén chuán yí zhǐ	北礁沉船遺址
 běi jiāo gāo jí zhōng xué	北郊高級中學
 bèi jiě fàng de jiāng gē	被解放的姜戈
 bèi jiě jiù de jiāng gē	被解救的姜戈
-běi jié shā rén shì jiàn	北捷殺人事件
 bèi jiē xiǎo xiàng gǎi zào	背街小巷改造
 bèi jiē xiǎo xiàng huán jìng	背街小巷環境
 bèi jiē xiǎo xiàng zhěng zhì	背街小巷整治
@@ -93936,7 +93820,6 @@ běn cǎo jīng shū jí yào	本草經疏輯要
 běn cǎo pǐn huì jīng yào	本草品匯精要
 běn cǎo sān jiā hé zhù	本草三家合注
 běn cǎo yī fāng hé biān	本草醫方合編
-bēn chí lòu yóu shì jiàn	奔馳漏油事件
 bēn chí wēi tíng gǎi zhuāng	奔馳威霆改裝
 běn cì jiǎn chí jì huà	本次減持計畫
 běn cì qǐ dòng yí shì	本次啟動儀式
@@ -97970,7 +97853,6 @@ cǐ nǎi zì rán zhī lǐ	此乃自然之理
 cǐ nì chēng bù cún zài	此暱稱不存在
 cǐ niǎo bù fēi zé yǐ	此鳥不飛則已
 cí niǔ xiàn cún chǔ qì	磁扭線存儲器
-cì nuò mén hǎn shì jiàn	次諾門罕事件
 cí ǒu hé jié zhǐ fá	磁耦合截止閥
 cí pán bèi xiě bǎo hù	磁盤被寫保護
 cí pán rǒng yú zhèn liè	磁盤冗餘陣列
@@ -98655,7 +98537,6 @@ dà lǐ shí wén áo xiā	大理石紋螯蝦
 dà lǐ shì xí zǒng guǎn	大理世襲總管
 dà lǐ shí yàng pí fū	大理石樣皮膚
 dà lì shuǐ shǒu bō pài	大力水手波派
-dà lì shuǐ shǒu shì jiàn	大力水手事件
 dà lì shuǐ shǒu zhá jī	大力水手炸雞
 dà lǐ sì shǎo qīng yóu	大理寺少卿遊
 dà lì yà huò fū dǎo	大利亞霍夫島
@@ -99406,7 +99287,6 @@ dào luǎn yè wǔ jiā cān	倒卵葉五加參
 dào luǎn yè yú gǔ mù	倒卵葉魚骨木
 dào mù bǐ jì quán jí	盜墓筆記全集
 dǎo nà cān shù jǔ zhèn	導納參數矩陣
-dào nǎi shā niú shì jiàn	倒奶殺牛事件
 dào niú nǎi de nǚ pú	倒牛奶的女僕
 dào pī zhēn yè chóng shí	倒披針葉蟲實
 dào qī huán běn fù xī	到期還本付息
@@ -99666,7 +99546,6 @@ dī dī zǒng cái liǔ qīng	滴滴總裁柳青
 dī diàn lí xīng xì hé	低電離星系核
 dī diào de zhāng yú jūn	低調的章魚君
 dī dòng lì xíng xiū kè	低動力型休克
-dì dū bù xiáng shì jiàn	帝都不祥事件
 dī dù yì xíng zēng shēng	低度異型增生
 dī duān xiàng zhōng gāo duān	低端向中高端
 dī duān zhì néng shǒu jī	低端智能手機
@@ -100216,7 +100095,6 @@ diàn guāng huǒ shí zhī jiān	電光火石之間
 diàn guāng shí huǒ zhī jiān	電光石火之間
 diàn guì jiǔ xī jiāo jiāng	奠桂酒兮椒漿
 diān guò lái dào guò qù	顛過來倒過去
-diàn hào jié jī shì jiàn	澱號劫機事件
 diàn hè mì dù chà tú	電荷密度差圖
 diàn hè ǒu hé qì jiàn	電荷耦合器件
 diàn hè ǒu hé qì jiàn	電荷藕合器件
@@ -100686,7 +100564,6 @@ dīng sī tè wèi lái ěr	丁斯特魏萊爾
 dǐng tuī fǎ dǐng tuī fǎ	頂推法頂推法
 dǐng wáng má là huǒ guō	鼎王麻辣火鍋
 dīng wèi fáng chéng qǐ yì	丁未防城起義
-dīng wèi piāo rén shì jiàn	丁未漂人事件
 dìng wèi píng miàn xié dù	定位平面斜度
 dìng wǔ gāo sù gōng lù	定武高速公路
 dìng xiàn kāi yuán sì tǎ	定縣開元寺塔
@@ -103490,7 +103367,6 @@ fēng tián hǎi lā kè sī	豐田海拉克斯
 fèng tiān pǎi jī pào chǎng	奉天迫擊炮廠
 fèng tiān yī kē dà xué	奉天醫科大學
 fèng tiān yù dà hé shàng	奉天玉大和尚
-fēng tián zhào huí shì jiàn	豐田召回事件
 fēng tián zì dòng zhī jī	豐田自動織機
 fēng tíng le yún zhī dào	風停了雲知道
 fèng tóng gāo sù gōng lù	奉銅高速公路
@@ -104341,7 +104217,6 @@ gān sù fǔ zhù yīn zǐ	肝素輔助因子
 gān sù gāo sù gōng lù	甘肅高速公路
 gān sù guǎng diàn zǒng tái	甘肅廣電總臺
 gān sù lán zhōu bīng biàn	甘肅蘭州兵變
-gān sù lǒng nán shì jiàn	甘肅隴南事件
 gān sù lǚ yóu jǐng diǎn	甘肅旅遊景點
 gān sù shī fàn dà xué	甘肅師範大學
 gān sù tú fù guǎn dào	肝素塗覆管道
@@ -106139,7 +106014,6 @@ gǔ gé jī sōng chí jì	骨骼肌松馳劑
 gǔ gē jīn shān cí bà	谷歌金山詞霸
 gǔ gé lǔ jí yà yǔ	古格魯吉亞語
 gǔ gē rén gōng zhì néng	谷歌人工智能
-gǔ gē shè huáng shì jiàn	谷歌涉黃事件
 gǔ gé wáng cháo yí zhǐ	古格王朝遺址
 gǔ gé wáng guó yí zhǐ	古格王國遺址
 gǔ gē yǎn jìng xiàng mù	谷歌眼鏡項目
@@ -107107,9 +106981,7 @@ guò fèn nì ài hái zi	過分溺愛孩子
 guǒ fú guān zhuàng bìng dú	果蝠冠狀病毒
 guó fù hào huá guó jì	國富浩華國際
 guó fù jì niàn guǎn zhàn	國父紀念館站
-guó fǔ qiān tái shì jiàn	國府遷台事件
 guó fǔ tián má lǐ zi	國府田麻理子
-guǒ gǎn bā bā shì jiàn	果敢八八事件
 guó gāng guǒ gòng hé guó	國剛果共和國
 guò gāo huò zhě guò dī	過高或者過低
 guò gèng hǎo de shēng huó	過更好的生活
@@ -108204,7 +108076,6 @@ hǎo xiǎng tán liàn ài a	好想談戀愛啊
 háo xū zhuāng jiǎ qì chē	毫須裝甲汽車
 hǎo yì diǎn de xué xiào	好一點的學校
 hǎo yǒu hé péng you quān	好友和朋友圈
-hào yú léi tǐng shì jiàn	號魚雷艇事件
 hào yú léi xún yáng jiàn	號魚雷巡洋艦
 hǎo yuàn jiàn guó jiǔ diàn	好苑建國酒店
 hào yuè qiú xuán wǔ yán	號月球玄武岩
@@ -108235,7 +108106,6 @@ hé běi jīng yīng chuán méi	河北精英傳媒
 hé běi kuàng yě xué yuàn	河北礦冶學院
 hé běi lǚ yóu jǐng diǎn	河北旅遊景點
 hé běi mó yá shí kè	河北摩崖石刻
-hé běi mù jī shì jiàn	河北目擊事件
 hé běi shèng huá huà gōng	河北盛華化工
 hé běi shī dà fù zhōng	河北師大附中
 hé běi shī fàn dà xué	河北師範大學
@@ -108670,7 +108540,6 @@ hēi sè shuǐ jīng jiè zhǐ	黑色水晶戒指
 hēi sè shuǐ jīng xiàng liàn	黑色水晶項鍊
 hēi sè sù mǔ xì bāo	黑色素母細胞
 hēi sè tàn zhì yè yán	黑色碳質頁岩
-hēi sè wǔ yuè shì jiàn	黑色五月事件
 hēi sè xiàng jiāo biǎo dài	黑色橡膠錶帶
 hēi shā qīng nián lǚ shè	黑沙青年旅舍
 hēi shā yóu xì shǒu jī	黑鯊遊戲手機
@@ -108925,7 +108794,6 @@ hóng qí lā fǔ kǒu àn	紅旗拉甫口岸
 hóng qí lā fǔ kǒu àn	紅其拉甫口岸
 hóng qí lā fǔ shān kǒu	紅其拉甫山口
 hóng qí qú de gù shi	紅旗渠的故事
-hóng qiáo jī chǎng shì jiàn	虹橋機場事件
 hóng róng gài niú gān jūn	紅絨蓋牛肝菌
 hóng sè gé mìng yí zhǐ	紅色革命遺址
 hóng sè gé zi chèn shān	紅色格子襯衫
@@ -109359,7 +109227,6 @@ hù zhào bào shī zhèng míng	護照報失證明
 hù zhì yīn zǐ suàn fǎ	互質因子算法
 hú zhōu gāo sù gōng lù	湖州高速公路
 hú zhōu shī fàn xué yuàn	湖州師範學院
-hú zhōu zhī lǐ shì jiàn	湖州織里事件
 huá ān hóng lì gǔ piào	華安宏利股票
 huá ào guó jì xìn tuō	華澳國際信託
 huā bān guāng huá jiā gōng	花斑光滑加工
@@ -111747,7 +111614,6 @@ jiā shí lǐng xiān chéng zhǎng	嘉實領先成長
 jiā shí pǔ ān bǎo běn	嘉實浦安保本
 jiā shì shěn pàn gǎi gé	家事審判改革
 jiā shí tī chú hòu dù	夾石剔除厚度
-jiā shì wéi quán shì jiàn	佳士維權事件
 jiā shí wěn gù shōu yì	嘉實穩固收益
 jiā shí yōu huà hóng lì	嘉實優化紅利
 jià shǐ yuán de cāo zuò	駕駛員的操作
@@ -112122,7 +111988,6 @@ jiān qiáng sī xiǎng bǎo zhèng	堅強思想保證
 jiān qiáng zhì néng diàn wǎng	堅強智能電網
 jiàn qiáo dà xué mò lǐ	劍橋大學默里
 jiàn qiáo dà xué rén wù	劍橋大學人物
-jiàn qiáo fēn xī shì jiàn	劍橋分析事件
 jiàn qiáo gōng lì xué xiào	劍橋公立學校
 jiàn qiáo shāng wù yīng yǔ	劍橋商務英語
 jiàn qiáo zhé xué cí diǎn	劍橋哲學辭典
@@ -112425,7 +112290,6 @@ jiāng wān tǐ yù zhōng xīn	江灣體育中心
 jiāng wén diàn yǐng zuò pǐn	姜文電影作品
 jiāng wén lái nóng kē yuàn	姜文來農科院
 jiāng xī bù zhèng shǐ sī	江西布政使司
-jiāng xī fēng chéng shì jiàn	江西豐城事件
 jiāng xī gāo sù gōng lù	江西高速公路
 jiāng xí gāo sù gōng lù	江習高速公路
 jiāng xī gāo sù jiāo jǐng	江西高速交警
@@ -113679,7 +113543,6 @@ jīng méi lǐ lùn chǎn lǜ	精煤理論產率
 jīng mì cè liáng yí qì	精密測量儀器
 jīng mì gāo sù gōng lù	京密高速公路
 jīng mì yí qì yí biǎo	精密儀器儀表
-jǐng míng dà lóu shì jiàn	景明大樓事件
 jīng míng de shēng yi rén	精明的生意人
 jīng míng de tóu zī zhě	精明的投資者
 jīng míng jiù jīng míng zài	精明就精明在
@@ -114302,7 +114165,7 @@ jū mín shēng huó bì xū	居民生活必需
 jū mín shēng huó diàn jià	居民生活電價
 jū mín zì zhì zhāng chéng	居民自治章程
 jù mó zhī xuè yào shuǐ	巨魔之血藥水
-jū nà hán mù ní fó	拘那含牟尼佛
+jū nà hán móu ní fó	拘那含牟尼佛
 jǔ nán dì yī zhōng xué	莒南第一中學
 jù pài tóu zī jí tuán	鉅派投資集團
 jù pào wǔ zhǐ tiào shǔ	巨泡五趾跳鼠
@@ -115710,7 +115573,6 @@ kōng jūn tè zhǒng bù duì	空軍特種部隊
 kōng jūn zhì háng jī dì	空軍志航基地
 kōng jūn zhǐ huī xué yuàn	空軍指揮學院
 kōng jūn zǒng sī lìng bù	空軍總司令部
-kōng kā shān kǒu shì jiàn	空喀山口事件
 kǒng kē ěr dí yà gǎng	孔科爾迪亞港
 kōng lěng qì guǎn shù xiāng	空冷器管束箱
 kǒng lóng miè jué shì jiàn	恐龍滅絕事件
@@ -116022,7 +115884,6 @@ kūn míng rào chéng gāo sù	昆明繞城高速
 kūn míng shī fàn xué yuàn	昆明師範學院
 kūn míng yī kē dà xué	昆明醫科大學
 kūn mó gāo sù gōng lù	昆磨高速公路
-kūn shān bào zhà shì jiàn	崑山爆炸事件
 kūn shí gāo sù gōng lù	崑石高速公路
 kūn sī bó lǐ gōng jué	昆斯伯裏公爵
 kūn sōng gāo sù gōng lù	昆嵩高速公路
@@ -117695,7 +117556,6 @@ liù hóng qiú sī nuò kè	六紅球斯諾克
 liú hú lán jì niàn guǎn	劉胡蘭紀念館
 liú huà chuáng fǎn yìng qì	流化床反應器
 liú huà cuī huà liè huà	流化催化裂化
-liú huī lǚ lì shì jiàn	劉輝履歷事件
 liù jiǎ dǐng kāi xiān gōng	六甲頂開仙宮
 liù jiǎ lǎn suǒ xià zhàn	六甲纜索下站
 liù jiǎ lín xiān sān ǎn	六甲磷酰三銨
@@ -117725,7 +117585,6 @@ liú làng de mù mǎ rén	流浪的牧馬人
 liú làng de sān jiǎo māo	流浪的三腳貓
 liú làng de xiǎo hái zi	流浪的小孩子
 liú làng de yóu tài rén	流浪的猶太人
-liú làng qì qiú shì jiàn	流浪氣球事件
 liǔ làng wén yīng gōng yuán	柳浪聞鶯公園
 liú làng zhě de gù shi	流浪者的故事
 liú lèi de yí shùn jiān	流淚的一瞬間
@@ -117966,7 +117825,6 @@ lú dǐ diǎn dòu huì xiàn	顱底點竇匯線
 lú dòng dàn dào dǎo dàn	蘆洞彈道導彈
 lú è xuè hóng dàn bái	盧厄血紅蛋白
 lǔ fēi èr shì shì yàn	魯菲二氏試驗
-lù fēng wū kǎn shì jiàn	陸豐烏坎事件
 lú fú dì jiàng fǎn yìng	蘆福遞降反應
 lú gān shí cǎo yào lèi	爐甘石草藥類
 lū gē bo wǎn xiù zi	擼胳膊挽袖子
@@ -118904,7 +118762,6 @@ měi jūn dì bù bīng shī	美軍第步兵師
 měi jūn dì kōng jiàng shī	美軍第空降師
 méi jūn dú sù zhòng dú	黴菌毒素中毒
 méi jūn hé jiào mǔ jūn	黴菌和酵母菌
-měi jūn nüè qiú shì jiàn	美軍虐囚事件
 měi jūn tè zhǒng bù duì	美軍特種部隊
 měi jūn zhōng guó zhàn qū	美軍中國戰區
 méi kǎo lǜ guò zhè ge	沒考慮過這個
@@ -120076,7 +119933,6 @@ nán jí quān chòu yǎng kǒng	南極圈臭氧孔
 nán jīng cháng jiāng dà qiáo	南京長江大橋
 nán jīng huì zhù jiān zhèng	難經匯注箋正
 nán jīng jīng shì bǔ zhèng	難經經釋補正
-nán jīng nüè tóng shì jiàn	南京虐童事件
 nán jīng yóu diàn dà xué	南京郵電大學
 nán kǎ luó lái nà zhōu	南卡羅來納州
 nán kǎ luó lái nà zhōu	南卡羅萊納州
@@ -120285,7 +120141,6 @@ nèi kē zhǔ rèn yī shī	內科主任醫師
 nèi kē zhǔ zhì yī shī	內科主治醫師
 nèi kòng shí shī xì zé	內控實施細則
 nèi kuī jìng huó jiǎn qián	內窺鏡活檢鉗
-nèi lā gé láng rì diǎn	內拉格郎日點
 nèi lā gé lǎng rì diǎn	內拉格朗日點
 nèi lì dì zhì zuò yòng	內力地質作用
 nèi liù jiǎo luó sī dāo	內六角螺絲刀
@@ -120350,7 +120205,6 @@ néng míng xiǎn gǎn jué dào	能明顯感覺到
 néng míng xiǎn gǎn shòu dào	能明顯感受到
 néng qīng chǔ de kàn dào	能清楚的看到
 néng qīng chu de kàn dào	能清楚地看到
-néng qīng xī de kàn dào	能清晰的看到
 néng qīng xī de kàn dào	能清晰地看到
 néng shǎo chī jiù shǎo chī	能少吃就少喫
 néng shī zhǎn mó fǎ de	能施展魔法的
@@ -122306,7 +122160,6 @@ qī yuè èr shí sì rì	七月二十四日
 qī yuè èr shí wǔ rì	七月二十五日
 qī yuè èr shí yī rì	七月二十一日
 qī yuè jiǔ rì dà dào	七月九日大道
-qī yuè liú xuè shì jiàn	七月流血事件
 qī yuè sān shí yī rì	七月三十一日
 qì yuē zì yóu yuán zé	契約自由原則
 qí yùn dòng qíng kuàng shì	其運動情況是
@@ -123292,7 +123145,6 @@ qīng tīng zì rán zhī shēng	傾聽自然之聲
 qīng tóng shí dài yí zhǐ	青銅時代遺址
 qīng tóng zhī lì ān dé	青銅之力安德
 qīng tóng zòng mù miàn jù	青銅縱目面具
-qīng wā shào nián shì jiàn	青蛙少年事件
 qīng wēi gāo sù gōng lù	青威高速公路
 qīng wēi xíng shì àn jiàn	輕微刑事案件
 qīng wéi zhāo zhāo mù mù	卿爲朝朝暮暮
@@ -124525,8 +124377,6 @@ rén shēng nán dé hú tú	人生難得糊塗
 rén shēng qǐ qǐ fú fú	人生起起伏伏
 rén shēng qǐ qǐ luò luò	人生起起落落
 rén shēng ruò rú chū jiàn	人生若如初見
-rén shēng ruò zhǐ chū jiàn	人生若只初見
-rén shēng ruò zhǐ rú chū	人生若只如初
 rén shēng shì měi hǎo de	人生是美好的
 rén shēng shì měi lì de	人生是美麗的
 rén shēng shí zì lù kǒu	人生十字路口
@@ -125316,7 +125166,6 @@ sān zhǒng bù zhì fāng fǎ	三種佈置方法
 sān zhǒng tǒng zhì xíng shì	三種統治形式
 sān zhōng xīn èr diàn zǐ	三中心二電子
 sān zhōng xīn liǎng diàn zǐ	三中心兩電子
-sān zhǒng yán sè shì jiàn	三種顏色事件
 sān zhōng yú sì wú xiàn	三忠於四無限
 sān zhóu yīng lì zhuàng tài	三軸應力狀態
 sān zì ài guó jiào huì	三自愛國教會
@@ -125357,7 +125206,6 @@ sè zī lán sī jī qū	瑟茲蘭斯基區
 sēng fù zhě bù néng zhì	僧富者不能至
 shā bā zōng tí qǔ wù	沙巴棕提取物
 shǎ bái tián de jué sè	傻白甜的角色
-shā chē bào kǒng shì jiàn	莎車暴恐事件
 shā chē yōu xiān xì tǒng	煞車優先系統
 shā chē yōu xiān xì tǒng	剎車優先系統
 shà chéng gāo sù gōng lù	廈成高速公路
@@ -125613,7 +125461,6 @@ shǎn xī yán ān zhōng xué	陝西延安中學
 shǎn xī yán cháng shí yóu	陝西延長石油
 shān xī yáng quán méi yè	山西陽泉煤業
 shān xī yī kē dà xué	山西醫科大學
-shān xī yì miáo shì jiàn	山西疫苗事件
 shǎn xī yín hé guó liáng	陝西銀河國樑
 shān xī yǒu xiàn gōng sī	山西有限公司
 shǎn xī yǒu xiàn gōng sī	陝西有限公司
@@ -127428,10 +127275,10 @@ shì jì zuì wěi dà de	世紀最偉大的
 shì jiā bǎo běi xuǎn qū	士嘉堡北選區
 shì jiā dū shì lè yuán	世嘉都市樂園
 shǐ jiā hú tòng xiǎo xué	史家胡同小學
-shì jiā mù ní fó suǒ	釋迦牟尼佛所
-shì jiā mù ní fó xiàng	釋迦牟尼佛像
-shì jiā mù ní rú lái	釋迦牟尼如來
-shì jiā mù ní shì zūn	釋迦牟尼世尊
+shì jiā móu ní fó suǒ	釋迦牟尼佛所
+shì jiā móu ní fó xiàng	釋迦牟尼佛像
+shì jiā móu ní rú lái	釋迦牟尼如來
+shì jiā móu ní shì zūn	釋迦牟尼世尊
 shì jiā tǔ xīng yóu xì	世嘉土星遊戲
 shǐ jiā xiǎo xué fēn xiào	史家小學分校
 shì jiā yìng jiàn nǚ hái	世嘉硬件女孩
@@ -127952,7 +127799,7 @@ shí shī guà tú zuò zhàn	實施掛圖作戰
 shí shí guāng xiàn zhuī zōng	實時光線追蹤
 shí shí háng qíng shù jù	實時行情數據
 shǐ shī huǐ miè jīn shǔ	史詩毀滅金屬
-shí shì jiā mù ní fó	時釋迦牟尼佛
+shí shì jiā móu ní fó	時釋迦牟尼佛
 shí shī jiā tíng bào lì	實施家庭暴力
 shí shí jiān cè shù jù	實時監測數據
 shí shí jiān cè xì tǒng	實時監測系統
@@ -129825,7 +129672,6 @@ sì yuè èr shí sān rì	四月二十三日
 sì yuè èr shí sì rì	四月二十四日
 sì yuè èr shí wǔ rì	四月二十五日
 sì yuè èr shí yī rì	四月二十一日
-sì yuè sān rì shì jiàn	四月三日事件
 sì zhěn xīn fǎ yào jué	四診心法要訣
 sì zhī gōng xuè bù zú	四肢供血不足
 sì zhī niè niè dòng zhě	四肢聶聶動者
@@ -130372,7 +130218,6 @@ tāi fèn xìng cháng gěng zǔ	胎糞性腸梗阻
 tái fēng jī chǔ zī xùn	颱風基礎資訊
 tái fú jī dū jiào huì	臺福基督教會
 tái fū tè tǎ shí yàn	臺夫特塔實驗
-tài fú zhōng xué shì jiàn	太伏中學事件
 tái gǎng dào bǎn shí qī	台港盜版時期
 tái gāng kē jì dà xué	臺鋼科技大學
 tài gǔ dá rén xì liè	太鼓達人系列
@@ -130564,7 +130409,6 @@ tàn jī èr zú shēng wù	碳基二足生物
 tán jiā miào shí huī yán	覃家廟石灰岩
 tàn jiàn xíng chéng fǎn yìng	碳鍵形成反應
 tàn jīn shǔ huà fǎn yìng	碳金屬化反應
-tán jìng zhuì lóu shì jiàn	譚靜墜樓事件
 tàn jū yá bāo gǎn jūn	炭疽芽孢桿菌
 tàn jū yá bāo gǎn jūn	炭疽芽胞桿菌
 tán le gè nǚ péng you	談了個女朋友
@@ -130726,7 +130570,6 @@ tào lì tóu zī zǔ hé	套利投資組合
 táo lì yī fū sī jī	桃利伊夫斯基
 táo lǔ bǐ yǒng chéng bǎo	陶魯比永城堡
 tào lù yǔ fǎn tào lù	套路與反套路
-táo pǔ sī hào shì jiàn	陶普斯號事件
 tào qī bǎo zhí hé yuē	套期保值合約
 tào qī bǎo zhí jiāo yì	套期保值交易
 táo qì de jīn sī hóu	淘氣的金絲猴
@@ -131560,7 +131403,6 @@ tóng shí bìng yòng shí dài	銅石並用時代
 tōng shí jiào yù kè chéng	通識教育課程
 tōng shí jiào yù xué yuàn	通識教育學院
 tóng shí lǚ xíng kàng biàn	同時履行抗辯
-tóng shì tiān yá lún luò	同是天涯淪落
 tōng shuǐ shì yàn jì lù	通水試驗記錄
 tóng sù huán huà hé wù	同素環化合物
 tōng sú yì dǒng de huà	通俗易懂的話
@@ -131890,7 +131732,6 @@ tuǐ bù yán xìng zhǒng kuài	腿部炎性腫塊
 tuī chū quán xīn chē xíng	推出全新車型
 tuī chū yōu huì zhèng cè	推出優惠政策
 tuì chū yú lè quān hòu	退出娛樂圈後
-tuì chū zhōng guó shì jiàn	退出中國事件
 tuǐ chuāng shāng xìng qiē duàn	腿創傷性切斷
 tuī dòng chǎn yè jí jù	推動產業集聚
 tuī dòng diàn zǐ shāng wù	推動電子商務
@@ -132125,7 +131966,6 @@ wài kē zhèng zhì quán shū	外科證治全書
 wài kē zhèng zhì zhǔn shéng	外科證治準繩
 wài kē zhǔ rèn yī shī	外科主任醫師
 wài kē zhǔ zhì yī shī	外科主治醫師
-wài lā gé láng rì diǎn	外拉格郎日點
 wài lā gé lǎng rì diǎn	外拉格朗日點
 wài lái wù gōng rén yuán	外來務工人員
 wài lái wù gōng zǐ nǚ	外來務工子女
@@ -132579,7 +132419,6 @@ wáng shì fēi wén shǒu zé	王室緋聞守則
 wáng shì gāo jí chéng yuán	王室高級成員
 wáng shì jiào shī hǎi niè	王室教師海涅
 wǎng shì lì lì zài mù	往事歷歷在目
-wáng shǒu rén de fěn sī	王守仁的粉絲
 wáng shǔ gōng jì tú zhóu	王蜀宮妓圖軸
 wáng sī cōng de nǚ yǒu	王思聰的女友
 wáng sī cōng de wēi bó	王思聰的微博
@@ -133068,10 +132907,10 @@ wèi wán chéng de shì yè	未完成的事業
 wèi wán chéng de xīn yuàn	未完成的心願
 wèi wán jié de gù shi	未完結的故事
 wèi wán shī gōng chéng běn	未完施工成本
-wéi wàn shì kāi tài píng	爲萬世開太平
+wèi wàn shì kāi tài píng	爲萬世開太平
 wèi wǎng mó yòu dòng mài	胃網膜右動脈
 wèi wǎng mó zuǒ dòng mài	胃網膜左動脈
-wéi wǎng shèng jì jué xué	爲往聖繼絕學
+wèi wǎng shèng jì jué xué	爲往聖繼絕學
 wéi wèi jiù zhào zhī jì	圍魏救趙之計
 wēi wēi miǎo guāng pǔ xué	微微秒光譜學
 wēi wēi miǎo jī guāng qì	微微秒激光器
@@ -133097,7 +132936,7 @@ wēi xiǎn jià shǐ àn jiàn	危險駕駛案件
 wēi xiǎn jiù wēi xiǎn zài	危險就危險在
 wēi xiǎn qū píng miàn tú	危險區平面圖
 wéi xiàn shěn chá zhì dù	違憲審查制度
-wēi xiǎn wú chǔ bú zài	危險無處不在
+wēi xiǎn wú chù bú zài	危險無處不在
 wēi xiǎn wù zhì xiè lòu	危險物質洩露
 wēi xiǎn wù zhì zhǐ lìng	危險物質指令
 wēi xiǎo hé táng bìng dú	微小核糖病毒
@@ -133114,7 +132953,6 @@ wēi xìn péng you quān zhōng	微信朋友圈中
 wēi xìn qún děng fāng shì	微信羣等方式
 wēi xìn sān jí fēn xiāo	微信三級分銷
 wēi xìn sǎo èr wéi mǎ	微信掃二維碼
-wēi xìn shōu fèi shì jiàn	微信收費事件
 wéi xìn yǎng ér jiān shǒu	爲信仰而堅守
 wēi xìn yì jí rù kǒu	微信一級入口
 wēi xìn yí jiàn dēng lù	微信一鍵登錄
@@ -133566,12 +133404,12 @@ wǔ chāng wǔ bèi xué táng	武昌武備學堂
 wǔ chāng zhōng huá dà xué	武昌中華大學
 wǔ chāng zhōng shān dà xué	武昌中山大學
 wú chén jìng huà chē jiān	無塵淨化車間
-wú chǔ chóu mì diǎn jí	無處稠密點集
-wú chǔ chóu mì zǐ jí	無處稠密子集
-wú chǔ kě wēi hán shù	無處可微函數
+wú chù chóu mì diǎn jí	無處稠密點集
+wú chù chóu mì zǐ jí	無處稠密子集
+wú chù kě wēi hán shù	無處可微函數
 wú chǔ qī guó zhī luàn	吳楚七國之亂
-wú chǔ shōu liǎn jí shù	無處收斂級數
-wú chǔ shōu liǎn xù liè	無處收斂序列
+wú chù shōu liǎn jí shù	無處收斂級數
+wú chù shōu liǎn xù liè	無處收斂序列
 wú chū sù dù shì fàng	無初速度釋放
 wú chū xi de hàn zi	無出息的漢子
 wú chuàng fǔ zhù tōng qì	無創輔助通氣
@@ -133679,7 +133517,6 @@ wǔ hàn dà xué xiào shǐ	武漢大學校史
 wǔ hàn dì zhì xué yuàn	武漢地質學院
 wǔ hàn fǎ yǔ lián méng	武漢法語聯盟
 wǔ hàn fǎng zhī dà xué	武漢紡織大學
-wǔ hàn fèi yán shì jiàn	武漢肺炎事件
 wǔ hàn gāo sù gōng lù	武漢高速公路
 wǔ hàn guāng gǔ nán yì	武漢光谷南益
 wǔ hàn guò jiāng suì dào	武漢過江隧道
@@ -134046,7 +133883,6 @@ wǔ wèi gān lù zī bǔ	五味甘露滋補
 wǔ wēi gāo sù gōng lù	武威高速公路
 wǔ wēi léi tái hàn mù	武威雷臺漢墓
 wǔ wèi qī shí wǔ fǎ	五位七十五法
-wú wéi rǔ huá shì jiàn	吳維辱華事件
 wǔ wèi shēn yǒu xū hài	午未申酉戌亥
 wú wěi shòu de mù guāng	無尾獸的目光
 wú wèi xíng zhàn liè jiàn	無畏型戰列艦
@@ -135846,7 +135682,6 @@ xiào hòu shí jù qū xiàn	校後時距曲線
 xiǎo huà fǎng zhāi jiù zhǐ	小畫舫齋舊址
 xiāo huà gān yóu huǒ yào	硝化甘油火藥
 xiāo huà gān yóu zhà yào	硝化甘油炸藥
-xiào huā guǐ yì shì jiàn	校花詭異事件
 xiāo huà luó xuán jūn gāng	硝化螺旋菌綱
 xiāo huà luó xuán jūn mén	硝化螺旋菌門
 xiāo huà luó xuán jūn mù	硝化螺旋菌目
@@ -136149,7 +135984,6 @@ xiào yuán wén huà fēn wéi	校園文化氛圍
 xiào yuán yán qíng xiǎo shuō	校園言情小說
 xiǎo yuè líng de bǎo bao	小月齡的寶寶
 xiāo zāi jí xiáng shén zhòu	消災吉祥神咒
-xiāo zhàn fěn sī shì jiàn	肖戰粉絲事件
 xiǎo zhì de pí kǎ qiū	小智的皮卡丘
 xiǎo zhǐ shēn jī jiàn qiào	小指伸肌腱鞘
 xiào zhuāng tài huáng tài hòu	孝莊太皇太后
@@ -136330,11 +136164,9 @@ xīn gé zhǐ biāo dìng lǐ	辛格指標定理
 xīn gǔ yǔ cì xīn gǔ	新股與次新股
 xīn guān biàn yì bìng dú	新冠變異病毒
 xīn guān bìng dú biàn yì	新冠病毒變異
-xīn guān bìng dú shì jiàn	新冠病毒事件
 xīn guān bù lǐ jiù zhàng	新官不理舊賬
 xīn guān chá jiā zá zhì	新觀察家雜誌
 xīn guān chǎng xiàn xíng jì	新官場現形記
-xīn guān fèi yán shì jiàn	新冠肺炎事件
 xīn guān miè huó yì miáo	新冠滅活疫苗
 xìn guì shān chéng zhī zhàn	信貴山城之戰
 xìn guì shān zhēn yán zōng	信貴山真言宗
@@ -136384,14 +136216,12 @@ xīn jiāng guǎng huì qì chē	新疆廣匯汽車
 xīn jiāng hé tián dà zǎo	新疆和田大棗
 xīn jiāng huò ěr guǒ sī	新疆霍爾果斯
 xīn jiāng jiào péi zhōng xīn	新疆教培中心
-xīn jiāng jié jī shì jiàn	新疆劫機事件
 xīn jiāng jū mín wài táo	新疆居民外逃
 xīn jiāng kǒng bù zhǔ yì	新疆恐怖主義
 xīn jiāng kuàng yě xué yuàn	新疆礦冶學院
 xīn jiāng lì shǐ rén wù	新疆歷史人物
 xīn jiāng lǚ yóu jǐng diǎn	新疆旅遊景點
 xīn jiāng měi shí fā xiàn	新疆美食發現
-xīn jiāng mián huā shì jiàn	新疆棉花事件
 xīn jiāng qī wǔ shì jiàn	新疆七五事件
 xīn jiāng shī fàn dà xué	新疆師範大學
 xīn jiāng shī fàn xué yuàn	新疆師範學院
@@ -136554,7 +136384,6 @@ xīn nián dào lái zhī jì	新年到來之際
 xīn nián de dì yī tiān	新年的第一天
 xìn niàn gèng jiā jiān dìng	信念更加堅定
 xīn nián lái lín zhī jì	新年來臨之際
-xīn nián tè kān shì jiàn	新年特刊事件
 xīn nián zhōng shēng qiāo xiǎng	新年鐘聲敲響
 xīn nuò wèi xīng gōng sī	鑫諾衛星公司
 xīn nuò wèi xīng tōng xìn	鑫諾衛星通信
@@ -136781,7 +136610,6 @@ xīng dǎo xīn wén jí tuán	星島新聞集團
 xíng dào zhī rén fú shòu	行道之人弗受
 xīng dǎo zhōng wén diàn tái	星島中文電台
 xíng de duān zuò de zhèng	行的端做得正
-xìng dé qiū shuǐ shì jiàn	幸德秋水事件
 xīng dēng bǎo hào fēi chuán	興登堡號飛船
 xīng dēng bǎo hào fēi tǐng	興登堡號飛艇
 xīng dēng bǎo hào kōng nàn	興登堡號空難
@@ -136810,7 +136638,7 @@ xíng fǎn tǎn kè dǎo dàn	型反坦克導彈
 xīng fèn shōu suō ǒu lián	興奮收縮耦聯
 xìng fú chù shǒu kě jí	幸福觸手可及
 xìng fú pái diàn bīng xiāng	幸福牌電冰箱
-xìng fú wú chǔ bú zài	幸福無處不在
+xìng fú wú chù bú zài	幸福無處不在
 xìng fú xiàng huā yí yàng	幸福像花一樣
 xìng fú xiě zài liǎn shàng	幸福寫在臉上
 xìng fú yú de miàn jiá	幸福魚的面頰
@@ -138174,7 +138002,6 @@ yán tǔ lì xué xìng zhì	岩土力學性質
 yàn wǎ shān shí huī yán	硯瓦山石灰岩
 yǎn wài zhí jī má bì	眼外直肌麻痹
 yán wān jiān yù bào dòng	巖灣監獄暴動
-yán wān jué shí shì jiàn	巖灣絕食事件
 yàn wēi dì mù róng chōng	燕威帝慕容沖
 yān wēi gāo sù gōng lù	煙威高速公路
 yán wèi jí zhī ér yán	言未及之而言
@@ -138304,7 +138131,6 @@ yáng gāo nán lù chū kǒu	楊高南路出口
 yǎng guān yǔ zhòu zhī dà	仰觀宇宙之大
 yáng guāng bān de wēn nuǎn	陽光般的溫暖
 yáng guāng bān de xiào róng	陽光般的笑容
-yǎng guāng bào zhà shì jiàn	仰光爆炸事件
 yáng guāng chéng fěi lì wān	陽光城翡麗灣
 yáng guāng cì tòng le yǎn	陽光刺痛了眼
 yǎng guāng guó jì jī chǎng	仰光國際機場
@@ -138586,7 +138412,6 @@ yě mén ā lā bó yǔ	也門阿拉伯語
 yě mén hú sāi pàn luàn	也門胡塞叛亂
 yě mén hú sāi wǔ zhuāng	也門胡塞武裝
 yě mén wǔ zhuāng bù duì	也門武裝部隊
-yě mén xí jī shì jiàn	也門襲擊事件
 yè mù jiàng lín zhī shí	夜幕降臨之時
 yè nèi quán wēi rén shì	業內權威人士
 yè nèi rén shì bào liào	業內人士爆料
@@ -139350,7 +139175,7 @@ yì pín yí xiào zhī jiān	一顰一笑之間
 yǐ píng cháng xīn duì dài	以平常心對待
 yǐ píng cháng xīn kàn dài	以平常心看待
 yǐ píng hé de xīn tài	以平和的心態
-yì pū zhī tǔ wèi gàn	一抔之土未乾
+yì póu zhī tǔ wèi gàn	一抔之土未乾
 yì qǐ chī hē wán lè	一起吃喝玩樂
 yì qǐ chī wǎn cān ma	一起吃晚餐嗎
 yī qì dà zhòng bǎo lái	一汽大眾寶來
@@ -140411,11 +140236,9 @@ yīng shǔ wéi jīng qún dǎo	英屬維京群島
 yīng shǔ xiàng fēng qún dǎo	英屬向風群島
 yīng shǔ xiāng gǎng qí zhì	英屬香港旗幟
 yīng shǔ xiāng gǎng rén wù	英屬香港人物
-yīng shǔ xiāng gǎng shì jiàn	英屬香港事件
 yīng shǔ xiāng gǎng shuǐ zāi	英屬香港水災
 yīng shǔ xiāng gǎng yì huì	英屬香港議會
 yīng shǔ xīn jǐ nèi yà	英屬新幾內亞
-yīng sì fēi hóng tà xuě	應似飛鴻踏雪
 yíng sōng gāo sù gōng lù	營松高速公路
 yīng sù gǎn nóng suō wù	罌粟稈濃縮物
 yīng sù guǒ tí qǔ wù	罌粟果提取物
@@ -141504,7 +141327,6 @@ yú shēng qǐng duō zhǐ jiào	餘生請多指教
 yù shì chén zhuó lěng jìng	遇事沉着冷靜
 yú shì hū yān zòng tǐ	於是忽焉縱體
 yú shì jīng yí shén hài	於是精移神駭
-yù shì mì shì shì jiàn	浴室密室事件
 yǔ shí suàn mù zhī sù	雨石蒜木脂素
 yù shī yì rán wù pǐn	遇溼易燃物品
 yú shì yú yǒu tàn yān	於是餘有嘆焉
@@ -141592,7 +141414,6 @@ yǔ zhàn shèng ér dé zhě	與戰勝而得者
 yú zhǎng gāo sù gōng lù	渝長高速公路
 yù zhāng hào qū zhú jiàn	豫章號驅逐艦
 yù zhāng shī fàn xué yuàn	豫章師範學院
-yù zhāng shū yuàn shì jiàn	豫章書院事件
 yǔ zhèng bāng ruì chǐ dú	與鄭邦瑞尺牘
 yú zhèng zhí fǎ rén yuán	漁政執法人員
 yù zhì bàn yòu wèi mén	玉置半右衛門
@@ -142332,7 +142153,6 @@ zàn zhǔn jìn kǒu gōng yuē	暫準進口公約
 zàng chuán fó jiào fǎ qì	藏傳佛教法器
 zàng chuán fó jiào rén wù	藏傳佛教人物
 zàng chuán fó jiào shàng shī	藏傳佛教上師
-zāng dà yǎo zǐ shì jiàn	臧大咬子事件
 zàng fǔ biāo běn yào shì	臟腑標本藥式
 zàng qì duàn céng xiǎn xiàng	臟器斷層顯像
 zāng qì fǎ shí lùn piān	髒氣法時論篇
@@ -142582,7 +142402,6 @@ zhàn jù yǒu lì wèi zhì	佔據有利位置
 zhàn lán de tiān kōng zhōng	湛藍的天空中
 zhàn lì wài sōu chá guān	戰力外搜查官
 zhān lián xìng fèi bù zhāng	粘連性肺不張
-zhàn lǐng guó huì shì jiàn	佔領國會事件
 zhàn lǐng hā ěr kē fū	佔領哈爾科夫
 zhàn lǐng yī sī tǎn bǎo	佔領伊斯坦堡
 zhàn lüè chéng běn guǎn kòng	戰略成本管控
@@ -142632,8 +142451,8 @@ zhàn zài jīn zì tǎ jiān	站在金字塔尖
 zhàn zài shì jiè zhī diān	站在世界之巔
 zhàn zài shí zì lù kǒu	站在十字路口
 zhàn zài tóng yí lì chǎng	站在同一立場
+zhàn zài tóng yí zhàn xiàn	站在同一戰線
 zhàn zài tóng yí zhèn xiàn	站在同一陣線
-zhàn zài tóng yí zhèn yíng	站在同一戰線
 zhàn zài yǔ zhòu zhī diān	站在宇宙之巔
 zhàn zài yuán dì bú dòng	站在原地不動
 zhàn zhe yí dòng bú dòng	站着一動不動
@@ -142742,7 +142561,6 @@ zhàng xiàng zōng hé suàn fǎ	帳項綜合算法
 zhāng xiǎo shēng bāo zi pù	張小生包子鋪
 zhāng xìn jūn jié dù shǐ	彰信軍節度使
 zhāng xīn yì hé yuán hóng	張歆藝和袁弘
-zhāng xuán guó qí shì jiàn	張懸國旗事件
 zhāng yè gān zhōu jī chǎng	張掖甘州機場
 zhāng yè jū yán shǔ guó	張掖居延屬國
 zhāng yí guó jì jī chǎng	樟宜國際機場
@@ -143583,7 +143401,6 @@ zhī chí tái dú de rén	支持臺獨的人
 zhí chǐ yuán zhù chǐ lún	直齒圓柱齒輪
 zhí chǐ yuán zhuī chǐ lún	直齒圓錐齒輪
 zhǐ chǒu chē liàng jī dì	紙杻車輛基地
-zhì chū chuāng wài shì jiàn	擲出窗外事件
 zhī chū zé rèn huà fēn	支出責任劃分
 zhí cǐ guó nàn zhī jì	值此國難之際
 zhì cì jià gāo shāng pǐn	質次價高商品
@@ -145815,7 +145632,6 @@ zhuǎn zhàng dào yín háng kǎ	轉賬到銀行卡
 zhuǎn zhì bàn suí děng jià	轉置伴隨等價
 zhuǎn zhì bàn suí jǔ zhèn	轉置伴隨矩陣
 zhuān zhì gè zhǒng bù fú	專治各種不服
-zhuān zhì gè zhǒng bù fú	專制各種不服
 zhuǎn zhì jī fēn fāng chéng	轉置積分方程
 zhuàn zhǐ shù bú zhuàn qián	賺指數不賺錢
 zhuān zhì yí nán zá zhèng	專治疑難雜症
@@ -148522,7 +148338,7 @@ běn sài jì shǒu cì jiāo fēng	本賽季首次交鋒
 běn sè niú pí bāo zhuāng zhǐ	本色牛皮包裝紙
 běn shēng luó èr shì dìng lǜ	本生羅二氏定律
 běn shěng xíng zhèng qū yù nèi	本省行政區域內
-běn shī shì jiā mù ní fó	本師釋迦牟尼佛
+běn shī shì jiā móu ní fó	本師釋迦牟尼佛
 běn shì xíng zhèng qū yù nèi	本市行政區域內
 běn sī qióng sī dàn bái niào	本斯瓊斯蛋白尿
 běn tú gòng sà ěr wéi sī	本圖貢薩爾維斯
@@ -148552,7 +148368,7 @@ bǐ cǐ zhī jiān de gǎn qíng	彼此之間的感情
 bǐ cǐ zhī jiān de guān xì	彼此之間的關係
 bǐ cǐ zhī jiān de jù lí	彼此之間的距離
 bǐ cǐ zhī jiān de xìn rèn	彼此之間的信任
-bǐ dǐ míng zhū wú chǔ mài	筆底明珠無處賣
+bǐ dǐ míng zhū wú chù mài	筆底明珠無處賣
 bǐ dìng jī ǒu dàn nài fēn	吡啶基偶氮萘酚
 bì dòng mài xuè shuān xíng chéng	臂動脈血栓形成
 bǐ ěr gé gé ěr cí xíng	比爾格格爾茨型
@@ -149060,7 +148876,7 @@ bǔ chōng hé tì dài yī xué	補充和替代醫學
 bǔ chōng yōu zhì dàn bái zhì	補充優質蛋白質
 bǔ chōng zú gòu de shuǐ fèn	補充足夠的水分
 bǔ chōng zú gòu de yíng yǎng	補充足夠的營養
-bù chóu wú chǔ xià jīn gōu	不愁無處下金鉤
+bù chóu wú chù xià jīn gōu	不愁無處下金鉤
 bù chún xìng xīn fáng pū dòng	不純性心房撲動
 bù cí léi bìng wò cán yáng	不辭羸病臥殘陽
 bù cí tiáo dì guò guān shān	不辭迢遞過關山
@@ -150106,7 +149922,6 @@ cháng jiǎo xiǎo kuān jiǎo shuǐ zǎo	長角小寬角水蚤
 cháng jīn hú zhī shuǐ mén qiáo	長津湖之水門橋
 cháng jū lù shàng jìng jì chǎng	長居陸上競技場
 chǎng jūn sān fēn mìng zhòng lǜ	場均三分命中率
-cháng kǎi shēn wù yì shì jiàn	常凱申誤譯事件
 cháng kǎo dé kǎo dé cái jī	長考德考德材積
 cháng liàn ní lóng chǎn yè liàn	長鏈尼龍產業鏈
 cháng liàn zhī xiān shuǐ jiě méi	長鏈脂酰水解酶
@@ -151090,7 +150905,7 @@ chūn jiāng huā yuè yè èr shǒu	春江花月夜二首
 chūn jié huáng jīn zhōu qī jiān	春節黃金週期間
 chūn jié sī jī fú wù fèi	春節司機服務費
 chūn jiǔ xiāng shú lú yú měi	春酒香熟鱸魚美
-chūn lái wú chǔ bù huā xiāng	春來無處不花香
+chūn lái wú chù bù huā xiāng	春來無處不花香
 chún liè shǒu shù jiǎn zhāng gōng	唇裂手術減張弓
 chún lín zhuàng shàng pí zēng shēng	脣鱗狀上皮增生
 chūn mǎn qián kūn fú mǎn mén	春滿乾坤福滿門
@@ -153020,7 +152835,6 @@ dūn huáng mò gāo kū bì huà	敦煌莫高窟壁畫
 dūn huáng wén wù yán jiū suǒ	敦煌文物研究所
 dūn tái dì jī wěn dìng xìng	墩臺地基穩定性
 dùn tóu xìng biǎn píng tái xiǎn	鈍頭性扁平苔蘚
-dūn wēi zhì kǒng bù shì jiàn	敦威治恐怖事件
 dùn wù rù dào yào mén lùn	頓悟入道要門論
 dùn zhī yǒng zhě chéng míng lù	盾之勇者成名錄
 duō bā àn dān jiā yǎng méi	多巴胺單加氧酶
@@ -154584,7 +154398,6 @@ fù xīng tài gāo sù gōng lù	阜興泰高速公路
 fú xíng xìng huí zhuàng hóng bān	匐形性回狀紅斑
 fú xíng xìng huí zhuàng hóng bān	匐行性回狀紅斑
 fū xù diào sū qǐ chuāng xià	夫婿調酥綺窗下
-fù yáng dú nǎi fěn shì jiàn	阜陽毒奶粉事件
 fù yáng kè yùn zhōng xīn zhàn	富陽客運中心站
 fū yáng mài jǐn wéi shāng pí	趺陽脈緊爲傷脾
 fǔ yǎng suí rén yì kě lián	俯仰隨人亦可憐
@@ -154728,7 +154541,6 @@ gàn huá shí bā wáng gōng miào	幹華十八王公廟
 gǎn huī wú qiú lì yǔn shí	橄輝無球粒隕石
 gān jiāng gān cǎo yú rén cān	乾薑甘草與人參
 gǎn jiāo fǔ zhī qì yán xī	感交甫之棄言兮
-gǎn jiào rì yuè huàn xīn tiān	敢叫日月換新天
 gǎn jǐn xíng dòng qǐ lái ba	趕緊行動起來吧
 gǎn jǐn zhǎo gè nán péng you	趕緊找個男朋友
 gān jìng lì luo de duǎn fà	乾淨利落的短髮
@@ -154938,7 +154750,6 @@ gāo fēn zǐ fáng shuǐ juǎn cái	高分子防水卷材
 gāo fēn zǐ shù zhī bēng dài	高分子樹脂繃帶
 gāo fù jiā zhí de chǎn pǐn	高附加值的產品
 gāo gǎng kē jì chuàng yè yuán	高港科技創業園
-gāo gǎng ráo shù shí shì jiàn	高崗饒漱石事件
 gāo gāo zài shàng de gǎn jué	高高在上的感覺
 gāo gāo zài shàng de nǚ shén	高高在上的女神
 gāo gāo zài shàng de zī tài	高高在上的姿態
@@ -155730,7 +155541,7 @@ gōng xìn bù zōng hé yóu hào	工信部綜合油耗
 gōng xíng tǐ kàng tǐ cè dìng	弓形體抗體測定
 gōng xūn guó jiā hé chàng tuán	功勳國家合唱團
 gōng yǎng qīn shǔ fǔ xù jīn	供養親屬撫卹金
-gōng yǎng shì jiā mù ní fó	供養釋迦牟尼佛
+gōng yǎng shì jiā móu ní fó	供養釋迦牟尼佛
 gōng yè gāo zhì liàng fā zhǎn	工業高質量發展
 gōng yè gù tǐ fèi qì wù	工業固體廢棄物
 gōng yè huà hé chéng shì huà	工業化和城市化
@@ -155789,7 +155600,6 @@ gōng zhě nán chéng ér yì bài	功者難成而易敗
 gōng zhě tè yì xìng shū xuè	供者特異性輸血
 gōng zhòng huò wù qǐ xiè qū	公眾貨物起卸區
 gōng zhòng kāi fàng rì huó dòng	公眾開放日活動
-gōng zhōng mǒu zhòng dà shì jiàn	宮中某重大事件
 gōng zhǔ hòu bǔ shēng yòu xī	公主候補生佑希
 gōng zhuāng guī fàn zuò tán huì	工裝規範座談會
 gōng zǐ jīn diāo jiǔ lì qīng	公子金貂酒力輕
@@ -156557,7 +156367,6 @@ hòu zhòng yì zhǒng chóng xiōng jiǎ	厚重異種蟲胸甲
 hú bèi tú sī bǎo tiáo yuē	胡貝圖斯堡條約
 hū cháng bìng dú kē gǎn rǎn	呼腸病毒科感染
 hú jīng nèi pú táng gān méi	糊精內葡糖苷酶
-hú kǒu zhuāng jiǎ bīng shì jiàn	湖口裝甲兵事件
 hú li liè nà de gù shi	狐狸列那的故事
 hù lǐ yá shuā hǎi mián bàng	護理牙刷海棉棒
 hù lián wǎng shǐ yòng chéng yǐn	互聯網使用成癮
@@ -157982,8 +157791,6 @@ mài luò cóng hòu wài cè zhī	脈絡叢後外側支
 mǎi mài bù chéng rén yì zài	買賣不成仁義在
 mài shì jiāo tì dān bāo jūn	麥氏交替單胞菌
 mài shù xū zhě wéi fèi wěi	脈數虛者爲肺痿
-mǎn chéng jìn dài huáng jīn jiǎ	滿城盡戴黃金甲
-mǎn chéng jìn dài huáng jīn jiǎ	滿城盡帶黃金甲
 màn huà zhǔn zé guǎn lǐ jú	漫畫準則管理局
 màn qí kè ěr tè zhàn yì	曼齊刻爾特戰役
 máng sāi ěr yán sè lì tǐ	芒塞爾顏色立體
@@ -158453,7 +158260,6 @@ qǐ néng tàn qí lǐ zhì zāi	豈能探其理致哉
 qì piān shuāi zhě zé mài wēi	氣偏衰者則脈微
 qī qī kàng zhàn jì niàn rì	七七抗戰紀念日
 qī qī lú gōu qiáo shì biàn	七七盧溝橋事變
-qī qī lú gōu qiáo shì jiàn	七七盧溝橋事件
 qí rén jí xíng zé chuǎn hē	其人疾行則喘喝
 qí rén sè sè wù hán yě	其人嗇嗇惡寒也
 qí rén zhèn zhèn shēn rún jù	其人振振身瞤劇
@@ -159239,6 +159045,7 @@ shā shǔ jì yì wài zhòng dú	殺鼠劑意外中毒
 shā tǎ ěr jīng liàn bì jiǎ	沙塔爾精煉臂甲
 shā tè zhū bài lè liàn chǎng	沙特朱拜勒煉廠
 shān dēng jué dǐng wǒ wéi fēng	山登絕頂我爲峯
+shān diān yí sì yì hú jiǔ	山巔一寺一壺酒
 shàn huà sì dà xióng bǎo diàn	善化寺大雄寶殿
 shān nán xī dào jié dù shǐ	山南西道節度使
 shàn shí tàn shuǐ huà hé wù	膳食碳水化合物

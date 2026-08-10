@@ -9,6 +9,7 @@ name: lianxiang
 version: "LTS"
 sort: by_weight
 ...
+能	néng;sb
 阿巴科群島	ā;ek bā;sl kē;hd qún;yy dǎo;nu	10
 阿貝比長儀	ā;ek bèi;ob bǐ;bb cháng;ey yí;rw	10
 阿貝不變量	ā;ek bèi;ob bú;ab biàn;xw liàng;ol	10
@@ -81,8 +82,8 @@ sort: by_weight
 阿洛巴比妥	ā;ek luò;dk bā;sl bǐ;bb tuǒ;vn	10
 阿羅氏瞳孔	ā;ek luó;sv shì;pv tóng;ol kǒng;zv	10
 阿洛西林鈉	ā;ek luò;dk xī;ak,wk lín;aa nà;jn	10
-阿馬加定律	ā;ek mǎ;mh gā;lk dìng;bz lǜ;ry	10
 阿馬格定律	ā;ek mǎ;mh gé;ak dìng;bz lǜ;ry	10
+阿馬加定律	ā;ek mǎ;mh jiā;lk dìng;bz lǜ;ry	10
 阿米巴痢疾	ā;ek mǐ;ba bā;sl lì;bd jí;bu	10
 阿米念主義	ā;ek mǐ;ba niàn;rx zhǔ;wt yì;yw	10
 阿民念主義	ā;ek mín;vv niàn;rx zhǔ;wt yì;yw	10
@@ -385,7 +386,7 @@ sort: by_weight
 愛問知識人	ài;vw wèn;mk zhī;uk shí;yo rén;pn	10
 愛我的男人	ài;vw wǒ;ga de;bu nán;tl rén;pn	10
 愛我的世界	ài;vw wǒ;ga de;bu shì;cv jiè;tj	10
-愛無處不在	ài;vw wú;ph chǔ;hj bú;ab zài;ut	10
+愛無處不在	ài;vw wú;ph chù;hj bú;ab zài;ut	10
 愛熄滅了燈	ài;vw xī;hx miè;dh le;al dēng;hb	10
 愛像太平洋	ài;vw xiàng;ru tài;dd píng;au yáng;dy	10
 愛像一把火	ài;vw xiàng;ru yì;aa bǎ;fb huǒ;br	10
@@ -442,7 +443,6 @@ sort: by_weight
 艾莊粉刺消	ài;cx zhuāng;ct fěn;mf cì;ud xiāo;do	10
 艾莊頭癢靈	ài;cx zhuāng;ct tóu;dy yǎng;bg líng;yr	10
 矮紫苞鳶尾	ǎi;un zǐ;vx bāo;cb yuān;gn wěi;um	10
-愛滋病抗體	ài;vw zī;dy bìng;bn kàng;fj tǐ;gb	10
 艾滋病抗體	ài;cx zī;dy bìng;bn kàng;fj tǐ;gb	10
 愛子方程式	ài;vw zǐ;la fāng;wv chéng;hw shì;gg	10
 矮子古茲曼	ǎi;un zi;la gǔ;uk zī;cy màn;oy	10
@@ -537,13 +537,11 @@ sort: by_weight
 案件受理費	àn;ba jiàn;rn shòu;vy lǐ;wl fèi;fb	10
 暗劍無人機	àn;oo jiàn;rd wú;ph rén;pn jī;ar	10
 安靜的愛着	ān;bn jìng;fy de;bu ài;vw zhe;yo	10
-安靜的等待	ān;bn jìng;fy de;bu děng;vc dài;rc	10
 安靜地等待	ān;bn jìng;fy de;ty děng;vc dài;rc	10
 安靜的氛圍	ān;bn jìng;fy de;bu fēn;qf wéi;wf	10
 安靜的教室	ān;bn jìng;fy de;bu jiào;lw shì;bt	10
 安靜地看着	ān;bn jìng;fy de;ty kàn;uo zhe;yo	10
 安靜得可怕	ān;bn jìng;fy de;rc kě;dk pà;xb	10
-安靜的離開	ān;bn jìng;fy de;bu lí;wv kāi;mk	10
 安靜地離開	ān;bn jìng;fy de;ty lí;wv kāi;mk	10
 安靜的生活	ān;bn jìng;fy de;bu shēng;pf huó;du	10
 安靜地生活	ān;bn jìng;fy de;ty shēng;pf huó;du	10
@@ -2455,7 +2453,6 @@ sort: by_weight
 暴雨來臨前	bào;ou yǔ;ad lái;ur lín;ik qián;bd	10
 保育類動物	bǎo;ra yù;wo lèi;my dòng;vl wù;nw	10
 暴雨梨花針	bào;ou yǔ;ad lí;ha huā;cb zhēn;ju	10
-鮑毓明事件	bào;yb yù;pi míng;oo shì;gy jiàn;rn	10
 保育生物學	bǎo;ra yù;wo shēng;pf wù;nw xué;jz	10
 鮑魚刷炒飯	bào;yb yú;dh shuā;ud chǎo;hu fàn;uy	10
 保育與教育	bǎo;ra yù;wo yǔ;jb jiào;lw yù;wo	10
@@ -2623,7 +2620,6 @@ sort: by_weight
 北頂娘娘廟	běi;lb dǐng;dy niáng;nl niáng;nl miào;go	10
 被釘十字架	bèi;pp dīng;jd shí;al zì;bz jià;la	10
 被動變主動	bèi;pp dòng;vl biàn;xw zhǔ;wt dòng;vl	10
-被動的接受	bèi;pp dòng;vl de;bu jiē;fn shòu;vy	10
 被動地接受	bèi;pp dòng;vl de;ty jiē;fn shòu;vy	10
 被動的傷害	bèi;pp dòng;vl de;bu shāng;rw hài;bk	10
 被動過手腳	bèi;pp dòng;vl guò;zk shǒu;pf jiǎo;oe	10
@@ -2943,7 +2939,6 @@ sort: by_weight
 被路人拍到	bèi;pp lù;zk rén;pn pāi;fb dào;gd	10
 被亂箭射死	bèi;pp luàn;vv jiàn;vd shè;uc sǐ;db	10
 被罵得很慘	bèi;pp mà;sm de;rc hěn;rg cǎn;xp	10
-被罵的最慘	bèi;pp mà;sm de;bu zuì;oy cǎn;xp	10
 被罵得最慘	bèi;pp mà;sm de;rc zuì;oy cǎn;xp	10
 北馬裏亞納	běi;lb mǎ;mh lǐ;yl yà;aa nà;sn	10
 被帽穿甲彈	bèi;pp mào;jo chuān;by jiǎ;ol,tl dàn;gu	10
@@ -5874,7 +5869,6 @@ sort: by_weight
 不作不會死	bù;ab zuò;rv bú;ab huì;ro sǐ;db	10
 不做的事情	bú;ab zuò;rw de;bu shì;gy qíng;xo	10
 不作惡原則	bú;ab zuò;rv è;yx yuán;ix zé;bd	10
-不做惡原則	bú;ab zuò;rw è;yx yuán;ix zé;bd	10
 不作虧心事	bú;ab zuò;rv kuī;hk xīn;dd shì;gy	10
 不做虧心事	bú;ab zuò;rw kuī;hk xīn;dd shì;gy	10
 不做生意了	bú;ab zuò;rw shēng;pf yì;lx le;al	10
@@ -6119,7 +6113,6 @@ sort: by_weight
 殘破的羽翼	cán;dg pò;up de;bu yǔ;xx yì;xg	10
 殘忍的對待	cán;dg rěn;dx de;bu duì;yc dài;rc	10
 殘忍的拒絕	cán;dg rěn;dx de;bu jù;fj jué;sb	10
-殘忍的殺害	cán;dg rěn;dx de;bu shā;xu hài;bk	10
 殘忍地殺害	cán;dg rěn;dx de;ty shā;xu hài;bk	10
 殘忍的手段	cán;dg rěn;dx de;bu shǒu;pf duàn;pu	10
 殘忍的現實	cán;dg rěn;dx de;bu xiàn;wj shí;bb	10
@@ -7657,7 +7650,6 @@ sort: by_weight
 臣不得不死	chén;kl bù;ab dé;rc bù;ab sǐ;db	10
 陳昌浩舊居	chén;ed chāng;oo hào;dk jiù;cj jū;ug	10
 陳丞相世家	chén;ed chéng;la xiàng;ao shì;cv jiā;bu	10
-陳春秀事件	chén;ed chūn;io xiù;hn shì;gy jiàn;rn	10
 陳慈黌故居	chén;ed cí;bx hóng;jb gù;gw jū;ug	10
 陳大天小蝦	chén;ed dà;ar tiān;ad xiǎo;lb xiā;iy	10
 陳道明老師	chén;ed dào;zz míng;oo lǎo;lb shī;pj	10
@@ -7674,7 +7666,6 @@ sort: by_weight
 塵封的歷史	chén;gt fēng;tc de;bu lì;iv shǐ;kn	10
 塵封的往事	chén;gt fēng;tc de;bu wǎng;rv shì;gy	10
 陳冠希老師	chén;ed guàn;bc xī;xj lǎo;lb shī;pj	10
-陳冠希事件	chén;ed guàn;bc xī;xj shì;gy jiàn;rn	10
 陳赫的前妻	chén;ed hè;ii de;bu qián;bd qī;un	10
 陳赫和許婧	chén;ed hè;ii hé;hk xǔ;yw jìng;no	10
 陳赫張子萱	chén;ed hè;ii zhāng;gi zǐ;la xuān;cd	10
@@ -7700,7 +7691,6 @@ sort: by_weight
 沉浸式戲劇	chén;dj jìn;dy shì;gg xì;hg jù;hd	10
 陳靖姑信俗	chén;ed jìng;lo gū;ng xìn;rk sú;rg	10
 陳炯明事變	chén;ed jiǒng;hk míng;oo shì;gy biàn;xw	10
-陳炯明事件	chén;ed jiǒng;hk míng;oo shì;gy jiàn;rn	10
 陳舊的觀念	chén;ed jiù;cj de;bu guān;cj niàn;rx	10
 陳舊性結核	chén;ed jiù;cj xìng;xu jié;sk hé;ar	10
 陳可辛監製	chén;ed kě;dk xīn;lu jiān;im zhì;ny	10
@@ -7709,7 +7699,6 @@ sort: by_weight
 陳廉伯公館	chén;ed lián;gj bó;rb gōng;bs guǎn;ul	10
 晨練的老人	chén;oi liàn;sj de;bu lǎo;lb rén;pn	10
 晨練的人們	chén;oi liàn;sj de;bu rén;pn men;rm	10
-陳良宇事件	chén;ed liáng;dg yǔ;by shì;gy jiàn;rn	10
 陳留王劉協	chén;ed liú;pt wáng;at liú;pd xié;ul	10
 沉悶的空氣	chén;dj mèn;mx de;bu kōng;bg qì;qm	10
 陳夢吉傳奇	chén;ed mèng;cx jí;tk chuán;rc qí;dk	10
@@ -7830,7 +7819,6 @@ sort: by_weight
 陳毅在上海	chén;ed yì;lu zài;ut shàng;ba hǎi;dm	10
 晨穎麼麼噠	chén;oi yǐng;bh me;gy me;gy dā;ky	10
 陳英雄電影	chén;ed yīng;cy xióng;uv diàn;yd yǐng;op	10
-陳永洲事件	chén;ed yǒng;du zhōu;dv shì;gy jiàn;rn	10
 陳元光祖祠	chén;ed yuán;aw guāng;xe zǔ;pq cí;pk	10
 陳月月鳥宇	chén;ed yuè;ke yuè;ke niǎo;nh yǔ;by	10
 陳雲紀念館	chén;ed yún;yy jì;sj niàn;rx guǎn;ul	10
@@ -8241,7 +8229,6 @@ sort: by_weight
 翅膀非起來	chì;vx bǎng;of fēi;ls qǐ;tj lái;ur	10
 吃飽喝足後	chī;kv bǎo;ub hē;kr zú;kz hòu;rw	10
 吃飽了撐的	chī;kv bǎo;ub le;al chēng;fy de;bu	10
-吃飽了撐得	chī;kv bǎo;ub le;al chēng;fy de;rc	10
 持保留態度	chí;fc bǎo;ra liú;pt tài;sx dù;gy	10
 吃包子事件	chī;kv bāo;bs zi;la shì;gy jiàn;rn	10
 赤壁之戰後	chì;tb bì;ut zhī;dn zhàn;xg hòu;rw	10
@@ -10712,6 +10699,7 @@ sort: by_weight
 大科摩羅島	dà;ar kē;hd mó;gu luó;sv dǎo;nu	10
 大克佩爾島	dà;ar kè;ux,ge pèi;rj ěr;ab dǎo;nu	10
 大口大口地	dà;ar kǒu;la dà;ar kǒu;la de;ty	10
+大口大口嚼	dà;ar kǒu;la dà;ar kǒu;la jué;kc	10
 大口徑步槍	dà;ar kǒu;la jìng;rg bù;vu qiāng;ak	10
 大口徑機槍	dà;ar kǒu;la jìng;rg jī;ar qiāng;ak	10
 大哭和大笑	dà;ar kū;xq hé;hk dà;ar xiào;vy	10
@@ -11257,6 +11245,7 @@ sort: by_weight
 代數組合學	dài;rg shù;uw zǔ;sq hé;rk xué;jz	10
 代特莫爾德	dài;rg tè;nc mò;cd ěr;ab dé;rx	10
 代替考試罪	dài;rg tì;fo kǎo;lk shì;yg zuì;sf	10
+代天主位者	dài;rg tiān;ad zhǔ;wt wèi;rl zhě;lo	10
 帶通濾波器	dài;cj tōng;zy lǜ;dx bō;dp qì;xx	10
 代托納比奇	dài;rg tuō;fq nà;sn bǐ;bb qí;dk	10
 代王城遺址	dài;rg wáng;at chéng;ti yí;zb zhǐ;tv	10
@@ -11380,14 +11369,12 @@ sort: by_weight
 淡淡的花香	dàn;dh dàn;dh de;bu huā;cb xiāng;ho	10
 淡淡地看着	dàn;dh dàn;dh de;ty kàn;uo zhe;yo	10
 淡淡的清香	dàn;dh dàn;dh de;bu qīng;do xiāng;ho	10
-淡淡的說道	dàn;dh dàn;dh de;bu shuō;yx dào;zz	10
 淡淡地說道	dàn;dh dàn;dh de;ty shuō;yx dào;zz	10
 淡淡的香氣	dàn;dh dàn;dh de;bu xiāng;ho qì;qm	10
 淡淡的笑意	dàn;dh dàn;dh de;bu xiào;vy yì;lx	10
 淡淡的馨香	dàn;dh dàn;dh de;bu xīn;to xiāng;ho	10
 淡淡的幽香	dàn;dh dàn;dh de;bu yōu;uy xiāng;ho	10
 淡淡的優雅	dàn;dh dàn;dh de;bu yōu;rw yǎ;yv	10
-淡淡地優雅	dàn;dh dàn;dh de;ty yōu;rw yǎ;yv	10
 淡淡倆生花	dàn;dh dàn;dh liǎ;rr shēng;pf huā;cb	10
 淡淡抹茶香	dàn;dh dàn;dh mǒ;fw chá;cm xiāng;ho	10
 擔當的精神	dān;fk dāng;xt de;bu jīng;mo shén;pu	10
@@ -12001,7 +11988,7 @@ sort: by_weight
 到九十年代	dào;gd jiǔ;pv shí;al nián;pf dài;rg	10
 到抗日戰爭	dào;gd kàng;fj rì;wa zhàn;xg zhēng;vy	10
 島尻安伊子	dǎo;nu kāo;uj ān;bn yī;ry zǐ;la	10
-到可克達拉	dào;gd kě;dk kě;ux,ge dá;zy lā;fl	10
+到可克達拉	dào;gd kě;dk kè;ux,ge dá;zy lā;fl	10
 到克拉瑪依	dào;gd kè;ux,ge lā;fl mǎ;wm yī;ry	10
 到可以考慮	dào;gd kě;dk yǐ;lr kǎo;lk lǜ;hx	10
 稻殼閱讀器	dào;hj ké;tu yuè;mx dú;yb qì;xx	10
@@ -12635,7 +12622,6 @@ sort: by_weight
 等有時間的	děng;vc yǒu;uo shí;oc jiān;mo de;bu	10
 等魚的咕嚕	děng;vc yú;dh de;bu gū;kg lū;ko	10
 等於或大於	děng;vc yú;fd huò;ga dà;ar yú;fd	10
-鄧玉嬌事件	dèng;be yù;wd jiāo;nk shì;gy jiàn;rn	10
 登玉堂阿膠	dēng;bb yù;wd táng;xt ē;ek jiāo;op	10
 瞪着大眼睛	dèng;ob zhe;yo dà;ar yǎn;og jing;oo	10
 蹬着自行車	dēng;zb zhe;yo zì;po xíng;rd chē;iu	10
@@ -13339,7 +13325,6 @@ sort: by_weight
 地心歷險記	dì;ty xīn;dd lì;iv xiǎn;er jì;yj	10
 地心搶險記	dì;ty xīn;dd qiǎng;fk xiǎn;er jì;yj	10
 地心探險記	dì;ty xīn;dd tàn;fa xiǎn;er jì;yj	10
-翟欣欣事件	dí;xv xīn;iq xīn;iq shì;gy jiàn;rn	10
 地心坐標時	dì;ty xīn;dd zuò;tr biāo;au shí;oc	10
 地心坐標系	dì;ty xīn;dd zuò;tr biāo;au xì;px	10
 地形和地貌	dì;ty xíng;kp hé;hk dì;ty mào;ve	10
@@ -14254,7 +14239,6 @@ sort: by_weight
 頂尖的設計	dǐng;dy jiān;xd de;bu shè;yu jì;yu	10
 丁堅地瀑布	dīng;al jiān;it dì;ty pù;du bù;uj	10
 頂角探測器	dǐng;dy jiǎo;dy tàn;fa cè;dd qì;xx	10
-丁錦昊事件	dīng;al jǐn;jj hào;ot shì;gy jiàn;rn	10
 定金和訂金	dìng;bz jīn;rb hé;hk dìng;yd jīn;rb	10
 定靜安慮得	dìng;bz jìng;fy ān;bn lǜ;hx dé;rc	10
 定軍山之戰	dìng;bz jūn;bi shān;kl zhī;dn zhàn;xg	10
@@ -14424,7 +14408,6 @@ sort: by_weight
 氡的同位素	dōng;qd de;bu tóng;kk wèi;rl sù;fx	10
 凍得直哆嗦	dòng;dd de;rc zhí;uq duō;kx suo;kx	10
 懂的自然懂	dǒng;xv de;bu zì;po rán;xh dǒng;xv	10
-懂得自然懂	dǒng;xv de;rc zì;po rán;xh dǒng;xv	10
 冬地三黃湯	dōng;wd dì;ty sān;ae huáng;cb tāng;dw	10
 動電學效應	dòng;vl diàn;yd xué;jz xiào;ww yìng;gx	10
 凍頂烏龍茶	dòng;dd dǐng;dy wū;wh lóng;lv chá;cm	10
@@ -15667,7 +15650,6 @@ sort: by_weight
 哆嗒數學網	duō;kx dā;kk shù;uw xué;jz wǎng;sw	10
 掇刀石中學	duō;fy dāo;vp shí;ak zhōng;kl xué;jz	10
 多導睡眠圖	duō;xx dǎo;zc shuì;ot mián;om tú;wk	10
-多的不得了	duō;xx de;bu bù;ab dé;rc liǎo;al	10
 多得不得了	duō;xx de;rc bù;ab dé;rc liǎo;al	10
 躲得了一時	duǒ;ua de;rc liǎo;al yì;aa shí;oc	10
 奪得三冠王	duó;dc dé;rc sān;ae guàn;bc wáng;at	10
@@ -16852,8 +16834,8 @@ sort: by_weight
 發射接收機	fā;bu shè;uc jiē;fn shōu;jw jī;ar	10
 發射者一號	fā;bu shè;uc zhě;lo yī;aa hào;kj	10
 發生的幾率	fā;bu shēng;pf de;bu jī;gr lǜ;wu	10
-發生的事件	fā;bu shēng;pf de;bu shì;gy jiàn;rn	10
 發生的時間	fā;bu shēng;pf de;bu shí;oc jiān;mo	10
+發生的事件	fā;bu shēng;pf de;bu shì;gy jiàn;rn	10
 發生關係後	fā;bu shēng;pf guān;mj xì;rx hòu;rw	10
 發生過的事	fā;bu shēng;pf guò;zk de;bu shì;gy	10
 發生過似的	fā;bu shēng;pf guò;zk shì;rr de;bu	10
@@ -16924,7 +16906,6 @@ sort: by_weight
 法院審理後	fǎ;dq yuàn;ey shěn;bt lǐ;wl hòu;rw	10
 法院在審理	fǎ;dq yuàn;ey zài;ut shěn;bt lǐ;wl	10
 發展到極致	fā;bu zhǎn;uy dào;gd jí;aa zhì;gw	10
-發展的更好	fā;bu zhǎn;uy de;bu gèng;an hǎo;nz	10
 發展得更好	fā;bu zhǎn;uy de;rc gèng;an hǎo;nz	10
 發展得很快	fā;bu zhǎn;uy de;rc hěn;rg kuài;xg	10
 發展的機遇	fā;bu zhǎn;uy de;bu jī;ar yù;zd	10
@@ -16983,7 +16964,6 @@ sort: by_weight
 反被聰明誤	fǎn;iy bèi;pp cōng;ex míng;oo wù;yt	10
 反被動語態	fǎn;iy bèi;pp dòng;vl yǔ;yk tài;sx	10
 反變射函子	fǎn;iy biàn;xw shè;uc hán;ku zi;la	10
-范冰冰事件	fàn;cv bīng;du bīng;du shì;gy jiàn;rn	10
 翻不過身來	fān;mx bú;ab guò;zk shēn;zc lái;ur	10
 翻不了身的	fān;mx bù;ab liǎo;al shēn;zc de;bu	10
 翻不了身了	fān;mx bù;ab liǎo;al shēn;zc le;al	10
@@ -17234,7 +17214,6 @@ sort: by_weight
 翻拍電視劇	fān;mx pāi;fb diàn;yd shì;pj jù;hd	10
 反排木鼓舞	fǎn;iy pái;ff mù;ur gǔ;tv wǔ;pf	10
 翻盤的希望	fān;mx pán;vm de;bu xī;xj wàng;ww	10
-范跑跑事件	fàn;cv pǎo;zb pǎo;zb shì;gy jiàn;rn	10
 反平方定律	fǎn;iy píng;au fāng;wv dìng;bz lǜ;ry	10
 反平行摺疊	fǎn;iy píng;au xíng;rd zhé;fb dié;tq	10
 反器材步槍	fǎn;iy qì;xx cái;ac bù;vu qiāng;ak	10
@@ -20560,7 +20539,6 @@ sort: by_weight
 幹得不錯啊	gàn;ug de;rc bú;ab cuò;jo a;kk	10
 幹得不錯嗎	gàn;ug dé;rc bú;ab cuò;jo ma;km	10
 幹得不好啊	gàn;ug dé;rc bù;ab hǎo;nz a;kk	10
-甘德懷事件	gān;ca dé;rx huái;xx shì;gy jiàn;rn	10
 幹的那些事	gàn;ug de;bu nà;ve xiē;ve shì;gy	1000
 幹得怎麼樣	gàn;ug de;rc zěn;vx me;gy yàng;ay	10
 幹得真棒啊	gàn;ug de;rc zhēn;ub bàng;af a;kk	10
@@ -21554,7 +21532,6 @@ sort: by_weight
 高一一班的	gāo;wk yī;aa yī;aa bān;wl de;bu	10
 高應答個體	gāo;wk yìng;gx dá;vk gè;rg tǐ;gb	10
 搞硬美國佬	gǎo;fk yìng;ug měi;yd guó;wa lǎo;rl	10
-高鶯鶯事件	gāo;wk yīng;hn yīng;hn shì;gy jiàn;rn	10
 高語境文化	gāo;wk yǔ;yk jìng;te wén;wx huà;rb	10
 高於莊灰岩	gāo;wk yú;fd zhuāng;ct huī;uh yán;uu	10
 高遠的目標	gāo;wk yuǎn;zy de;bu mù;we biāo;au	10
@@ -23798,7 +23775,6 @@ sort: by_weight
 怪盜千面人	guài;xt dào;dm qiān;pu miàn;ao rén;pn	10
 怪盜聖少女	guài;xt dào;dm shèng;ew shào;xp nǚ;va	10
 乖乖砵砵車	guāi;qb guāi;qb bō;ub bō;ub chē;iu	10
-乖乖的聽話	guāi;qb guāi;qb de;bu tīng;ex huà;yu	10
 乖乖地聽話	guāi;qb guāi;qb de;ty tīng;ex huà;yu	10
 怪怪守護神	guài;xt guài;xt shǒu;bc hù;yy shén;pu	10
 怪怪水族館	guài;xt guài;xt shuǐ;ln zú;fu guǎn;ul	10
@@ -25002,7 +24978,6 @@ sort: by_weight
 郭麥二氏法	guō;we mài;lw èr;aa shì;pv fǎ;dq	10
 過沒過來啊	guò;zk méi;dy guò;zk lái;ur a;kk	10
 過沒過來呀	guò;zk méi;dy guò;zk lái;ur ya;ky	10
-郭美美事件	guō;we měi;yd měi;yd shì;gy jiàn;rn	10
 國棉十七廠	guó;wa mián;aj shí;al qī;av chǎng;gw	10
 國民保健署	guó;wa mín;vv bǎo;ra jiàn;ry shǔ;so	10
 國民黨北伐	guó;wa mín;vv dǎng;xh běi;lb fá;rg	10
@@ -25080,8 +25055,8 @@ sort: by_weight
 國慶七天樂	guó;wa qìng;gw qī;av tiān;ad lè;ya	10
 國情研究會	guó;wa qíng;xo yán;uk jiū;bj huì;ro	10
 過去的回憶	guò;zk qù;ts de;bu huí;wk yì;xx	10
-過去的事件	guò;zk qù;ts de;bu shì;gy jiàn;rn	10
 過去的時間	guò;zk qù;ts de;bu shí;oc jiān;mo	10
+過去的事件	guò;zk qù;ts de;bu shì;gy jiàn;rn	10
 過去的四年	guò;zk qù;ts de;bu sì;we nián;pf	10
 過去和將來	guò;zk qù;ts hé;hk jiāng;pc lái;ur	10
 過去和未來	guò;zk qù;ts hé;hk wèi;aa,er lái;ur	10
@@ -25890,11 +25865,9 @@ sort: by_weight
 好漢值當年	hǎo;nz hàn;dt zhí;rq dàng;xt nián;pf	10
 浩浩蕩蕩的	hào;dk hào;dk dàng;cw dàng;cw de;bu	10
 好好的把握	hǎo;nz hǎo;nz de;bu bǎ;fb wò;ft	10
-好好的活着	hǎo;nz hǎo;nz de;bu huó;du zhe;yo	10
 好好地活着	hǎo;nz hǎo;nz de;ty huó;du zhe;yo	10
 好好的生活	hǎo;nz hǎo;nz de;bu shēng;pf huó;du	10
 好好地生活	hǎo;nz hǎo;nz de;ty shēng;pf huó;du	10
-好好的珍惜	hǎo;nz hǎo;nz de;bu zhēn;wp xī;xo	10
 好好地珍惜	hǎo;nz hǎo;nz de;ty zhēn;wp xī;xo	10
 好好對待她	hǎo;nz hǎo;nz duì;yc dài;rc tā;ny	10
 好好享受你	hǎo;nz hǎo;nz xiǎng;wz shòu;vy nǐ;rx	10
@@ -27281,7 +27254,6 @@ sort: by_weight
 紅青黴毒素	hóng;sg qīng;fo méi;rh dú;fm sù;fx	10
 紅蜻蜓鞋業	hóng;sg qīng;io tíng;iw xié;ct yè;yw	10
 洪拳與詠春	hóng;dg quán;ju yǔ;jb yǒng;yy chūn;io	10
-洪任輝事件	hóng;dg rèn;rw huī;gi shì;gy jiàn;rn	10
 宏仁萬壽宮	hóng;bs rén;re wàn;cd shòu;tc gōng;bk	10
 紅人張智超	hóng;sg rén;pn zhāng;gi zhì;uo chāo;tk	10
 紅潤的嘴唇	hóng;sg rùn;dw de;bu zuǐ;ky chún;ik	10
@@ -27340,7 +27312,6 @@ sort: by_weight
 洪水莊頁岩	hóng;dg shuǐ;ln zhuāng;ct yè;ab yán;uu	10
 洪順曲藝社	hóng;dg shùn;iy qǔ;wc,ck yì;cy shè;pt	10
 紅四方面軍	hóng;sg sì;we fāng;wv miàn;ao jūn;bi	10
-洪素珠事件	hóng;dg sù;fx zhū;ww shì;gy jiàn;rn	10
 紅塔大酒店	hóng;sg tǎ;tk dà;ar jiǔ;dy diàn;gv	10
 紅糖薑棗湯	hóng;sg táng;mk jiāng;cj zǎo;uu tāng;dw	10
 洪塘中路站	hóng;dg táng;tk zhōng;kl lù;zk zhàn;lv	10
@@ -27423,7 +27394,6 @@ sort: by_weight
 轟炸東京記	hōng;ii zhà;hv dōng;ir jīng;wx jì;yj	10
 轟炸機聯隊	hōng;ii zhà;hv jī;ar lián;ej duì;eu	10
 紅腫的眼睛	hóng;sg zhǒng;ov de;bu yǎn;og jing;oo	10
-洪仲丘事件	hóng;dg zhòng;rv qiū;ia shì;gy jiàn;rn	10
 洪州窯遺址	hóng;dg zhōu;dl yáo;bh yí;zb zhǐ;tv	10
 紅柱角頁岩	hóng;sg zhù;av jiǎo;dy yè;ab yán;uu	10
 哄自己開心	hǒng;kg zì;po jǐ;kv kāi;mk xīn;dd	10
@@ -28968,7 +28938,6 @@ sort: by_weight
 皇冠威爾法	huáng;bw guān;bc wēi;gn ěr;ab fǎ;dq	10
 黃光裕出獄	huáng;cb guāng;xe yù;pg chū;uu yù;qq	10
 黃海波復出	huáng;cb hǎi;dm bō;dp fù;rw chū;uu	10
-黃海波事件	huáng;cb hǎi;dm bō;dp shì;gy jiàn;rn	10
 黃韓侯鐵路	huáng;cb hán;uf hóu;ru tiě;jw lù;zk	10
 黃河北大街	huáng;cb hé;dk běi;lb dà;ar jiē;rt	10
 黃河的源頭	huáng;cb hé;dk de;bu yuán;dx tóu;dy	10
@@ -32525,7 +32494,6 @@ sort: by_weight
 簡簡單單的	jiǎn;vo jiǎn;vo dān;xu dān;xu de;bu	10
 賤賤的表情	jiàn;bg jiàn;bg de;bu biǎo;fy qíng;xo	10
 尖尖的耳朵	jiān;xd jiān;xd de;bu ěr;ol duo;ja	10
-漸漸的發現	jiàn;dt jiàn;dt de;bu fā;bu xiàn;wj	10
 漸漸地發現	jiàn;dt jiàn;dt de;ty fā;bu xiàn;wj	10
 賤賤的感覺	jiàn;bg jiàn;bg de;bu gǎn;gx jué;jj	10
 漸漸的明白	jiàn;dt jiàn;dt de;bu míng;oo bai;po	10
@@ -32692,7 +32660,6 @@ sort: by_weight
 間期假交替	jiān;mo qī;co jiǎ;ry jiāo;wf tì;fo	10
 兼崎健太郎	jiān;bb qí;uk jiàn;ry tài;dd láng;le	10
 建前和本音	jiàn;zy qián;bd hé;hk běn;aa yīn;lo	10
-堅強的活着	jiān;it qiáng;gi de;bu huó;du zhe;yo	10
 堅強地活着	jiān;it qiáng;gi de;ty huó;du zhe;yo	10
 堅強的信念	jiān;it qiáng;gi de;bu xìn;rk niàn;rx	10
 堅強的野花	jiān;it qiáng;gi de;bu yě;ly huā;cb	10
@@ -33347,7 +33314,6 @@ sort: by_weight
 教會的正統	jiào;lw huì;ro de;bu zhèng;av tǒng;sy	10
 教會根基歌	jiào;lw huì;ro gēn;ag jī;ct gē;kq	10
 交會和對接	jiāo;wf huì;ro hé;hk duì;yc jiē;fn	10
-焦急的等待	jiāo;rh jí;dx de;bu děng;vc dài;rc	10
 焦急地等待	jiāo;rh jí;dx de;ty děng;vc dài;rc	10
 焦急的母親	jiāo;rh jí;dx de;bu mǔ;md qīn;lj	10
 交際的能力	jiāo;wf jì;eu de;bu néng;sb lì;vp	10
@@ -34396,14 +34362,12 @@ sort: by_weight
 緊緊抱住你	jǐn;ix jǐn;ix bào;fb zhù;rv nǐ;rx	10
 緊緊抱著你	jǐn;ix jǐn;ix bào;fb zhù;co nǐ;rx	10
 緊緊抱住她	jǐn;ix jǐn;ix bào;fb zhù;rv tā;ny	10
-緊緊的抱着	jǐn;ix jǐn;ix de;bu bào;fb zhe;yo	10
 緊緊地抱着	jǐn;ix jǐn;ix de;ty bào;fb zhe;yo	10
 緊緊的抱住	jǐn;ix jǐn;ix de;bu bào;fb zhù;rv	10
 緊緊的盯着	jǐn;ix jǐn;ix de;bu dīng;od zhe;yo	10
 緊緊的握住	jǐn;ix jǐn;ix de;bu wò;ft zhù;rv	10
 緊緊的擁抱	jǐn;ix jǐn;ix de;bu yōng;fv bào;fb	10
 緊緊地擁抱	jǐn;ix jǐn;ix de;ty yōng;fv bào;fb	10
-緊緊的抓住	jǐn;ix jǐn;ix de;bu zhuā;fv zhù;rv	10
 緊緊地抓住	jǐn;ix jǐn;ix de;ty zhuā;fv zhù;rv	10
 緊緊貼着我	jǐn;ix jǐn;ix tiē;bv zhe;yo wǒ;ga	10
 緊緊抓住你	jǐn;ix jǐn;ix zhuā;fv zhù;rv nǐ;rx	10
@@ -35218,25 +35182,19 @@ sort: by_weight
 京津唐電網	jīng;wx jīn;dy táng;gk diàn;yd wǎng;sw	10
 京津塘高速	jīng;wx jīn;dy táng;tk gāo;wk sù;zu	10
 京津新城站	jīng;wx jīn;dy xīn;lt chéng;ti zhàn;lv	10
-靜靜的等待	jìng;fy jìng;fy de;bu děng;vc dài;rc	10
 靜靜地等待	jìng;fy jìng;fy de;ty děng;vc dài;rc	10
 靜靜的頓河	jìng;fy jìng;fy de;bu dùn;ty hé;dk	10
 靜靜的看你	jìng;fy jìng;fy de;bu kàn;uo nǐ;rx	10
-靜靜的聆聽	jìng;fy jìng;fy de;bu líng;es tīng;ex	10
 靜靜地聆聽	jìng;fy jìng;fy de;ty líng;es tīng;ex	10
 靜靜的陪伴	jìng;fy jìng;fy de;bu péi;ek bàn;rb	10
 靜靜的守候	jìng;fy jìng;fy de;bu shǒu;bc hòu;ru	10
-靜靜的思考	jìng;fy jìng;fy de;bu sī;tx kǎo;lk	10
 靜靜地思考	jìng;fy jìng;fy de;ty sī;tx kǎo;lk	10
-靜靜的聽着	jìng;fy jìng;fy de;bu tīng;ex zhe;yo	10
 靜靜地聽着	jìng;fy jìng;fy de;ty tīng;ex zhe;yo	10
 靜靜的望着	jìng;fy jìng;fy de;bu wàng;ww zhe;yo	10
-靜靜的欣賞	jìng;fy jìng;fy de;bu xīn;iq shǎng;xb	10
 靜靜地欣賞	jìng;fy jìng;fy de;ty xīn;iq shǎng;xb	10
 靜靜的修煉	jìng;fy jìng;fy de;bu xiū;rp liàn;hj	10
 靜靜的夜裡	jìng;fy jìng;fy de;bu yè;ww lǐ;pl	10
 靜靜的夜晚	jìng;fy jìng;fy de;bu yè;ww wǎn;oe	10
-靜靜的站在	jìng;fy jìng;fy de;bu zhàn;lv zài;ut	10
 靜靜地站在	jìng;fy jìng;fy de;ty zhàn;lv zài;ut	10
 靜靜地坐着	jìng;fy jìng;fy de;ty zuò;tr zhe;yo	10
 經警方調查	jīng;sg jǐng;ck fāng;wv diào;yk chá;ad	10
@@ -37494,7 +37452,6 @@ sort: by_weight
 抗單鏈測定	kàng;fj dān;xu liàn;ji cè;dd dìng;bz	10
 康德拉捷夫	kāng;gl dé;rx lā;fl jié;fz fū;er	10
 鈧的同位素	kàng;jj de;bu tóng;kk wèi;rl sù;fx	10
-康得新事件	kāng;gl dé;rc xīn;lt shì;gy jiàn;rn	10
 抗登陸作戰	kàng;fj dēng;bb lù;et zuò;rv zhàn;xg	10
 抗電磁干擾	kàng;fj diàn;yd cí;uy gān;au rǎo;fw	10
 康丁法拉斯	kāng;gl dīng;al fǎ;dq lā;fl sī;ct	10
@@ -39093,13 +39050,12 @@ sort: by_weight
 拉伐耳噴管	lā;fl fá;rg ěr;ol pēn;kb guǎn;vl	10
 拉弗森方法	lā;fl fú;gl sēn;aa fāng;wv fǎ;dq	10
 拉格朗日點	lā;fl gé;ak lǎng;lo rì;wa diǎn;lv	10
-拉格郎日點	lā;fl gé;ak láng;le rì;wa diǎn;lv	10
 拉格朗日量	lā;fl gé;ak lǎng;lo rì;wa liàng;ol	10
 拉戈斯山脈	lā;fl gē;yd sī;ct shān;kl mài;oy	10
 拉赫不變量	lā;fl hè;ii bú;ab biàn;xw liàng;ol	10
 拉赫塔中心	lā;fl hè;ii tǎ;tk zhōng;kl xīn;dd	10
+垃圾處理廠	lā;tl jī;tj chǔ;hj lǐ;wl chǎng;gw	12
 垃圾處理場	lā;tl jī;tj chǔ;hj lǐ;wl chǎng;tw	10
-垃圾處理廠	lā;tl jī;tj chǔ;hj lǐ;wl chǎng;gw	10
 垃圾的產生	lā;tl jī;tj de;bu chǎn;wu shēng;pf	10
 垃圾的處理	lā;tl jī;tj de;bu chǔ;hj lǐ;wl	10
 垃圾的分類	lā;tl jī;tj de;bu fēn;bd lèi;my	10
@@ -39308,7 +39264,6 @@ sort: by_weight
 攔截人魔島	lán;fj jié;gv rén;pn mó;gg dǎo;nu	10
 藍鯨的天敵	lán;cm jīng;yx de;bu tiān;ad dí;ww	10
 藍晶石片岩	lán;cm jīng;oo shí;ak piàn;pv yán;uu	10
-藍可兒事件	lán;cm kě;dk er;je shì;gy jiàn;rn	10
 藍藍的天空	lán;cm lán;cm de;bu tiān;ad kōng;bg	10
 懶懶過一生	lǎn;xb lǎn;xb guò;zk yì;aa shēng;pf	10
 懶懶散散地	lǎn;xb lǎn;xb sǎn;cw sǎn;cw de;ty	10
@@ -39524,7 +39479,6 @@ sort: by_weight
 老來這一套	lǎo;lb lái;ur zhè;zk yí;aa tào;dg	10
 嘮嘮叨叨的	láo;kl láo;kl dāo;kd dāo;kd de;bu	10
 姥姥的外孫	lǎo;nl lao;nl de;bu wài;xb sūn;zx	10
-牢牢的抓住	láo;bn láo;bn de;bu zhuā;fv zhù;rv	10
 牢牢地抓住	láo;bn láo;bn de;ty zhuā;fv zhù;rv	10
 姥姥和姥爺	lǎo;nl lao;nl hé;hk lǎo;nl ye;fe	10
 勞累的一天	láo;hl lèi;tx de;bu yì;aa tiān;ad	10
@@ -39749,7 +39703,6 @@ sort: by_weight
 擂鼓甕金錘	léi;ft gǔ;tv wèng;ww jīn;rb chuí;jt	10
 肋橫突關節	lèi;ol héng;ab tū;bq guān;mj jié;ve	10
 肋橫突韌帶	lèi;ol héng;ab tū;bq rèn;wd dài;cj	10
-類胡羅卜素	lèi;my hú;go luó;sv bo;ld sù;fx	10
 類胡蘿蔔素	lèi;my hú;go luó;cv bo;ct sù;fx	10
 類魂繫遊戲	lèi;my hún;yg xì;ix yóu;zz xì;hg	10
 累積發病率	lěi;tx jī;hb fā;bu bìng;bn lǜ;wu	10
@@ -40192,7 +40145,6 @@ sort: by_weight
 黎曼羅裏羣	lí;hu màn;oy luó;sv lǐ;yl qún;yy	10
 黎曼上積分	lí;hu màn;oy shàng;ba jī;hb fēn;bd	10
 禮貌的回應	lǐ;pb mào;ve de;bu huí;wk yìng;gx	10
-禮貌的拒絕	lǐ;pb mào;ve de;bu jù;fj jué;sb	10
 禮貌地拒絕	lǐ;pb mào;ve de;ty jù;fj jué;sb	10
 禮貌的微笑	lǐ;pb mào;ve de;bu wēi;rj xiào;vy	10
 狸貓換太子	lí;ql māo;vt huàn;fd tài;dd zǐ;la	10
@@ -41820,13 +41772,11 @@ sort: by_weight
 六個小時後	liù;wb gè;rg xiǎo;lb shí;oc hòu;rw	10
 六個小時內	liù;wb gè;rg xiǎo;lb shí;oc nèi;kr	10
 遛狗不拴繩	liù;zt gǒu;qj bù;ab shuān;fw shéng;sd	10
-遛狗不栓繩	liù;zt gǒu;qj bù;ab shuān;aw shéng;sd	10
 劉冠雄故居	liú;pd guān;bc xióng;uv gù;gw jū;ug	10
 六國大封相	liù;wb guó;wa dà;ar fēng;tc xiāng;ao	10
 流過的汗水	liú;di guò;zk de;bu hàn;dg shuǐ;ln	10
 流過的眼淚	liú;di guò;zk de;bu yǎn;og lèi;dq	10
 六國錦標賽	liù;wb guó;wa jǐn;jj biāo;au sài;bb	10
-劉國樑事件	liú;pd guó;wa liáng;aa shì;gy jiàn;rn	10
 劉哈剌不花	liú;pd hā;kk lá;ud bù;ab huā;cb	10
 劉海戲金蟾	liú;pd hǎi;dm xì;hg jīn;rb chán;ik	10
 六合八法拳	liù;wb hé;rk bā;pn fǎ;dq quán;ju	10
@@ -41929,7 +41879,6 @@ sort: by_weight
 六千三百萬	liù;wb qiān;pu sān;ae bǎi;ab wàn;cd	10
 六千四百萬	liù;wb qiān;pu sì;we bǎi;ab wàn;cd	10
 六千五百萬	liù;wb qiān;pu wǔ;aw bǎi;ab wàn;cd	10
-劉強東事件	liú;pd qiáng;gi dōng;ir shì;gy jiàn;rn	10
 六親不認的	liù;wb qīn;lj bú;ab rèn;yx de;bu	10
 六輕工業區	liù;wb qīng;ig gōng;aa yè;yw qū;kk	10
 琉球冊封使	liú;wi qiú;wq cè;kc fēng;tc shǐ;rl	10
@@ -42055,7 +42004,6 @@ sort: by_weight
 流血星期日	liú;di xuè;pm xīng;ou qī;co rì;wa	10
 流血又流淚	liú;di xuè;pm yòu;vn liú;di lèi;dq	10
 留學中心的	liú;pt xué;jz zhōng;kl xīn;dd de;bu	10
-劉學州事件	liú;pd xué;jz zhōu;dl shì;gy jiàn;rn	10
 六亞甲四胺	liù;wb yà;aa jiǎ;ol,tl sì;we àn;on	10
 柳鴉蘆雁圖	liǔ;ae yā;yn lú;cm yàn;iv tú;wk	10
 柳岩的球迷	liǔ;ae yán;uu de;bu qiú;wq mí;zm	10
@@ -42726,7 +42674,6 @@ sort: by_weight
 螺洲天后宮	luó;ix zhōu;dv tiān;ad hòu;ik gōng;bk	10
 螺洲溫泉站	luó;ix zhōu;dv wēn;dm quán;bu zhàn;lv	10
 裸子植物門	luǒ;pg zǐ;la zhí;aq wù;nw mén;ll	10
-呂安妮事件	lǚ;kk ān;bn nī;nb shì;gy jiàn;rn	10
 綠岸天文臺	lǜ;su àn;ug tiān;ad wén;wx tái;tt	10
 綠岸望遠鏡	lǜ;su àn;ug wàng;ww yuǎn;zy jìng;je	10
 綠寶石項鍊	lǜ;su bǎo;bb shí;ak xiàng;gy liàn;jj	10
@@ -47700,18 +47647,12 @@ sort: by_weight
 努力崇明德	nǔ;nl lì;vp chóng;uu míng;oo dé;rx	10
 奴隸道德說	nú;ny lì;al dào;zz dé;rx shuō;yx	10
 努力的程度	nǔ;nl lì;vp de;bu chéng;hw dù;gy	10
-努力的工作	nǔ;nl lì;vp de;bu gōng;aa zuò;rv	10
 努力地工作	nǔ;nl lì;vp de;ty gōng;aa zuò;rv	10
 努力的回報	nǔ;nl lì;vp de;bu huí;wk bào;ty	10
-努力的活着	nǔ;nl lì;vp de;bu huó;du zhe;yo	10
 努力地活着	nǔ;nl lì;vp de;ty huó;du zhe;yo	10
-努力的去做	nǔ;nl lì;vp de;bu qù;ts zuò;rw	10
 努力地去做	nǔ;nl lì;vp de;ty qù;ts zuò;rw	10
-努力的生活	nǔ;nl lì;vp de;bu shēng;pf huó;du	10
 努力地生活	nǔ;nl lì;vp de;ty shēng;pf huó;du	10
-努力的學習	nǔ;nl lì;vp de;bu xué;jz xí;xb	10
 努力地學習	nǔ;nl lì;vp de;ty xué;jz xí;xb	10
-努力的賺錢	nǔ;nl lì;vp de;bu zhuàn;bj qián;jg	10
 努力地賺錢	nǔ;nl lì;vp de;ty zhuàn;bj qián;jg	10
 努力和奮鬥	nǔ;nl lì;vp hé;hk fèn;dt dòu;ll	10
 努力和付出	nǔ;nl lì;vp hé;hk fù;rc chū;uu	10
@@ -50733,7 +50674,6 @@ sort: by_weight
 前印加文化	qián;bd yìn;pe jiā;lk wén;wx huà;rb	10
 前緣延伸面	qián;bd yuán;su yán;zv shēn;ru miàn;ao	10
 錢越來越多	qián;jg yuè;tl lái;ur yuè;tl duō;xx	10
-錢雲會事件	qián;jg yún;yy huì;ro shì;gy jiàn;rn	10
 前運思階段	qián;bd yùn;zi sī;tx jiē;eb duàn;pu	10
 前運算階段	qián;bd yùn;zi suàn;vc jiē;eb duàn;pu	10
 錢在路上跑	qián;jg zài;ut lù;zk shàng;ba pǎo;zb	10
@@ -51056,7 +50996,6 @@ sort: by_weight
 巧妙的手法	qiǎo;gk miào;nu de;bu shǒu;pf fǎ;dq	10
 橋牌俱樂部	qiáo;ak pái;pu jù;rb lè;ya bù;le	10
 蹺起二郎腿	qiāo;zw qǐ;tj èr;aa láng;le tuǐ;og	10
-悄悄的離開	qiāo;xo qiāo;xo de;bu lí;wv kāi;mk	10
 悄悄地離開	qiāo;xo qiāo;xo de;ty lí;wv kāi;mk	10
 悄悄告訴他	qiāo;xo qiāo;xo gào;nk sù;yi tā;ry	10
 悄悄告訴她	qiāo;xo qiāo;xo gào;nk sù;yi tā;ny	10
@@ -51199,6 +51138,7 @@ sort: by_weight
 秦陵兵馬俑	qín;ih líng;ew bīng;qb mǎ;mh yǒng;ry	10
 秦陵博物院	qín;ih líng;ew bó;uc wù;nw yuàn;ey	10
 秦嶺淮河線	qín;ih lǐng;uy huái;dv hé;dk xiàn;su	10
+秦隴復漢軍	qín;ih lǒng;el fù;rw hàn;dt jūn;bi	10
 秦律十八種	qín;ih lǜ;ry shí;al bā;pn zhǒng;hv	10
 勤美達國際	qín;cl měi;yd dá;zy guó;wa jì;eu	10
 勤美綠園道	qín;cl měi;yd lǜ;su yuán;wy dào;zz	10
@@ -51390,7 +51330,6 @@ sort: by_weight
 清除癌細胞	qīng;do chú;em ái;bu xì;st bāo;ob	10
 清除參考線	qīng;do chú;em cān;sp kǎo;lk xiàn;su	10
 清楚地表明	qīng;do chu;az de;ty biǎo;fy míng;oo	10
-清楚的記得	qīng;do chu;az de;bu jì;yj de;rc	10
 清楚地記得	qīng;do chu;az de;ty jì;yj de;rc	10
 清楚的看到	qīng;do chǔ;az de;bu kàn;uo dào;gd	10
 清楚地看到	qīng;do chu;az de;ty kàn;uo dào;gd	10
@@ -51846,7 +51785,6 @@ sort: by_weight
 清仁宗顒琰	qīng;do rén;re zōng;bu yóng;ty yǎn;wh	10
 青日連鐵路	qīng;fo rì;wa lián;zi tiě;jw lù;zk	10
 青榮城際線	qīng;fo róng;ha chéng;ti jì;eu xiàn;su	10
-輕柔的撫摸	qīng;ig róu;ma de;bu fǔ;fh mō;fd	10
 輕柔地撫摸	qīng;ig róu;ma de;ty fǔ;fh mō;fd	10
 請如實填寫	qǐng;yo rú;nk shí;bb tián;tb xiě;bh	10
 清軟齶擦音	qīng;do ruǎn;iq è;vk cā;fu yīn;lo	10
@@ -51996,9 +51934,7 @@ sort: by_weight
 清洗不徹底	qīng;do xǐ;de bú;ab chè;ro dǐ;gu	10
 清洗不乾淨	qīng;do xǐ;de bù;ab gān;uv jìng;dy	10
 清晰的邊界	qīng;do xī;ot de;bu biān;zf jiè;tj	10
-清晰的記得	qīng;do xī;ot de;bu jì;yj de;rc	10
 清晰地記得	qīng;do xī;ot de;ty jì;yj de;rc	10
-清晰的看到	qīng;do xī;ot de;bu kàn;uo dào;gd	10
 清晰地看到	qīng;do xī;ot de;ty kàn;uo dào;gd	10
 清晰地看見	qīng;do xī;ot de;ty kàn;uo jiàn;oe	10
 清洗發動機	qīng;do xǐ;de fā;bu dòng;vl jī;ar	10
@@ -52293,7 +52229,6 @@ sort: by_weight
 求菩薩保佑	qiú;au,ad pú;ck sà;cu bǎo;ra yòu;rk	10
 丘奇委員會	qiū;ia qí;dk wěi;hn yuán;kb huì;ro	10
 求切線方程	qiú;au,ad qiē;qd xiàn;su fāng;wv chéng;hw	10
-邱慶楓事件	qiū;qe qìng;gw fēng;af shì;gy jiàn;rn	10
 秋日的私語	qiū;hh rì;wa de;bu sī;hs yǔ;yk	10
 秋日的午後	qiū;hh rì;wa de;bu wǔ;pu hòu;rw	10
 秋日的陽光	qiū;hh rì;wa de;bu yáng;ew guāng;xe	10
@@ -52320,7 +52255,6 @@ sort: by_weight
 秋天的柿子	qiū;hh tiān;ad de;bu shì;aj zi;la	10
 秋天和冬天	qiū;hh tiān;ad hé;hk dōng;wd tiān;ad	10
 秋天有點涼	qiū;hh tiān;ad yǒu;uo diǎn;lv liáng;dx	10
-邱小妹事件	qiū;qe xiǎo;lb mèi;nw shì;gy jiàn;rn	10
 球諧函數表	qiú;wq xié;yb hán;ku shù;uw biǎo;fy	10
 球形補償器	qiú;wq xíng;kp bǔ;pf cháng;rb qì;xx	10
 球形機器人	qiú;wq xíng;kp jī;ar qì;xx rén;pn	10
@@ -53948,23 +53882,16 @@ sort: by_weight
 忍者亂太郎	rěn;dx zhě;lo luàn;vv tài;dd láng;le	10
 忍者小靈精	rěn;dx zhě;lo xiǎo;lb líng;yr jīng;mo	10
 認真地愛我	rèn;yx zhēn;ub de;ty ài;vw wǒ;ga	10
-認真的對待	rèn;yx zhēn;ub de;bu duì;yc dài;rc	10
 認真地對待	rèn;yx zhēn;ub de;ty duì;yc dài;rc	10
-認真的工作	rèn;yx zhēn;ub de;bu gōng;aa zuò;rv	10
 認真地工作	rèn;yx zhēn;ub de;ty gōng;aa zuò;rv	10
 認真地觀察	rèn;yx zhēn;ub de;ty guān;cj chá;bu	10
 認真地考慮	rèn;yx zhēn;ub de;ty kǎo;lk lǜ;hx	10
 認真地老去	rèn;yx zhēn;ub de;ty lǎo;lb qù;ts	10
-認真的老去	rèn;yx zhēn;ub de;bu lǎo;lb qù;ts	10
 認真地年輕	rèn;yx zhēn;ub de;ty nián;pf qīng;ig	10
-認真的傾聽	rèn;yx zhēn;ub de;bu qīng;ry tīng;ex	10
 認真地傾聽	rèn;yx zhēn;ub de;ty qīng;ry tīng;ex	10
-認真的生活	rèn;yx zhēn;ub de;bu shēng;pf huó;du	10
 認真地生活	rèn;yx zhēn;ub de;ty shēng;pf huó;du	10
-認真的思考	rèn;yx zhēn;ub de;bu sī;tx kǎo;lk	10
 認真地思考	rèn;yx zhēn;ub de;ty sī;tx kǎo;lk	10
 人真的太多	rén;pn zhēn;ub de;bu tài;dd duō;xx	10
-認真的完成	rèn;yx zhēn;ub de;bu wán;by chéng;gv	10
 認真地完成	rèn;yx zhēn;ub de;ty wán;by chéng;gv	10
 認真地學習	rèn;yx zhēn;ub de;ty xué;jz xí;xb	10
 認真學習把	rèn;yx zhēn;ub xué;jz xí;xb bǎ;fb	10
@@ -53981,7 +53908,6 @@ sort: by_weight
 認知和情感	rèn;yx zhī;uk hé;hk qíng;xo gǎn;gx	10
 認知吝嗇者	rèn;yx zhī;uk lìn;wk sè;gk zhě;lo	10
 任職前公示	rèn;rw zhí;eo qián;bd gōng;bs shì;ex,ax	10
-任志強事件	rèn;rw zhì;tx qiáng;gi shì;gy jiàn;rn	10
 人之所以能	rén;pn zhī;dn suǒ;ht yǐ;lr néng;sb	10
 任執行董事	rèn;rw zhí;tw xíng;rd dǒng;cv shì;gy	10
 人只要擁有	rén;pn zhǐ;kb yào;xn yōng;fv yǒu;uo	10
@@ -58379,15 +58305,12 @@ sort: by_weight
 市婦兒工委	shì;wj fù;nj er;je gōng;aa wěi;hn	10
 市府廣場東	shì;wj fǔ;gc guǎng;gb chǎng;tw dōng;ir	10
 市府廣場站	shì;wj fǔ;gc guǎng;gb chǎng;tw zhàn;lv	10
-師傅郭德綱	shī;pj fu;rc guō;we dé;rx gāng;su	10
-師父郭德綱	shī;pj fu;bx guō;we dé;rx gāng;su	10
 是福還是禍	shì;oz fú;pt hái;zy shì;oz huò;pk	10
 師傅和徒弟	shī;pj fu;rc hé;hk tú;rz dì;bd	10
-師傅領進門	shī;pj fu;rc lǐng;ry jìn;zv mén;ll	10
 師父領進門	shī;pj fu;bx lǐng;ry jìn;zv mén;ll	10
 石駙馬大街	shí;ak fù;mc mǎ;mh dà;ar jiē;rt	10
 師父明白了	shī;pj fu;bx míng;oo bai;po le;al	10
-釋伽牟尼佛	shì;mg gā;rk mù;sn ní;ub fó;rf	10
+釋伽牟尼佛	shì;mg gā;rk móu;sn ní;ub fó;rf	10
 是蓋世英雄	shì;oz gài;cm shì;cv yīng;cy xióng;uv	10
 實幹的精神	shí;bb gàn;ug de;bu jīng;mo shén;pu	10
 是幹什麼的	shì;oz gàn;ug shén;ru me;gy de;bu	10
@@ -58605,8 +58528,8 @@ sort: by_weight
 石家河遺址	shí;ak jiā;bu hé;dk yí;zb zhǐ;tv	10
 市價淨值比	shì;wj jià;rb jìng;dy zhí;rq bǐ;bb	10
 釋迦摩尼佛	shì;mg jiā;zk mó;gu ní;ub fó;rf	10
-釋迦牟尼佛	shì;mg jiā;zk mù;sn ní;ub fó;rf	10
-釋迦牟尼像	shì;mg jiā;zk mù;sn ní;ub xiàng;ru	10
+釋迦牟尼佛	shì;mg jiā;zk móu;sn ní;ub fó;rf	10
+釋迦牟尼像	shì;mg jiā;zk móu;sn ní;ub xiàng;ru	10
 世嘉三四郎	shì;cv jiā;tk sān;ae sì;we láng;le	10
 十佳攝影師	shí;al jiā;rt shè;fe yǐng;op shī;pj	10
 式家庭教育	shì;gg jiā;bu tíng;gw jiào;lw yù;wo	10
@@ -62877,7 +62800,6 @@ sort: by_weight
 宋高宗南渡	sòng;ba gāo;wk zōng;bu nán;ug dù;dy	10
 頌歌獻給黨	sòng;gy gē;kq xiàn;hq gěi;sk dǎng;xh	10
 送給爸媽的	sòng;zt gěi;sk bà;fb mā;nm de;bu	10
-宋庚一事件	sòng;ba gēng;gr yí;aa shì;gy jiàn;rn	10
 宋恭帝趙顯	sòng;ba gōng;gx,cx dì;wj zhào;to xiǎn;oy	10
 松谷美代子	sōng;ag gǔ;bk měi;yd dài;rg zǐ;la	10
 松果體隱窩	sōng;ag guǒ;ta tǐ;gb yǐn;ex wō;bk	10
@@ -63332,7 +63254,6 @@ sort: by_weight
 孫儷的演技	sūn;zx lì;rb de;bu yǎn;db jì;fv	10
 孫儷和鄧超	sūn;zx lì;rb hé;hk dèng;be chāo;tk	10
 孫莉和黃磊	sūn;zx lì;cd hé;hk huáng;cb lěi;uu	10
-孫立人事件	sūn;zx lì;wb rén;pn shì;gy jiàn;rn	10
 孫儷與鄧超	sūn;zx lì;rb yǔ;jb dèng;be chāo;tk	10
 孫喬科拉爾	sūn;zx qiáo;yk kē;hd lā;fl ěr;ab	10
 損人不利己	sǔn;fb rén;pn bú;ab lì;hd jǐ;kv	10
@@ -63350,8 +63271,6 @@ sort: by_weight
 損益平衡表	sǔn;fb yì;bm píng;au héng;rd biǎo;fy	10
 損益平衡點	sǔn;fb yì;bm píng;au héng;rd diǎn;lv	10
 孫逸仙逝世	sūn;zx yì;zt xiān;ru shì;zt shì;cv	10
-孫志剛事件	sūn;zx zhì;tx gāng;kd shì;gy jiàn;rn	10
-孫中界事件	sūn;zx zhōng;kl jiè;tj shì;gy jiàn;rn	10
 孫中山紀念	sūn;zx zhōng;kl shān;kl jì;sj niàn;rx	10
 孫中山去世	sūn;zx zhōng;kl shān;kl qù;ts shì;cv	10
 孫中山全集	sūn;zx zhōng;kl shān;kl quán;rw jí;ra	10
@@ -64285,7 +64204,6 @@ sort: by_weight
 套保暖內衣	tào;dg bǎo;ra nuǎn;oy nèi;kr yī;wy	10
 陶比麥奎爾	táo;ef bǐ;bb mài;lw kuí;dt ěr;ab	10
 逃兵追緝令	táo;zv bīng;qb zhuī;zl jī;se lìng;rs	10
-陶崇園事件	táo;ef chóng;uu yuán;wy shì;gy jiàn;rn	10
 逃出科幻紀	táo;zv chū;uu kē;hd huàn;yv jì;sj	10
 逃出克隆島	táo;zv chū;uu kè;ux,ge lóng;eu dǎo;nu	10
 逃出恐龍島	táo;zv chū;uu kǒng;gx lóng;lv dǎo;nu	10
@@ -65452,7 +65370,7 @@ sort: by_weight
 鐵礦石品位	tiě;jw kuàng;ub shí;ak pǐn;kk wèi;rl	10
 鐵力瓦爾地	tiě;jw lì;vp wǎ;ad ěr;ab dì;ty	10
 鐵力瓦爾迪	tiě;jw lì;vp wǎ;ad ěr;ab dí;zy	10
-鐵鏈女事件	tiě;jw liàn;ji nǚ;va shì;gy jiàn;rn	10
+鐵良下江南	tiě;jw liáng;dg xià;ab jiāng;dg nán;ug	10
 鐵路大通道	tiě;jw lù;zk dà;ar tōng;zy dào;zz	10
 鐵路和公路	tiě;jw lù;zk hé;hk gōng;bs lù;zk	10
 鐵路周遊票	tiě;jw lù;zk zhōu;kk yóu;zz piào;xu	10
@@ -65943,8 +65861,8 @@ sort: by_weight
 通顏覺羅氏	tōng;zy yán;wy jué;jj luó;sv shì;pv	10
 同樣的髮型	tóng;kk yàng;ay de;bu fà;ey xíng;kt	10
 同樣的老師	tóng;kk yàng;ay de;bu lǎo;lb shī;pj	10
-同樣的時間	tóng;kk yàng;ay de;bu shí;oc jiān;mo	10
 同樣的事件	tóng;kk yàng;ay de;bu shì;gy jiàn;rn	10
+同樣的時間	tóng;kk yàng;ay de;bu shí;oc jiān;mo	10
 同樣的食物	tóng;kk yàng;ay de;bu shí;rg wù;nw	10
 同樣的事物	tóng;kk yàng;ay de;bu shì;gy wù;nw	10
 同樣的招式	tóng;kk yàng;ay de;bu zhāo;fk shì;gg	10
@@ -67419,8 +67337,6 @@ sort: by_weight
 忘了去懂你	wàng;wx le;al qù;ts dǒng;xv nǐ;rx	10
 忘了這個事	wàng;wx le;al zhè;zk ge;rg shì;gy	10
 王力反思錄	wáng;at lì;vp fǎn;iy sī;tx lù;ju	10
-王立軍事件	wáng;at lì;wb jūn;bi shì;gy jiàn;rn	10
-王立強事件	wáng;at lì;wb qiáng;gi shì;gy jiàn;rn	10
 王立宇宙軍	wáng;at lì;wb yǔ;by zhòu;by jūn;bi	10
 往臉上貼金	wǎng;rv liǎn;or shàng;ba tiē;bv jīn;rb	10
 網路聊天室	wǎng;sw lù;zk liáo;ee tiān;ad shì;bt	10
@@ -67443,14 +67359,12 @@ sort: by_weight
 網盟全球購	wǎng;sw méng;om quán;rw qiú;wq gòu;br	10
 亡命大煞星	wáng;wv mìng;re dà;ar shà;dh xīng;ou	10
 網膜囊前庭	wǎng;sw mó;od náng;gy qián;bd tíng;gw	10
-王娜娜事件	wáng;at nà;ne nà;ne shì;gy jiàn;rn	10
 王女自鳴鼓	wáng;at nǚ;va zì;po míng;kn gǔ;tv	10
 王牌逗王牌	wáng;at pái;pu dòu;zb wáng;at pái;pu	10
 王牌對王牌	wáng;at pái;pu duì;yc wáng;at pái;pu	10
 望齊侯之色	wàng;ww qí;wo hóu;ru zhī;dn sè;db	10
 王岐山反腐	wáng;at qí;uv shān;kl fǎn;iy fǔ;gr	10
 往前邁一步	wǎng;rv qián;bd mài;zd yí;aa bù;vu	10
-王千源事件	wáng;at qiān;pu yuán;dx shì;gy jiàn;rn	10
 往槍口上撞	wǎng;rv qiāng;ak kǒu;la shàng;ba zhuàng;fl	10
 忘情闊少爺	wàng;wx qíng;xo kuò;mu shào;xp yé;fe	10
 網球大師盃	wǎng;sw qiú;wq dà;ar shī;pj bēi;bm	10
@@ -68100,7 +68014,7 @@ sort: by_weight
 衛生間異味	wèi;rf shēng;pf jiān;mo yì;tg wèi;kw	10
 衛生間浴室	wèi;rf shēng;pf jiān;mo yù;dg shì;bt	10
 為勝利而戰	wéi;dh shèng;ol lì;hd ér;al zhàn;xg	10
-為生民立命	wéi;dh shēng;pf mín;vv lì;wb mìng;re	10
+為生民立命	wèi;dh shēng;pf mín;vv lì;wb mìng;re	10
 圍生期死亡	wéi;wf shēng;pf qī;co sǐ;db wáng;wv	10
 衛生署署長	wèi;rf shēng;pf shǔ;so shǔ;so zhǎng;ey	10
 維生素滴劑	wéi;sv shēng;pf sù;fx dī;dg jì;wd	10
@@ -68170,7 +68084,7 @@ sort: by_weight
 維悌希反應	wéi;sv tì;xd xī;xj fǎn;iy yìng;gx	10
 魏悌息反應	wèi;hg tì;xd xī;zx fǎn;iy yìng;gx	10
 微體系結構	wēi;rj tǐ;gb xì;px jié;sk gòu;ar	10
-爲天地立心	wéi;vh tiān;ad dì;ty lì;wb xīn;dd	10
+爲天地立心	wèi;vh tiān;ad dì;ty lì;wb xīn;dd	10
 維甜美降糖	wéi;sv tián;ug měi;yd jiàng;ef táng;mk	10
 尾田榮一郎	wěi;um tián;wu róng;ha yī;aa láng;le	10
 謂天下無雙	wèi;yo tiān;ad xià;ab wú;ph shuāng;ry	10
@@ -68363,7 +68277,6 @@ sort: by_weight
 偽造的文件	wěi;rw zào;zk de;bu wén;wx jiàn;rn	10
 偽造貨幣罪	wěi;rw zào;zk huò;rb bì;xj zuì;sf	10
 微則無胃氣	wēi;rj zé;bd wú;ph wèi;to qì;qm	10
-魏則西事件	wèi;hg zé;bd xī;ak,wk shì;gy jiàn;rn	10
 魏則西之死	wèi;hg zé;bd xī;ak,wk zhī;dn sǐ;db	10
 為戰鬥而生	wéi;dh zhàn;xg dòu;ll ér;al shēng;pf	10
 胃佔位病變	wèi;to zhàn;rv wèi;rl bìng;bn biàn;xw	10
@@ -69540,10 +69453,10 @@ sort: by_weight
 無翅豬毛菜	wú;ph chì;vx zhū;uo máo;pv cài;ca	10
 無愁河的浪	wú;ph chóu;hx hé;dk de;bu làng;dl	10
 舞出愛火花	wǔ;pf chū;uu ài;vw huǒ;br huā;cb	10
-無處安放的	wú;ph chǔ;hj ān;bn fàng;fw de;bu	10
-無處不飛花	wú;ph chǔ;hj bù;ab fēi;fc huā;cb	10
-無處稠密的	wú;ph chǔ;hj chóu;hk mì;bu de;bu	10
-無處稠密集	wú;ph chǔ;hj chóu;hk mì;bu jí;ra	10
+無處安放的	wú;ph chù;hj ān;bn fàng;fw de;bu	10
+無處不飛花	wú;ph chù;hj bù;ab fēi;fc huā;cb	10
+無處稠密的	wú;ph chù;hj chóu;hk mì;bu de;bu	10
+無處稠密集	wú;ph chù;hj chóu;hk mì;bu jí;ra	10
 無出其右者	wú;ph chū;uu qí;cb yòu;uk zhě;lo	10
 無出頭之日	wú;ph chū;uu tóu;dy zhī;dn rì;wa	10
 舞出我人生	wǔ;pf chū;uu wǒ;ga rén;pn shēng;pf	10
@@ -70419,7 +70332,6 @@ sort: by_weight
 五味子酯甲	wǔ;aw wèi;kw zǐ;la zhǐ;yo jiǎ;ol,tl	10
 無文化背景	wú;ph wén;wx huà;rb bèi;bo jǐng;ox	10
 吳溫納貌倫	wú;kd wēn;dm nà;sn mào;ve lún;rc	10
-吳文獻事件	wú;kd wén;wx xiàn;hq shì;gy jiàn;rn	10
 無我的境界	wú;ph wǒ;ga de;bu jìng;te jiè;tj	10
 無渦向量場	wú;ph wō;dk xiàng;pk liàng;ol chǎng;tw	10
 無我原非你	wú;ph wǒ;ga yuán;ix fēi;ls nǐ;rx	10
@@ -70604,7 +70516,6 @@ sort: by_weight
 五一大掃蕩	wǔ;aw yī;aa dà;ar sǎo;fj dàng;cw	10
 五一大遊行	wǔ;aw yī;aa dà;ar yóu;zz xíng;rd	10
 無一定之規	wú;ph yī;aa dìng;bz zhī;dn guī;fj	10
-吳亦凡事件	wú;kd yì;wb fán;jd shì;gy jiàn;rn	10
 五一公園站	wǔ;aw yī;aa gōng;bs yuán;wy zhàn;lv	10
 五一廣場站	wǔ;aw yī;aa guǎng;gb chǎng;tw zhàn;lv	10
 五一黃金週	wǔ;aw yī;aa huáng;cb jīn;rb zhōu;zk	10
@@ -74879,7 +74790,6 @@ sort: by_weight
 新現實主義	xīn;lt xiàn;wj shí;bb zhǔ;wt yì;yw	10
 心纖維三角	xīn;dd xiān;sj wéi;sv sān;ae jiǎo;dy	10
 心想事成的	xīn;dd xiǎng;ax shì;gy chéng;gv de;bu	10
-信小呆事件	xìn;rk xiǎo;lb dāi;ka shì;gy jiàn;rn	10
 欣謝爾伍德	xīn;iq xiè;yc ěr;ab wǔ;rw dé;rx	10
 新寫實主義	xīn;lt xiě;bh shí;bb zhǔ;wt yì;yw	10
 心寫治平圖	xīn;dd xiě;bh zhì;dk píng;au tú;wk	10
@@ -75814,7 +75724,6 @@ sort: by_weight
 袖子的設計	xiù;py zi;la de;bu shè;yu jì;yu	10
 許阿鏗託斯	xǔ;yw ā;ek kēng;jt tuō;yq sī;ct	10
 徐悲鴻畫院	xú;rm bēi;fx hóng;dn huà;ya yuàn;ey	10
-徐步高事件	xú;rm bù;vu gāo;wk shì;gy jiàn;rn	10
 須插滿頭歸	xū;py chā;fj mǎn;dr tóu;dy guī;pj	10
 須叉吻魴鮄	xū;py chā;yd wěn;kw fáng;yf fú;yf	10
 畜產試驗所	xù;xt chǎn;wu shì;yg yàn;mr suǒ;ht	10
@@ -75883,7 +75792,6 @@ sort: by_weight
 虛開發票罪	xū;hy kāi;mk fā;bu piào;xu zuì;sf	10
 旭科競技場	xù;jo kē;hd jìng;lx jì;fv chǎng;tw	10
 許可請求費	xǔ;yw kě;dk qǐng;yo qiú;au,ad fèi;fb	10
-許可馨事件	xǔ;yw kě;dk xīn;to shì;gy jiàn;rn	10
 許可證核發	xǔ;yw kě;dk zhèng;yb hé;ar fā;bu	10
 虛空的戰場	xū;hy kōng;bg de;bu zhàn;xg chǎng;tw	10
 虛空遁地獸	xū;hy kōng;bg dùn;zo dì;ty shòu;kq	10
@@ -77763,7 +77671,6 @@ sort: by_weight
 養老金並軌	yǎng;yg lǎo;lb jīn;rb bìng;by guǐ;ij	10
 養老金入市	yǎng;yg lǎo;lb jīn;rb rù;pn shì;wj	10
 養老助殘卡	yǎng;yg lǎo;lb zhù;ql cán;dg kǎ;ub	10
-楊麗娟事件	yáng;aw lì;lb juān;no shì;gy jiàn;rn	10
 楊麗萍老師	yáng;aw lì;lb píng;cp lǎo;lb shī;pj	10
 陽離子染料	yáng;ew lí;wv zǐ;la rǎn;da liào;md	10
 陽離子樹脂	yáng;ew lí;wv zǐ;la shù;ac zhī;oo	10
@@ -77779,7 +77686,6 @@ sort: by_weight
 楊柳依依風	yáng;aw liǔ;ae yī;ry yī;ry fēng;ji	10
 楊龍寨口岸	yáng;aw lóng;lv zhài;ba kǒu;la àn;ug	10
 養路機械化	yǎng;yg lù;zk jī;ar xiè;ac huà;rb	10
-楊祿奎事件	yáng;aw lù;pu kuí;dt shì;gy jiàn;rn	10
 洋馬發動機	yáng;dy mǎ;mh fā;bu dòng;vl jī;ar	10
 羊馬河戰役	yáng;bf mǎ;mh hé;dk zhàn;xg yì;ru	10
 養貓的老鼠	yǎng;yg māo;vt de;bu lǎo;lb shǔ;jv	10
@@ -77866,7 +77772,6 @@ sort: by_weight
 養陰清肺湯	yǎng;yg yīn;ey qīng;do fèi;oj tāng;dw	10
 楊穎的演技	yáng;aw yǐng;bh de;bu yǎn;db jì;fv	10
 養魚的小貓	yǎng;yg yú;dh de;bu xiǎo;lb māo;vt	10
-楊餘傅事件	yáng;aw yú;um fù;rc shì;gy jiàn;rn	10
 養魚先養水	yǎng;yg yú;dh xiān;ne yǎng;yg shuǐ;ln	10
 楊裕興麵館	yáng;aw yù;pg xīng;jb miàn;lm guǎn;ul	10
 養元益腎酒	yǎng;yg yuán;aw yì;bm shèn;io jiǔ;dy	10
@@ -81919,7 +81824,7 @@ sort: by_weight
 有理說不清	yǒu;uo lǐ;wl shuō;yx bù;ab qīng;do	10
 有理同調群	yǒu;uo lǐ;wl tóng;kk diào;yk qún;yy	10
 有理同倫論	yǒu;uo lǐ;wl tóng;kk lún;rc lùn;yc	10
-有力無處使	yǒu;uo lì;vp wú;ph chǔ;hj shǐ;rl	10
+有力無處使	yǒu;uo lì;vp wú;ph chù;hj shǐ;rl	10
 有理想的豬	yǒu;uo lǐ;wl xiǎng;ax de;bu zhū;uo	10
 鈾礫岩礦床	yóu;jy lì;ua yán;uu kuàng;ub chuáng;ga	10
 有利也有弊	yǒu;uo lì;hd yě;vv yǒu;uo bì;xc	10
@@ -83022,6 +82927,7 @@ sort: by_weight
 魚雷攻擊機	yú;dh léi;yt gōng;gw jī;iu jī;ar	10
 魚雷轟炸機	yú;dh léi;yt hōng;ii zhà;hv jī;ar	10
 魚雷艇事件	yú;dh léi;yt tǐng;vw shì;gy jiàn;rn	10
+魚雷艇事件	yú;dh léi;yt tǐng;vw shì;gy jiàn;rn	10
 魚雷修理廠	yú;dh léi;yt xiū;rp lǐ;wl chǎng;gw	10
 魚雷巡洋艦	yú;dh léi;yt xún;zv yáng;dy jiàn;vm	10
 於冷酷仙境	yú;fd lěng;ds kù;yk xiān;ru jìng;te	10
@@ -83134,7 +83040,6 @@ sort: by_weight
 御前崎燈塔	yù;re qián;bd qí;uk dēng;hb tǎ;tk	10
 豫親王多鐸	yù;yu qīn;lj wáng;at duō;xx duó;jg	10
 輿情大數據	yú;jb qíng;xo dà;ar shù;uw jù;fu	10
-余清芳事件	yú;rm qīng;do fāng;cf shì;gy jiàn;rn	10
 輿情分析師	yú;jb qíng;xo fēn;bd xī;at shī;pj	10
 毓慶宮行走	yù;pi qìng;gw gōng;bk xíng;rd zǒu;tz	10
 玉清昭應宮	yù;wd qīng;do zhāo;ok yīng;gx gōng;bk	10
@@ -84576,7 +84481,7 @@ sort: by_weight
 在看電視的	zài;ut kàn;uo diàn;yd shì;pj de;bu	10
 再看你一眼	zài;ar kàn;uo nǐ;rx yì;aa yǎn;og	10
 再看我一眼	zài;ar kàn;uo wǒ;ga yì;aa yǎn;og	10
-在可克達拉	zài;ut kě;dk kě;ux,ge dá;zy lā;fl	10
+在可克達拉	zài;ut kě;dk kè;ux,ge dá;zy lā;fl	10
 在克拉瑪依	zài;ut kè;ux,ge lā;fl mǎ;wm yī;ry	10
 載客試運營	zài;gi kè;bk shì;yg yùn;zi yíng;hk	10
 在空中飛舞	zài;ut kōng;bg zhōng;kl fēi;fc wǔ;pf	10
@@ -85222,7 +85127,6 @@ sort: by_weight
 戰國四公子	zhàn;xg guó;wa sì;we gōng;bs zǐ;la	10
 戰國四名將	zhàn;xg guó;wa sì;we míng;xk jiàng;pc	10
 戰國天正記	zhàn;xg guó;wa tiān;ad zhèng;av jì;yj	10
-佔海特事件	zhàn;rv hǎi;dm tè;nc shì;gy jiàn;rn	10
 戰後的日本	zhàn;xg hòu;rw de;bu rì;wa běn;aa	10
 斬虎屠龍劍	zhǎn;it hǔ;hj tú;uo lóng;lv jiàn;rd	10
 戰火的洗禮	zhàn;xg huǒ;br de;bu xǐ;de lǐ;pb	10
@@ -85400,7 +85304,6 @@ sort: by_weight
 張大千的畫	zhāng;gi dà;ar qiān;pu de;bu huà;ya	10
 長大一點後	zhǎng;ey dà;ar yì;aa diǎn;lv hòu;rw	10
 張丹峰洪欣	zhāng;gi dān;kd fēng;uf hóng;dg xīn;iq	10
-張丹紅事件	zhāng;gi dān;kd hóng;sg shì;gy jiàn;rn	10
 杖刀偶磨弓	zhàng;av dāo;vp ǒu;rd mó;gu gōng;vv	10
 章德竇皇后	zhāng;lu dé;rx dòu;bb huáng;bw hòu;ik	10
 長得非常像	zhǎng;ey de;rc fēi;ls cháng;xj xiàng;ru	10
@@ -85430,7 +85333,6 @@ sort: by_weight
 張公山公園	zhāng;gi gōng;bs shān;kl gōng;bs yuán;wy	10
 張公山新村	zhāng;gi gōng;bs shān;kl xīn;lt cūn;ac	10
 章公祖師像	zhāng;lu gōng;bs zǔ;pq shī;pj xiàng;ru	10
-張鼓峰事件	zhāng;gi gǔ;tv fēng;uf shì;gy jiàn;rn	10
 章光育發劑	zhāng;lu guāng;xe yù;wo fā;bu jì;wd	10
 張鮭魚之夢	zhāng;gi guī;yt yú;dh zhī;dn mèng;cx	10
 帳號已註銷	zhàng;ji hào;kj yǐ;kv zhù;yv xiāo;jo	10
@@ -85548,7 +85450,6 @@ sort: by_weight
 掌握了知識	zhǎng;xu wò;ft le;al zhī;uk shi;yo	10
 張我勒個去	zhāng;gi wǒ;ga lei;cl gè;rg qù;ts	10
 張夏石灰岩	zhāng;gi xià;bw shí;ak huī;uh yán;uu	10
-張憲義事件	zhāng;gi xiàn;bx yì;yw shì;gy jiàn;rn	10
 張獻忠沉銀	zhāng;gi xiàn;hq zhōng;vx chén;dj yín;jg	10
 張獻忠起義	zhāng;gi xiàn;hq zhōng;vx qǐ;tj yì;yw	10
 張獻忠屠蜀	zhāng;gi xiàn;hq zhōng;vx tú;uo shǔ;si	10
@@ -85631,7 +85532,6 @@ sort: by_weight
 找點事兒幹	zhǎo;fg diǎn;lv shì;gy er;je gàn;ug	10
 找點事情做	zhǎo;fg diǎn;lv shì;gy qíng;xo zuò;rw	10
 兆電子伏特	zhào;ed diàn;yd zǐ;la fú;rq tè;nc	10
-趙鬥淳事件	zhào;to dòu;ll chún;dz shì;gy jiàn;rn	10
 找都找不到	zhǎo;fg dōu;le zhǎo;fg bú;ab dào;gd	10
 照方子抓藥	zhào;oh fāng;wv zi;la zhuā;fv yào;ca	10
 趙飛燕別傳	zhào;to fēi;fc yàn;ch bié;kd zhuàn;rc	10
@@ -85768,7 +85668,6 @@ sort: by_weight
 照沼歡莉莎	zhào;oh zhǎo;dk huān;cq lì;cd shā;cu	10
 照照鏡子吧	zhào;oh zhào;oh jìng;je zi;la ba;kb	10
 照這麼發展	zhào;oh zhè;zk me;gy fā;bu zhǎn;uy	10
-趙志華事件	zhào;to zhì;tx huá;cf shì;gy jiàn;rn	10
 趙忠祥老師	zhào;to zhōng;vx xiáng;py lǎo;lb shī;pj	10
 找專業人士	zhǎo;fg zhuān;ic yè;yw rén;pn shì;ua	10
 找裝飾公司	zhǎo;fg zhuāng;py shì;uj gōng;bs sī;vk	10
@@ -87089,7 +86988,7 @@ sort: by_weight
 指導式民主	zhǐ;fo dǎo;zc shì;gg mín;vv zhǔ;wt	10
 知道實情後	zhī;uk dào;zz shí;bb qíng;xo hòu;rw	10
 至道十五路	zhì;gt dào;zz shí;al wǔ;aw lù;zk	10
-只道是尋常	zhī;kb dào;zz shì;oz xún;ec cháng;xj	10
+只道是尋常	zhǐ;kb dào;zz shì;oz xún;ec cháng;xj	10
 指導思想是	zhǐ;fo dǎo;zc sī;tx xiǎng;ax shì;oz	10
 直到他去世	zhí;uq dào;gd tā;ry qù;ts shì;cv	10
 指導委員會	zhǐ;fo dǎo;zc wěi;hn yuán;kb huì;ro	10
@@ -88585,7 +88484,6 @@ sort: by_weight
 中鐵十二局	zhōng;kl tiě;jw shí;al èr;aa jú;uk	10
 中鐵十五局	zhōng;kl tiě;jw shí;al wǔ;aw jú;uk	10
 中鐵十一局	zhōng;kl tiě;jw shí;al yī;aa jú;uk	10
-鍾庭耀事件	zhōng;jv tíng;gw yào;gv shì;gy jiàn;rn	10
 腫痛外擦酊	zhǒng;ov tòng;by wài;xb cā;fu dīng;yd	10
 中途相遇法	zhōng;kl tú;zm xiāng;ao yù;zd fǎ;dq	10
 忠王李秀成	zhōng;vx wáng;at lǐ;az xiù;hn chéng;gv	10
@@ -88775,7 +88673,6 @@ sort: by_weight
 中英銀公司	zhōng;kl yīng;cy yín;jg gōng;bs sī;vk	10
 中幼粒細胞	zhōng;kl yòu;yl lì;ml xì;st bāo;ob	10
 終有一日會	zhōng;sd yǒu;uo yí;aa rì;wa huì;ro	10
-鍾嶼晨事件	zhōng;jv yǔ;ub chén;oi shì;gy jiàn;rn	10
 忠於理想的	zhōng;vx yú;fd lǐ;wl xiǎng;ax de;bu	10
 重於胎齡兒	zhòng;ql yú;fd tāi;ok líng;vs ér;je	10
 終於要離開	zhōng;sd yú;fd yào;xn lí;wv kāi;mk	10
@@ -88908,11 +88805,9 @@ sort: by_weight
 州檢察總長	zhōu;dl jiǎn;ar chá;bu zǒng;sx cháng;ey	10
 晝間行車燈	zhòu;yd jiān;mo xíng;rd chē;iu dēng;hb	10
 晝錦堂記碑	zhòu;yd jǐn;jj táng;xt jì;yj bēi;uu	10
-周久耕事件	zhōu;kk jiǔ;pn gēng;lj shì;gy jiàn;rn	10
 周口店遺址	zhōu;kk kǒu;la diàn;gv yí;zb zhǐ;tv	10
 周口店猿人	zhōu;kk kǒu;la diàn;gv yuán;qy rén;pn	10
 周擴大例會	zhōu;kk kuò;fb dà;ar lì;rd huì;ro	10
-周老虎事件	zhōu;kk lǎo;lb hǔ;hj shì;gy jiàn;rn	10
 洲立電影院	zhōu;dv lì;wb diàn;yd yǐng;op yuàn;ey	10
 肘離斷假肢	zhǒu;oc lí;wv duàn;vt jiǎ;ry zhī;ov	10
 週六和週日	zhōu;zk liù;wb hé;hk zhōu;zk rì;wa	10
@@ -89012,7 +88907,6 @@ sort: by_weight
 周至柔舊居	zhōu;kk zhì;gt róu;ma jiù;cj jū;ug	10
 州中心醫院	zhōu;dl zhōng;kl xīn;dd yī;ky yuàn;ey	10
 皺皺巴巴的	zhòu;bp zhòu;bp bā;sl bā;sl de;bu	10
-周子瑜事件	zhōu;kk zǐ;la yú;wd shì;gy jiàn;rn	10
 州最高法院	zhōu;dl zuì;oy gāo;wk fǎ;dq yuàn;ey	10
 駐阿曼大使	zhù;mv ā;ek màn;oy dà;ar shǐ;rl	10
 駐埃及大使	zhù;mv āi;tu jí;pn dà;ar shǐ;rl	10
@@ -92475,7 +92369,6 @@ sort: by_weight
 奧特蘭克山脈	ào;pd tè;nc lán;cj kè;ux,ge shān;kl mài;oy	10
 奧瓦二氏現象	ào;pd wǎ;ad èr;aa shì;pv xiàn;wj xiàng;du	10
 澳亞航空公司	ào;dd yà;aa háng;vj kōng;bg gōng;bs sī;vk	10
-澳岩縫男事件	ào;dd yán;uu fèng;sf nán;tl shì;gy jiàn;rn	10
 傲遊雲瀏覽器	ào;rw yóu;zz yún;yy liú;dd lǎn;ij qì;xx	10
 八八艦隊計畫	bā;pn bā;pn jiàn;vm duì;eu jì;yu huà;ya	10
 八八式偵察機	bā;pn bā;pn shì;gg zhēn;rb chá;bu jī;ar	10
@@ -92561,7 +92454,6 @@ sort: by_weight
 八七會議舊址	bā;pn qī;av huì;ro yì;yw jiù;cj zhǐ;tv	10
 八旗通志初集	bā;pn qí;fb tōng;zy zhì;tx chū;pd jí;ra	10
 八旗值年大臣	bā;pn qí;fb zhí;rq nián;pf dà;ar chén;kl	10
-八千麻袋事件	bā;pn qiān;pu má;ga dài;ry shì;gy jiàn;rn	10
 八千頌般若經	bā;pn qiān;pu sòng;gy bō;vu rě;ck jīng;sg	10
 八羥丙基蔗糖	bā;pn qiǎng;yg bǐng;an jī;ct zhè;ch táng;mk	10
 霸權主義國家	bà;yo quán;av zhǔ;wt yì;yw guó;wa jiā;bu	10
@@ -92571,7 +92463,6 @@ sort: by_weight
 巴尚二氏濾柱	bā;sl shàng;xk èr;aa shì;pv lǜ;dx zhù;av	10
 八射珊瑚亞綱	bā;pn shè;uc shān;wc hú;wo yà;aa gāng;su	10
 把生活過成詩	bǎ;fb shēng;pf huó;du guò;zk chéng;gv shī;yc	10
-巴士阿叔事件	bā;sl shì;ua ā;ek shū;uy shì;gy jiàn;rn	10
 八世達賴喇嘛	bā;pn shì;cv dá;zy lài;ub lǎ;kd ma;ka	10
 巴士德消毒法	bā;sl shì;ua dé;rx xiāo;do dú;fm fǎ;dq	10
 巴士底獄囚徒	bā;sl shì;ua dǐ;gu yù;qq qiú;wr tú;rz	10
@@ -92640,7 +92531,6 @@ sort: by_weight
 八月二十一日	bā;pn yuè;ke èr;aa shí;al yī;aa rì;wa	10
 八月十五日夜	bā;pn yuè;ke shí;al wǔ;aw rì;wa yè;ww	10
 八月十五夜月	bā;pn yuè;ke shí;al wǔ;aw yè;ww yuè;ke	10
-八月宗派事件	bā;pn yuè;ke zōng;bu pài;dy shì;gy jiàn;rn	10
 八雲分屯基地	bā;pn yún;yy fēn;bd tún;av jī;ct dì;ty	10
 把匝剌瓦爾密	bǎ;fb zā;kj lá;ud wǎ;ad ěr;ab mì;bu	10
 把盞淒然北望	bǎ;fb zhǎn;gm qī;dn rán;xh běi;lb wàng;ww	10
@@ -92703,7 +92593,6 @@ sort: by_weight
 白癜風一擦淨	bái;po diàn;bu fēng;ji yì;aa cā;fu jìng;dy	10
 白點細吻海豚	bái;po diǎn;lv xì;st wěn;kw hǎi;dm tún;ou	10
 擺動圓鋸清洗	bǎi;fb dòng;vl yuán;wb jù;jg qīng;do xǐ;de	10
-百度被黑事件	bǎi;ab dù;gy bèi;pp hēi;lh shì;gy jiàn;rn	10
 百度超級搜霸	bǎi;ab dù;gy chāo;tk jí;sj sōu;fy bà;yo	10
 百度人工智能	bǎi;ab dù;gy rén;pn gōng;aa zhì;uo néng;sb	10
 百度十大神獸	bǎi;ab dù;gy shí;al dà;ar shén;pu shòu;kq	10
@@ -92924,7 +92813,6 @@ sort: by_weight
 白嶽山阿斯達	bái;po yuè;uq shān;kl ē;ek sī;ct dá;zy	10
 白雲大道北站	bái;po yún;yy dà;ar dào;zz běi;lb zhàn;lv	10
 白雲機場北站	bái;po yún;yy jī;ar chǎng;tw běi;lb zhàn;lv	10
-白雲機場事件	bái;po yún;yy jī;ar chǎng;tw shì;gy jiàn;rn	10
 百戰天蟲系列	bǎi;ab zhàn;xg tiān;ad chóng;ii xì;px liè;dd	10
 百丈懷海禪師	bǎi;ab zhàng;an huái;xx hǎi;dm chán;pu shī;pj	10
 拜趙本山為師	bài;uf zhào;to běn;aa shān;kl wéi;dh shī;pj	10
@@ -93180,7 +93068,6 @@ sort: by_weight
 寶船遺址公園	bǎo;bb chuán;vk yí;zb zhǐ;tv gōng;bs yuán;wy	10
 保存有生力量	bǎo;ra cún;uz yǒu;uo shēng;pf lì;vp liàng;ol	10
 保大還是保小	bǎo;ra dà;ar hái;zy shì;oz bǎo;ra xiǎo;lb	10
-保導聯盟事件	bǎo;ra dǎo;zc lián;ej méng;om shì;gy jiàn;rn	10
 寶島商業銀行	bǎo;bb dǎo;nu shāng;wk yè;yw yín;jg háng;rd	10
 寶的悲慘日常	bǎo;bb de;bu bēi;fx cǎn;xp rì;wa cháng;xj	10
 鮑爾雙迭代法	bào;yb ěr;ab shuāng;ry dié;zf dài;rg fǎ;dq	10
@@ -93446,7 +93333,6 @@ sort: by_weight
 北大信科高培	běi;lb dà;ar xìn;rk kē;hd gāo;wk péi;tk	10
 北大嶼山公路	běi;lb dà;ar yǔ;ub shān;kl gōng;bs lù;zk	10
 北大嶼山醫院	běi;lb dà;ar yǔ;ub shān;kl yī;ky yuàn;ey	10
-北大嶽昕事件	běi;lb dà;ar yuè;uq xīn;ot shì;gy jiàn;rn	10
 北達資源中學	běi;lb dá;zy zī;db yuán;dx zhōng;kl xué;jz	10
 貝戴二氏脫位	bèi;ob dài;gg èr;aa shì;pv tuō;ox wèi;rl	10
 貝代二氏現象	bèi;ob dài;rg èr;aa shì;pv xiàn;wj xiàng;du	10
@@ -93514,7 +93400,6 @@ sort: by_weight
 北回歸線以北	běi;lb huí;wk guī;pj xiàn;su yǐ;lr běi;lb	10
 北回歸線以南	běi;lb huí;wk guī;pj xiàn;su yǐ;lr nán;ug	10
 北回木瓜牛奶	běi;lb huí;wk mù;ur guā;in,vd niú;pu nǎi;nn	10
-北極鯰魚事件	běi;lb jí;aa nián;yx yú;dh shì;gy jiàn;rn	10
 備急千金要方	bèi;ry jí;dx qiān;pu jīn;rb yào;xn fāng;wv	10
 北極星的眼淚	běi;lb jí;aa xīng;ou de;bu yǎn;og lèi;dq	10
 北極研究所巖	běi;lb jí;aa yán;uk jiū;bj suǒ;ht yán;uw	10
@@ -93528,7 +93413,6 @@ sort: by_weight
 北郊高級中學	běi;lb jiāo;we gāo;wk jí;sj zhōng;kl xué;jz	10
 被解放的姜戈	bèi;pp jiě;dn fàng;fw de;bu jiāng;yn gē;yd	10
 被解救的姜戈	bèi;pp jiě;dn jiù;qw de;bu jiāng;yn gē;yd	10
-北捷殺人事件	běi;lb jié;fz shā;xu rén;pn shì;gy jiàn;rn	10
 背街小巷改造	bèi;bo jiē;rt xiǎo;lb xiàng;gs,cs gǎi;jw zào;zk	10
 背街小巷環境	bèi;bo jiē;rt xiǎo;lb xiàng;gs,cs huán;wy jìng;te	10
 背街小巷整治	bèi;bo jiē;rt xiǎo;lb xiàng;gs,cs zhěng;uv zhì;dk	10
@@ -93947,7 +93831,6 @@ sort: by_weight
 本草品匯精要	běn;aa cǎo;cu pǐn;kk huì;kv jīng;mo yào;xn	10
 本草三家合注	běn;aa cǎo;cu sān;ae jiā;bu hé;rk zhù;dv	10
 本草醫方合編	běn;aa cǎo;cu yī;ky fāng;wv hé;rk biān;sc	10
-奔馳漏油事件	bēn;dc chí;my lòu;dy yóu;dy shì;gy jiàn;rn	10
 奔馳威霆改裝	bēn;dc chí;my wēi;gn tíng;yw gǎi;jw zhuāng;py	10
 本次減持計畫	běn;aa cì;dq jiǎn;dk chí;fc jì;yu huà;ya	10
 本次啟動儀式	běn;aa cì;dq qǐ;hw dòng;vl yí;rw shì;gg	10
@@ -97981,7 +97864,6 @@ sort: by_weight
 此暱稱不存在	cǐ;vb nì;ok chēng;hr bù;ab cún;uz zài;ut	10
 此鳥不飛則已	cǐ;vb niǎo;nh bù;ab fēi;fc zé;bd yǐ;kv	10
 磁扭線存儲器	cí;uy niǔ;fi xiàn;su cún;uz chǔ;ro qì;xx	10
-次諾門罕事件	cì;dq nuò;yk mén;ll hǎn;bg shì;gy jiàn;rn	10
 磁耦合截止閥	cí;uy ǒu;ld hé;rk jié;gv zhǐ;bl,lu fá;mg	12
 磁盤被寫保護	cí;uy pán;vm bèi;pp xiě;bh bǎo;ra hù;yy	10
 磁盤冗餘陣列	cí;uy pán;vm rǒng;bj yú;um zhèn;ei liè;dd	10
@@ -98666,7 +98548,6 @@ sort: by_weight
 大理世襲總管	dà;ar lǐ;wl shì;cv xí;ly zǒng;sx guǎn;vl	10
 大理石樣皮膚	dà;ar lǐ;wl shí;ak yàng;ay pí;py fū;ho	10
 大力水手波派	dà;ar lì;vp shuǐ;ln shǒu;pf bō;dp pài;dy	10
-大力水手事件	dà;ar lì;vp shuǐ;ln shǒu;pf shì;gy jiàn;rn	10
 大力水手炸雞	dà;ar lì;vp shuǐ;ln shǒu;pf zhá;hv jī;vv	10
 大理寺少卿遊	dà;ar lǐ;wl sì;tc shǎo;xp qīng;pg yóu;zz	10
 大利亞霍夫島	dà;ar lì;hd yà;aa huò;yv fū;er dǎo;nu	10
@@ -99417,7 +99298,6 @@ sort: by_weight
 倒卵葉魚骨木	dào;rd luǎn;pd yè;ca yú;dh gǔ;go mù;ur	10
 盜墓筆記全集	dào;dm mù;ct bǐ;vy jì;yj quán;rw jí;ra	10
 導納參數矩陣	dǎo;zc nà;sn cān;sp shù;uw jǔ;uj zhèn;ei	10
-倒奶殺牛事件	dào;rd nǎi;nn shā;xu niú;pu shì;gy jiàn;rn	10
 倒牛奶的女僕	dào;rd niú;pu nǎi;nn de;bu nǚ;va pú;rf	10
 倒披針葉蟲實	dào;rd pī;fp zhēn;ju yè;ca chóng;ii shí;bb	10
 到期還本付息	dào;gd qī;co huán;zy běn;aa fù;rc xī;zx	10
@@ -99677,7 +99557,6 @@ sort: by_weight
 低電離星系核	dī;ru diàn;yd lí;wv xīng;ou xì;px hé;ar	10
 低調的章魚君	dī;ru diào;yk de;bu zhāng;lu yú;dh jūn;yk	10
 低動力型休克	dī;ru dòng;vl lì;vp xíng;kt xiū;ra kè;ux,ge	10
-帝都不祥事件	dì;wj dū;le bù;ab xiáng;py shì;gy jiàn;rn	10
 低度異型增生	dī;ru dù;gy yì;tg xíng;kt zēng;to shēng;pf	10
 低端向中高端	dī;ru duān;le xiàng;pk zhōng;kl gāo;wk duān;le	10
 低端智能手機	dī;ru duān;le zhì;uo néng;sb shǒu;pf jī;ar	10
@@ -100227,7 +100106,6 @@ sort: by_weight
 電光石火之間	diàn;yd guāng;xe shí;ak huǒ;br zhī;dn jiān;mo	10
 奠桂酒兮椒漿	diàn;bd guì;at jiǔ;dy xī;bk jiāo;ay jiāng;pu	10
 顛過來倒過去	diān;uy guò;zk lái;ur dào;rd guò;zk qù;ts	10
-澱號劫機事件	diàn;du hào;kj jié;ql jī;ar shì;gy jiàn;rn	10
 電荷密度差圖	diàn;yd hè;ck mì;bu dù;gy chà;yg tú;wk	10
 電荷耦合器件	diàn;yd hè;ck ǒu;ld hé;rk qì;xx jiàn;rn	10
 電荷藕合器件	diàn;yd hè;ck ǒu;cd hé;rk qì;xx jiàn;rn	10
@@ -100697,7 +100575,6 @@ sort: by_weight
 頂推法頂推法	dǐng;dy tuī;fv fǎ;dq dǐng;dy tuī;fv fǎ;dq	10
 鼎王麻辣火鍋	dǐng;po wáng;at má;ga là;xu huǒ;br guō;jk	10
 丁未防城起義	dīng;al wèi;aa,er fáng;ef chéng;ti qǐ;tj yì;yw	10
-丁未漂人事件	dīng;al wèi;aa,er piāo;du rén;pn shì;gy jiàn;rn	10
 定位平面斜度	dìng;bz wèi;rl píng;au miàn;ao xié;rd dù;gy	10
 定武高速公路	dìng;bz wǔ;gv gāo;wk sù;zu gōng;bs lù;zk	10
 定縣開元寺塔	dìng;bz xiàn;qx kāi;mk yuán;aw sì;tc tǎ;tk	10
@@ -103501,7 +103378,6 @@ sort: by_weight
 奉天迫擊炮廠	fèng;if tiān;ad pǎi;zb jī;iu pào;hb chǎng;gw	10
 奉天醫科大學	fèng;if tiān;ad yī;ky kē;hd dà;ar xué;jz	10
 奉天玉大和尚	fèng;if tiān;ad yù;wd dà;ar hé;hk shàng;xk	10
-豐田召回事件	fēng;ub tián;wu zhào;dk huí;wk shì;gy jiàn;rn	10
 豐田自動織機	fēng;ub tián;wu zì;po dòng;vl zhī;so jī;ar	10
 風停了雲知道	fēng;ji tíng;rd le;al yún;yy zhī;uk dào;zz	10
 奉銅高速公路	fèng;if tóng;jk gāo;wk sù;zu gōng;bs lù;zk	10
@@ -104352,7 +104228,6 @@ sort: by_weight
 甘肅高速公路	gān;ca sù;ya gāo;wk sù;zu gōng;bs lù;zk	10
 甘肅廣電總臺	gān;ca sù;ya guǎng;gb diàn;yd zǒng;sx tái;tt	10
 甘肅蘭州兵變	gān;ca sù;ya lán;cj zhōu;dl bīng;qb biàn;xw	10
-甘肅隴南事件	gān;ca sù;ya lǒng;el nán;ug shì;gy jiàn;rn	10
 甘肅旅遊景點	gān;ca sù;ya lǚ;fy yóu;zz jǐng;ox diǎn;lv	10
 甘肅師範大學	gān;ca sù;ya shī;pj fàn;vv dà;ar xué;jz	10
 肝素塗覆管道	gān;og sù;fx tú;dt fù;xw guǎn;vl dào;zz	10
@@ -106150,7 +106025,6 @@ sort: by_weight
 谷歌金山詞霸	gǔ;bk gē;kq jīn;rb shān;kl cí;yk bà;yo	10
 古格魯吉亞語	gǔ;uk gé;ak lǔ;yo jí;tk yà;aa yǔ;yk	10
 谷歌人工智能	gǔ;bk gē;kq rén;pn gōng;aa zhì;uo néng;sb	10
-谷歌涉黃事件	gǔ;bk gē;kq shè;du huáng;cb shì;gy jiàn;rn	10
 古格王朝遺址	gǔ;uk gé;ak wáng;at cháo;uo yí;zb zhǐ;tv	10
 古格王國遺址	gǔ;uk gé;ak wáng;at guó;wa yí;zb zhǐ;tv	10
 谷歌眼鏡項目	gǔ;bk gē;kq yǎn;og jìng;je xiàng;gy mù;we	10
@@ -107118,9 +106992,7 @@ sort: by_weight
 果蝠冠狀病毒	guǒ;ta fú;it guān;bc zhuàng;pq bìng;bn dú;fm	10
 國富浩華國際	guó;wa fù;bt hào;dk huá;cf guó;wa jì;eu	10
 國父紀念館站	guó;wa fù;bx jì;sj niàn;rx guǎn;ul zhàn;lv	10
-國府遷台事件	guó;wa fǔ;gc qiān;zs tái;sk shì;gy jiàn;rn	10
 國府田麻理子	guó;wa fǔ;gc tián;wu má;ga lǐ;wl zi;la	10
-果敢八八事件	guǒ;ta gǎn;ew bā;pn bā;pn shì;gy jiàn;rn	10
 國剛果共和國	guó;wa gāng;kd guǒ;ta gòng;cb hé;hk guó;wa	10
 過高或者過低	guò;zk gāo;wk huò;ga zhě;lo guò;zk dī;ru	10
 過更好的生活	guò;zk gèng;an hǎo;nz de;bu shēng;pf huó;du	10
@@ -108215,7 +108087,6 @@ sort: by_weight
 毫須裝甲汽車	háo;wm xū;py zhuāng;py jiǎ;ol,tl qì;dq chē;iu	10
 好一點的學校	hǎo;nz yì;aa diǎn;lv de;bu xué;jz xiào;af	10
 好友和朋友圈	hǎo;nz yǒu;uy hé;hk péng;oo you;uy quān;wv	10
-號魚雷艇事件	hào;kj yú;dh léi;yt tǐng;vw shì;gy jiàn;rn	10
 號魚雷巡洋艦	hào;kj yú;dh léi;yt xún;zv yáng;dy jiàn;vm	10
 好苑建國酒店	hǎo;nz yuàn;cv jiàn;zy guó;wa jiǔ;dy diàn;gv	10
 號月球玄武岩	hào;kj yuè;ke qiú;wq xuán;wy wǔ;gv yán;uu	10
@@ -108246,7 +108117,6 @@ sort: by_weight
 河北礦冶學院	hé;dk běi;lb kuàng;ub yě;dk xué;jz yuàn;ey	10
 河北旅遊景點	hé;dk běi;lb lǚ;fy yóu;zz jǐng;ox diǎn;lv	10
 河北摩崖石刻	hé;dk běi;lb mó;gu yá;ut shí;ak kè;wd	10
-河北目擊事件	hé;dk běi;lb mù;we jī;iu shì;gy jiàn;rn	10
 河北盛華化工	hé;dk běi;lb shèng;im huá;cf huà;rb gōng;aa	10
 河北師大附中	hé;dk běi;lb shī;pj dà;ar fù;ec zhōng;kl	10
 河北師範大學	hé;dk běi;lb shī;pj fàn;vv dà;ar xué;jz	10
@@ -108681,7 +108551,6 @@ sort: by_weight
 黑色水晶項鍊	hēi;lh sè;db shuǐ;ln jīng;oo xiàng;gy liàn;jj	10
 黑色素母細胞	hēi;lh sè;db sù;fx mǔ;md xì;st bāo;ob	10
 黑色碳質頁岩	hēi;lh sè;db tàn;uh zhì;ib yè;ab yán;uu	10
-黑色五月事件	hēi;lh sè;db wǔ;aw yuè;ke shì;gy jiàn;rn	10
 黑色橡膠錶帶	hēi;lh sè;db xiàng;au jiāo;op biǎo;jy dài;cj	10
 黑沙青年旅舍	hēi;lh shā;du qīng;fo nián;pf lǚ;fy shè;rg	10
 黑鯊遊戲手機	hēi;lh shā;dy yóu;zz xì;hg shǒu;pf jī;ar	10
@@ -108936,7 +108805,6 @@ sort: by_weight
 紅其拉甫口岸	hóng;sg qí;cb lā;fl fǔ;uy kǒu;la àn;ug	10
 紅其拉甫山口	hóng;sg qí;cb lā;fl fǔ;uy shān;kl kǒu;la	10
 紅旗渠的故事	hóng;sg qí;fb qú;da de;bu gù;gw shi;gy	10
-虹橋機場事件	hóng;ig qiáo;ak jī;ar chǎng;tw shì;gy jiàn;rn	10
 紅絨蓋牛肝菌	hóng;sg róng;su gài;cm niú;pu gān;og jūn;ch	10
 紅色革命遺址	hóng;sg sè;db gé;cu mìng;re yí;zb zhǐ;tv	10
 紅色格子襯衫	hóng;sg sè;db gé;ak zi;la chèn;pj shān;pp	10
@@ -109370,7 +109238,6 @@ sort: by_weight
 互質因子算法	hù;ah zhì;ib yīn;wd zǐ;la suàn;vc fǎ;dq	10
 湖州高速公路	hú;do zhōu;dl gāo;wk sù;zu gōng;bs lù;zk	10
 湖州師範學院	hú;do zhōu;dl shī;pj fàn;vv xué;jz yuàn;ey	10
-湖州織里事件	hú;do zhōu;dl zhī;so lǐ;tt shì;gy jiàn;rn	10
 華安宏利股票	huá;cf ān;bn hóng;bs lì;hd gǔ;ou piào;xu	10
 華澳國際信託	huá;cf ào;dd guó;wa jì;eu xìn;rk tuō;yq	10
 花斑光滑加工	huā;cb bān;ww guāng;xe huá;do jiā;lk gōng;aa	10
@@ -111758,7 +111625,6 @@ sort: by_weight
 嘉實浦安保本	jiā;tk shí;bb pǔ;df ān;bn bǎo;ra běn;aa	10
 家事審判改革	jiā;bu shì;gy shěn;bt pàn;bd gǎi;jw gé;cu	10
 夾石剔除厚度	jiā;dr shí;ak tī;od chú;em hòu;iz dù;gy	10
-佳士維權事件	jiā;rt shì;ua wéi;sv quán;av shì;gy jiàn;rn	10
 嘉實穩固收益	jiā;tk shí;bb wěn;hx gù;wg shōu;jw yì;bm	10
 嘉實優化紅利	jiā;tk shí;bb yōu;rw huà;rb hóng;sg lì;hd	10
 駕駛員的操作	jià;lm shǐ;mu yuán;kb de;bu cāo;fa zuò;rv	10
@@ -112133,7 +111999,6 @@ sort: by_weight
 堅強智能電網	jiān;it qiáng;gi zhì;uo néng;sb diàn;yd wǎng;sw	10
 劍橋大學默里	jiàn;rd qiáo;ak dà;ar xué;jz mò;lq lǐ;tt	10
 劍橋大學人物	jiàn;rd qiáo;ak dà;ar xué;jz rén;pn wù;nw	10
-劍橋分析事件	jiàn;rd qiáo;ak fēn;bd xī;at shì;gy jiàn;rn	10
 劍橋公立學校	jiàn;rd qiáo;ak gōng;bs lì;wb xué;jz xiào;af	10
 劍橋商務英語	jiàn;rd qiáo;ak shāng;wk wù;ml yīng;cy yǔ;yk	10
 劍橋哲學辭典	jiàn;rd qiáo;ak zhé;fk xué;jz cí;vx diǎn;qb,cb	10
@@ -112436,7 +112301,6 @@ sort: by_weight
 姜文電影作品	jiāng;yn wén;wx diàn;yd yǐng;op zuò;rv pǐn;kk	10
 姜文來農科院	jiāng;yn wén;wx lái;ur nóng;qi kē;hd yuàn;ey	10
 江西布政使司	jiāng;dg xī;ak,wk bù;uj zhèng;vw shǐ;rl sī;vk	10
-江西豐城事件	jiāng;dg xī;ak,wk fēng;ub chéng;ti shì;gy jiàn;rn	10
 江西高速公路	jiāng;dg xī;ak,wk gāo;wk sù;zu gōng;bs lù;zk	10
 江習高速公路	jiāng;dg xí;xb gāo;wk sù;zu gōng;bs lù;zk	10
 江西高速交警	jiāng;dg xī;ak,wk gāo;wk sù;zu jiāo;wf jǐng;ck	10
@@ -113690,7 +113554,6 @@ sort: by_weight
 精密測量儀器	jīng;mo mì;bu cè;dd liáng;ol yí;rw qì;xx	10
 京密高速公路	jīng;wx mì;bu gāo;wk sù;zu gōng;bs lù;zk	10
 精密儀器儀表	jīng;mo mì;bu yí;rw qì;xx yí;rw biǎo;fy	10
-景明大樓事件	jǐng;ox míng;oo dà;ar lóu;an shì;gy jiàn;rn	10
 精明的生意人	jīng;mo míng;oo de;bu shēng;pf yi;lx rén;pn	10
 精明的投資者	jīng;mo míng;oo de;bu tóu;fu zī;db zhě;lo	10
 精明就精明在	jīng;mo míng;oo jiù;wy jīng;mo míng;oo zài;ut	10
@@ -114313,7 +114176,7 @@ sort: by_weight
 居民生活電價	jū;ug mín;vv shēng;pf huó;du diàn;yd jià;rb	10
 居民自治章程	jū;ug mín;vv zì;po zhì;dk zhāng;lu chéng;hw	10
 巨魔之血藥水	jù;kk mó;gg zhī;dn xuè;pm yào;ca shuǐ;ln	10
-拘那含牟尼佛	jū;fj nà;ve hán;rk mù;sn ní;ub fó;rf	10
+拘那含牟尼佛	jū;fj nà;ve hán;rk móu;sn ní;ub fó;rf	10
 莒南第一中學	jǔ;ck nán;ug dì;vd yī;aa zhōng;kl xué;jz	10
 鉅派投資集團	jù;jj pài;dy tóu;fu zī;db jí;ra tuán;wc	10
 巨泡五趾跳鼠	jù;kk pào;db wǔ;aw zhǐ;zv tiào;zv shǔ;jv	10
@@ -115721,7 +115584,6 @@ sort: by_weight
 空軍志航基地	kōng;bg jūn;bi zhì;tx háng;vj jī;ct dì;ty	10
 空軍指揮學院	kōng;bg jūn;bi zhǐ;fo huī;fi xué;jz yuàn;ey	10
 空軍總司令部	kōng;bg jūn;bi zǒng;sx sī;vk lìng;rs bù;le	10
-空喀山口事件	kōng;bg kā;kk shān;kl kǒu;la shì;gy jiàn;rn	10
 孔科爾迪亞港	kǒng;zv kē;hd ěr;ab dí;zy yà;aa gǎng;ds	10
 空冷器管束箱	kōng;bg lěng;ds qì;xx guǎn;vl shù;gr xiāng;vo	10
 恐龍滅絕事件	kǒng;gx lóng;lv miè;dh jué;sb shì;gy jiàn;rn	10
@@ -116033,7 +115895,6 @@ sort: by_weight
 昆明師範學院	kūn;ob míng;oo shī;pj fàn;vv xué;jz yuàn;ey	10
 昆明醫科大學	kūn;ob míng;oo yī;ky kē;hd dà;ar xué;jz	10
 昆磨高速公路	kūn;ob mó;gu gāo;wk sù;zu gōng;bs lù;zk	10
-崑山爆炸事件	kūn;ub shān;kl bào;hu zhà;hv shì;gy jiàn;rn	10
 崑石高速公路	kūn;ub shí;ak gāo;wk sù;zu gōng;bs lù;zk	10
 昆斯伯裏公爵	kūn;ob sī;ct bó;rb lǐ;yl gōng;bs jué;vc	10
 昆嵩高速公路	kūn;ob sōng;uk gāo;wk sù;zu gōng;bs lù;zk	10
@@ -117706,7 +117567,6 @@ sort: by_weight
 劉胡蘭紀念館	liú;pd hú;go lán;cj jì;sj niàn;rx guǎn;ul	10
 流化床反應器	liú;di huà;rb chuáng;ga fǎn;iy yìng;gx qì;xx	10
 流化催化裂化	liú;di huà;rb cuī;rv huà;rb liè;dy huà;rb	10
-劉輝履歷事件	liú;pd huī;gi lǚ;uw lì;iv shì;gy jiàn;rn	10
 六甲頂開仙宮	liù;wb jiǎ;ol,tl dǐng;dy kāi;mk xiān;ru gōng;bk	10
 六甲纜索下站	liù;wb jiǎ;ol,tl lǎn;sj suǒ;ux xià;ab zhàn;lv	10
 六甲磷酰三銨	liù;wb jiǎ;ol,tl lín;uf xiān;ye sān;ae ǎn;jn	10
@@ -117736,7 +117596,6 @@ sort: by_weight
 流浪的三腳貓	liú;di làng;dl de;bu sān;ae jiǎo;oe māo;vt	10
 流浪的小孩子	liú;di làng;dl de;bu xiǎo;lb hái;zr zi;la	10
 流浪的猶太人	liú;di làng;dl de;bu yóu;qy tài;dd rén;pn	10
-流浪氣球事件	liú;di làng;dl qì;qm qiú;wq shì;gy jiàn;rn	10
 柳浪聞鶯公園	liǔ;ae làng;dl wén;me yīng;hn gōng;bs yuán;wy	10
 流浪者的故事	liú;di làng;dl zhě;lo de;bu gù;gw shi;gy	10
 流淚的一瞬間	liú;di lèi;dq de;bu yí;aa shùn;of jiān;mo	10
@@ -117977,7 +117836,6 @@ sort: by_weight
 蘆洞彈道導彈	lú;cm dòng;dk dàn;gu dào;zz dǎo;zc dàn;gu	10
 盧厄血紅蛋白	lú;hm è;iv xuè;pm hóng;sg dàn;zi bái;po	10
 魯菲二氏試驗	lǔ;yo fēi;cf èr;aa shì;pv shì;yg yàn;mr	10
-陸豐烏坎事件	lù;et fēng;ub wū;wh kǎn;tq shì;gy jiàn;rn	10
 蘆福遞降反應	lú;cm fú;pt dì;zj jiàng;ef fǎn;iy yìng;gx	10
 爐甘石草藥類	lú;hm gān;ca shí;ak cǎo;cu yào;ca lèi;my	10
 擼胳膊挽袖子	lū;fo gē;ok bo;oc wǎn;fe xiù;py zi;la	10
@@ -118915,7 +118773,6 @@ sort: by_weight
 美軍第空降師	měi;yd jūn;bi dì;vd kōng;bg jiàng;ef shī;pj	10
 黴菌毒素中毒	méi;rh jūn;ch dú;fm sù;fx zhòng;kl dú;fm	10
 黴菌和酵母菌	méi;rh jūn;ch hé;hk jiào;yz mǔ;md jūn;ch	10
-美軍虐囚事件	měi;yd jūn;bi nüè;he qiú;wr shì;gy jiàn;rn	10
 美軍特種部隊	měi;yd jūn;bi tè;nc zhǒng;hv bù;le duì;eu	10
 美軍中國戰區	měi;yd jūn;bi zhōng;kl guó;wa zhàn;xg qū;kk	10
 沒考慮過這個	méi;dy kǎo;lk lǜ;hx guò;zk zhè;zk ge;rg	10
@@ -120087,7 +119944,6 @@ sort: by_weight
 南京長江大橋	nán;ug jīng;wx cháng;ey jiāng;dg dà;ar qiáo;ak	10
 難經匯注箋正	nán;cv jīng;sg huì;kv zhù;dv jiān;vg zhèng;av	10
 難經經釋補正	nán;cv jīng;sg jīng;sg shì;mg bǔ;pf zhèng;av	10
-南京虐童事件	nán;ug jīng;wx nüè;he tóng;ll shì;gy jiàn;rn	10
 南京郵電大學	nán;ug jīng;wx yóu;qe diàn;yd dà;ar xué;jz	10
 南卡羅來納州	nán;ug kǎ;ub luó;sv lái;ur nà;sn zhōu;dl	10
 南卡羅萊納州	nán;ug kǎ;ub luó;sv lái;cl nà;sn zhōu;dl	10
@@ -120296,7 +120152,6 @@ sort: by_weight
 內科主治醫師	nèi;kr kē;hd zhǔ;wt zhì;dk yī;ky shī;pj	10
 內控實施細則	nèi;kr kòng;fg shí;bb shī;fy xì;st zé;bd	10
 內窺鏡活檢鉗	nèi;kr kuī;bj jìng;je huó;du jiǎn;ar qián;jg	10
-內拉格郎日點	nèi;kr lā;fl gé;ak láng;le rì;wa diǎn;lv	10
 內拉格朗日點	nèi;kr lā;fl gé;ak lǎng;lo rì;wa diǎn;lv	10
 內力地質作用	nèi;kr lì;vp dì;ty zhì;ib zuò;rv yòng;kf,ol	10
 內六角螺絲刀	nèi;kr liù;wb jiǎo;dy luó;ix sī;sx dāo;vp	10
@@ -120361,7 +120216,6 @@ sort: by_weight
 能明顯感受到	néng;sb míng;oo xiǎn;oy gǎn;gx shòu;vy dào;gd	10
 能清楚的看到	néng;sb qīng;do chǔ;az de;bu kàn;uo dào;gd	10
 能清楚地看到	néng;sb qīng;do chu;az de;ty kàn;uo dào;gd	10
-能清晰的看到	néng;sb qīng;do xī;ot de;bu kàn;uo dào;gd	10
 能清晰地看到	néng;sb qīng;do xī;ot de;ty kàn;uo dào;gd	10
 能少吃就少喫	néng;sb shǎo;xp chī;kv jiù;wy shǎo;xp chī;kd	10
 能施展魔法的	néng;sb shī;fy zhǎn;uy mó;gg fǎ;dq de;bu	10
@@ -122317,7 +122171,6 @@ sort: by_weight
 七月二十五日	qī;av yuè;ke èr;aa shí;al wǔ;aw rì;wa	10
 七月二十一日	qī;av yuè;ke èr;aa shí;al yī;aa rì;wa	10
 七月九日大道	qī;av yuè;ke jiǔ;pv rì;wa dà;ar dào;zz	10
-七月流血事件	qī;av yuè;ke liú;di xuè;pm shì;gy jiàn;rn	10
 七月三十一日	qī;av yuè;ke sān;ae shí;al yī;aa rì;wa	10
 契約自由原則	qì;fd yuē;su zì;po yóu;ol,lt yuán;ix zé;bd	10
 其運動情況是	qí;cb yùn;zi dòng;vl qíng;xo kuàng;dx shì;oz	10
@@ -123303,7 +123156,6 @@ sort: by_weight
 青銅時代遺址	qīng;fo tóng;jk shí;oc dài;rg yí;zb zhǐ;tv	10
 青銅之力安德	qīng;fo tóng;jk zhī;dn lì;vp ān;bn dé;rx	10
 青銅縱目面具	qīng;fo tóng;jk zòng;sz mù;we miàn;ao jù;qb	10
-青蛙少年事件	qīng;fo wā;it shào;xp nián;pf shì;gy jiàn;rn	10
 青威高速公路	qīng;fo wēi;gn gāo;wk sù;zu gōng;bs lù;zk	10
 輕微刑事案件	qīng;ig wēi;rj xíng;kd shì;gy àn;ba jiàn;rn	10
 卿爲朝朝暮暮	qīng;pg wéi;vh zhāo;uo zhāo;uo mù;co mù;co	10
@@ -124536,8 +124388,6 @@ sort: by_weight
 人生起起伏伏	rén;pn shēng;pf qǐ;tj qǐ;tj fú;rq fú;rq	10
 人生起起落落	rén;pn shēng;pf qǐ;tj qǐ;tj luò;ck luò;ck	10
 人生若如初見	rén;pn shēng;pf ruò;ck rú;nk chū;pd jiàn;oe	10
-人生若只初見	rén;pn shēng;pf ruò;ck zhǐ;kb chū;pd jiàn;oe	10
-人生若只如初	rén;pn shēng;pf ruò;ck zhǐ;kb rú;nk chū;pd	10
 人生是美好的	rén;pn shēng;pf shì;oz měi;yd hǎo;nz de;bu	10
 人生是美麗的	rén;pn shēng;pf shì;oz měi;yd lì;lb de;bu	10
 人生十字路口	rén;pn shēng;pf shí;al zì;bz lù;zk kǒu;la	10
@@ -125327,7 +125177,6 @@ sort: by_weight
 三種統治形式	sān;ae zhǒng;hv tǒng;sy zhì;dk xíng;kp shì;gg	10
 三中心二電子	sān;ae zhōng;kl xīn;dd èr;aa diàn;yd zǐ;la	10
 三中心兩電子	sān;ae zhōng;kl xīn;dd liǎng;ar diàn;yd zǐ;la	10
-三種顏色事件	sān;ae zhǒng;hv yán;wy sè;db shì;gy jiàn;rn	10
 三忠於四無限	sān;ae zhōng;vx yú;fd sì;we wú;ph xiàn;eg	10
 三軸應力狀態	sān;ae zhóu;iy yīng;gx lì;vp zhuàng;pq tài;sx	10
 三自愛國教會	sān;ae zì;po ài;vw guó;wa jiào;lw huì;ro	10
@@ -125368,7 +125217,6 @@ sort: by_weight
 僧富者不能至	sēng;ro fù;bt zhě;lo bù;ab néng;sb zhì;gt	10
 沙巴棕提取物	shā;du bā;sl zōng;au tí;fz qǔ;ey wù;nw	10
 傻白甜的角色	shǎ;rw bái;po tián;ug de;bu jué;dy sè;db	10
-莎車暴恐事件	shā;cu chē;iu bào;ou kǒng;gx shì;gy jiàn;rn	10
 煞車優先系統	shā;dh chē;iu yōu;rw xiān;ne xì;px tǒng;sy	10
 剎車優先系統	shā;xd chē;iu yōu;rw xiān;ne xì;px tǒng;sy	10
 廈成高速公路	shà;gw chéng;gv gāo;wk sù;zu gōng;bs lù;zk	10
@@ -125624,7 +125472,6 @@ sort: by_weight
 陝西延長石油	shǎn;er xī;ak,wk yán;zv cháng;ey shí;ak yóu;dy	10
 山西陽泉煤業	shān;kl xī;ak,wk yáng;ew quán;bu méi;ha yè;yw	10
 山西醫科大學	shān;kl xī;ak,wk yī;ky kē;hd dà;ar xué;jz	10
-山西疫苗事件	shān;kl xī;ak,wk yì;bu miáo;ct shì;gy jiàn;rn	10
 陝西銀河國樑	shǎn;er xī;ak,wk yín;jg hé;dk guó;wa liáng;aa	10
 山西有限公司	shān;kl xī;ak,wk yǒu;uo xiàn;eg gōng;bs sī;vk	12
 陝西有限公司	shǎn;er xī;ak,wk yǒu;uo xiàn;eg gōng;bs sī;vk	10
@@ -127439,10 +127286,10 @@ sort: by_weight
 士嘉堡北選區	shì;ua jiā;tk bǎo;rt běi;lb xuǎn;zg qū;kk	10
 世嘉都市樂園	shì;cv jiā;tk dū;le shì;wj lè;ya yuán;wy	10
 史家胡同小學	shǐ;kn jiā;bu hú;go tòng;kk xiǎo;lb xué;jz	10
-釋迦牟尼佛所	shì;mg jiā;zk mù;sn ní;ub fó;rf suǒ;ht	10
-釋迦牟尼佛像	shì;mg jiā;zk mù;sn ní;ub fó;rf xiàng;ru	10
-釋迦牟尼如來	shì;mg jiā;zk mù;sn ní;ub rú;nk lái;ur	10
-釋迦牟尼世尊	shì;mg jiā;zk mù;sn ní;ub shì;cv zūn;bc	10
+釋迦牟尼佛所	shì;mg jiā;zk móu;sn ní;ub fó;rf suǒ;ht	10
+釋迦牟尼佛像	shì;mg jiā;zk móu;sn ní;ub fó;rf xiàng;ru	10
+釋迦牟尼如來	shì;mg jiā;zk móu;sn ní;ub rú;nk lái;ur	10
+釋迦牟尼世尊	shì;mg jiā;zk móu;sn ní;ub shì;cv zūn;bc	10
 世嘉土星遊戲	shì;cv jiā;tk tǔ;ua xīng;ou yóu;zz xì;hg	10
 史家小學分校	shǐ;kn jiā;bu xiǎo;lb xué;jz fēn;bd xiào;af	10
 世嘉硬件女孩	shì;cv jiā;tk yìng;ug jiàn;rn nǚ;va hái;zr	10
@@ -127963,7 +127810,7 @@ sort: by_weight
 實時光線追蹤	shí;bb shí;oc guāng;xe xiàn;su zhuī;zl zōng;zz	10
 實時行情數據	shí;bb shí;oc háng;rd qíng;xo shù;uw jù;fu	10
 史詩毀滅金屬	shǐ;kn shī;yc huǐ;ju miè;dh jīn;rb shǔ;ui	10
-時釋迦牟尼佛	shí;oc shì;mg jiā;zk mù;sn ní;ub fó;rf	10
+時釋迦牟尼佛	shí;oc shì;mg jiā;zk móu;sn ní;ub fó;rf	10
 實施家庭暴力	shí;bb shī;fy jiā;bu tíng;gw bào;ou lì;vp	10
 實時監測數據	shí;bb shí;oc jiān;im cè;dd shù;uw jù;fu	10
 實時監測系統	shí;bb shí;oc jiān;im cè;dd xì;px tǒng;sy	10
@@ -129836,7 +129683,6 @@ sort: by_weight
 四月二十四日	sì;we yuè;ke èr;aa shí;al sì;we rì;wa	10
 四月二十五日	sì;we yuè;ke èr;aa shí;al wǔ;aw rì;wa	10
 四月二十一日	sì;we yuè;ke èr;aa shí;al yī;aa rì;wa	10
-四月三日事件	sì;we yuè;ke sān;ae rì;wa shì;gy jiàn;rn	10
 四診心法要訣	sì;we zhěn;yp xīn;dd fǎ;dq yào;xn jué;yg	10
 四肢供血不足	sì;we zhī;ov gōng;rg xuè;pm bù;ab zú;kz	10
 四肢聶聶動者	sì;we zhī;ov niè;ee niè;ee dòng;vl zhě;lo	10
@@ -130383,7 +130229,6 @@ sort: by_weight
 颱風基礎資訊	tái;fk fēng;ji jī;ct chǔ;uz zī;db xùn;yu	10
 臺福基督教會	tái;tt fú;pt jī;ct dū;uo jiào;lw huì;ro	10
 臺夫特塔實驗	tái;tt fū;er tè;nc tǎ;tk shí;bb yàn;mr	10
-太伏中學事件	tài;dd fú;rq zhōng;kl xué;jz shì;gy jiàn;rn	10
 台港盜版時期	tái;sk gǎng;ds dào;dm bǎn;py shí;oc qī;co	10
 臺鋼科技大學	tái;tt gāng;ju kē;hd jì;fv dà;ar xué;jz	10
 太鼓達人系列	tài;dd gǔ;tv dá;zy rén;pn xì;px liè;dd	10
@@ -130575,7 +130420,6 @@ sort: by_weight
 覃家廟石灰岩	tán;xu jiā;bu miào;go shí;ak huī;uh yán;uu	10
 碳鍵形成反應	tàn;uh jiàn;jy xíng;kp chéng;gv fǎn;iy yìng;gx	10
 碳金屬化反應	tàn;uh jīn;rb shǔ;ui huà;rb fǎn;iy yìng;gx	10
-譚靜墜樓事件	tán;yu jìng;fy zhuì;et lóu;an shì;gy jiàn;rn	10
 炭疽芽孢桿菌	tàn;uh jū;bq yá;cy bāo;zb gǎn;ag jūn;ch	10
 炭疽芽胞桿菌	tàn;uh jū;bq yá;cy bāo;ob gǎn;ag jūn;ch	10
 談了個女朋友	tán;yh le;al gè;rg nǚ;va péng;oo you;uy	10
@@ -130737,7 +130581,6 @@ sort: by_weight
 桃利伊夫斯基	táo;av lì;hd yī;ry fū;er sī;ct jī;ct	10
 陶魯比永城堡	táo;ef lǔ;yo bǐ;bb yǒng;du chéng;ti bǎo;rt	10
 套路與反套路	tào;dg lù;zk yǔ;jb fǎn;iy tào;dg lù;zk	10
-陶普斯號事件	táo;ef pǔ;bo sī;ct hào;kj shì;gy jiàn;rn	10
 套期保值合約	tào;dg qī;co bǎo;ra zhí;rq hé;rk yuē;su	10
 套期保值交易	tào;dg qī;co bǎo;ra zhí;rq jiāo;wf yì;ow	10
 淘氣的金絲猴	táo;df qì;qm de;bu jīn;rb sī;sx hóu;qu	10
@@ -131571,7 +131414,6 @@ sort: by_weight
 通識教育課程	tōng;zy shí;yo jiào;lw yù;wo kè;yg chéng;hw	10
 通識教育學院	tōng;zy shí;yo jiào;lw yù;wo xué;jz yuàn;ey	10
 同時履行抗辯	tóng;kk shí;oc lǚ;uw xíng;rd kàng;fj biàn;xk	10
-同是天涯淪落	tóng;kk shì;oz tiān;ad yá;dt lún;dc luò;ck	10
 通水試驗記錄	tōng;zy shuǐ;ln shì;yg yàn;mr jì;yj lù;ju	10
 同素環化合物	tóng;kk sù;fx huán;wy huà;rb hé;rk wù;nw	10
 通俗易懂的話	tōng;zy sú;rg yì;ow dǒng;xv de;bu huà;yu	10
@@ -131901,7 +131743,6 @@ sort: by_weight
 推出全新車型	tuī;fv chū;uu quán;rw xīn;lt chē;iu xíng;kt	10
 推出優惠政策	tuī;fv chū;uu yōu;rw huì;ix zhèng;vw cè;vu	10
 退出娛樂圈後	tuì;zg chū;uu yú;nt lè;ya quān;wv hòu;rw	10
-退出中國事件	tuì;zg chū;uu zhōng;kl guó;wa shì;gy jiàn;rn	10
 腿創傷性切斷	tuǐ;og chuāng;rd shāng;rw xìng;xu qiē;qd duàn;vt	10
 推動產業集聚	tuī;fv dòng;vl chǎn;wu yè;yw jí;ra jù;eu	10
 推動電子商務	tuī;fv dòng;vl diàn;yd zǐ;la shāng;wk wù;ml	10
@@ -132136,7 +131977,6 @@ sort: by_weight
 外科證治準繩	wài;xb kē;hd zhèng;yb zhì;dk zhǔn;du shéng;sd	10
 外科主任醫師	wài;xb kē;hd zhǔ;wt rèn;rw yī;ky shī;pj	10
 外科主治醫師	wài;xb kē;hd zhǔ;wt zhì;dk yī;ky shī;pj	10
-外拉格郎日點	wài;xb lā;fl gé;ak láng;le rì;wa diǎn;lv	10
 外拉格朗日點	wài;xb lā;fl gé;ak lǎng;lo rì;wa diǎn;lv	10
 外來務工人員	wài;xb lái;ur wù;ml gōng;aa rén;pn yuán;kb	10
 外來務工子女	wài;xb lái;ur wù;ml gōng;aa zǐ;la nǚ;va	10
@@ -132590,7 +132430,6 @@ sort: by_weight
 王室高級成員	wáng;at shì;bt gāo;wk jí;sj chéng;gv yuán;kb	10
 王室教師海涅	wáng;at shì;bt jiào;lw shī;pj hǎi;dm niè;dt	10
 往事歷歷在目	wǎng;rv shì;gy lì;iv lì;iv zài;ut mù;we	10
-王守仁的粉絲	wáng;at shǒu;bc rén;re de;bu fěn;mf sī;sx	10
 王蜀宮妓圖軸	wáng;at shǔ;si gōng;bk jì;nv tú;wk zhóu;iy	10
 王思聰的女友	wáng;at sī;tx cōng;ex de;bu nǚ;va yǒu;uy	10
 王思聰的微博	wáng;at sī;tx cōng;ex de;bu wēi;rj bó;uc	10
@@ -133079,10 +132918,10 @@ sort: by_weight
 未完成的心願	wèi;aa,er wán;by chéng;gv de;bu xīn;dd yuàn;iy	10
 未完結的故事	wèi;aa,er wán;by jié;sk de;bu gù;gw shi;gy	10
 未完施工成本	wèi;aa,er wán;by shī;fy gōng;aa chéng;gv běn;aa	10
-爲萬世開太平	wéi;vh wàn;cd shì;cv kāi;mk tài;dd píng;au	10
+爲萬世開太平	wèi;vh wàn;cd shì;cv kāi;mk tài;dd píng;au	10
 胃網膜右動脈	wèi;to wǎng;sw mó;od yòu;uk dòng;vl mài;oy	10
 胃網膜左動脈	wèi;to wǎng;sw mó;od zuǒ;ug dòng;vl mài;oy	10
-爲往聖繼絕學	wéi;vh wǎng;rv shèng;ew jì;sy jué;sb xué;jz	10
+爲往聖繼絕學	wèi;vh wǎng;rv shèng;ew jì;sy jué;sb xué;jz	10
 圍魏救趙之計	wéi;wf wèi;hg jiù;qw zhào;to zhī;dn jì;yu	10
 微微秒光譜學	wēi;rj wēi;rj miǎo;hu guāng;xe pǔ;yo xué;jz	10
 微微秒激光器	wēi;rj wēi;rj miǎo;hu jī;dw guāng;xe qì;xx	10
@@ -133108,7 +132947,7 @@ sort: by_weight
 危險就危險在	wēi;dv xiǎn;er jiù;wy wēi;dv xiǎn;er zài;ut	10
 危險區平面圖	wēi;dv xiǎn;er qū;kk píng;au miàn;ao tú;wk	10
 違憲審查制度	wéi;zf xiàn;bx shěn;bt chá;ad zhì;nd dù;gy	10
-危險無處不在	wēi;dv xiǎn;er wú;ph chǔ;hj bú;ab zài;ut	10
+危險無處不在	wēi;dv xiǎn;er wú;ph chù;hj bú;ab zài;ut	10
 危險物質洩露	wēi;dv xiǎn;er wù;nw zhì;ib xiè;dy lòu;yk	10
 危險物質指令	wēi;dv xiǎn;er wù;nw zhì;ib zhǐ;fo lìng;rs	10
 微小核糖病毒	wēi;rj xiǎo;lb hé;ar táng;mk bìng;bn dú;fm	10
@@ -133125,7 +132964,6 @@ sort: by_weight
 微信羣等方式	wēi;rj xìn;rk qún;yy děng;vc fāng;wv shì;gg	10
 微信三級分銷	wēi;rj xìn;rk sān;ae jí;sj fēn;bd xiāo;jo	10
 微信掃二維碼	wēi;rj xìn;rk sǎo;fj èr;aa wéi;sv mǎ;um	10
-微信收費事件	wēi;rj xìn;rk shōu;jw fèi;fb shì;gy jiàn;rn	10
 爲信仰而堅守	wéi;vh xìn;rk yǎng;re ér;al jiān;it shǒu;bc	10
 微信一級入口	wēi;rj xìn;rk yì;aa jí;sj rù;pn kǒu;la	10
 微信一鍵登錄	wēi;rj xìn;rk yí;aa jiàn;jy dēng;bb lù;ju	10
@@ -133577,12 +133415,12 @@ sort: by_weight
 武昌中華大學	wǔ;gv chāng;oo zhōng;kl huá;cf dà;ar xué;jz	10
 武昌中山大學	wǔ;gv chāng;oo zhōng;kl shān;kl dà;ar xué;jz	10
 無塵淨化車間	wú;ph chén;gt jìng;dy huà;rb chē;iu jiān;mo	10
-無處稠密點集	wú;ph chǔ;hj chóu;hk mì;bu diǎn;lv jí;ra	10
-無處稠密子集	wú;ph chǔ;hj chóu;hk mì;bu zǐ;la jí;ra	10
-無處可微函數	wú;ph chǔ;hj kě;dk wēi;rj hán;ku shù;uw	10
+無處稠密點集	wú;ph chù;hj chóu;hk mì;bu diǎn;lv jí;ra	10
+無處稠密子集	wú;ph chù;hj chóu;hk mì;bu zǐ;la jí;ra	10
+無處可微函數	wú;ph chù;hj kě;dk wēi;rj hán;ku shù;uw	10
 吳楚七國之亂	wú;kd chǔ;az qī;av guó;wa zhī;dn luàn;vv	10
-無處收斂級數	wú;ph chǔ;hj shōu;jw liǎn;rw jí;sj shù;uw	10
-無處收斂序列	wú;ph chǔ;hj shōu;jw liǎn;rw xù;gy liè;dd	10
+無處收斂級數	wú;ph chù;hj shōu;jw liǎn;rw jí;sj shù;uw	10
+無處收斂序列	wú;ph chù;hj shōu;jw liǎn;rw xù;gy liè;dd	10
 無初速度釋放	wú;ph chū;pd sù;zu dù;gy shì;mg fàng;fw	10
 無出息的漢子	wú;ph chū;uu xi;zx de;bu hàn;dt zi;la	10
 無創輔助通氣	wú;ph chuàng;rd fǔ;if zhù;ql tōng;zy qì;qm	10
@@ -133690,7 +133528,6 @@ sort: by_weight
 武漢地質學院	wǔ;gv hàn;dt dì;ty zhì;ib xué;jz yuàn;ey	10
 武漢法語聯盟	wǔ;gv hàn;dt fǎ;dq yǔ;yk lián;ej méng;om	10
 武漢紡織大學	wǔ;gv hàn;dt fǎng;sf zhī;so dà;ar xué;jz	10
-武漢肺炎事件	wǔ;gv hàn;dt fèi;oj yán;hh shì;gy jiàn;rn	10
 武漢高速公路	wǔ;gv hàn;dt gāo;wk sù;zu gōng;bs lù;zk	10
 武漢光谷南益	wǔ;gv hàn;dt guāng;xe gǔ;bk nán;ug yì;bm	10
 武漢過江隧道	wǔ;gv hàn;dt guò;zk jiāng;dg suì;eu dào;zz	10
@@ -134057,7 +133894,6 @@ sort: by_weight
 武威高速公路	wǔ;gv wēi;gn gāo;wk sù;zu gōng;bs lù;zk	10
 武威雷臺漢墓	wǔ;gv wēi;gn léi;yt tái;tt hàn;dt mù;ct	10
 五位七十五法	wǔ;aw wèi;rl qī;av shí;al wǔ;aw fǎ;dq	10
-吳維辱華事件	wú;kd wéi;sv rǔ;ic huá;cf shì;gy jiàn;rn	10
 午未申酉戌亥	wǔ;pu wèi;aa,er shēn;ol,yl yǒu;xa xū;ga hài;wr	10
 無尾獸的目光	wú;ph wěi;um shòu;kq de;bu mù;we guāng;xe	10
 無畏型戰列艦	wú;ph wèi;ty xíng;kt zhàn;xg liè;dd jiàn;vm	10
@@ -135857,7 +135693,6 @@ sort: by_weight
 小畫舫齋舊址	xiǎo;lb huà;ya fǎng;vf zhāi;wx jiù;cj zhǐ;tv	10
 硝化甘油火藥	xiāo;uo huà;rb gān;ca yóu;dy huǒ;br yào;ca	10
 硝化甘油炸藥	xiāo;uo huà;rb gān;ca yóu;dy zhà;hv yào;ca	10
-校花詭異事件	xiào;af huā;cb guǐ;yv yì;tg shì;gy jiàn;rn	10
 硝化螺旋菌綱	xiāo;uo huà;rb luó;ix xuán;fz jūn;ch gāng;su	10
 硝化螺旋菌門	xiāo;uo huà;rb luó;ix xuán;fz jūn;ch mén;ll	10
 硝化螺旋菌目	xiāo;uo huà;rb luó;ix xuán;fz jūn;ch mù;we	10
@@ -136160,7 +135995,6 @@ sort: by_weight
 校園言情小說	xiào;af yuán;wy yán;wk qíng;xo xiǎo;lb shuō;yx	10
 小月齡的寶寶	xiǎo;lb yuè;ke líng;vs de;bu bǎo;bb bao;bb	10
 消災吉祥神咒	xiāo;do zāi;vh jí;tk xiáng;py shén;pu zhòu;xj	10
-肖戰粉絲事件	xiāo;xo zhàn;xg fěn;mf sī;sx shì;gy jiàn;rn	10
 小智的皮卡丘	xiǎo;lb zhì;uo de;bu pí;py kǎ;ub qiū;ia	10
 小指伸肌腱鞘	xiǎo;lb zhǐ;fo shēn;ru jī;oj jiàn;oy qiào;co	10
 孝莊太皇太后	xiào;lz zhuāng;ct tài;dd huáng;bw tài;dd hòu;ik	10
@@ -136341,11 +136175,9 @@ sort: by_weight
 新股與次新股	xīn;lt gǔ;ou yǔ;jb cì;dq xīn;lt gǔ;ou	10
 新冠變異病毒	xīn;lt guān;bc biàn;xw yì;tg bìng;bn dú;fm	10
 新冠病毒變異	xīn;lt guān;bc bìng;bn dú;fm biàn;xw yì;tg	10
-新冠病毒事件	xīn;lt guān;bc bìng;bn dú;fm shì;gy jiàn;rn	10
 新官不理舊賬	xīn;lt guān;bl bù;ab lǐ;wl jiù;cj zhàng;bi	10
 新觀察家雜誌	xīn;lt guān;cj chá;bu jiā;bu zá;wv zhì;yx	10
 新官場現形記	xīn;lt guān;bl chǎng;tw xiàn;wj xíng;kp jì;yj	10
-新冠肺炎事件	xīn;lt guān;bc fèi;oj yán;hh shì;gy jiàn;rn	10
 新冠滅活疫苗	xīn;lt guān;bc miè;dh huó;du yì;bu miáo;ct	10
 信貴山城之戰	xìn;rk guì;vb shān;kl chéng;ti zhī;dn zhàn;xg	10
 信貴山真言宗	xìn;rk guì;vb shān;kl zhēn;ub yán;wk zōng;bu	10
@@ -136395,14 +136227,12 @@ sort: by_weight
 新疆和田大棗	xīn;lt jiāng;gj hé;hk tián;wu dà;ar zǎo;uu	10
 新疆霍爾果斯	xīn;lt jiāng;gj huò;yv ěr;ab guǒ;ta sī;ct	10
 新疆教培中心	xīn;lt jiāng;gj jiào;lw péi;tk zhōng;kl xīn;dd	10
-新疆劫機事件	xīn;lt jiāng;gj jié;ql jī;ar shì;gy jiàn;rn	10
 新疆居民外逃	xīn;lt jiāng;gj jū;ug mín;vv wài;xb táo;zv	10
 新疆恐怖主義	xīn;lt jiāng;gj kǒng;gx bù;xj zhǔ;wt yì;yw	10
 新疆礦冶學院	xīn;lt jiāng;gj kuàng;ub yě;dk xué;jz yuàn;ey	10
 新疆歷史人物	xīn;lt jiāng;gj lì;iv shǐ;kn rén;pn wù;nw	10
 新疆旅遊景點	xīn;lt jiāng;gj lǚ;fy yóu;zz jǐng;ox diǎn;lv	10
 新疆美食發現	xīn;lt jiāng;gj měi;yd shí;rg fā;bu xiàn;wj	10
-新疆棉花事件	xīn;lt jiāng;gj mián;aj huā;cb shì;gy jiàn;rn	10
 新疆七五事件	xīn;lt jiāng;gj qī;av wǔ;aw shì;gy jiàn;rn	10
 新疆師範大學	xīn;lt jiāng;gj shī;pj fàn;vv dà;ar xué;jz	10
 新疆師範學院	xīn;lt jiāng;gj shī;pj fàn;vv xué;jz yuàn;ey	10
@@ -136565,7 +136395,6 @@ sort: by_weight
 新年的第一天	xīn;lt nián;pf de;bu dì;vd yī;aa tiān;ad	10
 信念更加堅定	xìn;rk niàn;rx gèng;an jiā;lk jiān;it dìng;bz	10
 新年來臨之際	xīn;lt nián;pf lái;ur lín;ik zhī;dn jì;eu	10
-新年特刊事件	xīn;lt nián;pf tè;nc kān;gd shì;gy jiàn;rn	10
 新年鐘聲敲響	xīn;lt nián;pf zhōng;jl shēng;te qiāo;wy xiǎng;xo	10
 鑫諾衛星公司	xīn;jj nuò;yk wèi;rf xīng;ou gōng;bs sī;vk	10
 鑫諾衛星通信	xīn;jj nuò;yk wèi;rf xīng;ou tōng;zy xìn;rk	10
@@ -136792,7 +136621,6 @@ sort: by_weight
 行道之人弗受	xíng;rd dào;zz zhī;dn rén;pn fú;gl shòu;vy	10
 星島中文電台	xīng;ou dǎo;nu zhōng;kl wén;wx diàn;yd tái;sk	10
 行的端做得正	xíng;rd de;bu duān;le zuò;rw de;rc zhèng;av	10
-幸德秋水事件	xìng;tg dé;rx qiū;hh shuǐ;ln shì;gy jiàn;rn	10
 興登堡號飛船	xīng;jb dēng;bb bǎo;rt hào;kj fēi;fc chuán;vk	10
 興登堡號飛艇	xīng;jb dēng;bb bǎo;rt hào;kj fēi;fc tǐng;vw	10
 興登堡號空難	xīng;jb dēng;bb bǎo;rt hào;kj kōng;bg nàn;cv	10
@@ -136821,7 +136649,7 @@ sort: by_weight
 興奮收縮耦聯	xīng;jb fèn;dt shōu;jw suō;sb ǒu;ld lián;ej	10
 幸福觸手可及	xìng;tg fú;pt chù;di shǒu;pf kě;dk jí;pn	10
 幸福牌電冰箱	xìng;tg fú;pt pái;pu diàn;yd bīng;du xiāng;vo	10
-幸福無處不在	xìng;tg fú;pt wú;ph chǔ;hj bú;ab zài;ut	10
+幸福無處不在	xìng;tg fú;pt wú;ph chù;hj bú;ab zài;ut	10
 幸福像花一樣	xìng;tg fú;pt xiàng;ru huā;cb yí;aa yàng;ay	10
 幸福寫在臉上	xìng;tg fú;pt xiě;bh zài;ut liǎn;or shàng;ba	10
 幸福魚的面頰	xìng;tg fú;pt yú;dh de;bu miàn;ao jiá;dy	10
@@ -138185,7 +138013,6 @@ sort: by_weight
 硯瓦山石灰岩	yàn;uj wǎ;ad shān;kl shí;ak huī;uh yán;uu	10
 眼外直肌麻痹	yǎn;og wài;xb zhí;uq jī;oj má;ga bì;bw	10
 巖灣監獄暴動	yán;uw wān;dg jiān;im yù;qq bào;ou dòng;vl	10
-巖灣絕食事件	yán;uw wān;dg jué;sb shí;rg shì;gy jiàn;rn	10
 燕威帝慕容沖	yàn;ch wēi;gn dì;wj mù;cx róng;bg chōng;dv	10
 煙威高速公路	yān;ht wēi;gn gāo;wk sù;zu gōng;bs lù;zk	10
 言未及之而言	yán;wk wèi;aa,er jí;pn zhī;dn ér;al yán;wk	10
@@ -138315,7 +138142,6 @@ sort: by_weight
 仰觀宇宙之大	yǎng;re guān;cj yǔ;by zhòu;by zhī;dn dà;ar	10
 陽光般的溫暖	yáng;ew guāng;xe bān;vu de;bu wēn;dm nuǎn;oy	10
 陽光般的笑容	yáng;ew guāng;xe bān;vu de;bu xiào;vy róng;bg	10
-仰光爆炸事件	yǎng;re guāng;xe bào;hu zhà;hv shì;gy jiàn;rn	10
 陽光城翡麗灣	yáng;ew guāng;xe chéng;ti fěi;fx lì;lb wān;dg	10
 陽光刺痛了眼	yáng;ew guāng;xe cì;ud tòng;by le;al yǎn;og	10
 仰光國際機場	yǎng;re guāng;xe guó;wa jì;eu jī;ar chǎng;tw	10
@@ -138597,7 +138423,6 @@ sort: by_weight
 也門胡塞叛亂	yě;vv mén;ll hú;go sāi;bt pàn;by luàn;vv	10
 也門胡塞武裝	yě;vv mén;ll hú;go sāi;bt wǔ;gv zhuāng;py	10
 也門武裝部隊	yě;vv mén;ll wǔ;gv zhuāng;py bù;le duì;eu	10
-也門襲擊事件	yě;vv mén;ll xí;ly jī;iu shì;gy jiàn;rn	10
 夜幕降臨之時	yè;ww mù;cj jiàng;ef lín;ik zhī;dn shí;oc	10
 業內權威人士	yè;yw nèi;kr quán;av wēi;gn rén;pn shì;ua	10
 業內人士爆料	yè;yw nèi;kr rén;pn shì;ua bào;hu liào;md	10
@@ -139361,7 +139186,7 @@ sort: by_weight
 以平常心對待	yǐ;lr píng;au cháng;xj xīn;dd duì;yc dài;rc	10
 以平常心看待	yǐ;lr píng;au cháng;xj xīn;dd kàn;uo dài;rc	10
 以平和的心態	yǐ;lr píng;au hé;hk de;bu xīn;dd tài;sx	10
-一抔之土未乾	yì;aa pū;fb zhī;dn tǔ;ua wèi;aa,er gàn;uv	10
+一抔之土未乾	yì;aa póu;fb zhī;dn tǔ;ua wèi;aa,er gàn;uv	10
 一起吃喝玩樂	yì;aa qǐ;tj chī;kv hē;kr wán;wy lè;ya	10
 一起吃晚餐嗎	yì;aa qǐ;tj chī;kv wǎn;oe cān;dg ma;km	10
 一汽大眾寶來	yī;aa qì;dq dà;ar zhòng;sr bǎo;bb lái;ur	10
@@ -140422,11 +140247,9 @@ sort: by_weight
 英屬向風群島	yīng;cy shǔ;ui xiàng;pk fēng;ji qún;yy dǎo;nu	10
 英屬香港旗幟	yīng;cy shǔ;ui xiāng;ho gǎng;ds qí;fb zhì;jo	10
 英屬香港人物	yīng;cy shǔ;ui xiāng;ho gǎng;ds rén;pn wù;nw	10
-英屬香港事件	yīng;cy shǔ;ui xiāng;ho gǎng;ds shì;gy jiàn;rn	10
 英屬香港水災	yīng;cy shǔ;ui xiāng;ho gǎng;ds shuǐ;ln zāi;vh	10
 英屬香港議會	yīng;cy shǔ;ui xiāng;ho gǎng;ds yì;yw huì;ro	10
 英屬新幾內亞	yīng;cy shǔ;ui xīn;lt jǐ;gr nèi;kr yà;aa	10
-應似飛鴻踏雪	yīng;gx sì;rr fēi;fc hóng;dn tà;zo xuě;ye	10
 營松高速公路	yíng;hk sōng;ag gāo;wk sù;zu gōng;bs lù;zk	10
 罌粟稈濃縮物	yīng;bf sù;xm gǎn;hg nóng;di suō;sb wù;nw	10
 罌粟果提取物	yīng;bf sù;xm guǒ;ta tí;fz qǔ;ey wù;nw	10
@@ -141515,7 +141338,6 @@ sort: by_weight
 遇事沉着冷靜	yù;zd shì;gy chén;dj zhuó;yo lěng;ds jìng;fy	10
 於是忽焉縱體	yú;fd shì;oz hū;wx yān;vh zòng;sz tǐ;gb	10
 於是精移神駭	yú;fd shì;oz jīng;mo yí;hx shén;pu hài;mr	10
-浴室密室事件	yù;dg shì;bt mì;bu shì;bt shì;gy jiàn;rn	10
 雨石蒜木脂素	yǔ;ad shí;ak suàn;cu mù;ur zhī;oo sù;fx	10
 遇溼易燃物品	yù;zd shī;dt yì;ow rán;hh wù;nw pǐn;kk	10
 於是餘有嘆焉	yú;fd shì;oz yú;um yǒu;uo tàn;kt yān;vh	10
@@ -141603,7 +141425,6 @@ sort: by_weight
 渝長高速公路	yú;dd zhǎng;ey gāo;wk sù;zu gōng;bs lù;zk	10
 豫章號驅逐艦	yù;yu zhāng;lu hào;kj qū;mk zhú;zu jiàn;vm	10
 豫章師範學院	yù;yu zhāng;lu shī;pj fàn;vv xué;jz yuàn;ey	10
-豫章書院事件	yù;yu zhāng;lu shū;yo yuàn;ey shì;gy jiàn;rn	10
 與鄭邦瑞尺牘	yǔ;jb zhèng;be bāng;fe ruì;we chǐ;un dú;pb	10
 漁政執法人員	yú;dy zhèng;vw zhí;tw fǎ;dq rén;pn yuán;kb	10
 玉置半右衛門	yù;wd zhì;sq bàn;bf yòu;uk wèi;rf mén;ll	10
@@ -142343,7 +142164,6 @@ sort: by_weight
 藏傳佛教法器	zàng;ci chuán;rc fó;rf jiào;lw fǎ;dq qì;xx	10
 藏傳佛教人物	zàng;ci chuán;rc fó;rf jiào;lw rén;pn wù;nw	10
 藏傳佛教上師	zàng;ci chuán;rc fó;rf jiào;lw shàng;ba shī;pj	10
-臧大咬子事件	zāng;vi dà;ar yǎo;kf zǐ;la shì;gy jiàn;rn	10
 臟腑標本藥式	zàng;oi fǔ;oc biāo;au běn;aa yào;ca shì;gg	10
 臟器斷層顯像	zàng;oi qì;xx duàn;vt céng;uo xiǎn;oy xiàng;ru	10
 髒氣法時論篇	zāng;gc qì;qm fǎ;dq shí;oc lùn;yc piān;vc	10
@@ -142593,7 +142413,6 @@ sort: by_weight
 湛藍的天空中	zhàn;db lán;cm de;bu tiān;ad kōng;bg zhōng;kl	10
 戰力外搜查官	zhàn;xg lì;vp wài;xb sōu;fy chá;ad guān;bl	10
 粘連性肺不張	zhān;mv lián;zi xìng;xu fèi;oj bù;ab zhāng;gi	10
-佔領國會事件	zhàn;rv lǐng;ry guó;wa huì;ro shì;gy jiàn;rn	10
 佔領哈爾科夫	zhàn;rv lǐng;ry hā;kk ěr;ab kē;hd fū;er	10
 佔領伊斯坦堡	zhàn;rv lǐng;ry yī;ry sī;ct tǎn;td bǎo;rt	10
 戰略成本管控	zhàn;xg lüè;tk chéng;gv běn;aa guǎn;vl kòng;fg	10
@@ -142643,8 +142462,8 @@ sort: by_weight
 站在世界之巔	zhàn;lv zài;ut shì;cv jiè;tj zhī;dn diān;uy	10
 站在十字路口	zhàn;lv zài;ut shí;al zì;bz lù;zk kǒu;la	10
 站在同一立場	zhàn;lv zài;ut tóng;kk yí;aa lì;wb chǎng;tw	10
+站在同一戰線	zhàn;lv zài;ut tóng;kk yí;aa zhàn;xg xiàn;su	10
 站在同一陣線	zhàn;lv zài;ut tóng;kk yí;aa zhèn;ei xiàn;su	10
-站在同一戰線	zhàn;lv zài;ut tóng;kk yí;aa zhèn;xg yíng;su	10
 站在宇宙之巔	zhàn;lv zài;ut yǔ;by zhòu;by zhī;dn diān;uy	10
 站在原地不動	zhàn;lv zài;ut yuán;ix dì;ty bú;ab dòng;vl	10
 站着一動不動	zhàn;lv zhe;yo yí;aa dòng;vl bú;ab dòng;vl	10
@@ -142753,7 +142572,6 @@ sort: by_weight
 張小生包子鋪	zhāng;gi xiǎo;lb shēng;pf bāo;bs zi;la pù;jf	10
 彰信軍節度使	zhāng;lp xìn;rk jūn;bi jié;ve dù;gy shǐ;rl	10
 張歆藝和袁弘	zhāng;gi xīn;lq yì;cy hé;hk yuán;ty hóng;gs	10
-張懸國旗事件	zhāng;gi xuán;qx guó;wa qí;fb shì;gy jiàn;rn	10
 張掖甘州機場	zhāng;gi yè;fw gān;ca zhōu;dl jī;ar chǎng;tw	10
 張掖居延屬國	zhāng;gi yè;fw jū;ug yán;zv shǔ;ui guó;wa	10
 樟宜國際機場	zhāng;au yí;bq guó;wa jì;eu jī;ar chǎng;tw	10
@@ -143594,7 +143412,6 @@ sort: by_weight
 直齒圓柱齒輪	zhí;uq chǐ;vr yuán;wb zhù;av chǐ;vr lún;ic	10
 直齒圓錐齒輪	zhí;uq chǐ;vr yuán;wb zhuī;jv chǐ;vr lún;ic	10
 紙杻車輛基地	zhǐ;su chǒu;ai chē;iu liàng;ir jī;ct dì;ty	10
-擲出窗外事件	zhì;fe chū;uu chuāng;bw wài;xb shì;gy jiàn;rn	10
 支出責任劃分	zhī;uy chū;uu zé;fb rèn;rw huà;yd fēn;bd	10
 值此國難之際	zhí;rq cǐ;vb guó;wa nàn;cv zhī;dn jì;eu	10
 質次價高商品	zhì;ib cì;dq jià;rb gāo;wk shāng;wk pǐn;kk	10
@@ -145826,7 +145643,6 @@ sort: by_weight
 轉置伴隨等價	zhuǎn;ic zhì;sq bàn;rb suí;eo děng;vc jià;rb	10
 轉置伴隨矩陣	zhuǎn;ic zhì;sq bàn;rb suí;eo jǔ;uj zhèn;ei	10
 專治各種不服	zhuān;ic zhì;dk gè;wk zhǒng;hv bù;ab fú;oy	10
-專制各種不服	zhuān;ic zhì;nd gè;wk zhǒng;hv bù;ab fú;oy	10
 轉置積分方程	zhuǎn;ic zhì;sq jī;hb fēn;bd fāng;wv chéng;hw	10
 賺指數不賺錢	zhuàn;bj zhǐ;fo shù;uw bú;ab zhuàn;bj qián;jg	10
 專治疑難雜症	zhuān;ic zhì;dk yí;bz nán;cv zá;wv zhèng;bv	10
@@ -148533,7 +148349,7 @@ sort: by_weight
 本色牛皮包裝紙	běn;aa sè;db niú;pu pí;py bāo;bs zhuāng;py zhǐ;su	10
 本生羅二氏定律	běn;aa shēng;pf luó;sv èr;aa shì;pv dìng;bz lǜ;ry	10
 本省行政區域內	běn;aa shěng;uo xíng;rd zhèng;vw qū;kk yù;ta nèi;kr	10
-本師釋迦牟尼佛	běn;aa shī;pj shì;mg jiā;zk mù;sn ní;ub fó;rf	10
+本師釋迦牟尼佛	běn;aa shī;pj shì;mg jiā;zk móu;sn ní;ub fó;rf	10
 本市行政區域內	běn;aa shì;wj xíng;rd zhèng;vw qū;kk yù;ta nèi;kr	10
 本斯瓊斯蛋白尿	běn;aa sī;ct qióng;ww sī;ct dàn;zi bái;po niào;uu	10
 本圖貢薩爾維斯	běn;aa tú;wk gòng;gb sà;cu ěr;ab wéi;sv sī;ct	10
@@ -148563,7 +148379,7 @@ sort: by_weight
 彼此之間的關係	bǐ;rp cǐ;vb zhī;dn jiān;mo de;bu guān;mj xì;rx	10
 彼此之間的距離	bǐ;rp cǐ;vb zhī;dn jiān;mo de;bu jù;zj lí;wv	10
 彼此之間的信任	bǐ;rp cǐ;vb zhī;dn jiān;mo de;bu xìn;rk rèn;rw	10
-筆底明珠無處賣	bǐ;vy dǐ;gu míng;oo zhū;ww wú;ph chǔ;hj mài;tb	10
+筆底明珠無處賣	bǐ;vy dǐ;gu míng;oo zhū;ww wú;ph chù;hj mài;tb	10
 吡啶基偶氮萘酚	bǐ;kb dìng;kz jī;ct ǒu;rd dàn;qh nài;cu fēn;yf	10
 臂動脈血栓形成	bì;uo dòng;vl mài;oy xuè;pm shuān;aw xíng;kp chéng;gv	10
 比爾格格爾茨型	bǐ;bb ěr;ab gé;ak gé;ak ěr;ab cí;cq xíng;kt	10
@@ -149071,7 +148887,7 @@ sort: by_weight
 補充優質蛋白質	bǔ;pf chōng;wy yōu;rw zhì;ib dàn;zi bái;po zhì;ib	10
 補充足夠的水分	bǔ;pf chōng;wy zú;kz gòu;xj de;bu shuǐ;ln fèn;bd	10
 補充足夠的營養	bǔ;pf chōng;wy zú;kz gòu;xj de;bu yíng;hk yǎng;yg	10
-不愁無處下金鉤	bù;ab chóu;hx wú;ph chǔ;hj xià;ab jīn;rb gōu;jj	10
+不愁無處下金鉤	bù;ab chóu;hx wú;ph chù;hj xià;ab jīn;rb gōu;jj	10
 不純性心房撲動	bù;ab chún;st xìng;xu xīn;dd fáng;hf pū;ff dòng;vl	10
 不辭羸病臥殘陽	bù;ab cí;vx léi;wy bìng;bn wò;ir cán;dg yáng;ew	10
 不辭迢遞過關山	bù;ab cí;vx tiáo;zk dì;zj guò;zk guān;mj shān;kl	10
@@ -150117,7 +149933,6 @@ sort: by_weight
 長津湖之水門橋	cháng;ey jīn;dy hú;do zhī;dn shuǐ;ln mén;ll qiáo;ak	10
 長居陸上競技場	cháng;ey jū;ug lù;et shàng;ba jìng;lx jì;fv chǎng;tw	10
 場均三分命中率	chǎng;tw jūn;ty sān;ae fēn;bd mìng;re zhòng;kl lǜ;wu	10
-常凱申誤譯事件	cháng;xj kǎi;uj shēn;ol,yl wù;yt yì;yg shì;gy jiàn;rn	10
 長考德考德材積	cháng;ey kǎo;lk dé;rx kǎo;lk dé;rx cái;ac jī;hb	10
 長鏈尼龍產業鏈	cháng;ey liàn;ji ní;ub lóng;lv chǎn;wu yè;yw liàn;ji	10
 長鏈脂酰水解酶	cháng;ey liàn;ji zhī;oo xiān;ye shuǐ;ln jiě;dn méi;ym	10
@@ -151101,7 +150916,7 @@ sort: by_weight
 春節黃金週期間	chūn;io jié;ve huáng;cb jīn;rb zhōu;zk qī;co jiān;mo	10
 春節司機服務費	chūn;io jié;ve sī;vk jī;ar fú;oy wù;ml fèi;fb	10
 春酒香熟鱸魚美	chūn;io jiǔ;dy xiāng;ho shú;wh lú;ym yú;dh měi;yd	10
-春來無處不花香	chūn;io lái;ur wú;ph chǔ;hj bù;ab huā;cb xiāng;ho	10
+春來無處不花香	chūn;io lái;ur wú;ph chù;hj bù;ab huā;cb xiāng;ho	10
 唇裂手術減張弓	chún;ik liè;dy shǒu;pf shù;ru jiǎn;dk zhāng;gi gōng;vv	10
 脣鱗狀上皮增生	chún;io lín;yf zhuàng;pq shàng;ba pí;py zēng;to shēng;pf	10
 春滿乾坤福滿門	chūn;io mǎn;dr qián;uv kūn;tu fú;pt mǎn;dr mén;ll	10
@@ -153031,7 +152846,6 @@ sort: by_weight
 敦煌文物研究所	dūn;ww huáng;hw wén;wx wù;nw yán;uk jiū;bj suǒ;ht	10
 墩臺地基穩定性	dūn;tw tái;tt dì;ty jī;ct wěn;hx dìng;bz xìng;xu	10
 鈍頭性扁平苔蘚	dùn;jt tóu;dy xìng;xu biǎn;hc píng;au tái;ck xiǎn;cy	10
-敦威治恐怖事件	dūn;ww wēi;gn zhì;dk kǒng;gx bù;xj shì;gy jiàn;rn	10
 頓悟入道要門論	dùn;ty wù;xk rù;pn dào;zz yào;xn mén;ll lùn;yc	10
 盾之勇者成名錄	dùn;io zhī;dn yǒng;sl zhě;lo chéng;gv míng;xk lù;ju	10
 多巴胺單加氧酶	duō;xx bā;sl àn;on dān;xu jiā;lk yǎng;qy méi;ym	10
@@ -154595,7 +154409,6 @@ sort: by_weight
 匐形性回狀紅斑	fú;bt xíng;kp xìng;xu huí;wk zhuàng;pq hóng;sg bān;ww	10
 匐行性回狀紅斑	fú;bt xíng;rd xìng;xu huí;wk zhuàng;pq hóng;sg bān;ww	10
 夫婿調酥綺窗下	fū;er xù;no diào;yk sū;yh qǐ;sk chuāng;bw xià;ab	10
-阜陽毒奶粉事件	fù;pu yáng;ew dú;fm nǎi;nn fěn;mf shì;gy jiàn;rn	10
 富陽客運中心站	fù;bt yáng;ew kè;bk yùn;zi zhōng;kl xīn;dd zhàn;lv	10
 趺陽脈緊爲傷脾	fū;zf yáng;ew mài;oy jǐn;ix wéi;vh shāng;rw pí;ou	10
 俯仰隨人亦可憐	fǔ;rc yǎng;re suí;eo rén;pn yì;wb kě;dk lián;xf	10
@@ -154739,7 +154552,6 @@ sort: by_weight
 橄輝無球粒隕石	gǎn;aw huī;gi wú;ph qiú;wq lì;ml yǔn;eb shí;ak	10
 乾薑甘草與人參	gān;uv jiāng;cj gān;ca cǎo;cu yú;jb rén;pn cān;sp	10
 感交甫之棄言兮	gǎn;gx jiāo;wf fǔ;uy zhī;dn qì;wa yán;wk xī;bk	10
-敢叫日月換新天	gǎn;ew jiào;kj rì;wa yuè;ke huàn;fd xīn;lt tiān;ad	10
 趕緊行動起來吧	gǎn;tg jǐn;ix xíng;rd dòng;vl qǐ;tj lái;ur ba;kb	10
 趕緊找個男朋友	gǎn;tg jǐn;ix zhǎo;fg gè;rg nán;tl péng;oo you;uy	10
 乾淨利落的短髮	gān;uv jìng;dy lì;hd luo;ck de;bu duǎn;ub fà;ey	10
@@ -154949,7 +154761,6 @@ sort: by_weight
 高分子樹脂繃帶	gāo;wk fēn;bd zǐ;la shù;ac zhī;oo bēng;so dài;cj	10
 高附加值的產品	gāo;wk fù;ec jiā;lk zhí;rq de;bu chǎn;wu pǐn;kk	10
 高港科技創業園	gāo;wk gǎng;ds kē;hd jì;fv chuàng;rd yè;yw yuán;wy	10
-高崗饒漱石事件	gāo;wk gǎng;uu ráo;uw shù;dq shí;ak shì;gy jiàn;rn	10
 高高在上的感覺	gāo;wk gāo;wk zài;ut shàng;ba de;bu gǎn;gx jué;jj	10
 高高在上的女神	gāo;wk gāo;wk zài;ut shàng;ba de;bu nǚ;va shén;pu	10
 高高在上的姿態	gāo;wk gāo;wk zài;ut shàng;ba de;bu zī;dn tài;sx	10
@@ -155741,7 +155552,7 @@ sort: by_weight
 弓形體抗體測定	gōng;vv xíng;kp tǐ;gb kàng;fj tǐ;gb cè;dd dìng;bz	10
 功勳國家合唱團	gōng;gl xūn;ql guó;wa jiā;bu hé;rk chàng;ko tuán;wc	10
 供養親屬撫卹金	gōng;rg yǎng;yg qīn;lj shǔ;ui fǔ;fh xù;pe jīn;rb	10
-供養釋迦牟尼佛	gōng;rg yǎng;yg shì;mg jiā;zk mù;sn ní;ub fó;rf	10
+供養釋迦牟尼佛	gōng;rg yǎng;yg shì;mg jiā;zk móu;sn ní;ub fó;rf	10
 工業高質量發展	gōng;aa yè;yw gāo;wk zhì;ib liàng;ol fā;bu zhǎn;uy	10
 工業固體廢棄物	gōng;aa yè;yw gù;wg tǐ;gb fèi;gu qì;wa wù;nw	10
 工業化和城市化	gōng;aa yè;yw huà;rb hé;hk chéng;ti shì;wj huà;rb	10
@@ -155800,7 +155611,6 @@ sort: by_weight
 供者特異性輸血	gōng;rg zhě;lo tè;nc yì;tg xìng;xu shū;id xuè;pm	10
 公眾貨物起卸區	gōng;bs zhòng;sr huò;rb wù;nw qǐ;tj xiè;ve qū;kk	10
 公眾開放日活動	gōng;bs zhòng;sr kāi;mk fàng;fw rì;wa huó;du dòng;vl	10
-宮中某重大事件	gōng;bk zhōng;kl mǒu;ga zhòng;ql dà;ar shì;gy jiàn;rn	10
 公主候補生佑希	gōng;bs zhǔ;wt hòu;ru bǔ;pf shēng;pf yòu;rk xī;xj	10
 工裝規範座談會	gōng;aa zhuāng;py guī;fj fàn;vv zuò;gr tán;yh huì;ro	10
 公子金貂酒力輕	gōng;bs zǐ;la jīn;rb diāo;vk jiǔ;dy lì;vp qīng;ig	10
@@ -156568,7 +156378,6 @@ sort: by_weight
 胡貝圖斯堡條約	hú;go bèi;ob tú;wk sī;ct bǎo;rt tiáo;rm yuē;su	10
 呼腸病毒科感染	hū;kh cháng;ow bìng;bn dú;fm kē;hd gǎn;gx rǎn;da	10
 糊精內葡糖苷酶	hú;mo jīng;mo nèi;kr pú;cf táng;mk gān;cg méi;ym	10
-湖口裝甲兵事件	hú;do kǒu;la zhuāng;py jiǎ;ol,tl bīng;qb shì;gy jiàn;rn	10
 狐狸列那的故事	hú;qg li;ql liè;dd nà;ve de;bu gù;gw shi;gy	10
 護理牙刷海棉棒	hù;yy lǐ;wl yá;gp,ac shuā;ud hǎi;dm mián;aj bàng;af	10
 互聯網使用成癮	hù;ah lián;ej wǎng;sw shǐ;rl yòng;kf,ol chéng;gv yǐn;bx	10
@@ -157993,8 +157802,6 @@ sort: by_weight
 買賣不成仁義在	mǎi;sb mài;tb bù;ab chéng;gv rén;re yì;yw zài;ut	10
 麥氏交替單胞菌	mài;lw shì;pv jiāo;wf tì;fo dān;xu bāo;ob jūn;ch	10
 脈數虛者爲肺痿	mài;oy shù;uw xū;hy zhě;lo wéi;vh fèi;oj wěi;bn	10
-滿城盡戴黃金甲	mǎn;dr chéng;ti jìn;ym dài;gg huáng;cb jīn;rb jiǎ;ol,tl	10
-滿城盡帶黃金甲	mǎn;dr chéng;ti jìn;ym dài;cj huáng;cb jīn;rb jiǎ;ol,tl	10
 漫畫準則管理局	màn;dy huà;ya zhǔn;du zé;bd guǎn;vl lǐ;wl jú;uk	10
 曼齊刻爾特戰役	màn;oy qí;wo kè;wd ěr;ab tè;nc zhàn;xg yì;ru	10
 芒塞爾顏色立體	máng;cw sāi;bt ěr;ab yán;wy sè;db lì;wb tǐ;gb	10
@@ -158464,7 +158271,6 @@ sort: by_weight
 氣偏衰者則脈微	qì;qm piān;rc shuāi;yv zhě;lo zé;bd mài;oy wēi;rj	10
 七七抗戰紀念日	qī;av qī;av kàng;fj zhàn;xg jì;sj niàn;rx rì;wa	10
 七七盧溝橋事變	qī;av qī;av lú;hm gōu;dr qiáo;ak shì;gy biàn;xw	10
-七七盧溝橋事件	qī;av qī;av lú;hm gōu;dr qiáo;ak shì;gy jiàn;rn	10
 其人疾行則喘喝	qí;cb rén;pn jí;bu xíng;rd zé;bd chuǎn;ke hē;kr	10
 其人嗇嗇惡寒也	qí;cb rén;pn sè;gk sè;gk wù;yx hán;bd yě;vv	10
 其人振振身瞤劇	qí;cb rén;pn zhèn;fi zhèn;fi shēn;zc rún;ow jù;hd	10
@@ -159250,6 +159056,7 @@ sort: by_weight
 沙塔爾精煉臂甲	shā;du tǎ;tk ěr;ab jīng;mo liàn;hj bì;uo jiǎ;ol,tl	10
 沙特朱拜勒煉廠	shā;du tè;nc zhū;pw bài;uf lè;cl liàn;hj chǎng;gw	10
 山登絕頂我爲峯	shān;kl dēng;bb jué;sb dǐng;dy wǒ;ga wéi;vh fēng;uf	10
+山巔一寺一壺酒	shān;kl diān;uy yí;aa sì;tc yì;aa hú;ty jiǔ;dy	10
 善化寺大雄寶殿	shàn;yk huà;rb sì;tc dà;ar xióng;uv bǎo;bb diàn;uu	10
 山南西道節度使	shān;kl nán;ug xī;ak,wk dào;zz jié;ve dù;gy shǐ;rl	10
 膳食碳水化合物	shàn;ok shí;rg tàn;uh shuǐ;ln huà;rb hé;rk wù;nw	10
