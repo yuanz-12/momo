@@ -7,6 +7,7 @@ name: mingren
 version: "LTS"
 sort: by_weight
 ...
+安欣	ān;bn xīn;iq	277
 边亮	biān;zl liàng;wj	238
 蔡畅	cài;cu chàng;up	512
 蔡锷	cài;cu è;jk	223
@@ -322,6 +323,7 @@ sort: by_weight
 韩昭	hán;uw zhāo;ok	639
 韩缜	hán;uw zhěn;sb	342
 韩正	hán;uw zhèng;av	178
+郝萌	hǎo;ie méng;co	167
 何常	hé;rk cháng;xj	252
 贺昌	hè;lb chāng;oo	244
 何澹	hé;rk dàn;dk	414
@@ -797,6 +799,7 @@ sort: by_weight
 沈约	shěn;de yuē;su	125
 沈周	shěn;de zhōu;kk	166
 沈醉	shěn;de zuì;yu	616
+升允	shēng;pc yǔn;se	39
 施琅	shī;fy láng;wl	427
 施洋	shī;fy yáng;dy	109
 宋慈	sòng;ba cí;bx	341
@@ -3242,6 +3245,7 @@ sort: by_weight
 江直树	jiāng;dg zhí;uq shù;ac	418
 江忠源	jiāng;dg zhōng;vx yuán;dx	365
 蒋中正	jiǎng;cc zhōng;kl zhèng;av	157
+蒋周泰	jiǎng;cc zhōu;kk tài;iu	17
 江铸久	jiāng;dg zhù;jc jiǔ;pn	57
 江竹筠	jiāng;dg zhú;gg jūn;vy	382
 蒋子龙	jiǎng;cc zǐ;la lóng;yp	28
@@ -4194,6 +4198,15 @@ sort: by_weight
 孟云卿	mèng;zm yún;ag,es qīng;pg	212
 孟昭文	mèng;zm zhāo;ok wén;wx	328
 孟知祥	mèng;zm zhī;uk xiáng;py	31
+缪伯英	miào;sp bó;rb yīng;cy	306
+缪昌期	miào;sp chāng;oo qī;co	279
+缪晨霞	miào;sp chén;oi xiá;yy	212
+缪可馨	miào;sp kě;dk xīn;to	320
+缪美诗	miào;sp měi;yd shī;yc	270
+缪荃孙	miào;sp quán;cw sūn;zx	477
+缪瑞林	miào;sp ruì;we lín;aa	468
+缪细泉	miào;sp xì;st quán;bu	45
+缪希雍	miào;sp xī;xj yōng;wv	356
 穆迪埃	mù;hp dí;zy āi;tu	53
 穆尔西	mù;hp ěr;dx xī;ak,wk	57
 穆法沙	mù;hp fǎ;dq shā;du	266
@@ -4578,6 +4591,7 @@ sort: by_weight
 齐闵王	qí;wl mǐn;mw wáng;at	100
 齐湣王	qí;wl mǐn;do wáng;at	90
 齐愍王	qí;wl mǐn;mx wáng;at	81
+齐明帝	qí;wl míng;oo dì;wj	572
 齐默曼	qí;wl mò;lq màn;oy	41
 戚其义	qī;gx qí;cb yì;dx	391
 齐顷公	qí;wl qǐng;by gōng;bs	3
@@ -6553,6 +6567,7 @@ sort: by_weight
 袁国勇	yuán;ty guó;wy yǒng;sl	28
 袁翰青	yuán;ty hàn;ux qīng;fo	266
 袁寒云	yuán;ty hán;bd yún;ag,es	279
+元好问	yuán;aw hào;nz wèn;mk	267
 袁和平	yuán;ty hé;hk píng;au	524
 袁红冰	yuán;ty hóng;sg bīng;du	279
 袁宏道	yuán;ty hóng;bs dào;zz	82
@@ -7024,6 +7039,7 @@ sort: by_weight
 朱常洛	zhū;pw cháng;xj luò;dk	198
 朱常洵	zhū;pw cháng;xj xún;do	63
 朱宸濠	zhū;pw chén;bi háo;du	113
+朱成功	zhū;pw chéng;gv gōng;gl	46
 朱重八	zhū;pw chóng;ql bā;pn	616
 朱旦华	zhū;pw dàn;oa huá;ru	405
 朱丹蓬	zhū;pw dān;kd péng;cf	28
@@ -7154,7 +7170,6 @@ sort: by_weight
 庄智渊	zhuāng;gt zhì;uo yuān;dm	9
 庄重文	zhuāng;gt zhòng;ql wén;wx	414
 庄祖宜	zhuāng;gt zǔ;pq yí;bq	28
-齐明帝	zī;wl míng;oo dì;wj	572
 邹碧华	zōu;de bì;wu huá;ru	19
 邹秉文	zōu;de bǐng;qr wén;wx	3
 邹承鲁	zōu;de chéng;ln lǔ;yo	396
@@ -7194,6 +7209,7 @@ sort: by_weight
 桥本圣子	qiáo;al běn;aa shèng;yt zǐ;la	288
 桥本英郎	qiáo;al běn;aa yīng;cy láng;le	202
 桥本左内	qiáo;al běn;aa zuǒ;ug nèi;kr	243
+三条实美	sān;ae tiáo;wa shí;bd měi;yd	32
 涩泽荣一	sè;dv zé;df róng;ca yī;aa	504
 森尾茂助	sēn;aa wěi;um mào;cg zhù;ql	144
 森下钓云	sēn;aa xià;ab diào;ju yún;ag,es	256
@@ -7201,6 +7217,7 @@ sort: by_weight
 施特劳斯	shī;fy tè;nc láo;cl sī;ct	1438
 星野道夫	xīng;ou yě;ly dào;zz fū;er	369
 亚米契斯	yà;ay mǐ;ba qì;fd sī;ct	54
+岩仓具视	yán;uu cāng;rv jù;qb shì;pj	39
 宇文昌龄	yǔ;by wén;wx chāng;oo líng;vs	220
 宇文成都	yǔ;by wén;wx chéng;gv dū;le	69
 宇文成龙	yǔ;by wén;wx chéng;gv lóng;yp	76
@@ -7224,6 +7241,7 @@ sort: by_weight
 中岛英树	zhōng;kl dǎo;nu yīng;cy shù;ac	180
 中岛哲也	zhōng;kl dǎo;nu zhé;fk yě;vv	500
 安倍晋太郎	ān;bn bèi;rk jìn;yo tài;dd láng;le	10
+多罗特升允	duō;xx luó;sx tè;nc shēng;pc yǔn;se	10
 梅德韦杰夫	méi;am dé;rx wéi;fv jié;ah fū;er	10
 斯特里克兰德	sī;ct tè;nc lǐ;tt kè;ux,ge lán;bs dé;rx	10
 香宗我部亲泰	xiāng;ho zōng;bu wǒ;ga bù;le qīn;la tài;iu	10
