@@ -9,7 +9,6 @@ name: lianxiang
 version: "LTS"
 sort: by_weight
 ...
-能	néng
 阿巴科群岛	ā bā kē qún dǎo	10
 阿贝比长仪	ā bèi bǐ cháng yí	10
 阿贝不变量	ā bèi bú biàn liàng	10
@@ -74536,6 +74535,7 @@ sort: by_weight
 新能源货车	xīn néng yuán huò chē	10
 新能源轿车	xīn néng yuán jiào chē	10
 新能源牌照	xīn néng yuán pái zhào	10
+新能源汽车	xīn néng yuán qì chē	10
 新能源消纳	xīn néng yuán xiāo nà	10
 新年的脚步	xīn nián de jiǎo bù	10
 新年的开始	xīn nián de kāi shǐ	10
@@ -89940,6 +89940,7 @@ sort: by_weight
 资产的配置	zī chǎn de pèi zhì	10
 资产的收益	zī chǎn de shōu yì	10
 资产抵押债	zī chǎn dǐ yā zhài	10
+资产负债表	zī chǎn fù zhài biǎo	10
 资产和负债	zī chǎn hé fù zhài	10
 资产及负债	zī chǎn jí fù zhài	10
 自产农产品	zì chǎn nóng chǎn pǐn	10
@@ -90390,8 +90391,9 @@ sort: by_weight
 资深咨询师	zī shēn zī xún shī	10
 滋生的温床	zī shēng de wēn chuáng	10
 姿势要正确	zī shì yào zhèng què	10
-自适应路由	zì shì yīng lù yóu	10
-自适应网格	zì shì yīng wǎng gé	10
+自适应路由	zì shì yìng lù yóu	10
+自适应网格	zì shì yìng wǎng gé	10
+自适应巡航	zì shì yìng xún háng	10
 自受激振动	zì shòu jī zhèn dòng	10
 资寿解语汤	zī shòu jiě yǔ tāng	10
 紫苏变玄岩	zǐ sū biàn xuán yán	10
@@ -111156,6 +111158,7 @@ sort: by_weight
 吉祥航空公司	jí xiáng háng kōng gōng sī	10
 急相球蛋白类	jí xiāng qiú dàn bái lèi	10
 吉祥如意平安	jí xiáng rú yì píng ān	10
+击响中文之韵	jī xiǎng zhōng wén zhī yùn	10
 极小概率事件	jí xiǎo gài lǜ shì jiàn	10
 极小化极大解	jí xiǎo huà jí dà jiě	10
 极小极大策略	jí xiǎo jí dà cè lüè	10
@@ -147986,9 +147989,6 @@ sort: by_weight
 包科尼沙尔卡尼	bāo kē ní shā ěr kǎ ní	10
 包科尼圣基拉伊	bāo kē ní shèng jī lā yī	10
 包括但不局限于	bāo kuò dàn bù jú xiàn yú	10
-包括新能源汽车	bāo kuò xīn néng yuán qì chē	10
-包括资产负债表	bāo kuò zī chǎn fù zhài biǎo	10
-包括自适应巡航	bāo kuò zì shì yīng xún háng	10
 保拉埃斯皮诺萨	bǎo lā āi sī pí nuò sà	10
 保利海上五月花	bǎo lì hǎi shàng wǔ yuè huā	10
 保利世贸博览馆	bǎo lì shì mào bó lǎn guǎn	10
@@ -153834,6 +153834,7 @@ sort: by_weight
 非选择性阻滞剂	fēi xuǎn zé xìng zǔ zhì jì	10
 费雪二氏黏度计	fèi xuě èr shì nián dù jì	10
 费雪交换方程式	fèi xuě jiāo huàn fāng chéng shì	10
+飞雪连天射白鹿	fēi xuě lián tiān shè bái lù	10
 非血栓性肺栓塞	fēi xuè shuān xìng fèi shuān sè	10
 非压缩半尾花介	fēi yā suō bàn wěi huā jiè	10
 肺炎克雷伯氏菌	fèi yán kè léi bó shì jūn	10
@@ -154439,7 +154440,7 @@ sort: by_weight
 复杂适应性系统	fù zá shì yìng xìng xì tǒng	10
 复杂性和长期性	fù zá xìng hé cháng qī xìng	10
 复杂性派生理论	fù zá xìng pài shēng lǐ lùn	10
-复杂自适应系统	fù zá zì shì yīng xì tǒng	10
+复杂自适应系统	fù zá zì shì yìng xì tǒng	10
 富在深山有远亲	fù zài shēn shān yǒu yuǎn qīn	10
 浮在水面上的草	fú zài shuǐ miàn shàng de cǎo	10
 复造候风地动仪	fù zào hòu fēng dì dòng yí	10
@@ -160129,6 +160130,7 @@ sort: by_weight
 消食和胃效堪夸	xiāo shí hé wèi xiào kān kuā	10
 小时尿蛋白定量	xiǎo shí niào dàn bái dìng liàng	10
 小鼠成纤维细胞	xiǎo shǔ chéng xiān wéi xì bāo	10
+笑书神侠倚碧鸳	xiào shū shén xiá yǐ bì yuān	10
 小腿多发性骨折	xiǎo tuǐ duō fā xìng gǔ zhé	10
 肖维涅舍弃判据	xiāo wéi niè shě qì pàn jù	10
 小心驶得万年船	xiǎo xīn shǐ de wàn nián chuán	10
@@ -161477,9 +161479,9 @@ sort: by_weight
 资深心理咨询师	zī shēn xīn lǐ zī xún shī	10
 自身牙根种植体	zì shēn yá gēn zhòng zhí tǐ	10
 自是浮生无可说	zì shì fú shēng wú kě shuō	10
-自适应巡航功能	zì shì yīng xún háng gōng néng	10
-自适应巡航控制	zì shì yīng xún háng kòng zhì	10
-自适应巡航系统	zì shì yīng xún háng xì tǒng	10
+自适应巡航功能	zì shì yìng xún háng gōng néng	10
+自适应巡航控制	zì shì yìng xún háng kòng zhì	10
+自适应巡航系统	zì shì yìng xún háng xì tǒng	10
 紫苏斜长花岗岩	zǐ sū xié cháng huā gǎng yán	10
 自碎火成角砾岩	zì suì huǒ chéng jiǎo lì yán	10
 子孙弃者无论焉	zǐ sūn qì zhě wú lùn yān	10

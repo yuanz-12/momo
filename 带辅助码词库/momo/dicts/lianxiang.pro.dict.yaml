@@ -9,7 +9,6 @@ name: lianxiang
 version: "LTS"
 sort: by_weight
 ...
-能	néng;sb
 阿巴科群岛	ā;ek bā;sl kē;hd qún;yy dǎo;nu	10
 阿贝比长仪	ā;ek bèi;kr bǐ;bb cháng;pn yí;ry	10
 阿贝不变量	ā;ek bèi;kr bú;ab biàn;wy liàng;ol	10
@@ -74536,6 +74535,7 @@ sort: by_weight
 新能源货车	xīn;lt néng;sb yuán;dx huò;rb chē;au	10
 新能源轿车	xīn;lt néng;sb yuán;dx jiào;il chē;au	10
 新能源牌照	xīn;lt néng;sb yuán;dx pái;pu zhào;oh	10
+新能源汽车	xīn;lt néng;sb yuán;dx qì;dq chē;au	10
 新能源消纳	xīn;lt néng;sb yuán;dx xiāo;do nà;sn	10
 新年的脚步	xīn;lt nián;pf de;bu jiǎo;oe bù;vu	10
 新年的开始	xīn;lt nián;pf de;bu kāi;ac shǐ;nk	10
@@ -89940,6 +89940,7 @@ sort: by_weight
 资产的配置	zī;db chǎn;wi de;bu pèi;yj zhì;sq	10
 资产的收益	zī;db chǎn;wi de;bu shōu;jw yì;bm	10
 资产抵押债	zī;db chǎn;wi dǐ;fu yā;fj zhài;rb	10
+资产负债表	zī;db chǎn;wi fù;db zhài;rb biǎo;fy	10
 资产和负债	zī;db chǎn;wi hé;hk fù;db zhài;rb	10
 资产及负债	zī;db chǎn;wi jí;pn fù;db zhài;rb	10
 自产农产品	zì;po chǎn;wi nóng;by chǎn;wi pǐn;kk	10
@@ -90390,8 +90391,9 @@ sort: by_weight
 资深咨询师	zī;db shēn;da zī;dk xún;yo shī;lj	10
 滋生的温床	zī;dy shēng;pf de;bu wēn;dm chuáng;ga	10
 姿势要正确	zī;dn shì;fl yào;xn zhèng;av què;uy	10
-自适应路由	zì;po shì;zu yīng;ga lù;zk yóu;ol,lt	10
-自适应网格	zì;po shì;zu yīng;ga wǎng;kx gé;ak	10
+自适应路由	zì;po shì;zu yìng;ga lù;zk yóu;ol,lt	10
+自适应网格	zì;po shì;zu yìng;ga wǎng;kx gé;ak	10
+自适应巡航	zì;po shì;zu yìng;ga xún;zv háng;vj	10
 自受激振动	zì;po shòu;vy jī;dw zhèn;fi dòng;yl	10
 资寿解语汤	zī;db shòu;fc jiě;dn yǔ;yk tāng;dp	10
 紫苏变玄岩	zǐ;vx sū;cb biàn;wy xuán;wy yán;uu	10
@@ -111156,6 +111158,7 @@ sort: by_weight
 吉祥航空公司	jí;tk xiáng;py háng;vj kōng;bg gōng;bs sī;vk	10
 急相球蛋白类	jí;dx xiāng;ao qiú;wq dàn;zi bái;po lèi;md	10
 吉祥如意平安	jí;tk xiáng;py rú;nk yì;lx píng;au ān;bn	10
+击响中文之韵	jī;fk xiǎng;kk zhōng;kl wén;wx zhī;dn yùn;ly	10
 极小概率事件	jí;aj xiǎo;lb gài;aw lǜ;wu shì;gy jiàn;rn	10
 极小化极大解	jí;aj xiǎo;lb huà;rb jí;aj dà;ar jiě;dn	10
 极小极大策略	jí;aj xiǎo;lb jí;aj dà;ar cè;vu lüè;tk	10
@@ -147986,9 +147989,6 @@ sort: by_weight
 包科尼沙尔卡尼	bāo;bs kē;hd ní;ub shā;du ěr;dx kǎ;ub ní;ub	10
 包科尼圣基拉伊	bāo;bs kē;hd ní;ub shèng;yt jī;ct lā;fl yī;ry	10
 包括但不局限于	bāo;bs kuò;fu dàn;rd bù;ab jú;uk xiàn;eg yú;au	10
-包括新能源汽车	bāo;bs kuò;fu xīn;lt néng;sb yuán;dx qì;dq chē;au	10
-包括资产负债表	bāo;bs kuò;fu zī;db chǎn;wi fù;db zhài;rb biǎo;fy	10
-包括自适应巡航	bāo;bs kuò;fu zì;po shì;zu yīng;ga xún;zv háng;vj	10
 保拉埃斯皮诺萨	bǎo;ra lā;fl āi;tu sī;ct pí;py nuò;yk sà;ci	10
 保利海上五月花	bǎo;ra lì;hd hǎi;dm shàng;ba wǔ;aw yuè;ke huā;cb	10
 保利世贸博览馆	bǎo;ra lì;hd shì;cv mào;pb bó;uc lǎn;lj guǎn;ul	10
@@ -153834,6 +153834,7 @@ sort: by_weight
 非选择性阻滞剂	fēi;ls xuǎn;ze zé;ff xìng;xu zǔ;eq zhì;dj jì;qd	10
 费雪二氏黏度计	fèi;fb xuě;ye èr;aa shì;pv nián;hv dù;gy jì;yu	10
 费雪交换方程式	fèi;fb xuě;ye jiāo;wf huàn;fr fāng;wv chéng;hw shì;gg	10
+飞雪连天射白鹿	fēi;vd xuě;ye lián;zi tiān;ad shè;uc bái;po lù;gb	10
 非血栓性肺栓塞	fēi;ls xuè;pm shuān;aw xìng;xu fèi;oj shuān;aw sè;bt	10
 非压缩半尾花介	fēi;ls yā;id suō;sb bàn;bf wěi;um huā;cb jiè;rl	10
 肺炎克雷伯氏菌	fèi;oj yán;hh kè;ux,ge léi;yt bó;rb shì;pv jūn;ch	10
@@ -154439,7 +154440,7 @@ sort: by_weight
 复杂适应性系统	fù;pw zá;ja shì;zu yìng;ga xìng;xu xì;px tǒng;sy	10
 复杂性和长期性	fù;pw zá;ja xìng;xu hé;hk cháng;pn qī;co xìng;xu	10
 复杂性派生理论	fù;pw zá;ja xìng;xu pài;dy shēng;pf lǐ;wl lùn;yl	10
-复杂自适应系统	fù;pw zá;ja zì;po shì;zu yīng;ga xì;px tǒng;sy	10
+复杂自适应系统	fù;pw zá;ja zì;po shì;zu yìng;ga xì;px tǒng;sy	10
 富在深山有远亲	fù;bt zài;ut shēn;da shān;kl yǒu;uo yuǎn;zy qīn;la	10
 浮在水面上的草	fú;dz zài;ut shuǐ;ln miàn;ao shàng;ba de;bu cǎo;cu	10
 复造候风地动仪	fù;pw zào;zk hòu;ru fēng;jx dì;ty dòng;yl yí;ry	10
@@ -160129,6 +160130,7 @@ sort: by_weight
 消食和胃效堪夸	xiāo;do shí;rg hé;hk wèi;to xiào;ww kān;tb kuā;dk	10
 小时尿蛋白定量	xiǎo;lb shí;to niào;uu dàn;zi bái;po dìng;bz liàng;ol	10
 小鼠成纤维细胞	xiǎo;lb shǔ;jv chéng;gv xiān;sq wéi;sv xì;st bāo;ob	10
+笑书神侠倚碧鸳	xiào;vy shū;vd shén;pu xiá;rj yǐ;rk bì;wu yuān;xn	10
 小腿多发性骨折	xiǎo;lb tuǐ;og duō;xx fā;fy xìng;xu gǔ;go zhé;ft	10
 肖维涅舍弃判据	xiāo;xo wéi;sv niè;dt shě;rg qì;wc pàn;bd jù;fg	10
 小心驶得万年船	xiǎo;lb xīn;dd shǐ;mu de;rc wàn;av nián;pf chuán;vk	10
@@ -161477,9 +161479,9 @@ sort: by_weight
 资深心理咨询师	zī;db shēn;da xīn;dd lǐ;wl zī;dk xún;yo shī;lj	10
 自身牙根种植体	zì;po shēn;zc yá;gp,ac gēn;ag zhòng;hv zhí;aq tǐ;rb	10
 自是浮生无可说	zì;po shì;oz fú;dz shēng;pf wú;ay kě;dk shuō;yx	10
-自适应巡航功能	zì;po shì;zu yīng;ga xún;zv háng;vj gōng;gl néng;sb	10
-自适应巡航控制	zì;po shì;zu yīng;ga xún;zv háng;vj kòng;fg zhì;nd	10
-自适应巡航系统	zì;po shì;zu yīng;ga xún;zv háng;vj xì;px tǒng;sy	10
+自适应巡航功能	zì;po shì;zu yìng;ga xún;zv háng;vj gōng;gl néng;sb	10
+自适应巡航控制	zì;po shì;zu yìng;ga xún;zv háng;vj kòng;fg zhì;nd	10
+自适应巡航系统	zì;po shì;zu yìng;ga xún;zv háng;vj xì;px tǒng;sy	10
 紫苏斜长花岗岩	zǐ;vx sū;cb xié;rd cháng;pn huā;cb gǎng;ux yán;uu	10
 自碎火成角砾岩	zì;po suì;uu huǒ;br chéng;gv jiǎo;dy lì;ul yán;uu	10
 子孙弃者无论焉	zǐ;la sūn;zx qì;wc zhě;lo wú;ay lùn;yl yān;vh	10
