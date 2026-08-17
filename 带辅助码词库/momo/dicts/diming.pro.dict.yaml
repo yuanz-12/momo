@@ -44,7 +44,7 @@ sort: by_weight
 陈州	chén;ed zhōu;dl	317
 呈坎	chéng;kw kǎn;tq	124
 城南	chéng;ti nán;ug	1066
-城区	chéng;ti qū;kx	1002
+城区	chéng;ti qū;kx	1202
 成县	chéng;gv xiàn;qs	964
 崇阳	chóng;uu yáng;eo	125
 楚城	chǔ;az chéng;ti	145
@@ -2071,32 +2071,24 @@ sort: by_weight
 卜庄镇	bo;ld zhuāng;gt zhèn;jb	10
 埠场镇	bù;tu chǎng;tp zhèn;jb	10
 补抽乡	bǔ;pb chōu;fy xiāng;vp	434
-不出村	bù;ab chū;uu cūn;ac	36
-不出县	bù;ab chū;uu xiàn;qs	144
-不出镇	bù;ab chū;uu zhèn;jb	322
 布袋镇	bù;uj dài;ry zhèn;jb	387
 布德镇	bù;uj dé;rx zhèn;jb	10
-不端庄	bù;ab duān;le zhuāng;gt	100
 布多乡	bù;uj duō;xx xiāng;vp	92
 补尔乡	bǔ;pb ěr;dx xiāng;vp	10
-部分县	bù;le fen;bd xiàn;qs	152
 步凤镇	bù;vu fèng;jy zhèn;jb	10
 部官镇	bù;le guān;bl zhèn;jb	10
 布海镇	bù;uj hǎi;dm zhèn;jb	10
 埠河镇	bù;tu hé;dk zhèn;jb	10
-不回乡	bù;ab huí;wk xiāng;vp	7251
 布吉镇	bù;uj jí;tk zhèn;jb	233
 布甲乡	bù;uj jiǎ;ol,tl xiāng;vp	10
 埠江镇	bù;tu jiāng;dg zhèn;jb	10
 布久乡	bù;uj jiǔ;pn xiāng;vp	10
-不老村	bù;ab lǎo;lb cūn;ac	100
 埔里镇	bù;tf lǐ;tt zhèn;jb	422
 埠柳镇	bù;tu liǔ;ae zhèn;jb	10
 布隆乡	bù;uj lóng;eu xiāng;vp	10
 步路乡	bù;vu lù;zk xiāng;vp	10
 埠前镇	bù;tu qián;bd zhèn;jb	10
 布泉乡	bù;uj quán;bu xiāng;vp	10
-不少村	bù;ab shǎo;xp cūn;ac	100
 布塔乡	bù;uj tǎ;tk xiāng;vp	10
 埠头乡	bù;tu tóu;dd xiāng;vp	359
 埠头镇	bù;tu tóu;dd zhèn;jb	10
@@ -6314,14 +6306,12 @@ sort: by_weight
 圪台乡	gē;tv tái;sk xiāng;vp	10
 葛田乡	gé;cr tián;wu xiāng;vp	10
 葛溪乡	gé;cr xī;dd xiāng;vp	10
-各乡镇	gè;wk xiāng;vp zhèn;jb	517
 革一镇	gé;cu yí;aa zhèn;jb	10
 格宜镇	gé;ak yí;bq zhèn;jb	10
 葛源镇	gé;cr yuán;dx zhèn;jb	10
 格咱乡	gé;ak zán;kz xiāng;vp	10
 葛寨镇	gé;cr zhài;ba zhèn;jb	10
 革镇堡	gé;cu zhèn;jb bǎo;rt	250
-各州县	gè;wk zhōu;dl xiàn;qs	164
 各庄镇	gè;wk zhuāng;gt zhèn;jb	222
 格宗镇	gé;ak zōng;bu zhèn;jb	10
 根河市	gēn;ag hé;dk shì;wj	7
@@ -29686,7 +29676,6 @@ sort: by_weight
 布敦山村	bù;uj dūn;ww shān;kl cūn;ac	10
 布尔津县	bù;uj ěr;dx jīn;dy xiàn;qs	10
 布尔津镇	bù;uj ěr;dx jīn;dy zhèn;jb	10
-部分街道	bù;le fen;bd jiē;rt dào;zz	10
 布格仔村	bù;uj gé;ak zǎi;rz cūn;ac	10
 步古沟镇	bù;vu gǔ;uk gōu;dg zhèn;jb	10
 布吉街道	bù;uj jí;tk jiē;rt dào;zz	10
