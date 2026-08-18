@@ -15804,9 +15804,9 @@ sort: by_weight
 蒲台乡	pú;cf tái;sk xiāng;vp	10
 濮塘镇	pú;df táng;tk zhèn;jb	10
 蒲塘镇	pú;cf táng;tk zhèn;jb	10
-葡萄场	pú;cf táo;cf chǎng;tp	10
-葡萄县	pú;cf táo;cf xiàn;qs	98
-葡萄镇	pú;cf táo;cf zhèn;jb	10
+葡萄场	pú;cf tao;cf chǎng;tp	10
+葡萄县	pú;cf tao;cf xiàn;qs	98
+葡萄镇	pú;cf tao;cf zhèn;jb	10
 菩提镇	pú;ck tí;fz zhèn;jb	10
 莆田县	pú;cf tián;wu xiàn;qs	208
 圃田乡	pǔ;wf tián;wu xiāng;vp	10
@@ -52326,11 +52326,11 @@ sort: by_weight
 朴实庄村	pǔ;ab shí;bd zhuāng;gt cūn;ac	10
 蒲首山村	pú;cf shǒu;bz shān;kl cūn;ac	10
 蒲台河村	pú;cf tái;sk hé;dk cūn;ac	10
-葡萄沟村	pú;cf táo;cf gōu;dg cūn;ac	10
-葡萄沟乡	pú;cf táo;cf gōu;dg xiāng;vp	10
-葡萄架乡	pú;cf táo;cf jià;la xiāng;vp	10
-葡萄园村	pú;cf táo;cf yuán;wy cūn;ac	10
-葡萄寨村	pú;cf táo;cf zhài;ba cūn;ac	10
+葡萄沟村	pú;cf tao;cf gōu;dg cūn;ac	10
+葡萄沟乡	pú;cf tao;cf gōu;dg xiāng;vp	10
+葡萄架乡	pú;cf tao;cf jià;la xiāng;vp	10
+葡萄园村	pú;cf tao;cf yuán;wy cūn;ac	10
+葡萄寨村	pú;cf tao;cf zhài;ba cūn;ac	10
 菩提街道	pú;ck tí;fz jiē;rt dào;zz	10
 菩提寺村	pú;ck tí;fz sì;tc cūn;ac	10
 莆田城厢	pú;cf tián;wu chéng;ti xiāng;io	10
@@ -75728,7 +75728,7 @@ sort: by_weight
 蒲芦瑶族乡	pú;cf lú;ch yáo;wf zú;fu xiāng;vp	10
 普玛江塘乡	pǔ;bo mǎ;wm jiāng;dg táng;tk xiāng;vp	10
 普恰克其镇	pǔ;bo qià;xk kè;ux,ge qí;cb zhèn;jb	10
-葡萄沟街道	pú;cf táo;cf gōu;dg jiē;rt dào;zz	10
+葡萄沟街道	pú;cf tao;cf gōu;dg jiē;rt dào;zz	10
 普田回族乡	pǔ;bo tián;wu huí;wk zú;fu xiāng;vp	10
 莆田仙游县	pú;cf tián;wu xiān;ru yóu;dz xiàn;qs	10
 普陀路街道	pǔ;bo tuó;eb lù;zk jiē;rt dào;zz	10

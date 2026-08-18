@@ -9,17 +9,32 @@ version: "LTS"
 sort: by_weight
 ...
 阿寶	ā;ek bǎo;bb	650
+阿布	ā;ek bù;uj	1151
+阿杜	ā;ek dù;at	1287
 阿朵	ā;ek duǒ;ja	210
+阿嬌	ā;ek jiāo;nk	524
+阿姆	ā;ek mǔ;nm	1512
+阿木	ā;ek mù;ur	1036
+阿牛	ā;ek niú;pu	330
 阿諾	ā;ek nuò;yk	634
+阿悄	ā;ek qiāo;xo	454
+阿沁	ā;ek qìn;dx	106
 阿冗	ā;ek rǒng;bj	201
+阿桑	ā;ek sāng;ya	60
 阿肆	ā;ek sì;ey	722
+阿湯	ā;ek tāng;dw	1026
+阿信	ā;ek xìn;rk	5866
+阿雅	ā;ek yǎ;yv	131
+阿憶	ā;ek yì;xx	326
 阿哲	ā;ek zhé;fk	824
 艾東	ài;cx dōng;ir	81
 艾菲	ài;cx fēi;cf	185
 艾敬	ài;cx jìng;cw	4
+艾力	ài;cx lì;vp	691
 艾琳	ài;cx lín;wa	1404
 艾倫	ài;cx lún;rc	8958
 艾平	ài;cx píng;au	316
+艾熱	ài;cx rè;th	459
 艾如	ài;cx rú;nk	39
 艾聞	ài;cx wén;me	13
 艾熙	ài;cx xī;ih	634
@@ -27,16 +42,22 @@ sort: by_weight
 安寧	ān;bn níng;bd	2911
 安琦	ān;bn qí;wk	151
 安崎	ān;bn qí;uk	120
+安雯	ān;bn wén;yw	77
+安雅	ān;bn yǎ;yv	4638
 安雨	ān;bn yǔ;ad	457
 傲蕾	ào;rw lěi;ct	116
+奧托	ào;pd tuō;fq	442
 巴桑	bā;sl sāng;ya	5130
 巴圖	bā;sl tú;wk	421
 巴雅	bā;sl yǎ;yv	259
 白冰	bái;po bīng;du	1130
 白凡	bái;po fán;jd	99
 柏寒	bǎi;ab hán;bd	212
+白虹	bái;po hóng;ig	68
+百惠	bǎi;ab huì;ix	80
 白靜	bái;po jìng;fy	874
 白客	bái;po kè;bk	469
+白靈	bái;po líng;yr	97
 白鹿	bái;po lù;gb	483
 白茹	bái;po rú;ck	256
 白珊	bái;po shān;wc	174
@@ -45,15 +66,21 @@ sort: by_weight
 白威	bái;po wēi;gn	93
 白希	bái;po xī;xj	109
 柏雪	bǎi;ab xuě;ye	142
+白洋	bái;po yáng;dy	188
 白宇	bái;po yǔ;by	671
 白雲	bái;po yún;yy	1821
+柏芝	bǎi;ab zhī;cv	420
 半陽	bàn;bf yáng;ew	166
 鮑蕾	bào;yb lěi;ct	1188
 包磊	bāo;bs lěi;uu	10
 鮑莉	bào;yb lì;cd	113
+寶強	bǎo;bb qiáng;gi	323
 鮑勳	bào;yb xūn;ql	50
+鮑伊	bào;yb yī;ry	278
 本兮	běn;aa xī;bk	224
+比伯	bǐ;bb bó;rb	1066
 畢暢	bì;tf chàng;uw	21
+比莉	bǐ;bb lì;cd	80
 畢夏	bì;tf xià;bw	178
 畢雪	bì;tf xuě;ye	131
 邊程	biān;zf chéng;hw	120
@@ -61,6 +88,8 @@ sort: by_weight
 扁鵲	biǎn;hc què;cn	1118
 斌子	bīn;wv zǐ;la	735
 冰江	bīng;du jiāng;dg	15
+博諾	bó;uc nuò;yk	53
+伯賢	bó;rb xián;ib	954
 伯遠	bó;rb yuǎn;zy	184
 卜鈺	bǔ;ld yù;jy	4
 蔡斌	cài;cu bīn;wv	486
@@ -76,6 +105,7 @@ sort: by_weight
 蔡妍	cài;cu yán;nk	16
 蔡贇	cài;cu yūn;wb	236
 蔡紫	cài;cu zǐ;vx	13
+燦烈	càn;hm liè;dh	936
 曹純	cáo;co chún;st	2026
 曹德	cáo;co dé;rx	1584
 曹方	cáo;co fāng;wv	867
@@ -94,7 +124,9 @@ sort: by_weight
 曹穎	cáo;co yǐng;bh	452
 曹苑	cáo;co yuàn;cv	15
 曹徵	cáo;co zhēng;rw	1133
+側田	cè;rd tián;wu	806
 柴格	chái;va gé;ak	135
+柴璐	chái;va lù;wk	262
 柴陸	chái;va lù;et	2
 柴蔚	chái;va wèi;cc	23
 柴堯	chái;va yáo;tw	1
@@ -104,9 +136,11 @@ sort: by_weight
 常昊	cháng;xj hào;ot	636
 常林	cháng;xj lín;aa	1238
 昌隆	chāng;oo lóng;eu	137
+昌珉	chāng;oo mín;wm	702
 常戎	cháng;xj róng;gu	13
 常遠	cháng;xj yuǎn;zy	75
 常媛	cháng;xj yuàn;ny	4
+長澤	cháng;ey zé;dg	1071
 車曉	chē;iu xiǎo;ow	4081
 陳冰	chén;ed bīng;du	756
 陳辰	chén;ed chén;iy	55
@@ -160,12 +194,14 @@ sort: by_weight
 陳錚	chén;ed zhēng;jy	56
 陳最	chén;ed zuì;oy	129
 程丞	chéng;hw chéng;la	15
+程東	chéng;hw dōng;ir	450
 程菲	chéng;hw fēi;cf	3693
 程戈	chéng;hw gē;yd	7
 程蘭	chéng;hw lán;cj	58
 程雷	chéng;hw léi;yt	3235
 丞磊	chéng;la lěi;uu	12
 程琳	chéng;hw lín;wa	193
+成龍	chéng;gv lóng;lv	10946
 程璐	chéng;hw lù;wk	29
 程琪	chéng;hw qí;wb	45
 程前	chéng;hw qián;bd	3593
@@ -192,6 +228,8 @@ sort: by_weight
 楚月	chǔ;az yuè;ke	435
 楚鎮	chǔ;az zhèn;jb	14
 啜妮	chuài;ky nī;nb	22
+春春	chūn;io chūn;io	260
+春妮	chūn;io nī;nb	698
 此沙	cǐ;vb shā;du	198
 叢飛	cóng;yy fēi;fc	670
 崔冰	cuī;uv bīng;du	1054
@@ -205,8 +243,12 @@ sort: by_weight
 崔奕	cuī;uv yì;wd	1
 崔鍾	cuī;uv zhōng;jv	34
 大冰	dà;ar bīng;du	998
+大炳	dà;ar bǐng;hn	346
 大鵬	dà;ar péng;on	1639
 達奇	dá;zy qí;dk	202
+達叔	dá;zy shū;uy	474
+大鎖	dà;ar suǒ;jb	204
+大壯	dà;ar zhuàng;pt	641
 大籽	dà;ar zǐ;mz	43
 大左	dà;ar zuǒ;ug	822
 代超	dài;rg chāo;tk	13612
@@ -220,10 +262,12 @@ sort: by_weight
 代旭	dài;rg xù;jo	34
 代勇	dài;rg yǒng;sl	115
 戴澤	dài;gg zé;dg	53
+蛋堡	dàn;zi bǎo;rt	672
 但斌	dàn;rd bīn;wv	598
 丹琳	dān;kd lín;wa	255
 刀郎	dāo;vp láng;le	688
 德柏	dé;rx bǎi;ab	78
+德普	dé;rx pǔ;bo	5765
 鄧超	dèng;be chāo;tk	1758
 鄧鋼	dèng;be gāng;ju	116
 鄧鼓	dèng;be gǔ;tv	37
@@ -237,13 +281,17 @@ sort: by_weight
 鄧英	dèng;be yīng;cy	117
 狄傑	dí;qh jié;ra	15
 翟凌	dí;xv líng;dw	82
+狄龍	dí;qh lóng;lv	138
+狄娜	dí;qh nà;ne	163
 翟巍	dí;xv wēi;ug	8
 蒂亞	dì;cj yà;aa	10
+電棍	diàn;yd gùn;ab	534
 典韋	diǎn;qb,cb wéi;wf	1325
 刁彪	diāo;va biāo;hp	18
 貂蟬	diāo;vk chán;iu	7775
 刁寒	diāo;va hán;bd	1
 刁揚	diāo;va yáng;fw	2
+叮噹	dīng;kd dāng;kt	757
 丁當	dīng;al dāng;xt	150
 丁丁	dīng;al dīng;al	150
 丁鶴	dīng;al hè;bn	122
@@ -260,23 +308,31 @@ sort: by_weight
 董棟	dǒng;cv dòng;ad	89
 東鬥	dōng;ir dòu;ll	812
 董飛	dǒng;cv fēi;fc	155
+董浩	dǒng;cv hào;dk	45
 董慧	dǒng;cv huì;fx	178
 董潔	dǒng;cv jié;dx	408
 董蕾	dǒng;cv lěi;ct	30
 董力	dǒng;cv lì;vp	119
 東凜	dōng;ir lǐn;dh	10
 董娉	dǒng;cv pīng;nk	43
+董倩	dǒng;cv qiàn;ro	191
 董卿	dǒng;cv qīng;pg	697
 董晴	dǒng;cv qíng;oo	41
+東神	dōng;ir shén;pu	599
 董帥	dǒng;cv shuài;pj	437
+董瑋	dǒng;cv wěi;wf	276
 董嫺	dǒng;cv xián;no	4
 董馨	dǒng;cv xīn;to	18
 董璇	dǒng;cv xuán;wz	13
 董顏	dǒng;cv yán;wy	1
 董燁	dǒng;cv yè;hf	1
 董勇	dǒng;cv yǒng;sl	139
+董貞	dǒng;cv zhēn;bb	954
 董真	dǒng;cv zhēn;ub	80
+竇鵬	dòu;bb péng;on	486
+抖森	dǒu;fd sēn;aa	806
 竇唯	dòu;bb wéi;kv	3582
+竇驍	dòu;bb xiāo;mw	313
 杜淳	dù;at chún;dz	53
 杜鋒	dù;at fēng;jf	644
 杜峯	dù;at fēng;uf	242
@@ -294,11 +350,12 @@ sort: by_weight
 段曦	duàn;pu xī;ok	80
 段暄	duàn;pu xuān;od	648
 多亮	duō;xx liàng;wj	122
+恩雅	ēn;yx yǎ;yv	217
 耳帝	ěr;ol dì;wj	223
+法鯊	fǎ;dq shā;dy	100
 法正	fǎ;dq zhèng;av	521
 樊登	fán;ad dēng;bb	702
 范范	fàn;cv fàn;cv	109
-樊噲	fán;ad kuài;ko	881
 範雷	fàn;vv léi;yt	1230
 樊玲	fán;ad líng;ws	108
 范明	fàn;cv míng;oo	163
@@ -316,8 +373,11 @@ sort: by_weight
 方川	fāng;wv chuān;pl	131
 方化	fāng;wv huà;rb	700
 方慧	fāng;wv huì;fx	80
+方靜	fāng;wv jìng;fy	2
 房蕾	fáng;hf lěi;ct	1
+方亮	fāng;wv liàng;wj	514
 房鹿	fáng;hf lù;gb	10
+方明	fāng;wv míng;oo	1287
 房琪	fáng;hf qí;wb	15
 方瓊	fāng;wv qióng;ww	850
 方舒	fāng;wv shū;ry	503
@@ -325,6 +385,10 @@ sort: by_weight
 方碩	fāng;wv shuò;uy	792
 房巖	fáng;hf yán;uw	10
 方野	fāng;wv yě;ly	6226
+方媛	fāng;wv yuàn;ny	124
+飛兒	fēi;fc ér;je	314
+肥媽	féi;ob mā;nm	457
+費翔	fèi;fb xiáng;yx	110
 馮兵	féng;dm bīng;qb	31
 馮聰	féng;dm cōng;ex	74
 馮峯	féng;dm fēng;uf	45
@@ -354,37 +418,50 @@ sort: by_weight
 符濤	fú;vc tāo;dc	12
 付滃	fù;rc wēng;dx	1
 富妍	fù;bt yán;nk	4
+嘎子	gǎ;kg zi;la	747
 甘龍	gān;ca lóng;lv	422
 甘露	gān;ca lù;yk	511
 甘寧	gān;ca níng;bd	1400
 甘萍	gān;ca píng;cp	48
 甘薇	gān;ca wēi;cj	75
 剛輝	gāng;kd huī;gi	24
+剛強	gāng;kd qiáng;gi	688
 高柏	gāo;wk bǎi;ab	559
+高登	gāo;wk dēng;bb	1040
 高楓	gāo;wk fēng;af	504
 高夫	gāo;wk fū;er	4629
 高戈	gāo;wk gē;yd	25
 高寒	gāo;wk hán;bd	270
 高昊	gāo;wk hào;ot	446
 高虎	gāo;wk hǔ;hj	850
+高捷	gāo;wk jié;fz	52
 高進	gāo;wk jìn;zv	207
 高凱	gāo;wk kǎi;uj	162
+高朗	gāo;wk lǎng;lo	828
 高露	gāo;wk lù;yk	223
 高敏	gāo;wk mǐn;pw	289
 高明	gāo;wk míng;oo	5319
 高旗	gāo;wk qí;fb	243
 高晴	gāo;wk qíng;oo	22
 高仁	gāo;wk rén;re	568
+高爽	gāo;wk shuǎng;dx	19
+高威	gāo;wk wēi;gn	280
 高瑕	gāo;wk xiá;wy	12
 高鑫	gāo;wk xīn;jj	683
+高岩	gāo;wk yán;uu	421
+高洋	gāo;wk yáng;dy	408
 高葉	gāo;wk yè;ca	1022
 高奕	gāo;wk yì;wd	54
 高媛	gāo;wk yuàn;ny	386
+蓋博	gě;cm bó;uc	671
 蓋克	gě;cm kè;ux,ge	189
+葛蘭	gé;cr lán;cj	1048
 蓋美	gě;cm měi;yd	5115
 葛平	gé;cr píng;au	57
 葛帥	gé;cr shuài;pj	15
 葛天	gé;cr tiān;ad	2828
+格溫	gé;ak wēn;dm	505
+葛葉	gé;cr yè;ca	542
 葛優	gé;cr yōu;rw	1095
 葛錚	gé;cr zhēng;jy	318
 耿樂	gěng;eh lè;ya	889
@@ -395,6 +472,7 @@ sort: by_weight
 龔俊	gōng;lg jùn;rw	129
 公磊	gōng;bs lěi;uu	290
 宮磊	gōng;bk lěi;uu	48
+鞏俐	gǒng;gu lì;rd	2032
 龔露	gōng;lg lù;yk	1
 貢米	gòng;gb mǐ;ba	657
 龔爽	gōng;lg shuǎng;dx	35
@@ -406,10 +484,12 @@ sort: by_weight
 苟偉	gǒu;cj wěi;rf	22
 古晨	gǔ;uk chén;oi	422
 顧峯	gù;hy fēng;uf	58
+鼓鼓	gǔ;tv gǔ;tv	609
 顧靖	gù;hy jìng;lo	6338
 谷洋	gǔ;bk yáng;dy	13
 顧雍	gù;hy yōng;wv	179
 古月	gǔ;uk yuè;ke	757
+古仔	gǔ;uk zǎi;rz	630
 關暢	guān;mj chàng;uw	15
 管虎	guǎn;vl hǔ;hj	5344
 管櫟	guǎn;vl lì;aa	4
@@ -423,8 +503,13 @@ sort: by_weight
 冠佑	guān;bc yòu;rk	356
 關悅	guān;mj yuè;xx	200
 關喆	guān;mj zhé;tk	315
+光良	guāng;xe liáng;dg	194
+廣智	guǎng;gb zhì;uo	846
+光洙	guāng;xe zhū;dw	531
 鬼卞	guǐ;ps biàn;wb	10
 鬼哥	guǐ;ps gē;kk	121
+鬼鬼	guǐ;ps guǐ;ps	135
+圭賢	guī;tt xián;ib	796
 郭彪	guō;we biāo;hp	25
 郭丞	guō;we chéng;la	3
 郭達	guō;we dá;zy	433
@@ -441,12 +526,18 @@ sort: by_weight
 郭濤	guō;we tāo;dc	138
 郭豔	guō;we yàn;um	71
 郭泱	guō;we yāng;dy	1
+國珍	guó;wa zhēn;wp	890
+哈林	hǎ;kk lín;aa	1033
 哈文	hǎ;kk wén;wx	38
 海陸	hǎi;dm lù;et	669
 海清	hǎi;dm qīng;do	5250
+海青	hǎi;dm qīng;fo	964
+海泉	hǎi;dm quán;bu	703
 海生	hǎi;dm shēng;pf	6363
 海佟	hǎi;dm tóng;rd	4
+海霞	hǎi;dm xiá;yy	92
 韓棟	hán;uf dòng;ad	146
+憨豆	hān;ex dòu;ab	192
 韓端	hán;uf duān;le	116
 韓庚	hán;uf gēng;gr	1002
 韓含	hán;uf hán;rk	10
@@ -476,6 +567,8 @@ sort: by_weight
 郝爽	hǎo;ie shuǎng;dx	34
 郝婷	hǎo;ie tíng;nd	12
 郝偉	hǎo;ie wěi;rf	100
+郝岩	hǎo;ie yán;uu	93
+郝雲	hǎo;ie yún;yy	612
 何澳	hé;rk ào;dd	31
 賀彬	hè;lb bīn;ap	6
 何冰	hé;rk bīng;du	547
@@ -507,9 +600,11 @@ sort: by_weight
 黑楠	hēi;lh nán;ag	26
 黑澤	hēi;lh zé;dg	1076
 黑子	hēi;lh zi;la	5247
+洪辰	hóng;dg chén;iy	518
 洪爽	hóng;dg shuǎng;dx	22
 洪衛	hóng;dg wèi;rf	107
 洪瀟	hóng;dg xiāo;da	4
+洪欣	hóng;dg xīn;iq	1238
 泓萱	hóng;ds xuān;cd	112
 洪雁	hóng;dg yàn;iv	42
 洪堯	hóng;dg yáo;tw	105
@@ -518,6 +613,7 @@ sort: by_weight
 侯磊	hóu;ru lěi;uu	57
 侯立	hóu;ru lì;wb	228
 侯姝	hóu;ru shū;nw	112
+後弦	hòu;rw xián;gx	210
 侯祥	hóu;ru xiáng;py	41
 侯勇	hóu;ru yǒng;sl	1662
 侯宇	hóu;ru yǔ;by	229
@@ -527,32 +623,42 @@ sort: by_weight
 胡博	hú;go bó;uc	371
 胡東	hú;go dōng;ir	520
 虎二	hǔ;hj èr;aa	195
+胡楓	hú;go fēng;af	163
 胡歌	hú;go gē;kq	1181
+胡歌	hú;go gē;kq	441
+胡歌	hú;go gē;kq	428
+胡瓜	hú;go guā;in,vd	770
 胡靜	hú;go jìng;fy	226
 胡軍	hú;go jūn;bi	320
 胡凱	hú;go kǎi;uj	562
 胡可	hú;go kě;dk	981
 胡琨	hú;go kūn;wb	22
 呼蘭	hū;kh lán;cj	116
+胡靈	hú;go líng;yr	216
 胡美	hú;go měi;yd	1315
 扈強	hù;hb qiáng;gi	27
 胡然	hú;go rán;xh	120
+胡沙	hú;go shā;du	90
 胡塗	hú;go tú;dt	1398
 扈帷	hù;hb wéi;jv	1
 胡夏	hú;go xià;bw	810
 胡洋	hú;go yáng;dy	86
+胡月	hú;go yuè;ke	796
 花昆	huā;cb kūn;ob	126
 華少	huà;cf shǎo;xp	486
 花僮	huā;cb tóng;rl	1
 華佗	huà;cf tuó;rb	163
 華雯	huà;cf wén;yw	16
+華仔	huà;cf zǎi;rz	1039
 花粥	huā;cb zhōu;gm	1287
 桓楚	huán;ad chǔ;az	25
 桓榮	huán;ad róng;ha	122
+歡子	huān;cq zǐ;la	639
 黃安	huáng;cb ān;bn	116
 黃渤	huáng;cb bó;dl	2559
 黃燦	huáng;cb càn;hm	18637
 黃翀	huáng;cb chōng;xv	4
+黃妃	huáng;cb fēi;nj	112
 黃斐	huáng;cb fěi;fw	23
 黃幻	huáng;cb huàn;yv	318
 黃覺	huáng;cb jué;jj	752
@@ -567,6 +673,7 @@ sort: by_weight
 黃朋	huáng;cb péng;oo	135
 黃雯	huáng;cb wén;yw	29
 黃西	huáng;cb xī;ak,wk	47
+黃鑫	huáng;cb xīn;jj	146
 黃旭	huáng;cb xù;jo	6922
 黃軒	huáng;cb xuān;ig	958
 黃炎	huáng;cb yán;hh	234
@@ -579,27 +686,36 @@ sort: by_weight
 黃崢	huáng;cb zhēng;uy	630
 黃徵	huáng;cb zhēng;rw	404
 黃忠	huáng;cb zhōng;vx	2817
+惠利	huì;ix lì;hd	110
+輝星	huī;gi xīng;ou	432
 霍光	huò;yv guāng;xe	2599
 火亮	huǒ;br liàng;wj	390
 霍楠	huò;yv nán;ag	133
 霍青	huò;yv qīng;fo	988
 霍尊	huò;yv zūn;bc	774
 季晨	jì;hz chén;oi	348
+基弗	jī;ct fú;gl	719
 吉傑	jí;tk jié;ra	112
 吉麗	jí;tk lì;lb	169
 紀李	jǐ;sj lǐ;az	24
 極瀧	jí;aa lóng;dl	3
+吉娜	jí;tk nà;ne	593
+吉妮	jí;tk nī;nb	231
 紀寧	jǐ;sj níng;bd	84
+季芹	jì;hz qín;ct	423
 紀帥	jǐ;sj shuài;pj	18
 姬他	jī;ni tā;ry	139
 紀雪	jǐ;sj xuě;ye	22
+吉雅	jí;tk yǎ;yv	158
 吉瑩	jí;tk yíng;hy	1
 姬玉	jī;ni yù;wd	5
 賈冰	jiǎ;xb bīng;du	104
 郟捷	jiá;de jié;fz	1
+家駒	jiā;bu jū;mj	202
 賈玲	jiǎ;xb líng;ws	537
 賈倫	jiǎ;xb lún;rc	36
 賈青	jiǎ;xb qīng;fo	220
+嘉然	jiā;tk rán;xh	1138
 賈詡	jiǎ;xb xǔ;yx	6908
 嘉一	jiā;tk yī;aa	550
 岬櫻	jiǎ;uj yīng;an	10
@@ -607,6 +723,7 @@ sort: by_weight
 嘉澤	jiā;tk zé;dg	9
 筧純	jiǎn;vj chún;st	10
 簡簡	jiǎn;vo jiǎn;vo	248
+諫山	jiàn;yj shān;kl	1094
 姜超	jiāng;yn chāo;tk	1354
 姜潮	jiāng;yn cháo;do	419
 姜塵	jiāng;yn chén;gt	143
@@ -632,13 +749,18 @@ sort: by_weight
 蔣易	jiǎng;cc yì;ow	47
 蔣芸	jiǎng;cc yún;cy	167
 焦晃	jiāo;rh huǎng;og	303
+焦姣	jiāo;rh jiāo;nf	18
 節冰	jié;ve bīng;du	113
+杰倫	jié;ah lún;rc	6829
 錦超	jǐn;jj chāo;tk	54
 金晨	jīn;rb chén;oi	169
 金池	jīn;rb chí;dy	100
 靳東	jìn;ct dōng;ir	496
+金東	jīn;rb dōng;ir	157
+金範	jīn;rb fàn;vv	910
 金霏	jīn;rb fēi;yf	23
 金豐	jīn;rb fēng;ub	238
+金漢	jīn;rb hàn;dt	1188
 金瀚	jīn;rb hàn;dx	169
 金珈	jīn;rb jiā;wk	12
 靳錦	jìn;ct jǐn;jj	6
@@ -646,12 +768,14 @@ sort: by_weight
 金糧	jīn;rb liáng;ml	116
 金夢	jīn;rb mèng;cx	783
 金銘	jīn;rb míng;jk	1094
+錦榮	jǐn;jj róng;ha	556
 金莎	jīn;rb shā;cu	197
 晉松	jìn;ao sōng;ag	53
 金弦	jīn;rb xián;gx	53
 金鑫	jīn;rb xīn;jj	92
 金星	jīn;rb xīng;ou	7454
 金岩	jīn;rb yán;uu	51
+金洋	jīn;rb yáng;dy	661
 金毓	jīn;rb yù;pi	75
 井暢	jǐng;ac,el chàng;uw	4
 經超	jīng;sg chāo;tk	9099
@@ -659,39 +783,51 @@ sort: by_weight
 井朧	jǐng;ac,el lóng;ol	7
 景甜	jǐng;ox tián;ug	1240
 菁瑋	jīng;co wěi;wf	1
+九孔	jiǔ;pv kǒng;zv	670
 菊麟	jú;cm lín;gf	1
+鞠萍	jū;cm píng;cp	75
 劇雪	jù;hd xuě;ye	318
+捲福	juǎn;fv fú;pt	1598
 涓子	juān;do zǐ;la	50
 鈞澤	jūn;jy zé;dg	3115
 卡姆	kǎ;ub mǔ;nm	245
 凱叔	kǎi;uj shū;uy	206
 侃侃	kǎn;ri kǎn;ri	263
 闞昕	kàn;mw xīn;ot	1
+侃爺	kǎn;ri yé;fe	933
 闞宇	kàn;mw yǔ;by	2
 闞澤	kàn;mw zé;dg	1616
+康華	kāng;gl huá;cf	774
 康輝	kāng;gl huī;gi	279
+康凱	kāng;gl kǎi;uj	495
 康汐	kāng;gl xī;dx	1
+可兒	kě;dk er;je	1593
 柯藍	kē;ak lán;cm	634
 柯穎	kē;ak yǐng;bh	29
 柯釗	kē;ak zhāo;jd	19
 孔琳	kǒng;zv lín;wa	68
 孔維	kǒng;zv wéi;sv	136
 孔瑩	kǒng;zv yíng;hy	637
+酷龍	kù;yk lóng;lv	454
 蒯通	kuǎi;cd tōng;zy	1533
 葵司	kuí;ct sī;vk	10
+昆凌	kūn;ob líng;dw	565
 賴婧	lài;ub jìng;no	14
 來歙	lái;ur shè;rq	726
 來喜	lái;ur xǐ;tk	3575
 賴藝	lài;ub yì;cy	39
 藍波	lán;cm bō;dp	522
-斕曦	lán;wj xī;ok	12828
+斕曦	lán;wj xī;ok	228
+藍燕	lán;cm yàn;ch	133
 蘭雨	lán;cj yǔ;ad	30
 藍禹	lán;cm yǔ;pd	2
 郎峯	láng;le fēng;uf	230
 郎朗	láng;le lǎng;lo	4924
+郎雄	láng;le xióng;uv	495
 老臭	lǎo;lb chòu;zq	46
+老狼	lǎo;lb láng;ql	933
 雷漢	léi;yt hàn;dt	1115
-雷佳	léi;yt jiā;rt	1890
+雷佳	léi;yt jiā;rt	1290
 雷雷	léi;yt léi;yt	505
 雷明	léi;yt míng;oo	381
 雷牧	léi;yt mù;nw	26
@@ -712,6 +848,7 @@ sort: by_weight
 李昊	lǐ;az hào;ot	160
 李鶴	lǐ;az hè;bn	721
 李紅	lǐ;az hóng;sg	1023
+力宏	lì;vp hóng;bs	998
 李歡	lǐ;az huān;cq	501
 李季	lǐ;az jì;hz	116
 李佳	lǐ;az jiā;rt	489
@@ -720,6 +857,7 @@ sort: by_weight
 李進	lǐ;az jìn;zv	317
 李靜	lǐ;az jìng;fy	6094
 李菁	lǐ;az jīng;co	251
+利菁	lì;hd jīng;co	16
 慄坤	lì;xa kūn;tu	123
 李樂	lǐ;az lè;ya	256
 李羚	lǐ;az líng;ys	13
@@ -736,7 +874,6 @@ sort: by_weight
 李寧	lǐ;az níng;bd	14353
 李諾	lǐ;az nuò;yk	48
 李倩	lǐ;az qiàn;ro	162
-李強	lǐ;az qiáng;gi	593
 李沁	lǐ;az qìn;dx	141
 李卿	lǐ;az qīng;pg	148
 李泉	lǐ;az quán;bu	197
@@ -760,6 +897,7 @@ sort: by_weight
 李媛	lǐ;az yuàn;ny	155
 李玥	lǐ;az yuè;wo	451
 李釗	lǐ;az zhāo;jd	247
+利智	lì;hd zhì;uo	84
 李忠	lǐ;az zhōng;vx	1212
 黎姿	lí;hu zī;dn	891
 李梓	lǐ;az zǐ;ax	139
@@ -770,6 +908,7 @@ sort: by_weight
 梁超	liáng;da chāo;tk	224
 梁宸	liáng;da chén;bi	7
 梁琛	liáng;da chēn;wa	4
+梁歡	liáng;da huān;cq	906
 梁潔	liáng;da jié;dx	104
 梁靜	liáng;da jìng;fy	47
 梁龍	liáng;da lóng;lv	756
@@ -780,12 +919,14 @@ sort: by_weight
 梁馨	liáng;da xīn;to	54
 梁豔	liáng;da yàn;um	2490
 梁音	liáng;da yīn;lo	70
+靚穎	liàng;fj yǐng;bh	1359
 梁源	liáng;da yuán;dx	51
 梁緣	liáng;da yuán;su	22
 梁左	liáng;da zuǒ;ug	223
 廖凡	liào;gp fán;jd	829
 廖輝	liào;gp huī;gi	57
 廖娟	liào;gp juān;no	126
+列儂	liè;dd nóng;ri	1048
 林澄	lín;aa chéng;db	71
 林丹	lín;aa dān;kd	2336
 林峰	lín;aa fēng;uf	1058
@@ -808,8 +949,10 @@ sort: by_weight
 林躍	lín;aa yuè;zv	1094
 林允	lín;aa yǔn;se	97
 林籽	lín;aa zǐ;mz	1
+凌波	líng;dw bō;dp	659
 靈超	líng;yr chāo;tk	215
 凌飛	líng;dw fēi;fc	1022
+玲花	líng;ws huā;cb	1292
 凌淋	líng;dw lín;da	30
 劉蓓	liú;pd bèi;ck	120
 劉斌	liú;pd bīn;wv	283
@@ -900,6 +1043,7 @@ sort: by_weight
 陸玲	lù;et líng;ws	510
 陸鳴	lù;et míng;kn	60
 魯諾	lǔ;yo nuò;yk	32415
+盧奇	lú;hm qí;dk	472
 鹿騏	lù;gb qí;mb	1
 盧茜	lú;hm qiàn;cx	29
 盧杉	lú;hm shān;ap	256
@@ -913,6 +1057,7 @@ sort: by_weight
 陸毅	lù;et yì;lu	307
 路怡	lù;zk yí;xk	99
 陸瑩	lù;et yíng;hy	17
+魯豫	lǔ;yo yù;yu	675
 盧卓	lú;hm zhuó;bu	137
 鷺卓	lù;zn zhuó;bu	12
 逯子	lù;zu zǐ;la	16
@@ -922,6 +1067,7 @@ sort: by_weight
 羅晉	luó;sv jìn;ao	939
 羅烈	luó;sv liè;dh	100
 羅琦	luó;sv qí;wk	152
+洛桑	luò;dk sāng;ya	597
 羅翔	luó;sv xiáng;yx	1457
 羅漩	luó;sv xuán;dz	15
 駱言	luò;mk yán;wk	538
@@ -970,6 +1116,7 @@ sort: by_weight
 馬元	mǎ;mh yuán;aw	511
 馬月	mǎ;mh yuè;ke	1115
 馬躍	mǎ;mh yuè;zv	50
+麥莉	mài;lw lì;cd	664
 麥琳	mài;lw lín;wa	24
 滿江	mǎn;dr jiāng;dg	78
 毛凡	máo;pv fán;jd	3
@@ -978,12 +1125,14 @@ sort: by_weight
 毛毅	máo;pv yì;lu	67
 美雛	měi;yd chú;bv	10
 眉佳	méi;uo jiā;rt	8
+黴黴	méi;rh méi;rh	307
 梅婷	méi;am tíng;nd	690
 孟達	mèng;zm dá;zy	213
 孟鐸	mèng;zm duó;jg	81
 孟非	mèng;zm fēi;ls	170
 夢鴿	mèng;cx gē;rn	919
 孟佳	mèng;zm jiā;rt	289
+夢露	mèng;cx lù;yk	1438
 孟楠	mèng;zm nán;ag	437
 夢然	mèng;cx rán;xh	342
 孟瑞	mèng;zm ruì;we	2226
@@ -992,6 +1141,7 @@ sort: by_weight
 孟楊	mèng;zm yáng;aw	31
 孟瑤	mèng;zm yáo;wf	332
 孟真	mèng;zm zhēn;ub	1822
+米卡	mǐ;ba kǎ;ub	1026
 米露	mǐ;ba lù;yk	723
 米咪	mǐ;ba mī;km	18
 米熱	mǐ;ba rè;th	3933
@@ -1000,7 +1150,9 @@ sort: by_weight
 苗苗	miáo;ct miáo;ct	314
 苗圃	miáo;ct pǔ;wf	26416
 苗雨	miáo;ct yǔ;ad	35
+珉豪	mín;wm háo;wu	621
 閔健	mǐn;mw jiàn;ry	2
+明道	míng;oo dào;zz	1210
 明輝	míng;oo huī;gi	330
 明鵬	míng;oo péng;on	416
 明悅	míng;oo yuè;xx	1805
@@ -1016,6 +1168,7 @@ sort: by_weight
 娜美	nà;ne měi;yd	232
 那威	nā;ve wēi;gn	126
 那英	nā;ve yīng;cy	2364
+娜扎	nà;ne zhā;fv	371
 耐安	nài;ec ān;bn	15
 乃萬	nǎi;pv,vp wàn;cd	202
 南庚	nán;ug gēng;gr	333
@@ -1023,9 +1176,10 @@ sort: by_weight
 南笙	nán;ug shēng;vu	979
 哪吒	né;ke zhā;kq	4487
 尼成	ní;ub chéng;gv	484
+尼坤	ní;ub kūn;tu	702
 倪妮	ní;re nī;nb	624
-倪萍	ní;re píng;cp	392
 倪言	ní;re yán;wk	9
+鳥叔	niǎo;nh shū;uy	2054
 聶玫	niè;ee méi;ww	47
 聶鑫	niè;ee xīn;jj	81
 聶欣	niè;ee xīn;iq	16
@@ -1038,6 +1192,7 @@ sort: by_weight
 牛莉	niú;pu lì;cd	511
 牛飄	niú;pu piāo;xf	192
 牛群	niú;pu qún;yy	625
+歐弟	ōu;kq dì;bd	898
 歐豪	ōu;kq háo;wu	788
 區寧	ōu;kk níng;bd	4930
 潘辰	pān;dt chén;iy	562
@@ -1053,6 +1208,8 @@ sort: by_weight
 裴麗	péi;fy lì;lb	100
 裴琳	péi;fy lín;wa	684
 彭灝	péng;tp hào;dy	1
+彭磊	péng;tp lěi;uu	864
+彭羚	péng;tp líng;ys	706
 彭凌	péng;tp líng;dw	41
 彭清	péng;tp qīng;do	3026
 彭帥	péng;tp shuài;pj	50
@@ -1061,8 +1218,10 @@ sort: by_weight
 彭玉	péng;tp yù;wd	119
 彭箏	péng;tp zhēng;vy	16
 樸成	piáo;af chéng;gv	352
+樸春	piáo;af chūn;io	544
 朴樹	piáo;ab shù;ac	2839
 樸鑠	piáo;af shuò;ja	13
+品冠	pǐn;kk guān;bc	248
 浦克	pǔ;df kè;ux,ge	18
 蒲萄	pú;cf táo;cf	41
 蒲羽	pú;cf yǔ;xx	1
@@ -1085,10 +1244,12 @@ sort: by_weight
 錢芳	qián;jg fāng;cf	102
 錢楓	qián;jg fēng;af	188
 錢錕	qián;jg kūn;jb	4
+千璽	qiān;pu xǐ;ay	260
 錢璇	qián;jg xuán;wz	5
 錢漪	qián;jg yī;dk	1
 錢瑩	qián;jg yíng;hy	265
 強川	qiáng;gi chuān;pl	215
+強森	qiáng;gi sēn;aa	518
 喬紅	qiáo;yk hóng;sg	16
 喬牧	qiáo;yk mù;nw	1
 喬喬	qiáo;yk qiáo;yk	87
@@ -1110,6 +1271,7 @@ sort: by_weight
 秦焰	qín;ih yàn;hj	8
 秦怡	qín;ih yí;xk	176
 秦語	qín;ih yǔ;yk	436
+青霞	qīng;fo xiá;yy	487
 邱彬	qiū;qe bīn;ap	35
 邱健	qiū;qe jiàn;ry	356
 邱林	qiū;qe lín;aa	241
@@ -1117,12 +1279,14 @@ sort: by_weight
 邱天	qiū;qe tiān;ad	268
 仇曉	qiú;rj xiǎo;ow	504
 邱曄	qiū;qe yè;of	7
+邱澤	qiū;qe zé;dg	38
 曲博	qū;wc,ck bó;uc	122
 瞿穎	qú;ov yǐng;bh	110
 曲雲	qū;wc,ck yún;yy	5616
 冉蔚	rǎn;kt wèi;cc	1
 冉旭	rǎn;kt xù;jo	833
 饒威	ráo;uw wēi;gn	412
+熱巴	rè;th bā;sl	1228
 任彬	rén;rw bīn;ap	56
 任晗	rén;rw hán;ok	26
 任航	rén;rw háng;vj	12926
@@ -1194,12 +1358,14 @@ sort: by_weight
 施羽	shī;fy yǔ;xx	7
 史原	shǐ;kn yuán;ix	105
 舒高	shū;ry gāo;wk	440
+舒淇	shū;ry qí;db	778
 舒然	shū;ry rán;xh	360
 舒硯	shū;ry yàn;uj	55
 舒遙	shū;ry yáo;zf	3
 束夷	shù;gr yí;ar	2
 舒悅	shū;ry yuè;xx	2116
 雙笙	shuāng;ry shēng;vu	93
+順子	shùn;iy zi;la	465
 姒扃	sì;nr jiōng;hk	12
 斯蘭	sī;ct lán;cj	168
 司源	sī;vk yuán;dx	72
@@ -1222,6 +1388,7 @@ sort: by_weight
 蘇青	sū;ch qīng;fo	241
 蘇晴	sū;ch qíng;oo	122
 蘇羣	sū;ch qún;yy	2335
+蘇芮	sū;ch ruì;cn	710
 蘇銳	sū;ch ruì;jx	66
 蘇偉	sū;ch wěi;rf	1206
 甦醒	sū;gu xǐng;yu	3291
@@ -1230,6 +1397,7 @@ sort: by_weight
 粟奕	sù;xm yì;wd	1
 蘇月	sū;ch yuè;ke	2112
 睢冉	suī;ov rǎn;kt	536
+隋棠	suí;eo táng;xa	268
 隋源	suí;eo yuán;dx	1
 隋媛	suí;eo yuàn;ny	0
 孫傲	sūn;zx ào;rw	233
@@ -1280,6 +1448,11 @@ sort: by_weight
 孫周	sūn;zx zhōu;kk	2016
 太庚	tài;dd gēng;gr	30
 泰蜜	tài;iu mì;bi	2
+泰民	tài;iu mín;vv	129
+泰容	tài;iu róng;bg	662
+泰妍	tài;iu yán;nk	208
+太妍	tài;dd yán;nk	166
+太一	tài;dd yī;aa	1692
 譚晶	tán;yu jīng;oo	842
 譚凱	tán;yu kǎi;uj	580
 譚梅	tán;yu méi;am	71
@@ -1293,11 +1466,15 @@ sort: by_weight
 唐曾	táng;gk céng;bo	1222
 湯暢	tāng;dw chàng;uw	5
 湯潮	tāng;dw cháo;do	468
+唐川	táng;gk chuān;pl	558
 湯非	tāng;dw fēi;ls	314
 唐古	táng;gk gǔ;uk	1329
+唐靜	táng;gk jìng;fy	602
+唐磊	táng;gk lěi;uu	137
 湯淼	tāng;dw miǎo;uu	718
 湯敏	tāng;dw mǐn;pw	376
 唐納	táng;gk nà;sn	1308
+唐寧	táng;gk níng;bd	126
 唐羣	táng;gk qún;yy	1015
 唐菀	táng;gk wǎn;cv	41
 湯唯	tāng;dw wéi;kv	1347
@@ -1314,19 +1491,30 @@ sort: by_weight
 陶慧	táo;ef huì;fx	154
 陶爲	táo;ef wéi;vh	175
 陶陽	táo;ef yáng;ew	3026
+陶喆	táo;ef zhé;tk	1011
+陶子	táo;ef zǐ;la	474
 陶醉	táo;ef zuì;yu	1190
 藤新	téng;cu xīn;lt	1972
 滕旋	téng;ou xuán;fz	16
 滕藝	téng;ou yì;cy	1
 天愛	tiān;ad ài;vw	1192
+甜茶	tián;ug chá;cm	292
+田方	tián;wu fāng;wv	42
+田歌	tián;wu gē;kq	41
+田華	tián;wu huá;cf	69
 田慧	tián;wu huì;fx	99
+田俊	tián;wu jùn;rw	775
 田雷	tián;wu léi;yt	1341
 田亮	tián;wu liàng;wj	1111
 田璐	tián;wu lù;wk	36
 田岷	tián;wu mín;um	10
 田娜	tián;wu nà;ne	53
 恬妮	tián;xu nī;nb	10
+恬妞	tián;xu niū;ni	141
 田娃	tián;wu wá;nt	42
+甜馨	tián;ug xīn;to	615
+天心	tiān;ad xīn;dd	582
+田心	tián;wu xīn;dd	421
 田燚	tián;wu yì;hh	1
 田雨	tián;wu yǔ;ad	82
 田源	tián;wu yuán;dx	390
@@ -1339,6 +1527,8 @@ sort: by_weight
 童磊	tóng;ll lěi;uu	6
 童麗	tóng;ll lì;lb	19
 佟文	tóng;rd wén;wx	87
+童欣	tóng;ll xīn;iq	48
+痛仰	tòng;by yǎng;re	212
 童瑤	tóng;ll yáo;wf	900
 桐瑤	tóng;ak yáo;wf	7
 仝卓	tóng;rg zhuó;bu	144
@@ -1346,7 +1536,10 @@ sort: by_weight
 塗磊	tú;dt lěi;uu	6822
 塗凌	tú;dt líng;dw	5
 娃爾	wá;nt ěr;ab	882
+瓦隆	wǎ;ad lóng;eu	968
 外丙	wài;xb bǐng;an	412
+萬方	wàn;cd fāng;wv	1121
+萬芳	wàn;cd fāng;cf	747
 萬鵬	wàn;cd péng;on	675
 萬茜	wàn;cd qiàn;cx	957
 萬潼	wàn;cd tóng;dl	1
@@ -1455,12 +1648,15 @@ sort: by_weight
 王智	wáng;at zhì;uo	257
 王尊	wáng;at zūn;bc	216
 魏晨	wèi;hg chén;oi	1026
+維果	wéi;sv guǒ;ta	113
 韋歡	wéi;wf huān;cq	5
 魏瑾	wèi;hg jǐn;ww	8
+威肯	wēi;gn kěn;vo	780
 衛萊	wèi;rf lái;cl	44
 衛蘭	wèi;rf lán;cj	739
 衛侖	wèi;rf lún;rc	1
 魏夢	wèi;hg mèng;cx	410
+維妮	wéi;sv nī;nb	141
 魏寧	wèi;hg níng;bd	162
 魏鵬	wèi;hg péng;on	22212
 魏然	wèi;hg rán;xh	83
@@ -1475,14 +1671,22 @@ sort: by_weight
 溫超	wēn;dm chāo;tk	3118
 溫航	wēn;dm háng;vj	418
 文婕	wén;wx jié;nz	62
+文雋	wén;wx juàn;rk	104
 溫嵐	wēn;dm lán;uf	204
+文蘭	wén;wx lán;cj	194
+溫拿	wēn;dm ná;ru	175
 文清	wén;wx qīng;do	353
 文晴	wén;wx qíng;oo	105
 文生	wén;wx shēng;pf	188
 文松	wén;wx sōng;ag	3616
+文濤	wén;wx tāo;dc	207
+文夏	wén;wx xià;bw	1796
 溫心	wēn;dm xīn;dd	86
 溫雅	wēn;dm yǎ;yv	596
 文妍	wén;wx yán;nk	37
+文怡	wén;wx yí;xk	318
+文英	wén;wx yīng;cy	188
+翁虹	wēng;gx hóng;ig	28
 武賓	wǔ;gv bīn;bb	15
 吳超	wú;kd chāo;tk	287
 吳楚	wú;kd chǔ;az	138
@@ -1492,11 +1696,13 @@ sort: by_weight
 吳京	wú;kd jīng;wx	8079
 武磊	wǔ;gv lěi;uu	1224
 吳磊	wú;kd lěi;uu	122
+午馬	wǔ;pu mǎ;mh	229
 吳冕	wú;kd miǎn;oe	86
 吳旗	wú;kd qí;fb	4
 吳謙	wú;kd qiān;yj	100
 吳倩	wú;kd qiàn;ro	51
 鄔倩	wū;we qiàn;ro	32
+武強	wǔ;gv qiáng;gi	839
 吳莎	wú;kd shā;cu	302
 吳帥	wú;kd shuài;pj	127
 吳婷	wú;kd tíng;nd	80
@@ -1505,22 +1711,31 @@ sort: by_weight
 吳瑕	wú;kd xiá;wy	55
 吳昕	wú;kd xīn;ot	1375
 吳恙	wú;kd yàng;yx	33
+武藝	wǔ;gv yì;cy	2314
 吳優	wú;kd yōu;rw	112
 鄔悠	wū;we yōu;rx	1
 吳越	wú;kd yuè;tl	646
 吳樾	wú;kd yuè;al	100
 吳禎	wú;kd zhēn;pb	67
 吳尊	wú;kd zūn;bc	82
+希澈	xī;xj chè;dw	1855
 汐世	xī;dx shì;cv	10
 奚望	xī;vd wàng;ww	59
 習雪	xí;xb xuě;ye	19
+希亞	xī;xj yà;aa	880
+夏冰	xià;bw bīng;du	81
+夏朵	xià;bw duǒ;ja	729
+夏帆	xià;bw fān;jf	122
 夏鋒	xià;bw fēng;jf	12
 夏恆	xià;bw héng;xh	3122
 夏菁	xià;bw jīng;co	83
 夏磊	xià;bw lěi;uu	1537
+夏莉	xià;bw lì;cd	104
 夏夢	xià;bw mèng;cx	411
+夏木	xià;bw mù;ur	521
 夏楠	xià;bw nán;ag	59
 夏星	xià;bw xīng;ou	135
+夏雪	xià;bw xuě;ye	840
 夏嫣	xià;bw yān;nh	54
 夏雨	xià;bw yǔ;ad	719
 夏喆	xià;bw zhé;tk	1
@@ -1533,7 +1748,9 @@ sort: by_weight
 項堃	xiàng;gy kūn;ft	16
 向梅	xiàng;pk méi;am	413
 向鵬	xiàng;pk péng;on	67
+香香	xiāng;ho xiāng;ho	1538
 向雲	xiàng;pk yún;yy	4064
+向佐	xiàng;pk zuǒ;rg	90
 小春	xiǎo;lb chūn;io	584
 肖飛	xiāo;xo fēi;fc	46
 小鬼	xiǎo;lb guǐ;ps	722
@@ -1541,13 +1758,18 @@ sort: by_weight
 蕭何	xiāo;ca hé;rk	1048
 肖輝	xiāo;xo huī;gi	24
 小魂	xiǎo;lb hún;yg	59
+小佳	xiǎo;lb jiā;rt	188
 小賤	xiǎo;lb jiàn;bg	1070
 肖劍	xiāo;xo jiàn;rd	28
 肖傑	xiāo;xo jié;ra	48
+小柯	xiǎo;lb kē;ak	182
+蕭亮	xiāo;ca liàng;wj	64
 笑林	xiào;vy lín;aa	257
 小凌	xiǎo;lb líng;dw	75
+蕭薔	xiāo;ca qiáng;ck	2386
 小喬	xiǎo;lb qiáo;yk	2405
 肖莎	xiāo;xo shā;cu	32
+蕭瀟	xiāo;ca xiāo;da	176
 肖驍	xiāo;xo xiāo;mw	140
 肖鑫	xiāo;xo xīn;jj	34
 肖雄	xiāo;xo xióng;uv	91
@@ -1593,15 +1815,20 @@ sort: by_weight
 辛月	xīn;lu yuè;ke	87
 辛悅	xīn;lu yuè;xx	32
 馨子	xīn;to zǐ;la	93
+邢丹	xíng;ke dān;kd	396
 邢恩	xíng;ke ēn;yx	12
 邢菲	xíng;ke fēi;cf	29
+星爺	xīng;ou yé;fe	1620
 邢顒	xíng;ke yóng;ty	35
 星擇	xīng;ou zé;fg	26
 熊黎	xióng;sh lí;hu	35
 熊倪	xióng;sh ní;re	500
+熊仔	xióng;sh zǎi;rz	1017
 修革	xiū;rp gé;cu	10
+秀晶	xiù;hn jīng;oo	810
 修慶	xiū;rp qìng;gw	37
 修睿	xiū;rp ruì;bo	837
+秀智	xiù;hn zhì;uo	408
 徐濱	xú;rm bīn;db	19
 徐燦	xú;rm càn;hm	3037
 徐程	xú;rm chéng;hw	53
@@ -1643,19 +1870,28 @@ sort: by_weight
 徐悅	xú;rm yuè;xx	1511
 徐筠	xú;rm yún;vy	31
 徐崢	xú;rm zhēng;uy	2769
+玄彬	xuán;wy bīn;ap	170
 宣璐	xuān;bd lù;wk	7
+宣美	xuān;bd měi;yd	92
+絢香	xuàn;so xiāng;ho	575
 萱萱	xuān;cd xuān;cd	487
+宣萱	xuān;bd xuān;cd	244
 雪村	xuě;ye cūn;ac	66
+雪莉	xuě;ye lì;cd	1061
 薛歐	xuē;cx ōu;kq	122
 薛奇	xuē;cx qí;dk	11
 薛祺	xuē;cx qí;pb	5
 薛儼	xuē;cx yǎn;rw	19
+雪姨	xuě;ye yí;ny	185
 薛綜	xuē;cx zōng;su	326
 荀子	xún;co zǐ;la	975
 丫蛋	yā;bl dàn;zi	232
+亞東	yà;aa dōng;ir	1235
+押尾	yā;fj wěi;um	961
 顏北	yán;wy běi;lb	7
 嚴豐	yán;xw fēng;ub	5
 閆寒	yán;ms hán;bd	44
+言和	yán;wk hé;hk	445
 言傑	yán;wk jié;ra	23
 閆鈳	yán;ms kē;jk	1
 嚴寬	yán;xw kuān;bd	119
@@ -1667,8 +1903,11 @@ sort: by_weight
 閆勤	yán;ms qín;cl	6
 晏弱	yàn;on ruò;gg	22
 閻肅	yán;mj sù;ya	216
+燕姿	yān;ch zī;dn	263
 晏紫	yàn;on zǐ;vx	87
+彥祖	yàn;wp zǔ;pq	107
 楊迪	yáng;aw dí;zy	251
+陽帆	yáng;ew fān;jf	153
 楊凡	yáng;aw fán;jd	122
 楊光	yáng;aw guāng;xe	1309
 洋光	yáng;dy guāng;xe	181
@@ -1742,33 +1981,43 @@ sort: by_weight
 葉璇	yè;ca xuán;wz	22
 冶彥	yě;dk yàn;wp	8
 葉準	yè;ca zhǔn;du	531
+一博	yì;aa bó;uc	521
+依晨	yī;ry chén;oi	1046
 意辰	yì;lx chén;iy	7
 懌涵	yì;xg hán;du	1
 翼葵	yì;xg kuí;ct	10
 羿坤	yì;xc kūn;tu	1
 易立	yì;ow lì;wb	7
+憶蓮	yì;xx lián;ci	643
 依靈	yī;ry líng;yr	969
 易倩	yì;ow qiàn;ro	4
+藝聲	yì;cy shēng;te	51
 翼舞	yì;xg wǔ;pf	10
+藝興	yì;cy xīng;jb	5560
 易陽	yì;ow yáng;ew	125
 伊一	yī;ry yī;aa	172
 衣依	yī;wy yī;ry	44
 尹昉	yǐn;ep fǎng;of	68
 尹菲	yǐn;ep fēi;cf	35
+銀赫	yín;jg hè;ii	244
 銀臨	yín;jg lín;ik	567
 尹蕊	yǐn;ep ruǐ;cx	15
 殷碩	yīn;pu shuò;uy	6
 尹濤	yǐn;ep tāo;dc	132
 殷桃	yīn;pu táo;av	72
+尹馨	yǐn;ep xīn;to	89
 殷旭	yīn;pu xù;jo	322
 尹媗	yǐn;ep xuān;nd	118
 銀雪	yín;jg xuě;ye	105
 銀藝	yín;jg yì;cy	22
+殷悅	yīn;pu yuè;xx	61
 尹正	yǐn;ep zhèng;av	318
 英達	yīng;cy dá;zy	177
 穎兒	yǐng;bh ér;je	131
 應寧	yīng;gx níng;bd	1335
 英壯	yīng;cy zhuàng;pt	34
+永邦	yǒng;du bāng;fe	702
+泳兒	yǒng;dy ér;je	1076
 詠梅	yǒng;yy méi;am	200
 遊傑	yóu;zz jié;ra	58
 由力	yóu;ol,lt lì;vp	272
@@ -1776,6 +2025,7 @@ sort: by_weight
 於波	yú;fd bō;dp	109
 餘淳	yú;um chún;dz	21
 餘笛	yú;um dí;vy	35
+羽凡	yǔ;xx fán;jd	432
 餘楓	yú;um fēng;af	41
 於海	yú;fd hǎi;dm	1476
 於慧	yú;fd huì;fx	340
@@ -1789,6 +2039,7 @@ sort: by_weight
 於娜	yú;fd nà;ne	9
 餘男	yú;um nán;tl	64
 于謙	yú;au qiān;yj	2449
+羽泉	yǔ;xx quán;bu	1806
 於適	yú;fd shì;zg	361
 於湉	yú;fd tián;du	36
 語桐	yǔ;yk tóng;ak	119
@@ -1804,15 +2055,20 @@ sort: by_weight
 於貞	yú;fd zhēn;bb	48
 于正	yú;au zhèng;av	568
 袁盎	yuán;ty àng;ym	2522
+元彪	yuán;aw biāo;hp	122
+元斌	yuán;aw bīn;wv	662
+元彬	yuán;aw bīn;ap	596
 袁布	yuán;ty bù;uj	1
 袁菲	yuán;ty fēi;cf	43
 袁航	yuán;ty háng;vj	522
 袁昊	yuán;ty hào;ot	57
 袁弘	yuán;ty hóng;gs	135
+元華	yuán;aw huá;cf	1440
 原華	yuán;ix huá;cf	681
 袁立	yuán;ty lì;wb	157
 袁滿	yuán;ty mǎn;dr	37
 苑喬	yuàn;cv qiáo;yk	1
+元秋	yuán;aw qiū;hh	404
 袁泉	yuán;ty quán;bu	376
 苑冉	yuàn;cv rǎn;kt	16
 袁紹	yuán;ty shào;sk	6848
@@ -1821,6 +2077,8 @@ sort: by_weight
 原雨	yuán;ix yǔ;ad	76
 袁苑	yuán;ty yuàn;cv	4
 岳飛	yuè;qu fēi;fc	540
+岳華	yuè;qu huá;cf	239
+樂嘉	yuè;ya jiā;tk	1488
 樂進	yuè;ya jìn;zv	379
 樂靚	yuè;ya liàng;fj	35
 樂舒	yuè;ya shū;ry	163
@@ -1828,8 +2086,12 @@ sort: by_weight
 樂羊	yuè;ya yáng;bf	1312
 嶽暘	yuè;uq yáng;ow	6
 雲朵	yún;yy duǒ;ja	1595
+允兒	yǔn;se ér;je	1170
 雲飛	yún;yy fēi;fc	147
+允浩	yǔn;se hào;dk	765
 筠子	yún;vy zǐ;la	804
+贊多	zàn;nb duō;xx	886
+贊恩	zàn;nb ēn;yx	680
 臧宮	zāng;vi gōng;bk	135
 臧荼	zāng;vi tú;cm	1630
 曾昂	zēng;bo áng;oe	18
@@ -1955,7 +2217,9 @@ sort: by_weight
 趙照	zhào;to zhào;oh	110
 趙崢	zhào;to zhēng;uy	185
 趙忠	zhào;to zhōng;vx	16015
+甄妮	zhēn;xw nī;nb	734
 甄錫	zhēn;xw xī;jw	7
+甄珍	zhēn;xw zhēn;wp	97
 鄭凡	zhèng;be fán;jd	288
 鄭光	zhèng;be guāng;xe	316
 鄭昊	zhèng;be hào;ot	107
@@ -1976,7 +2240,12 @@ sort: by_weight
 鄭魚	zhèng;be yú;dh	1
 鄭源	zhèng;be yuán;dx	56
 鄭錚	zhèng;be zhēng;jy	73
+志玲	zhì;tx líng;ws	568
+志龍	zhì;tx lóng;lv	314
+智孝	zhì;uo xiào;lz	106
+智秀	zhì;uo xiù;hn	630
 支一	zhī;uy yī;aa	1029
+智友	zhì;uo yǒu;uy	35
 鍾會	zhōng;jv huì;ro	2019
 鍾雷	zhōng;jv léi;yt	40
 仲滿	zhòng;rv mǎn;dr	456
@@ -2016,7 +2285,7 @@ sort: by_weight
 周璇	zhōu;kk xuán;wz	716
 周迅	zhōu;kk xùn;zu	1118
 周揚	zhōu;kk yáng;fw	276
-周也	zhōu;kk yě;vv	3080
+周也	zhōu;kk yě;vv	1080
 周瑩	zhōu;kk yíng;hy	47
 周遊	zhōu;kk yóu;zz	615
 周瑜	zhōu;kk yú;wd	4996
@@ -2048,28 +2317,45 @@ sort: by_weight
 紫然	zǐ;vx rán;xh	13
 子望	zǐ;la wàng;ww	1299
 梓曉	zǐ;ax xiǎo;ow	1
+子瑜	zǐ;la yú;wd	166
 鄒娜	zōu;be nà;ne	5
 鄒楊	zōu;be yáng;aw	60
 祖峯	zǔ;pq fēng;uf	5415
 祖庚	zǔ;pq gēng;gr	637
 祖海	zǔ;pq hǎi;dm	16
 祖晴	zǔ;pq qíng;oo	35
+尊龍	zūn;bc lóng;lv	898
 左航	zuǒ;ug háng;vj	430
 左立	zuǒ;ug lì;wb	563
 左翎	zuǒ;ug líng;rx	1
 左巖	zuǒ;ug yán;uw	42
 左葉	zuǒ;ug yè;ca	148
+阿部寬	ā;ek bù;le kuān;bd	53
 阿部力	ā;ek bù;le lì;vp	37
 阿達娃	ā;ek dá;zy wá;nt	22
+阿黛爾	ā;ek dài;rh ěr;ab	907
 阿的江	ā;ek de;bu jiāng;dg	41
+阿弟仔	ā;ek dì;bd zǎi;rz	9
+阿基師	ā;ek jī;ct shī;pj	3
+阿吉仔	ā;ek jí;tk zǎi;rz	47
+阿佳妮	ā;ek jiā;rt nī;nb	154
+阿奎拉	ā;ek kuí;dt lā;fl	558
 阿麗瑪	ā;ek lì;lb mǎ;wm	26
 阿麗亞	ā;ek lì;lb yà;aa	156
+阿密特	ā;ek mì;bu tè;nc	445
 阿如那	ā;ek rú;nk nà;ve	1412
 阿斯茹	ā;ek sī;ct rú;ck	16
+阿湯哥	ā;ek tāng;dw gē;kk	4302
+阿湯嫂	ā;ek tāng;dw sǎo;ny	248
 阿依夏	ā;ek yī;ry xià;bw	322
 阿幼朵	ā;ek yòu;yl duǒ;ja	477
+阿悠悠	ā;ek yōu;rx yōu;rx	202
 阿雲嘎	ā;ek yún;yy gā;kg	327
 愛寶鈴	ài;vw bǎo;bb líng;js	10
+哀川翔	āi;yk chuān;pl xiáng;yx	364
+矮大緊	ǎi;un dà;ar jǐn;ix	471
+艾迪德	ài;cx dí;zy dé;rx	414
+埃夫隆	āi;tu fū;er lóng;eu	296
 愛弓涼	ài;vw gōng;vv liáng;dx	10
 艾佳妮	ài;cx jiā;rt nī;nb	12
 艾克森	ài;cx kè;ux,ge sēn;aa	204
@@ -2077,20 +2363,43 @@ sort: by_weight
 艾麗婭	ài;cx lì;lb yà;ny	1293
 愛蓮君	ài;vw lián;ci jūn;yk	15
 艾尚真	ài;cx shàng;xk zhēn;ub	433
+艾世菊	ài;cx shì;cv jú;cm	238
+愛田由	ài;vw tián;wu yóu;ol,lt	288
+艾薇兒	ài;cx wēi;cj ér;je	571
 艾曉琪	ài;cx xiǎo;ow qí;wb	137
+艾怡良	ài;cx yí;xk liáng;dg	232
+愛樂團	ài;vw yuè;ya tuán;wc	9
+安伯政	ān;bn bó;rb zhèng;vw	274
+安德尊	ān;bn dé;rx zūn;bc	472
 安東陽	ān;bn dōng;ir yáng;ew	225
 庵姬花	ān;gd jī;ni huā;cb	10
+安鈞璨	ān;bn jūn;jy càn;wm	450
+安立奎	ān;bn lì;wb kuí;dt	3
 安美波	ān;bn měi;yd bō;dp	10
+安娜金	ān;bn nà;ne jīn;rb	778
 安淇爾	ān;bn qí;db ěr;ab	13
+安七炫	ān;bn qī;av xuàn;hx	63
+安勝浩	ān;bn shèng;ol hào;dk	3
+安聖基	ān;bn shèng;ew jī;ct	369
+安藤櫻	ān;bn téng;cu yīng;an	13
+安田顯	ān;bn tián;wu xiǎn;oy	418
+安唯綾	ān;bn wéi;kv líng;sw	284
 安位薰	ān;bn wèi;rl xūn;ch	10
+安喜延	ān;bn xǐ;tk yán;zv	279
+安孝燮	ān;bn xiào;lz xiè;hy	19
+安心亞	ān;bn xīn;dd yà;aa	630
 安亞平	ān;bn yà;aa píng;au	205
 安雅萍	ān;bn yǎ;yv píng;cp	1
 安奕安	ān;bn yì;wd ān;bn	1
+安以軒	ān;bn yǐ;lr xuān;ig	41
 安泳暢	ān;bn yǒng;dy chàng;uw	16
 安又琪	ān;bn yòu;vn qí;wb	35
 安悅溪	ān;bn yuè;xx xī;dd	9
 安雲武	ān;bn yún;yy wǔ;gv	15
+安宰賢	ān;bn zǎi;bx xián;ib	129
+安在旭	ān;bn zài;ut xù;jo	603
 安澤豪	ān;bn zé;dg háo;wu	274
+安志傑	ān;bn zhì;tx jié;ra	31
 安子楊	ān;bn zǐ;la yáng;aw	12
 奧井楓	ào;pd jǐng;ac,el fēng;af	10
 敖瑞鵬	áo;fw ruì;we péng;on	12
@@ -2099,69 +2408,170 @@ sort: by_weight
 八掛海	bā;pn guà;fb hǎi;dm	10
 巴麗娜	bā;sl lì;lb nà;ne	12
 巴特爾	bā;sl tè;nc ěr;ab	446
+柏安妮	bǎi;ab ān;bn nī;nb	400
 白百何	bái;po bǎi;ab hé;rk	707
+白冰冰	bái;po bīng;du bīng;du	97
 白冰可	bái;po bīng;du kě;dk	35
 白宸溪	bái;po chén;bi xī;dd	12
 柏程俊	bǎi;ab chéng;hw jùn;rw	15
+白髮全	bái;po fà;ey quán;rw	342
 白國偉	bái;po guó;wa wěi;rf	12
 白海龍	bái;po hǎi;dm lóng;lv	37
 白昊天	bái;po hào;ot tiān;ad	16
 白卉子	bái;po huì;uc zǐ;la	112
 白健平	bái;po jiàn;ry píng;au	15
 白錦程	bái;po jǐn;jj chéng;hw	12
+白金一	bái;po jīn;rb yī;aa	558
 白敬亭	bái;po jìng;cw tíng;wd	217
 白景屹	bái;po jǐng;ox yì;uv	12
 白舉綱	bái;po jǔ;jf gāng;su	630
+白駒榮	bái;po jū;mj róng;ha	374
 白凱南	bái;po kǎi;uj nán;ug	666
+白考兒	bái;po kǎo;lk ér;je	315
+白考爾	bái;po kǎo;lk ěr;ab	213
 百克力	bǎi;ab kè;ux,ge lì;vp	112
+白蔻衣	bái;po kòu;cy yī;wy	45
+白蘭度	bái;po lán;cj dù;gy	499
 白力嘎	bái;po lì;vp gā;kg	18
 白柳汐	bái;po liǔ;ae xī;dx	356
+白龍飛	bái;po lóng;lv fēi;fc	274
 白明理	bái;po míng;oo lǐ;wl	15
 白慶琳	bái;po qìng;gw lín;wa	252
+白全福	bái;po quán;rw fú;pt	342
 白若溪	bái;po ruò;ck xī;dd	3
+白石峰	bái;po shí;ak fēng;uf	266
+白淑湘	bái;po shū;dy xiāng;do	315
+白松濤	bái;po sōng;ag tāo;dc	392
 白桃花	bái;po táo;av huā;cb	10
+白天成	bái;po tiān;ad chéng;gv	410
+白鐵軍	bái;po tiě;jw jūn;bi	297
 白小白	bái;po xiǎo;lb bái;po	28
+白歆惠	bái;po xīn;lq huì;ix	454
 白昕怡	bái;po xīn;ot yí;xk	12
 柏欣妤	bǎi;ab xīn;iq yú;ny	1
 柏栩栩	bǎi;ab xǔ;ax xǔ;ax	220
+白雪仙	bái;po xuě;ye xiān;ru	554
+白岩峰	bái;po yán;uu fēng;uf	342
+白燕升	bái;po yàn;ch shēng;pc	324
+白巖松	bái;po yán;uw sōng;ag	584
+白一弘	bái;po yī;aa hóng;gs	225
+白乙一	bái;po yǐ;vv yī;aa	357
 白宇帆	bái;po yǔ;by fān;jf	12
+白玉明	bái;po yù;wd míng;oo	87
+白玉霜	bái;po yù;wd shuāng;yo	3
+白玉婷	bái;po yù;wd tíng;nd	274
+柏原崇	bǎi;ab yuán;ix chóng;uu	276
+白雲江	bái;po yún;yy jiāng;dg	482
+白雲鵬	bái;po yún;yy péng;on	310
+白韻琴	bái;po yùn;lb qín;wv	410
+白雲香	bái;po yún;yy xiāng;ho	117
+白雲仔	bái;po yún;yy zǎi;rz	202
 白志迪	bái;po zhì;tx dí;zy	9
+白智英	bái;po zhì;uo yīng;cy	22
+白梓軒	bái;po zǐ;ax xuān;ig	306
+班得瑞	bān;wl dé;rc ruì;we	264
+班嘉佳	bān;wl jiā;tk jiā;rt	293
+半日安	bàn;bf rì;wa ān;bn	310
+棒棒堂	bàng;af bàng;af táng;xt	742
+邦喬維	bāng;fe qiáo;yk wéi;sv	31
 包貝爾	bāo;bs bèi;ob ěr;ab	430
+鮑比達	bào;yb bǐ;bb dá;zy	6
 鮑春來	bào;yb chūn;io lái;ur	28
+鮑翠薇	bào;yb cuì;xu wēi;cj	351
+保村真	bǎo;ra cūn;ac zhēn;ub	414
+保大慶	bǎo;ra dà;ar qìng;gw	130
 鮑國安	bào;yb guó;wa ān;bn	72
+鮑漢琳	bào;yb hàn;dt lín;wa	378
 保劍鋒	bǎo;ra jiàn;rd fēng;jf	20
 包羅君	bāo;bs luó;sv jūn;yk	12
+包美聖	bāo;bs měi;yd shèng;ew	346
+包娜娜	bāo;bs nà;ne nà;ne	220
+鮑起靜	bào;yb qǐ;tj jìng;fy	31
 包上恩	bāo;bs shàng;ba ēn;yx	12
+寶生舞	bǎo;bb shēng;pf wǔ;pf	6
+包世宏	bāo;bs shì;cv hóng;bs	350
+寶石傑	bǎo;bb shí;ak jié;ra	4
+保田圭	bǎo;ra tián;wu guī;tt	364
+寶田明	bǎo;bb tián;wu míng;oo	338
 鮑天琦	bào;yb tiān;ad qí;wk	281
 包威爾	bāo;bs wēi;gn ěr;ab	1
+包偉民	bāo;bs wěi;rf mín;vv	207
+包偉銘	bāo;bs wěi;rf míng;jk	6
 包文婧	bāo;bs wén;wx jìng;no	119
 包小柏	bāo;bs xiǎo;lb bǎi;ab	490
 寶曉峰	bǎo;bb xiǎo;ow fēng;uf	9
+包勳評	bāo;bs xūn;ql píng;yp	328
 包亞銘	bāo;bs yà;aa míng;jk	12
+齙牙蘇	bāo;vb yá;gp,ac sū;ch	22
 包彥希	bāo;bs yàn;wp xī;xj	12
 鮑逸琳	bào;yb yì;zt lín;wa	15
+包英鳳	bāo;bs yīng;cy fèng;jn	45
 鮑振江	bào;yb zhèn;fi jiāng;dg	12
+鮑正芳	bào;yb zhèng;av fāng;cf	324
 包志強	bāo;bs zhì;tx qiáng;gi	2
+貝安琪	bèi;ob ān;bn qí;wb	274
+北川瞳	běi;lb chuān;pl tóng;ol	374
+北島玲	běi;lb dǎo;nu líng;ws	351
+北谷洋	běi;lb gǔ;bk yáng;dy	356
+卑留呼	bēi;pu liú;pt hū;kh	212
+貝魯奇	bèi;ob lǔ;yo qí;dk	82
+北乃綺	běi;lb nǎi;pv,vp qǐ;sk	207
+貝特曼	bèi;ob tè;nc màn;oy	652
+貝童彤	bèi;ob tóng;ll tóng;dp	297
+貝辛格	bèi;ob xīn;lu gé;ak	22
+北野望	běi;lb yě;ly wàng;ww	144
+北野武	běi;lb yě;ly wǔ;gv	4735
+本渡楓	běn;aa dù;dy fēng;af	6
+本田翼	běn;aa tián;wu yì;xg	432
 本鄉愛	běn;aa xiāng;xg ài;vw	10
 本莊鈴	běn;aa zhuāng;ct líng;js	10
+碧昂絲	bì;wu áng;oe sī;sx	198
 畢必成	bì;tf bì;xp chéng;gv	30
+彼得森	bǐ;rp dé;rc sēn;aa	540
 畢福劍	bì;tf fú;pt jiàn;rd	31
+畢京柏	bì;tf jīng;wx bǎi;ab	302
+薜凱琪	bì;cx kǎi;uj qí;wb	144
+比樂蒂	bǐ;bb lè;ya dì;cj	436
+比利金	bǐ;bb lì;hd jīn;rb	292
+比利王	bǐ;bb lì;hd wáng;at	72
+比諾什	bǐ;bb nuò;yk shí;ru	38
+比奇爾	bǐ;bb qí;dk ěr;ab	130
+畢書盡	bì;tf shū;yo jìn;ym	495
 畢雯珺	bì;tf wén;yw jùn;wk	25
 畢鑫業	bì;tf xīn;jj yè;yw	19
 畢彥君	bì;tf yàn;wp jūn;yk	13
+比約克	bǐ;bb yuē;su kè;ux,ge	50
 畢志飛	bì;tf zhì;tx fēi;fc	195
+卞白賢	biàn;wb bái;po xián;ib	279
+邊伯賢	biān;zf bó;rb xián;ib	295
 卞敬凱	biàn;wb jìng;cw kǎi;uj	12
 邊天揚	biān;zf tiān;ad yáng;fw	12
 邊瀟瀟	biān;zf xiāo;da xiāo;da	19
+卞小貞	biàn;wb xiǎo;lb zhēn;bb	270
+卞耀漢	biàn;wb yào;gv hàn;dt	405
 邊一鳴	biān;zf yì;aa míng;kn	12
 卞英花	biàn;wb yīng;cy huā;cb	16
+卞雨倩	biàn;wb yǔ;ad qiàn;ro	189
+卞貞秀	biàn;wb zhēn;bb xiù;hn	266
+濱崎步	bīn;db qí;uk bù;vu	904
+濱田岳	bīn;db tián;wu yuè;qu	454
+柄本明	bǐng;an běn;aa míng;oo	9
+柄本佑	bǐng;an běn;aa yòu;rk	396
 並木優	bìng;by mù;ur yōu;rw	10
+波伽利	bō;dp gā;rk lì;hd	374
+博格特	bó;uc gé;ak tè;nc	82
+波切利	bō;dp qiè;qd lì;hd	6
+波特曼	bō;dp tè;nc màn;oy	248
+卜學亮	bo;ld xué;jz liàng;wj	518
+波耶加	bō;dp yé;ee jiā;lk	374
 步非煙	bù;vu fēi;ls yān;ht	78
 卜冠今	bǔ;ld guān;bc jīn;rv	400
 卜冠之	bǔ;ld guān;bc zhī;dn	30
+布蘭妮	bù;uj lán;cj nī;nb	2000
 卜文革	bǔ;ld wén;wx gé;cu	12
 卜嚴駿	bǔ;ld yán;xw jùn;mw	22
 蔡阿嘎	cài;cu ā;ek gā;kg	369
+菜菜緒	cài;ca cài;ca xù;so	3
 蔡燦得	cài;cu càn;hm dé;rc	382
 蔡昌憲	cài;cu chāng;oo xiàn;bx	387
 蔡程昱	cài;cu chéng;hw yù;ol	357
@@ -2222,7 +2632,11 @@ sort: by_weight
 蔡卓宜	cài;cu zhuó;bu yí;bq	19
 蔡紫芬	cài;cu zǐ;vx fēn;cf	12
 倉本堇	cāng;rk běn;aa jǐn;cw	10
+蒼井空	cāng;ck jǐng;ac,el kōng;bg	261
 蒼井空	cāng;ck jǐng;ac,el kōng;bg	10
+蒼井優	cāng;ck jǐng;ac,el yōu;rw	82
+蒼老師	cāng;ck lǎo;lb shī;pj	824
+蒼樹梅	cāng;ck shù;ac méi;am	414
 曹炳琨	cáo;co bǐng;hn kūn;wb	6
 曹不興	cáo;co bù;ab xīng;jb	218
 曹翠芬	cáo;co cuì;xu fēn;cf	15
@@ -2241,6 +2655,7 @@ sort: by_weight
 曹尚水	cáo;co shàng;xk shuǐ;ln	12
 曹聖煒	cáo;co shèng;ew wěi;hf	12
 曹隨風	cáo;co suí;eo fēng;ji	37
+草尾毅	cǎo;cu wěi;um yì;lu	3
 曹衛宇	cáo;co wèi;rf yǔ;by	6
 曹西安	cáo;co xī;ak,wk ān;bn	16
 曹曦文	cáo;co xī;ok wén;wx	1130
@@ -2255,13 +2670,19 @@ sort: by_weight
 曹雲金	cáo;co yún;yy jīn;rb	929
 曹政奭	cáo;co zhèng;vw shì;db	558
 曹子辰	cáo;co zǐ;la chén;iy	16
+岑麗香	cén;uv lì;lb xiāng;ho	486
 岑小林	cén;uv xiǎo;lb lín;aa	515
 柴碧雲	chái;va bì;wu yún;yy	522
 柴浩偉	chái;va hào;dk wěi;rf	15
 柴濟洲	chái;va jì;do zhōu;dv	12
 柴雋哲	chái;va juàn;rk zhé;fk	12
+柴崎幸	chái;va qí;uk xìng;tg	16
+柴田淳	chái;va tián;wu chún;dz	3
+柴咲幸	chái;va xiào;kt xìng;tg	486
 常寶豐	cháng;xj bǎo;bb fēng;ub	22
 常寶華	cháng;xj bǎo;bb huá;cf	500
+常寶堃	cháng;xj bǎo;bb kūn;ft	405
+常寶霆	cháng;xj bǎo;bb tíng;yw	360
 常方源	cháng;xj fāng;wv yuán;dx	12
 常飛亞	cháng;xj fēi;fc yà;aa	504
 常貴田	cháng;xj guì;vb tián;wu	6
@@ -2269,18 +2690,29 @@ sort: by_weight
 常景如	cháng;xj jǐng;ox rú;nk	16
 常凱寧	cháng;xj kǎi;uj níng;bd	12
 常藍天	cháng;xj lán;cm tiān;ad	15
+常連安	cháng;xj lián;zi ān;bn	13
 常蓉珊	cháng;xj róng;cg shān;wc	15
 常石磊	cháng;xj shí;ak lěi;uu	403
 常仕欣	cháng;xj shì;rt xīn;iq	15
 常思思	cháng;xj sī;tx sī;tx	328
 常香玉	cháng;xj xiāng;ho yù;wd	6
 昌雅妮	chāng;oo yǎ;yv nī;nb	22
+長野博	cháng;ey yě;ly bó;uc	69
 常奕然	cháng;xj yì;wd rán;xh	30
 常鈺詞	cháng;xj yù;jy cí;yk	12
 常玉紅	cháng;xj yù;wd hóng;sg	18
 長澤梓	cháng;ey zé;dg zǐ;ax	10
 萇哲濤	cháng;ci zhé;fk tāo;dc	22
+車保羅	chē;iu bǎo;ra luó;sv	378
 車靜子	chē;iu jìng;fy zǐ;la	16
+車敏洙	chē;iu mǐn;pw zhū;dw	220
+車仁表	chē;iu rén;re biǎo;fy	6
+車勝元	chē;iu shèng;ol yuán;aw	9
+車太賢	chē;iu tài;dd xián;ib	28
+車太鉉	chē;iu tài;dd xuàn;jx	490
+車婉婉	chē;iu wǎn;nv wǎn;nv	504
+車藝蓮	chē;iu yì;cy lián;ci	3
+車銀優	chē;iu yín;jg yōu;rw	60
 車永莉	chē;iu yǒng;du lì;cd	464
 陳愛蓮	chén;ed ài;vw lián;ci	937
 陳艾森	chén;ed ài;cx sēn;aa	179
@@ -2490,6 +2922,7 @@ sort: by_weight
 陳奕木	chén;ed yì;wd mù;ur	12
 陳一娜	chén;ed yī;aa nà;ne	18
 陳一諾	chén;ed yí;aa nuò;yk	630
+辰亦儒	chén;iy yì;wb rú;re	50
 陳依莎	chén;ed yī;ry shā;cu	16
 陳奕天	chén;ed yì;wd tiān;ad	315
 陳翊曈	chén;ed yì;lx tóng;ol	12
@@ -2535,15 +2968,20 @@ sort: by_weight
 晨梓妍	chén;oi zǐ;ax yán;nk	12
 陳子由	chén;ed zǐ;la yóu;ol,lt	226
 陳作深	chén;ed zuò;rv shēn;da	116
+成東日	chéng;gv dōng;ir rì;wa	436
 成方旭	chéng;gv fāng;wv xù;jo	12
 成方圓	chéng;gv fāng;wv yuán;wb	38
 成國棟	chéng;gv guó;wa dòng;ad	16
 程泓鑫	chéng;hw hóng;ds xīn;jj	12
 程佳佳	chéng;hw jiā;rt jiā;rt	116
 成浚文	chéng;gv jùn;dw wén;wx	12
+成奎安	chéng;gv kuí;dt ān;bn	22
 程莉莎	chéng;hw lì;cd shā;cu	1135
 成旻雲	chéng;gv mín;ow yún;yy	15
+成詩京	chéng;gv shī;yc jīng;wx	9
 成泰燊	chéng;gv tài;iu shēn;ha	13
+成田凌	chéng;gv tián;wu líng;dw	378
+城田優	chéng;ti tián;wu yōu;rw	428
 程文濤	chéng;hw wén;wx tāo;dc	12
 程相銀	chéng;hw xiāng;ao yín;jg	12
 程曉樺	chéng;hw xiǎo;ow huà;af	3
@@ -2551,16 +2989,23 @@ sort: by_weight
 程星源	chéng;hw xīng;ou yuán;dx	12
 程耀輝	chéng;hw yào;gv huī;gi	16
 程也晴	chéng;hw yě;vv qíng;oo	12
+成宥利	chéng;gv yòu;bo lì;hd	9
 程媛媛	chéng;hw yuàn;ny yuàn;ny	1635
 成止微	chéng;gv zhǐ;bl,lu wēi;rj	1
 成梓寧	chéng;gv zǐ;ax níng;bd	15
 池長庚	chí;dy cháng;ey gēng;gr	12
+池昌旭	chí;dy chāng;oo xù;jo	44
 遲功偉	chí;zn gōng;gl wěi;rf	15
 遲國棟	chí;zn guó;wa dòng;ad	1
 池華瓊	chí;dy huá;cf qióng;ww	26
 遲立靜	chí;zn lì;wb jìng;fy	15
 遲寧寧	chí;zn níng;bd níng;bd	33
+赤西仁	chì;tb xī;ak,wk rén;re	47
+池賢宇	chí;dy xián;ib yǔ;by	356
+遲小秋	chí;zn xiǎo;lb qiū;hh	355
 池約翰	chí;dy yuē;su hàn;ux	26
+池珍熙	chí;dy zhēn;wp xī;ih	3
+遲志強	chí;zn zhì;tx qiáng;gi	60
 遲重瑞	chí;zn zhòng;ql ruì;we	44
 種丹妮	chóng;hv dān;kd nī;nb	364
 初川南	chū;pd chuān;pl nán;ug	10
@@ -2571,11 +3016,13 @@ sort: by_weight
 楚軼男	chǔ;az yì;if nán;tl	12
 儲智博	chǔ;ro zhì;uo bó;uc	42
 川越唯	chuān;pl yuè;tl wéi;kv	10
+吹越滿	chuī;kq yuè;tl mǎn;dr	436
 春菜華	chūn;io cài;ca huá;cf	10
 椿莉香	chūn;ao lì;cd xiāng;ho	10
 蠢沫沫	chǔn;ii mò;dw mò;dw	12
 春咲涼	chūn;io xiào;kt liáng;dx	10
 慈婉彤	cí;bx wǎn;nv tóng;dp	12
+叢浩楠	cóng;yy hào;dk nán;ag	3
 叢健彰	cóng;yy jiàn;ry zhāng;lp	12
 叢明晨	cóng;yy míng;oo chén;oi	25
 叢志軍	cóng;yy zhì;tx jūn;bi	15
@@ -2605,11 +3052,23 @@ sort: by_weight
 崔智友	cuī;uv zhì;uo yǒu;uy	38
 崔州平	cuī;uv zhōu;dl píng;au	337
 崔子格	cuī;uv zǐ;la gé;ak	1015
+村田步	cūn;ac tián;wu bù;vu	310
+大川透	dà;ar chuān;pl tòu;zn	536
 大哥遠	dà;ar gē;kk yuǎn;zy	230
 大槻響	dà;ar guī;aj xiǎng;xo	10
 達式常	dá;zy shì;gg cháng;xj	16
 答有為	dá;vk yǒu;uo wéi;dh	12
+大澤光	dà;ar zé;dg guāng;xe	234
 大張偉	dà;ar zhāng;gi wěi;rf	2726
+大塚愛	dà;ar zhǒng;tu ài;vw	580
+大塚蓮	dà;ar zhǒng;tu lián;ci	75
+大塚拓	dà;ar zhǒng;tu tuò;fu	130
+大塚舞	dà;ar zhǒng;tu wǔ;pf	220
+大塚咲	dà;ar zhǒng;tu xiào;kt	351
+大塚學	dà;ar zhǒng;tu xué;jz	163
+大塚雉	dà;ar zhǒng;tu zhì;uv	50
+大竹忍	dà;ar zhú;gg rěn;dx	357
+呆寶靜	dāi;ka bǎo;bb jìng;fy	3
 代長江	dài;rg cháng;ey jiāng;dg	418
 戴春榮	dài;gg chūn;io róng;ha	6
 戴菲菲	dài;gg fēi;cf fēi;cf	171
@@ -2633,6 +3092,7 @@ sort: by_weight
 戴耀明	dài;gg yào;gv míng;oo	392
 代藝霖	dài;rg yì;cy lín;ya	30
 戴瀠萱	dài;gg yíng;dx xuān;cd	12
+代永翼	dài;rg yǒng;du yì;xg	486
 戴玉強	dài;gg yù;wd qiáng;gi	57
 戴羽彤	dài;gg yǔ;xx tóng;dp	22
 代雲帆	dài;rg yún;yy fān;jf	99
@@ -2642,7 +3102,14 @@ sort: by_weight
 戴志偉	dài;gg zhì;tx wěi;rf	6
 戴祖雄	dài;gg zǔ;pq xióng;uv	252
 戴祖儀	dài;gg zǔ;pq yí;rw	486
+丹下櫻	dān;kd xià;ab yīng;an	9
 黨浩予	dǎng;xh hào;dk yǔ;sl	12
+島谷瞳	dǎo;nu gǔ;bk tóng;ol	16
+刀美蘭	dāo;vp měi;yd lán;cj	9
+稻森泉	dào;hj sēn;aa quán;bu	418
+德雷克	dé;rx léi;yt kè;ux,ge	559
+德尼羅	dé;rx ní;ub luó;sv	892
+德普叔	dé;rx pǔ;bo shū;uy	405
 鄧藹霖	dèng;be ǎi;cr lín;ya	302
 鄧安奇	dèng;be ān;bn qí;dk	459
 鄧碧雲	dèng;be bì;wu yún;yy	464
@@ -2697,6 +3164,7 @@ sort: by_weight
 翟蓓蓓	dí;xv bèi;ck bèi;ck	12
 狄菲菲	dí;qh fēi;cf fēi;cf	218
 翟冠華	dí;xv guān;bc huá;cf	22
+迪瑪希	dí;zy mǎ;wm xī;xj	845
 翟乃社	dí;xv nǎi;pv,vp shè;pt	18
 翟天卉	dí;xv tiān;ad huì;uc	12
 翟萬臣	dí;xv wàn;cd chén;kl	9
@@ -2706,6 +3174,7 @@ sort: by_weight
 翟星月	dí;xv xīng;ou yuè;ke	16
 翟煦飛	dí;xv xù;oh fēi;fc	37
 翟一瑩	dí;xv yī;aa yíng;hy	1
+堤真一	dī;tz zhēn;ub yī;aa	70
 翟子路	dí;xv zǐ;la lù;zk	256
 刁琳琳	diāo;va lín;wa lín;wa	33
 刁亦男	diāo;va yì;wb nán;tl	317
@@ -2724,6 +3193,7 @@ sort: by_weight
 丁柳元	dīng;al liǔ;ae yuán;aw	364
 丁少華	dīng;al shǎo;xp huá;cf	235
 丁惟敏	dīng;al wéi;xv mǐn;pw	12
+丁文琪	dīng;al wén;wx qí;wb	554
 丁翔南	dīng;al xiáng;yx nán;ug	12
 丁霄漢	dīng;al xiāo;yo hàn;dt	22
 丁曉君	dīng;al xiǎo;ow jūn;yk	426
@@ -2733,34 +3203,53 @@ sort: by_weight
 丁禹兮	dīng;al yǔ;pd xī;bk	346
 丁澤仁	dīng;al zé;dg rén;re	8
 丁志誠	dīng;al zhì;tx chéng;yi	9
+丁子峻	dīng;al zi;la jùn;uw	446
 丁子玲	dīng;al zi;la líng;ws	426
+董寶石	dǒng;cv bǎo;bb shí;ak	297
+董寶珍	dǒng;cv bǎo;bb zhēn;wp	22
 董博文	dǒng;cv bó;uc wén;wx	202
 董成明	dǒng;cv chéng;gv míng;oo	1626
 董成鵬	dǒng;cv chéng;gv péng;on	6
+董大力	dǒng;cv dà;ar lì;vp	598
 董方卓	dǒng;cv fāng;wv zhuó;bu	493
+董鳳桐	dǒng;cv fèng;jn tóng;ak	288
 董瀚麟	dǒng;cv hàn;dx lín;gf	3
+董浩然	dǒng;cv hào;dk rán;xh	279
+董嘉儀	dǒng;cv jiā;tk yí;rw	238
 東靖川	dōng;ir jìng;lo chuān;pl	12
+董俊傑	dǒng;cv jùn;rw jié;ra	252
 董荔冰	dǒng;cv lì;cl bīng;du	12
 董立範	dǒng;cv lì;wb fàn;vv	3
+董敏莉	dǒng;cv mǐn;pw lì;cd	346
 董妮娜	dǒng;cv nī;nb nà;ne	12
+冬日娜	dōng;wd rì;wa nà;ne	388
 董蓉蓉	dǒng;cv róng;cg róng;cg	12
 董三毛	dǒng;cv sān;ae máo;pv	30
 董思成	dǒng;cv sī;tx chéng;gv	22
 董思怡	dǒng;cv sī;tx yí;xk	18
+董天野	dǒng;cv tiān;ad yě;ly	171
 東條夏	dōng;ir tiáo;rm xià;bw	10
 董維嘉	dǒng;cv wéi;sv jiā;tk	310
 董文華	dǒng;cv wén;wx huá;cf	9
 董襲瑩	dǒng;cv xí;ly yíng;hy	12
+董希源	dǒng;cv xī;xj yuán;dx	281
 董向科	dǒng;cv xiàng;pk kē;hd	12
+董小颯	dǒng;cv xiǎo;lb sà;lf	31
 董曉燕	dǒng;cv xiǎo;ow yàn;ch	230
 董新堯	dǒng;cv xīn;lt yáo;tw	33
+董行佶	dǒng;cv xíng;rd jí;rk	3
 冬雪俐	dōng;wd xuě;ye lì;rd	1
+董亞千	dǒng;cv yà;aa qiān;pu	500
 董岩磊	dǒng;cv yán;uu lěi;uu	6
 董豔芸	dǒng;cv yàn;um yún;cy	315
 董宇輝	dǒng;cv yǔ;by huī;gi	94
+董育君	dǒng;cv yù;wo jūn;yk	212
 冬月楓	dōng;wd yuè;ke fēng;af	10
 董至成	dǒng;cv zhì;gt chéng;gv	22
 董志豪	dǒng;cv zhì;tx háo;wu	12
+董志華	dǒng;cv zhì;tx huá;cf	122
+董智森	dǒng;cv zhì;uo sēn;aa	356
+董芷依	dǒng;cv zhǐ;cv yī;ry	279
 董子凡	dǒng;cv zǐ;la fán;jd	22
 董子健	dǒng;cv zǐ;la jiàn;ry	770
 董祚杭	dǒng;cv zuò;pv háng;aj	12
@@ -2768,6 +3257,8 @@ sort: by_weight
 竇靖童	dòu;bb jìng;lo tóng;ll	389
 竇文濤	dòu;bb wén;wx tāo;dc	261
 竇曉璇	dòu;bb xiǎo;ow xuán;wz	18
+竇智孔	dòu;bb zhì;uo kǒng;zv	16
+渡邊謙	dù;dy biān;zf qiān;yj	72
 杜德偉	dù;at dé;rx wěi;rf	97
 杜光禕	dù;at guāng;xe yī;pf	12
 杜海濤	dù;at hǎi;dm tāo;dc	323
@@ -2775,6 +3266,7 @@ sort: by_weight
 杜厚佳	dù;at hòu;iz jiā;rt	12
 杜建橋	dù;at jiàn;zy qiáo;ak	12
 杜金京	dù;at jīn;rb jīng;wx	12
+都暻秀	dū;le jǐng;ox xiù;hn	670
 杜憬儀	dù;at jǐng;xx yí;rw	12
 杜俊澤	dù;at jùn;rw zé;dg	18
 杜麗莎	dù;at lì;lb shā;cu	138
@@ -2824,8 +3316,10 @@ sort: by_weight
 段旭宇	duàn;pu xù;jo yǔ;by	12
 段奕宏	duàn;pu yì;wd hóng;bs	502
 段藝璇	duàn;pu yì;cy xuán;wz	33
+多布傑	duō;xx bù;uj jié;ra	22
 朵爾娜	duǒ;ja ěr;ab nà;ne	1
 鄂靖文	è;xe jìng;lo wén;wx	15
+爾冬升	ěr;ab dōng;wd shēng;pc	446
 二宮光	èr;aa gōng;bk guāng;xe	10
 二驢的	èr;aa lǘ;mm de;bu	30
 范冰冰	fàn;cv bīng;du bīng;du	3206
@@ -2891,18 +3385,21 @@ sort: by_weight
 方媛媛	fāng;wv yuàn;ny yuàn;ny	15
 房子斌	fáng;hf zi;la bīn;wv	248
 方子哥	fāng;wv zi;la gē;kk	356
+房祖名	fáng;hf zǔ;pq míng;xk	433
 費立緯	fèi;fb lì;wb wěi;sf	22
 費南多	fèi;fb nán;ug duō;xx	63
 費啟鳴	fèi;fb qǐ;hw míng;kn	16
 費沁源	fèi;fb qìn;dx yuán;dx	540
 費偉妮	fèi;fb wěi;rf nī;nb	415
 妃悠愛	fēi;nj yōu;rx ài;vw	10
+費玉清	fèi;fb yù;wd qīng;do	1347
 費振翔	fèi;fb zhèn;fi xiáng;yx	3
 馮寶寶	féng;dm bǎo;bb bao;bb	110
 馮寶華	féng;dm bǎo;bb huá;cf	112
 豐楚軒	fēng;ub chǔ;az xuān;ig	6
 馮德倫	féng;dm dé;rx lún;rc	104
 馮恩鶴	féng;dm ēn;yx hè;bn	615
+鳳飛飛	fèng;jn fēi;fc fēi;fc	97
 楓芙愛	fēng;af fú;cf ài;vw	10
 馮國強	féng;dm guó;wa qiáng;gi	612
 馮國慶	féng;dm guó;wa qìng;gw	212
@@ -2955,6 +3452,7 @@ sort: by_weight
 符嘉超	fú;vc jiā;tk chāo;tk	12
 付佳美	fù;rc jiā;rt měi;yd	45
 傅錦華	fù;rc jǐn;jj huá;cf	22
+付蘭蘭	fù;rc lán;cj lán;cj	270
 傅麗莉	fù;rc lì;lb lì;cd	190
 付夢妮	fù;rc mèng;cx nī;nb	414
 伏明霞	fú;rq míng;oo xiá;yy	672
@@ -2962,6 +3460,7 @@ sort: by_weight
 付瑞亭	fù;rc ruì;we tíng;wd	16
 傅首爾	fù;rc shǒu;bz ěr;ab	414
 傅姝陽	fù;rc shū;nw yáng;ew	12
+付思琪	fù;rc sī;tx qí;wb	153
 傅天驕	fù;rc tiān;ad jiāo;mk	16
 付偉倫	fù;rc wěi;rf lún;rc	19
 傅希如	fù;rc xī;xj rú;nk	426
@@ -2971,9 +3470,11 @@ sort: by_weight
 付辛博	fù;rc xīn;lu bó;uc	91
 符雅凝	fú;vc yǎ;yv níng;dz	12
 付彥丹	fù;rc yàn;wp dān;kd	12
+付一夫	fù;rc yì;aa fū;er	26
 付以琳	fù;rc yǐ;lr lín;wa	16
 傅藝偉	fù;rc yì;cy wěi;rf	31
 傅羽佳	fù;rc yǔ;xx jiā;rt	12
+付玉龍	fù;rc yù;wd lóng;lv	230
 傅園慧	fù;rc yuán;wy huì;fx	402
 傅子恩	fù;rc zǐ;la ēn;yx	333
 干露露	gān;au lù;yk lù;yk	662
@@ -2984,6 +3485,7 @@ sort: by_weight
 甘昀宸	gān;ca yún;oy chén;bi	33
 剛小希	gāng;kd xiǎo;lb xī;xj	33
 高寶寶	gāo;wk bǎo;bb bao;bb	760
+高倉健	gāo;wk cāng;rk jiàn;ry	116
 高昌昊	gāo;wk chāng;oo hào;ot	16
 高昌錫	gāo;wk chāng;oo xī;jw	306
 高承一	gāo;wk chéng;ln yī;aa	12
@@ -3060,6 +3562,7 @@ sort: by_weight
 高梓淇	gāo;wk zǐ;ax qí;db	531
 高梓添	gāo;wk zǐ;ax tiān;dx	12
 葛薈婕	gé;cr huì;co jié;nz	85
+蓋叫天	gě;cm jiào;kj tiān;ad	28
 蓋麗麗	gě;cm lì;lb lì;lb	3
 葛曼棋	gé;cr màn;oy qí;ab	9
 葛珊珊	gé;cr shān;wc shān;wc	116
@@ -3077,6 +3580,7 @@ sort: by_weight
 耿晨晨	gěng;eh chén;oi chén;oi	12
 耿蓮鳳	gěng;eh lián;ci fèng;jn	302
 耿夢珂	gěng;eh mèng;cx kē;wk	12
+耿其昌	gěng;eh qí;cb chāng;oo	315
 耿斯漢	gěng;eh sī;ct hàn;dt	333
 耿業庭	gěng;eh yè;yw tíng;gw	12
 耿一智	gěng;eh yī;aa zhì;uo	1
@@ -3377,19 +3881,50 @@ sort: by_weight
 黑川堇	hēi;lh chuān;pl jǐn;cw	10
 黑婧環	hēi;lh jìng;no huán;wy	26
 黑石稔	hēi;lh shí;ak rěn;hx	162
+洪百榕	hóng;dg bǎi;ab róng;ag	238
 洪冰瑤	hóng;dg bīng;du yáo;wf	116
 洪辰瑤	hóng;dg chén;iy yáo;wf	12
+洪恩貞	hóng;dg ēn;yx zhēn;bb	202
+洪國華	hóng;dg guó;wa huá;cf	306
 洪海天	hóng;dg hǎi;dm tiān;ad	41
+洪慧芳	hóng;dg huì;fx fāng;cf	346
 洪佳寧	hóng;dg jiā;rt níng;bd	12
 洪劍濤	hóng;dg jiàn;rd tāo;dc	9
+洪金寶	hóng;dg jīn;rb bǎo;bb	857
+洪金梅	hóng;dg jīn;rb méi;am	328
+洪京民	hóng;dg jīng;wx mín;vv	279
+洪靜雯	hóng;dg jìng;fy wén;yw	297
+洪俊揚	hóng;dg jùn;rw yáng;fw	252
 洪連城	hóng;dg lián;zi chéng;ti	12
 洪珮雲	hóng;dg pèi;wj yún;yy	396
+洪榮宏	hóng;dg róng;ha hóng;bs	97
+洪瑞襄	hóng;dg ruì;we xiāng;yf	418
 洪杉杉	hóng;dg shān;ap shān;ap	22
+洪詩涵	hóng;dg shī;yc hán;du	297
 洪士雅	hóng;dg shì;ua yǎ;yv	1
+洪天明	hóng;dg tiān;ad míng;oo	13
+洪天祥	hóng;dg tiān;ad xiáng;py	3
+洪天照	hóng;dg tiān;ad zhào;oh	333
+洪偉明	hóng;dg wěi;rf míng;oo	261
+洪錫天	hóng;dg xī;jw tiān;ad	324
 紅線女	hóng;sg xiàn;su nǚ;va	549
+洪小鈴	hóng;dg xiǎo;lb líng;js	436
+洪小玲	hóng;dg xiǎo;lb líng;ws	220
+洪性志	hóng;dg xìng;xu zhì;tx	252
+洪秀兒	hóng;dg xiù;hn ér;je	292
+洪秀賢	hóng;dg xiù;hn xián;ib	9
 洪學敏	hóng;dg xué;jz mǐn;pw	12
+洪言翔	hóng;dg yán;wk xiáng;yx	270
+洪乙心	hóng;dg yǐ;vv xīn;dd	202
+洪永城	hóng;dg yǒng;du chéng;ti	6
+洪雨雷	hóng;dg yǔ;ad léi;yt	279
 洪宇宙	hóng;dg yǔ;by zhòu;by	25
+洪真京	hóng;dg zhēn;ub jīng;wx	288
+洪真英	hóng;dg zhēn;ub yīng;cy	13
 洪之光	hóng;dg zhī;dn guāng;xe	16
+洪知秀	hóng;dg zhī;uk xiù;hn	9
+洪卓立	hóng;dg zhuó;bu lì;wb	13
+洪宗玄	hóng;dg zōng;bu xuán;wy	16
 洪宗義	hóng;dg zōng;bu yì;yw	12
 侯寶林	hóu;ru bǎo;bb lín;aa	515
 侯長榮	hóu;ru cháng;ey róng;ha	256
@@ -3425,6 +3960,7 @@ sort: by_weight
 侯志慧	hóu;ru zhì;tx huì;fx	405
 侯祖辛	hóu;ru zǔ;pq xīn;lu	288
 胡艾彤	hú;go ài;cx tóng;dp	18
+胡寶善	hú;go bǎo;bb shàn;yk	274
 胡蓓蔚	hú;go bèi;ck wèi;cc	450
 胡斌淵	hú;go bīn;wv yuān;da	351
 胡冰卿	hú;go bīng;du qīng;pg	22
@@ -3433,23 +3969,47 @@ sort: by_weight
 胡春楊	hú;go chūn;io yáng;aw	15
 胡春勇	hú;go chūn;io yǒng;sl	12
 胡丹丹	hú;go dān;kd dān;kd	482
+胡德夫	hú;go dé;rx fū;er	151
+胡定欣	hú;go dìng;bz xīn;iq	19
 胡冬晴	hú;go dōng;wd qíng;oo	12
 胡逗逗	hú;go dòu;zb dòu;zb	12
+胡歌吧	hú;go gē;kq ba;kb	234
+胡歌版	hú;go gē;kq bǎn;py	16
+胡歌飾	hú;go gē;kq shì;uj	464
+胡冠珍	hú;go guān;bc zhēn;wp	194
 胡光子	hú;go guāng;xe zǐ;la	12
 戶國防	hù;pu guó;wa fáng;ef	318
+胡海峰	hú;go hǎi;dm fēng;uf	378
 胡海泉	hú;go hǎi;dm quán;bu	377
 胡浩博	hú;go hào;dk bó;uc	12
+胡皓康	hú;go hào;bk kāng;gl	387
 胡皓翔	hú;go hào;bk xiáng;yx	15
+胡鴻鈞	hú;go hóng;dn jūn;jy	3
 胡洪宇	hú;go hóng;dg yǔ;by	1
+胡慧中	hú;go huì;fx zhōng;kl	38
 胡家豪	hú;go jiā;bu háo;wu	513
 胡嘉欣	hú;go jiā;tk xīn;iq	37
+胡進慶	hú;go jìn;zv qìng;gw	6
+胡金秋	hú;go jīn;rb qiū;hh	91
 胡金銓	hú;go jīn;rb quán;jw	509
+胡競英	hú;go jìng;lx yīng;cy	306
+胡軍版	hú;go jūn;bi bǎn;py	50
+胡軍海	hú;go jūn;bi hǎi;dm	180
+胡凱莉	hú;go kǎi;uj lì;cd	346
+胡樂平	hú;go lè;ya píng;au	279
+胡里奧	hú;go lǐ;tt ào;pd	94
 胡連華	hú;go lián;zi huá;cf	1
 胡連馨	hú;go lián;zi xīn;to	16
+胡良偉	hú;go liáng;dg wěi;rf	100
 胡龍吟	hú;go lóng;lv yín;kv	12
 胡瑪爾	hú;go mǎ;wm ěr;ab	118
+胡嗎個	hú;go ma;km gè;rg	35
+胡美儀	hú;go měi;yd yí;rw	3
 胡啓志	hú;go qǐ;hk zhì;tx	22
 胡倩琳	hú;go qiàn;ro lín;wa	12
+胡清藍	hú;go qīng;do lán;cm	266
+胡薩克	hú;go sà;cu kè;ux,ge	432
+胡沙虎	hú;go shā;du hǔ;hj	16
 胡莎莎	hú;go shā;cu shā;cu	3
 呼斯楞	hū;kh sī;ct léng;af	356
 胡思奕	hú;go sī;tx yì;wd	12
@@ -3457,8 +4017,11 @@ sort: by_weight
 胡桃櫻	hú;go táo;av yīng;an	10
 扈天翼	hù;hb tiān;ad yì;xg	12
 胡天渝	hú;go tiān;ad yú;dd	12
+胡婷婷	hú;go tíng;nd tíng;nd	13
 胡衛東	hú;go wèi;rf dōng;ir	257
+胡渭康	hú;go wèi;do kāng;gl	410
 胡維納	hú;go wéi;sv nà;sn	1833
+胡文閣	hú;go wén;wx gé;mk	418
 胡文珊	hú;go wén;wx shān;wc	12
 胡文煊	hú;go wén;wx xuān;hd	16
 胡文喆	hú;go wén;wx zhé;tk	33
@@ -3467,23 +4030,48 @@ sort: by_weight
 胡先煦	hú;go xiān;ne xù;oh	198
 胡向真	hú;go xiàng;pk zhēn;ub	118
 胡曉慧	hú;go xiǎo;ow huì;fx	446
+胡小玲	hú;go xiǎo;lb líng;ws	270
+胡曉晴	hú;go xiǎo;ow qíng;oo	194
 胡小冉	hú;go xiǎo;lb rǎn;kt	12
 胡小庭	hú;go xiǎo;lb tíng;gw	22
 胡新超	hú;go xīn;lt chāo;tk	12
+胡心諾	hú;go xīn;dd nuò;yk	202
 胡馨尹	hú;go xīn;to yǐn;ep	15
 胡馨元	hú;go xīn;to yuán;aw	1
+胡杏兒	hú;go xìng;ak ér;je	60
 胡雪兒	hú;go xuě;ye ér;je	15
 胡雪峰	hú;go xuě;ye fēng;uf	31
+胡亞丹	hú;go yà;aa dān;kd	230
 胡亞捷	hú;go yà;aa jié;fz	9
 胡彥斌	hú;go yàn;wp bīn;wv	672
 虎豔芬	hǔ;hj yàn;um fēn;cf	35
+胡燕妮	hú;go yàn;ch nī;nb	310
+胡耀輝	hú;go yào;gv huī;gi	310
 扈耀之	hù;hb yào;gv zhī;dn	15
+胡一虎	hú;go yì;aa hǔ;hj	360
 胡一天	hú;go yì;aa tiān;ad	360
 胡意旋	hú;go yì;lx xuán;fz	1
 胡亦瑤	hú;go yì;wb yáo;wf	12
+胡怡瑩	hú;go yí;xk yíng;hy	279
+胡因夢	hú;go yīn;wd mèng;cx	38
+胡茵夢	hú;go yīn;cy mèng;cx	34
+胡盈禎	hú;go yíng;nm zhēn;pb	297
+胡玉梅	hú;go yù;wd méi;am	20
+胡宇桐	hú;go yǔ;by tóng;ak	355
+胡宇崴	hú;go yǔ;by wǎi;un	324
+胡宇威	hú;go yǔ;by wēi;gn	423
+胡媛媛	hú;go yuàn;ny yuàn;ny	6
+胡越山	hú;go yuè;tl shān;kl	310
 胡耘豪	hú;go yún;ly háo;wu	423
+胡澤紅	hú;go zé;dg hóng;sg	225
+胡鎮璽	hú;go zhèn;jb xǐ;ay	486
+胡振中	hú;go zhèn;fi zhōng;kl	454
+胡志鵬	hú;go zhì;tx péng;on	266
 胡中虎	hú;go zhōng;kl hǔ;hj	12
 鬍子程	hú;eo zi;la chéng;hw	12
+鬍子彤	hú;eo zi;la tóng;dp	369
+胡紫薇	hú;go zǐ;vx wēi;cj	6
+胡紫微	hú;go zǐ;vx wēi;rj	5
 胡宗溫	hú;go zōng;bu wēn;dm	1318
 華晨宇	huà;cf chén;oi yǔ;by	1251
 花狩舞	huā;cb shòu;qc wǔ;pf	10
@@ -3508,7 +4096,6 @@ sort: by_weight
 黃楚茵	huáng;cb chǔ;az yīn;cy	12
 黃川田	huáng;cb chuān;pl tián;wu	369
 黃翠如	huáng;cb cuì;xu rú;nk	9
-黃澄澄	huáng;cb dēng;db dēng;db	796
 黃豆豆	huáng;cb dòu;ab dòu;ab	35
 黃恩茹	huáng;cb ēn;yx rú;ck	3
 黃甫桀	huáng;cb fǔ;uy jié;xa	12
@@ -3835,28 +4422,47 @@ sort: by_weight
 季驁傑	jì;hz ào;fm jié;ra	1
 季博文	jì;hz bó;uc wén;wx	22
 姬晨牧	jī;ni chén;oi mù;nw	266
+吉川愛	jí;tk chuān;pl ài;vw	356
 吉川蓮	jí;tk chuān;pl lián;ci	10
 計春華	jì;yu chūn;io huā;cf	47
+基德曼	jī;ct dé;rx màn;oy	113
 季東燃	jì;hz dōng;ir rán;hh	12
+吉岡忍	jí;tk gāng;ku rěn;dx	266
 季冠霖	jì;hz guān;bc lín;ya	232
+吉弘行	jí;tk hóng;gs xíng;rd	405
 紀煥博	jǐ;sj huàn;hd bó;uc	418
+紀佳松	jǐ;sj jiā;rt sōng;ag	423
 吉克皓	jí;tk kè;ux,ge hào;bk	622
+基里安	jī;ct lǐ;tt ān;bn	224
 吉良鈴	jí;tk liáng;dg líng;js	10
 紀凌塵	jǐ;sj líng;dw chén;gt	6
+紀露霞	jǐ;sj lù;yk xiá;yy	324
 季美含	jì;hz měi;yd hán;rk	12
 紀敏佳	jǐ;sj mǐn;pw jiā;rt	9
+紀培慧	jǐ;sj péi;tk huì;fx	310
+姬麒麟	jī;ni qí;gb lín;gf	3
 紀如璟	jǐ;sj rú;nk jǐng;wx	35
+吉田羊	jí;tk tián;wu yáng;bf	446
+姬天語	jī;ni tiān;ad yǔ;yk	72
 紀向寧	jǐ;sj xiàng;pk níng;bd	12
 季肖冰	jì;hz xiāo;xo bīng;du	126
 姬曉飛	jī;ni xiǎo;ow fēi;fc	1
 姬咲華	jī;ni xiào;kt huá;cf	10
+紀曉君	jǐ;sj xiǎo;ow jūn;yk	300
+季驍宣	jì;hz xiāo;mw xuān;bd	28
 季新傑	jì;hz xīn;lt jié;ra	9
 吉新鵬	jí;tk xīn;lt péng;on	392
 吉星月	jí;tk xīng;ou yuè;ke	12
+紀許光	jǐ;sj xǔ;yw guāng;xe	236
 吉雪萍	jí;tk xuě;ye píng;cp	374
 吉揚柳	jí;tk yáng;fw liǔ;ae	12
+吉俣良	jí;tk yǔ;rt liáng;dg	346
+吉澤亮	jí;tk zé;dg liàng;wj	405
+吉澤瞳	jí;tk zé;dg tóng;ol	387
 計鎮華	jì;yu zhèn;jb huá;cf	261
 紀姿含	jǐ;sj zī;dn hán;rk	374
+嘉碧儀	jiā;tk bì;wu yí;rw	243
+佳代子	jiā;rt dài;rg zǐ;la	454
 賈丁納	jiǎ;xb dīng;al nà;sn	144
 賈格爾	jiǎ;xb gé;ak ěr;ab	157
 賈宏聲	jiǎ;xb hóng;bs shēng;te	72
@@ -3865,6 +4471,7 @@ sort: by_weight
 賈景暉	jiǎ;xb jǐng;ox huī;oi	288
 賈靜雯	jiǎ;xb jìng;fy wén;yw	220
 賈康熙	jiǎ;xb kāng;gl xī;ih	16
+加瀨亮	jiā;lk lài;db liàng;wj	387
 賈麗莉	jiǎ;xb lì;lb lì;cd	12
 郟莉莉	jiá;de lì;cd lì;cd	1
 賈玲姐	jiǎ;xb líng;ws jiě;nq	17
@@ -3875,6 +4482,9 @@ sort: by_weight
 賈石頭	jiǎ;xb shí;ak tou;dy	3
 賈順治	jiǎ;xb shùn;iy zhì;dk	12
 賈斯汀	jiǎ;xb sī;ct tīng;dd	659
+加藤愛	jiā;lk téng;cu ài;vw	374
+加藤鷹	jiā;lk téng;cu yīng;gn	544
+加藤治	jiā;lk téng;cu zhì;dk	342
 賈天怡	jiǎ;xb tiān;ad yí;xk	15
 賈曉晨	jiǎ;xb xiǎo;ow chén;oi	464
 賈笑涵	jiǎ;xb xiào;vy hán;du	12
@@ -3893,9 +4503,20 @@ sort: by_weight
 賈樟柯	jiǎ;xb zhāng;au kē;ak	3718
 賈征宇	jiǎ;xb zhēng;rv yǔ;by	288
 賈致鋼	jiǎ;xb zhì;gw gāng;ju	1
+家中宏	jiā;bu zhōng;kl hóng;bs	436
 賈宗超	jiǎ;xb zōng;bu chāo;tk	270
+健次郎	jiàn;ry cì;dq láng;le	60
+簡鳳君	jiǎn;vo fèng;jn jūn;yk	202
+簡宏霖	jiǎn;vo hóng;bs lín;ya	270
 簡弘亦	jiǎn;vo hóng;gs yì;wb	292
+簡愷樂	jiǎn;vo kǎi;xb lè;ya	266
+簡嫚書	jiǎn;vo mān;ny shū;yo	396
+簡美妍	jiǎn;vo měi;yd yán;nk	382
+簡慕華	jiǎn;vo mù;cx huá;cf	369
+簡沛恩	jiǎn;vo pèi;dj ēn;yx	315
 菅紉姿	jiān;cl rèn;sd zī;dn	360
+簡淑兒	jiǎn;vo shū;dy ér;je	364
+簡廷芮	jiǎn;vo tíng;zw ruì;cn	324
 簡自豪	jiǎn;vo zì;po háo;wu	414
 江柏萱	jiāng;dg bǎi;ab xuān;cd	12
 蔣寶英	jiǎng;cc bǎo;bb yīng;cy	12
@@ -3958,6 +4579,7 @@ sort: by_weight
 蔣雯麗	jiǎng;cc wén;yw lì;lb	210
 蔣文文	jiǎng;cc wén;wx wén;wx	112
 姜文軒	jiāng;yn wén;wx xuān;ig	12
+江希文	jiāng;dg xī;xj wén;wx	414
 姜曉衝	jiāng;yn xiǎo;ow chōng;rv	1022
 蔣小涵	jiǎng;cc xiǎo;lb hán;du	326
 蔣瀟林	jiǎng;cc xiāo;da lín;aa	12
@@ -4002,11 +4624,20 @@ sort: by_weight
 姜梓新	jiāng;yn zǐ;ax xīn;lt	316
 江祖平	jiāng;dg zǔ;pq píng;au	6
 焦安靜	jiāo;rh ān;bn jìng;fy	112
+焦安溥	jiāo;rh ān;bn pǔ;dc	405
+焦德海	jiāo;rh dé;rx hǎi;dm	279
+焦恩俊	jiāo;rh ēn;yx jùn;rw	138
 焦俊艷	jiāo;rh jùn;rw yàn;ub	144
 焦可然	jiāo;rh kě;dk rán;xh	16
 焦劉洋	jiāo;rh liú;pd yáng;dy	508
 焦邁奇	jiāo;rh mài;zd qí;dk	72
+焦曼婷	jiāo;rh màn;oy tíng;nd	212
 焦聖祥	jiāo;rh shèng;ew xiáng;py	12
+傑克曼	jié;ra kè;ux,ge màn;oy	819
+傑克曼	jié;ra kè;ux,ge màn;oy	160
+傑克遜	jié;ra kè;ux,ge xùn;zx	3118
+傑克遜	jié;ra kè;ux,ge xùn;zx	171
+堺雅人	jiè;tj yǎ;yv rén;pn	703
 皆月光	jiē;bb yuè;ke guāng;xe	10
 金寶拉	jīn;rb bǎo;bb lā;fl	3
 金寶凜	jīn;rb bǎo;bb lǐn;dh	194
@@ -4036,6 +4667,7 @@ sort: by_weight
 金東炫	jīn;rb dōng;ir xuàn;hx	396
 金東勳	jīn;rb dōng;ir xūn;ql	180
 金東允	jīn;rb dōng;ir yǔn;se	202
+金豆豆	jīn;rb dòu;ab dòu;ab	22
 金度妍	jīn;rb dù;gy yán;nk	315
 金度延	jīn;rb dù;gy yán;zv	198
 金恩淑	jīn;rb ēn;yx shū;dy	364
@@ -4049,14 +4681,20 @@ sort: by_weight
 金高恩	jīn;rb gāo;wk ēn;yx	315
 金高銀	jīn;rb gāo;wk yín;jg	104
 金貴晟	jīn;rb guì;vb chéng;oi	1122
+金龜子	jīn;rb guī;px zǐ;la	144
+金龜子	jīn;rb guī;px zǐ;la	76
 金海淑	jīn;rb hǎi;dm shū;dy	378
 金海心	jīn;rb hǎi;dm xīn;dd	44
+金海星	jīn;rb hǎi;dm xīng;ou	274
 金海英	jīn;rb hǎi;dm yīng;cy	189
 金澔辰	jīn;rb hào;dk chén;iy	222
+靳鶴嵐	jìn;ct hè;bn lán;uf	25
 金荷娜	jīn;rb hé;ck nà;ne	13
 金亨範	jīn;rb hēng;wl fàn;vv	230
 金亨俊	jīn;rb hēng;wl jùn;rw	6
 金鴻鳴	jīn;rb hóng;dn míng;kn	12
+錦戶亮	jǐn;jj hù;pu liàng;wj	22
+金花雨	jīn;rb huā;cb yǔ;ad	84
 金惠敏	jīn;rb huì;ix mǐn;pw	320
 金惠秀	jīn;rb huì;ix xiù;hn	35
 金惠允	jīn;rb huì;ix yǔn;se	9
@@ -4066,6 +4704,7 @@ sort: by_weight
 金惠子	jīn;rb huì;ix zǐ;la	396
 金基邦	jīn;rb jī;ct bāng;fe	292
 金濟東	jīn;rb jì;do dōng;ir	338
+金基石	jīn;rb jī;ct shí;ak	20
 金基秀	jīn;rb jī;ct xiù;hn	50
 金姬貞	jīn;rb jī;ni zhēn;bb	230
 金基正	jīn;rb jī;ct zhèng;av	90
@@ -4084,6 +4723,7 @@ sort: by_weight
 金敬道	jīn;rb jìng;cw dào;zz	82
 金暻娥	jīn;rb jǐng;ox é;nw	180
 金敬姬	jīn;rb jìng;cw jī;ni	342
+今井翼	jīn;rv jǐng;ac,el yì;xg	414
 金九拉	jīn;rb jiǔ;pv lā;fl	22
 金九熹	jīn;rb jiǔ;pv xī;th	12
 金俊鎬	jīn;rb jùn;rw gǎo;jk	117
@@ -4108,11 +4748,13 @@ sort: by_weight
 金立鵬	jīn;rb lì;wb péng;on	230
 金麗婷	jīn;rb lì;lb tíng;nd	16
 金厲旭	jīn;rb lì;id xù;jo	13
+金柳露	jīn;rb liǔ;ae lù;yk	405
 金璐瑩	jīn;rb lù;wk yíng;hy	12
 金路雲	jīn;rb lù;zk yún;yy	333
 金律喜	jīn;rb lǜ;ry xǐ;tk	202
 金美兒	jīn;rb měi;yd ér;je	238
 金美京	jīn;rb měi;yd jīng;wx	387
+金美里	jīn;rb měi;yd lǐ;tt	160
 金美倫	jīn;rb měi;yd lún;rc	225
 金玫玫	jīn;rb méi;ww méi;ww	202
 金美娜	jīn;rb měi;yd nà;ne	12
@@ -4121,6 +4763,8 @@ sort: by_weight
 金美辛	jīn;rb měi;yd xīn;lu	37
 金美英	jīn;rb měi;yd yīng;cy	171
 金美玉	jīn;rb měi;yd yù;wd	364
+金門王	jīn;rb mén;ll wáng;at	315
+靳夢佳	jìn;ct mèng;cx jiā;rt	35
 靳夢楠	jìn;ct mèng;cx nán;ag	12
 金米蘭	jīn;rb mǐ;ba lán;cj	279
 金民教	jīn;rb mín;vv jiào;lw	230
@@ -4155,6 +4799,7 @@ sort: by_weight
 金南優	jīn;rb nán;ug yōu;rw	12
 金南珠	jīn;rb nán;ug zhū;ww	6
 金沛晟	jīn;rb pèi;dj chéng;oi	252
+金叵羅	jīn;rb pǒ;kk luó;sv	328
 靳芊芊	jìn;ct qiān;cq qiān;cq	13
 金巧巧	jīn;rb qiǎo;gk qiǎo;gk	666
 金秦禹	jīn;rb qín;ih yǔ;pd	35
@@ -4166,9 +4811,23 @@ sort: by_weight
 金仁性	jīn;rb rén;re xìng;xu	99
 金日磾	jīn;rb rì;wa dī;uu	1735
 金榮澈	jīn;rb róng;ha chè;dw	225
+金容建	jīn;rb róng;bg jiàn;zy	288
+金容琳	jīn;rb róng;bg lín;wa	243
+金容仙	jīn;rb róng;bg xiān;ru	212
 金瑞亨	jīn;rb ruì;we hēng;wl	19
 金潤吉	jīn;rb rùn;dw jí;tk	88
 金賽綸	jīn;rb sài;bb lún;sc	16
+金瑟琪	jīn;rb sè;wb qí;wb	338
+金善浩	jīn;rb shàn;yk hào;dk	144
+金善映	jīn;rb shàn;yk yìng;oy	179
+金聖恩	jīn;rb shèng;ew ēn;yx	180
+金聖圭	jīn;rb shèng;ew guī;tt	19
+金聖權	jīn;rb shèng;ew quán;av	225
+金勝友	jīn;rb shèng;ol yǒu;uy	360
+金聖喆	jīn;rb shèng;ew zhé;tk	6
+金聖柱	jīn;rb shèng;ew zhù;av	41
+金聖洙	jīn;rb shèng;ew zhū;dw	37
+金世晃	jīn;rb shì;cv huǎng;og	50
 金世佳	jīn;rb shì;cv jiā;rt	35
 金士傑	jīn;rb shì;ua jié;ra	315
 金士哲	jīn;rb shì;ua zhé;fk	1
@@ -4181,10 +4840,12 @@ sort: by_weight
 金素妍	jīn;rb sù;fx yán;nk	6
 金所炫	jīn;rb suǒ;ht xuàn;hx	3522
 金泰梨	jīn;rb tài;iu lí;ha	16
+金泰里	jīn;rb tài;iu lǐ;tt	14
 金泰熙	jīn;rb tài;iu xī;ih	16
 金泰妍	jīn;rb tài;iu yán;nk	783
 金太妍	jīn;rb tài;dd yán;nk	57
 金泰宇	jīn;rb tài;iu yǔ;by	6
+近藤隆	jìn;zt téng;cu lóng;eu	513
 金鐵峯	jīn;rb tiě;jw fēng;uf	12
 金婷婷	jīn;rb tíng;nd tíng;nd	202
 金桐俊	jīn;rb tóng;ak jùn;rw	6
@@ -4221,6 +4882,7 @@ sort: by_weight
 金興賢	jīn;rb xīng;jb xián;ib	418
 金秀安	jīn;rb xiù;hn ān;bn	288
 金秀彬	jīn;rb xiù;hn bīn;ap	171
+金秀路	jīn;rb xiù;hn lù;zk	8
 金秀美	jīn;rb xiù;hn měi;yd	248
 金秀賢	jīn;rb xiù;hn xián;ib	148
 金秀妍	jīn;rb xiù;hn yán;nk	194
@@ -4284,8 +4946,10 @@ sort: by_weight
 金珍妮	jīn;rb zhēn;wp nī;nb	113
 金楨勳	jīn;rb zhēn;ab xūn;ql	450
 金振宇	jīn;rb zhèn;fi yǔ;by	342
+金珍珠	jīn;rb zhēn;wp zhū;ww	585
 金正賢	jīn;rb zhèng;av xián;ib	356
 金正勳	jīn;rb zhèng;av xūn;ql	346
+錦織博	jǐn;jj zhī;so bó;uc	396
 金智恩	jīn;rb zhì;uo ēn;yx	306
 金智敏	jīn;rb zhì;uo mǐn;pw	252
 金智珉	jīn;rb zhì;uo mín;wm	99
@@ -4319,39 +4983,72 @@ sort: by_weight
 金紫薇	jīn;rb zǐ;vx wēi;cj	302
 金子璇	jīn;rb zi;la xuán;wz	1
 井柏然	jǐng;ac,el bǎi;ab rán;xh	1134
+井川遙	jǐng;ac,el chuān;pl yáo;zf	9
+景黛音	jǐng;ox dài;rh yīn;lo	3
 井迪兒	jǐng;ac,el dí;zy ér;je	12
+荊冬倩	jīng;cd dōng;wd qiàn;ro	45
 景崗山	jǐng;ox gǎng;uu shān;kl	244
 敬漢卿	jìng;cw hàn;dt qīng;pg	537
 靖佩瑤	jìng;lo pèi;rj yáo;wf	12
+井浦新	jǐng;ac,el pǔ;df xīn;lt	374
 景如洋	jǐng;ox rú;nk yáng;dy	12
+井上剛	jǐng;ac,el shàng;ba gāng;kd	364
+京町子	jīng;wx tīng;td zǐ;la	13
 井星文	jǐng;ac,el xīng;ou wén;wx	22
 景研竣	jǐng;ox yán;uk jùn;lw	12
 敬一丹	jìng;cw yī;aa dān;kd	25
+鏡音連	jìng;je yīn;lo lián;zi	450
+久川綾	jiǔ;pn chuān;pl líng;sw	549
+久井映	jiǔ;pn jǐng;ac,el yìng;oy	414
 九條滿	jiǔ;pv tiáo;rm mǎn;dr	10
 鞠帛展	jū;cm bó;bj zhǎn;uy	12
+菊池心	jú;cm chí;dy xīn;dd	374
+具荷拉	jù;qb hé;ck lā;fl	544
 鞠紅川	jū;cm hóng;sg chuān;pl	82
+具惠善	jù;qb huì;ix shàn;yk	107
 鞠婧禕	jū;cm jìng;no yī;pf	568
+具俊曄	jù;qb jùn;rw yè;of	122
+橘梨紗	jú;ak lí;ha shā;su	3
+橘慶太	jú;ak qìng;gw tài;dd	306
+橘田泉	jú;ak tián;wu quán;bu	342
+具廷謨	jù;qb tíng;zw mó;yd	130
 居文沛	jū;ug wén;wx pèi;dj	306
 雎曉雯	jū;qv xiǎo;ow wén;yw	28
 巨興茂	jù;kk xīng;jb mào;cg	130
+鞠翼銘	jū;cm yì;xg míng;jk	110
+菊梓喬	jú;cm zǐ;ax qiáo;yk	513
+捲毛哥	juǎn;fv máo;pv gē;kk	153
+崛川亮	jué;ui chuān;pl liàng;wj	4
+卡奇社	kǎ;ub qí;dk shè;pt	19
 卡斯柏	kǎ;ub sī;ct bǎi;ab	22
 闞犇犇	kàn;mw bēn;nn bēn;nn	12
 闞立文	kàn;mw lì;wb wén;wx	306
 闞清子	kàn;mw qīng;do zǐ;la	60
 康愛石	kāng;gl ài;vw shí;ak	12
 康春雷	kāng;gl chūn;io léi;yt	12
+康殿宏	kāng;gl diàn;uu hóng;bs	432
 康恩赫	kāng;gl ēn;yx hè;ii	1
 康馥麟	kāng;gl fù;hw lín;gf	12
 康福震	kāng;gl fú;pt zhèn;yi	12
+康洪雷	kāng;gl hóng;dg léi;yt	35
 康家銘	kāng;gl jiā;bu míng;jk	12
 康界江	kāng;gl jiè;tj jiāng;dg	12
+康晉榮	kāng;gl jìn;ao róng;ha	324
 康可人	kāng;gl kě;dk rén;pn	18
 康琳浠	kāng;gl lín;wa xī;dj	116
 康銘桐	kāng;gl míng;jk tóng;ak	16
+康姆士	kāng;gl mǔ;nm shì;ua	44
+康納利	kāng;gl nà;sn lì;hd	333
+康納莉	kāng;gl nà;sn lì;cd	300
 康啓軒	kāng;gl qǐ;hk xuān;ig	12
 康逸琨	kāng;gl yì;zt kūn;wb	270
+康永哥	kāng;gl yǒng;du gē;kk	19
 康有為	kāng;gl yǒu;uo wéi;dh	1156
+康子妮	kāng;gl zǐ;la nī;nb	320
 柯昌宇	kē;ak chāng;oo yǔ;by	12
+柯佳嬿	kē;ak jiā;rt yàn;nh	482
+柯俊雄	kē;ak jùn;rw xióng;uv	13
+克蘭西	kè;ux,ge lán;cj xī;ak,wk	22
 柯乃予	kē;ak nǎi;pv,vp yǔ;sl	12
 孔二狗	kǒng;zv èr;aa gǒu;qj	113
 孔連順	kǒng;zv lián;zi shùn;iy	82
@@ -4399,13 +5096,19 @@ sort: by_weight
 郎祖筠	láng;le zǔ;pq yún;vy	418
 勞春燕	láo;hl chūn;io yàn;ch	256
 勞忠明	láo;hl zhōng;vx míng;oo	12
+雷碧娜	léi;yt bì;wu nà;ne	616
+雷碧文	léi;yt bì;wu wén;wx	657
+雷德福	léi;yt dé;rx fú;pt	53
+蕾哈娜	lěi;ct hā;kk nà;ne	449
 雷昊汶	léi;yt hào;ot wèn;dw	12
 雷佳音	léi;yt jiā;rt yīn;lo	4518
 雷金克	léi;yt jīn;rb kè;ux,ge	12
+雷凱欣	léi;yt kǎi;uj xīn;iq	266
 雷恪生	léi;yt kè;xk shēng;pf	2026
 雷諾兒	léi;yt nuò;yk ér;je	226
 雷淞然	léi;yt sōng;dg rán;xh	12
 雷雨心	léi;yt yǔ;ad xīn;dd	235
+雷宇揚	léi;yt yǔ;by yáng;fw	3
 雷增榮	léi;yt zēng;to róng;ha	18
 冷海銘	lěng;ds hǎi;dm míng;jk	12
 冷紀元	lěng;ds jì;sj yuán;aw	16
@@ -4544,6 +5247,7 @@ sort: by_weight
 李俊毅	lǐ;az jùn;rw yì;lu	212
 李凱爾	lǐ;az kǎi;uj ěr;ab	122
 李凱詩	lǐ;az kǎi;uj shī;yc	3
+里克曼	lǐ;tt kè;ux,ge màn;oy	38
 李克勤	lǐ;az kè;ux,ge qín;cl	521
 李珂如	lǐ;az kē;wk rú;nk	26
 李克偉	lǐ;az kè;ux,ge wěi;rf	18
@@ -4622,6 +5326,8 @@ sort: by_weight
 李詩灃	lǐ;az shī;yc fēng;db	3
 黎仕海	lí;hu shì;rt hǎi;dm	234
 李是僥	lǐ;az shì;oz jiǎo;rw	12
+立石諒	lì;wb shí;ak liàng;yx	189
+立石凜	lì;wb shí;ak lǐn;dh	171
 李世龍	lǐ;az shì;cv lóng;lv	535
 李世鵬	lǐ;az shì;cv péng;on	422
 李詩穎	lǐ;az shī;yc yǐng;bh	30
@@ -4654,6 +5360,7 @@ sort: by_weight
 李唯賀	lǐ;az wéi;kv hè;lb	12
 李維嘉	lǐ;az wéi;sv jiā;tk	100
 李偉建	lǐ;az wěi;rf jiàn;zy	730
+立威廉	lì;wb wēi;gn lián;gj	9
 李瑋珽	lǐ;az wěi;wf tǐng;ww	12
 李汶翰	lǐ;az wèn;dw hàn;ux	735
 李文華	lǐ;az wén;wx huá;cf	78
@@ -4793,6 +5500,7 @@ sort: by_weight
 李智楠	lǐ;az zhì;uo nán;ag	1022
 黎芷珊	lí;hu zhǐ;cv shān;wc	365
 李治廷	lǐ;az zhì;dk tíng;zw	63
+笠智眾	lì;vl zhì;uo zhòng;sr	436
 李忠林	lǐ;az zhōng;vx lín;aa	16
 李鍾碩	lǐ;az zhōng;jv shuò;uy	868
 李中煜	lǐ;az zhōng;kl yù;hl	12
@@ -4811,57 +5519,77 @@ sort: by_weight
 李宗盛	lǐ;az zōng;bu shèng;im	7665
 李左車	lǐ;az zuǒ;ug chē;iu	912
 連淮偉	lián;zi huái;dv wěi;rf	15
+廉晶雅	lián;gj jīng;oo yǎ;yv	6
 練俊傑	liàn;sj jùn;rw jié;ra	230
+連麗如	lián;zi lì;lb rú;nk	3
+連詩雅	lián;zi shī;yc yǎ;yv	3
 練束梅	liàn;sj shù;gr méi;am	537
 連奕名	lián;zi yì;wd míng;xk	396
 梁愛琳	liáng;da ài;vw lín;wa	12
 梁愛琪	liáng;da ài;vw qí;wb	18
 梁寶羚	liáng;da bǎo;bb líng;ys	22
 梁波羅	liáng;da bō;dp luó;sv	18
+梁朝偉	liáng;da cháo;uo wěi;rf	4308
 梁翠珊	liáng;da cuì;xu shān;wc	12
 梁大維	liáng;da dà;ar wéi;sv	1115
 梁達偉	liáng;da dá;zy wěi;rf	22
 梁丹妮	liáng;da dān;kd nī;nb	1712
 梁棟江	liáng;da dòng;ad jiāng;dg	12
 梁冠華	liáng;da guān;bc huá;cf	918
+梁漢文	liáng;da hàn;dt wén;wx	132
+梁赫群	liáng;da hè;ii qún;yy	6
 梁宏達	liáng;da hóng;bs dá;zy	585
 梁慧雯	liáng;da huì;fx wén;yw	12
+梁家輝	liáng;da jiā;bu huī;gi	986
 梁家榕	liáng;da jiā;bu róng;ag	1
 梁佳偉	liáng;da jiā;rt wěi;rf	12
 梁佳玉	liáng;da jiā;rt yù;wd	130
 梁靖崑	liáng;da jìng;lo kūn;ub	1126
+梁靜茹	liáng;da jìng;fy rú;ck	4069
 梁婧嫺	liáng;da jìng;no xián;no	316
 梁林琳	liáng;da lín;aa lín;wa	15
+梁洛施	liáng;da luò;dk shī;fy	28
+梁敏儀	liáng;da mǐn;pw yí;rw	346
 梁丘賀	liáng;da qiū;ia hè;lb	112
 梁汝明	liáng;da rǔ;dn míng;oo	12
+梁銳基	liáng;da ruì;jx jī;ct	230
+梁少霞	liáng;da shǎo;xp xiá;yy	634
 梁霆煒	liáng;da tíng;yw wěi;hf	216
 梁婉琳	liáng;da wǎn;nv lín;wa	15
+梁偉德	liáng;da wěi;rf dé;rx	648
 梁偉鏗	liáng;da wěi;rf kēng;jt	12
 梁偉平	liáng;da wěi;rf píng;au	116
 梁文博	liáng;da wén;wx bó;uc	41
 梁文峰	liáng;da wén;wx fēng;uf	130
+梁文音	liáng;da wén;wx yīn;lo	28
 梁小靜	liáng;da xiǎo;lb jìng;fy	9
 梁醒波	liáng;da xǐng;yu bō;dp	16
 梁雪峰	liáng;da xuě;ye fēng;uf	33
 梁雪芹	liáng;da xuě;ye qín;ct	12
 梁雁翎	liáng;da yàn;iv líng;rx	330
+梁耀燮	liáng;da yào;gv xiè;hy	47
 梁譯木	liáng;da yì;yg mù;ur	12
 梁藝馨	liáng;da yì;cy xīn;to	15
 良音薺	liáng;dg yīn;lo jì;co	10
+梁詠琪	liáng;da yǒng;yy qí;wb	135
 梁振倫	liáng;da zhèn;fi lún;rc	118
 梁志港	liáng;da zhì;tx gǎng;ds	12
 梁紫丹	liáng;da zǐ;vx dān;kd	15
 梁子媛	liáng;da zi;la yuàn;ny	12
 廖百威	liào;gp bǎi;ab wēi;gn	15
+廖碧兒	liào;gp bì;wu ér;je	6
 廖昌永	liào;gp chāng;oo yǒng;du	166
 廖崇儒	liào;gp chóng;uu rú;re	12
 廖鴻飛	liào;gp hóng;dn fēi;fc	15
 廖勁鋒	liào;gp jìn;jl fēng;jf	12
 廖京生	liào;gp jīng;wx shēng;pf	130
 廖景萱	liào;gp jǐng;ox xuān;cd	35
+廖麗麗	liào;gp lì;lb lì;lb	436
 廖力生	liào;gp lì;vp shēng;pf	38
 廖夢妍	liào;gp mèng;cx yán;nk	12
+廖啟智	liào;gp qǐ;hw zhì;uo	82
 廖偉力	liào;gp wěi;rf lì;vp	12
+廖俠懷	liào;gp xiá;rr huái;xx	270
 廖效濃	liào;gp xiào;ww nóng;di	22
 廖曉琴	liào;gp xiǎo;ow qín;wv	235
 廖學秋	liào;gp xué;jz qiū;hh	18
@@ -4979,9 +5707,15 @@ sort: by_weight
 林子善	lín;aa zi;la shàn;yk	405
 林子祥	lín;aa zi;la xiáng;py	295
 林子燁	lín;aa zi;la yè;hf	12
+凌加峻	líng;dw jiā;lk jùn;uw	220
 綾見光	líng;sw jiàn;oe guāng;xe	12
 綾瀨心	líng;sw lài;db xīn;dd	10
+綾瀨遙	líng;sw lài;db yáo;zf	107
+鈴木福	líng;js mù;ur fú;pt	414
+鈴木仁	líng;js mù;ur rén;re	356
+鈴木杏	líng;js mù;ur xìng;ak	16
 凌瀟肅	líng;dw xiāo;da sù;ya	82
+綾野剛	líng;sw yě;ly gāng;kd	22
 鈴音鈴	líng;js yīn;lo líng;js	10
 凌振赫	líng;dw zhèn;fi hè;ii	15
 凌子風	líng;dw zǐ;la fēng;ji	13
@@ -5282,14 +6016,20 @@ sort: by_weight
 劉子璇	liú;pd zǐ;la xuán;wz	35
 劉梓亦	liú;pd zǐ;ax yì;wb	12
 龍道一	lóng;lv dào;zz yī;aa	26
+龍俊亨	lóng;lv jùn;rw hēng;wl	144
 龍梅子	lóng;lv méi;am zi;la	382
 龍夢柔	lóng;lv mèng;cx róu;ma	15
 龍沐春	lóng;lv mù;da chūn;io	12
+龍飄飄	lóng;lv piāo;xf piāo;xf	3
 龍千玉	lóng;lv qiān;pu yù;wd	15
 龍清泉	lóng;lv qīng;do quán;bu	214
+龍劭華	lóng;lv shào;dl huá;cf	446
 龍水婷	lóng;lv shuǐ;ln tíng;nd	12
+龍顯蕙	lóng;lv xiǎn;oy huì;cx	616
+龍小菌	lóng;lv xiǎo;lb jūn;ch	454
 龍曉清	lóng;lv xiǎo;ow qīng;do	4
 龍馨悅	lóng;lv xīn;to yuè;xx	37
+龍星涼	lóng;lv xīng;ou liáng;dx	6
 龍楊楊	lóng;lv yáng;aw yáng;aw	12
 龍一一	lóng;lv yī;aa yī;aa	535
 龍一儀	lóng;lv yī;aa yí;rw	230
@@ -5311,29 +6051,49 @@ sort: by_weight
 陸定昊	lù;et dìng;bz hào;ot	22
 蘆芳生	lú;cm fāng;cf shēng;pf	382
 盧庚戌	lú;hm gēng;gr xū;ga	301
+盧冠廷	lú;hm guān;bc tíng;zw	75
+盧廣仲	lú;hm guǎng;gb zhòng;rv	100
 盧國沾	lú;hm guó;wa zhān;dv	415
 盧海鵬	lú;hm hǎi;dm péng;on	3
+盧弘喆	lú;hm hóng;gs zhé;tk	423
 魯桓公	lǔ;yo huán;ad gōng;bs	1515
 盧奐瑜	lú;hm huàn;dd yú;wd	12
+盧惠光	lú;hm huì;ix guāng;xe	94
 陸紀依	lù;et jì;sj yī;ry	12
 魯佳妮	lǔ;yo jiā;rt nī;nb	12
+路嘉欣	lù;zk jiā;tk xīn;iq	364
 陸劍民	lù;et jiàn;rd mín;vv	12
 盧潔雲	lú;hm jié;dx yún;yy	16
+盧靖姍	lú;hm jìng;lo shān;nc	41
+盧凱彤	lú;hm kǎi;uj tóng;dp	75
 陸柯燃	lù;et kē;ak rán;hh	141
 盧力峯	lú;hm lì;vp fēng;uf	15
 陸梅芳	lù;et méi;am fāng;cf	12
 盧夢琳	lú;hm mèng;cx lín;wa	12
+盧覓雪	lú;hm mì;vj xuě;ye	382
 盧勉達	lú;hm miǎn;dl dá;zy	12
+盧敏儀	lú;hm mǐn;pw yí;rw	342
 陸明君	lù;et míng;oo jūn;yk	364
+蘆名星	lú;cm míng;xk xīng;ou	369
 陸琦蔚	lù;et qí;wk wèi;cc	326
+盧巧音	lú;hm qiǎo;gk yīn;lo	97
+盧慶輝	lú;hm qìng;gw huī;gi	342
 盧秋宏	lú;hm qiū;hh hóng;bs	12
 盧秋萍	lú;hm qiū;hh píng;cp	33
+盧士燕	lú;hm shì;ua yàn;ch	248
 陸詩雨	lù;et shī;yc yǔ;ad	326
 陸樹銘	lù;et shù;ac míng;jk	44
+盧淑儀	lú;hm shū;dy yí;rw	387
 陸思恆	lù;et sī;tx héng;xh	25
+路斯明	lù;zk sī;ct míng;oo	342
 陸思宇	lù;et sī;tx yǔ;by	18
+盧頌恩	lú;hm sòng;gy ēn;yx	234
+盧素娟	lú;hm sù;fx juān;no	490
+盧太鉉	lú;hm tài;dd xuàn;jx	274
 盧天惠	lú;hm tiān;ad huì;ix	12
 陸廷威	lù;et tíng;zw wēi;gn	248
+盧宛茵	lú;hm wǎn;bv yīn;cy	418
+鹿希派	lù;gb xī;xj pài;dy	315
 陸錫麒	lù;et xī;jw qí;gb	12
 魯向卉	lǔ;yo xiàng;pk huì;uc	15
 陸小芬	lù;et xiǎo;lb fēn;cf	382
@@ -5341,6 +6101,7 @@ sort: by_weight
 蘆馨怡	lú;cm xīn;to yí;xk	12
 陸星材	lù;et xīng;ou cái;ac	414
 盧星宇	lú;hm xīng;ou yǔ;by	356
+盧學叡	lú;hm xué;jz ruì;by	364
 陸妍淇	lù;et yán;nk qí;db	1433
 盧洋洋	lú;hm yáng;dy yáng;dy	12
 陸弈靜	lù;et yì;wc jìng;fy	3
@@ -5349,9 +6110,11 @@ sort: by_weight
 陸昱霖	lù;et yù;ol lín;ya	266
 盧譽文	lú;hm yù;jk wén;wx	12
 盧昱曉	lú;hm yù;ol xiǎo;ow	12
+露雲娜	lù;yk yún;yy nà;ne	459
 蘆展翔	lú;cm zhǎn;uy xiáng;yx	15
 魯照華	lǔ;yo zhào;oh huá;cf	15
 盧正雨	lú;hm zhèng;av yǔ;ad	44
+路知行	lù;zk zhī;uk xíng;rd	116
 魯仲連	lǔ;yo zhòng;rv lián;zi	626
 盧卓婕	lú;hm zhuó;bu jié;nz	12
 陸子藝	lù;et zǐ;la yì;cy	202
@@ -5361,6 +6124,8 @@ sort: by_weight
 欒元暉	luán;xa yuán;aw huī;oi	15
 欒雲平	luán;xa yún;yy píng;au	185
 倫永亮	lún;rc yǒng;du liàng;wj	69
+駱達華	luò;mk dá;zy huá;cf	6
+羅大佑	luó;sv dà;ar yòu;rk	5988
 羅大佑	luó;sv dà;ar yòu;rk	4790
 羅殿夏	luó;sv diàn;uu xià;bw	12
 駱非池	luò;mk fēi;ls chí;dy	16
@@ -5383,6 +6148,7 @@ sort: by_weight
 羅秋韻	luó;sv qiū;hh yùn;lb	422
 羅詩芳	luó;sv shī;yc fāng;cf	12
 羅時豐	luó;sv shí;oc fēng;ub	367
+洛天依	luò;dk tiān;ad yī;ry	568
 洛天羽	luò;dk tiān;ad yǔ;xx	12
 駱文博	luò;mk wén;wx bó;uc	122
 羅湘晉	luó;sv xiāng;do jìn;ao	15
@@ -5396,21 +6162,25 @@ sort: by_weight
 羅憶楠	luó;sv yì;xx nán;ag	112
 羅逸橋	luó;sv yì;zt qiáo;ak	12
 羅怡恬	luó;sv yí;xk tián;xu	12
+駱應鈞	luò;mk yīng;gx jūn;jy	486
 羅永娟	luó;sv yǒng;du juān;no	12
 羅悠月	luó;sv yōu;rx yuè;ke	18
 羅玉鳳	luó;sv yù;wd fèng;jn	4226
 羅昱焜	luó;sv yù;ol kūn;hb	33
+駱玉笙	luò;mk yù;wd shēng;vu	37
 羅玉婷	luó;sv yù;wd tíng;nd	112
 羅予彤	luó;sv yǔ;sl tóng;dp	1
 羅雲琦	luó;sv yún;yy qí;wk	12
 羅雲熙	luó;sv yún;yy xī;ih	380
 羅震環	luó;sv zhèn;yi huán;wy	15
+駱振偉	luò;mk zhèn;fi wěi;rf	405
 羅振宇	luó;sv zhèn;fi yǔ;by	1545
 羅志祥	luó;sv zhì;tx xiáng;py	831
 羅中凱	luó;sv zhōng;kl kǎi;uj	12
 羅仲謙	luó;sv zhòng;rv qiān;yj	7
 羅卓瑤	luó;sv zhuó;bu yáo;wf	284
 羅子惠	luó;sv zǐ;la huì;ix	12
+綠川光	lǜ;su chuān;pl guāng;xe	634
 閭漢彪	lǘ;mk hàn;dt biāo;hp	15
 呂繼宏	lǚ;kk jì;sy hóng;bs	326
 呂佳容	lǚ;kk jiā;rt róng;bg	1115
@@ -5442,10 +6212,12 @@ sort: by_weight
 馬保國	mǎ;mh bǎo;ra guó;wa	678
 馬冰玉	mǎ;mh bīng;du yù;wd	115
 馬燦燦	mǎ;mh càn;hm càn;hm	118
+麻倉桃	má;ga cāng;rk táo;av	6
 麻倉優	má;ga cāng;rk yōu;rw	10
 馬程程	mǎ;mh chéng;hw chéng;hw	16
 馬翠霞	mǎ;mh cuì;xu xiá;yy	15
 馬大明	mǎ;mh dà;ar míng;oo	16
+瑪丹娜	mǎ;wm dān;kd nà;ne	22
 馬德華	mǎ;mh dé;rx huá;cf	930
 馬德祿	mǎ;mh dé;rx lù;pu	118
 馬德鐘	mǎ;mh dé;rx zhōng;jl	16
@@ -5493,6 +6265,7 @@ sort: by_weight
 馬瑞澤	mǎ;mh ruì;we zé;dg	12
 馬三立	mǎ;mh sān;ae lì;wb	703
 馬少驊	mǎ;mh shǎo;xp huá;mf	930
+麻生希	má;ga shēng;pf xī;xj	9
 馬詩慧	mǎ;mh shī;yc huì;fx	248
 馬蜀君	mǎ;mh shǔ;si jūn;yk	16
 馬書良	mǎ;mh shū;yo liáng;dg	18
@@ -5534,23 +6307,51 @@ sort: by_weight
 馬智宇	mǎ;mh zhì;uo yǔ;by	12
 馬子洛	mǎ;mh zi;la luò;dk	222
 麥寶嬋	mài;lw bǎo;bb chán;nu	130
+買寶瑤	mǎi;sb bǎo;bb yáo;wf	50
+麥炳榮	mài;lw bǐng;hn róng;ha	387
+麥長青	mài;lw cháng;ey qīng;fo	16
+麥翠嫻	mài;lw cuì;xu xián;na	374
+麥當娜	mài;lw dāng;xt nà;ne	2308
 麥迪娜	mài;lw dí;zy nà;ne	116
 買紅妹	mǎi;sb hóng;sg mèi;nw	612
+麥嘉倫	mài;lw jiā;tk lún;rc	382
+麥家琪	mài;lw jiā;bu qí;wb	374
+麥家瑜	mài;lw jiā;bu yú;wd	468
+麥潔文	mài;lw jié;dx wén;wx	6
+麥景婷	mài;lw jǐng;ox tíng;nd	342
+麥浚龍	mài;lw jùn;dw lóng;lv	455
+麥卡尼	mài;lw kǎ;ub ní;ub	639
+麥康納	mài;lw kāng;gl nà;sn	349
+麥考利	mài;lw kǎo;lk lì;hd	85
+麥美恩	mài;lw měi;yd ēn;yx	468
+麥明詩	mài;lw míng;oo shī;yc	513
+麥秋成	mài;lw qiū;hh chéng;gv	306
+麥仁傑	mài;lw rén;re jié;ra	261
 麥小兜	mài;lw xiǎo;lb dōu;pe	6
+麥芷誼	mài;lw zhǐ;cv yì;yq	194
+麥子傑	mài;lw zi;la jié;ra	310
+麥子善	mài;lw zi;la shàn;yk	279
+滿島光	mǎn;dr dǎo;nu guāng;xe	9
 滿舒克	mǎn;dr shū;ry kè;ux,ge	38
+滿文軍	mǎn;dr wén;wx jūn;bi	47
 毛阿敏	máo;pv ā;ek mǐn;pw	986
 毛愛蓮	máo;pv ài;vw lián;ci	12
 毛不易	máo;pv bú;ab yì;ow	3310
+毛方圓	máo;pv fāng;wv yuán;wb	328
+毛孩兒	máo;pv hái;zr er;je	9
 毛華鋒	máo;pv huá;cf fēng;jf	16
 毛劍卿	máo;pv jiàn;rd qīng;pg	116
 毛俊傑	máo;pv jùn;rw jié;ra	446
+毛林林	máo;pv lín;aa lín;aa	504
 貓妹妹	māo;vt mèi;nw mei;nw	382
 毛猛達	máo;pv měng;qm dá;zy	37
+茂木忍	mào;cg mù;ur rěn;dx	378
 貓七七	māo;vt qī;av qī;av	15
 毛祁生	máo;pv qí;pe shēng;pf	12
 卯秋民	mǎo;pe qiū;hh mín;vv	15
 毛若懿	máo;pv ruò;ck yì;tx	16
 茅善玉	máo;cm shàn;yk yù;wd	3
+毛舜筠	máo;pv shùn;vf yún;vy	35
 毛唯嘉	máo;pv wéi;kv jiā;tk	12
 茅威濤	máo;cm wēi;gn tāo;dc	28
 毛文超	máo;pv wén;wx chāo;tk	31
@@ -5559,8 +6360,12 @@ sort: by_weight
 毛衍七	máo;pv yǎn;rd qī;av	16
 毛澤少	máo;pv zé;dg shǎo;xp	512
 茅子俊	máo;cm zǐ;la jùn;rw	590
+梅愛芳	méi;am ài;vw fāng;cf	328
 梅葆玥	méi;am bǎo;ca yuè;wo	220
 美波桃	měi;yd bō;dp táo;av	10
+梅菲絲	méi;am fēi;cf sī;sx	25
+梅佳代	méi;am jiā;rt dài;rg	243
+梅麗爾	méi;am lì;lb ěr;ab	220
 梅儷兒	méi;am lì;rb ér;je	1
 梅莉那	méi;am lì;cd nà;ve	1
 梅凌甄	méi;am líng;dw zhēn;xw	12
@@ -5568,14 +6373,19 @@ sort: by_weight
 梅尼耶	méi;am ní;ub yé;ee	320
 梅年佳	méi;am nián;pf jiā;rt	12
 美神葵	měi;yd shén;pu kuí;ct	10
+梅小惠	méi;am xiǎo;lb huì;ix	6
+梅艷芳	méi;am yàn;ub fāng;cf	1548
+梅澤淳	méi;am zé;dg chún;dz	284
 美竹鈴	měi;yd zhú;gg líng;js	10
 門東毅	mén;ll dōng;ir yì;lu	12
+門文峰	mén;ll wén;wx fēng;uf	252
 孟阿賽	mèng;zm ā;ek sài;bb	18
 孟凡貴	mèng;zm fán;jd guì;vb	6
 孟耿如	mèng;zm gěng;eh rú;nk	432
 孟廣美	mèng;zm guǎng;gb měi;yd	9
 孟鶴堂	mèng;zm hè;bn táng;xt	402
 孟慧圓	mèng;zm huì;fx yuán;wb	31
+蒙嘉慧	méng;cu jiā;tk huì;fx	38
 夢見露	mèng;cx jiàn;oe lù;yk	10
 孟京輝	mèng;zm jīng;wx huī;gi	458
 孟克柔	mèng;zm kè;ux,ge róu;ma	57
@@ -5594,35 +6404,61 @@ sort: by_weight
 孟子坤	mèng;zm zǐ;la kūn;tu	207
 孟子葉	mèng;zm zǐ;la yè;ca	12
 孟子義	mèng;zm zǐ;la yì;yw	69
+米可白	mǐ;ba kě;dk bái;po	351
+米巧銘	mǐ;ba qiǎo;gk míng;jk	364
 米鐵增	mǐ;ba tiě;jw zēng;to	22
+米西亞	mǐ;ba xī;ak,wk yà;aa	562
+米希亞	mǐ;ba xī;xj yà;aa	467
 米學東	mǐ;ba xué;jz dōng;ir	243
 麵筋哥	miàn;lm jīn;vl gē;kk	279
 繆海梅	miào;sp hǎi;dm méi;am	30
 苗海忠	miáo;ct hǎi;dm zhōng;vx	279
+繆浩昌	miào;sp hào;dk chāng;oo	225
 苗皓鈞	miáo;ct hào;bk jūn;jy	220
 苗浩生	miáo;ct hào;dk shēng;pf	12
+苗金鳳	miáo;ct jīn;rb fèng;jn	536
 繆俊傑	miào;sp jùn;rw jié;ra	16
+苗可麗	miáo;ct kě;dk lì;lb	454
+苗可秀	miáo;ct kě;dk xiù;hn	495
 苗僑偉	miáo;ct qiáo;rk wěi;rf	69
 苗夕倫	miáo;ct xī;pd lún;rc	12
 苗雅寧	miáo;ct yǎ;yv níng;bd	12
 苗乙乙	miáo;ct yǐ;vv yǐ;vv	3
+苗韻桐	miáo;ct yùn;lb tóng;ak	180
 閔春曉	mǐn;mw chūn;io xiǎo;ow	163
+閔庚勳	mǐn;mw gēng;gr xūn;ql	288
 閔惠芬	mǐn;mw huì;ix fēn;cf	25
 閔天浩	mǐn;mw tiān;ad hào;dk	235
+閔孝琳	mǐn;mw xiào;lz lín;wa	31
+名井南	míng;xk jǐng;ac,el nán;ug	6
 明俊臣	míng;oo jùn;rw chén;kl	12
 明裏紬	míng;oo lǐ;yl chōu;sy	10
+明世彬	míng;oo shì;cv bīn;ap	310
 莫安琪	mò;cd ān;bn qí;wb	9
 末廣純	mò;aa,er guǎng;gb chún;st	10
+莫華倫	mò;cd huá;cf lún;rc	490
 莫慧蘭	mò;cd huì;fx lán;cj	405
+莫可欣	mò;cd kě;dk xīn;iq	464
+魔力紅	mó;gg lì;vp hóng;sg	608
 莫龍丹	mò;cd lóng;lv dān;kd	333
+莫瑞茲	mò;cd ruì;we zī;cy	19
+莫少聰	mò;cd shǎo;xp cōng;ex	44
 莫詩旎	mò;cd shī;yc nǐ;fb	15
 莫萬丹	mò;cd wàn;cd dān;kd	135
+莫文蔚	mò;cd wén;wx wèi;cc	1124
+莫小棋	mò;cd xiǎo;lb qí;ab	3
 莫小奇	mò;cd xiǎo;lb qí;dk	2
 莫艷琳	mò;cd yàn;ub lín;wa	16
 莫有雪	mò;cd yǒu;uo xuě;ye	423
+莫子儀	mò;cd zǐ;la yí;rw	405
 牟鳳彬	móu;sn fèng;jn bīn;ap	315
 牟凱凱	móu;sn kǎi;uj kǎi;uj	15
 牟湘盈	móu;sn xiāng;do yíng;nm	12
+牟玄甫	móu;sn xuán;wy fǔ;uy	180
+木村弓	mù;ur cūn;ac gōng;vv	320
+木村昴	mù;ur cūn;ac mǎo;oe	459
+木幡龍	mù;ur fān;jt lóng;lv	220
+暮光女	mù;co guāng;xe nǚ;va	500
 目黑惠	mù;we hēi;lh huì;ix	10
 穆樂恩	mù;hp lè;ya ēn;yx	15
 穆里略	mù;hp lǐ;tt lüè;tk	513
@@ -5631,25 +6467,55 @@ sort: by_weight
 穆婷婷	mù;hp tíng;nd tíng;nd	436
 穆熙妍	mù;hp xī;ih yán;nk	410
 慕曉博	mù;cx xiǎo;ow bó;uc	30
+慕鈺華	mù;cx yù;jy huá;cf	186
 木子洋	mù;ur zǐ;la yáng;dy	207
 娜菲莎	nà;ne fēi;cf shā;cu	15
 娜吉瑪	nà;ne jí;tk mǎ;wm	15
 那家威	nā;ve jiā;bu wēi;gn	12
 娜仁花	nà;ne rén;re huā;cb	3
+奶大力	nǎi;nn dà;ar lì;vp	19
+奈良徹	nài;du liáng;dg chè;ro	410
+奈特利	nài;du tè;nc lì;hd	365
+南寶拉	nán;ug bǎo;bb lā;fl	284
+南波杏	nán;ug bō;dp xìng;ak	320
+楠大典	nán;ag dà;ar diǎn;qb,cb	490
 南伏龍	nán;ug fú;rq lóng;lv	35
+南宮珉	nán;ug gōng;bk mín;wm	2
+楠木燈	nán;ag mù;ur dēng;hb	464
+南太鉉	nán;ug tài;dd xuàn;jx	25
+南賢俊	nán;ug xián;ib jùn;rw	19
+南相美	nán;ug xiāng;ao měi;yd	320
+南央美	nán;ug yāng;kr měi;yd	436
+南優賢	nán;ug yōu;rw xián;ib	16
+南志鉉	nán;ug zhì;tx xuàn;jx	9
+南柱赫	nán;ug zhù;av hè;ii	494
+內藤玲	nèi;kr téng;cu líng;ws	324
+內田彩	nèi;kr tián;wu cǎi;vp	536
+倪安東	ní;re ān;bn dōng;ir	428
+倪秉郎	ní;re bǐng;qr láng;le	356
 倪晨曦	ní;re chén;oi xī;ok	297
 倪大紅	ní;re dà;ar hóng;sg	204
+倪大宏	ní;re dà;ar hóng;bs	184
 倪海杉	ní;re hǎi;dm shān;ap	12
 倪虹潔	ní;re hóng;ig jié;dx	204
+倪景陽	ní;re jǐng;ox yáng;ew	432
 尼克阿	ní;ub kè;ux,ge ā;ek	35
 倪珂欣	ní;re kē;wk xīn;iq	2
+倪敏然	ní;re mǐn;pw rán;xh	3
 倪慕斯	ní;re mù;cx sī;ct	12
+倪齊民	ní;re qí;wo mín;vv	328
 倪睿思	ní;re ruì;bo sī;tx	400
+你沈騰	nǐ;rx shěn;de téng;om	346
+倪詩蓓	ní;re shī;yc bèi;ck	399
+倪淑君	ní;re shū;dy jūn;yk	266
 倪雅豐	ní;re yǎ;yv fēng;ub	194
+倪雅倫	ní;re yǎ;yv lún;rc	243
 倪以臨	ní;re yǐ;lr lín;ik	12
+倪子岡	ní;re zǐ;la gāng;ku	194
 念賢兒	niàn;rx xián;ib ér;je	130
 聶曦映	niè;ee xī;ok yìng;oy	12
 聶子皓	niè;ee zǐ;la hào;bk	15
+寧丹琳	níng;bd dān;kd lín;wa	428
 寧海強	níng;bd hǎi;dm qiáng;gi	590
 寧浩然	níng;bd hào;dk rán;xh	22
 寧桓宇	níng;bd huán;ad yǔ;by	41
@@ -5659,10 +6525,14 @@ sort: by_weight
 寧雲祥	níng;bd yún;yy xiáng;py	130
 寧澤濤	níng;bd zé;dg tāo;dc	559
 牛寶軍	niú;pu bǎo;bb jūn;bi	15
+鈕承澤	niǔ;ji chéng;ln zé;dg	38
+牛得草	niú;pu dé;rc cǎo;cu	324
 牛廣盛	niú;pu guǎng;gb shèng;im	12
+牛桂英	niú;pu guì;at yīng;cy	180
 牛建榮	niú;pu jiàn;zy róng;ha	16
 牛駿峰	niú;pu jùn;mw fēng;uf	436
 牛麗燕	niú;pu lì;lb yàn;ch	35
+牛萌萌	niú;pu méng;co méng;co	13
 牛青峰	niú;pu qīng;fo fēng;uf	18
 牛欣欣	niú;pu xīn;iq xīn;iq	238
 牛玉坤	niú;pu yù;wd kūn;tu	37
@@ -5670,22 +6540,34 @@ sort: by_weight
 牛子藩	niú;pu zi;la fān;ct	26
 糯美子	nuò;me měi;yd zǐ;la	12
 區楚良	ōu;kk chǔ;az liáng;dg	558
+歐得洋	ōu;kq dé;rc yáng;dy	9
 歐丁丁	ōu;kq dīng;al dīng;al	12
+歐漢聲	ōu;kq hàn;dt shēng;te	6
+歐嘉慧	ōu;kq jiā;tk huì;fx	256
+歐錦棠	ōu;kq jǐn;jj táng;xa	490
 區俊炫	ōu;kk jùn;rw xuàn;hx	243
+歐凱明	ōu;kq kǎi;uj míng;oo	180
 歐米德	ōu;kq mǐ;ba dé;rx	22
 區諾軒	ōu;kk nuò;yk xuān;ig	558
 歐倩如	ōu;kq qiàn;ro rú;nk	12
+歐倩怡	ōu;kq qiàn;ro yí;xk	387
 區瑞華	ōu;kk ruì;we huá;cf	432
 區瑞強	ōu;kk ruì;we qiáng;gi	508
+歐瑞偉	ōu;kq ruì;we wěi;rf	3
 歐陽佳	ōu;kq yáng;ew jiā;rt	96
+歐陽靖	ōu;kq yáng;ew jìng;lo	113
+歐陽龍	ōu;kq yáng;ew lóng;lv	432
 歐鈺珊	ōu;kq yù;jy shān;wc	3
+帕丁森	pà;jb dīng;al sēn;aa	279
 派克特	pài;dy kè;ux,ge tè;nc	414
+派偉俊	pài;dy wěi;rf jùn;rw	392
 潘安邦	pān;dt ān;bn bāng;fe	19
 潘斌龍	pān;dt bīn;wv lóng;lv	490
 潘冰嫦	pān;dt bīng;du cháng;nj	324
 潘燦良	pān;dt càn;hm liáng;dg	392
 潘長江	pān;dt cháng;ey jiāng;dg	264
 潘春春	pān;dt chūn;io chūn;io	315
+盤翠瑩	pán;vm cuì;xu yíng;hy	310
 潘大勇	pān;dt dà;ar yǒng;sl	15
 潘迪華	pān;dt dí;zy huá;cf	35
 潘芳芳	pān;dt fāng;cf fāng;cf	400
@@ -5744,12 +6626,15 @@ sort: by_weight
 潘子劍	pān;dt zǐ;la jiàn;rd	16
 潘宗明	pān;dt zōng;bu míng;oo	342
 龐瀚辰	páng;gl hàn;dx chén;iy	234
+龐麥郎	páng;gl mài;lw láng;le	832
+龐祥麟	páng;gl xiáng;py lín;gf	279
 龐欣然	páng;gl xīn;iq rán;xh	16
 龐雪倩	páng;gl xuě;ye qiàn;ro	12
 泡芙喵	pào;db fú;cf miāo;kt	12
 裴淳華	péi;fy chún;dz huá;cf	50
 裴斗娜	péi;fy dòu;ud nà;ne	53
 裴魁山	péi;fy kuí;gd shān;kl	621
+佩麗冉	pèi;rj lì;lb rǎn;kt	270
 裴立言	péi;fy lì;wb yán;wk	15
 裴瑟琪	péi;fy sè;wb qí;wb	464
 裴澀琪	péi;fy sè;dv qí;wb	213
@@ -5768,9 +6653,18 @@ sort: by_weight
 彭傳明	péng;tp chuán;rc míng;oo	215
 彭豆豆	péng;tp dòu;ab dòu;ab	15
 彭冠英	péng;tp guān;bc yīng;cy	459
+彭皓鋒	péng;tp hào;bk fēng;jf	306
+彭浩翔	péng;tp hào;dk xiáng;yx	232
+彭佳慧	péng;tp jiā;rt huì;fx	163
 彭家麗	péng;tp jiā;bu lì;lb	477
+彭健新	péng;tp jiàn;ry xīn;lt	459
+彭敬慈	péng;tp jìng;cw cí;bx	428
+彭靖惠	péng;tp jìng;lo huì;ix	6
 彭久洋	péng;tp jiǔ;pn yáng;dy	306
+彭康育	péng;tp kāng;gl yù;wo	328
+彭麗媛	péng;tp lì;lb yuàn;ny	6
 碰碰胡	pèng;uy pèng;uy hú;go	342
+澎恰恰	péng;dp qià;xk qià;xk	603
 彭十六	péng;tp shí;al liù;wb	18
 彭士騰	péng;tp shì;ua téng;om	12
 彭婷婷	péng;tp tíng;nd tíng;nd	15
@@ -5781,9 +6675,11 @@ sort: by_weight
 彭義程	péng;tp yì;yw chéng;hw	12
 彭昱暢	péng;tp yù;ol chàng;uw	512
 彭禺厶	péng;tp yú;td sī;vd	233
+彭于晏	péng;tp yú;au yàn;on	1294
 彭梓洋	péng;tp zǐ;ax yáng;dy	12
 皮切絲	pí;py qiē;qd sī;sx	634
 皮小浪	pí;py xiǎo;lb làng;dl	15
+片桐仁	piàn;pv tóng;ak rén;re	346
 朴寶劍	piáo;ab bǎo;bb jiàn;rd	41
 朴寶英	piáo;ab bǎo;bb yīng;cy	41
 朴炳珊	piáo;ab bǐng;hn shān;wc	225
@@ -5882,8 +6778,15 @@ sort: by_weight
 朴志洙	piáo;ab zhì;tx zhū;dw	274
 朴鍾煥	piáo;ab zhōng;jv huàn;hd	202
 朴重勳	piáo;ab zhòng;ql xūn;ql	328
+平采娜	píng;au cǎi;va nà;ne	9
+平井堅	píng;au jǐng;ac,el jiān;it	50
+平井桃	píng;au jǐng;ac,el táo;av	13
+平山綾	píng;au shān;kl líng;sw	306
+平野綾	píng;au yě;ly líng;sw	9
+平野文	píng;au yě;ly wén;wx	378
 蒲巴甲	pú;cf bā;sl jiǎ;ol,tl	9
 蒲冰墨	pú;cf bīng;du mò;lt	12
+普超英	pǔ;bo chāo;tk yīng;cy	212
 濮存昕	pú;df cún;uz xīn;ot	141
 浦葉棟	pǔ;df yè;ca dòng;ad	15
 蒲熠星	pú;cf yì;hb xīng;ou	16
@@ -5896,28 +6799,36 @@ sort: by_weight
 齊海洋	qí;wo hǎi;dm yáng;dy	15
 齊紀深	qí;wo jì;sj shēn;da	12
 戚九洲	qī;gx jiǔ;pv zhōu;dv	12
+七瀨公	qī;av lài;db gōng;bs	99
 戚藍尹	qī;gx lán;cm yǐn;ep	15
 戚美珍	qī;gx měi;yd zhēn;wp	16
+奇夢石	qí;dk mèng;cx shí;ak	153
 漆培鑫	qī;du péi;tk xīn;jj	12
 琪琪格	qí;wb qí;wb gé;ak	603
+七七醬	qī;av qī;av jiàng;py	50
 齊慶林	qí;wo qìng;gw lín;aa	12
 齊思鈞	qí;wo sī;tx jūn;jy	35
 齊薇格	qí;wo wēi;cj gé;ak	41
 祁偉禮	qí;pe wěi;rf lǐ;pb	1
 戚務生	qī;gx wù;ml shēng;pf	31
+七小福	qī;av xiǎo;lb fú;pt	122
 戚硯笛	qī;gx yàn;uj dí;vy	16
 漆昱辰	qī;du yù;ol chén;iy	12
 戚玉武	qī;gx yù;wd wǔ;gv	232
 戚予珠	qī;gx yǔ;sl zhū;ww	12
+氣志團	qì;qm zhì;tx tuán;wc	396
 齊中暘	qí;wo zhōng;kl yáng;ow	22
 祁紫檀	qí;pe zǐ;vx tán;ad	112
 千百惠	qiān;pu bǎi;ab huì;ix	57
 錢蓓婷	qián;jg bèi;ck tíng;nd	454
+淺倉舞	qiǎn;dg cāng;rk wǔ;pf	310
 錢倉一	qián;jg cāng;rk yī;aa	76
+前川清	qián;bd chuān;pl qīng;do	292
+淺川悠	qiǎn;dg chuān;pl yōu;rx	495
 錢迪迪	qián;jg dí;zy dí;zy	12
 錢冬旎	qián;jg dōng;wd nǐ;fb	12
 錢哆多	qián;jg duō;kx duō;xx	15
-錢弘佐	qián;jg hóng;gs zuǒ;rg	410
+千虎珍	qiān;pu hǔ;hj zhēn;wp	302
 錢皇后	qián;jg huáng;bw hòu;ik	380
 錢惠麗	qián;jg huì;ix lì;lb	326
 錢嘉樂	qián;jg jiā;tk lè;ya	119
@@ -5925,15 +6836,26 @@ sort: by_weight
 錢謙益	qián;jg qiān;yj yì;bm	301
 錢思劍	qián;jg sī;tx jiàn;rd	16
 錢太后	qián;jg tài;dd hòu;ik	207
+前田愛	qián;bd tián;wu ài;vw	459
+前田剛	qián;bd tián;wu gāng;kd	356
+淺田舞	qiǎn;dg tián;wu wǔ;pf	261
 錢天一	qián;jg tiān;ad yī;aa	422
+前田吟	qián;bd tián;wu yín;kv	441
 錢惟演	qián;jg wéi;xv yǎn;db	6
+淺香唯	qiǎn;dg xiāng;ho wéi;kv	230
 錢小豪	qián;jg xiǎo;lb háo;wu	129
 錢雁秋	qián;jg yàn;iv qiū;hh	78
+千葉繁	qiān;pu yè;ca fán;px	13
 千葉遙	qiān;pu yè;ca yáo;zf	1
 錢泳辰	qián;jg yǒng;dy chén;iy	430
+千禹熙	qiān;pu yǔ;pd xī;ih	9
+千玗嬉	qiān;pu yú;wy xī;nk	8
 錢正昊	qián;jg zhèng;av hào;ot	218
+千正明	qiān;pu zhèng;av míng;oo	346
 錢鍾書	qián;jg zhōng;jv shū;yo	1802
 強東玥	qiáng;gi dōng;ir yuè;wo	135
+橋本愛	qiáo;ak běn;aa ài;vw	41
+橋本潤	qiáo;ak běn;aa rùn;dw	378
 喬晟一	qiáo;yk chéng;oi yī;aa	12
 喬大偉	qiáo;yk dà;ar wěi;rf	12
 喬大韋	qiáo;yk dà;ar wéi;wf	9
@@ -5947,6 +6869,7 @@ sort: by_weight
 橋曜娜	qiáo;ak yào;ov nà;ne	12
 喬振宇	qiáo;yk zhèn;fi yǔ;by	57
 郄路通	qiè;xe lù;zk tōng;zy	16
+茄子蛋	qié;ck zi;la dàn;zi	28
 秦伯坤	qín;ih bó;rb kūn;tu	12
 秦海璐	qín;ih hǎi;dm lù;wk	242
 秦海清	qín;ih hǎi;dm qīng;do	12
@@ -5963,13 +6886,23 @@ sort: by_weight
 秦霄賢	qín;ih xiāo;yo xián;ib	35
 秦曉軒	qín;ih xiǎo;ow xuān;ig	12
 秦炎仕	qín;ih yán;hh shì;rt	15
+芹洋子	qín;ct yáng;dy zǐ;la	6
+芹澤優	qín;ct zé;dg yōu;rw	490
 秦志戩	qín;ih zhì;tx jiǎn;ag	25
 秦子涵	qín;ih zǐ;la hán;du	115
 秦子墨	qín;ih zǐ;la mò;lt	22
 秦子越	qín;ih zǐ;la yuè;tl	115
 青空光	qīng;fo kōng;bg guāng;xe	10
+青山葵	qīng;fo shān;kl kuí;ct	238
+清水愛	qīng;do shuǐ;ln ài;vw	482
+青野武	qīng;fo yě;ly wǔ;gv	3
 青鈺雯	qīng;fo yù;jy wén;yw	328
+瓊艾倫	qióng;ww ài;cx lún;rc	243
+瓊貝茲	qióng;ww bèi;ob zī;cy	531
 邱柏皓	qiū;qe bǎi;ab hào;bk	12
+秋成勳	qiū;hh chéng;gv xūn;ql	333
+秋瓷炫	qiū;hh cí;dw xuàn;hx	608
+邱鋒澤	qiū;qe fēng;jf zé;dg	486
 裘海正	qiú;qy hǎi;dm zhèng;av	13
 邱浩軒	qiū;qe hào;dk xuān;ig	16
 邱赫南	qiū;qe hè;ii nán;ug	15
@@ -5977,21 +6910,39 @@ sort: by_weight
 邱紅霞	qiū;qe hóng;sg xiá;yy	171
 裘繼戎	qiú;qy jì;sy róng;gu	6
 邱建良	qiū;qe jiàn;zy liáng;dg	16
+丘凱敏	qiū;ia kǎi;uj mǐn;pw	382
+邱凱偉	qiū;qe kǎi;uj wěi;rf	13
+邱禮濤	qiū;qe lǐ;pb tāo;dc	69
 裘慕遠	qiú;qy mù;cx yuǎn;zy	1
 邱佩寧	qiū;qe pèi;rj níng;bd	13
+邱啟明	qiū;qe qǐ;hw míng;oo	670
+邱琦雯	qiū;qe qí;wk wén;yw	297
+邱勝翊	qiū;qe shèng;ol yì;lx	508
 邱詩媛	qiū;qe shī;yc yuàn;ny	1
+邱淑貞	qiū;qe shū;dy zhēn;bb	97
+秋田弘	qiū;hh tián;wu hóng;gs	3
+邱萬城	qiū;qe wàn;cd chéng;ti	252
+秋相美	qiū;hh xiāng;ao měi;yd	202
 仇小豹	qiú;rj xiǎo;lb bào;vu	459
 裘曉潔	qiú;qy xiǎo;ow jié;dx	5
+邱欣怡	qiū;qe xīn;iq yí;xk	508
+邱心志	qiū;qe xīn;dd zhì;tx	500
+邱彥翔	qiū;qe yàn;wp xiáng;yx	302
 邱貽可	qiū;qe yí;bk kě;dk	369
 邱意濃	qiū;qe yì;lx nóng;di	1
 邱永傳	qiū;qe yǒng;du chuán;rc	26
 仇永力	qiú;rj yǒng;du lì;vp	12
+邱宇辰	qiū;qe yǔ;by chén;iy	328
 邱雨鑠	qiū;qe yǔ;ad shuò;ja	16
+邱嶽峰	qiū;qe yuè;uq fēng;uf	38
+邱月清	qiū;qe yuè;ke qīng;do	297
 仇雲波	qiú;rj yún;yy bō;dp	279
+丘梓謙	qiū;ia zǐ;ax qiān;yj	252
 瞿澳暉	qú;ov ào;dd huī;oi	135
 屈柏宇	qū;ui bǎi;ab yǔ;by	12
 屈楚蕭	qū;ui chǔ;az xiāo;ca	662
 曲迪娜	qū;wc,ck dí;zy nà;ne	12
+屈菁菁	qū;ui jīng;co jīng;co	374
 屈菁箐	qū;ui jīng;co qìng;vo	12
 曲雋希	qū;wc,ck juàn;rk xī;xj	1135
 曲凌子	qū;wc,ck líng;dw zǐ;la	12
@@ -5999,38 +6950,74 @@ sort: by_weight
 屈夢汝	qū;ui mèng;cx rǔ;dn	15
 屈木森	qū;ui mù;ur sēn;aa	12
 曲少石	qū;wc,ck shǎo;xp shí;ak	37
+曲世聰	qū;wc,ck shì;cv cōng;ex	392
 曲思思	qū;wc,ck sī;tx sī;tx	12
 曲婉婷	qū;wc,ck wǎn;nv tíng;nd	556
+瞿弦和	qú;ov xián;gx hé;hk	252
 曲肖冰	qū;wc,ck xiāo;xo bīng;du	9
 曲霄宇	qū;wc,ck xiāo;yo yǔ;by	12
 曲柵柵	qū;wc,ck zhà;ac zhà;ac	222
 曲哲明	qū;wc,ck zhé;fk míng;oo	22
 曲芷含	qū;wc,ck zhǐ;cv hán;rk	26
+屈中恆	qū;ui zhōng;kl héng;xh	13
+全寶藍	quán;rw bǎo;bb lán;cm	315
+全度妍	quán;rw dù;gy yán;nk	35
+權恩妃	quán;av ēn;yx fēi;nj	9
+權赫秀	quán;av hè;ii xiù;hn	234
+全慧彬	quán;rw huì;fx bīn;ap	3
+全慧珍	quán;rw huì;fx zhēn;wp	16
+全美善	quán;rw měi;yd shàn;yk	338
+權娜拉	quán;av nà;ne lā;fl	19
+權寧一	quán;av níng;bd yī;aa	356
+全汝彬	quán;rw rǔ;dn bīn;ap	6
 全石浩	quán;rw shí;ak hào;dk	26
+全錫浩	quán;rw xī;jw hào;dk	252
+權相佑	quán;av xiāng;ao yòu;rk	540
+全孝盛	quán;rw xiào;lz shèng;im	6
+權玄彬	quán;av xuán;wy bīn;ap	288
+全炫茂	quán;rw xuàn;hx mào;cg	9
 全伊倫	quán;rw yī;ry lún;rc	12
+權侑莉	quán;av yòu;ro lì;cd	3
+權俞利	quán;av yú;rd lì;hd	293
+全昭彌	quán;rw zhāo;ok mí;gb	3
+全昭旻	quán;rw zhāo;ok mín;ow	3
+全昭珉	quán;rw zhāo;ok mín;wm	2
+權振東	quán;av zhèn;fi dōng;ir	50
+權志龍	quán;av zhì;tx lóng;lv	653
+全鐘瑞	quán;rw zhōng;jl ruì;we	9
 冉瑩穎	rǎn;kt yíng;hy yǐng;bh	122
 饒天亮	ráo;uw tiān;ad liàng;wj	364
+饒曉志	ráo;uw xiǎo;ow zhì;tx	28
 饒芯語	ráo;uw xīn;cx yǔ;yk	12
 熱依扎	rè;th yī;ry zhā;fv	66
+任昌丁	rén;rw chāng;oo dīng;al	400
 任程偉	rén;rw chéng;hw wěi;rf	320
+任達華	rén;rw dá;zy huá;cf	248
 任大為	rén;rw dà;ar wéi;dh	33
 任東霖	rén;rw dōng;ir lín;ya	405
+任桂辛	rén;rw guì;at xīn;lu	179
+任浩銘	rén;rw hào;dk míng;jk	410
 任昊哲	rén;rw hào;ot zhé;fk	12
 任嘉倫	rén;rw jiā;tk lún;rc	148
 任珈銳	rén;rw jiā;wk ruì;jx	15
+任家萱	rén;rw jiā;bu xuān;cd	279
+任劍輝	rén;rw jiàn;rd huī;gi	35
 任駿飛	rén;rw jùn;mw fēi;fc	426
 任柯諾	rén;rw kē;ak nuò;yk	515
 任洛敏	rén;rw luò;dk mǐn;pw	12
 任妙音	rén;rw miào;nu yīn;lo	316
 任銘松	rén;rw míng;jk sōng;ag	12
 任青安	rén;rw qīng;fo ān;bn	3
+任瑟雍	rén;rw sè;wb yōng;wv	9
 任世豪	rén;rw shì;cv háo;wu	12
+任時完	rén;rw shí;oc wán;by	94
 任思諾	rén;rw sī;tx nuò;yk	15
 任素汐	rén;rw sù;fx xī;dx	752
 任添琪	rén;rw tiān;dx qí;wb	12
 任天野	rén;rw tiān;ad yě;ly	6
 任婉婧	rén;rw wǎn;nv jìng;no	12
 任文堅	rén;rw wén;wx jiān;it	12
+任賢齊	rén;rw xián;ib qí;wo	462
 任心怡	rén;rw xīn;dd yí;xk	15
 任學海	rén;rw xué;jz hǎi;dm	12
 任怡旭	rén;rw yí;xk xù;jo	12
@@ -6039,15 +7026,20 @@ sort: by_weight
 任雨萌	rén;rw yǔ;ad méng;co	37
 任月麗	rén;rw yuè;ke lì;lb	122
 任運傑	rén;rw yùn;zi jié;ra	12
+人云云	rén;pn yún;ag,es yún;ag,es	477
+任志宏	rén;rw zhì;tx hóng;bs	3
 任重非	rén;rw zhòng;ql fēi;ls	12
 任子威	rén;rw zǐ;la wēi;gn	516
 日向楓	rì;wa xiàng;pk fēng;af	10
+日野聰	rì;wa yě;ly cōng;ex	9
 容國團	róng;bg guó;wa tuán;wc	19
+容錦昌	róng;bg jǐn;jj chāng;oo	333
 容天佑	róng;bg tiān;ad yòu;rk	12
 肜耀忠	róng;op yào;gv zhōng;vx	12
 容志行	róng;bg zhì;tx xíng;rd	436
 榮梓杉	róng;ha zǐ;ax shān;ap	25
 榮梓希	róng;ha zǐ;ax xī;xj	12
+容祖兒	róng;bg zǔ;pq ér;je	562
 茹常虎	rú;ck cháng;xj hǔ;hj	12
 阮晟昊	ruǎn;ey chéng;oi hào;ot	12
 阮丹寧	ruǎn;ey dān;kd níng;bd	415
@@ -6061,28 +7053,52 @@ sort: by_weight
 芮偉航	ruì;cn wěi;rf háng;vj	12
 薩頂頂	sà;cu dǐng;dy dǐng;dy	239
 薩鋼雲	sà;cu gāng;ju yún;yy	12
+薩日朗	sà;cu rì;wa lǎng;lo	315
 薩日娜	sà;cu rì;wa nà;ne	13
 三宮椿	sān;ae gōng;bk chūn;ao	10
+三上哲	sān;ae shàng;ba zhé;fk	333
+三田杏	sān;ae tián;wu xìng;ak	99
 三田櫻	sān;ae tián;wu yīng;an	10
 三尾惠	sān;ae wěi;um huì;ix	10
 桑茗勝	sāng;ya míng;ck shèng;ol	12
 桑葉紅	sāng;ya yè;ca hóng;sg	15
+森昌子	sēn;aa chāng;oo zǐ;la	405
+森川葵	sēn;aa chuān;pl kuí;ct	333
+森光子	sēn;aa guāng;xe zǐ;la	356
 森林北	sēn;aa lín;aa běi;lb	222
+森氣樓	sēn;aa qì;qm lóu;an	248
+森田剛	sēn;aa tián;wu gāng;kd	441
+森香織	sēn;aa xiāng;ho zhī;so	328
 沙寶亮	shā;du bǎo;bb liàng;wj	157
 沙俊伯	shā;du jùn;rw bó;rb	318
+紗榮子	shā;su róng;ha zǐ;la	3
 沙維琪	shā;du wéi;sv qí;wb	15
 沙一汀	shā;du yī;aa tīng;dd	12
 沙玉華	shā;du yù;wd huá;cf	12
+山岸功	shān;kl àn;ug gōng;gl	243
+杉本彩	shān;ap běn;aa cǎi;vp	25
+山本彩	shān;kl běn;aa cǎi;vp	22
+杉本優	shān;ap běn;aa yōu;rw	310
 單冠朝	shàn;xu guān;bc cháo;uo	15
 閃嘉晨	shǎn;mr jiā;tk chén;oi	12
 閃藍橋	shǎn;mr lán;cm qiáo;ak	12
+單立文	shàn;xu lì;wb wén;wx	518
+山崎努	shān;kl qí;uk nǔ;nl	405
 單田芳	shàn;xu tián;wu fāng;cf	248
+杉咲花	shān;ap xiào;kt huā;cb	428
+山形健	shān;kl xíng;kp jiàn;ry	297
 單依純	shàn;xu yī;ry chún;st	141
+上白石	shàng;ba bái;po shí;ak	558
+上坂堇	shàng;ba bǎn;ty jǐn;cw	391
 尚大慶	shàng;xk dà;ar qìng;gw	16
+上官瞳	shàng;ba guān;bl tóng;ol	45
 上海妹	shàng;ba hǎi;dm mèi;nw	135
+尚和玉	shàng;xk hé;hk yù;wd	288
+上戶彩	shàng;ba hù;pu cǎi;vp	47
 尚九熙	shàng;xk jiǔ;pv xī;ih	26
 尚林兒	shàng;xk lín;aa ér;je	12
 尚斯琪	shàng;xk sī;ct qí;wb	12
+商天娥	shāng;wk tiān;ad é;nw	500
 尚鐵龍	shàng;xk tiě;jw lóng;lv	256
 尚雯婕	shàng;xk wén;yw jié;nz	1064
 尚筱菊	shàng;xk xiǎo;vw jú;cm	66
@@ -6095,6 +7111,7 @@ sort: by_weight
 邵佳一	shào;de jiā;rt yī;aa	122
 邵傑睿	shào;de jié;ra ruì;bo	12
 邵老五	shào;de lǎo;lb wǔ;aw	12
+少馬爺	shǎo;xp mǎ;mh yé;fe	66
 邵美琪	shào;de měi;yd qí;wb	63
 邵明明	shào;de míng;oo míng;oo	626
 邵思涵	shào;de sī;tx hán;du	12
@@ -6110,20 +7127,36 @@ sort: by_weight
 邵雨涵	shào;de yǔ;ad hán;du	248
 邵雨薇	shào;de yǔ;ad wēi;cj	392
 邵仲衡	shào;de zhòng;rv héng;rd	3
+涉谷昴	shè;du gǔ;bk mǎo;oe	207
+設樂統	shè;yu lè;ya tǒng;sy	288
 佘曼妮	shé;ru màn;oy nī;nb	12
+佘詩曼	shé;ru shī;yc màn;oy	405
 佘穎欣	shé;ru yǐng;bh xīn;iq	12
+申愛羅	shēn;ol,yl ài;vw luó;sv	194
 沈傲君	shěn;de ào;rw jūn;yk	2433
+深白色	shēn;da bái;po sè;db	6
 沈保平	shěn;de bǎo;ra píng;au	212
+申成祿	shēn;ol,yl chéng;gv lù;pu	333
 沈丹萍	shěn;de dān;kd píng;cp	315
 沈殿霞	shěn;de diàn;uu xiá;yy	214
+申東靖	shēn;ol,yl dōng;ir jìng;lo	270
+申東燁	shēn;ol,yl dōng;ir yè;hf	28
+申恩慶	shēn;ol,yl ēn;yx qìng;gw	328
+申鳳梅	shēn;ol,yl fèng;jn méi;am	306
+神谷明	shén;pu gǔ;bk míng;oo	486
+申海澈	shēn;ol,yl hǎi;dm chè;dw	230
 沈浩晨	shěn;de hào;dk chén;oi	12
 申浩男	shēn;ol,yl hào;dk nán;tl	12
+申河均	shēn;ol,yl hé;dk jūn;ty	382
+申惠善	shēn;ol,yl huì;ix shàn;yk	6
+申彗星	shēn;ol,yl huì;fe xīng;ou	3
 沈佳妮	shěn;de jiā;rt nī;nb	1730
 申軍誼	shēn;ol,yl jūn;bi yì;yq	6
 沈樂平	shěn;de lè;ya píng;au	633
 沈麗君	shěn;de lì;lb jūn;yk	180
 沈夢辰	shěn;de mèng;cx chén;iy	593
 沈夢瑤	shěn;de mèng;cx yáo;wf	1226
+申敏兒	shēn;ol,yl mǐn;pw ér;je	22
 神木麗	shén;pu mù;ur lì;lb	10
 神納花	shén;pu nà;sn huā;cb	10
 沈南鵬	shěn;de nán;ug péng;on	342
@@ -6131,55 +7164,84 @@ sort: by_weight
 沈培藝	shěn;de péi;tk yì;cy	222
 沈人傑	shěn;de rén;pn jié;ra	12
 申容澤	shēn;ol,yl róng;bg zé;dg	12
+申勝勳	shēn;ol,yl shèng;ol xūn;ql	320
+申世景	shēn;ol,yl shì;cv jǐng;ox	450
 申詩雅	shēn;ol,yl shī;yc yǎ;yv	15
+神思者	shén;pu sī;tx zhě;lo	47
 沈陶然	shěn;de táo;ef rán;xh	118
 沈文俊	shěn;de wén;wx jùn;rw	26
+申賢俊	shēn;ol,yl xián;ib jùn;rw	364
 沈小愛	shěn;de xiǎo;lb ài;vw	12
 沈小岑	shěn;de xiǎo;lb cén;uv	369
 沈曉海	shěn;de xiǎo;ow hǎi;dm	3
 沈小婷	shěn;de xiǎo;lb tíng;nd	12
 沈曉妍	shěn;de xiǎo;ow yán;nk	12
+申雅英	shēn;ol,yl yǎ;yv yīng;cy	212
 沈羽潔	shěn;de yǔ;xx jié;dx	12
 申鈺林	shēn;ol,yl yù;jy lín;aa	12
 沈煜倫	shěn;de yù;hl lún;rc	13
+申在河	shēn;ol,yl zài;ut hé;dk	3
 申澤華	shēn;ol,yl zé;dg huá;cf	12
 沈照程	shěn;de zhào;oh chéng;hw	12
+申正煥	shēn;ol,yl zhèng;av huàn;hd	338
 沈之琳	shěn;de zhī;dn lín;wa	12
+申智珉	shēn;ol,yl zhì;uo mín;wm	6
 沈卓盈	shěn;de zhuó;bu yíng;nm	387
 沈梓捷	shěn;de zǐ;ax jié;fz	435
 盛晨晨	shèng;im chén;oi chén;oi	15
+勝地涼	shèng;ol dì;ty liáng;dx	378
 盛冠森	shèng;im guān;bc sēn;aa	333
+聖飢魔	shèng;ew jī;uj mó;gg	428
 盛俊宇	shèng;im jùn;rw yǔ;by	12
 盛朗熙	shèng;im lǎng;lo xī;ih	266
 盛李豪	shèng;im lǐ;az háo;wu	1
+生田繪	shēng;pf tián;wu huì;so	508
+盛天俊	shèng;im tiān;ad jùn;rw	342
 盛甜玲	shèng;im tián;ug líng;ws	12
+盛小叢	shèng;im xiǎo;lb cóng;yy	45
+勝杏里	shèng;ol xìng;ak lǐ;tt	387
 盛一倫	shèng;im yī;aa lún;rc	3115
 盛志民	shèng;im zhì;tx mín;vv	30
 盛子銘	shèng;im zǐ;la míng;jk	1
 史愛東	shǐ;kn ài;vw dōng;ir	26
 石安妮	shí;ak ān;bn nī;nb	374
 施柏宇	shī;fy bǎi;ab yǔ;by	3
+石班瑜	shí;ak bān;wl yú;wd	273
 釋臣偉	shì;mg chén;kl wěi;rf	12
+石川戀	shí;ak chuān;pl liàn;xx	279
 石純子	shí;ak chún;st zǐ;la	16
+史翠普	shǐ;kn cuì;xu pǔ;bo	549
 施大生	shī;fy dà;ar shēng;pf	18
 史梵希	shǐ;kn fàn;af xī;xj	12
 石富寬	shí;ak fù;bt kuān;bd	62
 施國慶	shī;fy guó;wa qìng;gw	22
+石黑彩	shí;ak hēi;lh cǎi;vp	238
+石黑賢	shí;ak hēi;lh xián;ib	382
 施嘉莉	shī;fy jiā;tk lì;cd	243
 史健凱	shǐ;kn jiàn;ry kǎi;uj	16
 石潔茹	shí;ak jié;dx rú;ck	12
 施京明	shī;fy jīng;wx míng;oo	266
+室井滋	shì;bt jǐng;ac,el zī;dy	338
 石俊輝	shí;ak jùn;rw huī;gi	15
 時俊傑	shí;oc jùn;rw jié;ra	35
+史俊威	shǐ;kn jùn;rw wēi;gn	279
 施駿喆	shī;fy jùn;mw zhé;tk	1
+石康鈞	shí;ak kāng;gl jūn;jy	65
 史蘭芽	shǐ;kn lán;cj yá;cy	16
 史力嘉	shǐ;kn lì;vp jiā;tk	7
 石聯星	shí;ak lián;ej xīng;ou	5
 史林子	shǐ;kn lín;aa zi;la	37
+石榴姐	shí;ak liú;at jiě;nq	1048
 施名帥	shī;fy míng;xk shuài;pj	364
+史派西	shǐ;kn pài;dy xī;ak,wk	274
+石橋凌	shí;ak qiáo;ak líng;dw	3
+辻親八	shí;zu qīn;lj bā;pn	418
 師清峯	shī;pj qīng;do fēng;uf	12
 史芮伊	shǐ;kn ruì;cn yī;ry	12
+十三狼	shí;al sān;ae láng;ql	209
 師勝傑	shī;pj shèng;ol jié;ra	69
+史泰龍	shǐ;kn tài;iu lóng;lv	578
+史特龍	shǐ;kn tè;nc lóng;lv	536
 史天庚	shǐ;kn tiān;ad gēng;gr	12
 石天琦	shí;ak tiān;ad qí;wk	498
 石天碩	shí;ak tiān;ad shuò;uy	112
@@ -6189,39 +7251,63 @@ sort: by_weight
 史文翔	shǐ;kn wén;wx xiáng;yx	12
 石文中	shí;ak wén;wx zhōng;kl	7
 釋希覺	shì;mg xī;xj jué;jj	12
+辻希美	shí;zu xī;xj měi;yd	396
 石璽彤	shí;ak xǐ;ay tóng;dp	1
 時曉飛	shí;oc xiǎo;ow fēi;fc	16
 釋小虎	shì;mg xiǎo;lb hǔ;hj	12
 石小傑	shí;ak xiǎo;lb jié;ra	187
 釋小龍	shì;mg xiǎo;lb lóng;lv	141
+石小群	shí;ak xiǎo;lb qún;yy	320
 施孝榮	shī;fy xiào;lz róng;ha	6
 释小松	shì;mf xiǎo;lb sōng;ag	230
+石欣卉	shí;ak xīn;iq huì;uc	194
 施欣怡	shī;fy xīn;iq yí;xk	12
 侍宣如	shì;rc xuān;bd rú;nk	220
 釋彥能	shì;mg yàn;wp néng;sb	392
 石燕子	shí;ak yàn;ch zi;la	274
 石洋子	shí;ak yáng;dy zǐ;la	3
 史依弘	shǐ;kn yī;ry hóng;gs	264
+石倚潔	shí;ak yǐ;rk jié;dx	58
 施易男	shī;fy yì;ow nán;tl	378
+石詠莉	shí;ak yǒng;yy lì;cd	396
 施予斐	shī;fy yǔ;sl fěi;fw	243
 石宇奇	shí;ak yǔ;by qí;dk	47
+是元介	shì;oz yuán;aw jiè;rl	374
 史元庭	shǐ;kn yuán;aw tíng;gw	12
 石雲鵬	shí;ak yún;yy péng;on	256
 石占明	shí;ak zhàn;bw míng;oo	378
 石兆琪	shí;ak zhào;ed qí;wb	3
 石貞善	shí;ak zhēn;bb shàn;yk	356
+石知田	shí;ak zhī;uk tián;wu	270
 石智勇	shí;ak zhì;uo yǒng;sl	122
 施子墨	shī;fy zǐ;la mò;lt	3
 師子尋	shī;pj zǐ;la xún;ec	12
 史子逸	shǐ;kn zǐ;la yì;zt	6
 施祖男	shī;fy zǔ;pq nán;tl	220
 石作蜀	shí;ak zuō;rv shǔ;si	15
+手島葵	shǒu;pf dǎo;nu kuí;ct	302
 樞木葵	shū;ak mù;ur kuí;ct	10
+舒繡文	shū;ry xiù;sa wén;wx	6
 書亞信	shū;yo yà;aa xìn;rk	369
+舒子晨	shū;ry zǐ;la chén;oi	256
+霜月遙	shuāng;yo yuè;ke yáo;zf	410
 水卜櫻	shuǐ;ln bo;ld yīng;an	10
+水菜麗	shuǐ;ln cài;ca lì;lb	400
 水川堇	shuǐ;ln chuān;pl jǐn;cw	10
+水島宏	shuǐ;ln dǎo;nu hóng;bs	6
+水島裕	shuǐ;ln dǎo;nu yù;pg	405
+水叮噹	shuǐ;ln dīng;kd dāng;kt	382
+水穀豐	shuǐ;ln gǔ;tu fēng;ub	3
 水間龍	shuǐ;ln jiān;mo lóng;lv	12
+水瀨祈	shuǐ;ln lài;db qí;pt	9
+水夏希	shuǐ;ln xià;bw xī;xj	324
+水野勝	shuǐ;ln yě;ly shèng;ol	454
+水澤惠	shuǐ;ln zé;dg huì;ix	328
 舜文齊	shùn;vf wén;wx qí;wo	30
+寺島進	sì;tc dǎo;nu jìn;zv	9
+寺島忍	sì;tc dǎo;nu rěn;dx	3
+斯蒂勒	sī;ct dì;cj lè;cl	41
+斯嘉麗	sī;ct jiā;tk lì;lb	394
 斯力更	sī;ct lì;vp gèng;an	12
 司馬馗	sī;vk mǎ;mh kuí;jz	26
 司馬敏	sī;vk mǎ;mh mǐn;pw	18
@@ -6238,6 +7324,7 @@ sort: by_weight
 斯文頓	sī;ct wén;wx dùn;ty	558
 司雯嘉	sī;vk wén;yw jiā;tk	297
 姒中康	sì;nr zhōng;kl kāng;gl	12
+松本稔	sōng;ag běn;aa rěn;hx	288
 松本潤	sōng;ag běn;aa rùn;dw	28
 宋本中	sòng;ba běn;aa zhōng;kl	26
 宋秉洋	sòng;ba bǐng;qr yáng;dy	433
@@ -6350,7 +7437,9 @@ sort: by_weight
 蘇子珊	sū;ch zǐ;la shān;wc	12
 蘇紫旭	sū;ch zǐ;vx xù;jo	135
 蘇紫紫	sū;ch zǐ;vx zǐ;vx	459
+隋東陸	suí;eo dōng;ir lù;et	382
 隋菲菲	suí;eo fēi;cf fēi;cf	392
+隋海濤	suí;eo hǎi;dm tāo;dc	252
 隋俊波	suí;eo jùn;rw bō;dp	310
 隋洛潔	suí;eo luò;dk jié;dx	12
 隋永清	suí;eo yǒng;du qīng;do	137
@@ -6468,15 +7557,29 @@ sort: by_weight
 譚松韻	tán;yu sōng;ag yùn;lb	232
 譚天銘	tán;yu tiān;ad míng;jk	12
 譚天謙	tán;yu tiān;ad qiān;yj	12
+譚偉權	tán;yu wěi;rf quán;av	315
 譚維維	tán;yu wéi;sv wéi;sv	606
+覃文靜	tán;xu wén;wx jìng;fy	261
 譚希和	tán;yu xī;xj hé;hk	5
 譚湘君	tán;yu xiāng;do jūn;yk	12
 譚曉凡	tán;yu xiǎo;ow fán;jd	12
+譚小環	tán;yu xiǎo;lb huán;wy	19
+譚曉燕	tán;yu xiǎo;ow yàn;ch	238
 譚歆柔	tán;yu xīn;lq róu;ma	12
+譚杏藍	tán;yu xìng;ak lán;cm	351
 譚軒轅	tán;yu xuān;ig yuán;iy	233
+談學斌	tán;yh xué;jz bīn;wv	288
 譚鹽鹽	tán;yu yán;im yán;im	422
+譚耀文	tán;yu yào;gv wén;wx	44
 譚藝恆	tán;yu yì;cy héng;xh	12
+譚伊哲	tán;yu yī;ry zhé;fk	369
+譚永浩	tán;yu yǒng;du hào;dk	310
+譚詠麟	tán;yu yǒng;yy lín;gf	656
 譚詠雯	tán;yu yǒng;yy wén;yw	1
+譚佑銘	tán;yu yòu;rk míng;jk	220
+譚友業	tán;yu yǒu;uy yè;yw	207
+譚玉瑛	tán;yu yù;wd yīng;wy	3
+譚元元	tán;yu yuán;aw yuán;aw	47
 譚志玲	tán;yu zhì;tx líng;ws	12
 譚宗堯	tán;yu zōng;bu yáo;tw	18
 唐安琪	táng;gk ān;bn qí;wb	6
@@ -7373,9 +8476,12 @@ sort: by_weight
 謝天依	xiè;yc tiān;ad yī;ry	12
 謝霆鋒	xiè;yc tíng;yw fēng;jf	6839
 謝婷婷	xiè;yc tíng;nd tíng;nd	19
+解偉苓	xiè;dn wěi;rf líng;cs	315
 謝文駿	xiè;yc wén;wx jùn;mw	41
 謝聞軒	xiè;yc wén;me xuān;ig	2
 謝文雅	xiè;yc wén;wx yǎ;yv	270
+解曉東	xiè;dn xiǎo;ow dōng;ir	378
+解小東	xiè;dn xiǎo;lb dōng;ir	228
 謝炘昊	xiè;yc xīn;ht hào;ot	186
 謝欣華	xiè;yc xīn;iq huá;cf	12
 謝欣桐	xiè;yc xīn;iq tóng;ak	12
@@ -8152,6 +9258,7 @@ sort: by_weight
 曾春蕾	zēng;bo chūn;io lěi;ct	60
 曾春年	zēng;bo chūn;io nián;pf	230
 曾繁日	zēng;bo fán;px rì;wa	535
+曾格格	zēng;bo gé;ak gé;ak	256
 曾國城	zēng;bo guó;wa chéng;ti	13
 曾航生	zēng;bo háng;vj shēng;pf	22
 曾虹暢	zēng;bo hóng;ig chàng;uw	337
@@ -8178,8 +9285,11 @@ sort: by_weight
 曾志偉	zēng;bo zhì;tx wěi;rf	345
 曾卓君	zēng;bo zhuó;bu jūn;yk	130
 曾子墨	zēng;bo zǐ;la mò;lt	22
+查可欣	zhā;ad kě;dk xīn;iq	360
+查理茲	zhā;ad lǐ;wl zī;cy	69
 查曼若	zhā;ad màn;oy ruò;ck	12
 查美竹	zhā;ad měi;yd zhú;gg	12
+查斯特	zhā;ad sī;ct tè;nc	13
 翟天臨	zhái;xv tiān;ad lín;ik	750
 戰菁一	zhàn;xg jīng;co yī;aa	30
 戰立國	zhàn;xg lì;wb guó;wa	333
@@ -9145,6 +10255,7 @@ sort: by_weight
 本莊優花	běn;aa zhuāng;ct yōu;rw huā;cb	10
 比嘉愛未	bǐ;bb jiā;tk ài;vw wèi;aa,er	19
 邊巴德吉	biān;zf bā;sl dé;rx jí;tk	161
+濱崎真緒	bīn;db qí;uk zhēn;ub xù;so	284
 才旦卓瑪	cái;up dàn;oa zhuó;bu mǎ;wm	29
 彩美旬果	cǎi;vp měi;yd xún;bo guǒ;ta	10
 才旺羅布	cái;up wàng;ow luó;sv bù;uj	1
@@ -9328,6 +10439,7 @@ sort: by_weight
 橋本甜歌	qiáo;ak běn;aa tián;ug gē;kq	288
 橋本有菜	qiáo;ak běn;aa yǒu;uo cài;ca	10
 橋本有菜	qiáo;ak běn;aa yǒu;uo cài;ca	3
+喬傑克遜	qiáo;yk jié;ra kè;ux,ge xùn;zx	171
 秦牛正威	qín;ih niú;pu zhèng;av wēi;gn	11
 丘惠理奈	qiū;ia huì;ix lǐ;wl nài;du	10
 曲比阿烏	qū;wc,ck bǐ;bb ā;ek wū;wh	6
@@ -9431,14 +10543,26 @@ sort: by_weight
 香澄果穗	xiāng;ho chéng;db guǒ;ta suì;hx	10
 香澄莉子	xiāng;ho chéng;db lì;cd zǐ;la	10
 香苗玲音	xiāng;ho miáo;ct líng;ws yīn;lo	10
+相田翔子	xiāng;ao tián;wu xiáng;yx zǐ;la	410
+相武紗季	xiāng;ao wǔ;gv shā;su jì;hz	3
 相澤莉娜	xiāng;ao zé;dg lì;cd nà;ne	10
 小倉七海	xiǎo;lb cāng;rk qī;av hǎi;dm	10
 小倉由菜	xiǎo;lb cāng;rk yóu;ol,lt cài;ca	10
+小倉優子	xiǎo;lb cāng;rk yōu;rw zǐ;la	6
+小池徹平	xiǎo;lb chí;dy chè;ro píng;au	436
+小池澈平	xiǎo;lb chí;dy chè;dw píng;au	84
+小池里奈	xiǎo;lb chí;dy lǐ;tt nài;du	256
+小池亮介	xiǎo;lb chí;dy liàng;wj jiè;rl	153
 小湊四葉	xiǎo;lb còu;dt sì;we yè;ca	10
+小湊昭尚	xiǎo;lb còu;dt zhāo;ok shàng;xk	50
 小島純名	xiǎo;lb dǎo;nu chún;st míng;xk	10
+小島陽菜	xiǎo;lb dǎo;nu yáng;ew cài;ca	252
 小栗美優	xiǎo;lb lì;xa měi;yd yōu;rw	10
 小梅惠奈	xiǎo;lb méi;am huì;ix nài;du	10
 小泉日向	xiǎo;lb quán;bu rì;wa xiàng;pk	10
+小森美果	xiǎo;lb sēn;aa měi;yd guǒ;ta	6
+小山剛志	xiǎo;lb shān;kl gāng;kd zhì;tx	396
+小山力也	xiǎo;lb shān;kl lì;vp yě;vv	16
 篠田步美	xiǎo;vm tián;wu bù;vu měi;yd	10
 小宵虎南	xiǎo;lb xiāo;bo hǔ;hj nán;ug	10
 新村朱里	xīn;lt cūn;ac zhū;pw lǐ;tt	10
@@ -9446,6 +10570,7 @@ sort: by_weight
 星宮一花	xīng;ou gōng;bk yì;aa huā;cb	10
 星野景子	xīng;ou yě;ly jǐng;ox zǐ;la	10
 星野娜美	xīng;ou yě;ly nà;ne měi;yd	10
+休傑克曼	xiū;ra jié;ra kè;ux,ge màn;oy	160
 徐麗萩莎	xú;rm lì;lb qiū;ch shā;cu	1
 旭日陽剛	xù;jo rì;wa yáng;ew gāng;kd	236
 旭旭寶寶	xù;jo xù;jo bǎo;bb bao;bb	104
@@ -9586,4 +10711,3 @@ sort: by_weight
 朝日奈可憐	zhāo;uo rì;wa nài;du kě;dk lián;xf	10
 置鮎龍太郎	zhì;sq nián;yv lóng;lv tài;dd láng;le	10
 佐佐木明希	zuǒ;rg zuǒ;rg mù;ur míng;oo xī;xj	10
-一之瀨亞美莉	yī;aa zhī;dn lài;db yà;aa měi;yd lì;cd	10

@@ -2062,32 +2062,24 @@ bō zhōu zhèn	波洲鎮
 bo zhuāng zhèn	卜莊鎮
 bù chǎng zhèn	埠場鎮
 bǔ chōu xiāng	補抽鄉
-bù chū cūn	不出村
-bù chū xiàn	不出縣
-bù chū zhèn	不出鎮
 bù dài zhèn	布袋鎮
 bù dé zhèn	布德鎮
-bù duān zhuāng	不端莊
 bù duō xiāng	布多鄉
 bǔ ěr xiāng	補爾鄉
-bù fen xiàn	部分縣
 bù fèng zhèn	步鳳鎮
 bù guān zhèn	部官鎮
 bù hǎi zhèn	布海鎮
 bù hé zhèn	埠河鎮
-bù huí xiāng	不回鄉
 bù jí zhèn	布吉鎮
 bù jiǎ xiāng	布甲鄉
 bù jiāng zhèn	埠江鎮
 bù jiǔ xiāng	布久鄉
-bù lǎo cūn	不老村
 bù lǐ zhèn	埔里鎮
 bù liǔ zhèn	埠柳鎮
 bù lóng xiāng	布隆鄉
 bù lù xiāng	步路鄉
 bù qián zhèn	埠前鎮
 bù quán xiāng	布泉鄉
-bù shǎo cūn	不少村
 bù tǎ xiāng	布塔鄉
 bù tóu xiāng	埠頭鄉
 bù tóu zhèn	埠頭鎮
@@ -2341,7 +2333,7 @@ cáo zhū cūn	曹朱村
 cáo zhuāng cūn	曹莊村
 cáo zhuāng xiāng	曹莊鄉
 cáo zhuāng zhèn	曹莊鎮
-cáo zhuāng zǐ	曹莊子
+cáo zhuāng zi	曹莊子
 cè cūn zhèn	冊村鎮
 cè dǐ zhèn	策底鎮
 cè hēng xiàn	冊亨縣
@@ -6305,14 +6297,12 @@ gé shí zhèn	葛石鎮
 gē tái xiāng	圪臺鄉
 gé tián xiāng	葛田鄉
 gé xī xiāng	葛溪鄉
-gè xiāng zhèn	各鄉鎮
 gé yí zhèn	革一鎮
 gé yí zhèn	格宜鎮
 gé yuán zhèn	葛源鎮
 gé zán xiāng	格咱鄉
 gé zhài zhèn	葛寨鎮
 gé zhèn bǎo	革鎮堡
-gè zhōu xiàn	各州縣
 gè zhuāng zhèn	各莊鎮
 gé zōng zhèn	格宗鎮
 gēn hé shì	根河市
@@ -7031,7 +7021,7 @@ guǒ yuán zhèn	果園鎮
 guō zhèn xiāng	郭鎮鄉
 guō zhuāng zhèn	郭莊鎮
 guǒ zhuāng zhèn	果莊鎮
-guō zhuāng zǐ	郭莊子
+guō zhuāng zi	郭莊子
 hǎ dá wān	哈達灣
 hǎ dá zhèn	哈達鎮
 hā dōng zhàn	哈東站
@@ -7281,7 +7271,7 @@ hán zhuāng cūn	韓莊村
 hán zhuāng xiāng	韓莊鄉
 hán zhuāng zhèn	韓莊鎮
 hàn zhuāng zhèn	漢莊鎮
-hán zhuāng zǐ	韓莊子
+hán zhuāng zi	韓莊子
 hán zuǒ zhèn	韓佐鎮
 háng bù zhèn	航埠鎮
 háng bù zhèn	杭埠鎮
@@ -8312,7 +8302,7 @@ huá zhōu zhèn	華州鎮
 huá zhuāng cūn	華莊村
 huà zhuāng xiāng	化莊鄉
 huā zhuāng zhèn	花莊鎮
-huá zhuāng zǐ	華莊子
+huá zhuāng zi	華莊子
 huá zǐ zhèn	鏵子鎮
 huá zǔ ān	華祖庵
 huái ān qū	淮安區
@@ -14797,6 +14787,7 @@ nán chéng xiàn	南城縣
 nán chéng xiāng	南城鄉
 nán chéng zhèn	南埕鎮
 nán chéng zhèn	南城鎮
+nán chōng shì	南充市
 nán chōng xiàn	南充縣
 nán chōng zhàn	南充站
 nán chuān qū	南川區
@@ -29370,7 +29361,7 @@ běi zhuāng hù cūn	北莊戶村
 běi zhuāng tóu cūn	北莊頭村
 běi zhuāng xīn cūn	北莊新村
 běi zhuāng yī cūn	北莊一村
-běi zhuāng zǐ cūn	北莊子村
+běi zhuāng zi cūn	北莊子村
 bèi zǐ fǔ cūn	貝子府村
 bèi zǐ fǔ zhèn	貝子府鎮
 běi zōu jiā cūn	北鄒家村
@@ -29676,7 +29667,6 @@ bù duì shè qū	部隊社區
 bù dūn shān cūn	布敦山村
 bù ěr jīn xiàn	布爾津縣
 bù ěr jīn zhèn	布爾津鎮
-bù fen jiē dào	部分街道
 bù gé zǎi cūn	布格仔村
 bù gǔ gōu zhèn	步古溝鎮
 bù jí jiē dào	布吉街道
@@ -30067,7 +30057,7 @@ cǎo yuán shè qū	草園社區
 cáo yuán zi cūn	曹園子村
 cáo zhāng xīn cūn	曹張新村
 cáo zhuāng shè qū	曹莊社區
-cáo zhuāng zǐ cūn	曹莊子村
+cáo zhuāng zi cūn	曹莊子村
 cǎo zhuāng zǐ cūn	草莊子村
 cáo zǐ lǐ xiāng	曹子裏鄉
 cáo zǐ lǐ zhèn	曹子裏鎮
@@ -37443,7 +37433,7 @@ gāo zhuāng fáng cūn	高莊房村
 gāo zhuāng jiē dào	高莊街道
 gāo zhuāng kē cūn	高莊窠村
 gāo zhuāng píng cūn	高莊坪村
-gāo zhuāng zǐ cūn	高莊子村
+gāo zhuāng zi cūn	高莊子村
 gāo zhuó yíng xiāng	高卓營鄉
 gāo zhuō zi cūn	高桌子村
 gāo zī jiē dào	高資街道
@@ -38703,7 +38693,7 @@ guō yuè zhài cūn	郭嶽寨村
 guō zhàng zi cūn	郭杖子村
 guó zhèn jiē dào	虢鎮街道
 guō zhuāng zhài cūn	郭莊寨村
-guō zhuāng zǐ cūn	郭莊子村
+guō zhuāng zi cūn	郭莊子村
 guǒ zhuāng zǐ cūn	果莊子村
 guǒ zhuó gē zhuāng	果卓歌莊
 guǒ zi gōu cūn	果子溝村
@@ -39126,7 +39116,7 @@ hàn zhōng yáng xiàn	漢中洋縣
 hàn zhōng zhèn bā	漢中鎮巴
 hàn zhōu jiē dào	漢州街道
 hán zhuāng tóu cūn	韓莊頭村
-hán zhuāng zǐ cūn	韓莊子村
+hán zhuāng zi cūn	韓莊子村
 hán zǐ píng cūn	韓子坪村
 háng běi tóu cūn	杭北頭村
 háng chéng jiē dào	航城街道
@@ -45198,8 +45188,8 @@ lǎo zhào zhuāng zhèn	老趙莊鎮
 lào zhī jiē cūn	澇枝街村
 lào zhōu shuǐ cūn	澇洲水村
 lǎo zhuāng gōu cūn	老莊溝村
-lǎo zhuāng zǐ cūn	老莊子村
-lǎo zhuāng zǐ zhèn	老莊子鎮
+lǎo zhuāng zi cūn	老莊子村
+lǎo zhuāng zi zhèn	老莊子鎮
 lǎo zi shān zhèn	老子山鎮
 lè ān jiē dào	樂安街道
 lè ān nà xiàn	勒安納縣
@@ -47242,13 +47232,13 @@ liǔ zhōu liǔ chéng	柳州柳城
 liǔ zhōu liǔ jiāng	柳州柳江
 liǔ zhōu liǔ nán	柳州柳南
 liǔ zhōu lù zhài	柳州鹿寨
-liù zhōu mǎo cūn	碌碡峁村
-liù zhōu píng cūn	碌碡坪村
+liù zhóu mǎo cūn	碌碡峁村
+liù zhóu píng cūn	碌碡坪村
 liǔ zhōu róng ān	柳州融安
 liǔ zhōu róng shuǐ	柳州融水
 liǔ zhōu sān jiāng	柳州三江
 liǔ zhōu yú fēng	柳州魚峰
-liù zhōu yuán cūn	碌碡塬村
+liù zhóu yuán cūn	碌碡塬村
 liú zhú qiū zhuāng	劉竹秋莊
 liú zhù yáo cūn	留柱窯村
 liú zhú yuán cūn	劉竹園村
@@ -54361,7 +54351,7 @@ sài lā lóng xiāng	賽拉隆鄉
 sài lái táng zhèn	賽來塘鎮
 sài lǐ mù zhèn	賽里木鎮
 sāi lǔ yán xiàn	塞魯延縣
-sāi shàng shuǐ xiāng	塞上水鄉
+sài shàng shuǐ xiāng	塞上水鄉
 sài shí sī zhèn	賽什斯鎮
 sài tú lā zhèn	賽圖拉鎮
 sài wài jiǔ bǎo	塞外酒堡
@@ -57250,7 +57240,7 @@ shuāng liǔ shù cūn	雙柳樹村
 shuāng liǔ shù zhèn	雙柳樹鎮
 shuāng liū suǒ xiāng	雙溜索鄉
 shuāng liú wān cūn	雙劉灣村
-shuāng liù zhōu cūn	雙碌碡村
+shuāng liù zhóu cūn	雙碌碡村
 shuāng lóng chǎng xiāng	雙龍場鄉
 shuāng lóng jiē cūn	雙龍街村
 shuāng lóng jiē dào	雙龍街道
@@ -63421,7 +63411,7 @@ xī rú lín cūn	西儒林村
 xī rú zǐ cūn	西茹子村
 xī sà diàn zhèn	西卅店鎮
 xī sà lā cūn	西薩拉村
-xī sāi shān qū	西塞山區
+xī sài shān qū	西塞山區
 xī sān jiào cūn	西三教村
 xī sān lǐ cūn	西三里村
 xī sān lǐ xiāng	西三里鄉
@@ -66119,11 +66109,11 @@ xīn zhuāng wō cūn	新莊窩村
 xīn zhuāng yíng cūn	辛莊營村
 xīn zhuāng yíng xiāng	辛莊營鄉
 xīn zhuāng yuán cūn	新莊塬村
-xīn zhuāng zǐ cūn	辛莊子村
-xīn zhuāng zǐ cūn	新莊子村
-xīn zhuāng zǐ xiāng	辛莊子鄉
-xīn zhuāng zǐ xiāng	新莊子鄉
-xīn zhuāng zǐ zhèn	新莊子鎮
+xīn zhuāng zi cūn	辛莊子村
+xīn zhuāng zi cūn	新莊子村
+xīn zhuāng zi xiāng	辛莊子鄉
+xīn zhuāng zi xiāng	新莊子鄉
+xīn zhuāng zi zhèn	新莊子鎮
 xīng ān bǎo cūn	興安堡村
 xīng ān jiē dào	興安街道
 xīng ān yíng cūn	興安營村
@@ -74510,7 +74500,7 @@ huáng shān xiū níng xiàn	黃山休寧縣
 huáng shí gǎng jiē dào	黃石港街道
 huáng shí huáng shí gǎng	黃石黃石港
 huáng shí shì jiē dào	黃石市街道
-huáng shí xī sāi shān	黃石西塞山
+huáng shí xī sài shān	黃石西塞山
 huáng shí yáng xīn xiàn	黃石陽新縣
 huáng shī zhài lín chǎng	黃獅寨林場
 huáng sī wān jiē dào	黃思灣街道
@@ -82560,7 +82550,7 @@ huán rén mǎn zú zì zhì xiàn	桓仁滿族自治縣
 huāng hú nóng chǎng guǎn lǐ qū	荒湖農場管理區
 huáng nán zàng zú zì zhì zhōu	黃南藏族自治州
 huáng shí shì huáng shí gǎng qū	黃石市黃石港區
-huáng shí shì xī sāi shān qū	黃石市西塞山區
+huáng shí shì xī sài shān qū	黃石市西塞山區
 huáng yán lǚ yóu dù jià qū	黃岩旅遊度假區
 jí ān shì jǐng gāng shān shì	吉安市井岡山市
 jí bā mén bā mín zú xiāng	吉巴門巴民族鄉
@@ -82883,7 +82873,7 @@ rǔ chéng jīng jì kāi fā qū	汝城經濟開發區
 rú gāo shì jiāng bīn yī yuàn	如皋市江濱醫院
 rǔ yuán yáo zú zì zhì xiàn	乳源瑤族自治縣
 sà ěr yě mù lè mù chǎng	薩爾也木勒牧場
-sāi hǎn bà jī xiè lín chǎng	塞罕壩機械林場
+sài hǎn bà jī xiè lín chǎng	塞罕壩機械林場
 sài hǎn wū lì jí sū mù	賽罕烏力吉蘇木
 sài yīn hū dōu gā sū mù	賽音呼都嘎蘇木
 sān dū shuǐ zú zì zhì xiàn	三都水族自治縣

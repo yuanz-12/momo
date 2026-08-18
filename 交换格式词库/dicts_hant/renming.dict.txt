@@ -305,6 +305,10 @@ féng kūn	馮坤
 féng mǐn	馮敏
 féng tè	馮特
 féng xīn	馮鑫
+fù jūn	付軍
+fù liàng	付亮
+fù qiáng	付強
+fù yǒng	付勇
 gù hǎi	顧海
 guō bīn	郭斌
 guō jiàn	郭建
@@ -381,6 +385,13 @@ hé yuǎn	何遠
 hé yún	何雲
 hé zhèn	何震
 hé zhì	何志
+hóng chāng	洪昌
+hóng dé	洪德
+hóng lín	洪林
+hóng méi	洪梅
+hóng quán	洪泉
+hóng shēng	洪生
+hóng wěi	洪偉
 huà bāng	華邦
 huà càn	華燦
 huà chāng	華昌
@@ -822,6 +833,7 @@ lǐ zhì	李智
 lǐ zhǔn	李準
 lǐ zhuó	李卓
 lǐ zōng	李宗
+liáng jiàn	梁健
 liáng kǎi	梁楷
 liáng lín	梁林
 liáng níng	梁寧
@@ -1279,6 +1291,7 @@ qí jì	齊驥
 qí jìn	齊進
 qí kē	齊科
 qí míng	齊鳴
+qí míng	齊明
 qí píng	齊平
 qí shēng	齊升
 qí téng	齊藤
@@ -2098,11 +2111,8 @@ yóu nà	尤娜
 yóu ruì	尤瑞
 yóu sà	尤薩
 yú ān	餘安
-yú běn	余本
 yú bīn	余斌
-yú bō	餘波
 yú dōng	餘東
-yú fāng	余方
 yú fēi	余飛
 yú fēng	餘風
 yú hóng	余虹
@@ -2480,6 +2490,7 @@ zhōu sòng	周頌
 zhōu sōng	周松
 zhōu tōng	周通
 zhōu wěi	周偉
+zhōu wéi	周為
 zhōu wén	周文
 zhōu wǔ	周武
 zhōu xiá	周霞
@@ -2571,7 +2582,6 @@ zhū yù	朱玉
 zhū zhèng	朱正
 zhū zhòu	朱晝
 zhuāng kē	莊科
-zī míng	齊明
 zōu lǔ	鄒魯
 zōu tāo	鄒濤
 bái yī cōng	白一驄
@@ -3074,7 +3084,6 @@ chén jiā hé	陳家和
 chén jiā huán	陳嘉桓
 chén jiā huī	陳嘉輝
 chén jiā jiā	陳佳佳
-chén jiā jū	陳家駒
 chén jiā jùn	陳嘉俊
 chén jiā jùn	陳家俊
 chén jiā lái	陳家來
@@ -3086,7 +3095,6 @@ chén jiā mén	陳家門
 chén jiā míng	陳家明
 chén jiā míng	陳佳明
 chén jiā qiáng	陳家強
-chén jiā rén	陳家人
 chén jiā yuán	陳家園
 chén jiā yuán	陳家源
 chén jiā zhēn	陳家珍
@@ -4516,29 +4524,45 @@ féng zì yóu	馮自由
 féng zǐ zhèn	馮子振
 fù bó jié	傅伯傑
 fù cǎi lín	傅采林
+fù cháng yǒng	付常勇
 fù dá rén	傅達仁
 fù dà shì	傅大士
 fù dǐng shēng	傅鼎生
 fù dōng yù	傅東育
+fù guāng míng	付光明
+fù guì róng	付桂榮
 fù guó shēng	傅國生
 fù guó yǒng	傅國湧
 fù hǎi táng	傅海棠
+fù hóng méi	付紅梅
 fù huá yáng	傅華陽
+fù jiàn zhōng	付建忠
 fù jīng sūn	傅京孫
 fù juàn fū	傅狷夫
 fù lán yǎ	傅蘭雅
 fù lǎo róng	傅老榕
+fù lì chūn	付立春
+fù lì xīn	付立新
+fù lì yàn	付麗艷
 fù lián zhāng	傅連暲
 fù qīng zhǔ	傅青主
 fù shèn xíng	傅慎行
 fù shí yá	傅石涯
+fù shùn yì	付順義
 fù tiān lín	傅天琳
 fù tiān yǐng	傅天穎
+fù tíng tíng	付婷婷
 fù tíng yàn	付庭彥
 fù wèi gāng	傅蔚岡
+fù wèi huá	付衛華
+fù xiān fēng	付先鋒
 fù xiǎo ān	傅筱庵
+fù xiǎo fāng	付小芳
+fù xiǎo fāng	付曉芳
 fù xiào tán	付笑談
 fù xiǎo tián	傅曉田
+fù xīn huá	付新華
+fù xuě hǎi	付雪海
 fù yǒu xīng	傅友興
 fù zhèn huī	傅振輝
 fù zhèn zhōng	傅振中
@@ -6027,6 +6051,7 @@ kǒng zǐ mén	孔子門
 kǒng zǐ xià	孔子下
 kǒng zǐ yě	孔子也
 kǒng zuì xué	孔最穴
+lái dé jī	萊德基
 léi ào lì	雷奧利
 léi bào yǔ	雷暴雨
 léi bèi qín	雷貝琴
@@ -6082,12 +6107,8 @@ léi ōu lì	雷歐力
 léi píng yáng	雷平陽
 léi pǔ lì	雷普利
 léi qìng yáo	雷慶瑤
-léi qū èr	雷區二
-léi qū sān	雷區三
-léi qū yī	雷區一
 léi róng zǔ	雷榮祖
 léi shén dǎo	雷神島
-léi shén yī	雷神一
 léi sī bèi	雷斯貝
 léi sī jiā	雷斯家
 léi sī kù	雷斯庫
@@ -6112,8 +6133,6 @@ léi zhì chéng	雷志成
 léi zhì qiáng	雷志強
 léi zhì yǒng	雷志勇
 léi zī nà	雷茲納
-lǐ ā dà	李阿大
-lǐ ā pó	李阿婆
 lǐ ài guó	李愛國
 lǐ ài huá	李愛華
 lǐ ài líng	李愛玲
@@ -6290,7 +6309,6 @@ lǐ cún yì	李存義
 lǐ dà bǎo	李大寶
 lǐ dá chāo	李達超
 lǐ dà chéng	李大成
-lǐ dà dǎn	李大膽
 lǐ dà fā	李大發
 lǐ dà guó	李大國
 lǐ dà hǎi	李大海
@@ -6319,8 +6337,6 @@ lǐ dān nī	李丹妮
 lǐ dān yáng	李丹陽
 lǐ dào kuí	李稻葵
 lǐ dào míng	李道明
-lǐ dǎo yǎn	李導演
-lǐ dào zhǎng	李道長
 lǐ dào zōng	李道宗
 lǐ dé cái	李德才
 lǐ dé chéng	李德成
@@ -6379,12 +6395,6 @@ lǐ ēn jié	李恩傑
 lǐ ēn měi	李恩美
 lǐ ēn xī	李蒽熙
 lǐ ēn zhū	李恩珠
-lǐ èr gǒu	李二狗
-lǐ èr láng	李二郎
-lǐ èr niú	李二牛
-lǐ èr rén	李二人
-lǐ èr sǎo	李二嫂
-lǐ èr wá	李二娃
 lǐ ěr wáng	李爾王
 lǐ fán xiù	李凡秀
 lǐ fāng fāng	李芳芳
@@ -6419,7 +6429,6 @@ lǐ gōng lín	李公麟
 lǐ gōng pǔ	李公樸
 lǐ gōng zuǒ	李公佐
 lǐ gǒu dàn	李狗蛋
-lǐ gǒu hāi	李狗嗨
 lǐ guāng dì	李光地
 lǐ guāng dòu	李光鬥
 lǐ guāng huá	李光華
@@ -9618,6 +9627,8 @@ ruǎn yì nǚ	阮逸女
 ruǎn zǐ yán	阮子岩
 shān běn kuān	山本寬
 shān tián yáng	山田洋
+shàng guān hóng	上官红
+shàng guān hóng	上官虹
 shào bǎo chún	邵葆醇
 shào bǐng fèng	邵炳鳳
 shào bó yōng	邵伯雍
@@ -10334,6 +10345,17 @@ sūn zì fǎ	孫自法
 sūn zi gāo	孫子高
 sūn zi sūn	孫子孫
 sūn zi yáng	孫子楊
+tán wàn jūn	譚萬鈞
+tán wěi háo	譚偉豪
+tán wéi yì	譚維義
+tán xiàng dōng	譚向東
+tán xiāng wén	譚香文
+tán xiǎo fāng	譚小芳
+tán xiǎo píng	譚小平
+tán xiǎo shēng	譚曉生
+tán xué jūn	譚學軍
+tán yǎ líng	譚雅玲
+tán yǔ hán	譚雨涵
 táo ài qīng	陶艾青
 táo bǎi chuān	陶百川
 táo bì huá	陶碧華
@@ -10783,7 +10805,6 @@ wáng jì zhōng	王繼忠
 wáng jiā bǎo	王家寶
 wáng jiā dà	王家大
 wáng jiā fēng	王家峯
-wáng jiā jū	王家駒
 wáng jiā liáng	王佳梁
 wáng jiā liè	王家烈
 wáng jiā mǐn	王佳敏
@@ -12588,6 +12609,7 @@ xiè zhì yǔ	謝志宇
 xiè zhōng dào	謝忠道
 xiè zhōng yán	謝忠岩
 xiè zhōu sān	謝週三
+xíng lì juān	刑麗娟
 xióng jiàn qiū	熊建秋
 xǔ ài lián	許愛蓮
 xú ài xiá	徐愛霞
