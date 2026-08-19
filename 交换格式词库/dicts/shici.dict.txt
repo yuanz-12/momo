@@ -59334,13 +59334,6 @@ fú shuǐ yí qīng tīng	拂水宜清听
 fū shuí yǔ wáng dí	夫谁与王敌
 fú shuǐ zhī piān ruò	拂水枝偏弱
 fú shuǐ zhuàng fān cháo	拂水状翻潮
-fù shuō bǎn zhù chén	傅说版筑臣
-fù shuō jiàng lín yǔ	傅说降霖雨
-fù shuō míng yīn dào	傅说明殷道
-fù shuō mò guī yán	傅说莫归岩
-fù shuō shì xīng jīng	傅说是星精
-fù shuō wèi mèng shí	傅说未梦时
-fù shuō yǐ yán méi	傅说已盐梅
 fú sī cháo gòng luò	罘罳朝共落
 fù sì luò yáng cái	复似洛阳才
 fù sī shān lù hán	复思山路寒
@@ -59795,8 +59788,15 @@ fù yǔ zhū dì zǐ	复与诸弟子
 fū yú zhú mǎ láng	敷腴竹马郎
 fǔ yuān cè fú yún	俯渊测浮云
 fǔ yuàn yǒu bāo zi	府掾有包子
+fù yuè bǎn zhù chén	傅说版筑臣
 fú yuè dài jiāng hán	浮月带江寒
+fù yuè jiàng lín yǔ	傅说降霖雨
+fù yuè míng yīn dào	傅说明殷道
+fù yuè mò guī yán	傅说莫归岩
+fù yuè shì xīng jīng	傅说是星精
+fù yuè wèi mèng shí	傅说未梦时
 fǔ yuè xià qīng míng	斧钺下青冥
+fù yuè yǐ yán méi	傅说已盐梅
 fú yún àn cháng lù	浮云暗长路
 fú yún báo jiàn zhē	浮云薄渐遮
 fú yún báo wèi guī	浮云薄未归
@@ -72629,7 +72629,7 @@ hé dāng suì liáng yuàn	何当遂良愿
 hé dāng suì róng zhuó	何当遂荣擢
 hé dāng suì yuǎn yóu	何当遂远游
 hé dāng tán jué dǎo	何当谈绝倒
-hé dāng tóng fù shuō	何当同傅说
+hé dāng tóng fù yuè	何当同傅说
 hé dāng tóng gù yǐng	何当同顾影
 hé dāng tóng huáng fēng	何当同皇风
 hé dāng wàn lǐ kè	何当万里客
@@ -126801,7 +126801,7 @@ qǐ zhī dēng lǒng yuǎn	岂知登陇远
 qǐ zhī èr shí nián	岂知二十年
 qì zhī fǎn wú míng	弃知返无名
 qì zhì fēi rén lì	弃置非人力
-qǐ zhī fù shuō qíng	岂知傅说情
+qǐ zhī fù yuè qíng	岂知傅说情
 qǐ zhī guān shān kǔ	岂知关山苦
 qì zhī hǎi shàng xíng	弃之海上行
 qí zhì hé bīn fēn	旗帜何缤纷
@@ -163459,7 +163459,7 @@ tí xié dāng yǒu lù	提携当有路
 tí xié dào jìn jīng	提携到近京
 tí xié fǎn máo shè	提携反茅舍
 tí xié fǎng shén xiān	提携访神仙
-tí xié fù shuō tú	提携傅说图
+tí xié fù yuè tú	提携傅说图
 tí xié gòng yǐn bīng	提携共饮冰
 tí xié guān huà bì	提携观画壁
 tí xié guǎn wá gōng	提携馆娃宫
@@ -182775,7 +182775,7 @@ xián háo zàn jīng lún	贤豪赞经纶
 xián háo zhēng zhuī pān	贤豪争追攀
 xiān háo zhǐ zhú lú	纤毫指舳舻
 xiān hè duì shén lóng	仙鹤对神龙
-xiān hé fù shuō gēng	先和傅说羹
+xiān hé fù yuè gēng	先和傅说羹
 xián hé guǎ xuān sòng	闲合寡喧讼
 xiān hè pái mén qǐ	仙鹤排门起
 xiān hè xià rén jiān	仙鹤下人间
@@ -188296,7 +188296,7 @@ xīn féng bǎi tái yǒu	欣逢柏台友
 xīn fèng běi chǎng yóu	欣奉北场游
 xìn fēng cuī guò kè	信风催过客
 xīn féng dé huà liú	欣逢德化流
-xīn féng fù shuō lín	欣逢傅说霖
+xīn féng fù yuè lín	欣逢傅说霖
 xīn fēng gǔ lí gōng	新丰古离宫
 xīn fēng guò luò huā	新丰过落花
 xīn fèng jì fén piān	欣奉济汾篇
@@ -218768,7 +218768,7 @@ zèng yán wēi suǒ qiú	赠言微所求
 zèng yán wéi wǎn qǔ	赠言为挽曲
 zèng yán wèi zhōng jìng	赠言未终竟
 zèng yán yáng bó qǐ	赠言杨伯起
-zèng yán yīn fù shuō	赠言因傅说
+zèng yán yīn fù yuè	赠言因傅说
 zèng yán yōu jìng lán	赠言幽径兰
 zēng yì fēn tài cháng	增一分太长
 zèng yǐ shǔ mǎ chuí	赠以蜀马棰
@@ -230936,7 +230936,7 @@ zuǒ lǐ xīng chén guì	佐理星辰贵
 zuò lǐ yuè guāng miàn	作礼月光面
 zuò lián chūn wù jìn	坐怜春物尽
 zuò lián yī dài shē	坐怜衣带赊
-zuò lín qī fù shuō	作霖期傅说
+zuò lín qī fù yuè	作霖期傅说
 zuó lín sū dān jǐng	昨临苏耽井
 zuò lín yīng zì cǐ	作霖应自此
 zuò lìng chán kè xiào	坐令禅客笑
@@ -257359,8 +257359,6 @@ fù shuǐ què shōu bù mǎn bēi	覆水却收不满杯
 fū shuǐ xíng mò rú yòng zhōu	夫水行莫如用舟
 fù shuǐ zài shōu qǐ mǎn bēi	覆水再收岂满杯
 fù shuǐ zé jiē yè chí yí	赴水则接腋持颐
-fù shuō shuō mìng sān sì zhǐ	傅说说命三四纸
-fù shuō zhōu máng bú jiè rén	傅说舟忙不借人
 fù sì dāng shí shuǐ rào chuáng	复似当时水绕床
 fù sì pí yé zhǎng zhě jiā	复似毗耶长者家
 fú sì qǔ wǔ xuàn fēng huā	拂四取五旋风花
@@ -257487,7 +257485,9 @@ fù yuán shī xūn sāi tiān dì	副元师勋塞天地
 fǔ yuàn yìng cóng dào rì xián	府掾应从到日闲
 fú yuán zé dōng hǎi kě lì	浮鼋则东海可厉
 fǔ yuè jiù wēi lóng sài běi	斧钺旧威龙塞北
+fù yuè shuō mìng sān sì zhǐ	傅说说命三四纸
 fǔ yuè zhī wēi fú néng jìn	斧钺之威弗能禁
+fù yuè zhōu máng bú jiè rén	傅说舟忙不借人
 fú yún bì rì qù bù fǎn	浮云蔽日去不返
 fú yún biàn huà wú zōng jì	浮云变化无踪迹
 fú yún bú fù qīng chūn sè	浮云不负青春色
@@ -320681,7 +320681,7 @@ yǒu hé gōng dé jí shēng rén	有何功德及生人
 yǒu hé gōng dé yū jīn zǐ	有何功德纡金紫
 yóu hé hàn ér wú jí yě	犹河汉而无极也
 yǒu hé rú páo kě diāo zhuó	有核如匏可雕琢
-yóu hé yán méi fù shuō gēng	犹和盐梅傅说羹
+yóu hé yán méi fù yuè gēng	犹和盐梅傅说羹
 yòu hé zú yǐ chēng yáng zāi	又何足以称扬哉
 yóu hèn zūn qián qiàn lǎo liú	犹恨尊前欠老刘
 yǒu héng chǎn zhě yǒu héng xīn	有恒产者有恒心
