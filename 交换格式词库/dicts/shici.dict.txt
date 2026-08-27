@@ -84134,6 +84134,7 @@ jiā guó shēn yóu fù	家国身犹负
 jiā guó shuāi qiān gǔ	家国衰千古
 jià hǎi bō chéng jìng	架海波澄镜
 jià hǎi yì lái sī	驾海亦来思
+jià hǎi zǐ jīn liáng	架海紫金梁
 jià hè lái wú rì	驾鹤来无日
 jiā hé lù jǐ qiān	嘉禾路几千
 jiā hé shù yù yù	夹河树郁郁
@@ -84487,6 +84488,7 @@ jiā rén jiàn wēng sūn	佳人剑翁孙
 jiā rén jiē zhù lì	家人皆伫立
 jiā rén jīn gǔ fǎn	佳人金谷返
 jiā rén jìn qīng guó	佳人尽倾国
+jiā rén jìng wǎn zhuāng	佳人靓晚妆
 jiā rén jué dài gē	佳人绝代歌
 jiā rén kǔ jiāo bēi	佳人苦胶杯
 jiā rén kuàng wú qī	佳人旷无期
@@ -84494,7 +84496,6 @@ jiā rén lái gào yǔ	家人来告予
 jiā rén lái hé mù	佳人来何暮
 jiā rén lái wú qī	佳人来无期
 jiā rén lǐ fà péng	佳人理发蓬
-jiā rén liàng wǎn zhuāng	佳人靓晚妆
 jiā rén lǚ huí gù	佳人屡回顾
 jiā rén mǎn jìn chuán	佳人满近船
 jiā rén mǎn shí chéng	佳人满石城
@@ -116250,7 +116251,7 @@ mò mò fù fēn fēn	漠漠复雰雰
 mò mò fù mò mò	脉脉复脉脉
 mò mò fù yíng yíng	脉脉复盈盈
 mò mò guǎng chuān liú	脉脉广川流
-mò mò hóng qú liàng	脉脉红蕖靓
+mò mò hóng qú jìng	脉脉红蕖靓
 mò mò hū hé bó	默默乎河伯
 mò mò huā luò jìn	漠漠花落尽
 mò mò huā shēng zhǔ	漠漠花生渚
@@ -162861,7 +162862,7 @@ tāo léi yīn bái zhòu	涛雷殷白昼
 táo lǐ bù gǎn zhēng	桃李不敢争
 táo lǐ bù rú sōng	桃李不如松
 táo lǐ cán wú yǔ	桃李惭无语
-táo lǐ chén zhuāng liàng	桃李晨妆靓
+táo lǐ chén zhuāng jìng	桃李晨妆靓
 táo lǐ chū shēn jǐng	桃李出深井
 táo lǐ chūn chéng jìng	桃李春成径
 táo lǐ chūn zhòu yán	桃李春昼妍
@@ -179314,7 +179315,7 @@ wú zài zhú yú lǔ	吾再逐于鲁
 wǔ zàng nán ān tián	五藏难安恬
 wǔ zàng wú quán niú	五藏无全牛
 wú zǎo yóu kě shí	无枣犹可食
-wú zǎo zhī yǒu liàng	吾早知有靓
+wú zǎo zhī yǒu jìng	吾早知有靓
 wú zé yì shēn xiū	无责易身修
 wū zhái cǐ shēn xíng	屋宅此身形
 wǔ zhāi hé jiǎn jié	午斋何俭洁
@@ -192414,7 +192415,6 @@ xuān hán shēn qiǎn chūn	暄寒深浅春
 xuān hán zǎo zǎo fēn	暄寒早早分
 xuān hào jiù wéi lǚ	轩昊旧为侣
 xuān hè bì jī qún	轩鹤避鸡群
-xuān hè dà liáng chéng	煊赫大梁城
 xuán hè fēn chéng liè	玄鹤纷成列
 xuān hé hǎo shí jié	暄和好时节
 xuān hè liú hé yòng	轩鹤留何用
@@ -247039,7 +247039,7 @@ chén zhōu cè pàn qiān fān guò	沉舟侧畔千帆过
 chén zhōu cè pàn qiān fān jìn	沉舟侧畔千帆进
 chèn zhù chūn shān yóu shàng yuàn	趁著春衫游上苑
 chén zhuāng dú pěng zǐ ní shū	晨装独捧紫泥书
-chén zhuāng liàng fú lín xī hú	晨妆靓服临西湖
+chén zhuāng jìng fú lín xī hú	晨妆靓服临西湖
 chén zǐ qín wèi zǐ gòng yuē	陈子禽谓子贡曰
 chén zǐ yī zhé jīn wǔ nián	臣子一谪今五年
 chén zūn tóu xiá qíng hé hòu	陈遵投辖情何厚
@@ -284575,11 +284575,11 @@ nüè rén hài wù jí chái láng	虐人害物即豺狼
 ǒu jiàn zài yīn qiáng xià kuí	偶见在阴墙下葵
 ǒu jīng huā ruǐ nòng huī huī	偶经花蕊弄辉辉
 ōu jīng wù fú fèng huáng chí	鸥惊误拂凤凰池
+ōu jìng yāo zhī liǔ yī wō	欧靓腰支柳一涡
 ǒu lái hé shì qù hé qíng	偶来何事去何情
 ǒu lái jiāng wài jì xíng zōng	偶来江外寄行踪
 ǒu lái rén shì zhí zhōng yuán	偶来人世值中元
 ǒu lái xián kè dú duō qíng	偶来闲客独多情
-ōu liàng yāo zhī liǔ yī wō	欧靓腰支柳一涡
 ǒu liú yī xuè qiān shān shàng	偶留一吷千山上
 ōu lù shāo huí qīng ǎi wài	鸥鹭稍回青霭外
 ōu niǎo jiān jiā chéng sì lín	鸥鸟蒹葭成四邻

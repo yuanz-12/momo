@@ -22424,7 +22424,6 @@ sort: by_weight
 更接近真实	gèng;an jiē;fn jìn;zt zhēn;ub shí;bd	10
 更近的距离	gèng;an jìn;zt de;bu jù;zj lí;wn	10
 更近了一步	gèng;an jìn;zt le;al yí;aa bù;vu	10
-更进了一步	gèng;an jìn;zj le;al yí;aa bù;vu	10
 更进一杯酒	gèng;an jìn;zj yì;aa bēi;ab jiǔ;dy	10
 更进一步地	gèng;an jìn;zj yí;aa bù;vu de;ty	10
 更精微细节	gèng;an jīng;mo wēi;rj xì;st jié;ce	10
@@ -22564,7 +22563,6 @@ sort: by_weight
 汞等重金属	gǒng;gu děng;vc zhòng;ql jīn;rb shǔ;uy	10
 供弟弟上学	gōng;rg dì;bd di;bd shàng;ba xué;xz	10
 工地试验室	gōng;aa dì;ty shì;yg yàn;mq shì;bt	10
-工地实验室	gōng;aa dì;ty shí;bd yàn;mq shì;bt	10
 供电可靠率	gōng;rg diàn;ov,yv kě;dk kào;nf lǜ;wu	10
 共点力平衡	gòng;cb diǎn;vh lì;vp píng;au héng;rd	10
 宫殿式建筑	gōng;bk diàn;uu shì;gg jiàn;zy zhù;vf	10
@@ -36162,7 +36160,6 @@ sort: by_weight
 旧扎戈拉州	jiù;lo zhā;fv gē;yd lā;fl zhōu;dl	10
 九寨千古情	jiǔ;pv zhài;ba qiān;pu gǔ;uk qíng;xo	10
 九章算术注	jiǔ;pv zhāng;lu suàn;vc shù;ad zhù;dv	10
-救赵挥金锤	jiù;qw zhào;tx huī;fi jīn;rb chuí;jt	10
 就这么办吧	jiù;wy zhè;zw me;ps bàn;lb ba;kb	10
 就这么呆着	jiù;wy zhè;zw me;ps dāi;ka zhe;yo	10
 就这么着吧	jiù;wy zhè;zw me;ps zhāo;yo ba;kb	10
@@ -40935,6 +40932,8 @@ sort: by_weight
 量累积曲线	liàng;ol lěi;tx jī;hv qū;wc,ck xiàn;sj	10
 亮丽的风景	liàng;wj lì;ad de;bu fēng;jx jǐng;ox	10
 靓丽的美女	liàng;fj lì;ad de;bu měi;yd nǚ;va	10
+靓丽的名片	liàng;fj lì;ad de;bu míng;xk piàn;pv	10
+亮丽的名片	liàng;wj lì;ad de;bu míng;xk piàn;pv	10
 靓丽的容貌	liàng;fj lì;ad de;bu róng;bg mào;ve	10
 靓丽的容颜	liàng;fj lì;ad de;bu róng;bg yán;wy	10
 亮丽的色彩	liàng;wj lì;ad de;bu sè;db cǎi;vp	10
@@ -73251,6 +73250,7 @@ sort: by_weight
 小规模纳税	xiǎo;lb guī;fj mó;ad nà;sn shuì;hx	10
 小规模试验	xiǎo;lb guī;fj mó;ad shì;yg yàn;mq	10
 小归纳维数	xiǎo;lb guī;le nà;sn wéi;sv shù;mw	10
+小鬼坐龙庭	xiǎo;lb guǐ;ps zuò;tr lóng;yp tíng;gw	40
 小果盾翅藤	xiǎo;lb guǒ;ta dùn;io chì;vx téng;cu	10
 效果更好哦	xiào;ww guǒ;ta gèng;an hǎo;nz ó;kw	10
 效果更佳哦	xiào;ww guǒ;ta gèng;an jiā;rt ó;kw	10
@@ -89420,6 +89420,8 @@ sort: by_weight
 猪主动脉瓣	zhū;qo zhǔ;wt dòng;yl mài;oy bàn;xg	10
 主转动惯量	zhǔ;wt zhuàn;iv dòng;yl guàn;xb liàng;ol	10
 逐桩坐标表	zhú;zu zhuāng;at zuò;tr biāo;au biǎo;fy	10
+柱子比较多	zhù;av zi;la bǐ;bb jiào;if duō;xx	12
+竹子比较多	zhú;gg zi;la bǐ;bb jiào;if duō;xx	10
 诸子均分制	zhū;yo zǐ;la jūn;ty fēn;bd zhì;nd	10
 著作权案件	zhù;co zuò;rv quán;ay àn;ba jiàn;rn	10
 著作权权属	zhù;co zuò;rv quán;ay quán;ay shǔ;uy	10
@@ -102450,7 +102452,9 @@ sort: by_weight
 放他一条生路	fàng;fw tā;ry yì;aa tiáo;wa shēng;pf lù;zk	10
 方太抽油烟机	fāng;wv tài;dd chōu;fy yóu;dy yān;hy jī;aj	10
 仿碳纤维饰板	fǎng;rf tàn;uh xiān;sq wéi;sv shì;uj bǎn;ay	10
+方特东方神画	fāng;wv tè;nc dōng;ax fāng;wv shén;pu huà;at	10
 方特欢乐世界	fāng;wv tè;nc huān;yq lè;px shì;cv jiè;tj	10
+方特梦幻王国	fāng;wv tè;nc mèng;ax huàn;yv wáng;at guó;wy	10
 方天画戟就是	fāng;wv tiān;ad huà;at jǐ;ug jiù;wy shì;oz	10
 方田均税条约	fāng;wv tián;wu jūn;ty shuì;hx tiáo;wa yuē;su	10
 防伪查询系统	fáng;ef wěi;rw chá;ad xún;yo xì;px tǒng;sy	10
@@ -146554,7 +146558,6 @@ sort: by_weight
 嘴里念念有词	zuǐ;ky lǐ;tt niàn;rx niàn;rx yǒu;uo cí;yk	10
 最凉不过人心	zuì;oy liáng;dx bú;ab guò;zc rén;pn xīn;dd	10
 最亮的一颗星	zuì;oy liàng;wj de;bu yì;aa kē;gy xīng;ou	10
-最靓嘅猪腩肉	zuì;oy liàng;fj kǎi;kw zhū;qo nǎn;og ròu;nr	10
 最亮眼的地方	zuì;oy liàng;wj yǎn;og de;bu dì;ty fāng;wv	10
 最流行的发型	zuì;oy liú;di xíng;rd de;bu fà;fy xíng;kt	10
 最流行的歌曲	zuì;oy liú;di xíng;rd de;bu gē;kq qǔ;wc,ck	10
@@ -153492,7 +153495,6 @@ sort: by_weight
 防锁死刹车系统	fáng;ef suǒ;jb sǐ;db shā;xd chē;au xì;px tǒng;sy	10
 方太水槽洗碗机	fāng;wv tài;dd shuǐ;ln cáo;ao xǐ;de wǎn;uv jī;aj	10
 方特欢乐世界站	fāng;wv tè;nc huān;yq lè;px shì;cv jiè;tj zhàn;lv	10
-方特梦幻王国东	fāng;wv tè;nc mèng;ax huàn;yv wáng;at guó;wy dōng;ax	10
 方位高度显示器	fāng;wv wèi;rl gāo;wk dù;gy xiǎn;oy shì;ex,ax qì;xx	10
 防卫省情报本部	fáng;ef wèi;ea shěng;uo qíng;xo bào;fy běn;aa bù;le	10
 防卫医科大学校	fáng;ef wèi;ea yī;ku kē;hd dà;ar xué;xz xiào;af	10
