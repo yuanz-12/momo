@@ -1,7 +1,8 @@
 name: 自动下载词典 → 运行脚本 → 提交结果
+
 on:
   schedule:
-    - cron: '0 22 * * *' # UTC 22:00 UTC+8 6:00
+    - cron: '0 22 * * *' # UTC 22:00 = UTC+8 6:00
   workflow_dispatch:
 
 permissions:
@@ -14,44 +15,30 @@ jobs:
       - name: 拉取仓库代码
         uses: actions/checkout@v6
 
-      - name: 下载并筛选目标仓库的最新词典文件
+      - name: 下载并解压上游 nightly 词库
         run: |
-          # 1. 创建按功能分类的输入文件夹结构
-          mkdir -p input_dicts/dicts
-          mkdir -p input_dicts/dicts_hant
-          
-          # 2. 克隆仓库，并分别将 dicts 与 dicts_hant 内的文件复制到对应目录下
-          git clone --depth 1 --branch wanxiang https://github.com/amzxyz/RIME-LMDG.git temp_repo
-          cp -r temp_repo/dicts/* input_dicts/dicts/
-          cp -r temp_repo/dicts_hant/* input_dicts/dicts_hant/
-          rm -rf temp_repo
-          
-          # 3. 自动排除来自于 RIME-LMDG 的所有前缀为 en 和 mixed 的文件
-          rm -f input_dicts/dicts/en* input_dicts/dicts/mixed*
-          rm -f input_dicts/dicts_hant/en* input_dicts/dicts_hant/mixed*
-          echo "已排除所有前缀为 en 和 mixed 的文件"
-          
-          # 4. 追加下载 moe.dict.yaml 到 input_dicts/dicts 目录下
-          curl -L "https://raw.githubusercontent.com/suiginko/moetype/main/moe.dict.yaml" \
-            -o "input_dicts/dicts/moe.dict.yaml"
-          echo "已成功追加下载 moe.dict.yaml 到 dicts 目录"
+          mkdir -p input_dicts tmp_extract/pro tmp_extract/zian
 
-      - name: 处理原始词库
-        run: |
-          python -m pip install --upgrade pip
-          pip install tqdm
-          mkdir -p output_dicts
-          # 如果仓库里没有辅助码表文件夹，强制建一个空的防止 Python 脚本崩溃
-          mkdir -p "辅助码表"
-          python duofuzhu.py
+          # 1. 下载两个 release 压缩包（-f 让 HTTP 404 等错误直接失败）
+          curl -fL "https://github.com/Carlson24/rime-config/releases/download/nightly/dicts-pro.tar.bz2" \
+            -o dicts-pro.tar.bz2
+          curl -fL "https://github.com/Carlson24/rime-config/releases/download/nightly/dicts-zian-pro.tar.bz2" \
+            -o dicts-zian-pro.tar.bz2
 
-      - name: 深入子目录批量重命名词库 (*.dict.yaml -> *.pro.dict.yaml)
-        run: |
-          find output_dicts -type f -name "*.dict.yaml" | while read -r file; do
-            new_name="${file%.dict.yaml}.pro.dict.yaml"
-            mv "$file" "$new_name"
-            echo "✅ 已重命名: $file -> $new_name"
-          done
+          # 2. 分别解压到临时目录
+          tar -xjf dicts-pro.tar.bz2      -C tmp_extract/pro
+          tar -xjf dicts-zian-pro.tar.bz2 -C tmp_extract/zian
+
+          # 3. 展平：两个压缩包内的所有词库文件统一移入 input_dicts
+          find tmp_extract -type f \( -name "*.yaml" -o -name "*.yml" -o -name "*.txt" \) \
+            -exec mv -v {} input_dicts/ \;
+
+          # 4. 清理临时文件
+          rm -rf tmp_extract dicts-pro.tar.bz2 dicts-zian-pro.tar.bz2
+          echo "input_dicts 中共有 $(ls input_dicts | wc -l) 个词库文件待处理"
+
+      - name: 刷辅助码
+        run: python aux_go.py
 
       - name: 提交输出文件到仓库
         env:
@@ -60,10 +47,10 @@ jobs:
           GIT_COMMITTER_NAME: ci-bot
           GIT_COMMITTER_EMAIL: ci-bot@example.com
         run: |
-          cp -rf output_dicts/* .
+          # 两个压缩包处理后的所有词库统一放入仓库的 dicts-pro/ 文件夹
+          mkdir -p dicts-pro
+          cp -rf output_dicts/dicts-pro/* dicts-pro/
           git add .
-          
-          # 检查暂存区是否有文件变动 (--quiet 如果没有变动会返回 0)
           if git diff --staged --quiet; then
             echo "☕ 上游词库完全一致，没有检测到任何新更新，跳过本次提交。"
           else
