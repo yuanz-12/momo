@@ -1,0 +1,21 @@
+# Rime dictionary
+# encoding: utf-8
+#https://github.com/amzxyz/RIME-LMDG
+#错音错字对照表
+---
+name: cuoyin
+version: "LTS"
+sort: by_weight
+...
+绝代双椒	zve2;sb dai4;rg shuang1;yy ziao1;ay	858	网络语
+不着痕迹	bu4;ab zhao2;yo hen2;bg zii4;zb	100	不着(zhuó)痕迹
+屏息	ping2;uk sii1;zx	100	屏(bǐng)息
+莘莘学子	sin1;cx sin1;cx xve2;xz zi3;la	100	莘(shēn)莘学子
+着想	zhao2;yo siang3;ax	862	着(zhuó)想
+井陉	zing5;ac jing5;ej	110	jǐng xíng
+浚县	zvn5;dw xian5;qs	448	xùn xiàn
+荨麻	svn2;cc ma2;ga	124	qián má
+荨麻疹	cian2;cc ma2;ga zhen3;bp	200	xún má zhěn
+牛皮癣	niu2;pu pi2;py sian3;by	289	(癣)xuǎn
+雪佛兰	sve3;ye fo2;rf lan2;bs	370	xuě fú lán
+心宽体胖	sin1;dd kuan1;bj ti3;rb pang4;ob	4	心宽体胖(pán)

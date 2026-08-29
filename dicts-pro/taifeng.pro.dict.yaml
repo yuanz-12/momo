@@ -1,0 +1,227 @@
+# rime dictionary
+# encoding: utf-8
+#https://github.com/amzxyz/RIME-LMDG
+# ----台风--同步更新最新台风表----
+---
+name: taifeng
+version: "LTS"
+sort: by_weight
+...
+台风达维	tai2;sk feng1;jx da2;zd wei2;sv	1
+台风娜基莉	tai2;sk feng1;jx na4;ne ji1;ct li4;cd	1
+台风科罗旺	tai2;sk feng1;jx ke1;hd luo2;sx wang4;ow	1
+台风风神	tai2;sk feng1;jx feng1;jx shen2;pu	1
+台风杜鹃	tai2;sk feng1;jx du4;at jvan1;kn	1
+台风鸿雁	tai2;sk feng1;jx hong2;dn yan4;iv	1
+台风海鸥	tai2;sk feng1;jx hai3;dm ou1;qn	1
+台风米雷	tai2;sk feng1;jx mi3;ba lei2;yt	1
+台风凤凰	tai2;sk feng1;jx feng4;jy huang2;jw	1
+台风彩云	tai2;sk feng1;jx cai3;vp yvn2;ag	1
+台风蝎虎	tai2;sk feng1;jx xie1;ir hu3;hj	1
+台风布拉万	tai2;sk feng1;jx bu4;uj la1;fl wan4;av	1
+台风帕布	tai2;sk feng1;jx pa4;jb bu4;uj	1
+台风蝴蝶	tai2;sk feng1;jx hu2;io die2;ia	1
+台风梅花	tai2;sk feng1;jx mei2;am hua1;cb	1
+台风杰拉华	tai2;sk feng1;jx jie2;ah la1;fl hua2;ru	1
+台风圣帕	tai2;sk feng1;jx sheng4;yt pa4;jb	1
+台风苗柏	tai2;sk feng1;jx miao2;ct bai3;ab	1
+台风森拉克	tai2;sk feng1;jx sen1;aa la1;fl ke4;ux	1
+台风尼伯特	tai2;sk feng1;jx ni2;ub bo2;rb te4;nc	1
+台风南玛都	tai2;sk feng1;jx nan2;ug ma3;wm du1;le	1
+台风丹娜丝	tai2;sk feng1;jx dan1;kd na4;ne si1;sa	1
+台风黑格比	tai2;sk feng1;jx hei1;lh ge2;ak bi3;bb	1
+台风卢碧	tai2;sk feng1;jx lu2;bu bi4;wu	1
+台风塔拉斯	tai2;sk feng1;jx ta3;tk la1;fl si1;ct	1
+台风格美	tai2;sk feng1;jx ge2;ak mei3;yd	1
+台风百合	tai2;sk feng1;jx bai3;ab he2;rk	1
+台风蔷薇	tai2;sk feng1;jx qiang2;ck wei1;cj	1
+台风派比安	tai2;sk feng1;jx pai4;dy bi3;bb an1;bn	1
+台风韦帕	tai2;sk feng1;jx wei2;fv pa4;jb	1
+台风米克拉	tai2;sk feng1;jx mi3;ba ke4;ux la1;fl	1
+台风妮妲	tai2;sk feng1;jx ni1;nb da2;nd	1
+台风玫瑰	tai2;sk feng1;jx mei2;ww gui5;wg	1
+台风玛莉亚	tai2;sk feng1;jx ma3;wm li4;cd ya4;ay	1
+台风范斯高	tai2;sk feng1;jx fan4;cv si1;ct gao1;wk	1
+台风海高斯	tai2;sk feng1;jx hai3;dm gao1;wk si1;ct	1
+台风奥麦斯	tai2;sk feng1;jx ao4;pd mai4;fw si1;ct	1
+台风洛克	tai2;sk feng1;jx luo4;dk ke4;ux	1
+台风巴威	tai2;sk feng1;jx ba1;sl wei1;gn	1
+台风桑卡	tai2;sk feng1;jx sang1;ya ka3;ub	1
+台风罗莎	tai2;sk feng1;jx luo2;sx sha1;cu	1
+台风美莎克	tai2;sk feng1;jx mei3;yd sha1;cu ke4;ux	1
+台风灿都	tai2;sk feng1;jx can4;hu dou1;le	1
+台风纳沙	tai2;sk feng1;jx na4;sn sha1;du	1
+台风悟空	tai2;sk feng1;jx wu4;xk kong1;bg	1
+台风海神	tai2;sk feng1;jx hai3;dm shen2;pu	1
+台风电母	tai2;sk feng1;jx dian4;ov mu3;md	1
+台风海棠	tai2;sk feng1;jx hai3;dm tang2;xa	1
+台风杨柳	tai2;sk feng1;jx yang2;ap liu3;ae	1
+台风蒲公英	tai2;sk feng1;jx pu2;cf gong1;bs ying1;cy	1
+台风珊珊	tai2;sk feng1;jx shan1;wc shan1;wc	1
+台风玲玲	tai2;sk feng1;jx ling2;ws ling2;ws	1
+台风榕树	tai2;sk feng1;jx rong2;ag shu4;ac	1
+台风剑鱼	tai2;sk feng1;jx jian4;qd yv2;da	1
+台风鲸鱼	tai2;sk feng1;jx jing1;yx yv2;da	1
+台风灿鸿	tai2;sk feng1;jx can4;hu hong2;dn	1
+台风南川	tai2;sk feng1;jx nan2;ug chuan1;pl	1
+台风贝碧嘉	tai2;sk feng1;jx bei4;kr bi4;wu jia1;tk	1
+台风玛瑙	tai2;sk feng1;jx ma3;wm nao3;wx	1
+台风珊瑚	tai2;sk feng1;jx shan1;wc hu2;wo	1
+台风塔巴	tai2;sk feng1;jx ta3;tk ba1;sl	1
+台风浪卡	tai2;sk feng1;jx lang4;dl ka3;ub	1
+台风玛娃	tai2;sk feng1;jx ma3;wm wa2;nt	1
+台风苏力	tai2;sk feng1;jx su1;cb li4;vp	1
+台风米娜	tai2;sk feng1;jx mi3;ba na4;ne	1
+台风古超	tai2;sk feng1;jx gu3;uk chao1;tk	1
+台风西马仑	tai2;sk feng1;jx xi1;ak ma3;va lun2;rb	1
+台风泰利	tai2;sk feng1;jx tai4;iu li4;hd	1
+台风浣熊	tai2;sk feng1;jx huan4;dy xiong2;sh	1
+台风暹芭	tai2;sk feng1;jx xian1;zv ba1;cb	1
+台风卡努	tai2;sk feng1;jx ka3;ub nu3;nl	1
+台风艾涛	tai2;sk feng1;jx ai4;cx tao1;dc	1
+台风夏浪	tai2;sk feng1;jx xia4;bw lang4;dl	1
+台风桑达	tai2;sk feng1;jx sang1;ya da2;zd	1
+#2000年以来除名
+台风高基	tai2;sk feng1;jx gao1;wk ji1;ct	1
+台风翠丝	tai2;sk feng1;jx cui4;xu si1;sa	1
+台风天马	tai2;sk feng1;jx tian1;ad ma3;va	1
+台风银杏	tai2;sk feng1;jx yin2;jg xing4;ak	1
+台风木兰	tai2;sk feng1;jx mu4;ur lan2;bs	1
+台风简古维	tai2;sk feng1;jx jian3;vo gu3;uk wei2;sv	1
+台风舒力基	tai2;sk feng1;jx shu1;ry li4;vp ji1;ct	1
+台风鸳鸯	tai2;sk feng1;jx yvan1;xn yang1;yn	1
+台风点心	tai2;sk feng1;jx dian3;vh xin1;dd	1
+台风青马	tai2;sk feng1;jx qing1;fo ma3;va	1
+台风小犬	tai2;sk feng1;jx xiao3;lb qvan3;dd	1
+台风希比	tai2;sk feng1;jx xi1;xj bi3;bb	1
+台风天琴	tai2;sk feng1;jx tian1;ad qin2;wv	1
+台风小熊	tai2;sk feng1;jx xiao3;lb xiong2;sh	1
+台风洛鞍	tai2;sk feng1;jx luo4;dk an1;cn	1
+台风蔷琵	tai2;sk feng1;jx qiang2;ck pi2;wb	1
+台风坡鹿	tai2;sk feng1;jx po1;tp lu4;gb	1
+台风三巴	tai2;sk feng1;jx san1;ae ba1;sl	1
+台风西望洋	tai2;sk feng1;jx xi1;ak wang4;ww yang2;dy	1
+台风烟花	tai2;sk feng1;jx yan1;hy hua1;cb	1
+台风鹦鹉	tai2;sk feng1;jx ying1;bn wu3;gn	1
+台风查帕卡	tai2;sk feng1;jx cha2;ad pa4;jb ka3;ub	1
+台风蒂鲁	tai2;sk feng1;jx di4;cj lu3;yo	1
+台风木恩	tai2;sk feng1;jx mu4;ur en1;yx	1
+台风马力斯	tai2;sk feng1;jx ma3;va li4;vp si1;ct	1
+台风银河	tai2;sk feng1;jx yin2;jg he2;dk	1
+台风核桃	tai2;sk feng1;jx he2;ar tao5;av	1
+台风山神	tai2;sk feng1;jx shan1;kl shen2;pu	1
+台风竹节草	tai2;sk feng1;jx zhu2;gg jie2;ce cao3;cu	1
+台风浮莲	tai2;sk feng1;jx fu2;dz lian2;ci	1
+台风安比	tai2;sk feng1;jx an1;bn bi3;bb	1
+台风白鹿	tai2;sk feng1;jx bai2;po lu4;gb	1
+台风云雀	tai2;sk feng1;jx yvn2;ag qve4;xv	1
+台风红霞	tai2;sk feng1;jx hong2;sg xia2;yy	1
+台风蜻蜓	tai2;sk feng1;jx qing1;io ting2;iw	1
+台风白海豚	tai2;sk feng1;jx bai2;po hai3;dm tun2;ou	1
+台风狮子山	tai2;sk feng1;jx shi1;qj zi5;la shan1;kl	1
+台风船尾	tai2;sk feng1;jx chuan2;vk wei3;um	1
+台风道玑	tai2;sk feng1;jx dao4;zz ji1;wj	1
+台风山猫	tai2;sk feng1;jx shan1;kl mao1;qt	1
+台风丽琵	tai2;sk feng1;jx li4;ad pi2;wb	1
+台风蓝湖	tai2;sk feng1;jx lan2;cm hu2;do	1
+台风帕卡	tai2;sk feng1;jx pa4;jb ka3;ub	1
+台风琵琶	tai2;sk feng1;jx pi2;wb pa5;wb	1
+台风琵鹭	tai2;sk feng1;jx pi2;wb lu4;zn	1
+台风普拉桑	tai2;sk feng1;jx pu3;bo la1;fl sang1;ya	1
+台风妮亚图	tai2;sk feng1;jx ni1;nb ya4;ay tu2;wd	1
+台风沙德尔	tai2;sk feng1;jx sha1;du de2;rx er3;dx	1
+台风沙布尔	tai2;sk feng1;jx sha1;du bu4;uj er3;dx	1
+台风桦加沙	tai2;sk feng1;jx hua4;au jia1;lk sha1;du	1
+台风紫檀	tai2;sk feng1;jx zi3;vx tan2;ad	1
+台风阿穆丘	tai2;sk feng1;jx a1;ek mu4;hp qiu1;ia	1
+台风娜尼	tai2;sk feng1;jx na4;ne ni2;ub	1
+台风简拉维	tai2;sk feng1;jx jian3;vo la1;fl wei2;sv	1
+台风古莎莉	tai2;sk feng1;jx gu3;uk sha1;cu li4;cd	1
+台风布里	tai2;sk feng1;jx bu4;uj li3;tt	1
+台风布拉帕	tai2;sk feng1;jx bu4;uj la1;fl pa4;jb	1
+台风博罗依	tai2;sk feng1;jx bo2;uc luo2;sx yi1;ry	1
+台风艾莎尼	tai2;sk feng1;jx ai4;cx sha1;cu ni2;ub	1
+台风百里嘉	tai2;sk feng1;jx bai3;ab li3;tt jia1;tk	1
+台风麦德姆	tai2;sk feng1;jx mai4;fw de2;rx mu3;nm	1
+台风艾利	tai2;sk feng1;jx ai4;cx li4;hd	1
+台风兰恩	tai2;sk feng1;jx lan2;bs en1;yx	1
+台风花斑	tai2;sk feng1;jx hua1;cb ban1;ww	1
+台风班朗	tai2;sk feng1;jx ban1;wl lang3;lo	1
+台风海星	tai2;sk feng1;jx hai3;dm xing1;ou	1
+台风翰文	tai2;sk feng1;jx han4;ux wen2;wx	1
+台风莫拉克	tai2;sk feng1;jx mo4;cd la1;fl ke4;ux	1
+台风莎莉嘉	tai2;sk feng1;jx sha1;cu li4;cd jia1;tk	1
+台风库都	tai2;sk feng1;jx ku4;gi dou1;le	1
+台风天鸽	tai2;sk feng1;jx tian1;ad ge1;rn	1
+台风查特安	tai2;sk feng1;jx cha2;ad te4;nc an1;bn	1
+台风启德	tai2;sk feng1;jx qi3;hk de2;rx	1
+台风伊布都	tai2;sk feng1;jx yi1;ry bu4;uj dou1;le	1
+台风莫拉菲	tai2;sk feng1;jx mo4;cd la1;fl fei1;cf	1
+台风天秤	tai2;sk feng1;jx tian1;ad cheng4;hp	1
+台风鹿莎	tai2;sk feng1;jx lu4;gb sha1;cu	1
+台风山竹	tai2;sk feng1;jx shan1;kl zhu2;gg	1
+台风山陀儿	tai2;sk feng1;jx shan1;kl tuo2;eb er2;pv	1
+台风画眉	tai2;sk feng1;jx hua4;at mei2;uo	1
+台风温比亚	tai2;sk feng1;jx wen1;dm bi3;bb ya4;ay	1
+台风鸣蝉	tai2;sk feng1;jx ming2;kn chan2;iu	1
+台风彩虹	tai2;sk feng1;jx cai3;vp hong2;ig	1
+台风法茜	tai2;sk feng1;jx fa3;dq qian4;cx	1
+台风凤仙	tai2;sk feng1;jx feng4;jy xian1;ru	1
+台风海贝思	tai2;sk feng1;jx hai3;dm bei4;kr si1;tx	1
+台风云娜	tai2;sk feng1;jx yvn2;ag na4;ne	1
+台风凡亚比	tai2;sk feng1;jx fan2;jd ya4;ay bi3;bb	1
+台风北冕	tai2;sk feng1;jx bei3;lb mian3;oe	1
+台风苏特	tai2;sk feng1;jx su1;cb te4;nc	1
+台风利奇马	tai2;sk feng1;jx li4;hd qi2;dk ma3;va	1
+台风婷婷	tai2;sk feng1;jx ting2;nd ting2;nd	1
+台风巴蓬	tai2;sk feng1;jx ba1;sl peng2;cf	1
+台风欣欣	tai2;sk feng1;jx xin1;iq xin1;iq	1
+台风玉兔	tai2;sk feng1;jx yv4;wd tu4;dd	1
+台风龙王	tai2;sk feng1;jx long2;yp wang2;at	1
+台风海葵	tai2;sk feng1;jx hai3;dm kui2;ct	1
+台风天鹅	tai2;sk feng1;jx tian1;ad e2;wn	1
+台风麦莎	tai2;sk feng1;jx mai4;fw sha1;cu	1
+台风莲花	tai2;sk feng1;jx lian2;ci hua1;cb	1
+台风彩蝶	tai2;sk feng1;jx cai3;vp die2;ia	1
+台风杜苏芮	tai2;sk feng1;jx du4;at su1;cb rui4;cn	1
+台风碧利斯	tai2;sk feng1;jx bi4;wu li4;hd si1;ct	1
+台风环高	tai2;sk feng1;jx huan2;wb gao1;wk	1
+台风珍珠	tai2;sk feng1;jx zhen1;wp zhu1;ww	1
+台风黄蜂	tai2;sk feng1;jx huang2;cb feng1;if	1
+台风榴莲	tai2;sk feng1;jx liu2;at lian2;ci	1
+台风康森	tai2;sk feng1;jx kang1;gl sen1;aa	1
+台风桑美	tai2;sk feng1;jx sang1;ya mei3;yd	1
+台风轩岚诺	tai2;sk feng1;jx xvan1;ig lan2;uf nuo4;yk	1
+台风象神	tai2;sk feng1;jx xiang4;du shen2;pu	1
+台风圆规	tai2;sk feng1;jx yvan2;wb gui1;fj	1
+台风凯萨娜	tai2;sk feng1;jx kai3;uj sa4;ci na4;ne	1
+台风马鞍	tai2;sk feng1;jx ma3;va an1;cn	1
+台风马勒卡	tai2;sk feng1;jx ma3;va le4;cl ka3;ub	1
+台风芭玛	tai2;sk feng1;jx ba1;cb ma3;wm	1
+台风鲇鱼	tai2;sk feng1;jx nian2;yv yv2;da	1
+台风雷伊	tai2;sk feng1;jx lei2;yt yi1;ry	1
+台风尼格	tai2;sk feng1;jx ni2;ub ge2;ak	1
+台风天鹰	tai2;sk feng1;jx tian1;ad ying1;gn	1
+台风奥鹿	tai2;sk feng1;jx ao4;pd lu4;gb	1
+台风宝霞	tai2;sk feng1;jx bao3;by xia2;yy	1
+台风菲特	tai2;sk feng1;jx fei1;cf te4;nc	1
+台风海燕	tai2;sk feng1;jx hai3;dm yan4;ch	1
+台风清松	tai2;sk feng1;jx qing1;do song1;ag	1
+台风苏拉	tai2;sk feng1;jx su1;cb la1;fl	1
+台风尤特	tai2;sk feng1;jx you2;yd te4;nc	1
+台风艾云尼	tai2;sk feng1;jx ai4;cx yvn2;ag ni2;ub	1
+台风韦森特	tai2;sk feng1;jx wei2;fv sen1;aa te4;nc	1
+台风飞燕	tai2;sk feng1;jx fei1;vd yan4;ch	1
+台风威马逊	tai2;sk feng1;jx wei1;gn ma3;va xvn4;zx	1
+台风康妮	tai2;sk feng1;jx kang1;gl ni1;nb	1
+台风巨爵	tai2;sk feng1;jx jv4;kk jve2;vc	1
+台风茉莉	tai2;sk feng1;jx mo4;cw li4;cd	1
+台风万宜	tai2;sk feng1;jx wan4;av yi2;bq	1
+台风桃芝	tai2;sk feng1;jx tao2;av zhi1;cv	1
+台风苏迪罗	tai2;sk feng1;jx su1;cb di2;zy luo2;sx	1
+台风潭美	tai2;sk feng1;jx tan2;du mei3;yd	1
+台风海马	tai2;sk feng1;jx hai3;dm ma3;va	1
+台风天兔	tai2;sk feng1;jx tian1;ad tu4;dd	1
+台风莫兰蒂	tai2;sk feng1;jx mo4;cd lan2;bs di4;cj	1
+台风摩羯	tai2;sk feng1;jx mo2;gu jie2;yr	1
+台风洛坦	tai2;sk feng1;jx luo4;dk tan3;td	1

@@ -1,0 +1,2480 @@
+# encoding utf-8
+# rime dictionary
+#https://github.com/amzxyz/RIME-LMDG
+# ------艺人词库-------
+# --目前加入的与主词库不构成干扰--
+---
+name: yiren
+version: "LTS"
+sort: by_weight
+...
+阿悄	a1;ek ciao1;xo	454
+阿沁	a1;ek cin4;dx	106
+阿信	a1;ek sin4;rk	5866
+白静	bai2;po zing4;fy	874
+柏雪	bai3;ab sve3;ye	142
+毕雪	bi4;bu sve3;ye	131
+扁鹊	bian3;hc cve4;cn	1118
+曹骏	cao2;co zvn4;mw	1122
+曹俊	cao2;co zvn4;rw	227
+陈俊	chen2;ed zvn4;rw	106
+陈晴	chen2;ed cing2;oo	124
+陈翔	chen2;ed siang2;yx	116
+陈汛	chen2;ed svn4;du	1
+程前	cheng2;hw cian2;bd	3593
+程潇	cheng2;hw siao1;db	135
+褚前	chu3;po cian2;bd	3
+戴荃	dai4;gg cvan2;cw	889
+邓婕	deng4;ye zie2;nz	63
+邓捷	deng4;ye zie2;fz	16
+董倩	dong3;cv cian4;ro	191
+董晴	dong3;cv cing2;oo	41
+董璇	dong3;cv svan2;wz	13
+杜相	du4;at siang1;ao	33
+樊星	fan2;ad sing1;ou	29
+方静	fang1;wv zing4;fy	2
+费翔	fei4;fb siang2;yx	110
+冯婧	feng2;dm zing4;no	819
+冯静	feng2;dm zing4;fy	143
+冯齐	feng2;dm cii2;wl	51
+冯清	feng2;dm cing1;do	32
+傅晶	fu4;rc zing1;oo	35
+傅菁	fu4;rc zing1;co	5
+傅隽	fu4;rc zvan4;rn	1
+高捷	gao1;wk zie2;fz	52
+高进	gao1;wk zin4;zj	207
+高晴	gao1;wk cing2;oo	22
+龚俊	gong1;lg zvn4;rw	129
+龚雪	gong1;lg sve3;ye	115
+顾靖	gu4;iy zing4;lo	6338
+关芯	guan1;bt sin1;cx	128
+郭静	guo1;we zing4;fy	567
+郭沁	guo1;we cin4;dx	119
+海清	hai3;dm cing1;do	5250
+海青	hai3;dm cing1;fo	964
+海泉	hai3;dm cvan2;bu	703
+韩青	han2;uw cing1;fo	3509
+韩晴	han2;uw cing2;oo	84
+韩雪	han2;uw sve3;ye	578
+何进	he2;rk zin4;zj	562
+何静	he2;rk zing4;fy	814
+何晶	he2;rk zing1;oo	265
+何晴	he2;rk cing2;oo	229
+洪潇	hong2;dg siao1;db	4
+侯祥	hou2;ru siang2;py	41
+胡静	hu2;go zing4;fy	226
+黄西	huang2;cb sii1;ak	47
+辉星	hui1;gi sing1;ou	432
+霍青	huo4;yv cing1;fo	988
+纪雪	ji3;sj sve3;ye	22
+郏捷	jia2;je zie2;fz	1
+贾青	jia3;xb cing1;fo	220
+蒋婧	ziang3;cc zing4;no	53
+蒋恺	ziang3;cc kai3;xj	1
+蒋龙	ziang3;cc long2;yp	120
+蒋梅	ziang3;cc mei2;am	139
+蒋申	ziang3;cc shen1;ol	8
+蒋欣	ziang3;cc xin1;iq	119
+蒋易	ziang3;cc yi4;ow	47
+蒋芸	ziang3;cc yvn2;cy	167
+焦晃	ziao1;rh huang3;og	303
+焦姣	ziao1;rh jiao1;nf	18
+节冰	zie2;ce bing1;du	113
+金靖	jin1;rb zing4;lo	195
+晋松	zin4;yo song1;ag	53
+金星	jin1;rb sing1;ou	7454
+井畅	zing3;ac chang4;up	4
+井胧	zing3;ac long2;ol	7
+菁玮	zing1;co wei3;ww	1
+剧雪	jv4;ud sve3;ye	318
+康汐	kang1;gl sii1;dx	1
+赖婧	lai4;ub zing4;no	14
+李进	li3;az zin4;zj	317
+李静	li3;az zing4;fy	6094
+李菁	li3;az zing1;co	251
+利菁	li4;hd zing1;co	16
+李倩	li3;az cian4;ro	162
+李沁	li3;az cin4;dx	141
+李泉	li3;az cvan2;bu	197
+李湘	li3;az siang1;do	288
+李信	li3;az sin4;rk	1546
+李宣	li3;az svan1;bd	130
+廉倢	lian2;gj zie2;rz	1
+连笑	lian2;zi siao4;vy	385
+梁静	liang2;da zing4;fy	47
+梁湘	liang2;da siang1;do	18
+林静	lin2;aa zing4;fy	936
+林俊	lin2;aa zvn4;rw	1282
+林雪	lin2;aa sve3;ye	433
+刘进	liu2;wd zin4;zj	67
+刘婧	liu2;wd zing4;no	41
+刘茜	liu2;wd cian4;cx	132
+刘翔	liu2;wd siang2;yx	1070
+刘湘	liu2;wd siang1;do	202
+刘啸	liu2;wd siao4;kb	324
+刘秀	liu2;wd siu4;hn	6249
+刘璇	liu2;wd svan2;wz	383
+刘迅	liu2;wd svn4;zu	106
+楼沁	lou2;an cin4;dx	16
+卢静	lu2;bu zing4;fy	76
+卢茜	lu2;bu cian4;cx	29
+陆星	lu4;ej sing1;ou	565
+陆逊	lu4;ej svn4;zx	11291
+罗晋	luo2;sx zin4;yo	939
+罗翔	luo2;sx siang2;yx	1457
+罗漩	luo2;sx svan2;dz	15
+马静	ma3;va zing4;fy	1837
+麻骏	ma2;ga zvn4;mw	1
+孟秀	meng4;zm siu4;hn	15
+牟星	mou2;sn sing1;ou	16
+慕青	mu4;cx cing1;fo	892
+宁静	ning2;bd zing4;fy	6789
+宁心	ning2;bd sin1;dd	1120
+潘婕	pan1;dt zie2;nz	70
+彭清	peng2;tp cing1;do	3026
+齐超	cii2;wl chao1;tk	399
+齐晨	cii2;wl chen2;oi	872
+齐芳	cii2;wl fang1;cf	163
+戚迹	cii1;gx zii4;zb	32
+齐奎	cii2;wl kui2;dt	212
+齐麟	cii2;wl lin2;gf	91
+戚薇	cii1;gx wei1;cj	270
+齐溪	cii2;wl xi1;dd	185
+齐襄	cii2;wl siang1;yf	71
+齐豫	cii2;wl yv4;yu	715
+齐志	cii2;wl zhi4;tx	57
+钱波	cian2;jj bo1;dp	144
+钱琛	cian2;jj chen1;wa	5
+钱芳	cian2;jj fang1;cf	102
+钱枫	cian2;jj feng1;af	188
+钱锟	cian2;jj kun1;jb	4
+千玺	cian1;pu sii3;dy	260
+钱璇	cian2;jj svan2;wz	5
+钱漪	cian2;jj yi1;dk	1
+钱莹	cian2;jj ying2;cy	265
+乔璇	qiao2;yl svan2;wz	415
+秦方	cin2;ih fang1;wv	109
+秦昊	cin2;ih hao4;ot	336
+秦虹	cin2;ih hong2;ig	590
+秦侯	cin2;ih hou2;ru	815
+秦煌	cin2;ih huang2;hw	376
+秦凯	cin2;ih kai3;uj	706
+沁坤	cin4;dx kun1;tu	133
+秦岚	cin2;ih lan2;uf	236
+秦沛	cin2;ih pei4;dj	652
+秦萍	cin2;ih ping2;cp	35
+秦杉	cin2;ih shan1;ap	2
+秦焰	cin2;ih yan4;hj	8
+秦怡	cin2;ih yi2;xk	176
+秦语	cin2;ih yv3;yk	436
+青霞	cing1;fo xia2;yy	487
+邱秋	qiu1;qe ciu1;hh	67
+任静	ren2;rw zing4;fy	287
+任泉	ren2;rw cvan2;bu	3493
+任巡	ren2;rw svn2;zv	2422
+阮巡	ruan3;ey svn2;zv	15
+沈星	shen3;de sing1;ou	77
+神雪	shen2;pu sve3;ye	10
+宋茜	song4;ba cian4;cx	157
+苏秦	su1;cb cin2;ih	135
+苏青	su1;cb cing1;fo	241
+苏晴	su1;cb cing2;oo	122
+苏醒	su1;cb sing3;yu	3291
+孙静	sun1;zx zing4;fy	6222
+孙茜	sun1;zx cian4;cx	680
+孙千	sun1;zx cian1;pu	613
+孙清	sun1;zx cing1;do	2835
+孙祥	sun1;zx siang2;py	796
+孙逊	sun1;zx svn4;zx	912
+谭晶	tan2;yu zing1;oo	842
+谭泉	tan2;yu cvan2;bu	39
+谭雪	tan2;yu sve3;ye	454
+唐静	tang2;gk zing4;fy	602
+唐笑	tang2;gk siao4;vy	3
+藤新	teng2;cu sin1;lt	1972
+滕旋	teng2;ou svan2;fz	16
+田俊	tian2;wu zvn4;rw	775
+天心	tian1;ad sin1;dd	582
+田心	tian2;wu sin1;dd	421
+万茜	wan4;av cian4;cx	957
+王晶	wang2;at zing1;oo	326
+汪俊	wang1;dw zvn4;rw	140
+王倩	wang2;at cian4;ro	230
+王茜	wang2;at cian4;cx	184
+王锵	wang2;at ciang1;jc	3
+王清	wang2;at cing1;do	76
+王晴	wang2;at cing2;oo	48
+王晰	wang2;at sii1;ot	118
+王西	wang2;at sii1;ak	94
+王新	wang2;at sin1;lt	147
+王星	wang2;at sing1;ou	15130
+王瑄	wang2;at svan1;wd	1
+王迅	wang2;at svn4;zu	70
+魏翔	wei4;hg siang2;yx	12
+魏相	wei4;hg siang1;ao	9
+魏巡	wei4;hg svn2;zv	63
+文婕	wen2;wx zie2;nz	62
+文隽	wen2;wx zvan4;rn	104
+文清	wen2;wx cing1;do	353
+文晴	wen2;wx cing2;oo	105
+温心	wen1;dm sin1;dd	86
+吴倩	wu2;kt cian4;ro	51
+邬倩	wu1;we cian4;ro	32
+汐世	sii1;dx shi4;cv	10
+习雪	sii2;vd sve3;ye	19
+夏菁	xia4;bw zing1;co	83
+夏星	xia4;bw sing1;ou	135
+夏雪	xia4;bw sve3;ye	840
+小春	siao3;lb chun1;io	584
+肖飞	siao1;xo fei1;vd	46
+小鬼	siao3;lb gui3;ps	722
+肖涵	siao1;xo han2;du	445
+萧何	siao1;cb he2;rk	1048
+肖辉	siao1;xo hui1;gi	24
+小魂	siao3;lb hun2;yg	59
+小佳	siao3;lb jia1;rt	188
+小贱	siao3;lb zian4;bj	1070
+肖剑	siao1;xo jian4;qd	28
+肖杰	siao1;xo jie2;ah	48
+小柯	siao3;lb ke1;ak	182
+萧亮	siao1;cb liang4;wj	64
+笑林	siao4;vy lin2;aa	257
+小凌	siao3;lb ling2;dw	75
+萧蔷	siao1;cb ciang2;ck	2386
+小乔	siao3;lb qiao2;yl	2405
+肖莎	siao1;xo sha1;cu	32
+萧潇	siao1;cb siao1;db	176
+肖骁	siao1;xo xiao1;mw	140
+肖鑫	siao1;xo xin1;jj	34
+肖雄	siao1;xo xiong2;uv	91
+肖旭	siao1;xo xv4;jo	83
+萧雅	siao1;cb ya3;yv	69
+肖燕	siao1;xo yan4;ch	12
+肖央	siao1;xo yang1;kr	268
+肖艺	siao1;xo yi4;cv	8
+肖茵	siao1;xo yin1;cy	24
+肖雨	siao1;xo yv3;ad	28
+肖战	siao1;xo zhan4;vg	1353
+谢旦	sie4;yc dan4;oa	1
+谢帝	sie4;yc di4;wj	182
+谢东	sie4;yc dong1;ax	22
+谢芳	sie4;yc fang1;cf	240
+谢峰	sie4;yc feng1;uf	795
+谢豪	sie4;yc hao2;wu	49
+谢晖	sie4;yc hui1;oi	92
+谢晋	sie4;yc zin4;yo	320
+谢金	sie4;yc jin1;rb	183
+谢静	sie4;yc zing4;fy	109
+谢军	sie4;yc jvn1;bi	75
+谢兰	sie4;yc lan2;bs	1048
+谢雷	sie4;yc lei2;yt	379
+谢莉	sie4;yc li4;cd	77
+谢梦	sie4;yc meng4;ax	1526
+谢苗	sie4;yc miao2;ct	63
+谢娜	sie4;yc na4;ne	2556
+谢楠	sie4;yc nan2;ag	778
+谢宁	sie4;yc ning2;bd	670
+谢润	sie4;yc run4;dw	222
+谢帅	sie4;yc shuai4;lj	933
+谢贤	sie4;yc xian2;lb	587
+谢雄	sie4;yc xiong2;uv	618
+谢莹	sie4;yc ying2;cy	40
+谢瑜	sie4;yc yv2;wd	4454
+谢园	sie4;yc yvan2;wy	436
+辛巴	sin1;lu ba1;sl	1818
+辛凯	sin1;lu kai3;uj	17
+辛爽	sin1;lu shuang3;dx	24
+辛月	sin1;lu yve4;ke	87
+辛悦	sin1;lu yve4;xx	32
+星爷	sing1;ou ye2;fe	1620
+星择	sing1;ou ze2;ff	26
+修革	siu1;rp ge2;cu	10
+秀晶	siu4;hn zing1;oo	810
+修庆	siu1;rp qing4;gd	37
+修睿	siu1;rp rui4;bo	837
+秀智	siu4;hn zhi4;uo	408
+徐滨	sv2;rm bin1;db	19
+徐灿	sv2;rm can4;hu	3037
+徐程	sv2;rm cheng2;hw	53
+胥渡	sv1;zo du4;dy	268
+徐帆	sv2;rm fan1;jf	336
+徐干	sv2;rm gan4;au	926
+徐阁	sv2;rm ge2;mk	293
+徐晗	sv2;rm han2;ok	139
+徐浩	sv2;rm hao4;dk	298
+徐好	sv2;rm hao3;nz	88
+徐佳	sv2;rm jia1;rt	505
+徐箭	sv2;rm zian4;vd	8
+徐娇	sv2;rm jiao1;nl	1094
+徐杰	sv2;rm jie2;ah	417
+徐婕	sv2;rm zie2;nz	156
+徐君	sv2;rm jvn1;yk	299
+徐可	sv2;rm ke3;dk	662
+徐良	sv2;rm liang2;dg	383
+徐璐	sv2;rm lu4;wk	774
+徐露	sv2;rm lu4;yk	80
+徐敏	sv2;rm min3;pw	601
+须乾	sv1;py qian2;uv	3
+许晴	xv3;yw cing2;oo	1225
+徐僧	sv2;rm seng1;ro	526
+徐杉	sv2;rm shan1;ap	3
+徐唯	sv2;rm wei2;kv	21
+许翔	xv3;yw siang2;yx	22
+徐新	sv2;rm sin1;lt	477
+徐幸	sv2;rm xing4;tg	12
+徐咏	sv2;rm yong3;ky	38
+徐悦	sv2;rm yve4;xx	1511
+徐筠	sv2;rm yvn2;vy	31
+徐峥	sv2;rm zheng1;uy	2769
+宣璐	svan1;bd lu4;wk	7
+宣美	svan1;bd mei3;yd	92
+绚香	svan4;so xiang1;ho	575
+宣萱	svan1;bd xvan1;cd	244
+雪村	sve3;ye cun1;ac	66
+雪莉	sve3;ye li4;cd	1061
+薛欧	sve1;cx ou1;qq	122
+薛奇	sve1;cx qi2;dk	11
+薛祺	sve1;cx qi2;pb	5
+薛俨	sve1;cx yan3;ry	19
+雪姨	sve3;ye yi2;ny	185
+薛综	sve1;cx zong1;su	326
+荀子	svn2;co zi3;la	975
+颜沁	yan2;wy cin4;dx	11
+杨俊	yang2;ap zvn4;rw	821
+杨倩	yang2;ap cian4;ro	531
+杨雪	yang2;ap sve3;ye	277
+叶静	ye4;ku zing4;fy	373
+叶青	ye4;ku cing1;fo	389
+叶璇	ye4;ku svan2;wz	22
+易倩	yi4;ow cian4;ro	4
+银雪	yin2;jg sve3;ye	105
+余晋	yv2;rm zin4;yo	13
+俞静	yv2;rd zing4;fy	131
+羽泉	yv3;xx cvan2;bu	1806
+于笑	yv2;au siao4;vy	768
+元秋	yvan2;aw ciu1;hh	404
+袁泉	yvan2;ty cvan2;bu	376
+袁新	yvan2;ty sin1;lt	371
+乐进	yve4;px zin4;zj	379
+张晋	zhang1;gi zin4;yo	469
+张晶	zhang1;gi zing1;oo	1084
+张茜	zhang1;gi cian4;cx	659
+张蔷	zhang1;gi ciang2;ck	3435
+张青	zhang1;gi cing1;fo	1125
+张先	zhang1;gi sian1;ne	1426
+张星	zhang1;gi sing1;ou	696
+张璇	zhang1;gi svan2;wz	396
+张迅	zhang1;gi svn4;zu	324
+赵霁	zhao4;tx zii4;yq	42
+赵秦	zhao4;tx cin2;ih	675
+赵煊	zhao4;tx svan1;hd	18
+赵荀	zhao4;tx svn2;co	8
+甄锡	zhen1;xw sii1;jw	7
+郑茜	zheng4;be cian4;cx	35
+郑雪	zheng4;be sve3;ye	167
+智秀	zhi4;uo siu4;hn	630
+周沁	zhou1;kk cin4;dx	136
+周铨	zhou1;kk cvan2;jw	1
+周湘	zhou1;kk siang1;do	147
+周宣	zhou1;kk svan1;bd	1148
+周璇	zhou1;kk svan2;wz	716
+周迅	zhou1;kk svn4;zu	1118
+朱戬	zhu1;pw zian3;yg	19
+祝菁	zhu4;px zing1;co	1
+朱迅	zhu1;pw svn4;zu	4
+祖晴	zu3;pq cing2;oo	35
+哀川翔	ai1;yk chuan1;pl siang2;yx	364
+安七炫	an1;bn cii1;av xvan4;hx	63
+安孝燮	an1;bn xiao4;lz sie4;hy	19
+安心亚	an1;bn sin1;dd ya4;ay	630
+奥井枫	ao4;pd zing3;ac feng1;af	10
+敖心仪	ao2;fw sin1;dd yi2;ry	12
+柏程俊	bai3;ab cheng2;hw zvn4;rw	15
+白发全	bai2;po fa4;fy cvan2;rw	342
+白柳汐	bai2;po liu3;ae sii1;dx	356
+白全福	bai2;po cvan2;rw fu2;pt	342
+白淑湘	bai2;po shu1;dy siang1;do	315
+白小白	bai2;po siao3;lb bai2;po	28
+柏栩栩	bai3;ab sv3;ax sv3;ax	220
+白雪仙	bai2;po sve3;ye sian1;ru	554
+鲍起静	bao4;yb qi3;tj zing4;fy	31
+包文婧	bao1;bs wen2;wx zing4;no	119
+包小柏	bao1;bs siao3;lb bai3;ab	490
+贝辛格	bei4;kr sin1;lu ge2;ak	22
+毕书尽	bi4;bu shu1;vd zin4;id	495
+边潇潇	bian1;zl siao1;db siao1;db	19
+卞小贞	bian4;wb siao3;lb zhen1;bb	270
+卞雨倩	bian4;wb yv3;ad cian4;ro	189
+卞贞秀	bian4;wb zhen1;bb siu4;hn	266
+波切利	bo1;dp cie4;qd li4;hd	6
+卜严骏	bu3;ld yan2;ai zvn4;mw	22
+菜菜绪	cai4;ca cai4;ca sv4;so	3
+蔡济文	cai4;cu zii4;dq wen2;wx	6
+蔡淇俊	cai4;cu qi2;db zvn4;rw	342
+蔡秋凤	cai4;cu ciu1;hh feng4;jy	387
+蔡文静	cai4;cu wen2;wx zing4;fy	339
+蔡祥宇	cai4;cu siang2;py yv3;by	15
+蔡小楼	cai4;cu siao3;lb lou2;an	12
+蔡秀彬	cai4;cu siu4;hn bin1;ap	6
+蔡徐坤	cai4;cu sv2;rm kun1;tu	837
+蔡雪桐	cai4;cu sve3;ye tong2;ak	38
+蔡雨晴	cai4;cu yv3;ad cing2;oo	12
+苍井空	cang1;cv zing3;ac kong1;bg	261
+苍井空	cang1;cv zing3;ac kong1;bg	10
+苍井优	cang1;cv zing3;ac you1;ry	82
+曹恩齐	cao2;co en1;yx cii2;wl	12
+曹津歌	cao2;co zin1;dy ge1;kq	12
+草帽姐	cao3;cu mao4;jo zie3;nq	436
+曹茜茜	cao2;co cian4;cx cian4;cx	18
+曹西安	cao2;co sii1;ak an1;bn	16
+岑小林	cen2;uv siao3;lb lin2;aa	515
+柴济洲	chai2;va zii4;dq zhou1;dv	12
+柴隽哲	chai2;va zvan4;rn zhe2;fk	12
+车静子	che1;au zing4;fy zi3;la	16
+陈百祥	chen2;ed bai3;ab siang2;py	35
+陈丹青	chen2;ed dan1;kd cing1;fo	603
+陈冬青	chen2;ed dong1;wd cing1;fo	222
+陈靖可	chen2;ed zing4;lo ke3;dk	12
+陈婧旸	chen2;ed zing4;no yang2;op	12
+陈俊儿	chen2;ed zvn4;rw er2;pv	12
+陈俊亨	chen2;ed zvn4;rw heng1;wl	12
+陈俊宇	chen2;ed zvn4;rw yv3;by	615
+陈俊羽	chen2;ed zvn4;rw yv3;xx	15
+陈露茜	chen2;ed lu4;yk cian4;cx	12
+陈楠茜	chen2;ed nan2;ag cian4;cx	15
+陈倩楠	chen2;ed cian4;ro nan2;ag	16
+陈倩倩	chen2;ed cian4;ro cian4;ro	218
+陈仟钰	chen2;ed cian1;rq yv4;jy	12
+陈清晨	chen2;ed cing1;do chen2;oi	6
+陈秋桦	chen2;ed ciu1;hh hua4;au	15
+陈秋实	chen2;ed ciu1;hh shi2;bd	333
+陈秋雨	chen2;ed ciu1;hh yv3;ad	15
+陈添祥	chen2;ed tian1;dx siang2;py	12
+陈天星	chen2;ed tian1;ad sing1;ou	835
+陈玺旭	chen2;ed sii3;dy xv4;jo	35
+陈小春	chen2;ed siao3;lb chun1;io	622
+陈小朵	chen2;ed siao3;lb duo3;ja	118
+陈小妹	chen2;ed siao3;lb mei4;nw	322
+陈晓雪	chen2;ed xiao3;ow sve3;ye	2530
+陈小艺	chen2;ed siao3;lb yi4;cv	1412
+陈小纭	chen2;ed siao3;lb yvn2;sy	415
+陈信宏	chen2;ed sin4;rk hong2;bs	1655
+陈星旭	chen2;ed sing1;ou xv4;jo	137
+陈雪凝	chen2;ed sve3;ye ning2;dz	3226
+陈雪燃	chen2;ed sve3;ye ran2;hh	22
+陈艳青	chen2;ed yan4;fb cing1;fo	435
+陈奕迅	chen2;ed yi4;wd svn4;zu	4515
+陈印泉	chen2;ed yin4;pe cvan2;bu	337
+陈英俊	chen2;ed ying1;cy zvn4;rw	215
+陈芋汐	chen2;ed yv4;cy sii1;dx	1916
+陈卓璇	chen2;ed zhuo2;bu svan2;wz	633
+成浚文	cheng2;gv zvn4;dw wen2;wx	12
+程相银	cheng2;hw siang1;ao yin2;jg	12
+程小蒙	cheng2;hw siao3;lb meng2;cu	12
+程星源	cheng2;hw sing1;ou yvan2;dx	12
+程也晴	cheng2;hw ye3;vv cing2;oo	12
+迟立静	chi2;zi li4;wb zing4;fy	15
+赤西仁	chi4;tb sii1;ak ren2;re	47
+迟小秋	chi2;zi siao3;lb ciu1;hh	355
+初俊辰	chu1;pd zvn4;rw chen2;iy	310
+储小蕾	chu3;ro siao3;lb lei3;ct	637
+崔菁格	cui1;uv zing1;co ge2;ak	22
+崔心心	cui1;uv sin1;dd sin1;dd	135
+崔雪莉	cui1;uv sve3;ye li4;cd	94
+呆宝静	dai1;ka bao3;by zing4;fy	3
+戴娇倩	dai4;gg jiao1;nl cian4;ro	598
+戴笑盈	dai4;gg siao4;vy ying2;nm	18
+稻森泉	dao4;hj sen1;aa cvan2;bu	418
+邓小平	deng4;ye siao3;lb ping2;au	1203
+邓永祥	deng4;ye yong3;du siang2;py	288
+邓卓翔	deng4;ye zhuo2;bu siang2;yx	107
+翟潇闻	di2;xv siao1;db wen2;me	26
+翟星月	di2;xv sing1;ou yve4;ke	16
+丁俊晖	ding1;al zvn4;rw hui1;oi	1325
+丁翔南	ding1;al siang2;yx nan2;ug	12
+丁霄汉	ding1;al siao1;yo han4;dy	22
+丁笑滢	ding1;al siao4;vy ying2;dy	12
+丁子峻	ding1;al zi5;la zvn4;uw	446
+东靖川	dong1;ax zing4;lo chuan1;pl	12
+董俊杰	dong3;cv zvn4;rw jie2;ah	252
+董袭莹	dong3;cv sii2;ly ying2;cy	12
+董小飒	dong3;cv siao3;lb sa4;lf	31
+董新尧	dong3;cv sin1;lt yao2;yw	33
+冬雪俐	dong1;wd sve3;ye li4;rd	1
+董亚千	dong3;cv ya4;ay cian1;pu	500
+窦靖童	dou4;bd zing4;lo tong2;ll	389
+窦晓璇	dou4;bd xiao3;ow svan2;wz	18
+都暻秀	du1;le jing3;ox siu4;hn	670
+杜俊泽	du4;at zvn4;rw ze2;df	18
+杜沁怡	du4;at cin4;dx yi2;xk	226
+都肖萌	du1;le siao1;xo meng2;co	12
+杜肖雄	du4;at siao1;xo xiong2;uv	12
+都星言	du1;le sing1;ou yan2;wk	12
+杜元骏	du4;at yvan2;aw zvn4;mw	12
+段倩茹	duan4;pu cian4;ro ru2;ck	16
+段小环	duan4;pu siao3;lb huan2;wb	12
+段星羽	duan4;pu sing1;ou yv3;xx	12
+段艺璇	duan4;pu yi4;cv svan2;wz	33
+鄂靖文	e4;xe zing4;lo wen2;wx	15
+范津玮	fan4;cv zin1;dy wei3;ww	12
+范静祎	fan4;cv zing4;fy yi1;pw	1
+范特西	fan4;cv te4;nc sii1;ak	606
+范小柯	fan4;cv siao3;lb ke1;ak	12
+方清平	fang1;wv cing1;do ping2;au	522
+方青卓	fang1;wv cing1;fo zhuo2;bu	6
+方荣翔	fang1;wv rong2;ca siang2;yx	215
+费沁源	fei4;fb cin4;dx yvan2;dx	540
+费玉清	fei4;fb yv4;wd cing1;do	1347
+费振翔	fei4;fb zhen4;fi siang2;yx	3
+冯骏骅	feng2;dm zvn4;mw hua2;mu	222
+冯俊杰	feng2;dm zvn4;rw jie2;ah	36
+冯秦川	feng2;dm cin2;ih chuan1;pl	12
+冯去疾	feng2;dm qv4;ts zii2;bu	518
+冯祥琨	feng2;dm siang2;py kun1;wb	12
+冯小刚	feng2;dm siao3;lb gang1;kd	3109
+冯晓泉	feng2;dm xiao3;ow cvan2;bu	133
+冯筱童	feng2;dm siao3;vw tong2;ll	12
+冯薪朵	feng2;dm sin1;ct duo3;ja	6
+傅小爽	fu4;rc siao3;lb shuang3;dx	12
+付小仙	fu4;rc siao3;lb sian1;ru	12
+付辛博	fu4;rc sin1;lu bo2;uc	91
+刚小希	gang1;kd siao3;lb xi1;xj	33
+高昌锡	gao1;wk chang1;oo sii1;jw	306
+高俊熙	gao1;wk zvn4;rw xi1;ih	19
+高鲁泉	gao1;wk lu3;yo cvan2;bu	284
+高明骏	gao1;wk ming2;oo zvn4;mw	9
+高秋梓	gao1;wk ciu1;hh zi3;ax	15
+高雪逸	gao1;wk sve3;ye yi4;zt	12
+高一清	gao1;wk yi4;aa cing1;do	118
+高玉玺	gao1;wk yv4;wd sii3;dy	12
+高源婧	gao1;wk yvan2;dx zing4;no	133
+高云翔	gao1;wk yvn2;ag siang2;yx	747
+高占全	gao1;wk zhan4;bw cvan2;rw	35
+葛荟婕	ge2;cr hui4;cy zie2;nz	85
+宫西光	gong1;bk sii1;ak guang1;xe	10
+龚翔宇	gong1;lg siang2;yx yv3;by	5615
+宫小荷	gong1;bk siao3;lb he2;ck	12
+龚小钧	gong1;lg siao3;lb jvn1;jy	12
+巩小榕	gong3;gf siao3;lb rong2;ag	12
+宫晓瑄	gong1;bk xiao3;ow svan1;wd	126
+巩新亮	gong3;gf sin1;lt liang4;wj	13
+勾雪莹	gou1;bs sve3;ye ying2;cy	15
+顾书齐	gu4;iy shu1;vd cii2;wl	12
+古小月	gu3;uk siao3;lb yve4;ke	15
+关信辉	guan1;bt sin4;rk hui1;gi	350
+关心妍	guan1;bt sin1;dd yan2;nk	644
+关雪盈	guan1;bt sve3;ye ying2;nm	16
+管梓净	guan3;vl zi3;ax zing4;dy	12
+桂晶晶	gui4;at zing1;oo zing1;oo	40
+郭晋安	guo1;we zin4;yo an1;bn	41
+郭津彤	guo1;we zin1;dy tong2;dp	33
+郭晶晶	guo1;we zing1;oo zing1;oo	1294
+果靖霖	guo3;ta zing4;lo lin2;ya	26
+郭俊辰	guo1;we zvn4;rw chen2;iy	2518
+郭明翔	guo1;we ming2;oo siang2;yx	15
+郭倩芸	guo1;we cian4;ro yvn2;cy	15
+郭秋成	guo1;we ciu1;hh cheng2;gv	337
+郭羡妮	guo1;we sian4;yq ni1;nb	22
+郭祥鹏	guo1;we siang2;py peng2;on	12
+郭小安	guo1;we siao3;lb an1;bn	16
+郭晓小	guo1;we xiao3;ow siao3;lb	18
+郭芯其	guo1;we sin1;cx qi2;cb	12
+郭星冶	guo1;we sing1;ou ye3;dk	2
+郭旭新	guo1;we xv4;jo sin1;lt	30
+郭雪芙	guo1;we sve3;ye fu2;cf	576
+郭子千	guo1;we zi3;la cian1;pu	35
+韩菁清	han2;uw zing1;co cing1;do	718
+韩潇珧	han2;uw siao1;db yao2;wv	12
+韩新民	han2;uw sin1;lt min2;vv	15
+韩雪薇	han2;uw sve3;ye wei1;cj	18
+韩子婧	han2;uw zi3;la zing4;no	15
+郝婧怡	hao3;ie zing4;no yi2;xk	12
+蒿俊闵	hao1;ck zvn4;rw min3;mw	524
+郝婉晴	hao3;ie wan3;nv cing2;oo	378
+郝宣凯	hao3;ie svan1;bd kai3;uj	12
+贺峻霖	he4;lb zvn4;uw lin2;ya	44
+合文俊	he2;rk wen2;wx zvn4;rw	50
+何小疯	he2;rk siao3;lb feng1;bf	16
+何宣林	he2;rk svan1;bd lin2;aa	12
+何育骏	he2;rk yv4;wo zvn4;mw	112
+黑婧环	hei1;lh zing4;no huan2;wb	26
+洪静雯	hong2;dg zing4;fy wen2;yw	297
+洪俊扬	hong2;dg zvn4;rw yang2;fp	252
+洪瑞襄	hong2;dg rui4;we siang1;yf	418
+洪天祥	hong2;dg tian1;ad siang2;py	3
+洪锡天	hong2;dg sii1;jw tian1;ad	324
+红线女	hong2;sg sian4;sj nv3;va	549
+洪小铃	hong2;dg siao3;lb ling2;js	436
+洪小玲	hong2;dg siao3;lb ling2;ws	220
+洪性志	hong2;dg sing4;xu zhi4;tx	252
+洪秀儿	hong2;dg siu4;hn er2;pv	292
+洪秀贤	hong2;dg siu4;hn xian2;lb	9
+洪言翔	hong2;dg yan2;wk siang2;yx	270
+洪乙心	hong2;dg yi3;vv sin1;dd	202
+洪知秀	hong2;dg zhi1;uk siu4;hn	9
+侯俊丞	hou2;ru zvn4;rw cheng2;la	15
+侯瑞清	hou2;ru rui4;we cing1;do	12
+侯瑞祥	hou2;ru rui4;we siang2;py	15
+侯祥玲	hou2;ru siang2;py ling2;ws	310
+侯祖辛	hou2;ru zu3;pq sin1;lu	288
+胡冬晴	hu2;go dong1;wd cing2;oo	12
+胡海泉	hu2;go hai3;dm cvan2;bu	377
+胡皓翔	hu2;go hao4;bk siang2;yx	15
+胡进庆	hu2;go zin4;zj qing4;gd	6
+胡金秋	hu2;go jin1;rb ciu1;hh	91
+胡金铨	hu2;go jin1;rb cvan2;jw	509
+胡倩琳	hu2;go cian4;ro lin2;wa	12
+胡清蓝	hu2;go cing1;do lan2;cm	266
+胡文煊	hu2;go wen2;wx svan1;hd	16
+胡锡进	hu2;go sii1;jw zin4;zj	286
+胡先煦	hu2;go sian1;ne xv4;oh	198
+胡小玲	hu2;go siao3;lb ling2;ws	270
+胡晓晴	hu2;go xiao3;ow cing2;oo	194
+胡小冉	hu2;go siao3;lb ran3;kt	12
+胡小庭	hu2;go siao3;lb ting2;gw	22
+胡新超	hu2;go sin1;lt chao1;tk	12
+胡心诺	hu2;go sin1;dd nuo4;yk	202
+胡雪儿	hu2;go sve3;ye er2;pv	15
+胡雪峰	hu2;go sve3;ye feng1;uf	31
+胡亚捷	hu2;go ya4;ay zie2;fz	9
+胡意旋	hu2;go yi4;lx svan2;fz	1
+胡镇玺	hu2;go zhen4;jb sii3;dy	486
+花小龙	hua1;cb siao3;lb long2;yp	12
+华宵一	hua4;ru siao1;bo yi1;aa	30
+黄格选	huang2;cb ge2;ak svan3;ze	9
+黄桂秋	huang2;cb gui4;at ciu1;hh	220
+黄国俊	huang2;cb guo2;wy zvn4;rw	3
+黄鹤翔	huang2;cb he4;bn siang2;yx	140
+黄家婧	huang2;cb jia1;bu zing4;no	22
+黄嘉千	huang2;cb jia1;tk cian1;pu	13
+黄健翔	huang2;cb jian4;ry siang2;yx	279
+黄建翔	huang2;cb jian4;zy siang2;yx	251
+黄建新	huang2;cb jian4;zy sin1;lt	720
+黄婧灵	huang2;cb zing4;no ling2;eh	243
+黄靖伦	huang2;cb zing4;lo lun2;rl	405
+黄靖翔	huang2;cb zing4;lo siang2;yx	333
+黄静怡	huang2;cb zing4;fy yi2;xk	22
+黄静茵	huang2;cb zing4;fy yin1;cy	441
+黄俊杰	huang2;cb zvn4;rw jie2;ah	25
+黄俊捷	huang2;cb zvn4;rw zie2;fz	22
+黄俊郎	huang2;cb zvn4;rw lang2;le	292
+黄浚良	huang2;cb zvn4;dw liang2;dg	12
+黄俊鹏	huang2;cb zvn4;rw peng2;on	3
+黄俊雄	huang2;cb zvn4;rw xiong2;uv	3
+黄俊英	huang2;cb zvn4;rw ying1;cy	495
+黄垲翔	huang2;cb kai3;tj siang2;yx	1
+黄丽星	huang2;cb li4;ad sing1;ou	20
+黄千硕	huang2;cb cian1;pu shuo4;uy	126
+黄秋爽	huang2;cb ciu1;hh shuang3;dx	22
+黄婉秋	huang2;cb wan3;nv ciu1;hh	387
+黄伟晋	huang2;cb wei3;rw zin4;yo	414
+黄文俊	huang2;cb wen2;wx zvn4;rw	129
+黄文星	huang2;cb wen2;wx sing1;ou	378
+黄夕倍	huang2;cb sii1;pd bei4;rk	274
+黄锡晶	huang2;cb sii1;jw zing1;oo	22
+黄西田	huang2;cb sii1;ak tian2;wu	364
+黄汐源	huang2;cb sii1;dx yvan2;dx	422
+黄祥兴	huang2;cb siang2;py xing1;xb	284
+黄湘怡	huang2;cb siang1;do yi2;xk	306
+黄小琥	huang2;cb siao3;lb hu3;wj	78
+黄小虎	huang2;cb siao3;lb hu3;hj	70
+黄小蕾	huang2;cb siao3;lb lei3;ct	13
+黄小雷	huang2;cb siao3;lb lei2;yt	1
+黄小茂	huang2;cb siao3;lb mao4;cg	19
+黄小柔	huang2;cb siao3;lb rou2;ma	369
+黄小燕	huang2;cb siao3;lb yan4;ch	396
+黄霄雲	huang2;cb siao1;yo yvn2;yy	243
+黄小桢	huang2;cb siao3;lb zhen1;ab	16
+黄新淳	huang2;cb sin1;lt chun2;dz	16
+黄新德	huang2;cb sin1;lt de2;rx	256
+黄心娣	huang2;cb sin1;dd di4;nd	130
+黄信凯	huang2;cb sin4;rk kai3;uj	180
+黄心颖	huang2;cb sin1;dd ying3;bh	522
+黄星羱	huang2;cb sing1;ou yvan2;yx	22
+黄宣绮	huang2;cb svan1;bd qi3;sk	12
+黄昱清	huang2;cb yv4;ol cing1;do	1
+黄裕翔	huang2;cb yv4;pg siang2;yx	192
+黄芷晴	huang2;cb zhi3;cv cing2;oo	382
+黄子璇	huang2;cb zi3;la svan2;wz	12
+霍廷霄	huo4;yv ting2;zw siao1;yo	220
+季肖冰	ji4;hz siao1;xo bing1;du	126
+季骁宣	ji4;hz xiao1;mw svan1;bd	28
+季新杰	ji4;hz sin1;lt jie2;ah	9
+吉新鹏	ji2;tk sin1;lt peng2;on	392
+吉星月	ji2;tk sing1;ou yve4;ke	12
+吉雪萍	ji2;tk sve3;ye ping2;cp	374
+贾静雯	jia3;xb zing4;fy wen2;yw	220
+贾玲姐	jia3;xb ling2;ws zie3;nq	17
+贾姆谢	jia3;xb mu3;nm sie4;yc	270
+贾笑涵	jia3;xb siao4;vy han2;du	12
+贾小军	jia3;xb siao3;lb jvn1;bi	234
+贾小七	jia3;xb siao3;lb cii1;av	12
+贾秀全	jia3;xb siu4;hn cvan2;rw	82
+贾永婕	jia3;xb yong3;du zie2;nz	364
+蒋宝英	ziang3;cc bao3;by ying1;cy	12
+蒋大为	ziang3;cc da4;ar wei2;ld	107
+蒋敦豪	ziang3;cc dun1;ww hao2;wu	403
+蒋方婷	ziang3;cc fang1;wv ting2;nd	118
+蒋光太	ziang3;cc guang1;xe tai4;dd	233
+蒋宏杰	ziang3;cc hong2;bs jie2;ah	9
+蒋佳恩	ziang3;cc jia1;rt en1;yx	15
+蒋劲夫	ziang3;cc jin4;jl fu1;er	66
+蒋静菊	ziang3;cc zing4;fy jv2;cm	1
+江俊翰	jiang1;dg zvn4;rw han4;ux	324
+蒋浚赫	ziang3;cc zvn4;dw he4;ii	1
+蒋丽莎	ziang3;cc li4;ad sha1;cu	2416
+蒋俐玮	ziang3;cc li4;rd wei3;ww	12
+蒋林静	ziang3;cc lin2;aa zing4;fy	315
+蒋璐霞	ziang3;cc lu4;wk xia2;yy	115
+蒋伦超	ziang3;cc lun2;rl chao1;tk	12
+蒋美林	ziang3;cc mei3;yd lin2;aa	30
+蒋梦婕	ziang3;cc meng4;ax zie2;nz	69
+蒋奇明	ziang3;cc qi2;dk ming2;oo	22
+蒋勤勤	ziang3;cc qin2;cl qin2;cl	138
+蒋沁芸	ziang3;cc cin4;dx yvn2;cy	16
+姜十七	jiang1;yn shi2;al cii1;av	1
+蒋舒婷	ziang3;cc shu1;ry ting2;nd	12
+蒋婷婷	ziang3;cc ting2;nd ting2;nd	3016
+蒋雯丽	ziang3;cc wen2;yw li4;ad	210
+蒋文文	ziang3;cc wen2;wx wen2;wx	112
+蒋小涵	ziang3;cc siao3;lb han2;du	326
+蒋潇林	ziang3;cc siao1;db lin2;aa	12
+蒋欣奇	ziang3;cc xin1;iq qi2;dk	12
+蒋雪儿	ziang3;cc sve3;ye er2;pv	330
+蒋雪鸣	ziang3;cc sve3;ye ming2;kn	618
+姜彦汐	jiang1;yn yan4;wp sii1;dx	3
+蒋熠铭	ziang3;cc yi4;hb ming2;jk	1
+蒋一侨	ziang3;cc yi1;aa qiao2;rl	15
+蒋依杉	ziang3;cc yi1;ry shan1;ap	20
+蒋依依	ziang3;cc yi1;ry yi1;ry	310
+蒋羽熙	ziang3;cc yv3;xx xi1;ih	2
+姜语心	jiang1;yn yv3;yk sin1;dd	1
+蒋志光	ziang3;cc zhi4;tx guang1;xe	6
+蒋中一	ziang3;cc zhong1;kl yi1;aa	27
+蒋竹青	ziang3;cc zhu2;gg cing1;fo	22
+姜梓新	jiang1;yn zi3;ax sin1;lt	316
+焦安静	ziao1;rh an1;bn zing4;fy	112
+焦安溥	ziao1;rh an1;bn pu3;dc	405
+焦德海	ziao1;rh de2;rx hai3;dm	279
+焦恩俊	ziao1;rh en1;yx zvn4;rw	138
+焦俊艳	ziao1;rh zvn4;rw yan4;fb	144
+焦可然	ziao1;rh ke3;dk ran2;xh	16
+焦刘洋	ziao1;rh liu2;wd yang2;dy	508
+焦迈奇	ziao1;rh mai4;zw qi2;dk	72
+焦曼婷	ziao1;rh man4;oy ting2;nd	212
+焦圣祥	ziao1;rh sheng4;yt siang2;py	12
+杰克逊	jie2;ah ke4;ux svn4;zx	3118
+杰克逊	jie2;ah ke4;ux svn4;zx	171
+金承秀	jin1;rb cheng2;ln siu4;hn	42
+金范秀	jin1;rb fan4;cv siu4;hn	270
+金海心	jin1;rb hai3;dm sin1;dd	44
+金海星	jin1;rb hai3;dm sing1;ou	274
+金亨俊	jin1;rb heng1;wl zvn4;rw	6
+金惠秀	jin1;rb hui4;ix siu4;hn	35
+金济东	jin1;rb zii4;dq dong1;ax	338
+金基秀	jin1;rb ji1;ct siu4;hn	50
+金佳信	jin1;rb jia1;rt sin4;rk	266
+金靖承	jin1;rb zing4;lo cheng2;ln	1
+今井翼	jin1;rv zing3;ac yi4;xg	414
+金俊镐	jin1;rb zvn4;rw gao3;jk	117
+金俊浩	jin1;rb zvn4;rw hao4;dk	364
+金俊昊	jin1;rb zvn4;rw hao4;ot	182
+金俊勉	jin1;rb zvn4;rw mian3;dl	176
+金俊熙	jin1;rb zvn4;rw xi1;ih	266
+金俊锡	jin1;rb zvn4;rw sii1;jw	152
+金俊秀	jin1;rb zvn4;rw siu4;hn	639
+金峻秀	jin1;rb zvn4;uw siu4;hn	144
+金俊铉	jin1;rb zvn4;rw xvan4;jx	202
+金峻铉	jin1;rb zvn4;uw xvan4;jx	65
+金美辛	jin1;rb mei3;yd sin1;lu	37
+金珉静	jin1;rb min2;wm zing4;fy	171
+金民俊	jin1;rb min2;vv zvn4;rw	279
+金敏俊	jin1;rb min3;pw zvn4;rw	190
+金闵俊	jin1;rb min3;mw zvn4;rw	109
+金珉锡	jin1;rb min2;wm sii1;jw	482
+金民锡	jin1;rb min2;vv sii1;jw	248
+金旼序	jin1;rb min2;ow sv4;gy	252
+金明秀	jin1;rb ming2;oo siu4;hn	212
+金南俊	jin1;rb nan2;ug zvn4;rw	69
+靳芊芊	jin4;ct cian1;cq cian1;cq	13
+金秦禹	jin1;rb cin2;ih yv3;pd	35
+金请夏	jin1;rb cing3;yo xia4;bw	374
+金仁性	jin1;rb ren2;re sing4;xu	99
+金容仙	jin1;rb rong2;bg sian1;ru	212
+金桐俊	jin1;rb tong2;ak zvn4;rw	6
+金玟锡	jin1;rb wen2;ww sii1;jw	279
+金锡勋	jin1;rb sii1;jw xvn1;kl	266
+金贤俊	jin1;rb xian2;lb zvn4;rw	220
+金贤秀	jin1;rb xian2;lb siu4;hn	16
+金相浩	jin1;rb siang4;ao hao4;dk	328
+金相庆	jin1;rb siang4;ao qing4;gd	9
+金相中	jin1;rb siang4;ao zhong1;kl	378
+金孝静	jin1;rb xiao4;lz zing4;fy	99
+金信英	jin1;rb sin4;rk ying1;cy	369
+金秀安	jin1;rb siu4;hn an1;bn	288
+金秀彬	jin1;rb siu4;hn bin1;ap	171
+金秀路	jin1;rb siu4;hn lu4;zk	8
+金秀美	jin1;rb siu4;hn mei3;yd	248
+金秀贤	jin1;rb siu4;hn xian2;lb	148
+金秀妍	jin1;rb siu4;hn yan2;nk	194
+金秀英	jin1;rb siu4;hn ying1;cy	153
+金秀珍	jin1;rb siu4;hn zhen1;wp	369
+金宣儿	jin1;rb svan1;bd er2;pv	6
+金宣虎	jin1;rb svan1;bd hu3;hj	9
+金雪炫	jin1;rb sve3;ye xvan4;hx	22
+金志锡	jin1;rb zhi4;tx sii1;jw	486
+金智秀	jin1;rb zhi4;uo siu4;hn	116
+金志秀	jin1;rb zhi4;tx siu4;hn	104
+金知秀	jin1;rb zhi1;uk siu4;hn	94
+金子璇	jin1;rb zi5;la svan2;wz	1
+井柏然	zing3;ac bai3;ab ran2;xh	1134
+井川遥	zing3;ac chuan1;pl yao2;zf	9
+井迪儿	zing3;ac di2;zy er2;pv	12
+荆冬倩	jing1;cd dong1;wd cian4;ro	45
+靖佩瑶	zing4;lo pei4;rj yao2;wf	12
+井浦新	zing3;ac pu3;df sin1;lt	374
+井上刚	zing3;ac shang4;ba gang1;kd	364
+井星文	zing3;ac sing1;ou wen2;wx	22
+景研竣	jing3;ox yan2;uk zvn4;lw	12
+久井映	jiu3;pn zing3;ac ying4;oy	414
+菊池心	jv2;cm chi2;dy sin1;dd	374
+鞠婧祎	jv1;cm zing4;no yi1;pw	568
+具俊晔	jv4;qb zvn4;rw ye4;ou	122
+橘田泉	jv2;ak tian2;wu cvan2;bu	342
+雎晓雯	zv1;qv xiao3;ow wen2;yw	28
+阚清子	kan4;mw cing1;do zi3;la	60
+康晋荣	kang1;gl zin4;yo rong2;ca	324
+柯俊雄	ke1;ak zvn4;rw xiong2;uv	13
+克兰西	ke4;ux lan2;bs sii1;ak	22
+孔祥东	kong3;zv siang2;py dong1;ax	333
+孔祥明	kong3;zv siang2;py ming2;oo	122
+孔小铭	kong3;zv siao3;lb ming2;jk	15
+孔肖吟	kong3;zv siao1;xo yin2;kv	526
+孔雪儿	kong3;zv sve3;ye er2;pv	1033
+兰西雅	lan2;bs sii1;ak ya3;yv	274
+蓝心羽	lan2;cm sin1;dd yv3;xx	22
+雷雨心	lei2;yt yv3;ad sin1;dd	235
+李冰俏	li3;az bing1;du ciao4;ro	12
+李伯清	li3;az bo2;rb cing1;do	1315
+李伯祥	li3;az bo2;rb siang2;py	318
+李丞汐	li3;az cheng2;la sii1;dx	12
+李崇霄	li3;az chong2;uu siao1;yo	16
+李大霄	li3;az da4;ar siao1;yo	53
+李凤栖	li3;az feng4;jy cii1;ax	12
+李凤绪	li3;az feng4;jy sv4;so	35
+李海泉	li3;az hai3;dm cvan2;bu	316
+李浩修	li3;az hao4;dk siu1;rp	12
+李佳璇	li3;az jia1;rt svan2;wz	216
+李进荣	li3;az zin4;zj rong2;ca	218
+李净洋	li3;az zing4;dy yang2;dy	115
+李九霄	li3;az jiu3;pv siao1;yo	933
+李俊辰	li3;az zvn4;rw chen2;iy	430
+李俊濠	li3;az zvn4;rw hao2;du	15
+李俊慧	li3;az zvn4;rw hui4;fx	104
+李君婕	li3;az jvn1;yk zie2;nz	31
+李俊霆	li3;az zvn4;rw ting2;yw	15
+李俊贤	li3;az zvn4;rw xian2;lb	22
+李俊岩	li3;az zvn4;rw yan2;uu	12
+李俊瑶	li3;az zvn4;rw yao2;wf	12
+李俊毅	li3;az zvn4;rw yi4;lu	212
+李璐茜	li3;az lu4;wk cian4;cx	18
+李明峻	li3;az ming2;oo zvn4;uw	1
+李沁洁	li3;az cin4;dx jie2;dk	12
+李沁谣	li3;az cin4;dx yao2;yf	326
+李祥祥	li3;az siang2;py siang2;py	1016
+李相炫	li3;az siang1;ao xvan4;hx	15
+历小峰	li4;il siao3;lb feng1;uf	5
+李小璐	li3;az siao3;lb lu4;wk	301
+李小萌	li3;az siao3;lb meng2;co	16
+李肖宁	li3;az siao1;xo ning2;bd	15
+李小胖	li3;az siao3;lb pang4;ob	112
+李小鹏	li3;az siao3;lb peng2;on	301
+李小冉	li3;az siao3;lb ran3;kt	113
+李小双	li3;az siao3;lb shuang1;yy	1235
+黎小田	li2;hu siao3;lb tian2;wu	22
+李小燕	li3;az siao3;lb yan4;ch	422
+李小野	li3;az siao3;lb ye3;ly	12
+李肖逸	li3;az siao1;xo yi4;zt	12
+李霄云	li3;az siao1;yo yvn2;ag	60
+李心艾	li3;az sin1;dd ai4;cx	1333
+李心博	li3;az sin1;dd bo2;uc	12
+李心洁	li3;az sin1;dd jie2;dk	47
+李芯逸	li3;az sin1;cx yi4;zt	12
+李星辰	li3;az sing1;ou chen2;iy	26
+李星宏	li3;az sing1;ou hong2;bs	12
+李星瑶	li3;az sing1;ou yao2;wf	26
+李修蒙	li3;az siu1;rp meng2;cu	12
+李秀明	li3;az siu4;hn ming2;oo	722
+李修平	li3;az siu1;rp ping2;au	3
+李修贤	li3;az siu1;rp xian2;lb	129
+黎秀英	li2;hu siu4;hn ying1;cy	378
+李雪健	li3;az sve3;ye jian4;ry	267
+李雪梅	li3;az sve3;ye mei2;am	1915
+李雪琴	li3;az sve3;ye qin2;wv	147
+李雪芮	li3;az sve3;ye rui4;cn	28
+李妍锡	li3;az yan2;nk sii1;jw	12
+黎耀祥	li2;hu yao4;gv siang2;py	239
+李羿瑄	li3;az yi4;xc svan1;wd	12
+李应七	li3;az ying1;ga cii1;av	15
+李云霄	li3;az yvn2;ag siao1;yo	115
+李正翔	li3;az zheng4;av siang2;yx	18
+李子柒	li3;az zi5;la cii1;da	907
+李子璇	li3;az zi5;la svan2;wz	216
+廉晶雅	lian2;gj zing1;oo ya3;yv	6
+练俊杰	lian4;sd zvn4;rw jie2;ah	230
+梁靖崑	liang2;da zing4;lo kun1;ub	1126
+梁静茹	liang2;da zing4;fy ru2;ck	4069
+梁婧娴	liang2;da zing4;no xian2;na	316
+梁小静	liang2;da siao3;lb zing4;fy	9
+梁醒波	liang2;da sing3;yu bo1;dp	16
+梁雪峰	liang2;da sve3;ye feng1;uf	33
+梁雪芹	liang2;da sve3;ye qin2;ct	12
+梁耀燮	liang2;da yao4;gv sie4;hy	47
+良音荠	liang2;dg yin1;lo zii4;cq	10
+廖学秋	liao4;gp xve2;xz ciu1;hh	18
+林达信	lin2;aa da2;zd sin4;rk	12
+林德信	lin2;aa de2;rx sin4;rk	477
+林更新	lin2;aa geng1;an sin1;lt	327
+林津锋	lin2;aa zin1;dy feng1;jf	422
+林靖喆	lin2;aa zing4;lo zhe2;tk	12
+林俊杰	lin2;aa zvn4;rw jie2;ah	5743
+林俊逸	lin2;aa zvn4;rw yi4;zt	396
+林美秀	lin2;aa mei3;yd siu4;hn	752
+林青霞	lin2;aa cing1;fo xia2;yy	1316
+林秋楠	lin2;aa ciu1;hh nan2;ag	537
+林舒晴	lin2;aa shu1;ry cing2;oo	1
+林湘萍	lin2;aa siang1;do ping2;cp	364
+林心如	lin2;aa sin1;dd ru2;nk	399
+林彦俊	lin2;aa yan4;wp zvn4;rw	130
+林子晴	lin2;aa zi5;la cing2;oo	12
+林子祥	lin2;aa zi5;la siang2;py	295
+凌加峻	ling2;dw jia1;lk zvn4;uw	220
+绫濑心	ling2;sw lai4;db sin1;dd	10
+凌潇肃	ling2;dw siao1;db su4;yb	82
+刘柏辛	liu2;wd bai3;ab sin1;lu	540
+刘晨雪	liu2;wd chen2;oi sve3;ye	18
+刘冬沁	liu2;wd dong1;wd cin4;dx	622
+刘济恺	liu2;wd zii4;dq kai3;xj	33
+刘济民	liu2;wd zii4;dq min2;vv	12
+刘贾玺	liu2;wd jia3;xb sii3;dy	12
+刘晶晶	liu2;wd zing1;oo zing1;oo	1916
+刘静怡	liu2;wd zing4;fy yi2;xk	518
+刘俊麟	liu2;wd zvn4;rw lin2;gf	418
+刘铠漩	liu2;wd kai3;jj svan2;dz	12
+刘明湘	liu2;wd ming2;oo siang1;do	1018
+刘泊潇	liu2;wd po1;db siao1;db	212
+刘泊霄	liu2;wd po1;db siao1;yo	12
+刘前程	liu2;wd cian2;bd cheng2;hw	233
+刘芊含	liu2;wd cian1;cq han2;rk	516
+刘倩倩	liu2;wd cian4;ro cian4;ro	3012
+刘倩文	liu2;wd cian4;ro wen2;wx	37
+刘倩妤	liu2;wd cian4;ro yv2;ny	1
+刘秦杉	liu2;wd cin2;ih shan1;ap	12
+刘清沨	liu2;wd cing1;do feng1;df	35
+刘青云	liu2;wd cing1;fo yvn2;ag	2138
+刘秋实	liu2;wd ciu1;hh shi2;bd	12
+刘思纤	liu2;wd si1;tx sian1;sq	12
+刘惜君	liu2;wd sii1;xo jvn1;yk	281
+刘相松	liu2;wd siang1;ao song1;ag	22
+刘小北	liu2;wd siao3;lb bei3;lb	18
+刘小锋	liu2;wd siao3;lb feng1;jf	1118
+刘小光	liu2;wd siao3;lb guang1;xe	2812
+柳小海	liu3;ae siao3;lb hai3;dm	318
+刘小宁	liu2;wd siao3;lb ning2;bd	230
+刘小婉	liu2;wd siao3;lb wan3;nv	12
+刘筱筱	liu2;wd siao3;vw siao3;vw	637
+刘些宁	liu2;wd sie1;ve ning2;bd	22
+刘星宇	liu2;wd sing1;ou yv3;by	41
+刘雪华	liu2;wd sve3;ye hua2;ru	69
+刘雪婧	liu2;wd sve3;ye zing4;no	726
+刘亚津	liu2;wd ya4;ay zin1;dy	337
+刘子璇	liu2;wd zi3;la svan2;wz	35
+龙俊亨	long2;yp zvn4;rw heng1;wl	144
+龙千玉	long2;yp cian1;pu yv4;wd	15
+龙清泉	long2;yp cing1;do cvan2;bu	214
+龙小菌	long2;yp siao3;lb jvn1;ch	454
+龙晓清	long2;yp xiao3;ow cing1;do	4
+龙星凉	long2;yp sing1;ou liang2;dx	6
+龙政璇	long2;yp zheng4;vw svan2;wz	12
+娄艺潇	lou2;mn yi4;cv siao1;db	66
+卢庚戌	lu2;bu geng1;gr sv1;ga	301
+卢靖姗	lu2;bu zing4;lo shan1;nc	41
+卢觅雪	lu2;bu mi4;vj sve3;ye	382
+芦名星	lu2;ch ming2;xk sing1;ou	369
+卢秋宏	lu2;bu ciu1;hh hong2;bs	12
+卢秋萍	lu2;bu ciu1;hh ping2;cp	33
+陆锡麒	lu4;ej sii1;jw qi2;gb	12
+陆小芬	lu4;ej siao3;lb fen1;cf	382
+鹿潇桐	lu4;gb siao1;db tong2;ak	12
+陆星材	lu4;ej sing1;ou cai2;ac	414
+卢星宇	lu2;bu sing1;ou yv3;by	356
+陆弈静	lu4;ej yi4;wc zing4;fy	3
+陆怡璇	lu4;ej yi2;xk svan2;wz	122
+芦展翔	lu2;ch zhan3;uy siang2;yx	15
+卢卓婕	lu2;bu zhuo2;bu zie2;nz	12
+栾浚威	luan2;wa zvn4;dw wei1;gn	12
+骆俊帆	luo4;mk zvn4;rw fan1;jf	12
+罗俊林	luo2;sx zvn4;rw lin2;aa	2515
+罗秋韵	luo2;sx ciu1;hh yvn4;ly	422
+罗湘晋	luo2;sx siang1;do zin4;yo	15
+罗心悦	luo2;sx sin1;dd yve4;xx	16
+罗秀春	luo2;sx siu4;hn chun1;io	230
+罗雪丽	luo2;sx sve3;ye li4;ad	15
+骆妍倩	luo4;mk yan2;nk cian4;ro	12
+罗志祥	luo2;sx zhi4;tx siang2;py	831
+吕晶晶	lv3;kk zing1;oo zing1;oo	312
+吕爵安	lv3;kk zve2;vc an1;bn	580
+吕清超	lv3;kk cing1;do chao1;tk	12
+吕小军	lv3;kk siao3;lb jvn1;bi	590
+吕小雨	lv3;kk siao3;lb yv3;ad	118
+吕心鸣	lv3;kk sin1;dd ming2;kn	12
+吕星辰	lv3;kk sing1;ou chen2;iy	212
+吕泽先	lv3;kk ze2;df sian1;ne	12
+马柏全	ma3;va bai3;ab cvan2;rw	12
+马家俊	ma3;va jia1;bu zvn4;rw	15
+马菁菁	ma3;va zing1;co zing1;co	130
+马精武	ma3;va zing1;mo wu3;gv	9
+马俊仁	ma3;va zvn4;rw ren2;re	1037
+马浚伟	ma3;va zvn4;dw wei3;rw	28
+马秋子	ma3;va ciu1;hh zi3;la	30
+马湘宜	ma3;va siang1;do yi2;bq	12
+马晓晴	ma3;va xiao3;ow cing2;oo	22
+马小媛	ma3;va siao3;lb yvan4;ny	16
+马心怡	ma3;va sin1;dd yi2;xk	26
+马雪阳	ma3;va sve3;ye yang2;eo	130
+马渝捷	ma3;va yv2;dd zie2;fz	12
+麦长青	mai4;fw chang2;pn cing1;fo	16
+麦浚龙	mai4;fw zvn4;dw long2;yp	455
+麦秋成	mai4;fw ciu1;hh cheng2;gv	306
+麦小兜	mai4;fw siao3;lb dou1;pe	6
+毛俊杰	mao2;pv zvn4;rw jie2;ah	446
+猫七七	mao1;qt cii1;av cii1;av	15
+卯秋民	mao3;pe ciu1;hh min2;vv	15
+毛衍七	mao2;pv yan3;rd cii1;av	16
+茅子俊	mao2;cm zi3;la zvn4;rw	590
+美乃雀	mei3;yd nai3;pv cve4;xv	10
+梅小惠	mei2;am siao3;lb hui4;ix	6
+孟祥龙	meng4;zm siang2;py long2;yp	230
+米西亚	mi3;ba sii1;ak ya4;ay	562
+缪俊杰	miao4;sp zvn4;rw jie2;ah	16
+苗可秀	miao2;ct ke3;dk siu4;hn	495
+苗夕伦	miao2;ct sii1;pd lun2;rl	12
+名井南	ming2;xk zing3;ac nan2;ug	6
+明俊臣	ming2;oo zvn4;rw chen2;kl	12
+莫小棋	mo4;cd siao3;lb qi2;ab	3
+莫小奇	mo4;cd siao3;lb qi2;dk	2
+莫有雪	mo4;cd you3;uo sve3;ye	423
+牟湘盈	mou2;sn siang1;do ying2;nm	12
+南贤俊	nan2;ug xian2;lb zvn4;rw	19
+南相美	nan2;ug siang1;ao mei3;yd	320
+倪齐民	ni2;re cii2;wl min2;vv	328
+宁云祥	ning2;bd yvn2;ag siang2;py	130
+牛骏峰	niu2;pu zvn4;mw feng1;uf	436
+牛青峰	niu2;pu cing1;fo feng1;uf	18
+区俊炫	ou1;kx zvn4;rw xvan4;hx	243
+欧倩如	ou1;qq cian4;ro ru2;nk	12
+欧倩怡	ou1;qq cian4;ro yi2;xk	387
+欧阳靖	ou1;qq yang2;eo zing4;lo	113
+派伟俊	pai4;dy wei3;rw zvn4;rw	392
+潘倩倩	pan1;dt cian4;ro cian4;ro	266
+潘时七	pan1;dt shi2;to cii1;av	37
+潘小样	pan1;dt siao3;lb yang4;ay	30
+潘星谊	pan1;dt sing1;ou yi4;yq	288
+潘秀琼	pan1;dt siu4;hn qiong2;wx	297
+潘艺心	pan1;dt yi4;cv sin1;dd	12
+庞祥麟	pang2;gl siang2;py lin2;gf	279
+庞雪倩	pang2;gl sve3;ye cian4;ro	12
+裴秀彬	pei2;fy siu4;hn bin1;ap	284
+裴秀智	pei2;fy siu4;hn zhi4;uo	63
+裴勇俊	pei2;fy yong3;sl zvn4;rw	16
+裴勇浚	pei2;fy yong3;sl zvn4;dw	14
+彭浩翔	peng2;tp hao4;dk siang2;yx	232
+彭健新	peng2;tp jian4;ry sin1;lt	459
+彭靖惠	peng2;tp zing4;lo hui4;ix	6
+彭小苒	peng2;tp siao3;lb ran3;cr	30
+皮切丝	pi2;py cie1;qd si1;sa	634
+皮小浪	pi2;py siao3;lb lang4;dl	15
+朴海俊	piao2;ab hai3;dm zvn4;rw	256
+朴海秀	piao2;ab hai3;dm siu4;hn	261
+朴韩星	piao2;ab han2;uw sing1;ou	37
+朴俊炯	piao2;ab zvn4;rw jiong3;hk	396
+朴美宣	piao2;ab mei3;yd svan1;bd	212
+朴明秀	piao2;ab ming2;oo siu4;hn	454
+朴泰俊	piao2;ab tai4;iu zvn4;rw	320
+朴喜洵	piao2;ab xi3;tk svn2;do	333
+朴相勉	piao2;ab siang1;ao mian3;dl	252
+朴相元	piao2;ab siang1;ao yvan2;aw	284
+朴孝信	piao2;ab xiao4;lz sin4;rk	486
+朴信惠	piao2;ab sin4;rk hui4;ix	896
+朴新阳	piao2;ab sin1;lt yang2;eo	338
+朴信宇	piao2;ab sin4;rk yv3;by	252
+朴修弘	piao2;ab siu1;rp hong2;gs	302
+朴秀荣	piao2;ab siu4;hn rong2;ca	274
+朴秀真	piao2;ab siu4;hn zhen1;ub	464
+朴秀珍	piao2;ab siu4;hn zhen1;wp	255
+朴叙俊	piao2;ab sv4;ry zvn4;rw	477
+朴载相	piao2;ab zai4;gi siang1;ao	369
+平井坚	ping2;au zing3;ac jian1;lt	50
+平井桃	ping2;au zing3;ac tao2;av	13
+蒲熠星	pu2;cf yi4;hb sing1;ou	16
+柒阿姨	cii1;da a1;ek yi2;ny	1
+戚黛黛	cii1;gx dai4;rh dai4;rh	324
+齐尔洛	cii2;wl er3;dx luo4;dk	15
+七海雏	cii1;av hai3;dm chu2;dv	10
+齐海洋	cii2;wl hai3;dm yang2;dy	15
+齐纪深	cii2;wl ji4;sj shen1;da	12
+戚九洲	cii1;gx jiu3;pv zhou1;dv	12
+七濑公	cii1;av lai4;db gong1;bs	99
+戚蓝尹	cii1;gx lan2;cm yin3;ep	15
+戚美珍	cii1;gx mei3;yd zhen1;wp	16
+漆培鑫	cii1;du pei2;tk xin1;jj	12
+七七酱	cii1;av cii1;av ziang4;ly	50
+齐庆林	cii2;wl qing4;gd lin2;aa	12
+齐思钧	cii2;wl si1;tx jvn1;jy	35
+齐薇格	cii2;wl wei1;cj ge2;ak	41
+戚务生	cii1;gx wu4;wl sheng1;pf	31
+七小福	cii1;av siao3;lb fu2;pt	122
+戚砚笛	cii1;gx yan4;uj di2;vy	16
+漆昱辰	cii1;du yv4;ol chen2;iy	12
+戚玉武	cii1;gx yv4;wd wu3;gv	232
+戚予珠	cii1;gx yv3;sl zhu1;ww	12
+齐中旸	cii2;wl zhong1;kl yang2;op	22
+千百惠	cian1;pu bai3;ab hui4;ix	57
+钱蓓婷	cian2;jj bei4;ck ting2;nd	454
+浅仓舞	cian3;dj cang1;rv wu3;pf	310
+钱仓一	cian2;jj cang1;rv yi1;aa	76
+前川清	cian2;bd chuan1;pl cing1;do	292
+浅川悠	cian3;dj chuan1;pl you1;rx	495
+钱迪迪	cian2;jj di2;zy di2;zy	12
+钱冬旎	cian2;jj dong1;wd ni3;fb	12
+钱哆多	cian2;jj duo1;kx duo1;xx	15
+千虎珍	cian1;pu hu3;hj zhen1;wp	302
+钱皇后	cian2;jj huang2;bw hou4;ik	380
+钱惠丽	cian2;jj hui4;ix li4;ad	326
+钱嘉乐	cian2;jj jia1;tk le4;px	119
+钱门超	cian2;jj men2;dv chao1;tk	12
+钱谦益	cian2;jj qian1;yj yi4;bm	301
+钱思剑	cian2;jj si1;tx jian4;qd	16
+钱太后	cian2;jj tai4;dd hou4;ik	207
+前田爱	cian2;bd tian2;wu ai4;vy	459
+前田刚	cian2;bd tian2;wu gang1;kd	356
+浅田舞	cian3;dj tian2;wu wu3;pf	261
+钱天一	cian2;jj tian1;ad yi1;aa	422
+前田吟	cian2;bd tian2;wu yin2;kv	441
+钱惟演	cian2;jj wei2;xv yan3;db	6
+浅香唯	cian3;dj xiang1;ho wei2;kv	230
+钱小豪	cian2;jj siao3;lb hao2;wu	129
+钱雁秋	cian2;jj yan4;iv ciu1;hh	78
+千叶繁	cian1;pu ye4;ku fan2;px	13
+千叶遥	cian1;pu ye4;ku yao2;zf	1
+钱泳辰	cian2;jj yong3;dy chen2;iy	430
+千禹熙	cian1;pu yv3;pd xi1;ih	9
+千玗嬉	cian1;pu yv2;wy xi1;nk	8
+钱正昊	cian2;jj zheng4;av hao4;ot	218
+千正明	cian1;pu zheng4;av ming2;oo	346
+钱钟书	cian2;jj zhong1;jv shu1;vd	1802
+乔小刀	qiao2;yl siao3;lb dao1;vp	133
+秦伯坤	cin2;ih bo2;rb kun1;tu	12
+秦海璐	cin2;ih hai3;dm lu4;wk	242
+秦海清	cin2;ih hai3;dm cing1;do	12
+秦汉擂	cin2;ih han4;dy lei2;ft	122
+秦俊杰	cin2;ih zvn4;rw jie2;ah	756
+秦美苏	cin2;ih mei3;yd su1;cb	12
+秦鸣悦	cin2;ih ming2;kn yve4;xx	12
+秦舒培	cin2;ih shu1;ry pei2;tk	97
+秦天宇	cin2;ih tian1;ad yv3;by	26
+秦伟搏	cin2;ih wei3;rw bo2;fc	12
+秦舞阳	cin2;ih wu3;pf yang2;eo	1212
+秦祥林	cin2;ih siang2;py lin2;aa	44
+秦霄贤	cin2;ih siao1;yo xian2;lb	35
+秦晓轩	cin2;ih xiao3;ow xvan1;ig	12
+秦炎仕	cin2;ih yan2;hh shi4;rt	15
+秦志戬	cin2;ih zhi4;tx zian3;yg	25
+秦子涵	cin2;ih zi3;la han2;du	115
+秦子墨	cin2;ih zi3;la mo4;lt	22
+秦子越	cin2;ih zi3;la yve4;tl	115
+青空光	cing1;fo kong1;bg guang1;xe	10
+青山葵	cing1;fo shan1;kl kui2;ct	238
+清水爱	cing1;do shui3;ln ai4;vy	482
+青野武	cing1;fo ye3;ly wu3;gv	3
+青钰雯	cing1;fo yv4;jy wen2;yw	328
+秋成勋	ciu1;hh cheng2;gv xvn1;kl	333
+秋瓷炫	ciu1;hh ci2;dw xvan4;hx	608
+秋田弘	ciu1;hh tian2;wu hong2;gs	3
+秋相美	ciu1;hh siang1;ao mei3;yd	202
+仇小豹	qiu2;rj siao3;lb bao4;vu	459
+邱心志	qiu1;qe sin1;dd zhi4;tx	500
+邱彦翔	qiu1;qe yan4;wp siang2;yx	302
+邱月清	qiu1;qe yve4;ke cing1;do	297
+屈楚萧	qv1;ui chu3;az siao1;cb	662
+屈菁菁	qv1;ui zing1;co zing1;co	374
+屈菁箐	qv1;ui zing1;co cing4;vo	12
+曲隽希	qv1;wc zvan4;rn xi1;xj	1135
+曲肖冰	qv1;wc siao1;xo bing1;du	9
+曲霄宇	qv1;wc siao1;yo yv3;by	12
+全宝蓝	cvan2;rw bao3;by lan2;cm	315
+全度妍	cvan2;rw du4;gy yan2;nk	35
+权赫秀	qvan2;ay he4;ii siu4;hn	234
+全慧彬	cvan2;rw hui4;fx bin1;ap	3
+全慧珍	cvan2;rw hui4;fx zhen1;wp	16
+全美善	cvan2;rw mei3;yd shan4;yk	338
+全汝彬	cvan2;rw ru3;dn bin1;ap	6
+全石浩	cvan2;rw shi2;ak hao4;dk	26
+全锡浩	cvan2;rw sii1;jw hao4;dk	252
+权相佑	qvan2;ay siang1;ao you4;rk	540
+全孝盛	cvan2;rw xiao4;lz sheng4;im	6
+全炫茂	cvan2;rw xvan4;hx mao4;cg	9
+全伊伦	cvan2;rw yi1;ry lun2;rl	12
+全昭弥	cvan2;rw zhao1;ok mi2;gx	3
+全昭旻	cvan2;rw zhao1;ok min2;ow	3
+全昭珉	cvan2;rw zhao1;ok min2;wm	2
+全钟瑞	cvan2;rw zhong1;jv rui4;we	9
+饶芯语	rao2;uw sin1;cx yv3;yk	12
+任桂辛	ren2;rw gui4;at sin1;lu	179
+任骏飞	ren2;rw zvn4;mw fei1;vd	426
+任青安	ren2;rw cing1;fo an1;bn	3
+任素汐	ren2;rw su4;fx sii1;dx	752
+任婉婧	ren2;rw wan3;nv zing4;no	12
+任贤齐	ren2;rw xian2;lb cii2;wl	462
+任心怡	ren2;rw sin1;dd yi2;xk	15
+任永全	ren2;rw yong3;du cvan2;rw	26
+阮小仪	ruan3;ey siao3;lb yi2;ry	432
+阮星航	ruan3;ey sing1;ou hang2;vj	322
+沙俊伯	sha1;du zvn4;rw bo2;rb	318
+尚雯婕	shang4;xk wen2;yw zie2;nz	1064
+尚筱菊	shang4;xk siao3;vw jv2;cm	66
+尚小云	shang4;xk siao3;lb yvn2;ag	63
+上羽绚	shang4;ba yv3;xx svan4;so	10
+邵小珊	shao4;de siao3;lb shan1;wc	392
+邵雪聪	shao4;de sve3;ye cong1;ex	436
+申东靖	shen1;ol dong1;ax zing4;lo	270
+申彗星	shen1;ol hui4;fe sing1;ou	3
+沈文俊	shen3;de wen2;wx zvn4;rw	26
+申贤俊	shen1;ol xian2;lb zvn4;rw	364
+沈小爱	shen3;de siao3;lb ai4;vy	12
+沈小岑	shen3;de siao3;lb cen2;uv	369
+沈小婷	shen3;de siao3;lb ting2;nd	12
+沈梓捷	shen3;de zi3;ax zie2;fz	435
+盛俊宇	sheng4;im zvn4;rw yv3;by	12
+盛天俊	sheng4;im tian1;ad zvn4;rw	342
+盛小丛	sheng4;im siao3;lb cong2;ra	45
+室井滋	shi4;bt zing3;ac zi1;dy	338
+石俊辉	shi2;ak zvn4;rw hui1;gi	15
+时俊杰	shi2;to zvn4;rw jie2;ah	35
+史俊威	shi3;kn zvn4;rw wei1;gn	279
+施骏喆	shi1;fy zvn4;mw zhe2;tk	1
+石联星	shi2;ak lian2;et sing1;ou	5
+石榴姐	shi2;ak liu5;at zie3;nq	1048
+史派西	shi3;kn pai4;dy sii1;ak	274
+辻亲八	shi2;zu cin1;la ba1;pn	418
+师清峰	shi1;lj cing1;do feng1;uf	12
+史文翔	shi3;kn wen2;wx siang2;yx	12
+石玺彤	shi2;ak sii3;dy tong2;dp	1
+释小虎	shi4;mf siao3;lb hu3;hj	12
+石小杰	shi2;ak siao3;lb jie2;ah	187
+释小龙	shi4;mf siao3;lb long2;yp	141
+石小群	shi2;ak siao3;lb qvn2;yy	320
+释小松	shi4;mf siao3;lb song1;ag	230
+侍宣如	shi4;rc svan1;bd ru2;nk	220
+师子寻	shi1;lj zi3;la svn2;ec	12
+舒绣文	shu1;ry siu4;sn wen2;wx	6
+书亚信	shu1;vd ya4;ay sin4;rk	369
+舜文齐	shun4;vf wen2;wx cii2;wl	30
+寺岛进	si4;tc dao3;nu zin4;zj	9
+司马恂	si1;vk ma3;va svn2;xo	3
+宋静秀	song4;ba zing4;fy siu4;hn	12
+宋楠惜	song4;ba nan2;ag sii1;xo	22
+宋纤璇	song4;ba sian1;sq svan2;wz	12
+宋小宝	song4;ba siao3;lb bao3;by	311
+宋小川	song4;ba siao3;lb chuan1;pl	118
+宋小睿	song4;ba siao3;lb rui4;bo	15
+宋新妮	song4;ba sin1;lt ni1;nb	320
+宋奕星	song4;ba yi4;wd sing1;ou	12
+苏见信	su1;cb jian4;ke sin4;rk	630
+苏倩薇	su1;cb cian4;ro wei1;cj	30
+苏秋冬	su1;cb ciu1;hh dong1;wd	12
+速水奖	su4;zu shui3;ln ziang3;ld	6
+苏小玎	su1;cb siao3;lb ding1;wd	1530
+苏小妍	su1;cb siao3;lb yan2;nk	47
+苏新皓	su1;cb sin1;lt hao4;bk	37
+苏星婕	su1;cb sing1;ou zie2;nz	15
+苏璇儿	su1;cb svan2;wz er2;pv	12
+苏志燮	su1;cb zhi4;tx sie4;hy	38
+隋俊波	sui2;eo zvn4;rw bo1;dp	310
+隋永清	sui2;eo yong3;du cing1;do	137
+孙晨竣	sun1;zx chen2;oi zvn4;lw	15
+孙集斌	sun1;zx zii2;ra bin1;wv	5816
+孙佳俊	sun1;zx jia1;rt zvn4;rw	26
+孙晋芳	sun1;zx zin4;yo fang1;cf	1012
+孙晶晶	sun1;zx zing1;oo zing1;oo	530
+孙夕尧	sun1;zx sii1;pd yao2;yw	12
+孙小宝	sun1;zx siao3;lb bao3;by	630
+孙小飞	sun1;zx siao3;lb fei1;vd	12
+孙小华	sun1;zx siao3;lb hua2;ru	26
+孙小振	sun1;zx siao3;lb zhen4;fi	12
+孙信宏	sun1;zx sin4;rk hong2;bs	12
+孙雪宁	sun1;zx sve3;ye ning2;bd	218
+谭靖雯	tan2;yu zing4;lo wen2;yw	15
+谭秋娟	tan2;yu ciu1;hh jvan1;no	18
+覃文静	tan2;xu wen2;wx zing4;fy	261
+谭湘君	tan2;yu siang1;do jvn1;yk	12
+谭小环	tan2;yu siao3;lb huan2;wb	19
+唐汉霄	tang2;gk han4;dy siao1;yo	44
+汤晶晶	tang1;dp zing1;oo zing1;oo	16
+汤晶媚	tang1;dp zing1;oo mei4;no	454
+唐齐遥	tang2;gk cii2;wl yao2;zf	12
+唐钱婷	tang2;gk cian2;jj ting2;nd	3
+唐小然	tang2;gk siao3;lb ran2;xh	26
+唐小喜	tang2;gk siao3;lb xi3;tk	35
+唐雅菁	tang2;gk ya3;yv zing1;co	15
+汤子星	tang1;dp zi3;la sing1;ou	126
+田穰苴	tian2;wu rang2;hf zv1;cq	415
+田小冰	tian2;wu siao3;lb bing1;du	12
+田小洁	tian2;wu siao3;lb jie2;dk	50
+田小野	tian2;wu siao3;lb ye3;ly	15
+田栩宁	tian2;wu sv3;ax ning2;bd	12
+田雨晴	tian2;wu yv3;ad cing2;oo	1
+童祥苓	tong2;ll siang2;py ling2;cs	6
+土豆姐	tu3;ua dou4;ab zie3;nq	337
+万美汐	wan4;av mei3;yd sii1;dx	261
+万千惠	wan4;av cian1;pu hui4;ix	16
+万子晴	wan4;av zi5;la cing2;oo	30
+王炳翔	wang2;at bing3;hn siang2;yx	12
+汪丛青	wang1;dw cong2;ra cing1;fo	513
+王浩信	wang2;at hao4;dk sin4;rk	25
+王蕙心	wang2;at hui4;cx sin1;dd	12
+王佳璇	wang2;at jia1;rt svan2;wz	16
+汪晋贤	wang1;dw zin4;yo xian2;lb	292
+王今心	wang2;at jin1;rv sin1;dd	12
+王靖雯	wang2;at zing4;lo wen2;yw	148
+王靖云	wang2;at zing4;lo yvn2;ag	212
+王骏迪	wang2;at zvn4;mw di2;zy	322
+王俊凯	wang2;at zvn4;rw kai3;uj	1463
+王骏毅	wang2;at zvn4;mw yi4;lu	16
+王俊哲	wang2;at zvn4;rw zhe2;fk	22
+王澜静	wang2;at lan2;dj zing4;fy	12
+王路晴	wang2;at lu4;zk cing2;oo	18
+汪明荃	wang1;dw ming2;oo cvan2;cw	78
+王茜华	wang2;at cian4;cx hua2;ru	626
+王倩一	wang2;at cian4;ro yi1;aa	53
+王芊懿	wang2;at cian1;cq yi4;tx	1
+王千友	wang2;at cian1;pu you3;uy	1
+王千源	wang2;at cian1;pu yvan2;dx	141
+王沁宜	wang2;at cin4;dx yi2;bq	118
+王清亭	wang2;at cing1;do ting2;wd	122
+王庆祥	wang2;at qing4;gd siang2;py	716
+王秋明	wang2;at ciu1;hh ming2;oo	437
+王秋紫	wang2;at ciu1;hh zi3;vx	222
+王全安	wang2;at cvan2;rw an1;bn	132
+王全有	wang2;at cvan2;rw you3;uo	618
+汪荃珍	wang1;dw cvan2;cw zhen1;wp	135
+王瑞雪	wang2;at rui4;we sve3;ye	315
+王若瑄	wang2;at ruo4;ck svan1;wd	15
+王若雪	wang2;at ruo4;ck sve3;ye	12
+王诗晴	wang2;at shi1;yc cing2;oo	5
+汪汐潮	wang1;dw sii1;dx chao2;do	126
+王惜君	wang2;at sii1;xo jvn1;yk	45
+王小宝	wang2;at siao3;lb bao3;by	321
+王小蝶	wang2;at siao3;lb die2;ia	15
+王小福	wang2;at siao3;lb fu2;pt	122
+王小海	wang2;at siao3;lb hai3;dm	133
+王小虎	wang2;at siao3;lb hu3;hj	550
+王啸坤	wang2;at siao4;kb kun1;tu	512
+王小利	wang2;at siao3;lb li4;hd	1433
+王笑龙	wang2;at siao4;vy long2;yp	15
+汪小敏	wang1;dw siao3;lb min3;pw	16
+王小木	wang2;at siao3;lb mu4;ur	16
+王小帅	wang2;at siao3;lb shuai4;lj	383
+王小伟	wang2;at siao3;lb wei3;rw	516
+王小玮	wang2;at siao3;lb wei3;ww	230
+王小丫	wang2;at siao3;lb ya1;bl	38
+王小毅	wang2;at siao3;lb yi4;lu	230
+汪小壹	wang1;dw siao3;lb yi1;tb	12
+王新博	wang2;at sin1;lt bo2;uc	15
+王心刚	wang2;at sin1;dd gang1;kd	116
+王新军	wang2;at sin1;lt jvn1;bi	1437
+王心凌	wang2;at sin1;dd ling2;dw	989
+王心嫚	wang2;at sin1;dd man1;ny	12
+王心圣	wang2;at sin1;dd sheng4;yt	12
+王星辰	wang2;at sing1;ou chen2;iy	1330
+王星玮	wang2;at sing1;ou wei3;ww	22
+王星壹	wang2;at sing1;ou yi1;tb	12
+王星越	wang2;at sing1;ou yve4;tl	18
+王秀月	wang2;at siu4;hn yve4;ke	12
+王修泽	wang2;at siu1;rp ze2;df	30
+王秀竹	wang2;at siu4;hn zhu2;gg	716
+王雪纯	wang2;at sve3;ye chun2;st	215
+王雪菁	wang2;at sve3;ye zing1;co	12
+王雪洋	wang2;at sve3;ye yang2;dy	15
+王雅捷	wang2;at ya3;yv zie2;fz	618
+王艺璇	wang2;at yi4;cv svan2;wz	226
+王宥霁	wang2;at you4;bo zii4;yq	12
+王子清	wang2;at zi3;la cing1;do	1415
+王子璇	wang2;at zi3;la svan2;wz	816
+魏积安	wei4;hg zii1;hv an1;bn	327
+魏千翔	wei4;hg cian1;pu siang2;yx	433
+魏秋月	wei4;hg ciu1;hh yve4;ke	327
+魏小欢	wei4;hg siao3;lb huan1;yq	130
+魏小军	wei4;hg siao3;lb jvn1;bi	18
+魏小也	wei4;hg siao3;lb ye3;vv	12
+卫小雨	wei4;ea siao3;lb yv3;ad	1
+魏新雨	wei4;hg sin1;lt yv3;ad	530
+魏子翔	wei4;hg zi3;la siang2;yx	16
+温晶婕	wen1;dm zing1;oo zie2;nz	255
+文俊辉	wen2;wx zvn4;rw hui1;gi	25
+文俊珽	wen2;wx zvn4;rw ting3;ww	12
+温锡莹	wen1;dm sii1;jw ying2;cy	16
+翁文千	weng1;gx wen2;wx cian1;pu	12
+武大靖	wu3;gv da4;ar zing4;lo	508
+吴恩璇	wu2;kt en1;yx svan2;wz	18
+吴谨西	wu2;kt jin3;yw sii1;ak	37
+邬靖靖	wu1;we zing4;lo zing4;lo	234
+吴婧靓	wu2;kt zing4;no liang4;fj	12
+吴靖萱	wu2;kt zing4;lo xvan1;cd	37
+吴静一	wu2;kt zing4;fy yi1;aa	30
+吴骏超	wu2;kt zvn4;mw chao1;tk	12
+吴俊霆	wu2;kt zvn4;rw ting2;yw	12
+吴俊余	wu2;kt zvn4;rw yv2;rm	926
+吴明晶	wu2;kt ming2;oo zing1;oo	12
+吴倩莲	wu2;kt cian4;ro lian2;ci	91
+邬倩倩	wu1;we cian4;ro cian4;ro	392
+吴芊盈	wu2;kt cian1;cq ying2;nm	15
+吴千语	wu2;kt cian1;pu yv3;yk	311
+吴青峰	wu2;kt cing1;fo feng1;uf	855
+吴青芷	wu2;kt cing1;fo zhi3;cv	12
+武笑羽	wu3;gv siao4;vy yv3;xx	235
+吴秀波	wu2;kt siu4;hn bo1;dp	358
+吴宣仪	wu2;kt svan1;bd yi2;ry	53
+西川怜	sii1;ak chuan1;pl lian2;xs	12
+西宫梦	sii1;ak gong1;bk meng4;ax	10
+席惟伦	sii2;gj wei2;xv lun2;rl	12
+奚秀兰	xi1;vd siu4;hn lan2;bs	356
+夏德俊	xia4;bw de2;rx zvn4;rw	189
+夏靖庭	xia4;bw zing4;lo ting2;gw	392
+夏力薪	xia4;bw li4;vp sin1;ct	12
+夏宁骏	xia4;bw ning2;bd zvn4;mw	12
+夏文汐	xia4;bw wen2;wx sii1;dx	513
+夏煊泽	xia4;bw svan1;hd ze2;df	412
+夏语心	xia4;bw yv3;yk sin1;dd	369
+冼东妹	sian3;de dong1;ax mei4;nw	369
+仙杜拉	sian1;ru du4;at la1;fl	446
+鲜嘉臣	sian1;yy jia1;tk chen2;kl	12
+冼色丽	sian3;de se4;db li4;ad	310
+向玢璇	xiang4;pk bin1;wf svan2;wz	12
+项偞婧	xiang4;gy xie4;ra zing4;no	26
+向俞星	xiang4;pk yv2;rd sing1;ou	33
+象韵洁	siang4;du yvn4;ly jie2;dk	4
+相泽南	siang1;ao ze2;df nan2;ug	10
+小阿七	siao3;lb a1;ek cii1;av	16
+小彩旗	siao3;lb cai3;vp qi2;fb	621
+萧岱青	siao1;cb dai4;ru cing1;fo	12
+小岛南	siao3;lb dao3;nu nan2;ug	10
+肖德俊	siao1;xo de2;rx zvn4;rw	16
+小东北	siao3;lb dong1;ax bei3;lb	585
+萧芳芳	siao1;cb fang1;cf fang1;cf	38
+小凤仙	siao3;lb feng4;jy sian1;ru	498
+肖光奕	siao1;xo guang1;xe yi4;wd	12
+萧浩冉	siao1;cb hao4;dk ran3;kt	4
+小花暖	siao3;lb hua1;cb nuan3;oy	10
+小黄飞	siao3;lb huang2;cb fei1;vd	320
+肖凯中	siao1;xo kai3;uj zhong1;kl	12
+小乐哥	siao3;lb le4;px ge1;kk	35
+小李琳	siao3;lb li3;az lin2;wa	270
+小刘佳	siao3;lb liu2;wd jia1;rt	2
+潇梦临	siao1;db meng4;ax lin2;lk	15
+小鹏飞	siao3;lb peng2;on fei1;vd	26
+肖荣生	siao1;xo rong2;ca sheng1;pf	3
+肖若腾	siao1;xo ruo4;ck teng2;om	78
+小三金	siao3;lb san1;ae jin1;rb	15
+小沈龙	siao3;lb shen3;de long2;yp	22
+小沈阳	siao3;lb shen3;de yang2;eo	339
+肖顺尧	siao1;xo shun4;iy yao2;yw	392
+萧松原	siao1;cb song1;ag yvan2;ix	12
+筱素清	siao3;vw su4;fx cing1;do	15
+小孙浩	siao3;lb sun1;zx hao4;dk	12
+筱田优	siao3;vw tian2;wu you1;ry	10
+肖婷佳	siao1;xo ting2;nd jia1;rt	1
+肖文莉	siao1;xo wen2;wx li4;cd	35
+肖文铃	siao1;xo wen2;wx ling2;js	12
+小昔米	siao3;lb sii1;co mi3;ba	1
+小香玉	siao3;lb xiang1;ho yv4;wd	1
+小小如	siao3;lb siao3;lb ru2;nk	235
+肖亚文	siao1;xo ya4;ay wen2;wx	57
+肖雁宁	siao1;xo yan4;iv ning2;bd	15
+肖懿航	siao1;xo yi4;tx hang2;vj	715
+小伊伊	siao3;lb yi1;ry yi1;ry	369
+肖宇梁	siao1;xo yv3;by liang2;da	26
+肖雨雨	siao1;xo yv3;ad yv3;ad	224
+谢安琪	sie4;yc an1;bn qi2;wb	204
+谢安然	sie4;yc an1;bn ran2;xh	122
+谢彬彬	sie4;yc bin1;ap bin1;ap	360
+谢承颖	sie4;yc cheng2;ln ying3;bh	15
+谢承泽	sie4;yc cheng2;ln ze2;df	12
+谢春花	sie4;yc chun1;io hua1;cb	1312
+谢春懿	sie4;yc chun1;io yi4;tx	12
+谢东燊	sie4;yc dong1;ax shen1;ha	112
+谢和弦	sie4;yc he2;hk xian2;gx	28
+解惠清	xie4;dn hui4;ix cing1;do	261
+谢佳见	sie4;yc jia1;rt jian4;ke	432
+谢佳妤	sie4;yc jia1;rt yv2;ny	30
+谢金晶	sie4;yc jin1;rb zing1;oo	297
+谢金燕	sie4;yc jin1;rb yan4;ch	9
+谢九儿	sie4;yc jiu3;pv er2;pv	12
+谢君豪	sie4;yc jvn1;yk hao2;wu	170
+谢可可	sie4;yc ke3;dk ke3;dk	122
+谢可寅	sie4;yc ke3;dk yin2;bb	75
+谢坤达	sie4;yc kun1;tu da2;zd	396
+谢蕾蕾	sie4;yc lei3;ct lei3;ct	459
+谢丽金	sie4;yc li4;ad jin1;rb	297
+谢林彤	sie4;yc lin2;aa tong2;dp	194
+谢玲玲	sie4;yc ling2;ws ling2;ws	418
+谢孟伟	sie4;yc meng4;zm wei3;rw	91
+谢沛恩	sie4;yc pei4;dj en1;yx	306
+谢鹏飞	sie4;yc peng2;on fei1;vd	608
+谢芊彤	sie4;yc cian1;cq tong2;dp	342
+解清帅	xie4;dn cing1;do shuai4;lj	12
+谢琼煖	sie4;yc qiong2;wx nuan3;hy	369
+谢容儿	sie4;yc rong2;bg er2;pv	230
+谢锐韬	sie4;yc rui4;jx tao1;wj	16
+谢若琳	sie4;yc ruo4;ck lin2;wa	32
+谢侍辛	sie4;yc shi4;rc sin1;lu	130
+谢诗煜	sie4;yc shi1;yc yv4;hl	12
+谢思埸	sie4;yc si1;tx yi4;tw	482
+谢天华	sie4;yc tian1;ad hua1;ru	119
+谢天顺	sie4;yc tian1;ad shun4;iy	50
+谢添天	sie4;yc tian1;dx tian1;ad	66
+谢天笑	sie4;yc tian1;ad siao4;vy	625
+谢天依	sie4;yc tian1;ad yi1;ry	12
+谢霆锋	sie4;yc ting2;yw feng1;jf	6839
+谢婷婷	sie4;yc ting2;nd ting2;nd	19
+谢文骏	sie4;yc wen2;wx zvn4;mw	41
+谢闻轩	sie4;yc wen2;me xvan1;ig	2
+谢文雅	sie4;yc wen2;wx ya3;yv	270
+解小东	xie4;dn siao3;lb dong1;ax	228
+谢炘昊	sie4;yc xin1;ht hao4;ot	186
+谢欣华	sie4;yc xin1;iq hua2;ru	12
+谢欣桐	sie4;yc xin1;iq tong2;ak	12
+谢馨仪	sie4;yc xin1;to yi2;ry	288
+谢欣颖	sie4;yc xin1;iq ying3;bh	392
+谢杏芳	sie4;yc xing4;ak fang1;cf	22
+谢兴阳	sie4;yc xing1;xb yang2;eo	12
+谢雪心	sie4;yc sve3;ye sin1;dd	454
+谢依霖	sie4;yc yi1;ry lin2;ya	41
+谢易桥	sie4;yc yi4;ow qiao2;al	12
+谢盈萱	sie4;yc ying2;nm xvan1;cd	423
+谢盈雪	sie4;yc ying2;nm sve3;ye	1
+谢宇威	sie4;yc yv3;by wei1;gn	3
+谢雨欣	sie4;yc yv3;ad xin1;iq	13
+谢宇轩	sie4;yc yv3;by xvan1;ig	33
+谢沅江	sie4;yc yvan2;dy jiang1;dg	12
+谢元真	sie4;yc yvan2;aw zhen1;ub	12
+谢昀杉	sie4;yc yvn2;oy shan1;ap	266
+谢震廷	sie4;yc zhen4;yi ting2;zw	50
+谢震业	sie4;yc zhen4;yi ye4;la	970
+谢芷蕙	sie4;yc zhi3;cv hui4;cx	3
+谢芷伦	sie4;yc zhi3;cv lun2;rl	310
+谢治勋	sie4;yc zhi4;dk xvn1;kl	12
+谢钟灵	sie4;yc zhong1;jv ling2;eh	12
+谢梓彬	sie4;yc zi3;ax bin1;ap	12
+谢紫一	sie4;yc zi3;vx yi1;aa	6
+谢祖武	sie4;yc zu3;pq wu3;gv	450
+辛柏青	sin1;lu bai3;ab cing1;fo	57
+新村晶	sin1;lt cun1;ac zing1;oo	10
+辛弃疾	sin1;lu qi4;wc zii2;bu	555
+辛瑞琪	sin1;lu rui4;we qi2;wb	12
+欣小萌	xin1;iq siao3;lb meng2;co	73
+新有菜	sin1;lt you3;uo cai4;ca	10
+辛有志	sin1;lu you3;uo zhi4;tx	315
+辛雨锡	sin1;lu yv3;ad sii1;jw	16
+辛云来	sin1;lu yvn2;ag lai2;aa	15
+辛芷蕾	sin1;lu zhi3;cv lei3;ct	41
+辛祚宇	sin1;lu zuo4;pv yv3;by	16
+星奈爱	sing1;ou nai4;du ai4;vy	10
+星野明	sing1;ou ye3;ly ming2;oo	10
+邢雨静	xing2;ke yv3;ad zing4;fy	12
+邢增婧	xing2;ke zeng1;to zing4;no	18
+熊沁娴	xiong2;sh cin4;dx xian2;na	12
+熊心瑶	xiong2;sh sin1;dd yao2;wf	306
+修雨秀	siu1;rp yv3;ad siu4;hn	12
+修宗迪	siu1;rp zong1;bu di2;zy	9
+徐百慧	sv2;rm bai3;ab hui4;fx	30
+徐柏文	sv2;rm bai3;ab wen2;wx	12
+徐钵瓶	sv2;rm bo1;jb ping2;bw	12
+徐晨辰	sv2;rm chen2;oi chen2;iy	30
+栩晨昱	sv3;ax chen2;oi yv4;ol	12
+徐成峰	sv2;rm cheng2;gv feng1;uf	16
+徐楚雯	sv2;rm chu3;az wen2;yw	12
+徐春妮	sv2;rm chun1;io ni1;nb	122
+徐德亮	sv2;rm de2;rx liang4;wj	78
+徐登科	sv2;rm deng1;bb ke1;hd	33
+徐冬冬	sv2;rm dong1;wd dong1;wd	706
+徐冬梅	sv2;rm dong1;wd mei2;am	333
+徐梵溪	sv2;rm fan4;af xi1;dd	335
+徐丰年	sv2;rm feng1;sl nian2;pf	12
+徐歌阳	sv2;rm ge1;kq yang2;eo	830
+徐光宇	sv2;rm guang1;xe yv3;by	633
+徐海乔	sv2;rm hai3;dm qiao2;yl	616
+徐濠萦	sv2;rm hao2;du ying2;cx	19
+徐鹤尼	sv2;rm he4;bn ni2;ub	12
+徐洪浩	sv2;rm hong2;dg hao4;dk	2522
+徐怀雯	sv2;rm huai2;xb wen2;yw	12
+徐怀钰	sv2;rm huai2;xb yv4;jy	69
+徐黄丽	sv2;rm huang2;cb li4;ad	1018
+徐嘉曼	sv2;rm jia1;tk man4;oy	15
+徐嘉苇	sv2;rm jia1;tk wei3;cw	118
+徐佳莹	sv2;rm jia1;rt ying2;cy	1498
+徐嘉余	sv2;rm jia1;tk yv2;rm	1116
+徐剑秋	sv2;rm jian4;qd ciu1;hh	22
+徐锦江	sv2;rm jin3;jj jiang1;dg	135
+许晋旗	xv3;yw zin4;yo qi2;fb	12
+徐静蕾	sv2;rm zing4;fy lei3;ct	308
+徐婧灵	sv2;rm zing4;no ling2;eh	16
+许静婉	xv3;yw zing4;fy wan3;nv	17522
+徐经纬	sv2;rm jing1;sj wei3;sw	33
+许静雅	xv3;yw zing4;fy ya3;yv	12
+徐静雨	sv2;rm zing4;fy yv3;ad	618
+徐开骋	sv2;rm kai1;ac cheng3;mk	418
+徐恺咛	sv2;rm kai3;xj ning2;kd	12
+徐凯鑫	sv2;rm kai3;uj xin1;jj	12
+徐可珑	sv2;rm ke3;dk long2;wl	12
+徐雷智	sv2;rm lei2;yt zhi4;uo	16
+徐凌晨	sv2;rm ling2;dw chen2;oi	12
+许美静	xv3;yw mei3;yd zing4;fy	38
+徐美玲	sv2;rm mei3;yd ling2;ws	122
+徐梦洁	sv2;rm meng4;ax jie2;dk	26
+徐梦桃	sv2;rm meng4;ax tao2;av	530
+徐明浩	sv2;rm ming2;oo hao4;dk	115
+徐铭悦	sv2;rm ming2;jk yve4;xx	12
+徐沐婵	sv2;rm mu4;da chan2;nu	12
+徐囡楠	sv2;rm nan1;wn nan2;ag	312
+徐鹏凯	sv2;rm peng2;on kai3;uj	12
+徐麒丰	sv2;rm qi2;gb feng1;sl	12
+徐千惠	sv2;rm cian1;pu hui4;ix	126
+徐千雅	sv2;rm cian1;pu ya3;yv	316
+徐若晗	sv2;rm ruo4;ck han2;ok	12
+徐若琪	sv2;rm ruo4;ck qi2;wb	1
+徐若侨	sv2;rm ruo4;ck qiao2;rl	12
+徐若汐	sv2;rm ruo4;ck sii1;dx	12
+徐若瑄	sv2;rm ruo4;ck svan1;wd	311
+徐少华	sv2;rm shao3;xp hua2;ru	22
+徐绍瑛	sv2;rm shao4;sk ying1;wy	12
+徐绍泽	sv2;rm shao4;sk ze2;df	12
+徐申东	sv2;rm shen1;ol dong1;ax	333
+徐圣恩	sv2;rm sheng4;yt en1;yx	26
+徐仕龙	sv2;rm shi4;rt long2;yp	15
+徐诗晓	sv2;rm shi1;yc xiao3;ow	22
+徐世昕	sv2;rm shi4;cv xin1;ot	12
+徐松子	sv2;rm song1;ag zi3;la	222
+徐天星	sv2;rm tian1;ad sing1;ou	12
+徐婉婷	sv2;rm wan3;nv ting2;nd	37
+徐微微	sv2;rm wei1;rj wei1;rj	115
+徐文浩	sv2;rm wen2;wx hao4;dk	30
+徐文琳	sv2;rm wen2;wx lin2;wa	12
+徐熙娣	sv2;rm xi1;ih di4;nd	13
+徐熙颜	sv2;rm xi1;ih yan2;wy	26
+徐熙阳	sv2;rm xi1;ih yang2;eo	15
+徐熙媛	sv2;rm xi1;ih yvan4;ny	16
+徐小凤	sv2;rm siao3;lb feng4;jy	254
+许潇晗	xv3;yw siao1;db han2;ok	12
+徐孝琳	sv2;rm xiao4;lz lin2;wa	26
+徐晓璐	sv2;rm xiao3;ow lu4;wk	30
+徐枭柔	sv2;rm xiao1;na rou2;ma	15
+徐小飒	sv2;rm siao3;lb sa4;lf	116
+许小行	xv3;yw siao3;lb xing2;rd	30
+徐小溢	sv2;rm siao3;lb yi4;dm	18
+徐新驰	sv2;rm sin1;lt chi2;my	12
+徐心瑭	sv2;rm sin1;dd tang2;wk	12
+徐歆雨	sv2;rm xin1;lq yv3;ad	12
+徐亚洲	sv2;rm ya4;ay zhou1;dv	218
+徐言雨	sv2;rm yan2;wk yv3;ad	15
+徐一航	sv2;rm yi1;aa hang2;vj	33
+徐伊人	sv2;rm yi1;ry ren2;pn	1
+徐以若	sv2;rm yi3;lr ruo4;ck	12
+徐依所	sv2;rm yi1;ry suo3;ht	15
+徐艺洋	sv2;rm yi4;cv yang2;dy	31
+徐艺真	sv2;rm yi4;cv zhen1;ub	12
+徐誉滕	sv2;rm yv4;xk teng2;ou	318
+徐云丽	sv2;rm yvn2;ag li4;ad	2822
+徐云霄	sv2;rm yvn2;ag siao1;yo	12
+徐振轩	sv2;rm zhen4;fi xvan1;ig	15
+徐正溪	sv2;rm zheng4;av xi1;dd	22
+徐正运	sv2;rm zheng4;av yvn4;zy	12
+徐志飞	sv2;rm zhi4;tx fei1;vd	22
+徐志贺	sv2;rm zhi4;tx he4;lb	12
+徐志胜	sv2;rm zhi4;tx sheng4;ou	22
+徐卓一	sv2;rm zhuo2;bu yi1;aa	12
+徐子菲	sv2;rm zi3;la fei1;cf	1
+徐子涵	sv2;rm zi3;la han2;du	215
+徐子力	sv2;rm zi3;la li4;vp	26
+徐子淇	sv2;rm zi3;la qi2;db	82
+许紫青	xv3;yw zi3;vx cing1;fo	15
+徐紫茹	sv2;rm zi3;vx ru2;ck	12
+徐子珊	sv2;rm zi3;la shan1;wc	16
+徐子崴	sv2;rm zi3;la wai3;un	1312
+徐子未	sv2;rm zi3;la wei4;aa	12
+徐紫茵	sv2;rm zi3;vx yin1;cy	30
+徐宗政	sv2;rm zong1;bu zheng4;vw	22
+徐祖明	sv2;rm zu3;pq ming2;oo	15
+宣以豪	svan1;bd yi3;lr hao2;wu	12
+薛八一	sve1;cx ba1;pn yi1;aa	15
+薛昊婧	sve1;cx hao4;ot zing4;no	15
+薛皓文	sve1;cx hao4;bk wen2;wx	16
+薛卉葳	sve1;cx hui4;uc wei1;cn	12
+薛佳凝	sve1;cx jia1;rt ning2;dz	3
+薛家燕	sve1;cx jia1;bu yan4;ch	45
+薛江涛	sve1;cx jiang1;dg tao1;dc	15
+薛景求	sve1;cx jing3;ox qiu2;au	31
+薛觉先	sve1;cx jve2;xj sian1;ne	513
+薛凯琪	sve1;cx kai3;uj qi2;wb	151
+薛曼媃	sve1;cx man4;oy rou2;na	12
+薛闻君	sve1;cx wen2;me jvn1;yk	437
+薛旭春	sve1;cx xv4;jo chun1;io	12
+薛咏煜	sve1;cx yong3;ky yv4;hl	12
+薛宇槟	sve1;cx yv3;by bin1;ab	118
+薛玉洋	sve1;cx yv4;wd yang2;dy	63
+薛媛媛	sve1;cx yvan4;ny yvan4;ny	23
+薛泽源	sve1;cx ze2;df yvan2;dx	12
+薛之谦	sve1;cx zhi1;dn qian1;yj	2898
+荀慧生	svn2;co hui4;fx sheng1;pf	41
+严浩翔	yan2;ai hao4;dk siang2;yx	212
+阎鹤祥	yan2;mj he4;bn siang2;py	170
+颜骏凌	yan2;wy zvn4;mw ling2;dw	160
+阎青妤	yan2;mj cing1;fo yv2;ny	540
+闫汶渲	yan2;ms wen4;dw svan4;dd	12
+颜小健	yan2;wy siao3;lb jian4;ry	16
+焉栩嘉	yan1;vh sv3;ax jia1;tk	28
+闫学晶	yan2;ms xve2;xz zing1;oo	6
+阎学晶	yan2;mj xve2;xz zing1;oo	5
+杨宝心	yang2;ap bao3;by sin1;dd	126
+杨博潇	yang2;ap bo2;uc siao1;db	12
+杨长青	yang2;ap chang2;pn cing1;fo	722
+杨静儿	yang2;ap zing4;fy er2;pv	12
+杨净如	yang2;ap zing4;dy ru2;nk	233
+杨浚瑄	yang2;ap zvn4;dw svan1;wd	18
+杨俊毅	yang2;ap zvn4;rw yi4;lu	248
+杨俊勇	yang2;ap zvn4;rw yong3;sl	22
+杨丽菁	yang2;ap li4;ad zing1;co	13
+杨立新	yang2;ap li4;wb sin1;lt	226
+羊莅新	yang2;bf li4;cl sin1;lt	1
+杨洛仟	yang2;ap luo4;dk cian1;rq	12
+杨千嬅	yang2;ap cian1;pu hua4;nf	1485
+杨芊慧	yang2;ap cian1;cq hui4;fx	12
+杨千霈	yang2;ap cian1;pu pei4;yj	400
+杨青倩	yang2;ap cing1;fo cian4;ro	12
+杨清文	yang2;ap cing1;do wen2;wx	26
+杨若惜	yang2;ap ruo4;ck sii1;xo	1
+杨诗倩	yang2;ap shi1;yc cian4;ro	133
+杨天翔	yang2;ap tian1;ad siang2;yx	1030
+杨小曼	yang2;ap siao3;lb man4;oy	130
+杨小萍	yang2;ap siao3;lb ping2;cp	1
+杨潇洒	yang2;ap siao1;db sa3;dx	12
+杨新鸣	yang2;ap sin1;lt ming2;kn	212
+杨秀措	yang2;ap siu4;hn cuo4;fo	116
+杨雪儿	yang2;ap sve3;ye er2;pv	137
+杨智翔	yang2;ap zhi4;uo siang2;yx	22
+姚芊羽	yao2;nv cian1;cq yv3;xx	13
+姚文雪	yao2;nv wen2;wx sve3;ye	18
+姚筱筱	yao2;nv siao3;vw siao3;vw	12
+姚星彤	yao2;nv sing1;ou tong2;dp	526
+叶俊岑	ye4;ku zvn4;rw cen2;uv	302
+叶露茜	ye4;ku lu4;yk cian4;cx	274
+叶倩彤	ye4;ku cian4;ro tong2;dp	338
+叶倩文	ye4;ku cian4;ro wen2;wx	1196
+叶蒨文	ye4;ku cian4;co wen2;wx	698
+叶倩云	ye4;ku cian4;ro yvn2;ag	171
+叶全真	ye4;ku cvan2;rw zhen1;ub	387
+叶筱玮	ye4;ku siao3;vw wei3;ww	12
+叶新晨	ye4;ku sin1;lt chen2;oi	12
+叶炫清	ye4;ku xvan4;hx cing1;do	57
+叶一茜	ye4;ku yi2;aa cian4;cx	16
+叶祖新	ye4;ku zu3;pq sin1;lt	644
+易大千	yi4;ow da4;ar cian1;pu	1
+易小星	yi4;ow siao3;lb sing1;ou	60
+易妍倩	yi4;ow yan2;nk cian4;ro	292
+印小天	yin4;pe siao3;lb tian1;ad	245
+殷秀梅	yin1;pu siu4;hn mei2;am	405
+樱井步	ying1;an zing3;ac bu4;vu	10
+樱井彩	ying1;an zing3;ac cai3;vp	10
+樱心美	ying1;an sin1;dd mei3;yd	10
+尤靖茹	you2;yd zing4;lo ru2;ck	218
+尤长靖	you2;yd zhang3;pn zing4;lo	450
+于济玮	yv2;au zii4;dq wei3;ww	33
+余俊逸	yv2;rm zvn4;rw yi4;zt	274
+俞琏静	yv2;rd lian3;wi zing4;fy	274
+于千景	yv2;au cian1;pu jing3;ox	12
+于清斌	yv2;au cing1;do bin1;wv	1
+于翔任	yv2;au siang2;yx ren4;rw	12
+于小彬	yv2;au siao3;lb bin1;ap	15
+俞小凡	yv2;rd siao3;lb fan2;jd	3
+于小慧	yv2;au siao3;lb hui4;fx	346
+于小磊	yv2;au siao3;lb lei3;uu	15
+于小彤	yv2;au siao3;lb tong2;dp	16
+于小伟	yv2;au siao3;lb wei3;rw	16
+余小雪	yv2;rm siao3;lb sve3;ye	1
+于新博	yv2;au sin1;lt bo2;uc	16
+余心恬	yv2;rm sin1;dd tian2;xu	248
+于心妍	yv2;au sin1;dd yan2;nk	12
+于月仙	yv2;au yve4;ke sian1;ru	554
+俞云啸	yv2;rd yvn2;ag siao4;kb	16
+于芷晴	yv2;au zhi3;cv cing2;oo	15
+袁俊杰	yvan2;ty zvn4;rw jie2;ah	338
+袁心冉	yvan2;ty sin1;dd ran3;kt	12
+袁雪芬	yvan2;ty sve3;ye fen1;cf	428
+岳秀清	yve4;qu siu4;hn cing1;do	222
+云千千	yvn2;ag cian1;pu cian1;pu	30
+曾华倩	zeng1;bo hua2;ru cian4;ro	13
+曾梦雪	zeng1;bo meng4;ax sve3;ye	216
+曾雪瑶	zeng1;bo sve3;ye yao2;wf	12
+曾一竣	zeng1;bo yi1;aa zvn4;lw	122
+战菁一	zhan4;vg zing1;co yi1;aa	30
+詹小楠	zhan1;dk siao3;lb nan2;ag	33
+张大静	zhang1;gi da4;ar zing4;fy	112
+张大仙	zhang1;gi da4;ar sian1;ru	1337
+张昊翔	zhang1;gi hao4;ot siang2;yx	15
+张赫宣	zhang1;gi he4;ii svan1;bd	722
+张集骏	zhang1;gi zii2;ra zvn4;mw	12
+张继青	zhang1;gi ji4;sm cing1;fo	33
+张家齐	zhang1;gi jia1;bu cii2;wl	826
+张津涤	zhang1;gi zin1;dy di2;da	915
+张津涛	zhang1;gi zin1;dy tao1;dc	1
+张静初	zhang1;gi zing4;fy chu1;pd	170
+张晶晶	zhang1;gi zing1;oo zing1;oo	812
+张净桐	zhang1;gi zing4;dy tong2;ak	12
+张婧仪	zhang1;gi zing4;no yi2;ry	2526
+张隽溢	zhang1;gi zvan4;rn yi4;dm	12
+张峻鸣	zhang1;gi zvn4;uw ming2;kn	30
+张峻宁	zhang1;gi zvn4;uw ning2;bd	191
+张俊一	zhang1;gi zvn4;rw yi1;aa	10
+张蓝心	zhang1;gi lan2;cm sin1;dd	25
+张龄心	zhang1;gi ling2;vs sin1;dd	16
+张梦雪	zhang1;gi meng4;ax sve3;ye	1522
+张墨锡	zhang1;gi mo4;lt sii1;jw	126
+张倩如	zhang1;gi cian4;ro ru2;nk	30
+张全蛋	zhang1;gi cvan2;rw dan4;zi	63
+张诗雪	zhang1;gi shi1;yc sve3;ye	12
+张铁泉	zhang1;gi tie3;jf cvan2;bu	637
+张炜迅	zhang1;gi wei3;hw svn4;zu	337
+张湘祥	zhang1;gi siang1;do siang2;py	37
+张小斐	zhang1;gi siao3;lb fei3;fw	333
+张小飞	zhang1;gi siao3;lb fei1;vd	111
+张小格	zhang1;gi siao3;lb ge2;ak	12
+张小光	zhang1;gi siao3;lb guang1;xe	34
+张潇恒	zhang1;gi siao1;db heng2;xd	12
+张笑君	zhang1;gi siao4;vy jvn1;yk	112
+张潇萌	zhang1;gi siao1;db meng2;co	12
+张小婉	zhang1;gi siao3;lb wan3;nv	22
+张晓夕	zhang1;gi xiao3;ow sii1;pd	12
+张笑盈	zhang1;gi siao4;vy ying2;nm	116
+张新成	zhang1;gi sin1;lt cheng2;gv	926
+张新建	zhang1;gi sin1;lt jian4;zy	426
+张新洁	zhang1;gi sin1;lt jie2;dk	15
+张芯宁	zhang1;gi sin1;cx ning2;bd	37
+张辛苑	zhang1;gi sin1;lu yvan4;cv	22
+张信哲	zhang1;gi sin4;rk zhe2;fk	622
+张星禾	zhang1;gi sing1;ou he2;pa	12
+张星瑶	zhang1;gi sing1;ou yao2;wf	12
+张修维	zhang1;gi siu1;rp wei2;sv	44
+张雪峰	zhang1;gi sve3;ye feng1;uf	572
+张雪菡	zhang1;gi sve3;ye han4;cu	12
+张雪迎	zhang1;gi sve3;ye ying2;ze	25
+张颜齐	zhang1;gi yan2;wy cii2;wl	137
+张懿婧	zhang1;gi yi4;tx zing4;no	22
+张英席	zhang1;gi ying1;cy sii2;gj	435
+赵方婧	zhao4;tx fang1;wv zing4;no	235
+赵恒煊	zhao4;tx heng2;xd svan1;hd	18
+赵津羽	zhao4;tx zin1;dy yv3;xx	12
+赵婧贻	zhao4;tx zing4;no yi2;bk	12
+肇俊哲	zhao4;hy zvn4;rw zhe2;fk	116
+赵千紫	zhao4;tx cian1;pu zi3;vx	12
+赵若汐	zhao4;tx ruo4;ck sii1;dx	15
+赵文瑄	zhao4;tx wen2;wx svan1;wd	57
+赵小丁	zhao4;tx siao3;lb ding1;al	433
+赵小东	zhao4;tx siao3;lb dong1;ax	30
+赵小锐	zhao4;tx siao3;lb rui4;jx	215
+赵小棠	zhao4;tx siao3;lb tang2;xa	533
+赵小童	zhao4;tx siao3;lb tong2;ll	12
+赵小熙	zhao4;tx siao3;lb xi1;ih	37
+赵小瑄	zhao4;tx siao3;lb svan1;wd	12
+赵小熠	zhao4;tx siao3;lb yi4;hb	12
+赵心童	zhao4;tx sin1;dd tong2;ll	25
+赵雪莲	zhao4;tx sve3;ye lian2;ci	22
+赵毅新	zhao4;tx yi4;lu sin1;lt	26
+赵英俊	zhao4;tx ying1;cy zvn4;rw	88
+赵雨菁	zhao4;tx yv3;ad zing1;co	35
+赵禹晴	zhao4;tx yv3;pd cing2;oo	12
+赵忠祥	zhao4;tx zhong1;vx siang2;py	107
+郑繁星	zheng4;be fan2;px sing1;ou	12
+郑湫泓	zheng4;be ziao3;dh hong2;ds	37
+郑靖雯	zheng4;be zing4;lo wen2;yw	12
+郑俊弘	zheng4;be zvn4;rw hong2;gs	612
+郑罗茜	zheng4;be luo2;sx cian4;cx	926
+郑清文	zheng4;be cing1;do wen2;wx	137
+郑少秋	zheng4;be shao3;xp ciu1;hh	305
+郑心潼	zheng4;be sin1;dd tong2;dl	12
+郑秀晶	zheng4;be siu4;hn zing1;oo	100
+郑秀文	zheng4;be siu4;hn wen2;wx	424
+郑秀妍	zheng4;be siu4;hn yan2;nk	66
+郑正秋	zheng4;be zheng4;av ciu1;hh	535
+钟蒙修	zhong1;jv meng2;cu siu1;rp	12
+钟倩欣	zhong1;jv cian4;ro xin1;iq	400
+周冰倩	zhou1;kk bing1;du cian4;ro	622
+周冰清	zhou1;kk bing1;du cing1;do	12
+周春秀	zhou1;kk chun1;io siu4;hn	37
+周冬齐	zhou1;kk dong1;wd cii2;wl	612
+周骏超	zhou1;kk zvn4;mw chao1;tk	33
+周峻纬	zhou1;kk zvn4;uw wei3;sw	37
+周小镔	zhou1;kk siao3;lb bin1;jb	37
+周小斌	zhou1;kk siao3;lb bin1;wv	30
+周星驰	zhou1;kk sing1;ou chi2;my	7423
+周星星	zhou1;kk sing1;ou sing1;ou	292
+周秀娜	zhou1;kk siu4;hn na4;ne	22
+周梓倩	zhou1;kk zi3;ax cian4;ro	12
+朱洁静	zhu1;pw jie2;dk zing4;fy	41
+朱婧汐	zhu1;pw zing4;no sii1;dx	138
+朱俊麟	zhu1;pw zvn4;rw lin2;gf	12
+朱铭捷	zhu1;pw ming2;jk zie2;fz	16
+朱倩倩	zhu1;pw cian4;ro cian4;ro	35
+朱婉清	zhu1;pw wan3;nv cing1;do	15
+朱习爱	zhu1;pw sii2;vd ai4;vy	12
+朱信宗	zhu1;pw sin4;rk zong1;bu	35
+朱星杰	zhu1;pw sing1;ou jie2;ah	112
+诸星堇	zhu1;yo sing1;ou jin3;cw	405
+祝绪丹	zhu4;px sv4;so dan1;kd	28
+祝雨辛	zhu4;px yv3;ad sin1;lu	26
+庄其迁	zhuang1;gt qi2;cb cian1;zq	12
+庄文清	zhuang1;gt wen2;wx cing1;do	374
+庄小周	zhuang1;gt siao3;lb zhou1;kk	15
+庄心妍	zhuang1;gt sin1;dd yan2;nk	28
+邹晶晶	zou1;de zing1;oo zing1;oo	122
+邹新宇	zou1;de sin1;lt yv3;by	18
+邹元清	zou1;de yvan2;aw cing1;do	3
+左婧媛	zuo3;ug zing4;no yvan4;ny	333
+左小青	zuo3;ug siao3;lb cing1;fo	581
+爱须心亚	ai4;vy sv1;py sin1;dd ya4;ay	180
+岸本齐史	an4;ug ben3;aa cii2;wl shi3;kn	333
+安达夕莉	an1;bn da2;zd sii1;pd li4;cd	10
+安济知佳	an1;bn zii4;dq zhi1;uk jia1;rt	432
+安西英美	an1;bn sii1;ak ying1;cy mei3;yd	153
+安西正弘	an1;bn sii1;ak zheng4;av hong2;gs	256
+庵野秀明	an1;gd ye3;ly siu4;hn ming2;oo	1627
+奥井康介	ao4;pd zing3;ac kang1;gl jie4;rl	256
+奥井雅美	ao4;pd zing3;ac ya3;yv mei3;yd	544
+傲笑红尘	ao4;rw siao4;vy hong2;sg chen2;xt	324
+八千草薰	ba1;pn cian1;pu cao3;cu xvn1;ch	320
+八千草薫	ba1;pn cian1;pu cao3;cu xvn1;ch	251
+八千草熏	ba1;pn cian1;pu cao3;cu xvn1;qh	29
+八寻宁宁	ba1;pn svn2;ec ning2;bd ning2;bd	144
+白河静流	bai2;po he2;dk zing4;fy liu2;di	225
+白井悠介	bai2;po zing3;ac you1;rx jie4;rl	418
+百濑莉绪	bai3;ab lai4;db li4;cd sv4;so	153
+柏木小夏	bai3;ab mu4;ur siao3;lb xia4;bw	10
+白上吹雪	bai2;po shang4;ba chui1;kq sve3;ye	342
+白石纪晴	bai2;po shi2;ak ji4;sj cing2;oo	45
+白石晴香	bai2;po shi2;ak cing2;oo xiang1;ho	410
+坂井成羽	ban3;ty zing3;ac cheng2;gv yv3;xx	10
+坂井泉水	ban3;ty zing3;ac cvan2;bu shui3;ln	621
+坂井真纪	ban3;ty zing3;ac zhen1;ub ji4;sj	320
+宝井秀人	bao3;by zing3;ac siu4;hn ren2;pn	194
+北村匠海	bei3;lb cun1;ac ziang4;kt hai3;dm	418
+北方夕鹤	bei3;lb fang1;wv sii1;pd he4;bn	297
+本尼西奥	ben3;aa ni2;ub sii1;ak ao4;pd	320
+表白肖战	biao3;fy bai2;po siao1;xo zhan4;vg	45
+滨崎里绪	bin1;db qi2;uk li3;tt sv4;so	310
+滨崎真绪	bin1;db qi2;uk zhen1;ub sv4;so	284
+滨田翔子	bin1;db tian2;wu siang2;yx zi3;la	238
+冰川清志	bing1;du chuan1;pl cing1;do zhi4;tx	9
+波姬小丝	bo1;dp ji1;ni siao3;lb si1;sa	400
+波津彬子	bo1;dp zin1;dy bin1;ap zi3;la	243
+布兰切特	bu4;uj lan2;bs cie4;qd te4;nc	711
+财津和夫	cai2;bc zin1;dy he2;hk fu1;er	6
+彩美旬果	cai3;vp mei3;yd svn2;bo guo3;ta	10
+财前直见	cai2;bc cian2;bd zhi2;uq jian4;ke	369
+仓花千夏	cang1;rv hua1;cb cian1;pu xia4;bw	212
+苍井翔太	cang1;cv zing3;ac siang2;yx tai4;dd	504
+仓井优香	cang1;rv zing3;ac you1;ry xiang1;ho	45
+柴田秀胜	chai2;va tian2;wu siu4;hn sheng4;ou	428
+成濑心美	cheng2;gv lai4;db sin1;dd mei3;yd	387
+丛日新儿	cong2;ra ri4;wa sin1;lt er2;pv	1
+大江千里	da4;ar jiang1;dg cian1;pu li3;tt	324
+大泷秀治	da4;ar long2;dl siu4;hn zhi4;dk	266
+大山信代	da4;ar shan1;kl sin4;rk dai4;rg	50
+黛青塔娜	dai4;rh cing1;fo ta3;tk na4;ne	19
+德井妮可	de2;rx zing3;ac ni1;nb ke3;dk	50
+德井青空	de2;rx zing3;ac cing1;fo kong1;bg	495
+德井义实	de2;rx zing3;ac yi4;dx shi2;bd	338
+蝶野晴美	die2;ia ye3;ly cing2;oo mei3;yd	230
+东来西往	dong1;ax lai2;aa sii1;ak wang3;rv	6
+渡边翔太	du4;dy bian1;zl siang2;yx tai4;dd	16
+端木新卉	duan1;le mu4;ur sin1;lt hui4;uc	1
+饭冢翔太	fan4;uy zhong3;bu siang2;yx tai4;dd	261
+风间俊介	feng1;jx jian1;mo zvn4;rw jie4;rl	9
+父亲谢贤	fu4;bx cin1;la sie4;yc xian2;lb	333
+芙蓉姐姐	fu2;cf rong2;cg zie3;nq zie5;nq	708
+冈井萌华	gang1;kx zing3;ac meng2;co hua2;ru	10
+高峰秀子	gao1;wk feng1;uf siu4;hn zi3;la	19
+高桥智秋	gao1;wk qiao2;al zhi4;uo ciu1;hh	468
+宫本笑里	gong1;bk ben3;aa siao4;vy li3;tt	261
+宫本信子	gong1;bk ben3;aa sin4;rk zi5;la	364
+宫地真绪	gong1;bk di4;ty zhen1;ub sv4;so	288
+工藤静香	gong1;aa teng2;cu zing4;fy xiang1;ho	204
+恭喜肖战	gong1;gx xi3;tk siao1;xo zhan4;vg	130
+宫泽千春	gong1;bk ze2;df cian1;pu chun1;io	10
+骨川小夫	gu3;go chuan1;pl siao3;lb fu1;er	414
+谷村新司	gu3;bk cun1;ac sin1;lt si1;vk	179
+关根信昭	guan1;bt gen1;ag sin4;rk zhao1;ok	194
+龟井绘里	gui1;dd zing3;ac hui4;sy li3;tt	346
+鬼束千寻	gui3;ps shu4;gr cian1;pu svn2;ec	6
+果酱乐团	guo3;ta ziang4;ly yve4;px tuan2;wc	256
+海伦清桃	hai3;dm lun2;rl cing1;do tao2;av	225
+憨豆先生	han1;ex dou4;ab sian1;ne sheng1;pf	242
+浩角翔起	hao4;dk jiao3;dy siang2;yx qi3;tj	323
+和泉纱雾	he2;hk cvan2;bu sha1;su wu4;yl	356
+和泉紫乃	he2;hk cvan2;bu zi3;vx nai3;pv	4
+河西健吾	he2;dk sii1;ak jian4;ry wu2;wk	454
+河西智美	he2;dk sii1;ak zhi4;uo mei3;yd	549
+横滨流星	heng2;ab bin1;db liu2;di sing1;ou	6
+横宫七海	heng2;ab gong1;bk cii1;av hai3;dm	10
+横山美雪	heng2;ab shan1;kl mei3;yd sve3;ye	284
+花井爱子	hua1;cb zing3;ac ai4;vy zi3;la	144
+花井美里	hua1;cb zing3;ac mei3;yd li3;tt	50
+花井美纱	hua1;cb zing3;ac mei3;yd sha1;su	45
+火箭少女	huo3;br zian4;vd shao4;xp nv3;va	26
+火云邪神	huo3;br yvn2;ag sie2;ye shen2;pu	515
+吉冈秀隆	ji2;tk gang1;kx siu4;hn long2;eu	414
+吉克隽逸	ji2;tk ke4;ux zvan4;rn yi4;zt	1556
+迹美朱里	zii4;zb mei3;yd zhu1;pw li3;tt	10
+吉祥三宝	ji2;tk siang2;py san1;ae bao3;by	104
+嘉然小姐	jia1;tk ran2;xh siao3;lb zie3;nq	378
+假笑男孩	jia3;ry siao4;vy nan2;tl hai2;zr	230
+间宫夕贵	jian1;mo gong1;bk sii1;pd gui4;vb	162
+菅井爱里	jian1;cl zing3;ac ai4;vy li3;tt	144
+菅田将晖	jian1;cl tian2;wu ziang1;lc hui1;oi	639
+菅野松雪	jian1;cl ye3;ly song1;ag sve3;ye	10
+蒋袁娅蓉	ziang3;cc yvan2;ty ya4;ny rong2;cg	1
+杰西达邦	jie2;ah sii1;ak da2;zd bang1;fe	234
+津川雅彦	zin1;dy chuan1;pl ya3;yv yan4;wp	454
+近畿小子	jin4;zt ji1;gt siao3;lb zi5;la	477
+今井凌雪	jin1;rv zing3;ac ling2;dw sve3;ye	180
+今井麻美	jin1;rv zing3;ac ma2;ga mei3;yd	576
+今井美树	jin1;rv zing3;ac mei3;yd shu4;ac	382
+金井美香	jin1;rb zing3;ac mei3;yd xiang1;ho	441
+今井梦露	jin1;rv zing3;ac meng4;ax lu4;yk	76
+今井由香	jin1;rv zing3;ac you2;ol xiang1;ho	396
+今泉佑唯	jin1;rv cvan2;bu you4;rk wei2;kv	392
+进藤玲菜	zin4;zj teng2;cu ling2;ws cai4;ca	76
+进藤尚美	zin4;zj teng2;cu shang4;xk mei3;yd	464
+今野晴贵	jin1;rv ye3;ly cing2;oo gui4;vb	50
+井口裕香	zing3;ac kou3;la yv4;pg xiang1;ho	549
+井上和香	zing3;ac shang4;ba he2;hk xiang1;ho	324
+井上和彦	zing3;ac shang4;ba he2;hk yan4;wp	6
+井上可奈	zing3;ac shang4;ba ke3;dk nai4;du	50
+井上伦宏	zing3;ac shang4;ba lun2;rl hong2;bs	279
+井上雄彦	zing3;ac shang4;ba xiong2;uv yan4;wp	1199
+井上阳水	zing3;ac shang4;ba yang2;eo shui3;ln	31
+井上真央	zing3;ac shang4;ba zhen1;ub yang1;kr	19
+井上正大	zing3;ac shang4;ba zheng4;av da4;ar	338
+井上织姬	zing3;ac shang4;ba zhi1;sv ji1;ni	78
+酒井彩名	ziu3;dy zing3;ac cai3;vp ming2;xk	266
+酒井法子	ziu3;dy zing3;ac fa3;dq zi5;la	38
+酒井麻衣	ziu3;dy zing3;ac ma2;ga yi1;wy	144
+酒井美纪	ziu3;dy zing3;ac mei3;yd ji4;sj	44
+酒井美幸	ziu3;dy zing3;ac mei3;yd xing4;tg	50
+酒井美雪	ziu3;dy zing3;ac mei3;yd sve3;ye	99
+酒井萌衣	ziu3;dy zing3;ac meng2;co yi1;wy	320
+酒井未希	ziu3;dy zing3;ac wei4;aa xi1;xj	50
+酒井夏树	ziu3;dy zing3;ac xia4;bw shu4;ac	130
+酒井瑛里	ziu3;dy zing3;ac ying1;wy li3;tt	76
+鹫尾芽衣	ziu4;wn wei3;um ya2;cy yi1;wy	10
+玖月奇迹	jiu3;wj yve4;ke qi2;dk zii4;zb	53
+久住小春	jiu3;pn zhu4;rv siao3;lb chun1;io	441
+菊地晶子	jv2;cm di4;ty zing1;oo zi3;la	117
+爵士丹尼	zve2;vc shi4;ua dan1;kd ni2;ub	50
+君岛美绪	jvn1;yk dao3;nu mei3;yd sv4;so	234
+君岛美绪	jvn1;yk dao3;nu mei3;yd sv4;so	10
+凯西贝兹	kai3;uj sii1;ak bei4;kr zi1;by	405
+可米小子	ke3;dk mi3;ba siao3;lb zi5;la	9
+孔二小姐	kong3;zv er4;aa siao3;lb zie3;nq	374
+堀井茶渡	ku1;ti zing3;ac cha2;cm du4;dy	212
+堀井美月	ku1;ti zing3;ac mei3;yd yve4;ke	238
+堀井真吾	ku1;ti zing3;ac zhen1;ub wu2;wk	144
+堀内秋美	ku1;ti nei4;kr ciu1;hh mei3;yd	230
+堀千亚树	ku1;ti cian1;pu ya4;ay shu4;ac	162
+丽江小倩	li4;ad jiang1;dg siao3;lb cian4;ro	6
+礼濑真宵	li3;pv lai4;db zhen1;ub siao1;bo	4
+栗山莉绪	li4;xa shan1;kl li4;cd sv4;so	45
+栗山莉绪	li4;xa shan1;kl li4;cd sv4;so	10
+栗山千明	li4;xa shan1;kl cian1;pu ming2;oo	60
+栗原小卷	li4;xa yvan2;ix siao3;lb jvan4;jv	504
+林青依果	lin2;aa cing1;fo yi1;ry guo3;ta	2
+铃村修一	ling2;js cun1;ac siu1;rp yi1;aa	4
+绫里千寻	ling2;sw li3;tt cian1;pu svn2;ec	351
+绫里真宵	ling2;sw li3;tt zhen1;ub siao1;bo	338
+铃木千秋	ling2;js mu4;ur cian1;pu ciu1;hh	45
+铃木心春	ling2;js mu4;ur sin1;dd chun1;io	10
+六角精儿	liu4;wb jiao3;dy zing1;mo er2;pv	328
+柳俊太郎	liu3;ae zvn4;rw tai4;dd lang2;le	274
+刘茜美子	liu2;wd cian4;cx mei3;yd zi3;la	274
+六小龄童	liu4;wb siao3;lb ling2;vs tong2;ll	1621
+刘循子墨	liu2;wd svn2;ro zi3;la mo4;lt	32
+龙拳小子	long2;yp qvan2;ju siao3;lb zi5;la	459
+泷泽秀明	long2;dl ze2;df siu4;hn ming2;oo	34
+乱弹阿翔	luan4;uv tan2;gu a1;ek siang2;yx	25
+马修连恩	ma3;va siu1;rp lian2;zi en1;yx	328
+卯月夕颜	mao3;pe yve4;ke sii1;pd yan2;wy	162
+美空云雀	mei3;yd kong1;bg yvn2;ag cve4;xv	69
+米津玄师	mi3;ba zin1;dy xvan2;wy shi1;lj	666
+蜜雪薇琪	mi4;bi sve3;ye wei1;cj qi2;wb	342
+名取裕子	ming2;xk cv3;ey yv4;pg zi3;la	338
+漠刀绝尘	mo4;dd dao1;vp zve2;sb chen2;xt	189
+莫西子诗	mo4;cd sii1;ak zi3;la shi1;yc	88
+末续慎吾	mo4;aa sv4;sd shen4;xb wu2;wk	171
+木村井泓	mu4;ur cun1;ac zing3;ac hong2;ds	180
+木村心美	mu4;ur cun1;ac sin1;dd mei3;yd	130
+木南晴夏	mu4;ur nan2;ug cing2;oo xia4;bw	382
+木内秀信	mu4;ur nei4;kr siu4;hn sin4;rk	459
+那尔那茜	na1;ve er3;dx na4;ve cian4;cx	1
+南宫嘉骏	nan2;ug gong1;bk jia1;tk zvn4;mw	1
+内山夕实	nei4;kr shan1;kl sii1;pd shi2;bd	482
+鸟栖沙岩	niao3;na cii1;ax sha1;du yan2;uu	334
+苹果姐姐	ping2;cp guo3;ta zie3;nq zie5;nq	36
+平井理央	ping2;au zing3;ac li3;wl yang1;kr	225
+平井美叶	ping2;au zing3;ac mei3;yd ye4;ku	99
+平井摩利	ping2;au zing3;ac mo2;gu li4;hd	50
+平井祥惠	ping2;au zing3;ac siang2;py hui4;ix	117
+坪井章子	ping2;tp zing3;ac zhang1;lu zi5;la	212
+平松晶子	ping2;au song1;ag zing1;oo zi3;la	436
+浦岛晴香	pu3;df dao3;nu cing2;oo xiang1;ho	194
+浦井健治	pu3;df zing3;ac jian4;ry zhi4;dk	279
+普里西拉	pu3;bo li3;tt sii1;ak la1;fl	99
+普莉西拉	pu3;bo li4;cd sii1;ak la1;fl	89
+普莉西雅	pu3;bo li4;cd sii1;ak ya3;yv	360
+七草千岁	cii1;av cao3;cu cian1;pu sui4;ux	162
+妻夫木聪	cii1;un fu1;er mu4;ur cong1;ex	22
+七海蒂娜	cii1;av hai3;dm di4;cj na4;ne	10
+七海露亚	cii1;av hai3;dm lu4;yk ya4;ay	99
+七海奈奈	cii1;av hai3;dm nai4;du nai4;du	99
+七濑胡桃	cii1;av lai4;db hu2;go tao2;av	9
+七濑伊织	cii1;av lai4;db yi1;ry zhi1;sv	10
+七森莉莉	cii1;av sen1;aa li4;cd li4;cd	76
+七森莉莉	cii1;av sen1;aa li4;cd li4;cd	10
+齐藤彩夏	cii2;wl teng2;cu cai3;vp xia4;bw	50
+齐藤和义	cii2;wl teng2;cu he2;hk yi4;dx	360
+齐藤由贵	cii2;wl teng2;cu you2;ol gui4;vb	25
+齐藤佑圭	cii2;wl teng2;cu you4;rk gui1;tt	22
+齐藤壮马	cii2;wl teng2;cu zhuang4;lt ma3;va	482
+七尾奈留	cii1;av wei3;um nai4;du liu2;pt	288
+七泽美亚	cii1;av ze2;df mei3;yd ya4;ay	10
+浅仓彩音	cian3;dj cang1;rv cai3;vp yin1;lo	324
+浅仓杏美	cian3;dj cang1;rv xing4;ak mei3;yd	423
+浅草小子	cian3;dj cao3;cu siao3;lb zi5;la	63
+浅川梨奈	cian3;dj chuan1;pl li2;ha nai4;du	369
+前川凉子	cian2;bd chuan1;pl liang2;dx zi3;la	306
+浅上藤乃	cian3;dj shang4;ba teng2;cu nai3;pv	9
+千手纲手	cian1;pu shou3;pf gang1;sx shou3;pf	19
+前田香织	cian2;bd tian2;wu xiang1;ho zhi1;sv	10
+浅尾美羽	cian3;dj wei3;um mei3;yd yv3;xx	45
+浅香光代	cian3;dj xiang1;ho guang1;xe dai4;rg	180
+浅香航大	cian3;dj xiang1;ho hang2;vj da4;ar	279
+浅野长英	cian3;dj ye3;ly chang2;pn ying1;cy	1
+千叶纱子	cian1;pu ye4;ku sha1;su zi3;la	454
+千叶雄喜	cian1;pu ye4;ku xiong2;uv xi3;tk	76
+千叶雅之	cian1;pu ye4;ku ya3;yv zhi1;dn	45
+乔杰克逊	qiao2;yl jie2;ah ke4;ux svn4;zx	171
+窃格瓦拉	cie4;bd ge2;ak wa3;ad la1;fl	323
+秦牛正威	cin2;ih niu2;pu zheng4;av wei1;gn	11
+青峰大辉	cing1;fo feng1;uf da4;ar hui1;gi	302
+青木崇高	cing1;fo mu4;ur chong2;uu gao1;wk	378
+青木琴美	cing1;fo mu4;ur qin2;wv mei3;yd	238
+青山草太	cing1;fo shan1;kl cao3;cu tai4;dd	238
+青山刚昌	cing1;fo shan1;kl gang1;kd chang1;oo	675
+青山沙织	cing1;fo shan1;kl sha1;du zhi1;sv	99
+青山桐子	cing1;fo shan1;kl tong2;ak zi3;la	297
+青山真治	cing1;fo shan1;kl zhen1;ub zhi4;dk	306
+清水理沙	cing1;do shui3;ln li3;wl sha1;du	270
+清水美砂	cing1;do shui3;ln mei3;yd sha1;uu	256
+清水茉菜	cing1;do shui3;ln mo4;cw cai4;ca	99
+清水香里	cing1;do shui3;ln xiang1;ho li3;tt	414
+清水翔太	cing1;do shui3;ln siang2;yx tai4;dd	364
+清水寻也	cing1;do shui3;ln svn2;ec ye3;vv	306
+清水芽衣	cing1;do shui3;ln ya2;cy yi1;wy	144
+清水优子	cing1;do shui3;ln you1;ry zi3;la	50
+清原果耶	cing1;do yvan2;ix guo3;ta ye2;ee	436
+琼雪卓玛	qiong2;wx sve3;ye zhuo2;bu ma3;wm	180
+秋道丁次	ciu1;hh dao4;zz ding1;al ci4;dq	38
+秋吉敏子	ciu1;hh ji2;tk min3;pw zi3;la	76
+秋山莉奈	ciu1;hh shan1;kl li4;cd nai4;du	3
+秋山祥子	ciu1;hh shan1;kl siang2;py zi5;la	297
+秋水剪瞳	ciu1;hh shui3;ln zian3;bd tong2;ol	243
+秋野圭子	ciu1;hh ye3;ly gui1;tt zi3;la	50
+秋元才加	ciu1;hh yvan2;aw cai2;up jia1;lk	31
+萩原利久	ciu1;ch yvan2;ix li4;hd jiu3;pn	324
+秋月律子	ciu1;hh yve4;ke lv4;ry zi3;la	382
+仁青娜姆	ren2;re cing1;fo na4;ne mu3;nm	1
+瑞秋怀兹	rui4;we ciu1;hh huai2;xb zi1;by	351
+瑞星卡卡	rui4;we sing1;ou ka3;ub ka3;ub	675
+三浦翔平	san1;ae pu3;df siang2;yx ping2;au	400
+三叶千春	san1;ae ye4;ku cian1;pu chun1;io	10
+三枝夕夏	san1;ae zhi1;av sii1;pd xia4;bw	28
+森川玉绪	sen1;aa chuan1;pl yv4;wd sv4;so	10
+森高千里	sen1;aa gao1;wk cian1;pu li3;tt	25
+森井夏穗	sen1;aa zing3;ac xia4;bw sui4;hx	180
+森藤晶司	sen1;aa teng2;cu zing1;oo si1;vk	189
+山谷祥生	shan1;kl gu3;bk siang2;py sheng1;pf	382
+杉山清贵	shan1;ap shan1;kl cing1;do gui4;vb	266
+山野井仁	shan1;kl ye3;ly zing3;ac ren2;re	356
+山中井野	shan1;kl zhong1;kl zing3;ac ye3;ly	13
+上村祐翔	shang4;ba cun1;ac you4;pk siang2;yx	356
+上妻宏光	shang4;ba cii1;un hong2;bs guang1;xe	202
+上原一翔	shang4;ba yvan2;ix yi1;aa siang2;yx	10
+深津绘里	shen1;da zin1;dy hui4;sy li3;tt	16
+神尾晴子	shen2;pu wei3;um cing2;oo zi3;la	266
+神乐七奈	shen2;pu yve4;px cii1;av nai4;du	261
+神乐千鹤	shen2;pu yve4;px cian1;pu he4;bn	387
+胜村政信	sheng4;ou cun1;ac zheng4;vw sin4;rk	382
+石川秀美	shi2;ak chuan1;pl siu4;hn mei3;yd	202
+石川智晶	shi2;ak chuan1;pl zhi4;uo zing1;oo	428
+矢岛晶子	shi3;pd dao3;nu zing1;oo zi3;la	486
+师姐宣璐	shi1;lj zie3;nq svan1;bd lu4;wk	45
+矢井田瞳	shi3;pd zing3;ac tian2;wu tong2;ol	225
+石井杏奈	shi2;ak zing3;ac xing4;ak nai4;du	351
+石井优希	shi2;ak zing3;ac you1;ry xi1;xj	338
+石桥静河	shi2;ak qiao2;al zing4;fy he2;dk	252
+市松小雏	shi4;wj song1;ag siao3;lb chu2;dv	153
+施瓦辛格	shi1;fy wa3;ad sin1;lu ge2;ak	992
+枢木朱雀	shu1;aq mu4;ur zhu1;pw cve4;xv	405
+水岛津实	shui3;ln dao3;nu zin1;dy shi2;bd	10
+水晶男孩	shui3;ln zing1;oo nan2;tl hai2;zr	38
+水原千鹤	shui3;ln yvan2;ix cian1;pu he4;bn	266
+四哥谢贤	si4;we ge1;kk sie4;yc xian2;lb	230
+四目先生	si4;we mu4;we sian1;ne sheng1;pf	45
+松冈千菜	song1;ag gang1;kx cian1;pu cai4;ca	10
+松井优子	song1;ag zing3;ac you1;ry zi3;la	10
+颂克拉辛	song4;gy ke4;ux la1;fl sin1;lu	189
+松田翔太	song1;ag tian2;wu siang2;yx tai4;dd	13
+松田秀知	song1;ag tian2;wu siu4;hn zhi1;uk	212
+松尾静香	song1;ag wei3;um zing4;fy xiang1;ho	243
+松雪泰子	song1;ag sve3;ye tai4;iu zi3;la	3
+索朗扎西	suo3;ux lang3;lo zha1;fv sii1;ak	24
+唐钱德尔	tang2;gk cian2;jj de2;rx er3;dx	356
+汤浅香织	tang1;dp cian3;dj xiang1;ho zhi1;sv	212
+唐钰小宝	tang2;gk yv4;jy siao3;lb bao3;by	423
+唐泽雪惠	tang2;gk ze2;df sve3;ye hui4;ix	130
+桃井理乃	tao2;av zing3;ac li3;wl nai3;pv	45
+藤川千爱	teng2;cu chuan1;pl cian1;pu ai4;vy	288
+藤井爱纱	teng2;cu zing3;ac ai4;vy sha1;su	45
+藤井爱纱	teng2;cu zing3;ac ai4;vy sha1;su	10
+藤井一夜	teng2;cu zing3;ac yi2;aa ye4;ww	10
+藤卷忠俊	teng2;cu jvan3;jv zhong1;vx zvn4;rw	320
+天草翔舞	tian1;ad cao3;cu siang2;yx wu3;pf	45
+天崎千草	tian1;ad qi2;uk cian1;pu cao3;cu	76
+天晴乃爱	tian1;ad cing2;oo nai3;pv ai4;vy	10
+天仙妹妹	tian1;ad sian1;ru mei4;nw mei5;nw	142
+天野美汐	tian1;ad ye3;ly mei3;yd sii1;dx	171
+田原俊彦	tian2;wu yvan2;ix zvn4;rw yan4;wp	41
+町井美纪	ting1;td zing3;ac mei3;yd ji4;sj	202
+樋口新叶	tong1;ay kou3;la sin1;lt ye4;ku	13
+土井美加	tu3;ua zing3;ac mei3;yd jia1;lk	360
+丸子小姐	wan2;jd zi5;la siao3;lb zie3;nq	99
+网红雪梨	wang3;kx hong2;sg sve3;ye li2;ha	180
+唯井真寻	wei2;kv zing3;ac zhen1;ub svn2;ec	10
+我妻由乃	wo3;ga cii1;un you2;ol nai3;pv	436
+武井宏之	wu3;gv zing3;ac hong2;bs zhi1;dn	346
+武井麻希	wu3;gv zing3;ac ma2;ga xi1;xj	266
+雾切响子	wu4;yl cie4;qd xiang3;kk zi3;la	315
+西本拳太	sii1;ak ben3;aa qvan2;ju tai4;dd	333
+西城晶华	sii1;ak cheng2;ti zing1;oo hua2;ru	144
+西城男孩	sii1;ak cheng2;ti nan2;tl hai2;zr	138
+西城秀树	sii1;ak cheng2;ti siu4;hn shu4;ac	50
+西城永捷	sii1;ak cheng2;ti yong3;du zie2;fz	220
+西川贵教	sii1;ak chuan1;pl gui4;vb jiao4;lw	6
+西岛隆弘	sii1;ak dao3;nu long2;eu hong2;gs	472
+西岛秀俊	sii1;ak dao3;nu siu4;hn zvn4;rw	6
+喜多修平	xi3;tk duo1;xx siu1;rp ping2;au	238
+西尔扎提	sii1;ak er3;dx zha1;fv ti2;fz	129
+西宫好美	sii1;ak gong1;bk hao3;nz mei3;yd	10
+西宫硝子	sii1;ak gong1;bk siao1;uo zi5;la	13
+细谷佳正	sii4;st gu3;bk jia1;rt zheng4;av	9
+西瓜太郎	sii1;ak gua1;in tai4;dd lang2;le	441
+席琳迪昂	sii2;gj lin2;wa di2;zy ang2;oe	3
+席琳迪翁	sii2;gj lin2;wa di2;zy weng1;gx	264
+席琳狄翁	sii2;gj lin2;wa di2;qh weng1;gx	238
+西凛太朗	sii1;ak lin3;du tai4;dd lang3;lo	266
+西门大嫂	sii1;ak men2;dv da4;ar sao3;ny	60
+西明日香	sii1;ak ming2;oo ri4;wa xiang1;ho	418
+西崎崇子	sii1;ak qi2;uk chong2;uu zi3;la	297
+西前忠久	sii1;ak cian2;bd zhong1;vx jiu3;pn	324
+西热艾力	sii1;ak re4;fh ai4;cx li4;vp	144
+西热力江	sii1;ak re4;fh li4;vp jiang1;dg	63
+西田敏行	sii1;ak tian2;wu min3;pw xing2;rd	504
+西田尚美	sii1;ak tian2;wu shang4;xk mei3;yd	396
+西田望见	sii1;ak tian2;wu wang4;ww jian4;ke	306
+西田裕美	sii1;ak tian2;wu yv4;pg mei3;yd	144
+西条琉璃	sii1;ak tiao2;wa liu2;wi li2;wn	10
+西条沙罗	sii1;ak tiao2;wa sha1;du luo2;sx	315
+细野豪志	sii4;st ye3;ly hao2;wu zhi4;tx	292
+西野七濑	sii1;ak ye3;ly cii1;av lai4;db	22
+西野星夏	sii1;ak ye3;ly sing1;ou xia4;bw	10
+西域刀羊	sii1;ak yv4;ta dao1;vp yang2;bf	50
+西元明沙	sii1;ak yvan2;aw ming2;oo sha1;du	10
+西原亚希	sii1;ak yvan2;ix ya4;ay xi1;xj	256
+夏目理绪	xia4;bw mu4;we li3;wl sv4;so	171
+夏树莉绪	xia4;bw shu4;ac li4;cd sv4;so	324
+相川七濑	siang1;ao chuan1;pl cii1;av lai4;db	302
+像古天乐	siang4;ru gu3;uk tian1;ad le4;px	320
+向井千瑛	xiang4;pk zing3;ac cian1;pu ying1;wy	252
+像梁朝伟	siang4;ru liang2;da chao2;uo wei3;rw	53
+湘南乃风	siang1;do nan2;ug nai3;pv feng1;jx	392
+像彭于晏	siang4;ru peng2;tp yv2;au yan4;on	428
+相田翔子	siang1;ao tian2;wu siang2;yx zi3;la	410
+相武纱季	siang1;ao wu3;gv sha1;su ji4;hz	3
+相原琴子	siang1;ao yvan2;ix qin2;wv zi3;la	374
+相泽莉娜	siang1;ao ze2;df li4;cd na4;ne	10
+小坂菜绪	siao3;lb ban3;ty cai4;ca sv4;so	450
+小仓奈奈	siao3;lb cang1;rv nai4;du nai4;du	202
+小仓七海	siao3;lb cang1;rv cii1;av hai3;dm	10
+小仓由菜	siao3;lb cang1;rv you2;ol cai4;ca	238
+小仓由菜	siao3;lb cang1;rv you2;ol cai4;ca	10
+小仓优子	siao3;lb cang1;rv you1;ry zi3;la	6
+小池彻平	siao3;lb chi2;dy che4;rd ping2;au	436
+小池澈平	siao3;lb chi2;dy che4;dw ping2;au	84
+小池里奈	siao3;lb chi2;dy li3;tt nai4;du	256
+小池亮介	siao3;lb chi2;dy liang4;wj jie4;rl	153
+小池荣子	siao3;lb chi2;dy rong2;ca zi3;la	3
+小川桃果	siao3;lb chuan1;pl tao2;av guo3;ta	194
+小凑四叶	siao3;lb cou4;dt si4;we ye4;ku	10
+小凑昭尚	siao3;lb cou4;dt zhao1;ok shang4;xk	50
+小岛纯名	siao3;lb dao3;nu chun2;st ming2;xk	10
+小岛阳菜	siao3;lb dao3;nu yang2;eo cai4;ca	252
+肖恩墨菲	siao1;xo en1;yx mo4;lt fei1;cf	572
+小宫有纱	siao3;lb gong1;bk you3;uo sha1;su	392
+小黑秀才	siao3;lb hei1;lh siu4;hn cai2;up	45
+小花美穗	siao3;lb hua1;cb mei3;yd sui4;hx	225
+小矶国昭	siao3;lb ji1;uj guo2;wy zhao1;ok	428
+小濑村晶	siao3;lb lai4;db cun1;ac zing1;oo	99
+小栗美优	siao3;lb li4;xa mei3;yd you1;ry	45
+小栗美优	siao3;lb li4;xa mei3;yd you1;ry	10
+小笠原海	siao3;lb li4;vl yvan2;ix hai3;dm	266
+小岭丽奈	siao3;lb ling3;us li4;ad nai4;du	220
+小柳由纪	siao3;lb liu3;ae you2;ol ji4;sj	194
+小鹿纯子	siao3;lb lu4;gb chun2;st zi3;la	13
+小鹿姐姐	siao3;lb lu4;gb zie3;nq zie5;nq	320
+小路易斯	siao3;lb lu4;zk yi4;ow si1;ct	333
+小梅惠奈	siao3;lb mei2;am hui4;ix nai4;du	10
+小桥贤儿	siao3;lb qiao2;al xian2;lb er2;pv	284
+小泉里子	siao3;lb cvan2;bu li3;tt zi5;la	171
+小泉日向	siao3;lb cvan2;bu ri4;wa xiang4;pk	10
+小泉真希	siao3;lb cvan2;bu zhen1;ub xi1;xj	144
+小森美果	siao3;lb sen1;aa mei3;yd guo3;ta	6
+小山刚志	siao3;lb shan1;kl gang1;kd zhi4;tx	396
+小山力也	siao3;lb shan1;kl li4;vp ye3;vv	16
+小山茉美	siao3;lb shan1;kl mo4;cw mei3;yd	432
+小室哲哉	siao3;lb shi4;bt zhe2;fk zai1;gk	53
+小舒马赫	siao3;lb shu1;ry ma3;va he4;ii	16
+小松菜奈	siao3;lb song1;ag cai4;ca nai4;du	536
+小松彩夏	siao3;lb song1;ag cai3;vp xia4;bw	310
+小松亮太	siao3;lb song1;ag liang4;wj tai4;dd	171
+小松拓也	siao3;lb song1;ag tuo4;fu ye3;vv	230
+小松未步	siao3;lb song1;ag wei4;aa bu4;vu	35
+小宵虎南	siao3;lb siao1;bo hu3;hj nan2;ug	10
+逍遥散人	siao1;zo yao2;zf san3;cw ren2;pn	382
+小野大辅	siao3;lb ye3;ly da4;ar fu3;if	25
+小野健一	siao3;lb ye3;ly jian4;ry yi1;aa	374
+小野丽莎	siao3;lb ye3;ly li4;ad sha1;cu	94
+小野六花	siao3;lb ye3;ly liu4;wb hua1;cb	144
+小野洋子	siao3;lb ye3;ly yang2;dy zi3;la	684
+小原好美	siao3;lb yvan2;ix hao3;nz mei3;yd	418
+筱原惠美	siao3;vw yvan2;ix hui4;ix mei3;yd	230
+筱原凉子	siao3;vw yvan2;ix liang2;dx zi3;la	6
+小泽菜穗	siao3;lb ze2;df cai4;ca sui4;hx	194
+小泽玛丽	siao3;lb ze2;df ma3;wm li4;ad	320
+小泽美里	siao3;lb ze2;df mei3;yd li3;tt	45
+小泽亚李	siao3;lb ze2;df ya4;ay li3;az	432
+小泽真珠	siao3;lb ze2;df zhen1;ub zhu1;ww	351
+小泽征悦	siao3;lb ze2;df zheng1;rv yve4;xx	369
+小芝风花	siao3;lb zhi1;cv feng1;jx hua1;cb	364
+新宝力格	sin1;lt bao3;by li4;vp ge2;ak	238
+新川优爱	sin1;lt chuan1;pl you1;ry ai4;vy	302
+新村朱里	sin1;lt cun1;ac zhu1;pw li3;tt	10
+新井浩文	sin1;lt zing3;ac hao4;dk wen2;wx	387
+新井里真	sin1;lt zing3;ac li3;tt zhen1;ub	10
+新居昭乃	sin1;lt jv1;ug zhao1;ok nai3;pv	6
+新里宏太	sin1;lt li3;tt hong2;bs tai4;dd	180
+新马师曾	sin1;lt ma3;va shi1;lj ceng2;bo	16
+新木优子	sin1;lt mu4;ur you1;ry zi3;la	16
+新妻圣子	sin1;lt cii1;un sheng4;yt zi3;la	230
+新藤惠美	sin1;lt teng2;cu hui4;ix mei3;yd	99
+新田惠海	sin1;lt tian2;wu hui4;ix hai3;dm	531
+新田惠利	sin1;lt tian2;wu hui4;ix li4;hd	189
+新田佑克	sin1;lt tian2;wu you4;rk ke4;ux	117
+新条真由	sin1;lt tiao2;wa zhen1;ub you2;ol	292
+新垣结衣	sin1;lt yvan2;td jie2;sk yi1;wy	710
+新垣里沙	sin1;lt yvan2;td li3;tt sha1;du	432
+新垣仁绘	sin1;lt yvan2;td ren2;re hui4;sy	144
+星宫一花	sing1;ou gong1;bk yi4;aa hua1;cb	10
+星野充昭	sing1;ou ye3;ly chong1;wy zhao1;ok	346
+星野贵纪	sing1;ou ye3;ly gui4;vb ji4;sj	382
+星野景子	sing1;ou ye3;ly jing3;ox zi3;la	50
+星野景子	sing1;ou ye3;ly jing3;ox zi3;la	10
+星野梦美	sing1;ou ye3;ly meng4;ax mei3;yd	297
+星野娜美	sing1;ou ye3;ly na4;ne mei3;yd	194
+星野娜美	sing1;ou ye3;ly na4;ne mei3;yd	10
+星野千纱	sing1;ou ye3;ly cian1;pu sha1;su	144
+星野日向	sing1;ou ye3;ly ri4;wa xiang4;pk	144
+星野桃子	sing1;ou ye3;ly tao2;av zi5;la	153
+星野杏里	sing1;ou ye3;ly xing4;ak li3;tt	171
+星野亚希	sing1;ou ye3;ly ya4;ay xi1;xj	288
+星野真里	sing1;ou ye3;ly zhen1;ub li3;tt	338
+星野真理	sing1;ou ye3;ly zhen1;ub li3;wl	163
+星野之宣	sing1;ou ye3;ly zhi1;dn svan1;bd	333
+绪方贤一	sv4;so fang1;wv xian2;lb yi1;aa	513
+徐丽萩莎	sv2;rm li4;ad ciu1;ch sha1;cu	1
+须藤理彩	sv1;py teng2;cu li3;wl cai3;vp	346
+须藤茉麻	sv1;py teng2;cu mo4;cw ma2;ga	346
+须藤温子	sv1;py teng2;cu wen1;dm zi3;la	194
+选第二个	svan3;ze di4;vd er4;aa ge4;rl	504
+旋涡鸣人	svan2;fz wo1;dn ming2;kn ren2;pn	292
+雪村友梅	sve3;ye cun1;ac you3;uy mei2;am	162
+雪乃五月	sve3;ye nai3;pv wu3;aw yve4;ke	266
+雪野五月	sve3;ye ye3;ly wu3;aw yve4;ke	490
+亚瑟小子	ya4;ay se4;wb siao3;lb zi5;la	28
+岩永千明	yan2;uu yong3;du cian1;pu ming2;oo	162
+叶山奖之	ye4;ku shan1;kl ziang3;ld zhi1;dn	302
+野食小哥	ye3;ly shi2;rg siao3;lb ge1;kk	378
+野泽秀行	ye3;ly ze2;df siu4;hn xing2;rd	202
+易烊千玺	yi4;ow yang2;hy cian1;pu sii3;dy	4603
+乙羽信子	yi3;vv yv3;xx sin4;rk zi5;la	6
+樱井淳子	ying1;an zing3;ac chun2;dz zi3;la	315
+樱井浩美	ying1;an zing3;ac hao4;dk mei3;yd	6
+樱井莉亚	ying1;an zing3;ac li4;cd ya4;ay	3
+樱井玲香	ying1;an zing3;ac ling2;ws xiang1;ho	464
+樱井美优	ying1;an zing3;ac mei3;yd you1;ry	50
+樱井敏治	ying1;an zing3;ac min3;pw zhi4;dk	356
+桜井宁宁	ying1;an zing3;ac ning2;bd ning2;bd	50
+樱井纱良	ying1;an zing3;ac sha1;su liang2;dg	4
+樱井孝宏	ying1;an zing3;ac xiao4;lz hong2;bs	25
+樱井幸子	ying1;an zing3;ac xing4;tg zi3;la	266
+樱井亚美	ying1;an zing3;ac ya4;ay mei3;yd	162
+樱井叶月	ying1;an zing3;ac ye4;ku yve4;ke	45
+影山浩宣	ying3;op shan1;kl hao4;dk svan1;bd	540
+有栖花绯	you3;uo cii1;ax hua1;cb fei1;sf	10
+宇文秋实	yv3;by wen2;wx ciu1;hh shi2;bd	10
+羽咲美晴	yv3;xx xiao4;kt mei3;yd cing2;oo	10
+扎西邓珠	zha1;fv sii1;ak deng4;ye zhu1;ww	1
+扎西顿珠	zha1;fv sii1;ak dun4;ty zhu1;ww	33
+章飞一绝	zhang1;lu fei1;vd yi4;aa zve2;sb	19
+中岛美雪	zhong1;kl dao3;nu mei3;yd sve3;ye	779
+中岛裕翔	zhong1;kl dao3;nu yv4;pg siang2;yx	500
+周裕靖豪	zhou1;kk yv4;pg zing4;lo hao2;wu	1
+广濑里绪菜	guang3;di lai4;db li3;tt sv4;so cai4;ca	10
+美雪艾莉丝	mei3;yd sve3;ye ai4;cx li4;cd si1;sa	10
+七濑爱丽丝	cii1;av lai4;db ai4;vy li4;ad si1;sa	10
+神宫寺奈绪	shen2;pu gong1;bk si4;tc nai4;du sv4;so	10
+辻井穗乃果	shi2;zu zing3;ac sui4;hx nai3;pv guo3;ta	10
+希崎杰西卡	xi1;xj qi2;uk jie2;ah sii1;ak ka3;ub	10
+小川阿佐美	siao3;lb chuan1;pl a1;ek zuo3;rg mei3;yd	10
+小泽玛利亚	siao3;lb ze2;df ma3;wm li4;hd ya4;ay	10
+星名美津纪	sing1;ou ming2;xk mei3;yd zin1;dy ji4;sj	3
+伊东千奈美	yi1;ry dong1;ax cian1;pu nai4;du mei3;yd	10
+樱井艾蜜莉	ying1;an zing3;ac ai4;cx mi4;bi li4;cd	10
+永井玛利亚	yong3;du zing3;ac ma3;wm li4;hd ya4;ay	10
+朝比奈七濑	zhao1;uo bi3;bb nai4;du cii1;av lai4;db	10
