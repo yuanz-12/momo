@@ -7,18 +7,28 @@ name: mingren
 version: "LTS"
 sort: by_weight
 ...
+艾青	ai4;cx cing1;fo	213
+冰心	bing1;du sin1;dd	1196
 蔡襄	cai4;cu siang1;yf	105
+残雪	can2;dj sve3;ye	2123
 曹节	cao2;co zie2;ce	216
 曹襄	cao2;co siang1;yf	17
+柴静	chai2;va zing4;fy	1178
 戴进	dai4;gg zin4;zj	139
+狄青	di2;qh cing1;fo	311
+帝辛	di4;wj sin1;lu	542
 董袭	dong3;cv sii2;ly	408
 董宣	dong3;cv svan1;bd	12
 董雪	dong3;cv sve3;ye	278
 杜袭	du4;at sii2;ly	78
+独秀	du2;qi siu4;hn	245
 范进	fan4;cv zin4;zj	931
 范雎	fan4;cv zv1;qv	1559
+费雪	fei4;fb sve3;ye	599
+奉先	feng4;if sian1;ne	118
 傅俊	fu4;rc zvn4;rw	40
 傅佥	fu4;rc cian1;ra	69
+勾践	gou1;bs zian4;zj	1296
 韩信	han2;uw sin4;rk	1353
 何新	he2;rk sin1;lt	1089
 胡靖	hu2;go zing4;lo	66
@@ -27,6 +37,9 @@ sort: by_weight
 华胥	hua4;ru sv1;zo	112
 黄筌	huang2;cb cvan2;vw	360
 霍峻	huo4;yv zvn4;uw	81
+济慈	zii4;dq ci2;bx	86
+济公	zii4;dq gong1;bs	232
+济科	zii4;dq ke1;hd	60
 蒋川	ziang3;cc chuan1;pl	283
 蒋凡	ziang3;cc fan2;jd	650
 蒋干	ziang3;cc gan4;au	949
@@ -40,7 +53,13 @@ sort: by_weight
 蒋蓉	ziang3;cc rong2;cg	595
 蒋琬	ziang3;cc wan3;wv	121
 蒋勋	ziang3;cc xvn1;kl	900
+靖王	zing4;lo wang2;at	1086
+沮授	zv3;dq shou4;fy	62
+爵爷	zve2;vc ye2;fe	2182
 孔宣	kong3;zv svan1;bd	169
+来济	lai2;aa zii4;dq	927
+莱辛	lai2;cl sin1;lu	166
+蓝心	lan2;cm sin1;dd	107
 李靖	li3;az zing4;lo	401
 李想	li3;az siang3;ax	361
 梁习	liang2;da sii2;vd	15
@@ -49,11 +68,23 @@ sort: by_weight
 林夕	lin2;aa sii1;pd	6855
 林萧	lin2;aa siao1;cb	1017
 林燮	lin2;aa sie4;hy	273
+凌青	ling2;dw cing1;fo	156
 刘骏	liu2;wd zvn4;mw	76
+柳青	liu3;ae cing1;fo	310
 刘襄	liu2;wd siang1;yf	108
+龙潜	long2;yp cian2;do	85
 陆绩	lu4;ej zii4;sb	144
+露茜	lu4;yk cian4;cx	806
+鲁迅	lu3;yo svn4;zu	12657
+卢循	lu2;bu svn2;ro	576
+罗辑	luo2;sx zii2;ie	4691
 吕媭	lv3;kk sv1;pn	212
+毛晋	mao2;pv zin4;yo	399
+冒襄	mao4;oo siang1;yf	9
+梅西	mei2;am sii1;ak	41322
+摩西	mo2;gu sii1;ak	254
 穆青	mu4;hp cing1;fo	29
+木心	mu4;ur sin1;dd	1385
 潘静	pan1;dt zing4;fy	590
 潘濬	pan1;dt zvn4;do	113
 裴寂	pei2;fy zii4;by	524
@@ -67,9 +98,16 @@ sort: by_weight
 齐秦	cii2;wl cin2;ih	681
 齐泰	cii2;wl tai4;iu	604
 齐王	cii2;wl wang2;at	1862
+钱雷	cian2;jj lei2;yt	94
 钱镠	cian2;jj liu2;jp	43
+钱穆	cian2;jj mu4;hp	122
+钱起	cian2;jj qi3;tj	51
+谯周	ciao2;yh zhou1;kk	568
+切尼	cie1;qd ni2;ub	804
 秦刚	cin2;ih gang1;kd	53
 秦观	cin2;ih guan1;yj	600
+秦汉	cin2;ih han4;dy	2964
+秦皇	cin2;ih huang2;bw	418
 秦桧	cin2;ih hui4;ay	3928
 秦晖	cin2;ih hui1;oi	652
 秦嘉	cin2;ih jia1;tk	338
@@ -82,27 +120,65 @@ sort: by_weight
 秦越	cin2;ih yve4;tl	28
 秦钟	cin2;ih zhong1;jv	966
 秦仲	cin2;ih zhong4;rv	361
+青灵	cing1;fo ling2;eh	154
+晴明	cing2;oo ming2;oo	329
+秋白	ciu1;hh bai2;po	881
+秋瑾	ciu1;hh jin3;ww	124
+秋香	ciu1;hh xiang1;ho	154
+秋子	ciu1;hh zi3;la	138
+全琮	cvan2;rw cong2;wu	207
+任峻	ren2;rw zvn4;uw	40
 阮籍	ruan3;ey zii2;vo	778
+神秀	shen2;pu siu4;hn	515
+史进	shi3;kn zin4;zj	160
+士燮	shi4;ua sie4;hy	81
+松井	song1;ag zing3;ac	213
+松雪	song1;ag sve3;ye	69
+苏洵	su1;cb svn2;do	973
 孙峻	sun1;zx zvn4;uw	101
+他信	ta1;ry sin4;rk	229
+谈迁	tan2;yh cian1;zq	128
+唐骏	tang2;gk zvn4;mw	1013
+陶潜	tao2;ef cian2;do	157
+铜须	tong2;jk sv1;py	355
 王绩	wang2;at zii4;sb	38
 王翦	wang2;at zian3;bx	77
 王祥	wang2;at siang2;py	65
 王脩	wang2;at siu1;ro	28
 王选	wang2;at svan3;ze	141
 卫青	wei4;ea cing1;fo	213
+文绣	wen2;wx siu4;sn	110
 吴邪	wu2;kt sie2;ye	411
+西伯	sii1;ak bo2;rb	160
+席勒	sii2;gj le4;cl	725
+锡文	sii1;jw wen2;wx	149
+夏青	xia4;bw cing1;fo	31
+相如	siang1;ao ru2;nk	511
+襄王	siang1;yf wang2;at	155
+向秀	xiang4;pk siu4;hn	36
 肖邦	siao1;xo bang1;fe	6180
+萧邦	siao1;cb bang1;fe	188
+萧鼎	siao1;cb ding3;po	371
 肖钢	siao1;xo gang1;jx	857
+萧纲	siao1;cb gang1;sx	86
+萧红	siao1;cb hong2;sg	1720
 肖红	siao1;xo hong2;sg	150
+萧华	siao1;cb hua2;ru	115
 肖华	siao1;xo hua2;ru	92
+萧军	siao1;cb jvn1;bi	320
+萧克	siao1;cb ke4;ux	92
+萧鸾	siao1;cb luan2;wn	632
 肖奈	siao1;xo nai4;du	914
 肖钦	siao1;xo qin1;jq	280
 肖全	siao1;xo cvan2;rw	342
+萧统	siao1;cb tong3;sy	77
+萧衍	siao1;cb yan3;rd	109
 肖扬	siao1;xo yang2;fp	106
 萧绎	siao1;cb yi4;sf	36
 萧意	siao1;cb yi4;lx	2
 萧翼	siao1;cb yi4;xg	1
 肖鹰	siao1;xo ying1;gn	28
+萧赜	siao1;cb ze2;ib	461
 谢安	sie4;yc an1;bn	1048
 谢彬	sie4;yc bin1;ap	671
 谢丹	sie4;yc dan1;kd	876
@@ -135,6 +211,9 @@ sort: by_weight
 谢琰	sie4;yc yan3;wh	424
 谢偃	sie4;yc yan3;rn	161
 谢烨	sie4;yc ye4;hu	125
+信诚	sin4;rk cheng2;yi	266
+修平	siu1;rp ping2;au	57
+秀全	siu4;hn cvan2;rw	6
 徐冰	sv2;rm bing1;du	720
 徐晨	sv2;rm chen2;oi	742
 徐达	sv2;rm da2;zd	1743
@@ -156,16 +235,19 @@ sort: by_weight
 徐翔	sv2;rm siang2;yx	276
 徐宣	sv2;rm svan1;bd	20
 徐奕	sv2;rm yi4;wd	41
+宣帝	svan1;bd di4;wj	2355
 薛霸	sve1;cx ba4;yo	475
 薛逢	sve1;cx feng2;zf	81
 薛刚	sve1;cx gang1;kd	16
 薛稷	sve1;cx zii4;hw	25
 薛举	sve1;cx jv3;xf	579
 薛据	sve1;cx jv4;fg	64
+雪莱	sve3;ye lai2;cl	549
 薛礼	sve1;cx li3;pv	102
 薛讷	sve1;cx ne4;yn	446
 薛能	sve1;cx neng2;sb	1351
 薛蟠	sve1;cx pan2;it	214
+雪芹	sve3;ye qin2;ct	368
 薛绍	sve1;cx shao4;sk	915
 薛式	sve1;cx shi4;gg	35
 薛燧	sve1;cx sui4;hu	38
@@ -176,7 +258,15 @@ sort: by_weight
 薛曜	sve1;cx yao4;ov	64
 薛莹	sve1;cx ying2;cy	564
 薛岳	sve1;cx yve4;qu	112
+雪舟	sve3;ye zhou1;pd	564
+迅哥	svn4;zu ge1;kk	201
+荀况	svn2;co kuang4;dx	116
+荀卿	svn2;co qing1;pg	116
+荀勖	svn2;co xv4;ol	103
+荀攸	svn2;co you1;rw	605
+荀彧	svn2;co yv4;ga	957
 燕青	yan1;ch cing1;fo	364
+砚秋	yan4;uj ciu1;hh	634
 杨戬	yang2;ap zian3;yg	977
 杨骏	yang2;ap zvn4;mw	778
 杨浚	yang2;ap zvn4;dw	102
@@ -186,7 +276,16 @@ sort: by_weight
 姚襄	yao2;nv siang1;yf	117
 叶秋	ye4;ku ciu1;hh	1048
 叶修	ye4;ku siu1;rp	922
+伊籍	yi1;ry zii2;vo	32
+逸仙	yi4;zt sian1;ru	12
+以新	yi3;lr sin1;lt	254
+嬴稷	ying2;wn zii4;hw	38
 余靖	yv2;rm zing4;lo	109
+玉祥	yv4;wd siang2;py	142
+庾信	yv3;gr sin4;rk	282
+元修	yvan2;aw siu1;rp	28
+允祥	yvn3;se siang2;py	32
+扎西	zha1;fv sii1;ak	314
 张籍	zhang1;gi zii2;vo	472
 张济	zhang1;gi zii4;dq	366
 张绣	zhang1;gi siu4;sn	590
@@ -195,6 +294,31 @@ sort: by_weight
 郑袖	zheng4;be siu4;py	339
 周济	zhou1;kk zii4;dq	122
 朱骏	zhu1;pw zvn4;mw	150
+颛顼	zhuan1;uy sv1;wy	1802
+祖辛	zu3;pq sin1;lu	43
+阿济格	a1;ek zii4;dq ge2;ak	53
+阿加西	a1;ek jia1;lk sii1;ak	543
+阿久津	a1;ek jiu3;pn zin1;dy	6
+艾奇逊	ai4;cx qi2;dk svn4;zx	57
+安尚秀	an1;bn shang4;xk siu4;hn	3
+安洗莹	an1;bn sii3;de ying2;cy	3
+岸信介	an4;ug sin4;rk jie4;rl	224
+安哲秀	an1;bn zhe2;fk siu4;hn	6
+敖幼祥	ao2;fw you4;yl siang2;py	6
+百草仙	bai3;ab cao3;cu sian1;ru	9
+白文选	bai2;po wen2;wx svan3;ze	13
+白线流	bai2;po sian4;sj liu2;di	6
+白先勇	bai2;po sian1;ne yong3;sl	292
+白修德	bai2;po siu1;rp de2;rx	170
+白雪石	bai2;po sve3;ye shi2;ak	9
+白永祥	bai2;po yong3;du siang2;py	50
+班婕妤	ban1;wl zie2;nz yv2;ny	31
+包青天	bao1;bs cing1;fo tian1;ad	217
+包天笑	bao1;bs tian1;ad siao4;vy	9
+鲍西娅	bao4;yb sii1;ak ya4;ny	255
+鲍有祥	bao4;yb you3;uo siang2;py	47
+北静王	bei3;lb zing4;fy wang2;at	528
+卜祥志	bo5;ld siang2;py zhi4;tx	364
 蔡百铨	cai4;cu bai3;ab cvan2;jw	328
 蔡崇信	cai4;cu chong2;uu sin4;rk	720
 蔡东青	cai4;cu dong1;ax cing1;fo	53
@@ -213,6 +337,9 @@ sort: by_weight
 曹雪芹	cao2;co sve3;ye qin2;ct	1645
 曹雪涛	cao2;co sve3;ye tao1;dc	78
 曹云祥	cao2;co yvn2;ag siang2;py	400
+岑春煊	cen2;uv chun1;io svan1;hd	78
+常万全	chang2;xj wan4;av cvan2;rw	6
+车俊焕	che1;au zvn4;rw huan4;hr	25
 陈霸先	chen2;ed ba4;yo sian1;ne	198
 陈独秀	chen2;ed du2;qi siu4;hn	3143
 陈济棠	chen2;ed zii4;dq tang2;xa	135
@@ -225,16 +352,23 @@ sort: by_weight
 陈戌源	chen2;ed sv1;ga yvan2;dx	860
 陈宣帝	chen2;ed svan1;bd di4;wj	28
 陈志全	chen2;ed zhi4;tx cvan2;rw	590
+樗里疾	chu1;ak li3;tt zii2;bu	86
 楚襄王	chu3;az siang1;yf wang2;at	44
 楚宣王	chu3;az svan1;bd wang2;at	25
 楚雨荨	chu3;az yv3;ad svn2;cc	91
 崔安潜	cui1;uv an1;bn cian2;do	396
 崔信明	cui1;uv sin4;rk ming2;oo	202
+寸性奇	cun4;ud sing4;xu qi2;dk	19
+达瓦齐	da2;zd wa3;ad cii2;wl	22
+达文西	da2;zd wen2;wx sii1;ak	40
 戴道晋	dai4;gg dao4;zz zin4;yo	405
 戴伟浚	dai4;gg wei3;rw zvn4;dw	6
 戴相龙	dai4;gg siang1;ao long2;yp	38
 戴秀丽	dai4;gg siu4;hn li4;ad	189
 但懋辛	dan4;rd mao4;ax sin1;lu	482
+悼襄王	dao4;xu siang1;yf wang2;at	28
+德彪西	de2;rx biao1;hp sii1;ak	1535
+德罗西	de2;rx luo2;sx sii1;ak	493
 邓季惺	deng4;ye ji4;hz sing1;xu	353
 邓稼先	deng4;ye jia4;hu sian1;ne	867
 邓俊辉	deng4;ye zvn4;rw hui1;gi	346
@@ -248,6 +382,8 @@ sort: by_weight
 邓秀新	deng4;ye siu4;hn sin1;lt	9
 邓永锵	deng4;ye yong3;du ciang1;jc	296
 邓兆祥	deng4;ye zhao4;ed siang2;py	6
+翟方进	di2;xv fang1;wv zin4;zj	327
+刁爱青	diao1;va ai4;vy cing1;fo	760
 丁春秋	ding1;al chun1;io ciu1;hh	283
 丁大全	ding1;al da4;ar cvan2;rw	450
 丁西林	ding1;al sii1;ak lin2;aa	19
@@ -265,15 +401,21 @@ sort: by_weight
 董小宛	dong3;cv siao3;lb wan3;bv	47
 董秀成	dong3;cv siu4;hn cheng2;gv	364
 董修甲	dong3;cv siu1;rp jia3;ol	320
+独孤信	du2;qi gu1;zg sin4;rk	94
 杜康酒	du4;at kang1;gl ziu3;dy	35
+都敏俊	du1;le min3;pw zvn4;rw	85
 杜青林	du4;at cing1;fo lin2;aa	3
 杜秋娘	du4;at ciu1;hh niang2;nl	28
 杜文秀	du4;at wen2;wx siu4;hn	16
 杜先杰	du4;at sian1;ne jie2;ah	144
 杜心武	du4;at sin1;dd wu3;gv	138
 杜荀鹤	du4;at svn2;co he4;bn	44
+堵胤锡	du3;to yin4;eo sii1;jw	9
 杜子俊	du4;at zi3;la zvn4;rw	364
 段小楼	duan4;pu siao3;lb lou2;an	1598
+多田骏	duo1;xx tian2;wu zvn4;mw	13
+厄齐尔	e4;iv cii2;wl er3;dx	1064
+恩宗齐	en1;yx zong1;bu cii2;wl	13
 樊昌信	fan2;ad chang1;oo sin4;rk	328
 范海辛	fan4;cv hai3;dm sin1;lu	78
 范鸿仙	fan4;cv hong2;dn sian1;ru	270
@@ -291,7 +433,15 @@ sort: by_weight
 范忠信	fan4;cv zhong1;vx sin4;rk	9
 樊钟秀	fan2;ad zhong1;jv siu4;hn	60
 范筑先	fan4;cv zhu4;vf sian1;ne	320
+方鸿渐	fang1;wv hong2;dn zian4;dt	1840
+方济各	fang1;wv zii4;dq ge4;wk	873
 方青子	fang1;wv cing1;fo zi3;la	284
+方先觉	fang1;wv sian1;ne jve2;xj	22
+方增先	fang1;wv zeng1;to sian1;ne	13
+费俊龙	fei4;fb zvn4;rw long2;yp	110
+费正清	fei4;fb zheng4;av cing1;do	185
+封常清	feng1;tc chang2;xj cing1;do	141
+奉俊昊	feng4;if zvn4;rw hao4;ot	490
 冯潇霆	feng2;dm siao1;db ting2;yw	810
 冯雪峰	feng2;dm sve3;ye feng1;uf	232
 冯玉祥	feng2;dm yv4;wd siang2;py	1645
@@ -303,6 +453,7 @@ sort: by_weight
 傅秋涛	fu4;rc ciu1;hh tao1;dc	3
 傅全香	fu4;rc cvan2;rw xiang1;ho	346
 傅全有	fu4;rc cvan2;rw you3;uo	346
+芙蓉姐	fu2;cf rong2;cg zie3;nq	94
 傅善祥	fu4;rc shan4;yk siang2;py	13
 傅惜华	fu4;rc sii1;xo hua2;ru	144
 傅肖岩	fu4;rc siao1;xo yan2;uu	4
@@ -316,10 +467,20 @@ sort: by_weight
 高起潜	gao1;wk qi3;tj cian2;do	9
 高西庆	gao1;wk sii1;ak qing4;gd	400
 高仙芝	gao1;wk sian1;ru zhi1;cv	317
+高小琴	gao1;wk siao3;lb qin2;wv	60
+高辛氏	gao1;wk sin1;lu shi4;pv	279
+高迎祥	gao1;wk ying2;ze siang2;py	532
+高占祥	gao1;wk zhan4;bw siang2;py	6
+葛兰西	ge2;cr lan2;bs sii1;ak	69
 耿精忠	geng3;eh zing1;mo zhong1;vx	25
 耿聚忠	geng3;eh zv4;eu zhong1;vx	230
 耿旭静	geng3;eh xv4;jo zing4;fy	346
 耿雪松	geng3;eh sve3;ye song1;ag	306
+贡多齐	gong4;gb duo1;xx cii2;wl	126
+宫崎骏	gong1;bk qi2;uk zvn4;mw	6996
+龚如心	gong1;lg ru2;nk sin1;dd	16
+龚文祥	gong1;lg wen2;wx siang2;py	14
+龚翔麟	gong1;lg siang2;yx lin2;gf	9
 顾千帆	gu4;iy cian1;pu fan1;jf	25
 顾清风	gu4;iy cing1;do feng1;jx	630
 顾清欢	gu4;iy cing1;do huan1;yq	423
@@ -328,22 +489,39 @@ sort: by_weight
 顾小北	gu4;iy siao3;lb bei3;lb	28
 顾星辰	gu4;iy sing1;ou chen2;iy	626
 顾秀莲	gu4;iy siu4;hn lian2;ci	536
+古永锵	gu3;uk yong3;du ciang1;jc	185
 管清友	guan3;vl cing1;do you3;uy	22
 管叔鲜	guan3;vl shu1;uy sian1;yy	364
+关锡友	guan1;bt sii1;jw you3;uy	3
+光明星	guang1;xe ming2;oo sing1;ou	502
+光绪帝	guang1;xe sv4;so di4;wj	336
+桂永清	gui4;at yong3;du cing1;do	35
 郭树清	guo1;we shu4;ac cing1;do	151
+国姓爷	guo2;wy sing4;nu ye2;fe	78
+哈尔西	ha3;kk er3;dx sii1;ak	276
+哈谢克	ha3;kk sie4;yc ke4;ux	19
+海青天	hai3;dm cing1;fo tian1;ad	19
 韩全诲	han2;uw cvan2;rw hui4;ym	405
 韩王信	han2;uw wang2;at sin4;rk	248
 韩湘子	han2;uw siang1;do zi3;la	16
 韩小莹	han2;uw siao3;lb ying2;cy	60
 韩新月	han2;uw sin1;lt yve4;ke	333
+汉宣帝	han4;dy svan1;bd di4;wj	2839
 韩宣子	han2;uw svan1;bd zi3;la	396
 韩仲宣	han2;uw zhong4;rv svan1;bd	4
+杭世骏	hang2;aj shi4;cv zvn4;mw	3
+郝建秀	hao3;ie jian4;zy siu4;hn	3
+贺晋年	he4;lb zin4;yo nian2;pf	9
 何良俊	he2;rk liang2;dg zvn4;rw	315
 何莫修	he2;rk mo4;cd siu1;rp	248
 何清涟	he2;rk cing1;do lian2;di	6
 何文秀	he2;rk wen2;wx siu4;hn	6
 何仙姑	he2;rk sian1;ru gu1;ng	13
 何小鹏	he2;rk siao3;lb peng2;on	132
+贺秀莲	he4;lb siu4;hn lian2;ci	129
+赫胥黎	he4;ii sv1;zo li2;hu	283
+贺雪峰	he4;lb sve3;ye feng1;uf	25
+黑泽清	hei1;lh ze2;df cing1;do	22
 洪常青	hong2;dg chang2;xj cing1;fo	333
 洪建全	hong2;dg jian4;zy cvan2;rw	405
 洪清华	hong2;dg cing1;do hua2;ru	486
@@ -358,11 +536,14 @@ sort: by_weight
 洪逊欣	hong2;dg svn4;zx xin1;iq	125
 洪炎秋	hong2;dg yan2;hh ciu1;hh	378
 洪颐煊	hong2;dg yi2;iy svan1;hd	256
+侯君集	hou2;ru jvn1;yk zii2;ra	330
 胡阿祥	hu2;go a1;ek siang2;py	6
 胡百全	hu2;go bai3;ab cvan2;rw	418
 胡长清	hu2;go chang2;pn cing1;do	3
+胡德济	hu2;go de2;rx zii4;dq	6
 胡恩燮	hu2;go en1;yx sie4;hy	297
 胡汉清	hu2;go han4;dy cing1;do	346
+呼韩邪	hu1;kh han2;uw sie2;ye	662
 胡厚宣	hu2;go hou4;iz svan1;bd	392
 胡济邦	hu2;go zii4;dq bang1;fe	464
 胡绩伟	hu2;go zii4;sb wei3;rw	400
@@ -370,6 +551,7 @@ sort: by_weight
 胡晋臣	hu2;go zin4;yo chen2;kl	202
 胡晋铭	hu2;go zin4;yo ming2;jk	320
 胡进思	hu2;go zin4;zj si1;tx	396
+胡靖航	hu2;go zing4;lo hang2;vj	9
 胡静林	hu2;go zing4;fy lin2;aa	3
 胡秋原	hu2;go ciu1;hh yvan2;ix	22
 胡善祥	hu2;go shan4;yk siang2;py	6
@@ -394,6 +576,7 @@ sort: by_weight
 华锡钧	hua4;ru sii1;jw jvn1;jy	310
 华胥国	hua4;ru sv1;zo guo2;wy	315
 华胥氏	hua4;ru sv1;zo shi4;pv	85
+怀进鹏	huai2;xb zin4;zj peng2;on	6
 黄和祥	huang2;cb he2;hk siang2;py	293
 黄火青	huang2;cb huo3;br cing1;fo	441
 黄火星	huang2;cb huo3;br sing1;ou	338
@@ -416,6 +599,7 @@ sort: by_weight
 黄锡璆	huang2;cb sii1;jw qiu2;wp	202
 黄湘詅	huang2;cb siang1;do ling2;ys	212
 黄筱雯	huang2;cb siao3;vw wen2;yw	153
+黄小仙	huang2;cb siao3;lb sian1;ru	38
 黄潇潇	huang2;cb siao1;db siao1;db	266
 黄萧养	huang2;cb siao1;cb yang3;yl	3
 黄燮清	huang2;cb sie4;hy cing1;do	292
@@ -427,20 +611,27 @@ sort: by_weight
 黄志祥	huang2;cb zhi4;tx siang2;py	6
 黄周星	huang2;cb zhou1;kk sing1;ou	256
 黄尊秋	huang2;cb zun1;bc ciu1;hh	252
+浑邪王	hun2;di sie2;ye wang2;at	201
 霍集占	huo4;yv zii2;ra zhan4;bw	16
 霍青桐	huo4;yv cing1;fo tong2;ak	38
 霍水仙	huo4;yv shui3;ln sian1;ru	220
 霍仙姑	huo4;yv sian1;ru gu1;ng	338
 霍啸林	huo4;yv siao4;kb lin2;aa	22
 霍秀秀	huo4;yv siu4;hn siu4;hn	57
+季羡林	ji4;hz sian4;yq lin2;aa	433
+纪小龙	ji3;sj siao3;lb long2;yp	6
+基辛格	ji1;ct sin1;lu ge2;ak	462
+吉星文	ji2;tk sing1;ou wen2;wx	9
 贾浅浅	jia3;xb cian3;dj cian3;dj	405
 贾天祥	jia3;xb tian1;ad siang2;py	248
 贾西姆	jia3;xb sii1;ak mu3;nm	28
+加西亚	jia1;lk sii1;ak ya4;ay	870
 贾新光	jia3;xb sin1;lt guang1;xe	450
 贾新民	jia3;xb sin1;lt min2;vv	274
 贾秀琰	jia3;xb siu4;hn yan3;wh	504
 贾扬清	jia3;xb yang2;fp cing1;do	44
 贾志新	jia3;xb zhi4;tx sin1;lt	334
+翦伯赞	zian3;bx bo2;rb zan4;nb	192
 蒋百里	ziang3;cc bai3;ab li3;tt	254
 蒋碧微	ziang3;cc bi4;wu wei1;rj	472
 蒋碧薇	ziang3;cc bi4;wu wei1;cj	315
@@ -507,19 +698,80 @@ sort: by_weight
 蒋周泰	ziang3;cc zhou1;kk tai4;iu	17
 蒋子龙	ziang3;cc zi3;la long2;yp	28
 蒋作宾	ziang3;cc zuo4;rv bin1;bb	3
+焦达峰	ziao1;rh da2;zd feng1;uf	3
+焦菊隐	ziao1;rh jv2;cm yin3;ex	35
+焦立坤	ziao1;rh li4;wb kun1;tu	3
+焦守云	ziao1;rh shou3;bc yvn2;ag	13
+焦裕禄	ziao1;rh yv4;pg lu4;pu	593
+焦志敏	ziao1;rh zhi4;tx min3;pw	9
+焦仲卿	ziao1;rh zhong4;rv qing1;pg	245
+杰斐逊	jie2;ah fei3;fw svn4;zx	377
+杰佛逊	jie2;ah fo2;rf svn4;zx	57
+杰弗逊	jie2;ah fu2;gl svn4;zx	176
+结石姐	jie2;sk shi2;ak zie3;nq	223
+界徐盛	jie4;tj sv2;rm sheng4;im	433
+晋成帝	zin4;yo cheng2;gv di4;wj	22
+晋成公	zin4;yo cheng2;gv gong1;bs	22
+晋悼公	zin4;yo dao4;xu gong1;bs	47
+晋定公	zin4;yo ding4;bz gong1;bs	28
 金冬心	jin1;rb dong1;wd sin1;dd	382
+晋废帝	zin4;yo fei4;gy di4;wj	6
+晋恭帝	zin4;yo gong1;gx di4;wj	76
 金亨稷	jin1;rb heng1;wl zii4;hw	410
 金弘集	jin1;rb hong2;gs zii2;ra	432
+晋怀帝	zin4;yo huai2;xb di4;wj	60
+晋怀公	zin4;yo huai2;xb gong1;bs	53
+晋惠帝	zin4;yo hui4;ix di4;wj	339
+晋惠公	zin4;yo hui4;ix gong1;bs	91
+晋景公	zin4;yo jing3;ox gong1;bs	113
+晋靖侯	zin4;yo zing4;lo hou2;ru	201
+晋康帝	zin4;yo kang1;gl di4;wj	13
+晋厉公	zin4;yo li4;iw gong1;bs	28
+晋烈公	zin4;yo lie4;dh gong1;bs	6
+晋灵公	zin4;yo ling2;eh gong1;bs	148
 金履祥	jin1;rb lv3;uw siang2;py	248
+晋愍帝	zin4;yo min3;mx di4;wj	31
+晋明帝	zin4;yo ming2;oo di4;wj	44
+晋穆帝	zin4;yo mu4;hp di4;wj	25
+晋鹏翔	zin4;yo peng2;on siang2;yx	3
+晋平公	zin4;yo ping2;au gong1;bs	63
 金枪客	jin1;rb ciang1;av ke4;bk	364
 金枪手	jin1;rb ciang1;av shou3;pf	382
+津琴科	zin1;dy qin2;wv ke1;hd	116
+进藤光	zin4;zj teng2;cu guang1;xe	553
+晋文公	zin4;yo wen2;wx gong1;bs	738
+晋文侯	zin4;yo wen2;wx hou2;ru	170
+晋武帝	zin4;yo wu3;gv di4;wj	421
+晋武公	zin4;yo wu3;gv gong1;bs	53
+晋献公	zin4;yo xian4;uq gong1;bs	292
+晋襄公	zin4;yo siang1;yf gong1;bs	82
 金信煜	jin1;rb sin4;rk yv4;hl	41
 金性尧	jin1;rb sing4;xu yao2;yw	306
 金宣宗	jin1;rb svan1;bd zong1;bu	63
 金燕西	jin1;rb yan4;ch sii1;ak	352
+晋幽公	zin4;yo you1;uy gong1;bs	6
 金鱼精	jin1;rb yv2;da zing1;mo	279
 金庾信	jin1;rb yv3;gr sin4;rk	482
+晋元帝	zin4;yo yvan2;aw di4;wj	82
+晋昭侯	zin4;yo zhao1;ok hou2;ru	31
+景俊海	jing3;ox zvn4;rw hai3;dm	6
+井上靖	zing3;ac shang4;ba zing4;lo	69
+井贤栋	zing3;ac xian2;lb dong4;ad	31
+荆霄鹏	jing1;cd siao1;yo peng2;on	198
+卡西尼	ka3;ub sii1;ak ni2;ub	317
+康克清	kang1;gl ke4;ux cing1;do	22
+考辛斯	kao3;lk sin1;lu si1;ct	1765
+克罗齐	ke4;ux luo2;sx cii2;wl	104
+柯西金	ke1;ak sii1;ak jin1;rb	16
 孔祥熙	kong3;zv siang2;py xi1;ih	151
+拉姆齐	la1;fl mu3;nm cii2;wl	484
+拉瓦锡	la1;fl wa3;ad sii1;jw	945
+赖昌星	lai4;ub chang1;oo sing1;ou	251
+来俊臣	lai2;aa zvn4;rw chen2;kl	176
+赖清德	lai4;ub cing1;do de2;rx	6
+赖水清	lai4;ub shui3;ln cing1;do	16
+郎静山	lang2;le zing4;fy shan1;kl	53
+劳乃宣	lao2;cl nai3;pv svan1;bd	6
 黎春秋	li2;hu chun1;io ciu1;hh	356
 黎道静	li2;hu dao4;zz zing4;fy	90
 黎恩济	li2;hu en1;yx zii4;dq	369
@@ -545,6 +797,7 @@ sort: by_weight
 黎玉玺	li2;hu yv4;wd sii3;dy	2
 李肇星	li3;az zhao4;hy sing1;ou	621
 李镇西	li3;az zhen4;jb sii1;ak	28
+廉亲王	lian2;gj cin1;la wang2;at	9
 梁慧星	liang2;da hui4;fx sing1;ou	286
 梁家俊	liang2;da jia1;bu zvn4;rw	459
 梁实秋	liang2;da shi2;bd ciu1;hh	462
@@ -552,6 +805,11 @@ sort: by_weight
 梁小民	liang2;da siao3;lb min2;vv	19
 梁信军	liang2;da sin4;rk jvn1;bi	6
 梁志祥	liang2;da zhi4;tx siang2;py	468
+廖静文	liao4;gp zing4;fy wen2;wx	6
+廖俊波	liao4;gp zvn4;rw bo1;dp	6
+廖锡龙	liao4;gp sii1;jw long2;yp	3
+廖新波	liao4;gp sin1;lt bo1;dp	9
+廖耀湘	liao4;gp yao4;gv siang1;do	100
 林道静	lin2;aa dao4;zz zing4;fy	25
 林凤祥	lin2;aa feng4;jy siang2;py	25
 林甘泉	lin2;aa gan1;ca cvan2;bu	374
@@ -561,26 +819,34 @@ sort: by_weight
 林秋离	lin2;aa ciu1;hh li2;wn	459
 林仙儿	lin2;aa sian1;ru er2;pv	598
 林祥谦	lin2;aa siang2;py qian1;yj	450
+蔺相如	lin4;cv siang4;ao ru2;nk	625
 林小宅	lin2;aa siao3;lb zhai2;bq	28
 林则徐	lin2;aa ze2;bd sv2;rm	1187
 林真心	lin2;aa zhen1;ub sin1;dd	544
 刘华清	liu2;wd hua2;ru cing1;do	597
 刘靖康	liu2;wd zing4;lo kang1;gl	44
 刘青山	liu2;wd cing1;fo shan1;kl	19
+刘三姐	liu2;wd san1;ae zie3;nq	85
 刘心武	liu2;wd sin1;dd wu3;gv	386
 刘禹锡	liu2;wd yv3;pd sii1;jw	644
+龙济光	long2;yp zii4;dq guang1;xe	16
+鲁滨逊	lu3;yo bin1;db svn4;zx	352
 陆鸿渐	lu4;ej hong2;dn zian4;dt	220
 卢嘉锡	lu2;bu jia1;tk sii1;jw	441
 陆晶清	lu4;ej zing1;oo cing1;do	266
 卢克肖	lu2;bu ke4;ux siao1;xo	716
 陆兰秀	lu4;ej lan2;bs siu4;hn	284
 陆敏全	lu4;ej min3;pw cvan2;rw	423
+卢南樵	lu2;bu nan2;ug ciao2;ah	3
 陆润庠	lu4;ej run4;dw siang2;gy	400
+卢西奥	lu2;bu sii1;ak ao4;pd	493
 鲁襄公	lu3;yo siang1;yf gong1;bs	22
 卢象升	lu2;bu siang4;du sheng1;pc	91
 陆小凤	lu4;ej siao3;lb feng4;jy	631
+路小佳	lu4;zk siao3;lb jia1;rt	22
 陆小曼	lu4;ej siao3;lb man4;oy	3310
 陆小千	lu4;ej siao3;lb cian1;pu	3
+卢小鱼	lu2;bu siao3;lb yv2;da	25
 卢新宁	lu2;bu sin1;lt ning2;bd	315
 鹿心社	lu4;gb sin1;dd she4;pt	3
 陆心源	lu4;ej sin1;dd yvan2;dx	28
@@ -597,11 +863,14 @@ sort: by_weight
 陆征祥	lu4;ej zheng1;rv siang2;py	13
 伦文叙	lun2;rl wen2;wx sv4;ry	446
 骆成骧	luo4;mk cheng2;gv siang1;mf	297
+罗戈津	luo2;sx ge1;yd zin1;dy	53
 罗洪先	luo2;sx hong2;dg sian1;ne	405
 罗弘信	luo2;sx hong2;gs sin4;rk	428
 骆集益	luo4;mk zii2;ra yi4;bm	293
+罗齐尔	luo2;sx cii2;wl er3;dx	308
 罗青长	luo2;sx cing1;fo chang2;pn	508
 罗士信	luo2;sx shi4;ua sin4;rk	28
+罗洗河	luo2;sx sii3;de he2;dk	38
 罗西尼	luo2;sx sii1;ak ni2;ub	531
 罗志祥	luo2;sx zhi4;tx siang2;py	1039
 吕奉先	lv3;kk feng4;if sian1;ne	450
@@ -611,6 +880,7 @@ sort: by_weight
 吕秀才	lv3;kk siu4;hn cai2;up	644
 吕秀莲	lv3;kk siu4;hn lian2;ci	729
 马加爵	ma3;va jia1;lk zve2;vc	480
+马克沁	ma3;va ke4;ux cin4;dx	104
 马礼逊	ma3;va li3;pv svn4;zx	72
 马明心	ma3;va ming2;oo sin1;dd	364
 马亲王	ma3;va cin1;la wang2;at	680
@@ -623,6 +893,13 @@ sort: by_weight
 马星野	ma3;va sing1;ou ye3;ly	598
 马修斯	ma3;va siu1;rp si1;ct	609
 马叙伦	ma3;va sv4;ry lun2;rl	50
+麦迪逊	mai4;fw di2;zy svn4;zx	1448
+麦卡锡	mai4;fw ka3;ub sii1;jw	352
+猫小乐	mao1;qt siao3;lb le4;px	3
+毛小毛	mao2;pv siao3;lb mao2;pv	8
+毛主席	mao2;pv zhu3;wt sii2;gj	4427
+梅西叶	mei2;am sii1;ak ye4;ku	82
+梅西耶	mei2;am sii1;ak ye2;ee	74
 孟静娴	meng4;zm zing4;fy xian2;na	490
 孟席斯	meng4;zm sii2;gj si1;ct	28
 孟祥斌	meng4;zm siang2;py bin1;wv	13
@@ -630,10 +907,16 @@ sort: by_weight
 孟祥伟	meng4;zm siang2;py wei3;rw	486
 孟小冬	meng4;zm siao3;lb dong1;wd	879
 孟晓骏	meng4;zm xiao3;ow zvn4;mw	66
+猛小蛇	meng3;qm siao3;lb she2;ib	3
 孟星魂	meng4;zm sing1;ou hun2;yg	60
 孟知祥	meng4;zm zhi1;uk siang2;py	31
 缪荃孙	miao4;sp cvan2;cw sun1;zx	477
 缪细泉	miao4;sp sii4;st cvan2;bu	45
+明嘉靖	ming2;oo jia1;tk zing4;lo	493
+明宣宗	ming2;oo svan1;bd zong1;bu	122
+莫焕晶	mo4;cd huan4;hr zing1;oo	72
+魔礼青	mo2;gg li3;pv cing1;fo	9
+莫天全	mo4;cd tian1;ad cvan2;rw	35
 穆尔西	mu4;hp er3;dx sii1;ak	57
 穆齐尔	mu4;hp cii2;wl er3;dx	410
 穆人清	mu4;hp ren2;pn cing1;do	41
@@ -642,6 +925,7 @@ sort: by_weight
 慕容详	mu4;cx rong2;bg siang2;yy	374
 穆祥雄	mu4;hp siang2;py xiong2;uv	288
 穆谢奎	mu4;hp sie4;yc kui2;dt	3
+纳尔逊	na4;sn er3;dx svn4;zx	305
 纳辛贝	na4;sn sin1;lu bei4;kr	423
 南霁云	nan2;ug zii4;yq yvn2;ag	25
 聂辰席	nie4;ey chen2;iy sii2;gj	6
@@ -650,6 +934,11 @@ sort: by_weight
 聂小凤	nie4;ey siao3;lb feng4;jy	270
 聂小倩	nie4;ey siao3;lb cian4;ro	119
 宁靖王	ning2;bd zing4;lo wang2;at	504
+牛金星	niu2;pu jin1;rb sing1;ou	25
+钮文新	niu3;ji wen2;wx sin1;lt	63
+牛希济	niu2;pu xi1;xj zii4;dq	53
+欧阳修	ou1;qq yang2;eo siu1;rp	3803
+欧阳询	ou1;qq yang2;eo svn2;yo	528
 潘鼎新	pan1;dt ding3;po sin1;lt	22
 潘际銮	pan1;dt zii4;eu luan2;wj	3
 潘建新	pan1;dt jian4;zy sin1;lt	180
@@ -663,10 +952,18 @@ sort: by_weight
 潘小平	pan1;dt siao3;lb ping2;au	202
 潘奕隽	pan1;dt yi4;wd zvan4;rn	220
 潘月樵	pan1;dt yve4;ke ciao2;ah	194
+庞元济	pang2;gl yvan2;aw zii4;dq	6
+佩洛西	pei4;rj luo4;dk sii1;ak	697
 裴世清	pei2;fy shi4;cv cing1;do	297
 裴伷先	pei2;fy zhou4;ry sian1;ne	256
+彭德清	peng2;tp de2;rx cing1;do	16
+彭雪枫	peng2;tp sve3;ye feng1;af	19
+皮尔逊	pi2;py er3;dx svn4;zx	85
 朴恒绪	piao2;ab heng2;xd sv4;so	342
 朴智星	piao2;ab zhi4;uo sing1;ou	598
+平安信	ping2;au an1;bn sin4;rk	3
+平新乔	ping2;au sin1;lt qiao2;yl	141
+普修斯	pu3;bo siu1;rp si1;ct	3
 齐哀王	cii2;wl ai1;yk wang2;at	0
 戚百草	cii1;gx bai3;ab cao3;cu	400
 齐白石	cii2;wl bai2;po shi2;ak	1093
@@ -697,6 +994,7 @@ sort: by_weight
 齐康公	cii2;wl kang1;gl gong1;bs	28
 齐克果	cii2;wl ke4;ux guo3;ta	410
 齐良迟	cii2;wl liang2;dg chi2;zi	266
+杞梁妻	qi3;aj liang2;da cii1;un	16
 戚蓼生	cii1;gx liao3;cp sheng1;pf	324
 齐灵公	cii2;wl ling2;eh gong1;bs	13
 齐美尔	cii2;wl mei3;yd er3;dx	598
@@ -744,6 +1042,7 @@ sort: by_weight
 钱伯海	cian2;jj bo2;rb hai3;dm	99
 钱伯钧	cian2;jj bo2;rb jvn1;jy	45
 钱伯斯	cian2;jj bo2;rb si1;ct	182
+浅仓威	cian3;dj cang1;rv wei1;gn	13
 钱昌照	cian2;jj chang1;oo zhao4;oh	454
 钱澄海	cian2;jj cheng2;db hai3;dm	284
 钱春湖	cian2;jj chun1;io hu2;do	45
@@ -768,6 +1067,7 @@ sort: by_weight
 钱君陶	cian2;jj jvn1;yk tao2;ef	220
 钱立富	cian2;jj li4;wb fu4;bt	266
 钱理群	cian2;jj li3;wl qvn2;yy	323
+千利休	cian1;pu li4;hd xiu1;ra	254
 钱良玉	cian2;jj liang2;dg yv4;wd	45
 钱能训	cian2;jj neng2;sb xvn4;yi	414
 钱其琛	cian2;jj qi2;cb chen1;wa	41
@@ -810,6 +1110,7 @@ sort: by_weight
 乔夕颜	qiao2;yl sii1;pd yan2;wy	45
 乔小乔	qiao2;yl siao3;lb qiao2;yl	536
 乔新生	qiao2;yl sin1;lt sheng1;pf	342
+切利尼	cie4;qd li4;hd ni2;ub	53
 秦哀公	cin2;ih ai1;yk gong1;bs	16
 秦伯未	cin2;ih bo2;rb wei4;aa	16
 秦成公	cin2;ih cheng2;gv gong1;bs	9
@@ -871,17 +1172,53 @@ sort: by_weight
 秦仲文	cin2;ih zhong4;rv wen2;wx	3
 秦庄公	cin2;ih zhuang1;gt gong1;bs	16
 秦庄王	cin2;ih zhuang1;gt wang2;at	189
+清德宗	cing1;do de2;rx zong1;bu	16
+清嘉庆	cing1;do jia1;tk qing4;gd	53
+清康熙	cing1;do kang1;gl xi1;ih	126
+清乾隆	cing1;do qian2;uv long2;eu	232
+清圣祖	cing1;do sheng4;yt zu3;pq	22
+清世宗	cing1;do shi4;cv zong1;bu	75
+清水崇	cing1;do shui3;ln chong2;uu	410
+清顺治	cing1;do shun4;iy zhi4;dk	60
+清太宗	cing1;do tai4;dd zong1;bu	13
+清太祖	cing1;do tai4;dd zu3;pq	31
+清同治	cing1;do tong2;kk zhi4;dk	96
+清咸丰	cing1;do xian2;gk feng1;sl	57
+顷襄王	qing3;by siang1;yf wang2;at	22
+清雍正	cing1;do yong1;wv zheng4;av	75
 裘桂仙	qiu2;qy gui4;at sian1;ru	220
 裘锦秋	qiu2;qy jin3;jj ciu1;hh	405
 裘千尺	qiu2;qy cian1;pu chi3;un	66
 裘千仞	qiu2;qy cian1;pu ren4;rd	405
 裘千丈	qiu2;qy cian1;pu zhang4;an	66
+邱清泉	qiu1;qe cing1;do cvan2;bu	47
 裘锡圭	qiu2;qy sii1;jw gui1;tt	295
+秋元康	ciu1;hh yvan2;aw kang1;gl	327
 裘曰修	qiu2;qy yve1;wa siu1;rp	252
+瞿秋白	qv2;ov ciu1;hh bai2;po	327
+全斗焕	cvan2;rw dou4;ud huan4;hr	240
+全汉升	cvan2;rw han4;dy sheng1;pc	19
 全红婵	cvan2;rw hong2;sg chan2;nu	1517
+饶雪漫	rao2;uw sve3;ye man4;dy	94
+任鸿隽	ren2;rw hong2;dn zvan4;rn	6
+任新民	ren2;rw sin1;lt min2;vv	22
+任应秋	ren2;rw ying1;ga ciu1;hh	16
+戎冠秀	rong2;gu guan1;bc siu4;hn	6
+荣兰祥	rong2;ca lan2;bs siang2;py	3
+荣新江	rong2;ca sin1;lt jiang1;dg	41
 阮小二	ruan3;ey siao3;lb er4;aa	50
 阮小七	ruan3;ey siao3;lb cii1;av	60
 阮小五	ruan3;ey siao3;lb wu3;aw	28
+瑞切尔	rui4;we cie4;qd er3;dx	9
+萨科齐	sa4;ci ke1;hd cii2;wl	100
+撒切尔	sa3;fw cie4;qd er3;dx	314
+桑切斯	sang1;ya cie4;qd si1;ct	1746
+单霁翔	shan4;bu zii4;yq siang2;yx	788
+山口茜	shan1;kl kou3;la cian4;cx	9
+单雄信	shan4;bu xiong2;uv sin4;rk	129
+单之蔷	shan4;bu zhi1;dn ciang2;ck	25
+尚云祥	shang4;xk yvn2;ag siang2;py	35
+尚之信	shang4;xk zhi1;dn sin4;rk	3
 召存信	shao4;dk cun2;uz sin4;rk	369
 邵晋涵	shao4;de zin4;yo han2;du	9
 邵康节	shao4;de kang1;gl zie2;ce	141
@@ -890,17 +1227,39 @@ sort: by_weight
 召信臣	shao4;dk sin4;rk chen2;kl	306
 邵洵美	shao4;de svn2;do mei3;yd	9
 邵燕祥	shao4;de yan4;ch siang2;py	459
+佘祥林	she2;ru siang2;py lin2;aa	138
+申包胥	shen1;ol bao1;bs sv1;zo	82
 沈昌祥	shen3;de chang1;oo siang2;py	464
 沈端节	shen3;de duan1;le zie2;ce	99
 沈佺期	shen3;de cvan2;rw qi1;co	47
 沈全期	shen3;de cvan2;rw qi1;co	42
 沈铨期	shen3;de cvan2;jw qi1;co	38
 沈祥福	shen3;de siang2;py fu2;pt	41
+慎小嶷	shen4;xb siao3;lb yi2;uz	122
+神荀彧	shen2;pu svn2;co yv4;ga	192
+申真谞	shen1;ol zhen1;ub sv1;yo	22
+圣卡西	sheng4;yt ka3;ub sii1;ak	72
+圣西门	sheng4;yt sii1;ak men2;dv	69
+盛宣怀	sheng4;im svan1;bd huai2;xb	148
+师昌绪	shi1;lj chang1;oo sv4;so	9
+时传祥	shi2;to chuan2;rv siang2;py	19
+石汉青	shi2;ak han4;dy cing1;fo	9
 施建祥	shi1;fy jian4;zy siang2;py	281
 施进卿	shi1;fy zin4;zj qing1;pg	356
+史景迁	shi3;kn jing3;ox cian1;zq	69
+石守信	shi2;ak shou3;bc sin4;rk	25
 施叔青	shi1;fy shu1;uy cing1;fo	281
+史瓦西	shi3;kn wa3;ad sii1;ak	521
+狮心王	shi1;qj sin1;dd wang2;at	138
+石雪清	shi2;ak sve3;ye cing1;do	3
 施永青	shi1;fy yong3;du cing1;fo	3
+释永信	shi4;mf yong3;du sin4;rk	47
+辻政信	shi2;zu zheng4;vw sin4;rk	60
 施子清	shi1;fy zi3;la cing1;do	251
+舒新城	shu1;ry sin1;lt cheng2;ti	16
+束星北	shu4;gr sing1;ou bei3;lb	25
+双雪涛	shuang1;yy sve3;ye tao1;dc	480
+水千丞	shui3;ln cian1;pu cheng2;la	22
 司马缉	si1;vk ma3;va zii1;se	288
 司马进	si1;vk ma3;va zin4;zj	5
 司马俊	si1;vk ma3;va zvn4;rw	351
@@ -972,8 +1331,6 @@ sort: by_weight
 特薛禅	te4;nc sve1;cx chan2;pu	320
 滕海清	teng2;ou hai3;dm cing1;do	432
 藤井树	teng2;cu zing3;ac shu4;ac	2826
-藤井树	teng2;cu zing3;ac shu4;ac	554
-藤井树	teng2;cu zing3;ac shu4;ac	518
 田北俊	tian2;wu bei3;lb zvn4;rw	576
 畑俊六	tian2;ht zvn4;rw liu4;wb	13
 田千秋	tian2;wu cian1;pu ciu1;hh	198
@@ -989,6 +1346,7 @@ sort: by_weight
 拓跋浚	tuo4;fu ba2;zy zvn4;dw	590
 拓跋濬	tuo4;fu ba2;zy zvn4;do	437
 拓跋俊	tuo4;fu ba2;zy zvn4;rw	104
+托马西	tuo1;fq ma3;va sii1;ak	28
 瓦德西	wa3;ad de2;rx sii1;ak	44
 万立骏	wan4;av li4;wb zvn4;mw	6
 万齐融	wan4;av cii2;wl rong2;gi	171
@@ -1076,7 +1434,6 @@ sort: by_weight
 西格里	sii1;ak ge2;ak li3;tt	508
 西哈诺	sii1;ak ha1;kk nuo4;yk	374
 习近平	sii2;vd jin4;zt ping2;au	76
-习近平	sii2;vd jin4;zt ping2;au	53
 西克斯	sii1;ak ke4;ux si1;ct	42
 席拉赫	sii2;gj la1;fl he4;ii	68
 西莱森	sii1;ak lai2;cl sen1;aa	392
@@ -1165,6 +1522,7 @@ sort: by_weight
 萧楚女	siao1;cb chu3;az nv3;va	186
 肖传国	siao1;xo chuan2;rv guo2;wy	113
 小次郎	siao3;lb ci4;dq lang2;le	772
+小丹尼	siao3;lb dan1;kd ni2;ub	50
 萧道成	siao1;cb dao4;zz cheng2;gv	97
 萧道生	siao1;cb dao4;zz sheng1;pf	256
 萧道应	siao1;cb dao4;zz ying1;ga	396
@@ -1225,6 +1583,7 @@ sort: by_weight
 萧琼瑞	siao1;cb qiong2;wx rui4;we	243
 萧秋水	siao1;cb ciu1;hh shui3;ln	41
 肖全夫	siao1;xo cvan2;rw fu1;er	279
+小拳石	siao3;lb qvan2;ju shi2;ak	60
 萧如瑟	siao1;cb ru2;nk se4;wb	148
 萧若元	siao1;cb ruo4;ck yvan2;aw	616
 萧山令	siao1;cb shan1;kl ling4;rs	297
@@ -1672,6 +2031,7 @@ sort: by_weight
 叶选平	ye4;ku svan3;ze ping2;au	16
 叶宜津	ye4;ku yi2;bq zin1;dy	410
 叶永青	ye4;ku yong3;du cing1;fo	44
+以保全	yi3;lr bao3;ra cvan2;rw	91
 矣进宏	yi3;su zin4;zj hong2;bs	374
 衣俊卿	yi1;wy zvn4;rw qing1;pg	378
 异牟寻	yi4;sc mou2;sn svn2;ec	508
@@ -1738,6 +2098,7 @@ sort: by_weight
 源义亲	yvan2;dx yi4;dx cin1;la	252
 袁聿修	yvan2;ty yv4;yg siu1;rp	266
 袁仲雪	yvan2;ty zhong4;rv sve3;ye	364
+乐靖宜	yve4;px zing4;lo yi2;bq	9
 约西亚	yve1;su sii1;ak ya4;ay	22
 员半千	yvn4;kb ban4;bf cian1;pu	306
 恽铁樵	yvn4;xi tie3;jf ciao2;ah	141
@@ -1749,6 +2110,7 @@ sort: by_weight
 曾剑秋	zeng1;bo jian4;qd ciu1;hh	284
 曾小贤	zeng1;bo siao3;lb xian2;lb	537
 曾雪麟	zeng1;bo sve3;ye lin2;gf	428
+查全性	zha1;ad cvan2;rw sing4;xu	19
 詹纯新	zhan1;dk chun2;st sin1;lt	405
 湛甘泉	zhan4;db gan1;ca cvan2;bu	194
 詹国俊	zhan1;dk guo2;wy zvn4;rw	171
@@ -1840,6 +2202,7 @@ sort: by_weight
 左小蕾	zuo3;ug siao3;lb lei3;ct	320
 佐野泉	zuo3;rg ye3;ly cvan2;bu	315
 左游仙	zuo3;ug you2;dz sian1;ru	327
+阿部信行	a1;ek bu4;le sin4;rk xing2;rd	14
 阿尼西母	a1;ek ni2;ub sii1;ak mu3;md	256
 阿西莫夫	a1;ek sii1;ak mo4;cd fu1;er	989
 爱尔维修	ai4;vy er3;dx wei2;sv siu1;rp	9
@@ -1973,7 +2336,6 @@ sort: by_weight
 东周靖公	dong1;ax zhou1;kk zing4;lo gong1;bs	99
 渡边俊幸	du4;dy bian1;zl zvn4;rw xing4;tg	297
 独孤修德	du2;qi gu1;zg siu1;rp de2;rx	248
-独孤修德	du2;qi gu1;zg siu1;rp de2;rx	248
 俄底修斯	e2;rw di3;gu siu1;rp si1;ct	22
 二阶俊博	er4;aa jie1;ej zvn4;rw bo2;uc	436
 法捷耶夫	fa3;dq zie2;fz ye2;ee fu1;er	518
@@ -1991,6 +2353,7 @@ sort: by_weight
 干将莫邪	gan1;au ziang1;lc mo4;cd ye2;ye	204
 高坂昌信	gao1;wk ban3;ty chang1;oo sin4;rk	346
 高阪昌信	gao1;wk ban3;ey chang1;oo sin4;rk	110
+高桥是清	gao1;wk qiao2;al shi4;oz cing1;do	14
 高松信司	gao1;wk song1;ag sin4;rk si1;vk	378
 格劳秀斯	ge2;ak lao2;cl siu4;hn si1;ct	414
 格老秀斯	ge2;ak lao3;lb siu4;hn si1;ct	266
@@ -2009,6 +2372,7 @@ sort: by_weight
 龟井忠夫	gui1;dd zing3;ac zhong1;vx fu1;er	76
 国相范雎	guo2;wy siang1;ao fan4;cv zv1;qv	117
 哈姆西克	ha3;kk mu3;nm sii1;ak ke4;ux	19
+海部俊树	hai3;dm bu4;le zvn4;rw shu4;ac	14
 还有济公	hai2;zb you3;uo zii4;dq gong1;bs	144
 韩宣惠王	han2;uw svan1;bd hui4;ix wang2;at	279
 贺兰进明	he4;lb lan2;bs zin4;zj ming2;oo	378
@@ -2016,6 +2380,7 @@ sort: by_weight
 贺屋兴宣	he4;lb wu1;ut xing1;xb svan1;bd	266
 赫西奥德	he4;ii sii1;ak ao4;pd de2;rx	328
 赫西俄德	he4;ii sii1;ak e2;rw de2;rx	590
+黑田清隆	hei1;lh tian2;wu cing1;do long2;eu	14
 横井军平	heng2;ab zing3;ac jvn1;bi ping2;au	513
 横井孝二	heng2;ab zing3;ac xiao4;lz er4;aa	248
 横井小楠	heng2;ab zing3;ac siao3;lb nan2;ag	279
@@ -2268,6 +2633,7 @@ sort: by_weight
 青木昌彦	cing1;fo mu4;ur chang1;oo yan4;wp	297
 青木宣纯	cing1;fo mu4;ur svan1;bd chun2;st	243
 青木正儿	cing1;fo mu4;ur zheng4;av er2;pv	252
+清浦奎吾	cing1;do pu3;df kui2;dt wu2;wk	14
 清少纳言	cing1;do shao3;xp na4;sn yan2;wk	572
 清水玲子	cing1;do shui3;ln ling2;ws zi5;la	346
 清湘老人	cing1;do siang1;do lao3;lb ren2;pn	117
@@ -2292,6 +2658,7 @@ sort: by_weight
 森泽晴行	sen1;aa ze2;df cing2;oo xing2;rd	252
 僧格林沁	seng1;ro ge2;ak lin2;aa cin4;dx	210
 山名宗全	shan1;kl ming2;xk zong1;bu cvan2;rw	356
+上官云相	shang4;ba guan1;bl yvn2;ag siang1;ao	464
 商那和修	shang1;wk na4;ve he2;hk siu1;rp	306
 深津一成	shen1;da zin1;dy yi4;aa cheng2;gv	400
 神秀禅师	shen2;pu siu4;hn chan2;pu shi1;lj	180
@@ -2465,8 +2832,6 @@ sort: by_weight
 仙石忠政	sian1;ru shi2;ak zhong1;vx zheng4;vw	212
 鲜于伯机	sian1;yy yv2;au bo2;rb ji1;aj	99
 鲜于叔明	sian1;yy yv2;au shu1;uy ming2;oo	189
-鲜于叔明	sian1;yy yv2;au shu1;uy ming2;oo	189
-鲜于修礼	sian1;yy yv2;au siu1;rp li3;pv	356
 鲜于修礼	sian1;yy yv2;au siu1;rp li3;pv	356
 鲜于仲通	sian1;yy yv2;au zhong4;rv tong1;zy	396
 洗者若翰	sian3;de zhe3;lo ruo4;ck han4;ux	320
@@ -2496,6 +2861,7 @@ sort: by_weight
 小岛秀夫	siao3;lb dao3;nu siu4;hn fu1;er	734
 小岛元太	siao3;lb dao3;nu yvan2;aw tai4;dd	22
 萧韩家奴	siao1;cb han2;uw jia1;bu nu2;ny	315
+小矶国昭	siao3;lb ji1;uj guo2;wy zhao1;ok	14
 小矶裕司	siao3;lb ji1;uj yv4;pg si1;vk	225
 小加索尔	siao3;lb jia1;lk suo3;ux er3;dx	693
 孝静皇帝	xiao4;lz zing4;fy huang2;bw di4;wj	171
@@ -2646,4 +3012,6 @@ sort: by_weight
 查理七世	zha1;ad li3;wl cii1;av shi4;cv	630
 中岛翔哉	zhong1;kl dao3;nu siang2;yx zai1;gk	338
 安倍晋太郎	an1;bn bei4;rk zin4;yo tai4;dd lang2;le	10
+西园寺公望	sii1;ak yvan2;wy si4;tc gong1;bs wang4;ww	14
+小泉纯一郎	siao3;lb cvan2;bu chun2;st yi1;aa lang2;le	14
 香宗我部亲泰	xiang1;ho zong1;bu wo3;ga bu4;le cin1;la tai4;iu	10

@@ -625,8 +625,6 @@ sort: by_weight
 虎二	hu3;hj er4;aa	195
 胡枫	hu2;go feng1;af	163
 胡歌	hu2;go ge1;kq	1181
-胡歌	hu2;go ge1;kq	441
-胡歌	hu2;go ge1;kq	428
 胡瓜	hu2;go gua1;in	770
 胡静	hu2;go jing4;fy	226
 胡军	hu2;go jvn1;bi	320
@@ -791,6 +789,7 @@ sort: by_weight
 涓子	jvan1;do zi3;la	50
 钧泽	jvn1;jy ze2;df	3115
 卡姆	ka3;ub mu3;nm	245
+凯莉	kai3;uj li4;cd	668
 凯叔	kai3;uj shu1;uy	206
 侃侃	kan3;ri kan3;ri	263
 阚昕	kan4;mw xin1;ot	1
@@ -802,6 +801,7 @@ sort: by_weight
 康凯	kang1;gl kai3;uj	495
 康汐	kang1;gl xi1;dx	1
 可儿	ke3;dk er5;pv	1593
+柯克	ke1;ak ke4;ux	229
 柯蓝	ke1;ak lan2;cm	634
 柯颖	ke1;ak ying3;bh	29
 柯钊	ke1;ak zhao1;jd	19
@@ -882,6 +882,7 @@ sort: by_weight
 李糖	li3;az tang2;mk	136
 李铁	li3;az tie3;jf	1441
 李婷	li3;az ting2;nd	1563
+力丸	li4;vp wan2;jd	80
 李炜	li3;az wei3;hw	19
 李玟	li3;az wen2;ww	1659
 李现	li3;az xian4;wj	785
@@ -939,6 +940,7 @@ sort: by_weight
 林濛	lin2;aa meng2;du	6
 林墨	lin2;aa mo4;lt	1407
 林陌	lin2;aa mo4;eb	14
+林农	lin2;aa nong2;by	9
 林鹏	lin2;aa peng2;on	621
 林萍	lin2;aa ping2;cp	57
 林杉	lin2;aa shan1;ap	78
@@ -1052,6 +1054,7 @@ sort: by_weight
 卢鑫	lu2;bu xin1;jj	154
 陆星	lu4;ej xing1;ou	565
 陆逊	lu4;ej xvn4;zx	11291
+卢燕	lu2;bu yan4;ch	646
 陆瑶	lu4;ej yao2;wf	876
 卢野	lu2;bu ye3;ly	47
 陆毅	lu4;ej yi4;lu	307
@@ -1178,6 +1181,7 @@ sort: by_weight
 尼坤	ni2;ub kun1;tu	702
 倪妮	ni2;re ni1;nb	624
 倪言	ni2;re yan2;wk	9
+倪震	ni2;re zhen4;yi	1398
 鸟叔	niao3;na shu1;uy	2054
 聂玫	nie4;ey mei2;ww	47
 聂鑫	nie4;ey xin1;jj	81
@@ -1206,11 +1210,13 @@ sort: by_weight
 裴蓓	pei2;fy bei4;ck	356
 裴丽	pei2;fy li4;ad	100
 裴琳	pei2;fy lin2;wa	684
+彭丹	peng2;tp dan1;kd	66
 彭灏	peng2;tp hao4;dy	1
 彭磊	peng2;tp lei3;uu	864
 彭羚	peng2;tp ling2;ys	706
 彭凌	peng2;tp ling2;dw	41
 彭清	peng2;tp qing1;do	3026
+彭荃	peng2;tp qvan2;cw	6
 彭帅	peng2;tp shuai4;lj	50
 彭杨	peng2;tp yang2;ap	580
 彭尧	peng2;tp yao2;yw	130
@@ -1306,11 +1312,13 @@ sort: by_weight
 茹萍	ru2;ck ping2;cp	162
 阮巨	ruan3;ey jv4;kk	18
 阮巡	ruan3;ey xvn2;zv	15
+瑞茜	rui4;we qian4;cx	28
 蕊希	rui3;cx xi1;xj	218
 桑晨	sang1;ya chen2;oi	22
 桑兰	sang1;ya lan2;bs	25
 桑平	sang1;ya ping2;au	1015
 桑砚	sang1;ya yan4;uj	12
+森美	sen1;aa mei3;yd	16
 莎娜	sha1;cu na4;ne	819
 沙溢	sha1;du yi4;dm	747
 单良	shan4;bu liang2;dg	37
@@ -1357,6 +1365,7 @@ sort: by_weight
 施羽	shi1;fy yv3;xx	7
 史原	shi3;kn yvan2;ix	105
 舒高	shu1;ry gao1;wk	440
+树里	shu4;ac li3;tt	185
 舒淇	shu1;ry qi2;db	778
 舒然	shu1;ry ran2;xh	360
 舒砚	shu1;ry yan4;uj	55
@@ -1367,6 +1376,7 @@ sort: by_weight
 顺子	shun4;iy zi5;la	465
 姒扃	si4;nr jiong1;hk	12
 斯兰	si1;ct lan2;bs	168
+思文	si1;tx wen2;wx	147
 司源	si1;vk yvan2;dx	72
 宋晨	song4;ba chen2;oi	1612
 宋佳	song4;ba jia1;rt	320
@@ -1378,9 +1388,11 @@ sort: by_weight
 宋玉	song4;ba yv4;wd	128
 宋禹	song4;ba yv3;pd	6
 宿丹	su4;bb dan1;kd	18
+苏红	su1;cb hong2;sg	785
 苏惠	su1;cb hui4;ix	67
 苏瑾	su1;cb jin3;ww	7174
 苏可	su1;cb ke3;dk	5244
+苏伦	su1;cb lun2;rl	41
 苏民	su1;cb min2;vv	38
 苏蓬	su1;cb peng2;cf	437
 苏秦	su1;cb qin2;ih	135
@@ -2366,6 +2378,7 @@ sort: by_weight
 爱田由	ai4;vy tian2;wu you2;ol	288
 艾薇儿	ai4;cx wei1;cj er2;pv	571
 艾晓琪	ai4;cx xiao3;ow qi2;wb	137
+艾小羊	ai4;cx xiao3;lb yang2;bf	3
 艾怡良	ai4;cx yi2;xk liang2;dg	232
 爱乐团	ai4;vy yve4;px tuan2;wc	9
 安伯政	an1;bn bo2;rb zheng4;vw	274
@@ -2395,6 +2408,7 @@ sort: by_weight
 安又琪	an1;bn you4;vn qi2;wb	35
 安悦溪	an1;bn yve4;xx xi1;dd	9
 安云武	an1;bn yvn2;ag wu3;gv	15
+安宰弘	an1;bn zai3;bx hong2;gs	6
 安宰贤	an1;bn zai3;bx xian2;lb	129
 安在旭	an1;bn zai4;ut xv4;jo	603
 安泽豪	an1;bn ze2;df hao2;wu	274
@@ -2632,7 +2646,6 @@ sort: by_weight
 蔡紫芬	cai4;cu zi3;vx fen1;cf	12
 仓本堇	cang1;rv ben3;aa jin3;cw	10
 苍井空	cang1;cv jing3;ac kong1;bg	261
-苍井空	cang1;cv jing3;ac kong1;bg	10
 苍井优	cang1;cv jing3;ac you1;ry	82
 苍老师	cang1;cv lao3;lb shi1;lj	824
 苍树梅	cang1;cv shu4;ac mei2;am	414
@@ -2979,6 +2992,7 @@ sort: by_weight
 成旻云	cheng2;gv min2;ow yvn2;ag	15
 成诗京	cheng2;gv shi1;yc jing1;wx	9
 成泰燊	cheng2;gv tai4;iu shen1;ha	13
+成田剑	cheng2;gv tian2;wu jian4;qd	315
 成田凌	cheng2;gv tian2;wu ling2;dw	378
 城田优	cheng2;ti tian2;wu you1;ry	428
 程文涛	cheng2;hw wen2;wx tao1;dc	12
@@ -3014,11 +3028,13 @@ sort: by_weight
 储小蕾	chu3;ro xiao3;lb lei3;ct	637
 楚轶男	chu3;az yi4;if nan2;tl	12
 储智博	chu3;ro zhi4;uo bo2;uc	42
+川岛爱	chuan1;pl dao3;nu ai4;vy	6
 川越唯	chuan1;pl yve4;tl wei2;kv	10
 吹越满	chui1;kq yve4;tl man3;dl	436
 春菜华	chun1;io cai4;ca hua2;ru	10
 椿莉香	chun1;ao li4;cd xiang1;ho	10
 蠢沫沫	chun3;ii mo4;dw mo4;dw	12
+蠢朋克	chun3;ii peng2;oo ke4;ux	110
 春咲凉	chun1;io xiao4;kt liang2;dx	10
 慈婉彤	ci2;bx wan3;nv tong2;dp	12
 丛浩楠	cong2;ra hao4;dk nan2;ag	3
@@ -3055,7 +3071,9 @@ sort: by_weight
 大川透	da4;ar chuan1;pl tou4;zn	536
 大哥远	da4;ar ge1;kk yvan3;zy	230
 大槻响	da4;ar gui1;aj xiang3;kk	10
+大泉洋	da4;ar qvan2;bu yang2;dy	6
 达式常	da2;zd shi4;gg chang2;xj	16
+大野智	da4;ar ye3;ly zhi4;uo	22
 答有为	da2;vk you3;uo wei2;ld	12
 大泽光	da4;ar ze2;df guang1;xe	234
 大张伟	da4;ar zhang1;gi wei3;rw	2726
@@ -3102,6 +3120,7 @@ sort: by_weight
 戴祖雄	dai4;gg zu3;pq xiong2;uv	252
 戴祖仪	dai4;gg zu3;pq yi2;ry	486
 丹下樱	dan1;kd xia4;ab ying1;an	9
+丹泽尔	dan1;kd ze2;df er3;dx	107
 党浩予	dang3;xx hao4;dk yv3;sl	12
 岛谷瞳	dao3;nu gu3;bk tong2;ol	16
 刀美兰	dao1;vp mei3;yd lan2;bs	9
@@ -3161,6 +3180,7 @@ sort: by_weight
 邓紫棋	deng4;ye zi3;vx qi2;ab	3630
 邓紫衣	deng4;ye zi3;vx yi1;wy	266
 翟蓓蓓	di2;xv bei4;ck bei4;ck	12
+狄波拉	di2;qh bo1;dp la1;fl	69
 狄菲菲	di2;qh fei1;cf fei1;cf	218
 翟冠华	di2;xv guan1;bc hua2;ru	22
 迪玛希	di2;zy ma3;wm xi1;xj	845
@@ -3202,6 +3222,7 @@ sort: by_weight
 丁禹兮	ding1;al yv3;pd xi1;bk	346
 丁泽仁	ding1;al ze2;df ren2;re	8
 丁志诚	ding1;al zhi4;tx cheng2;yi	9
+丁子高	ding1;al zi5;la gao1;wk	166
 丁子峻	ding1;al zi5;la jvn4;uw	446
 丁子玲	ding1;al zi5;la ling2;ws	426
 董宝石	dong3;cv bao3;by shi2;ak	297
@@ -3238,6 +3259,7 @@ sort: by_weight
 董新尧	dong3;cv xin1;lt yao2;yw	33
 董行佶	dong3;cv xing2;rd ji2;rk	3
 冬雪俐	dong1;wd xve3;ye li4;rd	1
+东雪莲	dong1;ax xve3;ye lian2;ci	13
 董亚千	dong3;cv ya4;ay qian1;pu	500
 董岩磊	dong3;cv yan2;uu lei3;uu	6
 董艳芸	dong3;cv yan4;fb yvn2;cy	315
@@ -3317,13 +3339,19 @@ sort: by_weight
 段艺璇	duan4;pu yi4;cv xvan2;wz	33
 多布杰	duo1;xx bu4;uj jie2;ah	22
 朵尔娜	duo3;ja er3;dx na4;ne	1
+多明哥	duo1;xx ming2;oo ge1;kk	69
+多明戈	duo1;xx ming2;oo ge1;yd	62
 鄂靖文	e4;xe jing4;lo wen2;wx	15
+恩格尔	en1;yx ge2;ak er3;dx	57
 尔冬升	er3;dx dong1;wd sheng1;pc	446
 二宫光	er4;aa gong1;bk guang1;xe	10
 二驴的	er4;aa lv2;mh de5;bu	30
+法雷尔	fa3;dq lei2;yt er3;dx	47
+法瑞尔	fa3;dq rui4;we er3;dx	47
 范冰冰	fan4;cv bing1;du bing1;du	3206
 范丞丞	fan4;cv cheng2;la cheng2;la	144
 范楚绒	fan4;cv chu3;az rong2;su	16
+饭岛爱	fan4;uy dao3;nu ai4;vy	50
 樊光耀	fan2;ad guang1;xe yao4;gv	374
 范哈哈	fan4;cv ha1;kk ha1;kk	37
 范鸿轩	fan4;cv hong2;dn xvan1;ig	382
@@ -3382,16 +3410,20 @@ sort: by_weight
 方逸伦	fang1;wv yi4;zt lun2;rl	137
 房映华	fang2;hf ying4;oy hua2;ru	22
 方媛媛	fang1;wv yvan4;ny yvan4;ny	15
+方中信	fang1;wv zhong1;kl xin4;rk	31
 房子斌	fang2;hf zi5;la bin1;wv	248
 方子哥	fang1;wv zi5;la ge1;kk	356
 房祖名	fang2;hf zu3;pq ming2;xk	433
+费雷尔	fei4;fb lei2;yt er3;dx	72
 费立纬	fei4;fb li4;wb wei3;sw	22
 费南多	fei4;fb nan2;ug duo1;xx	63
 费启鸣	fei4;fb qi3;hk ming2;kn	16
 费沁源	fei4;fb qin4;dx yvan2;dx	540
 费伟妮	fei4;fb wei3;rw ni1;nb	415
+费雯丽	fei4;fb wen2;yw li4;ad	184
 妃悠爱	fei1;nj you1;rx ai4;vy	10
 费玉清	fei4;fb yv4;wd qing1;do	1347
+费贞绫	fei4;fb zhen1;bb ling2;sw	57
 费振翔	fei4;fb zhen4;fi xiang2;yx	3
 冯宝宝	feng2;dm bao3;by bao5;by	110
 冯宝华	feng2;dm bao3;by hua2;ru	112
@@ -3453,10 +3485,12 @@ sort: by_weight
 傅锦华	fu4;rc jin3;jj hua2;ru	22
 付兰兰	fu4;rc lan2;bs lan2;bs	270
 傅丽莉	fu4;rc li4;ad li4;cd	190
+弗里曼	fu2;gl li3;tt man4;oy	543
 付梦妮	fu4;rc meng4;ax ni1;nb	414
 伏明霞	fu2;rq ming2;oo xia2;yy	672
 付蓉儿	fu4;rc rong2;cg er2;pv	12
 付瑞亭	fu4;rc rui4;we ting2;wd	16
+福山润	fu2;pt shan1;kl run4;dw	22
 傅首尔	fu4;rc shou3;bz er3;dx	414
 傅姝阳	fu4;rc shu1;nw yang2;eo	12
 付思琪	fu4;rc si1;tx qi2;wb	153
@@ -3475,6 +3509,7 @@ sort: by_weight
 傅羽佳	fu4;rc yv3;xx jia1;rt	12
 付玉龙	fu4;rc yv4;wd long2;yp	230
 傅园慧	fu4;rc yvan2;wy hui4;fx	402
+福原遥	fu2;pt yvan2;ix yao2;zf	3
 傅子恩	fu4;rc zi3;la en1;yx	333
 干露露	gan1;au lu4;yk lu4;yk	662
 甘璐铭	gan1;ca lu4;wk ming2;jk	12
@@ -3483,22 +3518,27 @@ sort: by_weight
 绀野光	gan4;sg ye3;ly guang1;xe	10
 甘昀宸	gan1;ca yvn2;oy chen2;bi	33
 刚小希	gang1;kd xiao3;lb xi1;xj	33
+高百岁	gao1;wk bai3;ab sui4;ux	6
 高宝宝	gao1;wk bao3;by bao5;by	760
 高仓健	gao1;wk cang1;rv jian4;ry	116
 高昌昊	gao1;wk chang1;oo hao4;ot	16
 高昌锡	gao1;wk chang1;oo xi1;jw	306
 高承一	gao1;wk cheng2;ln yi1;aa	12
 高地平	gao1;wk di4;ty ping2;au	215
+高斗心	gao1;wk dou4;ud xin1;dd	6
 高凤山	gao1;wk feng4;jy shan1;kl	338
 高歌铃	gao1;wk ge1;kq ling2;js	15
+高翰文	gao1;wk han4;ux wen2;wx	38
 高瀚宇	gao1;wk han4;dx yv3;by	44
 高浩元	gao1;wk hao4;dk yvan2;aw	15
+高鹤彩	gao1;wk he4;bn cai3;vp	205
 高赫迪	gao1;wk he4;ii di2;zy	1
 高赫一	gao1;wk he4;ii yi1;aa	30
 高慧君	gao1;wk hui4;fx jvn1;yk	450
 高火火	gao1;wk huo3;br huo3;br	15
 高基才	gao1;wk ji1;ct cai2;up	15
 高嘉朗	gao1;wk jia1;tk lang3;lo	26
+高九成	gao1;wk jiu3;pv cheng2;gv	35
 高俊熙	gao1;wk jvn4;rw xi1;ih	19
 高钧贤	gao1;wk jvn1;jy xian2;lb	353
 高君雨	gao1;wk jvn1;yk yv3;ad	19
@@ -3506,6 +3546,7 @@ sort: by_weight
 高兰村	gao1;wk lan2;bs cun1;ac	37
 高丽虹	gao1;wk li2;ad hong2;ig	387
 高林生	gao1;wk lin2;aa sheng1;pf	238
+高凌风	gao1;wk ling2;dw feng1;jx	22
 高珑珂	gao1;wk long2;wl ke1;wk	126
 高鲁泉	gao1;wk lu3;yo qvan2;bu	284
 高曼尔	gao1;wk man4;oy er3;dx	12
@@ -3514,10 +3555,17 @@ sort: by_weight
 高旻睿	gao1;wk min2;ow rui4;bo	202
 高明娥	gao1;wk ming2;oo e2;nw	35
 高明骏	gao1;wk ming2;oo jvn4;mw	9
+高木涉	gao1;wk mu4;ur she4;du	60
 高启帆	gao1;wk qi3;hk fan1;jf	12
+高桥南	gao1;wk qiao2;al nan2;ug	60
+高桥努	gao1;wk qiao2;al nu3;nl	19
+高桥瞳	gao1;wk qiao2;al tong2;ol	6
+高庆奎	gao1;wk qing4;gd kui2;dt	53
 高秋梓	gao1;wk qiu1;hh zi3;ax	15
 高仁河	gao1;wk ren2;re he2;dk	189
 高容方	gao1;wk rong2;bg fang1;wv	12
+高山南	gao1;wk shan1;kl nan2;ug	47
+高胜美	gao1;wk sheng4;ou mei3;yd	60
 高圣远	gao1;wk sheng4;yt yvan3;zy	716
 高诗岩	gao1;wk shi1;yc yan2;uu	319
 高曙光	gao1;wk shu3;oo guang1;xe	6
@@ -3533,15 +3581,18 @@ sort: by_weight
 高希希	gao1;wk xi1;xj xi1;xj	166
 高晓攀	gao1;wk xiao3;ow pan1;au	41
 高晓松	gao1;wk xiao3;ow song1;ag	4019
+高秀敏	gao1;wk xiu4;hn min3;pw	35
 高旭阳	gao1;wk xv4;jo yang2;eo	12
 郜玄铭	gao4;ne xvan2;wy ming2;jk	12
 高雪逸	gao1;wk xve3;ye yi4;zt	12
 高压郭	gao1;wk ya1;id guo1;we	3
 高亚麟	gao1;wk ya4;ay lin2;gf	66
 高娅媛	gao1;wk ya4;ny yvan4;ny	279
+高耀太	gao1;wk yao4;gv tai4;dd	9
 高逸峰	gao1;wk yi4;zt feng1;uf	302
 高一清	gao1;wk yi4;aa qing1;do	118
 高一玮	gao1;wk yi1;aa wei3;ww	18
+高以翔	gao1;wk yi3;lr xiang2;yx	274
 高英培	gao1;wk ying1;cy pei2;tk	31
 高颖浠	gao1;wk ying3;bh xi1;dj	18
 高英轩	gao1;wk ying1;cy xvan1;ig	374
@@ -3550,6 +3601,7 @@ sort: by_weight
 高玉玺	gao1;wk yv4;wd xi3;dy	12
 高宇蓁	gao1;wk yv3;by zhen1;ch	306
 高源婧	gao1;wk yvan2;dx jing4;no	133
+高元钧	gao1;wk yvan2;aw jvn1;jy	3
 高圆圆	gao1;wk yvan2;wb yvan2;wb	851
 高云翔	gao1;wk yvn2;ag xiang2;yx	747
 高占全	gao1;wk zhan4;bw qvan2;rw	35
@@ -3560,10 +3612,12 @@ sort: by_weight
 高准翼	gao1;wk zhun3;dv yi4;xg	141
 高梓淇	gao1;wk zi3;ax qi2;db	531
 高梓添	gao1;wk zi3;ax tian1;dx	12
+葛存壮	ge2;cr cun2;uz zhuang4;lt	6
 葛荟婕	ge2;cr hui4;cy jie2;nz	85
 盖叫天	ge3;ym jiao4;kj tian1;ad	28
 盖丽丽	ge3;ym li4;ad li4;ad	3
 葛曼棋	ge2;cr man4;oy qi2;ab	9
+葛民辉	ge2;cr min2;vv hui1;gi	50
 葛珊珊	ge2;cr shan1;wc shan1;wc	116
 葛司琪	ge2;cr si1;vk qi2;wb	12
 葛思然	ge2;cr si1;tx ran2;xh	16
@@ -3584,16 +3638,21 @@ sort: by_weight
 耿业庭	geng3;eh ye4;la ting2;gw	12
 耿一智	geng3;eh yi1;aa zhi4;uo	1
 龚蓓苾	gong1;lg bei4;ck bi4;cb	3
+龚慈恩	gong1;lg ci2;bx en1;yx	9
 龚芳妮	gong1;lg fang1;cf ni1;nb	12
 功夫胖	gong1;gl fu5;er pang4;ob	279
+龚格尔	gong1;lg ge2;ak er3;dx	141
 巩汉林	gong3;gf han4;dy lin2;aa	100
+龚嘉欣	gong1;lg jia1;tk xin1;iq	19
 龚锦堂	gong1;lg jin3;jj tang2;xt	12
 巩立姣	gong3;gf li4;wb jiao1;nf	386
 龚丽君	gong1;lg li4;ad jvn1;yk	171
 龚琳娜	gong1;lg lin2;wa na4;ne	868
 龚美琪	gong1;lg mei3;yd qi2;wb	12
+宫崎葵	gong1;bk qi2;uk kui2;ct	63
 巩容尔	gong3;gf rong2;bg er3;dx	12
 龚诗淇	gong1;lg shi1;yc qi2;db	380
+恭硕良	gong1;gx shuo4;uy liang2;dg	201
 宫苏纹	gong1;bk su1;cb wen2;sw	12
 巩天阔	gong3;gf tian1;ad kuo4;mu	220
 龚婉怡	gong1;lg wan3;nv yi2;xk	216
@@ -3605,6 +3664,7 @@ sort: by_weight
 巩小榕	gong3;gf xiao3;lb rong2;ag	12
 宫晓瑄	gong1;bk xiao3;ow xvan1;wd	126
 巩新亮	gong3;gf xin1;lt liang4;wj	13
+宫雪花	gong1;bk xve3;ye hua1;cb	3
 龚雨诗	gong1;lg yv3;ad shi1;yc	1
 龚玥菲	gong1;lg yve4;wo fei1;cf	374
 宫正楠	gong1;bk zheng4;av nan2;ag	12
@@ -3613,6 +3673,8 @@ sort: by_weight
 句兆杰	gou1;bk zhao4;ed jie2;ah	50
 谷爱凌	gu3;bk ai4;vy ling2;dw	2776
 顾长卫	gu4;iy chang2;pn wei4;ea	257
+谷德昭	gu3;bk de2;rx zhao1;ok	44
+古谷彻	gu3;uk gu3;bk che4;rd	9
 顾冠忠	gu4;iy guan1;bc zhong1;vx	396
 古广明	gu3;uk guang3;di ming2;oo	346
 谷昊峰	gu3;bk hao4;ot feng1;uf	12
@@ -3621,11 +3683,14 @@ sort: by_weight
 顾嘉壹	gu4;iy jia1;tk yi1;tb	12
 谷建芬	gu3;bk jian4;zy fen1;cf	144
 谷江山	gu3;bk jiang1;dg shan1;kl	50
+古巨基	gu3;uk jv4;kk ji1;ct	499
 顾珂嘉	gu4;iy ke1;wk jia1;tk	12
 顾莉雅	gu4;iy li4;cd ya3;yv	6
 古铭瀚	gu3;uk ming2;jk han4;dx	12
+古明华	gu3;uk ming2;oo hua2;ru	6
 顾书齐	gu4;iy shu1;vd qi2;wl	12
 顾天航	gu4;iy tian1;ad hang2;vj	12
+古天乐	gu3;uk tian1;ad le4;px	1674
 谷文泽	gu3;bk wen2;wx ze2;df	133
 顾香君	gu4;iy xiang1;ho jvn1;yk	15
 古小月	gu3;uk xiao3;lb yve4;ke	15
@@ -3634,8 +3699,17 @@ sort: by_weight
 顾语涵	gu4;iy yv3;yk han2;du	16
 谷智鑫	gu3;bk zhi4;uo xin1;jj	6
 古子成	gu3;uk zi3;la cheng2;gv	1
+关宝慧	guan1;bt bao3;by hui4;fx	6
+关楚耀	guan1;bt chu3;az yao4;gv	13
+关德兴	guan1;bt de2;rx xing1;xb	135
+官恩娜	guan1;bl en1;yx na4;ne	6
+关海山	guan1;bt hai3;dm shan1;kl	16
 关慧卿	guan1;bt hui4;fx qing1;pg	15
+关继威	guan1;bt ji4;sm wei1;gn	16
 管金麟	guan3;vl jin1;rb lin2;gf	15
+官晶华	guan1;bl jing1;oo hua2;ru	25
+关菊英	guan1;bt jv2;cm ying1;cy	25
+关礼杰	guan1;bt li3;pv jie2;ah	87
 关牧村	guan1;bt mu4;nw cun1;ac	615
 关少曾	guan1;bt shao3;xp ceng2;bo	337
 关诗敏	guan1;bt shi1;yc min3;pw	31
@@ -3653,8 +3727,10 @@ sort: by_weight
 关晓彤	guan1;bt xiao3;ow tong2;dp	509
 关信辉	guan1;bt xin4;rk hui1;gi	350
 关心妍	guan1;bt xin1;dd yan2;nk	644
+官秀昌	guan1;bl xiu4;hn chang1;oo	66
 关学曾	guan1;bt xve2;xz ceng2;bo	118
 关雪盈	guan1;bt xve3;ye ying2;nm	16
+关咏荷	guan1;bt yong3;ky he2;ck	38
 管云鹏	guan3;vl yvn2;ag peng2;on	15
 关正杰	guan1;bt zheng4;av jie2;ah	19
 关智斌	guan1;bt zhi4;uo bin1;wv	19
@@ -3663,7 +3739,10 @@ sort: by_weight
 关智一	guan1;bt zhi4;uo yi1;aa	25
 管梓净	guan3;vl zi3;ax jing4;dy	12
 广濑莲	guang3;di lai4;db lian2;ci	10
+广濑铃	guang3;di lai4;db ling2;js	6
 桂晶晶	gui4;at jing1;oo jing1;oo	40
+桂纶镁	gui4;at lun2;sl mei3;jd	735
+归亚蕾	gui1;le ya4;ay lei3;ct	28
 桂雨濛	gui4;at yv3;ad meng2;du	22
 郭艾伦	guo1;we ai4;cx lun2;rl	25033
 郭蔼明	guo1;we ai3;cr ming2;oo	264
@@ -3754,6 +3833,8 @@ sort: by_weight
 郭子千	guo1;we zi3;la qian1;pu	35
 郭子溪	guo1;we zi3;la xi1;dd	1
 郭子渝	guo1;we zi3;la yv2;dd	12
+哈克曼	ha3;kk ke4;ux man4;oy	31
+海瑟薇	hai3;dm se4;wb wei1;cj	641
 韩安冉	han2;uw an1;bn ran3;kt	2316
 韩安旭	han2;uw an1;bn xv4;jo	22
 韩承羽	han2;uw cheng2;ln yv3;xx	516
@@ -3773,6 +3854,7 @@ sort: by_weight
 韩菁清	han2;uw jing1;co qing1;do	718
 韩玖诺	han2;uw jiu3;wj nuo4;yk	18
 韩君婷	han2;uw jvn1;yk ting2;nd	3
+汉克斯	han4;dy ke4;ux si1;ct	468
 韩马利	han2;uw ma3;va li4;hd	464
 韩沐伯	han2;uw mu4;da bo2;rb	216
 韩沛颖	han2;uw pei4;dj ying3;bh	12
@@ -3822,8 +3904,10 @@ sort: by_weight
 何冰娇	he2;rk bing1;du jiao1;nl	9
 何超仪	he2;rk chao1;tk yi2;ry	35
 何晟铭	he2;rk cheng2;oi ming2;jk	738
+河成云	he2;dk cheng2;gv yvn2;ag	9
 何聪睿	he2;rk cong1;ex rui4;bo	12
 何丹彤	he2;rk dan1;kd tong2;dp	12
+河东勋	he2;dk dong1;ax xvn1;kl	6
 何杜娟	he2;rk du4;at jvan1;no	1212
 何非凡	he2;rk fei1;ls fan2;jd	15
 何奉天	he2;rk feng4;if tian1;ad	2426
@@ -3885,6 +3969,8 @@ sort: by_weight
 何云伟	he2;rk yvn2;ag wei3;rw	267
 何泽远	he2;rk ze2;df yvan3;zy	15
 何政军	he2;rk zheng4;vw jvn1;bi	418
+河正宇	he2;dk zheng4;av yv3;by	283
+河智苑	he2;dk zhi4;uo yvan4;cv	47
 何之舟	he2;rk zhi1;dn zhou1;pd	15
 何中华	he2;rk zhong1;kl hua2;ru	536
 何子君	he2;rk zi3;la jvn1;yk	916
@@ -3892,6 +3978,7 @@ sort: by_weight
 何子然	he2;rk zi3;la ran2;xh	15
 黑川堇	hei1;lh chuan1;pl jin3;cw	10
 黑婧环	hei1;lh jing4;no huan2;wb	26
+黑木瞳	hei1;lh mu4;ur tong2;ol	16
 黑石稔	hei1;lh shi2;ak ren3;hx	162
 洪百榕	hong2;dg bai3;ab rong2;ag	238
 洪冰瑶	hong2;dg bing1;du yao2;wf	116
@@ -3950,6 +4037,7 @@ sort: by_weight
 侯梦莎	hou2;ru meng4;ax sha1;cu	468
 侯梦瑶	hou2;ru meng4;ax yao2;wf	256
 侯明昊	hou2;ru ming2;oo hao4;ot	19
+侯佩岑	hou2;ru pei4;rj cen2;uv	565
 侯佩杉	hou2;ru pei4;rj shan1;ap	12
 侯瑞清	hou2;ru rui4;we qing1;do	12
 侯瑞祥	hou2;ru rui4;we xiang2;py	15
@@ -3960,14 +4048,17 @@ sort: by_weight
 侯玮涛	hou2;ru wei3;ww tao1;dc	12
 侯雯元	hou2;ru wen2;yw yvan2;aw	12
 侯祥玲	hou2;ru xiang2;py ling2;ws	310
+侯湘婷	hou2;ru xiang1;do ting2;nd	47
 侯晓童	hou2;ru xiao3;ow tong2;ll	12
 侯孝贤	hou2;ru xiao4;lz xian2;lb	1674
 侯耀华	hou2;ru yao4;gv hua2;ru	28
 侯耀文	hou2;ru yao4;gv wen2;wx	361
 侯伊荻	hou2;ru yi1;ry di2;ch	30
+侯永斌	hou2;ru yong3;du bin1;wv	119
 侯永生	hou2;ru yong3;du sheng1;pf	243
 侯永永	hou2;ru yong3;du yong3;du	69
 侯瑜畅	hou2;ru yv2;wd chang4;up	12
+侯跃文	hou2;ru yve4;zy wen2;wx	6
 侯振鹏	hou2;ru zhen4;fi peng2;on	16
 侯志慧	hou2;ru zhi4;tx hui4;fx	405
 侯祖辛	hou2;ru zu3;pq xin1;lu	288
@@ -3978,6 +4069,7 @@ sort: by_weight
 胡冰卿	hu2;go bing1;du qing1;pg	22
 胡彩虹	hu2;go cai3;vp hong2;ig	15
 胡晨曦	hu2;go chen2;oi xi1;ok	15
+户川纯	hu4;du chuan1;pl chun2;st	38
 胡春杨	hu2;go chun1;io yang2;ap	15
 胡春勇	hu2;go chun1;io yong3;sl	12
 胡丹丹	hu2;go dan1;kd dan1;kd	482
@@ -4026,6 +4118,7 @@ sort: by_weight
 呼斯楞	hu1;kh si1;ct leng2;af	356
 胡思奕	hu2;go si1;tx yi4;wd	12
 胡松华	hu2;go song1;ag hua2;ru	6
+户松遥	hu4;du song1;ag yao2;zf	9
 胡桃樱	hu2;go tao2;av ying1;an	10
 扈天翼	hu4;hb tian1;ad yi4;xg	12
 胡天渝	hu2;go tian1;ad yv2;dd	12
@@ -4187,6 +4280,7 @@ sort: by_weight
 黄礼格	huang2;cb li3;pv ge2;ak	378
 黄丽玲	huang2;cb li4;ad ling2;ws	91
 黄黎明	huang2;cb li2;hu ming2;oo	392
+黄立行	huang2;cb li4;wb xing2;rd	22
 黄丽星	huang2;cb li4;ad xing1;ou	20
 黄礼志	huang2;cb li3;pv zhi4;tx	163
 黄良升	huang2;cb liang2;dg sheng1;pc	333
@@ -4212,10 +4306,10 @@ sort: by_weight
 黄明升	huang2;cb ming2;oo sheng1;pc	261
 黄名伟	huang2;cb ming2;xk wei3;rw	243
 黄铭正	huang2;cb ming2;jk zheng4;av	129
-黄铭正	huang2;cb ming2;jk zheng4;av
 黄姵嘉	huang2;cb pei4;nj jia1;tk	364
 黄佩霞	huang2;cb pei4;rj xia2;yy	234
 黄品冠	huang2;cb pin3;kk guan1;bc	297
+黄品源	huang2;cb pin3;kk yvan2;dx	35
 黄品沅	huang2;cb pin3;kk yvan2;dy	32
 黄启昌	huang2;cb qi3;hk chang1;oo	603
 黄绮琳	huang2;cb qi3;sk lin2;wa	297
@@ -4229,6 +4323,7 @@ sort: by_weight
 黄日莹	huang2;cb ri4;wa ying2;cy	12
 黄若元	huang2;cb ruo4;ck yvan2;aw	12
 黄莎莉	huang2;cb sha1;cu li4;cd	236
+荒山亮	huang1;ci shan1;kl liang4;wj	6
 黄珊珊	huang2;cb shan1;wc shan1;wc	3
 黄珊汕	huang2;cb shan1;wc shan4;du	2
 黄山寿	huang2;cb shan1;kl shou4;fc	220
@@ -4379,6 +4474,7 @@ sort: by_weight
 黄云歆	huang2;cb yvn2;ag xin1;lq	212
 黄泽锋	huang2;cb ze2;df feng1;jf	338
 黄兆函	huang2;cb zhao4;ed han2;ku	12
+皇贞季	huang2;bw zhen1;bb ji4;hz	44
 黄甄妮	huang2;cb zhen1;xw ni1;nb	270
 黄真真	huang2;cb zhen1;ub zhen1;ub	432
 黄政皓	huang2;cb zheng4;vw hao4;bk	12
@@ -4421,6 +4517,7 @@ sort: by_weight
 黄祖权	huang2;cb zu3;pq qvan2;ay	464
 惠若琪	hui4;ix ruo4;ck qi2;wb	568
 惠王军	hui4;ix wang2;at jvn1;bi	12
+惠英红	hui4;ix ying1;cy hong2;sg	427
 灰原穷	hui1;uh yvan2;ix qiong2;bl	26
 霍建华	huo4;yv jian4;zy hua2;ru	298
 霍建起	huo4;yv jian4;zy qi3;tj	450
@@ -4528,6 +4625,7 @@ sort: by_weight
 简慕华	jian3;vo mu4;cx hua2;ru	369
 简沛恩	jian3;vo pei4;dj en1;yx	315
 菅纫姿	jian1;cl ren4;sd zi1;dn	360
+菅韧姿	jian1;cl ren4;wd zi1;dn	209
 简淑儿	jian3;vo shu1;dy er2;pv	364
 简廷芮	jian3;vo ting2;zw rui4;cn	324
 简自豪	jian3;vo zi4;po hao2;wu	414
@@ -4647,9 +4745,7 @@ sort: by_weight
 焦曼婷	jiao1;rh man4;oy ting2;nd	212
 焦圣祥	jiao1;rh sheng4;yt xiang2;py	12
 杰克曼	jie2;ah ke4;ux man4;oy	819
-杰克曼	jie2;ah ke4;ux man4;oy	160
 杰克逊	jie2;ah ke4;ux xvn4;zx	3118
-杰克逊	jie2;ah ke4;ux xvn4;zx	171
 堺雅人	jie4;tj ya3;yv ren2;pn	703
 皆月光	jie1;bb yve4;ke guang1;xe	10
 金宝拉	jin1;rb bao3;by la1;fl	3
@@ -4695,7 +4791,6 @@ sort: by_weight
 金高银	jin1;rb gao1;wk yin2;jg	104
 金贵晟	jin1;rb gui4;vb cheng2;oi	1122
 金龟子	jin1;rb gui1;dd zi3;la	144
-金龟子	jin1;rb gui1;dd zi3;la	76
 金海淑	jin1;rb hai3;dm shu1;dy	378
 金海心	jin1;rb hai3;dm xin1;dd	44
 金海星	jin1;rb hai3;dm xing1;ou	274
@@ -5034,6 +5129,13 @@ sort: by_weight
 崛川亮	jve2;ui chuan1;pl liang4;wj	4
 卡奇社	ka3;ub qi2;dk she4;pt	19
 卡斯柏	ka3;ub si1;ct bai3;ab	22
+凯莉安	kai3;uj li4;cd an1;bn	450
+凯莉包	kai3;uj li4;cd bao1;bs	3
+凯莉库	kai3;uj li4;cd ku4;gi	410
+凯莉麦	kai3;uj li4;cd mai4;fw	436
+凯莉墨	kai3;uj li4;cd mo4;lt	266
+凯莉山	kai3;uj li4;cd shan1;kl	315
+凯莉亚	kai3;uj li4;cd ya4;ay	220
 阚犇犇	kan4;mw ben1;nn ben1;nn	12
 阚立文	kan4;mw li4;wb wen2;wx	306
 阚清子	kan4;mw qing1;do zi3;la	60
@@ -5061,8 +5163,19 @@ sort: by_weight
 柯昌宇	ke1;ak chang1;oo yv3;by	12
 柯佳嬿	ke1;ak jia1;rt yan4;nh	482
 柯俊雄	ke1;ak jvn4;rw xiong2;uv	13
+柯克兰	ke1;ak ke4;ux lan2;bs	433
+柯克曼	ke1;ak ke4;ux man4;oy	423
+柯克斯	ke1;ak ke4;ux si1;ct	63
+柯克亚	ke1;ak ke4;ux ya4;ay	5
 克兰西	ke4;ux lan2;bs xi1;ak	22
+克里木	ke4;ux li3;tt mu4;ur	45
+克鲁斯	ke4;ux lu3;yo si1;ct	788
+柯暮卿	ke1;ak mu4;co qing1;pg	25
 柯乃予	ke1;ak nai3;pv yv3;sl	12
+柯受良	ke1;ak shou4;vy liang2;dg	186
+柯以敏	ke1;ak yi3;lr min3;pw	41
+柯有伦	ke1;ak you3;uo lun2;rl	44
+柯震东	ke1;ak zhen4;yi dong1;ax	418
 孔二狗	kong3;zv er4;aa gou3;qj	113
 孔连顺	kong3;zv lian2;zi shun4;iy	82
 孔令令	kong3;zv ling4;rs ling4;rs	22
@@ -5081,11 +5194,18 @@ sort: by_weight
 寇振海	kou4;by zhen4;fi hai3;dm	6
 寇智国	kou4;by zhi4;uo guo2;wy	12
 堀北湾	ku1;ti bei3;lb wan1;dg	10
+堀川亮	ku1;ti chuan1;pl liang4;wj	3
+库萨克	ku4;gi sa4;ci ke4;ux	22
+堀秀行	ku1;ti xiu4;hn xing2;rd	6
+邝美云	kuang4;ge mei3;yd yvn2;ag	57
 况明洁	kuang4;dx ming2;oo jie2;dk	12
 匡牧野	kuang1;kw mu4;nw ye3;ly	12
 邝晓彤	kuang4;ge xiao3;ow tong2;dp	12
 邝祖乐	kuang4;ge zu3;pq le4;px	12
 葵伊吹	kui2;ct yi1;ry chui1;kq	10
+拉博夫	la1;fl bo2;uc fu1;er	353
+赖冠霖	lai4;ub guan1;bc lin2;ya	31
+赖琳恩	lai4;ub lin2;wa en1;yx	3
 赖美云	lai4;ub mei3;yd yvn2;ag	25
 濑名步	lai4;db ming2;xk bu4;vu	10
 濑名光	lai4;db ming2;xk guang1;xe	10
@@ -5095,15 +5215,20 @@ sort: by_weight
 赖晓生	lai4;ub xiao3;ow sheng1;pf	15
 赖亚文	lai4;ub ya4;ay wen2;wx	75
 赖雨濛	lai4;ub yv3;ad meng2;du	7
+兰比尔	lan2;bs bi3;bb er3;dx	236
 兰昊宇	lan2;bs hao4;ot yv3;by	12
+蓝洁瑛	lan2;cm jie2;dk ying1;wy	100
 蓝曼予	lan2;cm man4;oy yv3;sl	12
 蓝琪儿	lan2;cm qi2;wb er2;pv	1
 蓝天野	lan2;cm tian1;ad ye3;ly	433
 兰西雅	lan2;bs xi1;ak ya3;yv	274
+蓝心湄	lan2;cm xin1;dd mei2;do	25
 蓝心羽	lan2;cm xin1;dd yv3;xx	22
+蓝奕邦	lan2;cm yi4;wd bang1;fe	72
 蓝盈莹	lan2;cm ying2;nm ying2;cy	129
 蓝又时	lan2;cm you4;vn shi2;to	26
 郎鹤炎	lang2;le he4;bn yan2;hh	72
+郎鹤焱	lang2;le he4;bn yan4;hh	65
 郎永淳	lang2;le yong3;du chun2;dz	116
 郎月婷	lang2;le yve4;ke ting2;nd	346
 郎祖筠	lang2;le zu3;pq yvn2;vy	418
@@ -6140,7 +6265,6 @@ sort: by_weight
 伦永亮	lun2;rl yong3;du liang4;wj	69
 骆达华	luo4;mk da2;zd hua2;ru	6
 罗大佑	luo2;sx da4;ar you4;rk	5988
-罗大佑	luo2;sx da4;ar you4;rk	4790
 罗殿夏	luo2;sx dian4;uu xia4;bw	12
 骆非池	luo4;mk fei1;ls chi2;dy	16
 罗光旭	luo2;sx guang1;xe xv4;jo	12
@@ -6550,6 +6674,7 @@ sort: by_weight
 牛青峰	niu2;pu qing1;fo feng1;uf	18
 牛欣欣	niu2;pu xin1;iq xin1;iq	238
 牛玉坤	niu2;pu yv4;wd kun1;tu	37
+牛雨田	niu2;pu yv3;ad tian2;wu	6
 牛振华	niu2;pu zhen4;fi hua2;ru	3
 牛子藩	niu2;pu zi5;la fan1;ct	26
 糯美子	nuo4;me mei3;yd zi3;la	12
@@ -6847,6 +6972,7 @@ sort: by_weight
 钱惠丽	qian2;jj hui4;ix li4;ad	326
 钱嘉乐	qian2;jj jia1;tk le4;px	119
 钱门超	qian2;jj men2;dv chao1;tk	12
+千奈美	qian1;pu nai4;du mei3;yd	192
 钱谦益	qian2;jj qian1;yj yi4;bm	301
 钱思剑	qian2;jj si1;tx jian4;qd	16
 钱太后	qian2;jj tai4;dd hou4;ik	207
@@ -6885,6 +7011,7 @@ sort: by_weight
 郄路通	qie4;xe lu4;zk tong1;zy	16
 茄子蛋	qie2;ck zi5;la dan4;zi	28
 秦伯坤	qin2;ih bo2;rb kun1;tu	12
+琴葛蕾	qin2;wv ge2;cr lei3;ct	41
 秦海璐	qin2;ih hai3;dm lu4;wk	242
 秦海清	qin2;ih hai3;dm qing1;do	12
 覃海洋	qin2;xu hai3;dm yang2;dy	279
@@ -6909,6 +7036,7 @@ sort: by_weight
 青空光	qing1;fo kong1;bg guang1;xe	10
 青山葵	qing1;fo shan1;kl kui2;ct	238
 清水爱	qing1;do shui3;ln ai4;vy	482
+青小蛙	qing1;fo xiao3;lb wa1;it	3
 青野武	qing1;fo ye3;ly wu3;gv	3
 青钰雯	qing1;fo yv4;jy wen2;yw	328
 琼艾伦	qiong2;wx ai4;cx lun2;rl	243
@@ -6956,6 +7084,7 @@ sort: by_weight
 屈柏宇	qv1;ui bai3;ab yv3;by	12
 屈楚萧	qv1;ui chu3;az xiao1;cb	662
 曲迪娜	qv1;wc di2;zy na4;ne	12
+曲家瑞	qv1;wc jia1;bu rui4;we	50
 屈菁菁	qv1;ui jing1;co jing1;co	374
 屈菁箐	qv1;ui jing1;co qing4;vo	12
 曲隽希	qv1;wc jvan4;rn xi1;xj	1135
@@ -6977,6 +7106,7 @@ sort: by_weight
 全宝蓝	qvan2;rw bao3;by lan2;cm	315
 全度妍	qvan2;rw du4;gy yan2;nk	35
 权恩妃	qvan2;ay en1;yx fei1;nj	9
+权海骁	qvan2;ay hai3;dm xiao1;mw	3
 权赫秀	qvan2;ay he4;ii xiu4;hn	234
 全慧彬	qvan2;rw hui4;fx bin1;ap	3
 全慧珍	qvan2;rw hui4;fx zhen1;wp	16
@@ -6998,6 +7128,7 @@ sort: by_weight
 全昭珉	qvan2;rw zhao1;ok min2;wm	2
 权振东	qvan2;ay zhen4;fi dong1;ax	50
 权志龙	qvan2;ay zhi4;tx long2;yp	653
+全智贤	qvan2;rw zhi4;uo xian2;lb	283
 全钟瑞	qvan2;rw zhong1;jv rui4;we	9
 冉莹颖	ran3;kt ying2;cy ying3;bh	122
 饶天亮	rao2;uw tian1;ad liang4;wj	364
@@ -7018,6 +7149,7 @@ sort: by_weight
 任剑辉	ren2;rw jian4;qd hui1;gi	35
 任骏飞	ren2;rw jvn4;mw fei1;vd	426
 任柯诺	ren2;rw ke1;ak nuo4;yk	515
+任陆军	ren2;rw lu4;ej jvn1;bi	16
 任洛敏	ren2;rw luo4;dk min3;pw	12
 任妙音	ren2;rw miao4;nu yin1;lo	316
 任铭松	ren2;rw ming2;jk song1;ag	12
@@ -7069,17 +7201,20 @@ sort: by_weight
 萨钢云	sa4;ci gang1;jx yvn2;ag	12
 萨日朗	sa4;ci ri4;wa lang3;lo	315
 萨日娜	sa4;ci ri4;wa na4;ne	13
+赛琳娜	sai4;bb lin2;wa na4;ne	901
 三宫椿	san1;ae gong1;bk chun1;ao	10
 三上哲	san1;ae shang4;ba zhe2;fk	333
 三田杏	san1;ae tian2;wu xing4;ak	99
 三田樱	san1;ae tian2;wu ying1;an	10
 三尾惠	san1;ae wei3;um hui4;ix	10
+桑德勒	sang1;ya de2;rx le4;cl	25
 桑茗胜	sang1;ya ming2;ck sheng4;ou	12
 桑叶红	sang1;ya ye4;ku hong2;sg	15
 森昌子	sen1;aa chang1;oo zi3;la	405
 森川葵	sen1;aa chuan1;pl kui2;ct	333
 森光子	sen1;aa guang1;xe zi3;la	356
 森林北	sen1;aa lin2;aa bei3;lb	222
+森美兰	sen1;aa mei3;yd lan2;bs	711
 森气楼	sen1;aa qi4;pv lou2;an	248
 森田刚	sen1;aa tian2;wu gang1;kd	441
 森香织	sen1;aa xiang1;ho zhi1;sv	328
@@ -7563,8 +7698,14 @@ sort: by_weight
 孙祖君	sun1;zx zu3;pq jvn1;yk	16
 索宝莉	suo3;ux bao3;by li4;cd	12
 塔斯肯	ta3;tk si1;ct ken3;vo	482
+邰丽华	tai2;se li4;ad hua2;ru	3
+邰正宵	tai2;se zheng4;av xiao1;bo	38
+邰智源	tai2;se zhi4;uo yvan2;dx	6
+谭炳文	tan2;yu bing3;hn wen2;wx	3
 谭非翎	tan2;yu fei1;ls ling2;rx	18
+谭富英	tan2;yu fu4;bt ying1;cy	157
 檀健次	tan2;ad jian4;ry ci4;dq	25
+谭杰希	tan2;yu jie2;ah xi1;xj	9
 谭靖雯	tan2;yu jing4;lo wen2;yw	15
 谭兰卿	tan2;yu lan2;bs qing1;pg	310
 谭琍敏	tan2;yu li2;wd min3;pw	12
@@ -7603,11 +7744,14 @@ sort: by_weight
 谭宗尧	tan2;yu zong1;bu yao2;yw	18
 唐安琪	tang2;gk an1;bn qi2;wb	6
 唐安麒	tang2;gk an1;bn qi2;gb	5
+汤宝如	tang1;dp bao3;by ru2;nk	28
+堂本刚	tang2;xt ben3;aa gang1;kd	110
 唐辰瀛	tang2;gk chen2;iy ying2;dn	12
 唐国强	tang2;gk guo2;wy qiang2;gi	320
 唐汉霄	tang2;gk han4;dy xiao1;yo	44
 唐鹤德	tang2;gk he4;bn de2;rx	243
 唐荭菲	tang2;gk hong2;cg fei1;cf	35
+唐季礼	tang2;gk ji4;hz li3;pv	53
 汤加丽	tang1;dp jia1;lk li4;ad	508
 汤家琦	tang1;dp jia1;bu qi2;wk	15
 唐佳怡	tang2;gk jia1;rt yi2;xk	342
@@ -7618,6 +7762,7 @@ sort: by_weight
 唐九洲	tang2;gk jiu3;pv zhou1;dv	18
 唐莉佳	tang2;gk li4;cd jia1;rt	300
 唐立淇	tang2;gk li4;wb qi2;db	504
+唐马儒	tang2;gk ma3;va ru2;re	41
 汤梦佳	tang1;dp meng4;ax jia1;rt	12
 唐培彦	tang2;gk pei2;tk yan4;wp	15
 唐绮阳	tang2;gk qi3;sk yang2;eo	356
@@ -7626,8 +7771,10 @@ sort: by_weight
 唐睿泽	tang2;gk rui4;bo ze2;df	12
 唐诗逸	tang2;gk shi1;yc yi4;zt	405
 唐诗怡	tang2;gk shi1;yc yi2;xk	1
+唐诗咏	tang2;gk shi1;yc yong3;ky	6
 唐书亚	tang2;gk shu1;vd ya4;ay	12
 唐太宗	tang2;gk tai4;dd zong1;bu	2948
+唐文龙	tang2;gk wen2;wx long2;yp	6
 唐小然	tang2;gk xiao3;lb ran2;xh	26
 唐晓天	tang2;gk xiao3;ow tian1;ad	126
 唐小喜	tang2;gk xiao3;lb xi3;tk	35
@@ -7636,49 +7783,68 @@ sort: by_weight
 唐一菲	tang2;gk yi1;aa fei1;cf	25
 唐以诺	tang2;gk yi3;lr nuo4;yk	12
 唐艺昕	tang2;gk yi4;cv xin1;ot	60
+汤盈盈	tang1;dp ying2;nm ying2;nm	13
 唐于鸿	tang2;gk yv2;au hong2;dn	12
+唐禹哲	tang2;gk yv3;pd zhe2;fk	6
 唐月华	tang2;gk yve4;ke hua2;ru	328
+唐韵笙	tang2;gk yvn4;ly sheng1;vu	13
 唐振超	tang2;gk zhen4;fi chao1;tk	12
+汤镇业	tang1;dp zhen4;jb ye4;la	22
+汤镇宗	tang1;dp zhen4;jb zong1;bu	9
 唐正东	tang2;gk zheng4;av dong1;ax	50
 唐子皓	tang2;gk zi3;la hao4;bk	1
 唐紫睿	tang2;gk zi3;vx rui4;bo	35
 汤子星	tang1;dp zi3;la xing1;ou	126
 陶波尔	tao2;ef bo1;dp er3;dx	12
 陶辰宇	tao2;ef chen2;iy yv3;by	12
+陶大宇	tao2;ef da4;ar yv3;by	47
 陶飞霏	tao2;ef fei1;vd fei1;yf	15
 陶汉林	tao2;ef han4;dy lin2;aa	1012
 陶灏景	tao2;ef hao4;dy jing3;ox	12
 陶慧敏	tao2;ef hui4;fx min3;pw	530
 陶慧娜	tao2;ef hui4;fx na4;ne	115
+陶晶莹	tao2;ef jing1;oo ying2;cy	88
 陶玲玲	tao2;ef ling2;ws ling2;ws	26
 陶珞依	tao2;ef luo4;wk yi1;ry	122
 陶思源	tao2;ef si1;tx yvan2;dx	18
 陶昕然	tao2;ef xin1;ot ran2;xh	13
+陶奕希	tao2;ef yi4;wd xi1;xj	6
 陶玉玲	tao2;ef yv4;wd ling2;ws	430
 陶钰玉	tao2;ef yv4;jy yv4;wd	22
 陶泽如	tao2;ef ze2;df ru2;nk	416
+特雷克	te4;nc lei2;yt ke4;ux	38
+特伦斯	te4;nc lun2;rl si1;ct	57
 滕爱弦	teng2;ou ai4;vy xian2;gx	12
 腾格尔	teng2;om ge2;ak er3;dx	411
 滕光正	teng2;ou guang1;xe zheng4;av	12
 藤贵子	teng2;cu gui4;vb zi3;la	1
 藤环奈	teng2;cu huan2;wb nai4;du	10
+藤井隆	teng2;cu jing3;ac long2;eu	3
+滕丽名	teng2;ou li4;ad ming2;xk	31
 藤浦惠	teng2;cu pu3;df hui4;ix	10
+藤田刚	teng2;cu tian2;wu gang1;kd	276
 滕文昊	teng2;ou wen2;wx hao4;ot	22
 天川空	tian1;ad chuan1;pl kong1;bg	10
 田芳茗	tian2;wu fang1;cf ming2;ck	12
+田馥甄	tian2;wu fu4;hw zhen1;xw	1404
 田海蓉	tian2;wu hai3;dm rong2;cg	22
 天海翼	tian1;ad hai3;dm yi4;xg	10
 田嘉瑞	tian2;wu jia1;tk rui4;we	12
 田家伊	tian2;wu jia1;bu yi1;ry	12
 田京凡	tian2;wu jing1;wx fan2;jd	12
 田蕾希	tian2;wu lei3;ct xi1;xj	15
+田连元	tian2;wu lian2;zi yvan2;aw	28
 田璐菡	tian2;wu lu4;wk han4;cu	16
 天马唯	tian1;ad ma3;va wei2;kv	10
+甜梅号	tian2;ug mei2;am hao4;kk	223
 田明鑫	tian2;wu ming2;oo xin1;jj	1726
 田牧宸	tian2;wu mu4;nw chen2;bi	18
 田牧童	tian2;wu mu4;nw tong2;ll	12
 田朴珺	tian2;wu pu3;ab jvn4;wk	824
+田启文	tian2;wu qi3;hk wen2;wx	31
+田沁鑫	tian2;wu qin4;dx xin1;jj	82
 田穰苴	tian2;wu rang2;hf jv1;cq	415
+田蕊妮	tian2;wu rui3;cx ni1;nb	9
 天使萌	tian1;ad shi3;rl meng2;co	10
 田书臣	tian2;wu shu1;vd chen2;kl	22
 田姝丽	tian2;wu shu1;nw li4;ad	12
@@ -7700,6 +7866,7 @@ sort: by_weight
 田志斌	tian2;wu zhi4;tx bin1;wv	12
 田紫紫	tian2;wu zi3;vx zi3;vx	54
 帖雅娜	tie1;jv ya3;yv na4;ne	364
+童安格	tong2;ll an1;bn ge2;ak	60
 佟晨洁	tong2;rd chen2;oi jie2;dk	57
 佟大为	tong2;rd da4;ar wei2;ld	242
 童可可	tong2;ll ke3;dk ke3;dk	346
@@ -7711,6 +7878,7 @@ sort: by_weight
 仝晓燕	tong2;rg xiao3;ow yan4;ch	12
 童苡萱	tong2;ll yi3;cr xvan1;cd	237
 童振军	tong2;ll zhen4;fi jvn1;bi	12
+童芷苓	tong2;ll zhi3;cv ling2;cs	3
 童自荣	tong2;ll zi4;po rong2;ca	75
 土豆姐	tu3;ua dou4;ab jie3;nq	337
 屠洪刚	tu2;uo hong2;dg gang1;kd	47
@@ -7721,6 +7889,7 @@ sort: by_weight
 涂议嘉	tu2;dm yi4;yy jia1;tk	316
 屠芷莹	tu2;uo zhi3;cv ying2;cy	15
 团十郎	tuan2;wc shi2;al lang2;le	396
+托尼贾	tuo1;fq ni2;ub jia3;xb	63
 万宝宝	wan4;av bao3;by bao5;by	436
 万芳舟	wan4;av fang1;cf zhou1;pd	133
 万国鹏	wan4;av guo2;wy peng2;on	297
@@ -7728,11 +7897,14 @@ sort: by_weight
 万丽娜	wan4;av li4;ad na4;ne	558
 万美汐	wan4;av mei3;yd xi1;dx	261
 万妮达	wan4;av ni1;nb da2;zd	486
+万绮雯	wan4;av qi3;sk wen2;yw	100
 万千惠	wan4;av qian1;pu hui4;ix	16
 万圣伟	wan4;av sheng4;yt wei3;rw	28
 万思维	wan4;av si1;tx wei2;sv	212
+万筱菊	wan4;av xiao3;vw jv2;cm	9
 万晓利	wan4;av xiao3;ow li4;hd	151
 万雨航	wan4;av yv3;ad hang2;vj	12
+万梓良	wan4;av zi3;ax liang2;dg	53
 万籽麟	wan4;av zi3;mz lin2;gf	53
 万子晴	wan4;av zi5;la qing2;oo	30
 王安琪	wang2;at an1;bn qi2;wb	337
@@ -7775,7 +7947,6 @@ sort: by_weight
 王道铁	wang2;at dao4;zz tie3;jf	15
 王德顺	wang2;at de2;rx shun4;iy	747
 汪东城	wang1;dw dong1;ax cheng2;ti	76
-汪东城	wang1;dw dong1;ax cheng2;ti	53
 王东辉	wang2;at dong1;ax hui1;gi	437
 王恩琦	wang2;at en1;yx qi2;wk	22
 王贰浪	wang2;at er4;gb lang4;dl	418
@@ -8181,8 +8352,10 @@ sort: by_weight
 魏积安	wei4;hg ji1;hv an1;bn	327
 魏佳艺	wei4;hg jia1;rt yi4;cv	16
 魏健隆	wei4;hg jian4;ry long2;eu	15
+韦礼安	wei2;fv li3;pv an1;bn	479
 威力斯	wei1;gn li4;vp si1;ct	24
 魏敏芝	wei4;hg min3;pw zhi1;cv	239
+尾崎丰	wei3;um qi2;uk feng1;sl	75
 魏千翔	wei4;hg qian1;pu xiang2;yx	433
 魏秋月	wei4;hg qiu1;hh yve4;ke	327
 魏伸洲	wei4;hg shen1;ru zhou1;dv	12
@@ -8207,11 +8380,14 @@ sort: by_weight
 温碧霞	wen1;dm bi4;wu xia2;yy	53
 温淳棣	wen1;dm chun2;dz di4;al	12
 文东彪	wen2;wx dong1;ax biao1;hp	12
+文根英	wen2;wx gen1;ag ying1;cy	16
 温桂钰	wen1;dm gui4;at yv4;jy	12
 温果希	wen1;dm guo3;ta xi1;xj	12
 温海波	wen1;dm hai3;dm bo1;dp	122
 文鸿毅	wen2;wx hong2;dn yi4;lu	12
+文瑾莹	wen2;wx jin3;ww ying2;cy	3
 温晶婕	wen1;dm jing1;oo jie2;nz	255
+文晶熙	wen2;wx jing1;oo xi1;ih	3
 文俊辉	wen2;wx jvn4;rw hui1;gi	25
 文俊珽	wen2;wx jvn4;rw ting3;ww	12
 温力铭	wen1;dm li4;vp ming2;jk	315
@@ -8222,17 +8398,26 @@ sort: by_weight
 温丝蕾	wen1;dm si1;sa lei3;ct	432
 温斯蕾	wen1;dm si1;ct lei3;ct	281
 温铁军	wen1;dm tie3;jf jvn1;bi	267
+文熙俊	wen2;wx xi1;ih jvn4;rw	19
 温锡莹	wen1;dm xi1;jw ying2;cy	16
+文兴宇	wen2;wx xing1;xb yv3;by	53
+文咏珊	wen2;wx yong3;ky shan1;wc	38
 温裕红	wen1;dm yv4;pg hong2;sg	292
 温玉娟	wen1;dm yv4;wd jvan1;no	284
 文渝淇	wen2;wx yv2;dd qi2;db	1
 温兆伦	wen1;dm zhao4;ed lun2;rl	78
 温兆宇	wen1;dm zhao4;ed yv3;by	279
 温贞菱	wen1;dm zhen1;bb ling2;cw	378
+文晸赫	wen2;wx zheng3;ow he4;ii	9
 温峥嵘	wen1;dm zheng1;uy rong2;ua	730
 温智美	wen1;dm zhi4;uo mei3;yd	12
 翁楚汉	weng1;gx chu3;az han4;dy	12
+翁静晶	weng1;gx jing4;fy jing1;oo	66
+翁美玲	weng1;gx mei3;yd ling2;ws	47
+翁倩玉	weng1;gx qian4;ro yv4;wd	50
 翁文千	weng1;gx wen2;wx qian1;pu	12
+渥美清	wo4;dt mei3;yd qing1;do	296
+伍佰万	wu3;rw bai3;rb wan4;av	364
 吴碧霞	wu2;kt bi4;wu xia2;yy	518
 武博涵	wu3;gv bo2;uc han2;du	12
 吴博威	wu2;kt bo2;uc wei1;gn	12
@@ -8269,10 +8454,12 @@ sort: by_weight
 邬靖靖	wu1;we jing4;lo jing4;lo	234
 吴婧靓	wu2;kt jing4;no liang4;fj	12
 吴敬平	wu2;kt jing4;cw ping2;au	1337
+武井咲	wu3;gv jing3;ac xiao4;kt	9
 吴靖萱	wu2;kt jing4;lo xvan1;cd	37
 吴静一	wu2;kt jing4;fy yi1;aa	30
 吴骏超	wu2;kt jvn4;mw chao1;tk	12
 吴军忱	wu2;kt jvn1;bi chen2;xe	12
+邬君梅	wu1;we jvn1;yk mei2;am	69
 吴君如	wu2;kt jvn1;yk ru2;nk	170
 吴俊霆	wu2;kt jvn4;rw ting2;yw	12
 吴俊余	wu2;kt jvn4;rw yv2;rm	926
@@ -8296,6 +8483,7 @@ sort: by_weight
 吴绮莉	wu2;kt qi3;sk li4;cd	319
 吴奇隆	wu2;kt qi2;dk long2;eu	226
 吴绮珊	wu2;kt qi3;sk shan1;wc	12
+巫启贤	wu1;gr qi3;hk xian2;lb	75
 吴倩莲	wu2;kt qian4;ro lian2;ci	91
 邬倩倩	wu1;we qian4;ro qian4;ro	392
 吴芊盈	wu2;kt qian1;cq ying2;nm	15
@@ -8309,10 +8497,14 @@ sort: by_weight
 吴若甫	wu2;kt ruo4;ck fu3;uy	53
 吴若希	wu2;kt ruo4;ck xi1;xj	666
 吴施乐	wu2;kt shi1;fy le4;px	1
+伍仕贤	wu3;rw shi4;rt xian2;lb	391
 吴世勋	wu2;kt shi4;cv xvn1;kl	204
+伍思凯	wu3;rw si1;tx kai3;uj	28
 吴颂今	wu2;kt song4;gy jin1;rv	526
 吴素真	wu2;kt su4;fx zhen1;ub	12
+武藤兰	wu3;gv teng2;cu lan2;bs	25
 武桐桐	wu3;gv tong2;ak tong2;ak	25
+伍卫国	wu3;rw wei4;ea guo2;wy	9
 武文佳	wu3;gv wen2;wx jia1;rt	16
 吴文璟	wu2;kt wen2;wx jing3;wx	12
 吴希泽	wu2;kt xi1;xj ze2;df	22
@@ -8343,6 +8535,7 @@ sort: by_weight
 吴莺音	wu2;kt ying1;cn yin1;lo	35
 吴勇豪	wu2;kt yong3;sl hao2;wu	15
 吴永灵	wu2;kt yong3;du ling2;eh	12
+伍咏薇	wu3;rw yong3;ky wei1;cj	3
 吴有才	wu2;kt you3;uo cai2;up	18
 吴玉芳	wu2;kt yv4;wd fang1;cf	116
 吴雨霏	wu2;kt yv3;ad fei1;yf	50
@@ -8359,6 +8552,7 @@ sort: by_weight
 武雨泽	wu3;gv yv3;ad ze2;df	15
 舞原圣	wu3;pf yvan2;ix sheng4;yt	10
 吴云飞	wu2;kt yvn2;ag fei1;vd	2112
+伍允龙	wu3;rw yvn3;se long2;yp	3
 吴泽林	wu2;kt ze2;df lin2;aa	15
 吴哲晗	wu2;kt zhe2;fk han2;ok	130
 邬祯琳	wu1;we zhen1;pb lin2;wa	15
@@ -8372,12 +8566,18 @@ sort: by_weight
 吴卓羲	wu2;kt zhuo2;bu xi1;yk	53
 吴紫彤	wu2;kt zi3;vx tong2;dp	26
 吴宗宪	wu2;kt zong1;bu xian4;be	477
+西贝尔	xi1;ak bei4;kr er3;dx	25
 西川怜	xi1;ak chuan1;pl lian2;xs	12
+喜多郎	xi3;tk duo1;xx lang2;le	82
+西恩潘	xi1;ak en1;yx pan1;dt	19
 西宫梦	xi1;ak gong1;bk meng4;ax	10
+希林娜	xi1;xj lin2;aa na4;ne	3
 奚美娟	xi1;vd mei3;yd jvan1;no	63
 奚梦瑶	xi1;vd meng4;ax yao2;wf	138
 席惟伦	xi2;gj wei2;xv lun2;rl	12
 奚秀兰	xi1;vd xiu4;hn lan2;bs	356
+西野翔	xi1;ak ye3;ly xiang2;yx	6
+夕又米	xi1;pd you4;vn mi3;ba	28
 夏川纯	xia4;bw chuan1;pl chun2;st	230
 夏德俊	xia4;bw de2;rx jvn4;rw	189
 夏瀚宇	xia4;bw han4;dx yv3;by	22
@@ -8410,9 +8610,15 @@ sort: by_weight
 夏梓桐	xia4;bw zi3;ax tong2;ak	433
 冼东妹	xian3;de dong1;ax mei4;nw	369
 仙杜拉	xian1;ru du4;at la1;fl	446
+咸恩静	xian2;gk en1;yx jing4;fy	9
 鲜嘉臣	xian1;yy jia1;tk chen2;kl	12
+仙妮娅	xian1;ru ni1;nb ya4;ny	3
 冼色丽	xian3;de se4;db li4;ad	310
 向玢璇	xiang4;pk bin1;wf xvan2;wz	12
+香草冰	xiang1;ho cao3;cu bing1;du	6
+向海岚	xiang4;pk hai3;dm lan2;uf	6
+向井理	xiang4;pk jing3;ac li3;wl	418
+香里奈	xiang1;ho li3;tt nai4;du	6
 香水纯	xiang1;ho shui3;ln chun2;st	10
 项偞婧	xiang4;gy xie4;ra jing4;no	26
 向俞星	xiang4;pk yv2;rd xing1;ou	33
@@ -8420,6 +8626,7 @@ sort: by_weight
 相泽南	xiang1;ao ze2;df nan2;ug	10
 小阿七	xiao3;lb a1;ek qi1;av	16
 小彩旗	xiao3;lb cai3;vp qi2;fb	621
+萧长华	xiao1;cb chang2;pn hua2;ru	6
 萧岱青	xiao1;cb dai4;ru qing1;fo	12
 小岛南	xiao3;lb dao3;nu nan2;ug	10
 肖德俊	xiao1;xo de2;rx jvn4;rw	16
@@ -8430,18 +8637,24 @@ sort: by_weight
 萧浩冉	xiao1;cb hao4;dk ran3;kt	4
 小花暖	xiao3;lb hua1;cb nuan3;oy	10
 小黄飞	xiao3;lb huang2;cb fei1;vd	320
+萧煌奇	xiao1;cb huang2;hw qi2;dk	266
 篠惠美	xiao3;vm hui4;ix mei3;yd	10
+萧敬腾	xiao1;cb jing4;cw teng2;om	2603
 肖凯中	xiao1;xo kai3;uj zhong1;kl	12
 小乐哥	xiao3;lb le4;px ge1;kk	35
 小李琳	xiao3;lb li3;az lin2;wa	270
+小栗旬	xiao3;lb li4;xa xvn2;bo	210
+小林薰	xiao3;lb lin2;aa xvn1;ch	3
 小刘佳	xiao3;lb liu2;wd jia1;rt	2
 潇梦临	xiao1;db meng4;ax lin2;lk	15
 小鹏飞	xiao3;lb peng2;on fei1;vd	26
+筱崎爱	xiao3;vw qi2;uk ai4;vy	19
 肖荣生	xiao1;xo rong2;ca sheng1;pf	3
 肖若腾	xiao1;xo ruo4;ck teng2;om	78
 小三金	xiao3;lb san1;ae jin1;rb	15
 小沈龙	xiao3;lb shen3;de long2;yp	22
 小沈阳	xiao3;lb shen3;de yang2;eo	339
+萧淑慎	xiao1;cb shu1;dy shen4;xb	50
 肖顺尧	xiao1;xo shun4;iy yao2;yw	392
 萧松原	xiao1;cb song1;ag yvan2;ix	12
 筱素清	xiao3;vw su4;fx qing1;do	15
@@ -8454,11 +8667,15 @@ sort: by_weight
 小香玉	xiao3;lb xiang1;ho yv4;wd	1
 小小如	xiao3;lb xiao3;lb ru2;nk	235
 肖亚文	xiao1;xo ya4;ay wen2;wx	57
+萧亚轩	xiao1;cb ya4;ay xvan1;ig	820
 肖雁宁	xiao1;xo yan4;iv ning2;bd	15
 肖懿航	xiao1;xo yi4;tx hang2;vj	715
+萧忆情	xiao1;cb yi4;xv qing2;xo	31
 小伊伊	xiao3;lb yi1;ry yi1;ry	369
 肖宇梁	xiao1;xo yv3;by liang2;da	26
 肖雨雨	xiao1;xo yv3;ad yv3;ad	224
+小泽圆	xiao3;lb ze2;df yvan2;wb	13
+萧正楠	xiao1;cb zheng4;av nan2;ag	13
 谢安琪	xie4;yc an1;bn qi2;wb	204
 谢安然	xie4;yc an1;bn ran2;xh	122
 谢彬彬	xie4;yc bin1;ap bin1;ap	360
@@ -8538,9 +8755,11 @@ sort: by_weight
 谢祖武	xie4;yc zu3;pq wu3;gv	450
 辛柏青	xin1;lu bai3;ab qing1;fo	57
 新村晶	xin1;lt cun1;ac jing1;oo	10
+新凤霞	xin1;lt feng4;jy xia2;yy	135
 辛弃疾	xin1;lu qi4;wc ji2;bu	555
 辛瑞琪	xin1;lu rui4;we qi2;wb	12
 欣小萌	xin1;iq xiao3;lb meng2;co	73
+辛晓琪	xin1;lu xiao3;ow qi2;wb	355
 新有菜	xin1;lt you3;uo cai4;ca	10
 辛有志	xin1;lu you3;uo zhi4;tx	315
 辛雨锡	xin1;lu yv3;ad xi1;jw	16
@@ -8556,6 +8775,7 @@ sort: by_weight
 邢岷山	xing2;ke min2;um shan1;kl	320
 星奈爱	xing1;ou nai4;du ai4;vy	10
 星野明	xing1;ou ye3;ly ming2;oo	10
+星野南	xing1;ou ye3;ly nan2;ug	3
 邢宇飞	xing2;ke yv3;by fei1;vd	12
 邢雨静	xing2;ke yv3;ad jing4;fy	12
 邢增婧	xing2;ke zeng1;to jing4;no	18
@@ -8566,6 +8786,7 @@ sort: by_weight
 熊乃瑾	xiong2;sh nai3;pv jin3;ww	3
 熊沁娴	xiong2;sh qin4;dx xian2;na	12
 熊睿玲	xiong2;sh rui4;bo ling2;ws	326
+熊天平	xiong2;sh tian1;ad ping2;au	50
 熊稳稳	xiong2;sh wen3;hx wen3;hx	12
 熊欣欣	xiong2;sh xin1;iq xin1;iq	82
 熊心瑶	xiong2;sh xin1;dd yao2;wf	306
@@ -8574,6 +8795,7 @@ sort: by_weight
 熊泽波	xiong2;sh ze2;df bo1;dp	12
 熊梓淇	xiong2;sh zi3;ax qi2;db	400
 熊紫轶	xiong2;sh zi3;vx yi4;if	12
+修杰楷	xiu1;rp jie2;ah kai3;ab	6
 修雨秀	xiu1;rp yv3;ad xiu4;hn	12
 修宗迪	xiu1;rp zong1;bu di2;zy	9
 徐百慧	xv2;rm bai3;ab hui4;fx	30
@@ -8762,9 +8984,11 @@ sort: by_weight
 薛泽源	xve1;cx ze2;df yvan2;dx	12
 薛之谦	xve1;cx zhi1;dn qian1;yj	2898
 荀慧生	xvn2;co hui4;fx sheng1;pf	41
+丫蛋儿	ya1;bl dan4;zi er2;pv	9
 芽森滴	ya2;cy sen1;aa di1;dg	10
 颜碧君	yan2;wy bi4;wu jvn1;yk	16
 颜丙燕	yan2;wy bing3;an yan4;ch	91
+言承旭	yan2;wk cheng2;ln xv4;jo	91
 颜丹晨	yan2;wy dan1;kd chen2;oi	13
 闫凤娇	yan2;ms feng4;jy jiao1;nl	9
 颜冠英	yan2;wy guan1;bc ying1;cy	338
@@ -8772,6 +8996,7 @@ sort: by_weight
 严浩翔	yan2;ai hao4;dk xiang2;yx	212
 阎鹤祥	yan2;mj he4;bn xiang2;py	170
 阎虹宇	yan2;mj hong2;ig yv3;by	12
+言慧珠	yan2;wk hui4;fx zhu1;ww	53
 闫佳颖	yan2;ms jia1;rt ying3;bh	30
 颜敬杰	yan2;wy jing4;cw jie2;ah	15
 言菊朋	yan2;wk jv2;cm peng2;oo	38
@@ -8802,6 +9027,7 @@ sort: by_weight
 焉栩嘉	yan1;vh xv3;ax jia1;tk	28
 闫学晶	yan2;ms xve2;xz jing1;oo	6
 阎学晶	yan2;mj xve2;xz jing1;oo	5
+炎亚纶	yan2;hh ya4;ay lun2;sl	35
 闫彦龙	yan2;ms yan4;wp long2;yp	12
 严燕生	yan2;ai yan4;ch sheng1;pf	30
 严彦子	yan2;ai yan4;wp zi3;la	12
@@ -8809,10 +9035,13 @@ sort: by_weight
 阎奕格	yan2;mj yi4;wd ge2;ak	432
 严屹宽	yan2;ai yi4;uv kuan1;bj	603
 闫益民	yan2;ms yi4;bm min2;vv	12
+颜颖思	yan2;wy ying3;bh si1;tx	3
 闫永强	yan2;ms yong3;du qiang2;gi	18
 颜玉莹	yan2;wy yv4;wd ying2;cy	338
 阎月明	yan2;mj yve4;ke ming2;oo	261
 闫云达	yan2;ms yvn2;ag da2;zd	387
+延政勋	yan2;zv zheng4;vw xvn1;kl	236
+颜卓灵	yan2;wy zhuo2;bu ling2;eh	16
 晏紫东	yan4;on zi3;vx dong1;ax	228
 严子贤	yan2;ai zi3;la xian2;lb	1
 闫宗海	yan2;ms zong1;bu hai3;dm	117
@@ -9065,9 +9294,11 @@ sort: by_weight
 伊泓远	yi1;ry hong2;ds yvan3;zy	3
 易嘉爱	yi4;ow jia1;tk ai4;vy	572
 易建联	yi4;ow jian4;zy lian2;et	2587
+易立竞	yi4;ow li4;wb jing4;lx	331
 易梦玲	yi4;ow meng4;ax ling2;ws	12
 伊米娜	yi1;ry mi3;ba na4;ne	1
 一乃葵	yi1;aa nai3;pv kui2;ct	10
+伊能静	yi1;ry neng2;sb jing4;fy	446
 易思玲	yi4;ow si1;tx ling2;ws	300
 伊添锴	yi1;ry tian1;dx kai3;jb	12
 易小星	yi4;ow xiao3;lb xing1;ou	60
@@ -10284,7 +10515,6 @@ sort: by_weight
 爱莉安娜	ai4;vy li4;cd an1;bn na4;ne	639
 埃米纳姆	ai1;tu mi3;ba na4;sn mu3;nm	428
 爱乃娜美	ai4;vy nai3;pv na4;ne mei3;yd	180
-爱乃娜美	ai4;vy nai3;pv na4;ne mei3;yd	10
 爱内里菜	ai4;vy nei4;kr li3;tt cai4;ca	13
 爱内梨花	ai4;vy nei4;kr li2;ha hua1;cb	207
 爱崎萌亚	ai4;vy qi2;uk meng2;co ya4;ay	144
@@ -10293,13 +10523,11 @@ sort: by_weight
 爱斯伊司	ai4;vy si1;ct yi1;ry si1;vk	162
 爱田飞鸟	ai4;vy tian2;wu fei1;vd niao3;na	10
 爱田奈奈	ai4;vy tian2;wu nai4;du nai4;du	153
-爱田奈奈	ai4;vy tian2;wu nai4;du nai4;du	10
 爱娃格林	ai4;vy wa2;nt ge2;ak lin2;aa	9
 爱须心亚	ai4;vy xv1;py xin1;dd ya4;ay	180
 爱原沙耶	ai4;vy yvan2;ix sha1;du ye2;ee	10
 爱原实花	ai4;vy yvan2;ix shi2;bd hua1;cb	1
 爱泽有纱	ai4;vy ze2;df you3;uo sha1;su	10
-爱泽有纱	ai4;vy ze2;df you3;uo sha1;su	4
 安倍夏美	an1;bn bei4;rk xia4;bw mei3;yd	405
 岸本齐史	an4;ug ben3;aa qi2;wl shi3;kn	333
 岸本圣史	an4;ug ben3;aa sheng4;yt shi3;kn	238
@@ -10332,7 +10560,6 @@ sort: by_weight
 安元洋贵	an1;bn yvan2;aw yang2;dy gui4;vb	549
 安原真美	an1;bn yvan2;ix zhen1;ub mei3;yd	130
 安斋拉拉	an1;bn zhai1;we la1;fl la1;fl	50
-安斋拉拉	an1;bn zhai1;we la1;fl la1;fl	10
 安祖莲娜	an1;bn zu3;pq lian2;ci na4;ne	288
 奥成洋辅	ao4;pd cheng2;gv yang2;dy fu3;if	76
 奥川恭伸	ao4;pd chuan1;pl gong1;gx shen1;ru	144
@@ -10355,7 +10582,6 @@ sort: by_weight
 巴哈古丽	ba1;sl ha1;kk gu3;uk li4;ad	14
 巴克哈德	ba1;sl ke4;ux ha1;kk de2;rx	243
 八木奈奈	ba1;pn mu4;ur nai4;du nai4;du	99
-八木奈奈	ba1;pn mu4;ur nai4;du nai4;du	10
 八木勇征	ba1;pn mu4;ur yong3;sl zheng1;rv	234
 八木优希	ba1;pn mu4;ur you1;ry xi1;xj	261
 八木梓纱	ba1;pn mu4;ur zi3;ax sha1;su	45
@@ -10372,10 +10598,8 @@ sort: by_weight
 白川和子	bai2;po chuan1;pl he2;hk zi3;la	220
 白川由美	bai2;po chuan1;pl you2;ol mei3;yd	302
 白川柚子	bai2;po chuan1;pl you4;ay zi5;la	45
-白川柚子	bai2;po chuan1;pl you4;ay zi5;la	10
 白饭如霜	bai2;po fan4;uy ru2;nk shuang1;yo	270
 白峰美羽	bai2;po feng1;uf mei3;yd yv3;xx	45
-白峰美羽	bai2;po feng1;uf mei3;yd yv3;xx	10
 白河静流	bai2;po he2;dk jing4;fy liu2;di	225
 拜和拉木	bai4;uf he2;hk la1;fl mu4;ur	42
 白井悠介	bai2;po jing3;ac you1;rx jie4;rl	418
@@ -10389,7 +10613,6 @@ sort: by_weight
 柏木英理	bai3;ab mu4;ur ying1;cy li3;wl	117
 柏木由纪	bai3;ab mu4;ur you2;ol ji4;sj	38
 白木优子	bai2;po mu4;ur you1;ry zi3;la	212
-白木优子	bai2;po mu4;ur you1;ry zi3;la	10
 白那日苏	bai2;po na4;ve ri4;wa su1;cb	76
 白鸟蓝良	bai2;po niao3;na lan2;cm liang2;dg	50
 白鸟由里	bai2;po niao3;na you2;ol li3;tt	459
@@ -10415,7 +10638,6 @@ sort: by_weight
 班贝克曼	ban1;wl bei4;kr ke4;ux man4;oy	261
 坂本冬美	ban3;ty ben3;aa dong1;wd mei3;yd	360
 坂道美琉	ban3;ty dao4;zz mei3;yd liu2;wi	153
-坂道美琉	ban3;ty dao4;zz mei3;yd liu2;wi	10
 班德拉斯	ban1;wl de2;rx la1;fl si1;ct	522
 班德罗斯	ban1;wl de2;rx luo2;sx si1;ct	144
 坂东龙汰	ban3;ty dong1;ax long2;yp tai4;dt	288
@@ -10461,7 +10683,6 @@ sort: by_weight
 北川米彦	bei3;lb chuan1;pl mi3;ba yan4;wp	220
 北川胜博	bei3;lb chuan1;pl sheng4;ou bo2;uc	144
 北川杏树	bei3;lb chuan1;pl xing4;ak shu4;ac	207
-北川杏树	bei3;lb chuan1;pl xing4;ak shu4;ac	10
 北川悠仁	bei3;lb chuan1;pl you1;rx ren2;re	405
 北川柚子	bei3;lb chuan1;pl you4;ay zi5;la	10
 北川智绘	bei3;lb chuan1;pl zhi4;uo hui4;sy	202
@@ -10491,7 +10712,6 @@ sort: by_weight
 本乡奏多	ben3;aa xiang1;vp zou4;it duo1;xx	3
 本真友里	ben3;aa zhen1;ub you3;uy li3;tt	10
 本庄优花	ben3;aa zhuang1;gt you1;ry hua1;cb	171
-本庄优花	ben3;aa zhuang1;gt you1;ry hua1;cb	10
 毕比琼斯	bi4;bu bi3;bb qiong2;wx si1;ct	45
 比尔海利	bi3;bb er3;dx hai3;dm li4;hd	266
 碧姬芭杜	bi4;wu ji1;ni ba1;cb du4;at	288
@@ -10584,7 +10804,6 @@ sort: by_weight
 持田香织	chi2;fc tian2;wu xiang1;ho zhi1;sv	351
 池田真纪	chi2;dy tian2;wu zhen1;ub ji4;sj	99
 冲田杏梨	chong1;dv tian2;wu xing4;ak li2;ha	16
-冲田杏梨	chong1;dv tian2;wu xing4;ak li2;ha	10
 初音未来	chu1;pd yin1;lo wei4;aa lai2;aa	440
 川北里菜	chuan1;pl bei3;lb li3;tt cai4;ca	10
 川北明沙	chuan1;pl bei3;lb ming2;oo sha1;du	10
@@ -10616,7 +10835,6 @@ sort: by_weight
 大桥彩香	da4;ar qiao2;al cai3;vp xiang1;ho	522
 大桥望美	da4;ar qiao2;al wang4;ww mei3;yd	297
 大桥未久	da4;ar qiao2;al wei4;aa jiu3;pn	10
-大桥未久	da4;ar qiao2;al wei4;aa jiu3;pn	9
 大桥卓弥	da4;ar qiao2;al zhuo2;bu mi2;gx	22
 大山信代	da4;ar shan1;kl xin4;rk dai4;rg	50
 大卫鲍伊	da4;ar wei4;ea bao4;yb yi1;ry	116
@@ -10743,7 +10961,6 @@ sort: by_weight
 高桥克实	gao1;wk qiao2;al ke4;ux shi2;bd	3
 高桥李依	gao1;wk qiao2;al li3;az yi1;ry	540
 高桥圣子	gao1;wk qiao2;al sheng4;yt zi3;la	297
-高桥圣子	gao1;wk qiao2;al sheng4;yt zi3;la	10
 高桥幸宏	gao1;wk qiao2;al xing4;tg hong2;bs	44
 高桥阳一	gao1;wk qiao2;al yang2;eo yi1;aa	38
 高桥洋子	gao1;wk qiao2;al yang2;dy zi3;la	13
@@ -10776,7 +10993,6 @@ sort: by_weight
 宫川美保	gong1;bk chuan1;pl mei3;yd bao3;ra	266
 宫村优子	gong1;bk cun1;ac you1;ry zi3;la	486
 宫岛芽衣	gong1;bk dao3;nu ya2;cy yi1;wy	76
-宫岛芽衣	gong1;bk dao3;nu ya2;cy yi1;wy	10
 宫地真绪	gong1;bk di4;ty zhen1;ub xv4;so	288
 宫濑里子	gong1;bk lai4;db li3;tt zi5;la	10
 宫崎美穗	gong1;bk qi2;uk mei3;yd sui4;hx	446
@@ -10795,7 +11011,6 @@ sort: by_weight
 恭喜肖战	gong1;gx xi3;tk xiao1;xo zhan4;vg	130
 宫下华奈	gong1;bk xia4;ab hua2;ru nai4;du	10
 宫下玲奈	gong1;bk xia4;ab ling2;ws nai4;du	279
-宫下玲奈	gong1;bk xia4;ab ling2;ws nai4;du	10
 宫下未纪	gong1;bk xia4;ab wei4;aa ji4;sj	180
 宫下杏奈	gong1;bk xia4;ab xing4;ak nai4;du	4
 宫胁咲良	gong1;bk xie2;ob xiao4;kt liang2;dg	35
@@ -10812,7 +11027,6 @@ sort: by_weight
 骨川小夫	gu3;go chuan1;pl xiao3;lb fu1;er	414
 古川雄辉	gu3;uk chuan1;pl xiong2;uv hui1;gi	50
 古川伊织	gu3;uk chuan1;pl yi1;ry zhi1;sv	10
-古川伊织	gu3;uk chuan1;pl yi1;ry zhi1;sv	3
 谷村美月	gu3;bk cun1;ac mei3;yd yve4;ke	3
 谷村新司	gu3;bk cun1;ac xin1;lt si1;vk	179
 谷村政树	gu3;bk cun1;ac zheng4;vw shu4;ac	238
@@ -10832,7 +11046,6 @@ sort: by_weight
 观月雏乃	guan1;yj yve4;ke chu2;dv nai3;pv	256
 广东雨神	guang3;di dong1;ax yv3;ad shen2;pu	117
 广濑光希	guang3;di lai4;db guang1;xe xi1;xj	45
-广濑光希	guang3;di lai4;db guang1;xe xi1;xj	10
 广濑仁美	guang3;di lai4;db ren2;re mei3;yd	153
 广末凉子	guang3;di mo4;aa liang2;dx zi3;la	135
 广田彩花	guang3;di tian2;wu cai3;vp hua1;cb	432
@@ -10947,7 +11160,6 @@ sort: by_weight
 吉冈圣惠	ji2;tk gang1;kx sheng4;yt hui4;ix	266
 吉冈秀隆	ji2;tk gang1;kx xiu4;hn long2;eu	414
 吉高宁宁	ji2;tk gao1;wk ning2;bd ning2;bd	144
-吉高宁宁	ji2;tk gao1;wk ning2;bd ning2;bd	10
 姬宫桃李	ji1;ni gong1;bk tao2;av li3;az	50
 吉河美希	ji2;tk he2;dk mei3;yd xi1;xj	230
 吉克隽逸	ji2;tk ke4;ux jvan4;rn yi4;zt	1556
@@ -10963,13 +11175,11 @@ sort: by_weight
 吉祥三宝	ji2;tk xiang2;py san1;ae bao3;by	104
 吉永好美	ji2;tk yong3;du hao3;nz mei3;yd	10
 吉泽明步	ji2;tk ze2;df ming2;oo bu4;vu	25
-吉泽明步	ji2;tk ze2;df ming2;oo bu4;vu	10
 加护亚依	jia1;lk hu4;fh ya4;ay yi1;ry	374
 加濑充子	jia1;lk lai4;db chong1;wy zi3;la	144
 佳苗琉花	jia1;rt miao2;ct liu2;wi hua1;cb	10
 榎木淳弥	jia3;aw mu4;ur chun2;dz mi2;gx	450
 岬奈奈美	jia3;uj nai4;du nai4;du mei3;yd	76
-岬奈奈美	jia3;uj nai4;du nai4;du mei3;yd	10
 架乃由罗	jia4;la nai3;pv you2;ol luo2;sx	10
 嘉然小姐	jia1;tk ran2;xh xiao3;lb jie3;nq	378
 加山夏子	jia1;lk shan1;kl xia4;bw zi3;la	180
@@ -10998,9 +11208,7 @@ sort: by_weight
 蒋袁娅蓉	jiang3;cc yvan2;ty ya4;ny rong2;cg	1
 结城爱良	jie2;sk cheng2;ti ai4;vy liang2;dg	405
 结城莉乃	jie2;sk cheng2;ti li4;cd nai3;pv	130
-结城莉乃	jie2;sk cheng2;ti li4;cd nai3;pv	10
 结城美佐	jie2;sk cheng2;ti mei3;yd zuo3;rg	162
-结城美佐	jie2;sk cheng2;ti mei3;yd zuo3;rg	10
 杰夫代特	jie2;ah fu1;er dai4;rg te4;nc	194
 杰克怀特	jie2;ah ke4;ux huai2;xb te4;nc	387
 皆濑明里	jie1;bb lai4;db ming2;oo li3;tt	10
@@ -11079,7 +11287,6 @@ sort: by_weight
 爵士丹尼	jve2;vc shi4;ua dan1;kd ni2;ub	50
 君岛美香	jvn1;yk dao3;nu mei3;yd xiang1;ho	162
 君岛美绪	jvn1;yk dao3;nu mei3;yd xv4;so	234
-君岛美绪	jvn1;yk dao3;nu mei3;yd xv4;so	10
 卡迪琳娜	ka3;ub di2;zy lin2;wa na4;ne	1
 凯蒂佩芮	kai3;uj di4;cj pei4;rj rui4;cn	608
 凯莉米洛	kai3;uj li4;cd mi3;ba luo4;dk	3
@@ -11108,7 +11315,6 @@ sort: by_weight
 堀未央奈	ku1;ti wei4;aa yang1;kr nai4;du	6
 堀咲莉娅	ku1;ti xiao4;kt li4;cd ya4;ny	10
 堀泽茉由	ku1;ti ze2;df mo4;cw you2;ol	45
-堀泽茉由	ku1;ti ze2;df mo4;cw you2;ol	10
 快乐玛丽	kuai4;xg le4;px ma3;wm li4;ad	3
 筷子兄弟	kuai4;vg zi5;la xiong1;ke di4;bd	308
 坤如玛丽	kun1;tu ru2;nk ma3;wm li4;ad	225
@@ -11123,7 +11329,6 @@ sort: by_weight
 濑田一花	lai4;db tian2;wu yi4;aa hua1;cb	10
 莱娅公主	lai2;cl ya4;ny gong1;bs zhu3;wt	364
 濑亚美莉	lai4;db ya4;ay mei3;yd li4;cd	10
-濑亚美莉	lai4;db ya4;ay mei3;yd li4;cd	3
 蓝芽水月	lan2;cm ya2;cy shui3;ln yve4;ke	10
 浪川大辅	lang4;dl chuan1;pl da4;ar fu3;if	19
 老公张杰	lao3;lb gong1;bs zhang1;gi jie2;ah	310
@@ -11148,7 +11353,6 @@ sort: by_weight
 栗桥浩美	li4;xa qiao2;al hao4;dk mei3;yd	230
 李莎旻子	li3;az sha1;cu min2;ow zi3;la	379
 栗山莉绪	li4;xa shan1;kl li4;cd xv4;so	45
-栗山莉绪	li4;xa shan1;kl li4;cd xv4;so	10
 栗山千明	li4;xa shan1;kl qian1;pu ming2;oo	60
 李斯丹妮	li3;az si1;ct dan1;kd ni1;nb	232
 笠原弘子	li4;vl yvan2;ix hong2;gs zi3;la	369
@@ -11168,7 +11372,6 @@ sort: by_weight
 琳赛罗韩	lin2;wa sai4;bb luo2;sx han2;uw	42
 凛音桃花	lin3;du yin1;lo tao2;av hua1;cb	10
 铃村爱里	ling2;js cun1;ac ai4;vy li3;tt	171
-铃村爱里	ling2;js cun1;ac ai4;vy li3;tt	10
 铃村健一	ling2;js cun1;ac jian4;ry yi1;aa	22
 铃村修一	ling2;js cun1;ac xiu1;rp yi1;aa	4
 绫里千寻	ling2;sw li3;tt qian1;pu xvn2;ec	351
@@ -11193,7 +11396,6 @@ sort: by_weight
 柳泽荣治	liu3;ae ze2;df rong2;ca zhi4;dk	162
 泷本美织	long2;dl ben3;aa mei3;yd zhi1;sv	382
 泷川花音	long2;dl chuan1;pl hua1;cb yin1;lo	234
-泷川花音	long2;dl chuan1;pl hua1;cb yin1;lo	10
 泷川雅美	long2;dl chuan1;pl ya3;yv mei3;yd	153
 龙宽九段	long2;yp kuan1;bj jiu3;pv duan4;pu	306
 龙崎樱乃	long2;yp qi2;uk ying1;an nai3;pv	306
@@ -11245,14 +11447,12 @@ sort: by_weight
 孟和朝鲁	meng4;zm he2;hk chao2;uo lu3;yo	117
 梦幻拉拉	meng4;ax huan4;yv la1;fl la1;fl	315
 梦乃爱华	meng4;ax nai3;pv ai4;vy hua2;ru	180
-梦乃爱华	meng4;ax nai3;pv ai4;vy hua2;ru	10
 梦实香苗	meng4;ax shi2;bd xiang1;ho miao2;ct	10
 萌田薰子	meng2;co tian2;wu xvn1;ch zi3;la	189
 米仓凉子	mi3;ba cang1;rv liang2;dx zi3;la	3
 米津玄师	mi3;ba jin1;dy xvan2;wy shi1;lj	666
 米科尔森	mi3;ba ke1;hd er3;dx sen1;aa	25
 弥生美月	mi2;gx sheng1;pf mei3;yd yve4;ke	76
-弥生美月	mi2;gx sheng1;pf mei3;yd yve4;ke	10
 蜜雪薇琪	mi4;bi xve3;ye wei1;cj qi2;wb	342
 米泽瑠美	mi3;ba ze2;df liu2;wt mei3;yd	3
 绵贯沙织	mian2;sj guan4;mb sha1;du zhi1;sv	4
@@ -11293,7 +11493,6 @@ sort: by_weight
 木山裕策	mu4;ur shan1;kl yv4;pg ce4;vu	144
 木下春奈	mu4;ur xia4;ab chun1;io nai4;du	382
 木下日葵	mu4;ur xia4;ab ri4;wa kui2;ct	99
-木下日葵	mu4;ur xia4;ab ri4;wa kui2;ct	10
 木下佑香	mu4;ur xia4;ab you4;rk xiang1;ho	288
 牧野杉菜	mu4;nw ye3;ly shan1;ap cai4;ca	3
 牧野叶月	mu4;nw ye3;ly ye4;ku yve4;ke	99
@@ -11373,7 +11572,6 @@ sort: by_weight
 七濑胡桃	qi1;av lai4;db hu2;go tao2;av	9
 七濑伊织	qi1;av lai4;db yi1;ry zhi1;sv	10
 七森莉莉	qi1;av sen1;aa li4;cd li4;cd	76
-七森莉莉	qi1;av sen1;aa li4;cd li4;cd	10
 齐藤彩夏	qi2;wl teng2;cu cai3;vp xia4;bw	50
 齐藤和义	qi2;wl teng2;cu he2;hk yi4;dx	360
 齐藤由贵	qi2;wl teng2;cu you2;ol gui4;vb	25
@@ -11407,7 +11605,6 @@ sort: by_weight
 桥本奈奈	qiao2;al ben3;aa nai4;du nai4;du	500
 桥本甜歌	qiao2;al ben3;aa tian2;ug ge1;kq	288
 桥本有菜	qiao2;al ben3;aa you3;uo cai4;ca	10
-桥本有菜	qiao2;al ben3;aa you3;uo cai4;ca	3
 乔丹普尔	qiao2;yl dan1;kd pu3;bo er3;dx	22
 乔杰克逊	qiao2;yl jie2;ah ke4;ux xvn4;zx	171
 乔沃维奇	qiao2;yl wo4;dy wei2;sv qi2;dk	25
@@ -11454,7 +11651,6 @@ sort: by_weight
 日向雏田	ri4;wa xiang4;pk chu2;dv tian2;wu	85
 日向由良	ri4;wa xiang4;pk you2;ol liang2;dg	10
 日向真凛	ri4;wa xiang4;pk zhen1;ub lin3;du	144
-日向真凛	ri4;wa xiang4;pk zhen1;ub lin3;du	10
 日野美歌	ri4;wa ye3;ly mei3;yd ge1;kq	130
 荣仓奈奈	rong2;ca cang1;rv nai4;du nai4;du	9
 荣川乃亚	rong2;ca chuan1;pl nai3;pv ya4;ay	10
@@ -11494,7 +11690,6 @@ sort: by_weight
 三浦友和	san1;ae pu3;df you3;uy he2;hk	82
 三森铃子	san1;ae sen1;aa ling2;js zi3;la	9
 三上悠亚	san1;ae shang4;ba you1;rx ya4;ay	25
-三上悠亚	san1;ae shang4;ba you1;rx ya4;ay	10
 三田佳子	san1;ae tian2;wu jia1;rt zi3;la	356
 三田麻央	san1;ae tian2;wu ma2;ga yang1;kr	351
 三叶千春	san1;ae ye4;ku qian1;pu chun1;io	10
@@ -11532,7 +11727,6 @@ sort: by_weight
 沙漠妖姬	sha1;du mo4;dd yao1;ny ji1;ni	261
 沙茹克罕	sha1;du ru2;ck ke4;ux han3;bg	238
 沙月芽衣	sha1;du yve4;ke ya2;cy yi1;wy	50
-沙月芽衣	sha1;du yve4;ke ya2;cy yi1;wy	10
 杉村春子	shan1;ap cun1;ac chun1;io zi3;la	19
 山谷祥生	shan1;kl gu3;bk xiang2;py sheng1;pf	382
 山口百惠	shan1;kl kou3;la bai3;ab hui4;ix	358
@@ -11598,9 +11792,7 @@ sort: by_weight
 神崎美树	shen2;pu qi2;uk mei3;yd shu4;ac	162
 深田恭子	shen1;da tian2;wu gong1;gx zi3;la	9
 深田结梨	shen1;da tian2;wu jie2;sk li2;ha	225
-深田结梨	shen1;da tian2;wu jie2;sk li2;ha	10
 深田咏美	shen1;da tian2;wu yong3;ky mei3;yd	19
-深田咏美	shen1;da tian2;wu yong3;ky mei3;yd	10
 神田朱未	shen2;pu tian2;wu zhu1;pw wei4;aa	477
 神尾枫珠	shen2;pu wei3;um feng1;af zhu1;ww	310
 神尾观铃	shen2;pu wei3;um guan1;yj ling2;js	405
@@ -11625,7 +11817,6 @@ sort: by_weight
 石川桃子	shi2;ak chuan1;pl tao2;av zi5;la	162
 石川秀美	shi2;ak chuan1;pl xiu4;hn mei3;yd	202
 市川雅美	shi4;wj chuan1;pl ya3;yv mei3;yd	212
-市川雅美	shi4;wj chuan1;pl ya3;yv mei3;yd	10
 石川英郎	shi2;ak chuan1;pl ying1;cy lang2;le	490
 石川由依	shi2;ak chuan1;pl you2;ol yi1;ry	450
 市川由衣	shi4;wj chuan1;pl you2;ol yi1;wy	315
@@ -11684,7 +11875,6 @@ sort: by_weight
 水谷雅子	shui3;ln gu3;bk ya3;yv zi3;la	396
 水谷优子	shui3;ln gu3;bk you1;ry zi3;la	454
 水户香奈	shui3;ln hu4;du xiang1;ho nai4;du	50
-水户香奈	shui3;ln hu4;du xiang1;ho nai4;du	10
 水晶男孩	shui3;ln jing1;oo nan2;tl hai2;zr	38
 水木年华	shui3;ln mu4;ur nian2;pf hua2;ru	427
 水木一郎	shui3;ln mu4;ur yi1;aa lang2;le	3
@@ -11692,7 +11882,6 @@ sort: by_weight
 水稀美里	shui3;ln xi1;hj mei3;yd li3;tt	10
 水野朝阳	shui3;ln ye3;ly chao2;uo yang2;eo	10
 水原美园	shui3;ln yvan2;ix mei3;yd yvan2;wy	45
-水原美园	shui3;ln yvan2;ix mei3;yd yvan2;wy	10
 水原千鹤	shui3;ln yvan2;ix qian1;pu he4;bn	266
 水原希子	shui3;ln yvan2;ix xi1;xj zi3;la	53
 水泽乃乃	shui3;ln ze2;df nai3;pv nai3;pv	10
@@ -11717,7 +11906,6 @@ sort: by_weight
 松坂桃李	song1;ag ban3;ty tao2;av li3;az	6
 松本保典	song1;ag ben3;aa bao3;ra dian3;qb	482
 松本梨穗	song1;ag ben3;aa li2;ha sui4;hx	45
-松本梨穗	song1;ag ben3;aa li2;ha sui4;hx	10
 松本梨香	song1;ag ben3;aa li2;ha xiang1;ho	3
 松本麻佑	song1;ag ben3;aa ma2;ga you4;rk	405
 松本美和	song1;ag ben3;aa mei3;yd he2;hk	284
@@ -11784,11 +11972,9 @@ sort: by_weight
 藤川千爱	teng2;cu chuan1;pl qian1;pu ai4;vy	288
 藤冈麻美	teng2;cu gang1;kx ma2;ga mei3;yd	225
 藤井爱纱	teng2;cu jing3;ac ai4;vy sha1;su	45
-藤井爱纱	teng2;cu jing3;ac ai4;vy sha1;su	10
 藤井一夜	teng2;cu jing3;ac yi2;aa ye4;ww	10
 藤卷忠俊	teng2;cu jvan3;jv zhong1;vx jvn4;rw	320
 藤森里穗	teng2;cu sen1;aa li3;tt sui4;hx	76
-藤森里穗	teng2;cu sen1;aa li3;tt sui4;hx	10
 藤田淳平	teng2;cu tian2;wu chun2;dz ping2;au	536
 田边诚一	tian2;wu bian1;zl cheng2;yi yi1;aa	428
 天草翔舞	tian1;ad cao3;cu xiang2;yx wu3;pf	45
@@ -11845,7 +12031,6 @@ sort: by_weight
 王华圳昱	wang2;at hua2;ru zhen4;ti yv4;ol	1
 王李丹妮	wang2;at li3;az dan1;kd ni1;nb	86
 望月理沙	wang4;ww yve4;ke li3;wl sha1;du	162
-望月理沙	wang4;ww yve4;ke li3;wl sha1;du	10
 未步奈奈	wei4;aa bu4;vu nai4;du nai4;du	10
 唯井真寻	wei2;kv jing3;ac zhen1;ub xvn2;ec	10
 威廉达福	wei1;gn lian2;gj da2;zd fu2;pt	459
@@ -11877,7 +12062,6 @@ sort: by_weight
 乌仁图雅	wu1;pa ren2;re tu2;wd ya3;yv	130
 五十岚夏	wu3;aw shi2;al lan2;uf xia4;bw	10
 武藤绫香	wu3;gv teng2;cu ling2;sw xiang1;ho	10
-武藤绫香	wu3;gv teng2;cu ling2;sw xiang1;ho	4
 武田玲奈	wu3;gv tian2;wu ling2;ws nai4;du	351
 乌云高娃	wu1;pa yvn2;ag gao1;wk wa2;nt	76
 西本拳太	xi1;ak ben3;aa qvan2;ju tai4;dd	333
@@ -11887,7 +12071,6 @@ sort: by_weight
 西城永捷	xi1;ak cheng2;ti yong3;du jie2;fz	220
 西川贵教	xi1;ak chuan1;pl gui4;vb jiao4;lw	6
 希岛爱理	xi1;xj dao3;nu ai4;vy li3;wl	180
-希岛爱理	xi1;xj dao3;nu ai4;vy li3;wl	10
 西岛隆弘	xi1;ak dao3;nu long2;eu hong2;gs	472
 西岛秀俊	xi1;ak dao3;nu xiu4;hn jvn4;rw	6
 喜多修平	xi3;tk duo1;xx xiu1;rp ping2;au	238
@@ -11937,7 +12120,6 @@ sort: by_weight
 下条正巳	xia4;ab tiao2;wa zheng4;av si4;kv	387
 香坂百合	xiang1;ho ban3;ty bai3;ab he2;rk	288
 香澄果穗	xiang1;ho cheng2;db guo3;ta sui4;hx	320
-香澄果穗	xiang1;ho cheng2;db guo3;ta sui4;hx	10
 香澄莉子	xiang1;ho cheng2;db li4;cd zi3;la	10
 香川京子	xiang1;ho chuan1;pl jing1;wx zi3;la	302
 相川七濑	xiang1;ao chuan1;pl qi1;av lai4;db	302
@@ -11959,7 +12141,6 @@ sort: by_weight
 小仓奈奈	xiao3;lb cang1;rv nai4;du nai4;du	202
 小仓七海	xiao3;lb cang1;rv qi1;av hai3;dm	10
 小仓由菜	xiao3;lb cang1;rv you2;ol cai4;ca	238
-小仓由菜	xiao3;lb cang1;rv you2;ol cai4;ca	10
 小仓优子	xiao3;lb cang1;rv you1;ry zi3;la	6
 小池彻平	xiao3;lb chi2;dy che4;rd ping2;au	436
 小池澈平	xiao3;lb chi2;dy che4;dw ping2;au	84
@@ -11978,7 +12159,6 @@ sort: by_weight
 小矶国昭	xiao3;lb ji1;uj guo2;wy zhao1;ok	428
 小濑村晶	xiao3;lb lai4;db cun1;ac jing1;oo	99
 小栗美优	xiao3;lb li4;xa mei3;yd you1;ry	45
-小栗美优	xiao3;lb li4;xa mei3;yd you1;ry	10
 小笠原海	xiao3;lb li4;vl yvan2;ix hai3;dm	266
 小岭丽奈	xiao3;lb ling3;us li4;ad nai4;du	220
 小柳由纪	xiao3;lb liu3;ae you2;ol ji4;sj	194
@@ -12048,10 +12228,8 @@ sort: by_weight
 星野充昭	xing1;ou ye3;ly chong1;wy zhao1;ok	346
 星野贵纪	xing1;ou ye3;ly gui4;vb ji4;sj	382
 星野景子	xing1;ou ye3;ly jing3;ox zi3;la	50
-星野景子	xing1;ou ye3;ly jing3;ox zi3;la	10
 星野梦美	xing1;ou ye3;ly meng4;ax mei3;yd	297
 星野娜美	xing1;ou ye3;ly na4;ne mei3;yd	194
-星野娜美	xing1;ou ye3;ly na4;ne mei3;yd	10
 星野千纱	xing1;ou ye3;ly qian1;pu sha1;su	144
 星野日向	xing1;ou ye3;ly ri4;wa xiang4;pk	144
 星野桃子	xing1;ou ye3;ly tao2;av zi5;la	153

@@ -1349,6 +1349,7 @@ sort: by_weight
 秦湛	qin2;ih zhan4;db	410
 任南	ren2;rw nan2;ug	2091
 任鹏	ren2;rw peng2;on	113
+赛诺	sai4;bb nuo4;yk	239
 邵斌	shao4;de bin1;wv	432
 邵博	shao4;de bo2;uc	15
 邵峰	shao4;de feng1;uf	648
@@ -4140,6 +4141,7 @@ sort: by_weight
 邓志坚	deng4;ye zhi4;tx jian1;lt	486
 邓志明	deng4;ye zhi4;tx ming2;oo	256
 邓志伟	deng4;ye zhi4;tx wei3;rw	418
+迪奥娜	di2;zy ao4;pd na4;ne	44
 丁伯根	ding1;al bo2;rb gen1;ag	71
 丁不三	ding1;al bu4;ab san1;ae	215
 丁长发	ding1;al chang2;pn fa4;fy	90
@@ -5113,6 +5115,7 @@ sort: by_weight
 何志勇	he2;rk zhi4;tx yong3;sl	28
 何仲举	he2;rk zhong4;rv jv3;xf	180
 何仲宣	he2;rk zhong4;rv xvan1;bd	45
+贺子秋	he4;lb zi3;la qiu1;hh	28
 何祖光	he2;rk zu3;pq guang1;xe	144
 何祚庥	he2;rk zuo4;pv xiu1;ga	60
 何琢言	he2;rk zuo2;wu yan2;wk	56
@@ -5388,6 +5391,7 @@ sort: by_weight
 霍伊特	huo4;yv yi1;ry te4;nc	151
 霍治亚	huo4;yv zhi4;dk ya4;ay	230
 霍智宇	huo4;yv zhi4;uo yv3;by	207
+季昌明	ji4;hz chang1;oo ming2;oo	13
 姬洪华	ji1;ni hong2;dg hua2;ru	49
 姜白岩	jiang1;yn bai2;po yan2;uu	45
 姜宝成	jiang1;yn bao3;by cheng2;gv	234
@@ -5895,6 +5899,7 @@ sort: by_weight
 金湘隆	jin1;rb xiang1;do long2;eu	310
 金相印	jin1;rb xiang4;ao yin4;pe	256
 金相佑	jin1;rb xiang4;ao you4;rk	194
+金香玉	jin1;rb xiang1;ho yv4;wd	276
 金相植	jin1;rb xiang4;ao zhi2;aq	76
 金心明	jin1;rb xin1;dd ming2;oo	4
 金欣欣	jin1;rb xin1;iq xin1;iq	99
@@ -6017,6 +6022,7 @@ sort: by_weight
 金子贤	jin1;rb zi5;la xian2;lb	320
 金子一	jin1;rb zi5;la yi1;aa	630
 金子玉	jin1;rb zi5;la yv4;wd	76
+久次良	jiu3;pn ci4;dq liang2;dg	88
 孔安国	kong3;zv an1;bn guo2;wy	103
 孔波雷	kong3;zv bo1;dp lei2;yt	3
 孔超萍	kong3;zv chao1;tk ping2;cp	387
@@ -9634,10 +9640,13 @@ sort: by_weight
 阮文素	ruan3;ey wen2;wx su4;fx	194
 阮逸女	ruan3;ey yi4;zt nv3;va	45
 阮子岩	ruan3;ey zi3;la yan2;uu	45
+赛诺菲	sai4;bb nuo4;yk fei1;cf	78
 山本宽	shan1;kl ben3;aa kuan1;bj	209
 山田洋	shan1;kl tian2;wu yang2;dy	98
 上官红	shang4;ba guan1;bl hong2;sg	58
 上官虹	shang4;ba guan1;bl hong2;ig	24
+上官透	shang4;ba guan1;bl tou4;zn	360
+上官周	shang4;ba guan1;bl zhou1;kk	288
 邵葆醇	shao4;de bao3;ca chun2;yz	171
 邵炳凤	shao4;de bing3;hn feng4;jy	302
 邵伯雍	shao4;de bo2;rb yong1;wv	45
@@ -13973,6 +13982,7 @@ sort: by_weight
 余东雄	yv2;rm dong1;ax xiong2;uv	274
 余多多	yv2;rm duo1;xx duo1;xx	2792
 俞放鹤	yv2;rd fang4;fw he4;bn	364
+雨宫萤	yv3;ad gong1;bk ying2;ci	32
 余桂英	yv2;rm gui4;at ying1;cy	76
 余国伟	yv2;rm guo2;wy wei3;rw	543
 余海龙	yv2;rm hai3;dm long2;yp	201
@@ -14133,6 +14143,7 @@ sort: by_weight
 岳阳城	yve4;qu yang2;eo cheng2;ti	83
 岳阳舰	yve4;qu yang2;eo jian4;vj	45
 岳钟琪	yve4;qu zhong1;jv qi2;wb	375
+云外镜	yvn2;ag wai4;xb jing4;je	66
 臧海利	zang1;vi hai3;dm li4;hd	189
 臧甲彬	zang1;vi jia3;ol bin1;ap	45
 臧嘉亮	zang1;vi jia1;tk liang4;wj	266
@@ -18182,6 +18193,24 @@ sort: by_weight
 杉田庄一	shan1;ap tian2;wu zhuang1;gt yi1;aa	2
 山田拙者	shan1;kl tian2;wu zhuo1;fi zhe3;lo	0
 山田佐能	shan1;kl tian2;wu zuo3;rg neng2;sb	0
+上官博玉	shang4;ba guan1;bl bo2;uc yv4;wd	171
+上官飞凤	shang4;ba guan1;bl fei1;vd feng4;jy	76
+上官飞龙	shang4;ba guan1;bl fei1;vd long2;yp	50
+上官飞燕	shang4;ba guan1;bl fei1;vd yan4;ch	333
+上官海棠	shang4;ba guan1;bl hai3;dm tang2;xa	238
+上官剑南	shang4;ba guan1;bl jian4;qd nan2;ug	266
+上官金虹	shang4;ba guan1;bl jin1;rb hong2;ig	562
+上官惊鸿	shang4;ba guan1;bl jing1;xx hong2;dn	50
+上官警我	shang4;ba guan1;bl jing3;ck wo3;ga	180
+上官明月	shang4;ba guan1;bl ming2;oo yve4;ke	99
+上官慕容	shang4;ba guan1;bl mu4;cx rong2;bg	45
+上官秋月	shang4;ba guan1;bl qiu1;hh yve4;ke	144
+上官瑞谦	shang4;ba guan1;bl rui4;we qian1;yj	256
+上官铁生	shang4;ba guan1;bl tie3;jf sheng1;pf	306
+上官庭芝	shang4;ba guan1;bl ting2;gw zhi1;cv	220
+上官无敌	shang4;ba guan1;bl wu2;ay di2;uw	45
+上官雪儿	shang4;ba guan1;bl xve3;ye er2;pv	171
+上官依然	shang4;ba guan1;bl yi1;ry ran2;xh	50
 上杉禅秀	shang4;ba shan1;ap chan2;pu xiu4;hn	24
 上杉朝定	shang4;ba shan1;ap chao2;uo ding4;bz	45
 上杉达也	shang4;ba shan1;ap da2;zd ye3;vv	19

@@ -37,7 +37,6 @@ sort: by_weight
 矮墙	ai3;un ciang2;tk	236
 爱妾	ai4;vy cie4;ln	176
 爱情	ai4;vy cing2;xo	55427
-艾青	ai4;cx cing1;fo	213
 爱惜	ai4;vy sii1;xo	1658
 爱想	ai4;vy siang3;ax	9
 爱笑	ai4;vy siao4;vy	816
@@ -475,7 +474,6 @@ sort: by_weight
 冰消	bing1;du siao1;do	69
 病邪	bing4;bn sie2;ye	441
 冰屑	bing1;du sie4;uo	397
-冰心	bing1;du sin1;dd	1196
 冰芯	bing1;du sin1;cx	608
 秉性	bing3;qr sing4;xu	935
 禀性	bing3;wu sing4;xu	598
@@ -648,7 +646,6 @@ sort: by_weight
 灿星	can4;hu sing1;ou	752
 餐叙	can1;dg sv4;ry	19
 参选	can1;sp svan3;ze	885
-残雪	can2;dj sve3;ye	2123
 苍姐	cang1;cv zie3;nq	918
 藏进	cang2;ci zin4;zj	320
 藏酒	cang2;ci ziu3;dy	135
@@ -708,7 +705,6 @@ sort: by_weight
 拆借	chai1;fi zie4;ro	631
 柴姐	chai2;va zie3;nq	286
 柴进	chai2;va zin4;zj	355
-柴静	chai2;va zing4;fy	1178
 拆迁	chai1;fi cian1;zq	3234
 拆墙	chai1;fi ciang2;tk	317
 拆洗	chai1;fi sii3;de	490
@@ -1434,7 +1430,6 @@ sort: by_weight
 低切	di1;ru cie4;qd	500
 嫡亲	di2;ng cin1;la	131
 敌情	di2;uw cing2;xo	465
-狄青	di2;qh cing1;fo	311
 敌酋	di2;uw ciu2;by	384
 底细	di3;gu sii4;st	885
 弟媳	di4;bd sii2;nx	590
@@ -1453,7 +1448,6 @@ sort: by_weight
 地心	di4;ty sin1;dd	1309
 低薪	di1;ru sin1;ct	684
 递信	di4;zd sin4;rk	678
-帝辛	di4;wj sin1;lu	542
 地信	di4;ty sin4;rk	433
 帝星	di4;wj sing1;ou	675
 典籍	dian3;qb zii2;vo	1918
@@ -1644,7 +1638,6 @@ sort: by_weight
 赌性	du3;bo sing4;xu	207
 独醒	du2;qi sing3;yu	165
 杜姓	du4;at sing4;nu	132
-独秀	du2;qi siu4;hn	245
 读秀	du2;yd siu4;hn	220
 度汛	du4;gy svn4;du	734
 毒蕈	du2;fm svn4;cu	445
@@ -1954,7 +1947,6 @@ sort: by_weight
 飞絮	fei1;vd sv4;nx	163
 飞旋	fei1;vd svan2;fz	78
 飞雪	fei1;vd sve3;ye	641
-费雪	fei4;fb sve3;ye	599
 斐讯	fei3;fw svn4;yu	670
 分集	fen1;bd zii2;ra	449
 粉剂	fen3;mf zii4;qd	257
@@ -2025,7 +2017,6 @@ sort: by_weight
 锋线	feng1;jf sian4;sj	5140
 缝线	feng2;sf sian4;sj	1240
 凤仙	feng4;jy sian1;ru	148
-奉先	feng4;if sian1;ne	118
 凤翔	feng4;jy siang2;yx	722
 蜂箱	feng1;if siang1;vo	310
 风箱	feng1;jx siang1;vo	216
@@ -2347,7 +2338,6 @@ sort: by_weight
 公选	gong1;bs svan3;ze	223
 供选	gong1;rg svan3;ze	185
 狗脊	gou3;qj zii3;ro	727
-勾践	gou1;bs zian4;zj	1296
 购进	gou4;bg zin4;zj	150
 够绝	gou4;jx zve2;sb	50
 购齐	gou4;bg cii2;wl	548
@@ -3113,7 +3103,6 @@ sort: by_weight
 济川	zii4;dq chuan1;pl	568
 剂次	zii4;qd ci4;dq	166
 即此	zii2;ge ci3;vb	108
-济慈	zii4;dq ci2;bx	86
 即从	zii2;ge cong2;rr	673
 集萃	zii2;ra cui4;cu	107
 集粹	zii2;ra cui4;mu	96
@@ -3158,7 +3147,6 @@ sort: by_weight
 济钢	zii4;dq gang1;jx	78
 即告	zii2;ge gao4;nk	103
 祭告	zii4;xu gao4;nk	82
-济公	zii4;dq gong1;bs	232
 积功	zii1;hv gong1;gl	48
 积垢	zii1;hv gou4;tk	594
 脊骨	zii3;ro gu3;go	553
@@ -3238,7 +3226,6 @@ sort: by_weight
 即可	zii2;ge ke3;dk	120815
 即刻	zii2;ge ke4;wd	2502
 集客	zii2;ra ke4;bk	96
-济科	zii4;dq ke1;hd	60
 疾控	zii2;bu kong4;fg	1184
 集控	zii2;ra kong4;fg	429
 祭孔	zii4;xu kong3;zv	386
@@ -5384,7 +5371,6 @@ sort: by_weight
 净土	zing4;dy tu3;ua	1115
 井蛙	zing3;ac wa1;it	170
 净网	zing4;dy wang3;kx	1143
-靖王	zing4;lo wang2;at	1086
 井网	zing3;ac wang3;kx	154
 精卫	zing1;mo wei4;ea	558
 精微	zing1;mo wei1;rj	257
@@ -5999,7 +5985,6 @@ sort: by_weight
 聚神	zv4;eu shen2;pu	790
 聚生	zv4;eu sheng1;pf	640
 聚首	zv4;eu shou3;bz	477
-沮授	zv3;dq shou4;fy	62
 聚谈	zv4;eu tan2;yh	40
 聚糖	zv4;eu tang2;mk	47
 聚头	zv4;eu tou2;dd	75
@@ -6144,7 +6129,6 @@ sort: by_weight
 绝学	zve2;sb xve2;xz	911
 绝压	zve2;sb ya1;id	346
 绝艳	zve2;sb yan4;fb	752
-爵爷	zve2;vc ye2;fe	2182
 绝艺	zve2;sb yi4;cv	100
 绝影	zve2;sb ying3;op	724
 绝育	zve2;sb yv4;wo	1275
@@ -6443,7 +6427,6 @@ sort: by_weight
 拉翔	la1;fl siang2;yx	105
 拉箱	la1;fl siang1;vo	84
 拉新	la1;fl sin1;lt	2791
-来济	lai2;aa zii4;dq	927
 来集	lai2;aa zii2;ra	878
 来接	lai2;aa zie1;fn	2901
 赖姐	lai4;ub zie3;nq	235
@@ -6461,7 +6444,6 @@ sort: by_weight
 来写	lai2;aa sie3;by	6760
 来些	lai2;aa sie1;ve	940
 来信	lai2;aa sin4;rk	1909
-莱辛	lai2;cl sin1;lu	166
 来修	lai2;aa siu1;rp	1310
 来秀	lai2;aa siu4;hn	1244
 来选	lai2;aa svan3;ze	1366
@@ -6477,7 +6459,6 @@ sort: by_weight
 缆线	lan3;sj sian4;sj	1094
 蓝翔	lan2;cm siang2;yx	659
 兰心	lan2;bs sin1;dd	119
-蓝心	lan2;cm sin1;dd	107
 兰新	lan2;bs sin1;lt	99
 兰辛	lan2;bs sin1;lu	77
 蓝星	lan2;cm sing1;ou	929
@@ -6756,7 +6737,6 @@ sort: by_weight
 陵寝	ling2;ew cin3;by	524
 领情	ling3;ry cing2;xo	192
 另请	ling4;kl cing3;yo	173
-凌青	ling2;dw cing1;fo	156
 领取	ling3;ry cv3;ey	20743
 另取	ling4;kl cv3;ey	122
 另娶	ling4;kl cv3;en	38
@@ -6804,7 +6784,6 @@ sort: by_weight
 陆仟	liu4;ej cian1;rq	97
 六亲	liu4;wb cin1;la	44
 留情	liu2;pt cing2;xo	399
-柳青	liu3;ae cing1;fo	310
 硫氰	liu2;ui cing2;qo	210
 留取	liu2;pt cv3;ey	166
 流泉	liu2;di cvan2;bu	60
@@ -6834,7 +6813,6 @@ sort: by_weight
 龙井	long2;yp zing3;ac	628
 龙睛	long2;yp zing1;oo	513
 龙且	long2;yp zv1;oa	86
-龙潜	long2;yp cian2;do	85
 龙枪	long2;yp ciang1;av	349
 龙泉	long2;yp cvan2;bu	443
 陇西	long3;el sii1;ak	1274
@@ -6863,7 +6841,6 @@ sort: by_weight
 录井	lu4;eu zing3;ac	30
 露酒	lu4;yk ziu3;dy	69
 陆栖	lu4;ej cii1;ax	127
-露茜	lu4;yk cian4;cx	806
 炉前	lu2;hh cian2;bd	646
 路堑	lu4;zk cian4;it	265
 录取	lu4;eu cv3;ey	31862
@@ -6883,9 +6860,7 @@ sort: by_weight
 陆姓	lu4;ej sing4;nu	131
 卢姓	lu2;bu sing4;nu	118
 陆续	lu4;ej sv4;sd	12887
-鲁迅	lu3;yo svn4;zu	12657
 陆巡	lu4;ej svn2;zv	719
-卢循	lu2;bu svn2;ro	576
 乱挤	luan4;uv zii3;fq	873
 乱箭	luan4;uv zian4;vd	790
 栾姐	luan2;wa zie3;nq	4
@@ -6903,7 +6878,6 @@ sort: by_weight
 论迹	lun4;yl zii4;zb	117
 轮询	lun2;il svn2;yo	490
 逻辑	luo2;zx zii5;ie	123204
-罗辑	luo2;sx zii2;ie	4691
 落籍	luo4;ck zii2;vo	122
 罗姐	luo2;sx zie3;nq	1382
 骆姐	luo4;mk zie3;nq	164
@@ -7023,13 +6997,11 @@ sort: by_weight
 毛姐	mao2;pv zie3;nq	178
 铆接	mao3;je zie1;fn	153
 冒进	mao4;oo zin4;zj	885
-毛晋	mao2;pv zin4;yo	399
 毛钱	mao2;pv cian2;jj	2270
 毛细	mao2;pv sii4;st	233
 毛线	mao2;pv sian4;sj	6137
 貌相	mao4;ve siang1;ao	13
 毛象	mao2;pv siang4;du	12
-冒襄	mao4;oo siang1;yf	9
 茂新	mao4;cg sin1;lt	562
 毛姓	mao2;pv sing4;nu	16
 昴星	mao3;oe sing1;ou	15
@@ -7071,7 +7043,6 @@ sort: by_weight
 没趣	mei2;du cv4;ty	1340
 没取	mei2;du cv3;ey	172
 没全	mei2;du cvan2;rw	141
-梅西	mei2;am sii1;ak	41322
 没洗	mei2;du sii3;de	314
 美西	mei3;yd sii1;ak	251
 没膝	mei2;du sii1;ou	108
@@ -7258,7 +7229,6 @@ sort: by_weight
 摸清	mo1;fd cing1;do	3036
 墨趣	mo4;lt cv4;ty	164
 莫西	mo4;cd sii1;ak	1350
-摩西	mo2;gu sii1;ak	254
 磨细	mo2;gu sii4;st	203
 末席	mo4;aa sii2;gj	162
 磨洗	mo2;gu sii3;de	103
@@ -7309,7 +7279,6 @@ sort: by_weight
 母象	mu3;md siang4;du	357
 木屑	mu4;ur sie4;uo	754
 木楔	mu4;ur sie1;ad	440
-木心	mu4;ur sin1;dd	1385
 木星	mu4;ur sing1;ou	6748
 母性	mu3;md sing4;xu	1014
 母星	mu3;md sing1;ou	811
@@ -7656,7 +7625,6 @@ sort: by_weight
 喷些	pen1;kb sie1;ve	325
 喷雪	pen1;kb sve3;ye	361
 彭进	peng2;tp zin4;zj	179
-彭荃	peng2;tp cvan2;cw	6
 碰线	peng4;uy sian4;sj	576
 鹏翔	peng2;on siang2;yx	752
 捧心	peng3;ff sin1;dd	16
@@ -8497,7 +8465,6 @@ sort: by_weight
 前浪	cian2;bd lang4;dl	898
 前廊	cian2;bd lang2;ge	853
 签了	cian1;vq le5;al	7304
-钱雷	cian2;jj lei2;yt	94
 潜力	cian2;do li4;vp	15292
 千里	cian1;pu li3;tt	3560
 前例	cian2;bd li4;rd	285
@@ -8543,7 +8510,6 @@ sort: by_weight
 千磨	cian1;pu mo2;gu	274
 前膜	cian2;bd mo2;od	247
 千亩	cian1;pu mu3;wt	1149
-钱穆	cian2;jj mu4;hp	122
 前南	cian2;bd nan2;ug	68
 前脑	cian2;bd nao3;ox	75
 钱呢	cian2;jj ne5;kb	1206
@@ -8578,7 +8544,6 @@ sort: by_weight
 千奇	cian1;pu qi2;dk	467
 前旗	cian2;bd qi2;fb	80
 前鳍	cian2;bd qi2;yo	64
-钱起	cian2;jj qi3;tj	51
 千祈	cian1;pu qi2;pt	40
 欠钱	qian4;dr cian2;jj	1936
 芊芊	cian1;cq cian1;cq	882
@@ -9209,7 +9174,6 @@ sort: by_weight
 瞧着	ciao2;oh zhe5;yo	945
 瞧这	ciao2;oh zhe4;zw	640
 鞘中	ciao4;co zhong1;kl	109
-谯周	ciao2;yh zhou1;kk	568
 樵子	ciao2;ah zi5;la	390
 雀子	ciao1;xv zi3;la	333
 窃案	cie4;bd an4;ba	9
@@ -9295,7 +9259,6 @@ sort: by_weight
 且莫	cie3;oa mo4;cd	128
 且末	cie3;oa mo4;aa	102
 且能	cie3;oa neng2;sb	1859
-切尼	cie1;qd ni2;ub	804
 切牌	cie1;qd pai2;pu	495
 切盼	cie4;qd pan4;of	19
 切配	cie1;qd pei4;yj	999
@@ -9409,7 +9372,6 @@ sort: by_weight
 秦国	cin2;ih guo2;wy	1330
 侵害	cin1;ry hai4;bk	4245
 亲海	cin1;la hai3;dm	580
-秦汉	cin2;ih han4;dy	2964
 亲和	cin1;la he2;hk	989
 亲核	cin1;la he2;ar	837
 沁河	cin4;dx he2;dk	522
@@ -9417,7 +9379,6 @@ sort: by_weight
 溱湖	cin2;dh hu2;do	641
 侵华	cin1;ry hua2;ru	449
 亲华	cin1;la hua2;ru	204
-秦皇	cin2;ih huang2;bw	418
 侵及	cin1;ry ji2;pn	254
 勤绩	qin2;cl zii4;sb	216
 寝技	cin3;by ji4;fv	194
@@ -9915,7 +9876,6 @@ sort: by_weight
 清零	cing1;do ling2;ys	3027
 清灵	cing1;do ling2;eh	379
 蜻蛉	cing1;io ling2;is	303
-青灵	cing1;fo ling2;eh	154
 青菱	cing1;fo ling2;cw	123
 请留	cing3;yo liu2;pt	1202
 清流	cing1;do liu2;di	1142
@@ -9953,7 +9913,6 @@ sort: by_weight
 情面	cing2;xo mian4;ao	506
 青苗	cing1;fo miao2;ct	201
 清明	cing1;do ming2;oo	2795
-晴明	cing2;oo ming2;oo	329
 请命	cing3;yo ming4;re	229
 清名	cing1;do ming2;xk	183
 青冥	cing1;fo ming2;bl	146
@@ -10340,7 +10299,6 @@ sort: by_weight
 琼浆	qiong2;wx ziang1;lu	135
 穷尽	qiong2;bl zin4;id	2267
 琼霄	qiong2;wx siao1;yo	324
-秋白	ciu1;hh bai2;po	881
 秋波	ciu1;hh bo1;dp	176
 秋播	ciu1;hh bo1;ft	167
 秋菜	ciu1;hh cai4;ca	272
@@ -10393,7 +10351,6 @@ sort: by_weight
 囚禁	ciu2;wr jin4;au	2970
 求进	qiu2;au zin4;zj	194
 球进	qiu2;wq zin4;zj	155
-秋瑾	ciu1;hh jin3;ww	124
 秋津	ciu1;hh zin1;dy	99
 秋尽	ciu1;hh zin4;id	79
 秋槿	ciu1;hh jin3;aw	12
@@ -10474,7 +10431,6 @@ sort: by_weight
 秋霞	ciu1;hh xia2;yy	60
 求仙	qiu2;au sian1;ru	264
 球线	qiu2;wq sian4;sj	89
-秋香	ciu1;hh xiang1;ho	154
 求新	qiu2;au sin1;lt	512
 求心	qiu2;au sin1;dd	238
 球心	qiu2;wq sin1;dd	190
@@ -10507,7 +10463,6 @@ sort: by_weight
 秋张	ciu1;hh zhang1;gi	612
 秋招	ciu1;hh zhao1;fk	9731
 秋装	ciu1;hh zhuang1;ly	722
-秋子	ciu1;hh zi3;la	138
 取吧	cv3;ey ba5;kb	105
 取保	cv3;ey bao3;ra	295
 趋避	cv1;te bi4;zx	163
@@ -10749,7 +10704,6 @@ sort: by_weight
 全纯	cvan2;rw chun2;st	752
 醛醇	cvan2;yw chun2;yz	714
 全词	cvan2;rw ci2;yk	239
-全琮	cvan2;rw cong2;wu	207
 全村	cvan2;rw cun1;ac	1372
 泉村	cvan2;bu cun1;ac	936
 全错	cvan2;rw cuo4;jo	575
@@ -11249,7 +11203,6 @@ sort: by_weight
 人静	ren2;pn zing4;fy	1122
 人就	ren2;pn ziu4;wy	7888
 忍俊	ren3;dx zvn4;rw	163
-任峻	ren4;rw zvn4;uw	40
 人妻	ren2;pn cii1;un	813
 人齐	ren2;pn cii2;wl	446
 人前	ren2;pn cian2;bd	1422
@@ -11376,7 +11329,6 @@ sort: by_weight
 锐捷	rui4;jx zie2;fz	1058
 芮姐	rui4;cn zie3;nq	244
 锐进	rui4;jx zin4;zj	325
-瑞茜	rui4;we cian4;cx	28
 瑞秋	rui4;we ciu1;hh	2616
 瑞泉	rui4;we cvan2;bu	472
 瑞祥	rui4;we siang2;py	653
@@ -11697,7 +11649,6 @@ sort: by_weight
 沈姓	shen3;de sing4;nu	48
 深省	shen1;da sing3;uo	38
 肾性	shen4;lo sing4;xu	24
-神秀	shen2;pu siu4;hn	515
 参宿	shen1;sp siu4;bb	172
 慎修	shen4;xb siu1;rp	137
 参须	shen1;sp sv1;py	562
@@ -11791,7 +11742,6 @@ sort: by_weight
 使节	shi3;rl zie2;ce	301
 失节	shi1;pf zie2;ce	38
 驶进	shi3;mu zin4;zj	263
-史进	shi3;kn zin4;zj	160
 市井	shi4;wj zing3;ac	1862
 石井	shi2;ak zing3;ac	185
 石晶	shi2;ak zing1;oo	94
@@ -11875,7 +11825,6 @@ sort: by_weight
 石屑	shi2;ak sie4;uo	314
 实写	shi2;bd sie3;by	200
 事泄	shi4;gy sie4;du	102
-士燮	shi4;ua sie4;hy	81
 失信	shi1;pf sin4;rk	2123
 实心	shi2;bd sin1;dd	1582
 时薪	shi2;to sin1;ct	612
@@ -12201,7 +12150,6 @@ sort: by_weight
 宋姐	song4;ba zie3;nq	609
 松姐	song1;ag zie3;nq	210
 送进	song4;zt zin4;zj	3291
-松井	song1;ag zing3;ac	213
 松静	song1;ag zing4;fy	136
 送酒	song4;zt ziu3;dy	819
 送钱	song4;zt cian2;jj	2581
@@ -12215,7 +12163,6 @@ sort: by_weight
 送信	song4;zt sin4;rk	694
 松心	song1;ag sin1;dd	625
 送修	song4;zt siu1;rp	311
-松雪	song1;ag sve3;ye	69
 搜集	sou1;fy zii2;ra	11266
 搜尽	sou1;fy zin4;id	414
 搜星	sou1;fy sing1;ou	50
@@ -12250,7 +12197,6 @@ sort: by_weight
 苏姓	su1;cb sing4;nu	448
 素性	su4;fx sing4;xu	359
 苏绣	su1;cb siu4;sn	113
-苏洵	su1;cb svn2;do	973
 酸浆	suan1;yw ziang1;lu	116
 酸椒	suan1;yw ziao1;ay	452
 算进	suan4;vc zin4;zj	550
@@ -12345,7 +12291,6 @@ sort: by_weight
 他笑	ta1;ry siao4;vy	266
 他写	ta1;ry sie3;by	1174
 她写	ta1;ny sie3;by	165
-他信	ta1;ry sin4;rk	229
 他心	ta1;ry sin1;dd	191
 他醒	ta1;ry sing3;yu	844
 踏雪	ta4;zo sve3;ye	261
@@ -12409,7 +12354,6 @@ sort: by_weight
 谈钱	tan2;yh cian2;jj	961
 贪钱	tan1;rb cian2;jj	175
 摊前	tan1;fv cian2;bd	160
-谈迁	tan2;yh cian1;zq	128
 谭峭	tan2;yu ciao4;uo	217
 探亲	tan4;fa cin1;la	668
 谈情	tan2;yh cing2;xo	198
@@ -12447,7 +12391,6 @@ sort: by_weight
 烫酒	tang4;dh ziu3;dy	38
 糖酒	tang2;mk ziu3;dy	36
 唐雎	tang2;gk zv1;qv	531
-唐骏	tang2;gk zvn4;mw	1013
 塘栖	tang2;tk cii1;ax	994
 唐七	tang2;gk cii1;av	944
 汤浅	tang1;dp cian3;dj	392
@@ -12474,7 +12417,6 @@ sort: by_weight
 桃井	tao2;av zing3;ac	28
 掏钱	tao1;ff cian2;jj	7216
 讨钱	tao3;yc cian2;jj	213
-陶潜	tao2;ef cian2;do	157
 掏枪	tao1;ff ciang1;av	342
 套取	tao4;dg cv3;ey	760
 讨取	tao3;yc cv3;ey	212
@@ -12714,7 +12656,6 @@ sort: by_weight
 通性	tong1;zy sing4;xu	106
 同修	tong2;kk siu1;rp	276
 铜锈	tong2;jk siu4;jn	97
-铜须	tong2;jk sv1;py	355
 通选	tong1;zy svan3;ze	814
 通讯	tong1;zy svn4;yu	7815
 头奖	tou2;dd ziang3;ld	170
@@ -13039,7 +12980,6 @@ sort: by_weight
 温性	wen1;dm sing4;xu	978
 纹绣	wen2;sw siu4;sn	179
 文秀	wen2;wx siu4;hn	138
-文绣	wen2;wx siu4;sn	110
 文选	wen2;wx svan3;ze	314
 文宣	wen2;wx svan1;bd	251
 问询	wen4;mk svn2;yo	1353
@@ -13212,7 +13152,6 @@ sort: by_weight
 西濒	sii1;ak bin1;dy	11
 西饼	sii1;ak bing3;uk	71
 息兵	sii1;zx bing1;qb	61
-西伯	sii1;ak bo2;rb	160
 锡伯	sii1;jw bo2;rb	135
 锡箔	sii1;jw bo2;vb	100
 西部	sii1;ak bu4;le	8955
@@ -13527,7 +13466,6 @@ sort: by_weight
 细佬	sii4;st lao3;rl	549
 洗了	sii3;de le5;al	3131
 熄了	sii1;hx le5;al	791
-席勒	sii2;gj le4;cl	725
 细了	sii4;st le5;al	200
 锡类	sii1;jw lei4;md	34
 西冷	sii1;ak leng3;ds	1096
@@ -13812,7 +13750,6 @@ sort: by_weight
 西文	sii1;ak wen2;wx	891
 细问	sii4;st wen4;mk	813
 习文	sii2;vd wen2;wx	398
-锡文	sii1;jw wen2;wx	149
 锡瘟	sii1;jw wen1;bm	22
 习武	sii2;vd wu3;gv	1247
 西武	sii1;ak wu3;gv	935
@@ -14012,7 +13949,6 @@ sort: by_weight
 下潜	xia4;ab cian2;do	1077
 下签	xia4;ab cian1;vq	896
 下切	xia4;ab cie1;qd	119
-夏青	xia4;bw cing1;fo	31
 下情	xia4;ab cing2;xo	29
 夏秋	xia4;bw ciu1;hh	157
 下细	xia4;ab sii4;st	828
@@ -15063,7 +14999,6 @@ sort: by_weight
 相融	siang1;ao rong2;gi	530
 相溶	siang1;ao rong2;dg	421
 想入	siang3;ax ru4;pn	603
-相如	siang4;ao ru2;nk	511
 镶入	siang1;jf ru4;pn	440
 祥瑞	siang2;py rui4;we	892
 相若	siang1;ao ruo4;ck	192
@@ -15172,7 +15107,6 @@ sort: by_weight
 想完	siang3;ax wan2;by	116
 相望	siang1;ao wang4;ww	1504
 想往	siang3;ax wang3;rv	646
-襄王	siang1;yf wang2;at	155
 相忘	siang1;ao wang4;wx	124
 相王	siang1;ao wang2;at	99
 象王	siang4;du wang2;at	79
@@ -15236,7 +15170,6 @@ sort: by_weight
 祥兴	siang2;py xing1;xb	37
 象雄	siang4;du xiong2;uv	675
 湘绣	siang1;do siu4;sn	38
-向秀	xiang4;pk siu4;hn	36
 相许	siang1;ao xv3;yw	110
 相续	siang1;ao sv4;sd	104
 相序	siang1;ao sv4;gy	99
@@ -15387,7 +15320,6 @@ sort: by_weight
 消斑	siao1;do ban1;ww	73
 小瓣	siao3;lb ban4;xg	58
 销板	siao1;jo ban3;ay	46
-萧邦	siao1;cb bang1;fe	188
 小邦	siao3;lb bang1;fe	150
 小棒	siao3;lb bang4;af	120
 小宝	siao3;lb bao3;by	2006
@@ -15554,7 +15486,6 @@ sort: by_weight
 小跌	siao3;lb die1;zf	113
 小丁	siao3;lb ding1;al	458
 小定	siao3;lb ding4;bz	412
-萧鼎	siao1;cb ding3;po	371
 销钉	siao1;jo ding1;jd	334
 小东	siao3;lb dong1;ax	895
 小董	siao3;lb dong3;cv	204
@@ -15635,7 +15566,6 @@ sort: by_weight
 小港	siao3;lb gang3;ds	684
 小岗	siao3;lb gang3;ux	363
 小缸	siao3;lb gang1;fg	155
-萧纲	siao1;cb gang1;sx	86
 萧岗	siao1;cb gang3;ux	68
 小高	siao3;lb gao1;wk	995
 小稿	siao3;lb gao3;hk	500
@@ -15715,7 +15645,6 @@ sort: by_weight
 硝河	siao1;uo he2;dk	36
 小黑	siao3;lb hei1;lh	5790
 小红	siao3;lb hong2;sg	3856
-萧红	siao1;cb hong2;sg	1720
 小洪	siao3;lb hong2;dg	295
 小宏	siao3;lb hong2;bs	236
 小虹	siao3;lb hong2;ig	120
@@ -15736,7 +15665,6 @@ sort: by_weight
 小花	siao3;lb hua1;cb	3102
 小华	siao3;lb hua2;ru	998
 硝化	siao1;uo hua4;rb	144
-萧华	siao1;cb hua2;ru	115
 小画	siao3;lb hua4;at	73
 小话	siao3;lb hua4;yu	58
 小坏	siao3;lb huai4;tb	837
@@ -15840,7 +15768,6 @@ sort: by_weight
 小卷	siao3;lb jvan4;jv	220
 小军	siao3;lb jvn1;bi	568
 小君	siao3;lb jvn1;yk	364
-萧军	siao1;cb jvn1;bi	320
 小俊	siao3;lb zvn4;rw	73
 小卡	siao3;lb ka3;ub	1400
 小咖	siao3;lb ka1;kk	238
@@ -15859,7 +15786,6 @@ sort: by_weight
 小颗	siao3;lb ke1;gy	213
 消渴	siao1;do ke3;dr	145
 小克	siao3;lb ke4;ux	116
-萧克	siao1;cb ke4;ux	92
 小科	siao3;lb ke1;hd	87
 小坑	siao3;lb keng1;tj	713
 小孔	siao3;lb kong3;zv	1846
@@ -15954,7 +15880,6 @@ sort: by_weight
 小鲁	siao3;lb lu3;yo	157
 小炉	siao3;lb lu2;hh	141
 小乱	siao3;lb luan4;uv	702
-萧鸾	siao1;cb luan2;wn	632
 小轮	siao3;lb lun2;il	66
 小罗	siao3;lb luo2;sx	4289
 小洛	siao3;lb luo4;dk	770
@@ -16330,7 +16255,6 @@ sort: by_weight
 小童	siao3;lb tong2;ll	496
 小彤	siao3;lb tong2;dp	169
 小桶	siao3;lb tong3;ay	153
-萧统	siao1;cb tong3;sy	77
 小痛	siao3;lb tong4;by	61
 硝酮	siao1;uo tong2;yk	38
 小偷	siao3;lb tou1;rd	5476
@@ -16483,7 +16407,6 @@ sort: by_weight
 小燕	siao3;lb yan4;ch	263
 小眼	siao3;lb yan3;og	238
 小言	siao3;lb yan2;wk	125
-萧衍	siao1;cb yan3;rd	109
 小妍	siao3;lb yan2;nk	100
 小严	siao3;lb yan2;ai	68
 小岩	siao3;lb yan2;uu	61
@@ -16601,7 +16524,6 @@ sort: by_weight
 小灶	siao3;lb zao4;ht	232
 消噪	siao1;do zao4;ka	97
 小泽	siao3;lb ze2;df	512
-萧赜	siao1;cb ze2;ib	461
 小贼	siao3;lb zei2;bu	289
 小曾	siao3;lb zeng1;bo	104
 小扎	siao3;lb zha1;fv	770
@@ -17076,7 +16998,6 @@ sort: by_weight
 信臣	sin4;rk chen2;kl	868
 心沉	sin1;dd chen2;dj	517
 新城	sin1;lt cheng2;ti	2399
-信诚	sin4;rk cheng2;yi	266
 新成	sin1;lt cheng2;gv	116
 心诚	sin1;dd cheng2;yi	92
 新程	sin1;lt cheng2;hw	73
@@ -18542,7 +18463,6 @@ sort: by_weight
 修片	siu1;rp pian4;pv	878
 绣品	siu4;sn pin3;kk	107
 秀萍	siu4;hn ping2;cp	60
-修平	siu1;rp ping2;au	57
 修谱	siu1;rp pu3;yo	536
 秀气	siu4;hn qi4;pv	907
 修葺	siu1;rp cii4;ce	310
@@ -18557,7 +18477,6 @@ sort: by_weight
 秀卿	siu4;hn qing1;pg	16
 绣球	siu4;sn qiu2;wq	788
 休囚	xiu1;ra ciu2;wr	513
-秀全	siu4;hn cvan2;rw	6
 溴醛	xiu4;dq cvan2;yw	5
 修容	siu1;rp rong2;bg	399
 秀荣	siu4;hn rong2;ca	359
@@ -18923,7 +18842,6 @@ sort: by_weight
 选得	svan3;ze de5;rc	876
 宣德	svan1;bd de2;rx	398
 选登	svan3;ze deng1;bb	31
-宣帝	svan1;bd di4;wj	2355
 选点	svan3;ze dian3;vh	320
 选调	svan3;ze diao4;yk	2452
 选定	svan3;ze ding4;bz	5947
@@ -19246,7 +19164,6 @@ sort: by_weight
 雪菊	sve3;ye jv2;cm	802
 鳕科	sve3;ye ke1;hd	688
 雪克	sve3;ye ke4;ux	550
-雪莱	sve3;ye lai2;cl	549
 雪兰	sve3;ye lan2;bs	57
 雪狼	sve3;ye lang2;ql	116
 雪浪	sve3;ye lang4;dl	110
@@ -19286,7 +19203,6 @@ sort: by_weight
 学前	xve2;xz cian2;bd	612
 雪橇	sve3;ye qiao1;am	430
 血亲	xve4;pm cin1;la	461
-雪芹	sve3;ye qin2;ct	368
 血清	xve4;pm cing1;do	2879
 学情	xve2;xz cing2;xo	1058
 雪晴	sve3;ye cing2;oo	710
@@ -19370,7 +19286,6 @@ sort: by_weight
 削职	sve1;xd zhi2;ev	64
 雪中	sve3;ye zhong1;kl	920
 雪种	sve3;ye zhong3;hv	250
-雪舟	sve3;ye zhou1;pd	564
 雪子	sve3;ye zi5;la	376
 寻爱	svn2;ec ai4;vy	75
 巡按	svn2;zv an4;fn	122
@@ -19411,7 +19326,6 @@ sort: by_weight
 巡抚	svn2;zv fu3;fw	838
 寻父	svn2;ec fu4;bx	580
 寻夫	svn2;ec fu1;er	504
-迅哥	svn4;zu ge1;kk	201
 寻个	svn2;ec ge4;rl	141
 寻根	svn2;ec gen1;ag	308
 巡更	svn2;zv geng1;an	13
@@ -19464,7 +19378,6 @@ sort: by_weight
 逊克	svn4;zx ke4;ux	612
 鲟科	svn2;yc ke1;hd	338
 旬空	svn2;bo kong1;bg	626
-荀况	svn2;co kuang4;dx	116
 寻来	svn2;ec lai2;aa	828
 寻乐	svn2;ec le4;px	153
 寻了	svn2;ec le5;al	122
@@ -19493,7 +19406,6 @@ sort: by_weight
 寻亲	svn2;ec cin1;la	173
 殉情	svn4;do cing2;xo	857
 汛情	svn4;du cing2;xo	153
-荀卿	svn2;co qing1;pg	116
 徇情	svn4;ro cing2;xo	92
 寻求	svn2;ec qiu2;au	23371
 寻人	svn2;ec ren2;pn	345
@@ -19547,7 +19459,6 @@ sort: by_weight
 巡幸	svn2;zv xing4;tg	130
 浔兴	svn2;dc xing1;xb	102
 循序	svn2;ro sv4;gy	223
-荀勖	svn2;co xv4;ol	103
 循循	svn2;ro svn2;ro	37
 巡演	svn2;zv yan3;db	6412
 巡洋	svn2;zv yang2;dy	172
@@ -19561,9 +19472,7 @@ sort: by_weight
 迅影	svn4;zu ying3;op	477
 巡游	svn2;zv you2;dz	1303
 迅游	svn4;zu you2;dz	1033
-荀攸	svn2;co you1;rw	605
 寻幽	svn2;ec you1;uy	544
-荀彧	svn2;co yv4;ga	957
 逊于	svn4;zx yv2;au	222
 鲟鱼	svn2;yc yv2;da	138
 寻缘	svn2;ec yvan2;su	639
@@ -19657,7 +19566,6 @@ sort: by_weight
 延请	yan2;zv cing3;yo	95
 烟青	yan1;hy cing1;fo	76
 艳秋	yan4;fb ciu1;hh	765
-砚秋	yan4;uj ciu1;hh	634
 岩泉	yan2;uu cvan2;bu	157
 盐泉	yan2;tm cvan2;bu	125
 燕雀	yan4;ch cve4;xv	168
@@ -19814,7 +19722,6 @@ sort: by_weight
 亦即	yi4;wb zii2;ge	637
 一剂	yi2;aa zii4;qd	103
 意即	yi4;lx zii2;ge	82
-伊籍	yi1;ry zii2;vo	32
 移籍	yi2;hx zii2;vo	25
 一挤	yi4;aa zii3;fq	5
 一箭	yi2;aa zian4;vd	1997
@@ -19911,7 +19818,6 @@ sort: by_weight
 医仙	yi1;ku sian1;ru	135
 以先	yi3;lr sian1;ne	43
 一先	yi1;aa sian1;ne	34
-逸仙	yi4;zt sian1;ru	12
 一箱	yi4;aa siang1;vo	6512
 意象	yi4;lx siang4;du	4019
 臆想	yi4;ox siang3;ax	1221
@@ -19939,7 +19845,6 @@ sort: by_weight
 疑心	yi2;bz sin1;dd	1902
 异心	yi4;sc sin1;dd	722
 一新	yi4;aa sin1;lt	307
-以新	yi3;lr sin1;lt	254
 宜信	yi2;bq sin4;rk	226
 易信	yi4;ow sin4;rk	180
 怡心	yi2;xk sin1;dd	144
@@ -20052,7 +19957,6 @@ sort: by_weight
 因循	yin1;wd svn2;ro	244
 影集	ying3;op zii2;ra	279
 硬挤	ying4;ug zii3;fq	97
-嬴稷	ying2;wn zii4;hw	38
 影迹	ying3;op zii4;zb	30
 应将	ying1;ga ziang1;lc	860
 鹰酱	ying1;gn ziang4;ly	774
@@ -20291,14 +20195,12 @@ sort: by_weight
 鱼线	yv2;da sian4;sj	496
 鱼鲜	yv2;da sian1;yy	131
 预想	yv4;yy siang3;ax	373
-玉祥	yv4;wd siang2;py	142
 裕祥	yv4;pg siang2;py	72
 欲想	yv4;gq siang3;ax	45
 愈小	yv4;rx siao3;lb	100
 玉箫	yv4;wd siao1;vb	95
 玉屑	yv4;wd sie4;uo	188
 于心	yv2;au sin1;dd	857
-庾信	yv3;gr sin4;rk	282
 育新	yv4;wo sin1;lt	225
 宇新	yv3;by sin1;lt	180
 育心	yv4;wo sin1;dd	144
@@ -20360,7 +20262,6 @@ sort: by_weight
 原性	yvan2;ix sing4;xu	584
 原姓	yvan2;ix sing4;nu	442
 袁姓	yvan2;ty sing4;nu	164
-元修	yvan2;aw siu1;rp	28
 远逊	yvan3;zy svn4;zx	958
 约集	yve1;su zii2;ra	128
 粤籍	yve4;pk zii2;vo	102
@@ -20422,7 +20323,6 @@ sort: by_weight
 云线	yvn2;ag sian4;sj	859
 孕线	yvn4;nz sian4;sj	814
 云翔	yvn2;ag siang2;yx	38
-允祥	yvn3;se siang2;py	32
 云霄	yvn2;ag siao1;yo	484
 运销	yvn4;zy siao1;jo	436
 云信	yvn2;ag sin4;rk	954
@@ -20545,7 +20445,6 @@ sort: by_weight
 扎进	zha1;fv zin4;zj	741
 榨取	zha4;av cv3;ey	1611
 诈取	zha4;yv cv3;ey	540
-扎西	zha1;fv sii1;ak	314
 炸线	zha4;hv sian4;sj	1262
 扎线	zha1;fv sian4;sj	882
 乍泄	zha4;pe sie4;du	846
@@ -21049,7 +20948,6 @@ sort: by_weight
 专心	zhuan1;ts sin1;dd	9436
 转性	zhuan3;iv sing4;xu	846
 专修	zhuan1;ts siu1;rp	298
-颛顼	zhuan1;uy sv1;wy	1802
 装进	zhuang1;ly zin4;zj	2741
 撞进	zhuang4;fl zin4;zj	320
 装酒	zhuang1;ly ziu3;dy	85
@@ -21190,7 +21088,6 @@ sort: by_weight
 族亲	zu2;fu cin1;la	41
 祖先	zu3;pq sian1;ne	10258
 足心	zu2;kz sin1;dd	82
-祖辛	zu3;pq sin1;lu	43
 祖姓	zu3;pq sing4;nu	778
 族姓	zu2;fu sing4;nu	739
 阻锈	zu3;eq siu4;jn	234
@@ -21257,13 +21154,10 @@ sort: by_weight
 左旋	zuo3;ug svan2;fz	738
 阿达西	a1;ek da2;zd sii1;ak	526
 阿蒂仙	a1;ek di4;cj sian1;ru	369
-阿济格	a1;ek zii4;dq ge2;ak	53
 阿积士	a1;ek zii1;hv shi4;ua	2
-阿加西	a1;ek jia1;lk sii1;ak	543
 阿姐啊	a1;ek zie3;nq a5;kk	328
 阿姐鼓	a1;ek zie3;nq gu3;tv	38
 阿井水	a1;ek zing3;ac shui3;ln	207
-阿久津	a1;ek jiu3;pn zin1;dy	6
 阿联酋	a1;ek lian2;et ciu2;by	1504
 阿莫仙	a1;ek mo4;cd sian1;ru	387
 阿讷西	a1;ek ne4;yn sii1;ak	666
@@ -21316,7 +21210,6 @@ sort: by_weight
 爱母亲	ai4;vy mu3;md cin1;la	598
 埃齐奥	ai1;tu cii2;wl ao4;pd	418
 爱妻号	ai4;vy cii1;un hao4;kk	274
-艾奇逊	ai4;cx qi2;dk svn4;zx	57
 爱妻子	ai4;vy cii1;un zi3;la	66
 挨千刀	ai1;fu cian1;pu dao1;vp	19
 爱钱进	ai4;vy cian2;jj zin4;zj	289
@@ -21391,7 +21284,6 @@ sort: by_weight
 爱笑了	ai4;vy siao4;vy le5;al	25
 爱小说	ai4;vy siao3;lb shuo1;yx	675
 艾小图	ai4;cx siao3;lb tu2;wd	230
-艾小羊	ai4;cx siao3;lb yang2;bf	3
 矮小者	ai3;un siao3;lb zhe3;lo	288
 矮小症	ai3;un siao3;lb zheng4;bv	482
 爱写诗	ai4;vy sie3;by shi1;yc	450
@@ -21731,7 +21623,6 @@ sort: by_weight
 安全组	an1;bn cvan2;rw zu3;sq	75
 暗杀星	an4;oo sha1;xa sing1;ou	428
 按陕西	an4;fn shan3;ej sii1;ak	472
-安尚秀	an1;bn shang4;xk siu4;hn	3
 安神剂	an1;bn shen2;pu zii4;qd	423
 按申请	an4;fn shen1;ol cing3;yo	450
 按升序	an4;fn sheng1;pc sv4;gy	490
@@ -21777,7 +21668,6 @@ sort: by_weight
 安西王	an1;bn sii1;ak wang2;at	9
 安息香	an1;bn sii1;zx xiang1;ho	47
 按西医	an4;fn sii1;ak yi1;ku	333
-安洗莹	an1;bn sii3;de ying2;cy	3
 按下就	an4;fn xia4;ab ziu4;wy	536
 安下心	an1;bn xia4;ab sin1;dd	66
 安鲜达	an1;bn sian1;yy da2;zd	38
@@ -21816,7 +21706,6 @@ sort: by_weight
 安心购	an1;bn sin1;dd gou4;bg	504
 按信号	an4;fn sin4;rk hao4;kk	428
 安心街	an1;bn sin1;dd jie1;rt	644
-岸信介	an4;ug sin4;rk jie4;rl	224
 安心卡	an1;bn sin1;dd ka3;ub	212
 安心看	an1;bn sin1;dd kan4;uo	35
 安心了	an1;bn sin1;dd le5;al	433
@@ -21871,7 +21760,6 @@ sort: by_weight
 按原先	an4;fn yvan2;ix sian1;ne	644
 按原线	an4;fn yvan2;ix sian4;sj	361
 按章节	an4;fn zhang1;lu zie2;ce	580
-安哲秀	an1;bn zhe2;fk siu4;hn	6
 按之前	an4;fn zhi1;dn cian2;bd	126
 安之星	an1;bn zhi1;dn sing1;ou	391
 安装前	an1;bn zhuang1;ly cian2;bd	742
@@ -21906,7 +21794,6 @@ sort: by_weight
 澳新线	ao4;dd sin1;lt sian4;sj	6
 熬夜写	ao2;fh ye4;ww sie3;by	662
 熬一宿	ao2;fh yi4;aa siu3;bb	405
-敖幼祥	ao2;fw you4;yl siang2;py	6
 澳洲籍	ao4;dd zhou1;dv zii2;vo	9
 把爱情	ba3;fb ai4;vy cing2;xo	855
 把爱心	ba3;fb ai4;vy sin1;dd	598
@@ -23018,7 +22905,6 @@ sort: by_weight
 白菜心	bai2;po cai4;ca sin1;dd	57
 佰草集	bai3;rb cao3;cu zii2;ra	44
 百草集	bai3;ab cao3;cu zii2;ra	40
-百草仙	bai3;ab cao3;cu sian1;ru	9
 拜宠清	bai4;uf chong3;bl cing1;do	297
 百搭性	bai3;ab da1;fk sing4;xu	28
 白担心	bai2;po dan1;fd sin1;dd	598
@@ -23162,7 +23048,6 @@ sort: by_weight
 白天醒	bai2;po tian1;ad sing3;yu	436
 白头须	bai2;po tou2;dd sv1;py	45
 拜托先	bai4;uf tuo1;fq sian1;ne	405
-白文选	bai2;po wen2;wx svan3;ze	13
 百武西	bai3;ab wu3;gv sii1;ak	202
 白细胞	bai2;po sii4;st bao1;ob	3171
 白锡包	bai2;po sii1;jw bao1;bs	99
@@ -23177,13 +23062,11 @@ sort: by_weight
 白西装	bai2;po sii1;ak zhuang1;ly	41
 摆线波	bai3;fq sian4;sj bo1;dp	4
 白鲜碱	bai2;po sian1;yy jian3;uk	117
-白线流	bai2;po sian4;sj liu2;di	6
 摆线轮	bai3;fq sian4;sj lun2;il	99
 白鲜皮	bai2;po sian1;yy pi2;py	6
 白藓皮	bai2;po sian3;cy pi2;py	5
 白先生	bai2;po sian1;ne sheng1;pf	239
 柏先生	bai3;ab sian1;ne sheng1;pf	215
-白先勇	bai2;po sian1;ne yong3;sl	292
 白仙子	bai2;po sian1;ru zi3;la	281
 白象的	bai2;po siang4;du de5;bu	392
 白象街	bai2;po siang4;du jie1;rt	13
@@ -23233,7 +23116,6 @@ sort: by_weight
 拜星月	bai4;uf sing1;ou yve4;ke	171
 百姓中	bai3;ab sing4;nu zhong1;kl	720
 百姓足	bai3;ab sing4;nu zu2;kz	392
-白修德	bai2;po siu1;rp de2;rx	170
 白秀峰	bai2;po siu4;hn feng1;uf	144
 白秀英	bai2;po siu4;hn ying1;cy	38
 白秀珠	bai2;po siu4;hn zhu1;ww	195
@@ -23251,7 +23133,6 @@ sort: by_weight
 白雪姬	bai2;po sve3;ye ji1;ni	536
 白雪梅	bai2;po sve3;ye mei2;am	436
 白雪山	bai2;po sve3;ye shan1;kl	428
-白雪石	bai2;po sve3;ye shi2;ak	9
 白雪松	bai2;po sve3;ye song1;ag	3
 白雪雪	bai2;po sve3;ye sve3;ye	410
 白雪中	bai2;po sve3;ye zhong1;kl	486
@@ -23260,7 +23141,6 @@ sort: by_weight
 百叶箱	bai3;ab ye4;ku siang1;vo	78
 摆一些	bai3;fq yi4;aa sie1;ve	932
 白一些	bai2;po yi4;aa sie1;ve	441
-白永祥	bai2;po yong3;du siang2;py	50
 白云泉	bai2;po yvn2;ag cvan2;bu	266
 百丈泉	bai3;ab zhang4;an cvan2;bu	306
 摆整齐	bai3;fq zheng3;uv cii2;wl	423
@@ -23318,7 +23198,6 @@ sort: by_weight
 半截塔	ban4;bf zie2;gv ta3;tk	346
 斑节虾	ban1;ww zie2;ce xia1;ix	626
 半截袖	ban4;bf zie2;gv siu4;py	374
-班婕妤	ban1;wl zie2;nz yv2;ny	31
 半截子	ban4;bf zie2;gv zi5;la	13
 办进场	ban4;lb zin4;zj chang3;tp	225
 搬进城	ban1;fu zin4;zj cheng2;ti	405
@@ -23584,7 +23463,6 @@ sort: by_weight
 包清工	bao1;bs cing1;do gong1;aa	6
 包清关	bao1;bs cing1;do guan1;bt	297
 爆青筋	bao4;hu cing1;fo jin1;vl	315
-包青天	bao1;bs cing1;fo tian1;ad	217
 薄秋裤	bao2;cc ciu1;hh ku4;pi	225
 爆全场	bao4;hu cvan2;rw chang3;tp	783
 保全费	bao3;ra cvan2;rw fei4;fb	28
@@ -23612,7 +23490,6 @@ sort: by_weight
 保水性	bao3;ra shui3;ln sing4;xu	185
 宝塔尖	bao3;by ta3;tk zian1;xd	297
 宝塔线	bao3;by ta3;tk sian4;sj	436
-包天笑	bao1;bs tian1;ad siao4;vy	9
 报听写	bao4;fy ting1;kt sie3;by	225
 包头西	bao1;bs tou2;dd sii1;ak	396
 爆头线	bao4;hu tou2;dd sian4;sj	410
@@ -23625,7 +23502,6 @@ sort: by_weight
 包西线	bao1;bs sii1;ak sian4;sj	302
 报喜讯	bao4;fy xi3;tk svn4;yu	436
 鲍西亚	bao4;yb sii1;ak ya4;ay	320
-鲍西娅	bao4;yb sii1;ak ya4;ny	255
 抱膝坐	bao4;fb sii1;ou zuo4;tr	436
 保鲜吧	bao3;ra sian1;yy ba5;kb	175
 保鲜袋	bao3;ra sian1;yy dai4;ry	521
@@ -23728,7 +23604,6 @@ sort: by_weight
 爆一些	bao4;hu yi4;aa sie1;ve	88
 煲一些	bao1;rh yi4;aa sie1;ve	72
 保阴煎	bao3;ra yin1;eo zian1;bh	162
-鲍有祥	bao4;yb you3;uo siang2;py	47
 暴雨前	bao4;ou yv3;ad cian2;bd	468
 爆炸剂	bao4;hu zha4;hv zii4;qd	65
 爆炸箭	bao4;hu zha4;hv zian4;vd	338
@@ -23884,7 +23759,6 @@ sort: by_weight
 被净化	bei4;pp zing4;dy hua4;rb	92
 北京籍	bei3;lb jing1;wx zii2;vo	57
 背景墙	bei4;bo jing3;ox ciang2;tk	1093
-北静王	bei3;lb zing4;fy wang2;at	528
 北京西	bei3;lb jing1;wx sii1;ak	141
 北京线	bei3;lb jing1;wx sian4;sj	459
 北京信	bei3;lb jing1;wx sin4;rk	850
@@ -25249,7 +25123,6 @@ sort: by_weight
 波象差	bo1;dp siang4;du cha4;yg	45
 剥香蕉	bo1;ed xiang1;ho ziao1;ch	387
 波箱油	bo1;dp siang1;vo you2;dy	364
-卜祥志	bo5;ld siang2;py zhi4;tx	364
 博辛瓦	bo2;uc sin1;lu wa3;ad	6
 播新闻	bo1;ft sin1;lt wen2;me	918
 剥削了	bo1;ed sve1;xd le5;al	594
@@ -26807,7 +26680,6 @@ sort: by_weight
 测雪计	ce4;dd sve3;ye ji4;yu	45
 侧腰线	ce4;rd yao1;on sian4;sj	360
 测一些	ce4;dd yi4;aa sie1;ve	630
-岑春煊	cen2;uv chun1;io svan1;hd	78
 岑先生	cen2;uv sian1;ne sheng1;pf	396
 层次性	ceng2;uy ci4;dq sing4;xu	214
 曾担心	ceng2;bo dan1;fd sin1;dd	35
@@ -26881,7 +26753,6 @@ sort: by_weight
 查清楚	cha2;ad cing1;do chu3;az	1161
 查清了	cha2;ad cing1;do le5;al	648
 查全率	cha2;ad cvan2;rw lv4;wu	486
-查全性	cha2;ad cvan2;rw sing4;xu	19
 插入晶	cha1;fj ru4;pn zing1;oo	117
 插入线	cha1;fj ru4;pn sian4;sj	400
 叉烧酱	cha1;yd shao1;hw ziang4;ly	630
@@ -27127,7 +26998,6 @@ sort: by_weight
 畅通性	chang4;up tong1;zy sing4;xu	288
 昌图西	chang1;oo tu2;wd sii1;ak	225
 长图线	chang2;pn tu2;wd sian4;sj	310
-常万全	chang2;xj wan4;av cvan2;rw	6
 常微笑	chang2;xj wei1;rj siao4;vy	590
 肠细胞	chang2;op sii4;st bao1;ob	459
 长细比	chang2;pn sii4;st bi3;bb	28
@@ -27438,7 +27308,6 @@ sort: by_weight
 扯进了	che3;fv zin4;zj le5;al	536
 扯进去	che3;fv zin4;zj qv4;ts	19
 车就行	che1;au ziu4;wy xing2;rd	16
-车俊焕	che1;au zvn4;rw huan4;hr	25
 车开进	che1;au kai1;ac zin4;zj	151
 车库前	che1;au ku4;gi cian2;bd	562
 车辆前	che1;au liang4;il cian2;bd	860
@@ -28305,7 +28174,6 @@ sort: by_weight
 出老千	chu1;uu lao3;lb cian1;pu	113
 出了钱	chu1;uu le5;al cian2;jj	188
 处理剂	chu3;wb li3;wl zii4;qd	96
-樗里疾	chu1;ak li3;tt zii2;bu	86
 处理前	chu3;wb li3;wl cian2;bd	724
 除利息	chu2;em li4;hd sii1;zx	508
 处理线	chu3;wb li3;wl sian4;sj	729
@@ -29745,7 +29613,6 @@ sort: by_weight
 存小异	cun2;uz siao3;lb yi4;sc	405
 村小组	cun1;ac siao3;lb zu3;sq	652
 存心来	cun2;uz sin1;dd lai2;aa	6
-寸性奇	cun4;ud sing4;xu qi2;dk	19
 存续期	cun2;uz sv4;sd qi1;co	402
 村一些	cun1;ac yi4;aa sie1;ve	531
 存在性	cun2;uz zai4;ut sing4;xu	829
@@ -30304,7 +30171,6 @@ sort: by_weight
 大泉山	da4;ar cvan2;bu shan1;kl	180
 打泉水	da3;fd cvan2;bu shui3;ln	315
 大全套	da4;ar cvan2;rw tao4;dg	594
-大泉洋	da4;ar cvan2;bu yang2;dy	6
 大泉源	da4;ar cvan2;bu yvan2;dx	284
 大泉州	da4;ar cvan2;bu zhou1;dl	477
 大雀麦	da4;ar cve4;xv mai4;fw	144
@@ -30374,7 +30240,6 @@ sort: by_weight
 大团聚	da4;ar tuan2;wc zv4;eu	378
 大推荐	da4;ar tui1;fv zian4;cz	878
 大腿前	da4;ar tui3;og cian2;bd	796
-达瓦齐	da2;zd wa3;ad cii2;wl	22
 大外宣	da4;ar wai4;xb svan1;bd	364
 大碗酒	da4;ar wan3;uv ziu3;dy	486
 大玩笑	da4;ar wan2;wy siao4;vy	500
@@ -30387,7 +30252,6 @@ sort: by_weight
 大卫星	da4;ar wei4;ea sing1;ou	675
 大卫逊	da4;ar wei4;ea svn4;zx	230
 达闻西	da2;zd wen2;me sii1;ak	44
-达文西	da2;zd wen2;wx sii1;ak	40
 大瓮泉	da4;ar weng4;gw cvan2;bu	76
 打五星	da3;fd wu3;aw sing1;ou	662
 大西安	da4;ar sii1;ak an1;bn	724
@@ -31056,7 +30920,6 @@ sort: by_weight
 但即使	dan4;rd zii2;ge shi3;rl	2408
 但集体	dan4;rd zii2;ra ti3;rb	432
 但集团	dan4;rd zii2;ra tuan2;wc	450
-单霁翔	dan1;bu zii4;yq siang2;yx	788
 但急性	dan4;rd ji2;dx sing4;xu	356
 单极性	dan1;bu ji2;aj sing4;xu	239
 但继续	dan4;rd ji4;sm sv4;sd	698
@@ -31841,7 +31704,6 @@ sort: by_weight
 但挣钱	dan4;rd zheng4;fy cian2;jj	338
 但直接	dan4;rd zhi2;uq zie1;fn	724
 但之前	dan4;rd zhi1;dn cian2;bd	927
-单之蔷	dan1;bu zhi1;dn ciang2;ck	25
 但只想	dan4;rd zhi3;kb siang3;ax	405
 单值性	dan1;bu zhi2;rq sing4;xu	152
 但只需	dan4;rd zhi3;kb sv1;ye	513
@@ -32250,7 +32112,6 @@ sort: by_weight
 到象山	dao4;gd siang4;du shan1;kl	376
 倒像是	dao4;rd siang4;ru shi4;oz	685
 到湘潭	dao4;gd siang1;do tan2;du	500
-悼襄王	dao4;xu siang1;yf wang2;at	28
 倒象系	dao4;rd siang4;du xi4;px	45
 导向性	dao3;sc xiang4;pk sing4;xu	423
 到襄阳	dao4;gd siang1;yf yang2;eo	657
@@ -32323,7 +32184,6 @@ sort: by_weight
 到中心	dao4;gd zhong1;kl sin1;dd	837
 到字节	dao4;gd zi4;bz zie2;ce	490
 得安息	de2;rc an1;bn sii1;zx	410
-德彪西	de2;rx biao1;hp sii1;ak	1535
 得程序	de2;rc cheng2;hw sv4;gy	720
 得大奖	de2;rc da4;ar ziang3;ld	31
 得到钱	de2;rc dao4;gd cian2;jj	85
@@ -32357,7 +32217,6 @@ sort: by_weight
 得绝症	de2;rc zve2;sb zheng4;bv	116
 得了奖	de2;rc le5;al ziang3;ld	179
 德力西	de2;rx li4;vp sii1;ak	28
-德罗西	de2;rx luo2;sx sii1;ak	493
 得民心	de2;rc min2;vv sin1;dd	144
 得其心	de2;rc qi2;cb sin1;dd	369
 德茜蕾	de2;rx cian4;cx lei3;ct	374
@@ -32549,7 +32408,6 @@ sort: by_weight
 第二小	di4;vd er4;aa siao3;lb	981
 第二性	di4;vd er4;aa sing4;xu	210
 第二星	di4;vd er4;aa sing1;ou	170
-翟方进	di2;xv fang1;wv zin4;zj	327
 地方性	di4;ty fang1;wv sing4;xu	1517
 低分析	di1;ru fen1;bd sii1;at	364
 嫡福晋	di2;ng fu2;pt zin4;yo	724
@@ -33171,7 +33029,6 @@ sort: by_weight
 电阻箱	dian4;ov zu3;eq siang1;vo	19
 电阻小	dian4;ov zu3;eq siao3;lb	472
 电阻性	dian4;ov zu3;eq sing4;xu	387
-刁爱青	diao1;va ai4;vy cing1;fo	760
 调查信	diao4;yk cha2;ad sin4;rk	536
 调档线	diao4;yk dang4;ae sian4;sj	75
 调鼎集	diao4;yk ding3;po zii2;ra	356
@@ -33617,7 +33474,6 @@ sort: by_weight
 东行线	dong1;ax xing2;rd sian4;sj	468
 懂星座	dong3;xv sing1;ou zuo4;gr	360
 东绣路	dong1;ax siu4;sn lu4;zk	274
-东雪莲	dong1;ax sve3;ye lian2;ci	13
 东寻坊	dong1;ax svn2;ec fang1;tf	351
 东延线	dong1;ax yan2;zv sian4;sj	603
 东野稷	dong1;ax ye3;ly zii4;hw	4
@@ -33720,7 +33576,6 @@ sort: by_weight
 都领先	dou1;le ling3;ry sian1;ne	126
 都没钱	dou1;le mei2;du cian2;jj	261
 都没醒	dou1;le mei2;du sing3;yu	31
-都敏俊	dou1;le min3;pw zvn4;rw	85
 斗母泉	dou4;ud mu3;md cvan2;bu	189
 都闹心	dou1;le nao4;mj sin1;dd	405
 都能进	dou1;le neng2;sb zin4;zj	546
@@ -33854,7 +33709,6 @@ sort: by_weight
 堵得像	du3;to de5;rc siang4;ru	16
 独断性	du2;qi duan4;vt sing4;xu	261
 妒妇津	du4;nh fu4;ne zin1;dy	180
-独孤信	du2;qi gu1;zg sin4;rk	94
 毒害性	du2;fm hai4;bk sing4;xu	132
 读和写	du2;yd he2;hk sie3;by	135
 读后写	du2;yd hou4;ik sie3;by	6
@@ -33941,7 +33795,6 @@ sort: by_weight
 赌一些	du3;bo yi4;aa sie1;ve	112
 独一性	du2;qi yi1;aa sing4;xu	432
 读音节	du2;yd yin1;lo zie2;ce	6
-堵胤锡	du3;to yin4;eo sii1;jw	9
 镀银线	du4;jy yin2;jg sian4;sj	288
 独有性	du2;qi you3;uo sing4;xu	369
 读与写	du2;yd yv3;va sie3;by	41
@@ -34432,7 +34285,6 @@ sort: by_weight
 多谈心	duo1;xx tan2;yh sin1;dd	320
 多掏钱	duo1;xx tao1;ff cian2;jj	580
 多提醒	duo1;xx ti2;fz sing3;yu	630
-多田骏	duo1;xx tian2;wu zvn4;mw	13
 多天线	duo1;xx tian1;ad sian4;sj	446
 多条线	duo1;xx tiao2;wa sian4;sj	752
 多贴切	duo1;xx tie1;bv cie4;qd	320
@@ -34563,7 +34415,6 @@ sort: by_weight
 恶劣性	e4;yx lie4;ul sing4;xu	35
 鹅毛雪	e2;wn mao2;pv sve3;ye	6
 峨眉雪	e2;uw mei2;uo sve3;ye	468
-厄齐尔	e4;iv cii2;wl er3;dx	1064
 鄂齐尔	e4;xe cii2;wl er3;dx	414
 鄂前旗	e4;xe cian2;bd qi2;fb	450
 腭鞘沟	e4;ok ciao4;co gou1;dg	45
@@ -34631,7 +34482,6 @@ sort: by_weight
 恩西赛	en1;yx sii1;ak sai4;bb	418
 恩下济	en1;yx xia4;ab zii4;dq	364
 恩信君	en1;yx sin4;rk jvn1;yk	302
-恩宗齐	en1;yx zong1;bu cii2;wl	13
 而爱情	er2;al ai4;vy cing2;xo	716
 二百七	er4;aa bai3;ab cii1;av	9
 耳背心	er3;ol bei4;bo sin1;dd	99
@@ -35301,7 +35151,6 @@ sort: by_weight
 放干净	fang4;fw gan1;au zing4;dy	57
 放感情	fang4;fw gan3;gx cing2;xo	441
 防垢剂	fang2;ef gou4;tk zii4;qd	144
-方鸿渐	fang1;wv hong2;dn zian4;dt	1840
 方宏进	fang1;wv hong2;bs zin4;zj	351
 防洪墙	fang2;ef hong2;dg ciang2;tk	648
 防护剂	fang2;ef hu4;fh zii4;qd	16
@@ -35319,7 +35168,6 @@ sort: by_weight
 防火线	fang2;ef huo3;br sian4;sj	9
 防火性	fang2;ef huo3;br sing4;xu	35
 防疾病	fang2;ef zii2;bu bing4;bn	1305
-方济各	fang1;wv zii4;dq ge4;wk	873
 方济会	fang1;wv zii4;dq hui4;ry	13
 放鸡精	fang4;fw ji1;yn zing1;mo	518
 方剂学	fang1;wv zii4;qd xve2;xz	148
@@ -35436,7 +35284,6 @@ sort: by_weight
 方酰胺	fang1;wv sian1;ye an4;on	144
 方仙道	fang1;wv sian1;ru dao4;zz	3
 放线架	fang4;fw sian4;sj jia4;la	99
-方先觉	fang1;wv sian1;ne jve2;xj	22
 放线菌	fang4;fw sian4;sj jvn1;ch	122
 房先生	fang2;hf sian1;ne sheng1;pf	828
 方先生	fang1;wv sian1;ne sheng1;pf	616
@@ -35542,13 +35389,11 @@ sort: by_weight
 防御性	fang2;ef yv4;re sing4;xu	835
 防雨雪	fang2;ef yv3;ad sve3;ye	310
 放在前	fang4;fw zai4;ut cian2;bd	57
-方增先	fang1;wv zeng1;to sian1;ne	13
 防粘剂	fang2;ef zhan1;mv zii4;qd	252
 仿真枪	fang3;rf zhen1;ub ciang1;av	53
 仿真性	fang3;rf zhen1;ub sing4;xu	19
 放整齐	fang4;fw zheng3;uv cii2;wl	855
 防止性	fang2;ef zhi3;lb sing4;xu	554
-方中信	fang1;wv zhong1;kl sin4;rk	31
 防撞墙	fang2;ef zhuang4;fl ciang2;tk	382
 房子前	fang2;hf zi5;la cian2;bd	720
 房子小	fang2;hf zi5;la siao3;lb	742
@@ -35637,7 +35482,6 @@ sort: by_weight
 非酒精	fei1;ls ziu3;dy zing1;mo	684
 腓疽病	fei2;of zv1;bq bing4;bn	90
 非剧情	fei1;ls jv4;ud cing2;xo	72
-费俊龙	fei4;fb zvn4;rw long2;yp	110
 非均相	fei1;ls jvn1;ty siang4;ao	405
 非空集	fei1;ls kong1;bg zii2;ra	472
 费丽切	fei4;fb li4;ad cie4;qd	414
@@ -35777,7 +35621,6 @@ sort: by_weight
 肥皂箱	fei2;ob zao4;bq siang1;vo	387
 非朝夕	fei1;ls zhao1;uo sii1;pd	13
 非这些	fei1;ls zhe4;zw sie1;ve	644
-费正清	fei4;fb zheng4;av cing1;do	185
 非直接	fei1;ls zhi2;uq zie1;fn	141
 废纸箱	fei4;gy zhi3;su siang1;vo	441
 非直销	fei1;ls zhi2;uq siao1;jo	423
@@ -36001,7 +35844,6 @@ sort: by_weight
 封闭性	feng1;tc bi4;mc sing4;xu	634
 风不小	feng1;jx bu4;ab siao3;lb	6
 丰产性	feng1;sl chan3;wi sing4;xu	3
-封常清	feng1;tc chang2;xj cing1;do	141
 奉朝请	feng4;if chao2;uo cing3;yo	549
 风车节	feng1;jx che1;au zie2;ce	351
 封城前	feng1;tc cheng2;ti cian2;bd	47
@@ -36046,7 +35888,6 @@ sort: by_weight
 风精灵	feng1;jx zing1;mo ling2;eh	428
 风景线	feng1;jx jing3;ox sian4;sj	207
 风就会	feng1;jx ziu4;wy hui4;ry	28
-奉俊昊	feng4;if zvn4;rw hao4;ot	490
 封口线	feng1;tc kou3;la sian4;sj	279
 疯狂性	feng1;bf kuang2;qw sing4;xu	342
 疯狂秀	feng1;bf kuang2;qw siu4;hn	346
@@ -36423,7 +36264,6 @@ sort: by_weight
 夫人像	fu1;er ren2;pn siang4;ru	500
 妇人心	fu4;ne ren2;pn sin1;dd	644
 氟熔剂	fu2;qf rong2;hg zii4;qd	45
-芙蓉姐	fu2;cf rong2;cg zie3;nq	94
 芙蓉晶	fu2;cf rong2;cg zing1;oo	230
 芙蓉泉	fu2;cf rong2;cg cvan2;bu	382
 副乳腺	fu4;ad ru3;vv sian4;ou	378
@@ -37334,7 +37174,6 @@ sort: by_weight
 高调秀	gao1;wk diao4;yk siu4;hn	13
 高定秀	gao1;wk ding4;bz siu4;hn	38
 搞东西	gao3;fk dong1;ax sii5;ak	324
-高斗心	gao1;wk dou4;ud sin1;dd	6
 高度酒	gao1;wk du4;gy ziu3;dy	399
 高镀锌	gao1;wk du4;jy sin1;jx	171
 高毒性	gao1;wk du2;fm sing4;xu	531
@@ -37516,7 +37355,6 @@ sort: by_weight
 搞笑篇	gao3;fk siao4;vy pian1;vc	116
 高校前	gao1;wk xiao4;af cian2;bd	22
 高小强	gao1;wk siao3;lb qiang2;gi	396
-高小琴	gao1;wk siao3;lb qin2;wv	60
 搞笑事	gao3;fk siao4;vy shi4;gy	572
 高小时	gao1;wk siao3;lb shi2;to	312
 搞销售	gao3;fk siao1;jo shou4;rk	1472
@@ -37540,7 +37378,6 @@ sort: by_weight
 高新路	gao1;wk sin1;lt lu4;zk	598
 高新南	gao1;wk sin1;lt nan2;ug	580
 搞芯片	gao3;fk sin1;cx pian4;pv	328
-高辛氏	gao1;wk sin1;lu shi4;pv	279
 高薪水	gao1;wk sin1;ct shui3;ln	675
 搞心态	gao3;fk sin1;dd tai4;tx	405
 高新投	gao1;wk sin1;lt tou2;fu	522
@@ -37552,7 +37389,6 @@ sort: by_weight
 高星级	gao1;wk sing1;ou ji2;sj	756
 高性能	gao1;wk sing4;xu neng2;sb	7197
 高雄前	gao1;wk xiong2;uv cian2;bd	324
-高秀敏	gao1;wk siu4;hn min3;pw	35
 高续航	gao1;wk sv4;sd hang2;vj	706
 高需求	gao1;wk sv1;ye qiu2;au	814
 搞宣传	gao3;fk svan1;bd chuan2;rv	223
@@ -37571,15 +37407,12 @@ sort: by_weight
 高业绩	gao1;wk ye4;la zii4;sb	747
 高一截	gao1;wk yi4;aa zie2;gv	536
 高邑西	gao1;wk yi4;kb sii1;ak	171
-高以翔	gao1;wk yi3;lr siang2;yx	274
 搞一些	gao3;fk yi4;aa sie1;ve	7115
 高一些	gao1;wk yi4;aa sie1;ve	1331
-高迎祥	gao1;wk ying2;ze siang2;py	532
 搞营销	gao3;fk ying2;ck siao1;jo	630
 高院墙	gao1;wk yvan4;ey ciang2;tk	279
 高原鳅	gao1;wk yvan2;ix ciu1;yh	436
 高窄箱	gao1;wk zhai3;bv siang1;vo	45
-高占祥	gao1;wk zhan4;bw siang2;py	6
 搞这些	gao3;fk zhe4;zw sie1;ve	842
 高枝剪	gao1;wk zhi1;av zian3;bd	252
 高中就	gao1;wk zhong1;kl ziu4;wy	1143
@@ -37632,7 +37465,6 @@ sort: by_weight
 格局性	ge2;ak jv2;uk sing4;xu	261
 隔绝了	ge2;eg zve2;sb le5;al	468
 格拉西	ge2;ak la1;fl sii1;ak	6
-葛兰西	ge2;cr lan2;bs sii1;ak	69
 各类酒	ge4;wk lei4;md ziu3;dy	513
 隔离剂	ge2;eg li2;wn zii4;qd	603
 隔离集	ge2;eg li2;wn zii2;ra	130
@@ -38220,7 +38052,6 @@ sort: by_weight
 功德箱	gong1;gl de2;rx siang1;vo	603
 公德心	gong1;bs de2;rx sin1;dd	176
 供电线	gong1;rg dian4;ov sian4;sj	756
-贡多齐	gong4;gb duo1;xx cii2;wl	126
 共轭像	gong4;cb e4;iv siang4;ru	3
 公法线	gong1;bs fa3;dq sian4;sj	230
 共沸性	gong4;cb fei4;df sing4;xu	4
@@ -38309,7 +38140,6 @@ sort: by_weight
 公平心	gong1;bs ping2;au sin1;dd	324
 公平性	gong1;bs ping2;au sing4;xu	1686
 汞齐化	gong3;gu cii2;wl hua4;rb	212
-宫崎骏	gong1;bk qi2;uk zvn4;mw	6996
 公妻制	gong1;bs cii1;un zhi4;nd	396
 工钱了	gong1;aa cian2;jj le5;al	459
 宫前路	gong1;bk cian2;bd lu4;zk	194
@@ -38332,7 +38162,6 @@ sort: by_weight
 供全球	gong1;rg cvan2;rw qiu2;wq	976
 龚全珍	gong1;lg cvan2;rw zhen1;wp	526
 龚仁心	gong1;lg ren2;re sin1;dd	315
-龚如心	gong1;lg ru2;nk sin1;dd	16
 公使钱	gong1;bs shi3;rl cian2;jj	346
 共识性	gong4;cb shi2;yv sing4;xu	531
 共时性	gong4;cb shi2;to sing4;xu	399
@@ -38353,7 +38182,6 @@ sort: by_weight
 共推进	gong4;cb tui1;fv zin4;zj	234
 共尾集	gong4;cb wei3;um zii2;ra	4
 公文箱	gong1;bs wen2;wx siang1;vo	16
-龚文祥	gong1;lg wen2;wx siang2;py	14
 公西赤	gong1;bs sii1;ak chi4;tb	288
 共析点	gong4;cb sii1;at dian3;vh	99
 公西华	gong1;bs sii1;ak hua2;ru	410
@@ -38369,7 +38197,6 @@ sort: by_weight
 共线性	gong4;cb sian4;sj sing4;xu	113
 共显性	gong4;cb xian3;oy sing4;xu	102
 共享际	gong4;cb xiang3;wz zii4;eu	585
-龚翔麟	gong1;lg siang2;yx lin2;gf	9
 共享性	gong4;cb xiang3;wz sing4;xu	28
 供销部	gong1;rg siao1;jo bu4;le	297
 共消费	gong4;cb siao1;do fei4;fb	904
@@ -38418,7 +38245,6 @@ sort: by_weight
 公选课	gong1;bs svan3;ze ke4;yg	626
 供选用	gong1;rg svan3;ze yong4;kf	500
 供选择	gong1;rg svan3;ze ze2;ff	465
-宫雪花	gong1;bk sve3;ye hua1;cb	3
 供学习	gong1;rg xve2;xz sii2;vd	999
 功勋奖	gong1;gl xvn1;kl ziang3;ld	612
 功勋墙	gong1;gl xvn1;kl ciang2;tk	153
@@ -38703,7 +38529,6 @@ sort: by_weight
 雇一些	gu4;hv yi4;aa sie1;ve	323
 股一些	gu3;ou yi4;aa sie1;ve	218
 固阴煎	gu4;wg yin1;eo zian1;bh	99
-古永锵	gu3;uk yong3;du ciang1;jc	185
 谷雨节	gu3;bk yv3;ad zie2;ce	518
 谷雨前	gu3;bk yv3;ad cian2;bd	544
 故障相	gu4;gw zhang4;eu siang1;ao	454
@@ -38818,7 +38643,6 @@ sort: by_weight
 灌进了	guan4;dv zin4;zj le5;al	350
 关进去	guan1;bt zin4;zj qv4;ts	276
 灌进去	guan4;dv zin4;zj qv4;ts	235
-官晶华	guan1;bl zing1;oo hua2;ru	25
 官井头	guan1;bl zing3;ac tou2;dd	328
 关静音	guan1;bt zing4;fy yin1;lo	338
 关就关	guan1;bt ziu4;wy guan1;bt	151
@@ -38873,7 +38697,6 @@ sort: by_weight
 盥洗台	guan4;jm sii3;de tai2;sk	41
 关系性	guan1;bt xi4;px sing4;xu	543
 灌洗液	guan4;dv sii3;de ye4;dw	378
-关锡友	guan1;bt sii1;jw you3;uy	3
 管线表	guan3;vl sian4;sj biao3;fy	99
 管线钢	guan3;vl sian4;sj gang1;jx	266
 管线管	guan3;vl sian4;sj guan3;vl	464
@@ -38933,7 +38756,6 @@ sort: by_weight
 惯性域	guan4;xb sing4;xu yv4;ta	45
 观星者	guan1;yj sing1;ou zhe3;lo	436
 惯性轴	guan4;xb sing4;xu zhou2;iy	189
-官秀昌	guan1;bl siu4;hn chang1;oo	66
 冠修复	guan1;bc siu1;rp fu4;pw	536
 关秀媚	guan1;bt siu4;hn mei4;no	324
 官宣吧	guan1;bl svan1;bd ba5;kb	306
@@ -39013,7 +38835,6 @@ sort: by_weight
 光敏性	guang1;xe min3;pw sing4;xu	616
 光明节	guang1;xe ming2;oo zie2;ce	12
 光明心	guang1;xe ming2;oo sin1;dd	387
-光明星	guang1;xe ming2;oo sing1;ou	502
 光谱线	guang1;xe pu3;yo sian4;sj	60
 广谱性	guang3;di pu3;yo sing4;xu	28
 光切面	guang1;xe cie1;qd mian4;ao	207
@@ -39082,7 +38903,6 @@ sort: by_weight
 光芯片	guang1;xe sin1;cx pian4;pv	572
 光信息	guang1;xe sin4;rk sii1;zx	693
 光修复	guang1;xe siu1;rp fu4;pw	378
-光绪帝	guang1;xe sv4;so di4;wj	336
 光绪年	guang1;xe sv4;so nian2;pf	1058
 光绪时	guang1;xe sv4;so shi2;to	526
 广宣街	guang3;di svan1;bd jie1;rt	207
@@ -39198,7 +39018,6 @@ sort: by_weight
 鬼讯号	gui3;ps svn4;yu hao4;kk	130
 贵一些	gui4;vb yi4;aa sie1;ve	2440
 规一些	gui1;fj yi4;aa sie1;ve	495
-桂永清	gui4;at yong3;du cing1;do	35
 鬼仔节	gui3;ps zai3;rz zie2;ce	50
 贵在精	gui4;vb zai4;ut zing1;mo	567
 规则集	gui1;fj ze2;bd zii2;ra	41
@@ -39439,7 +39258,6 @@ sort: by_weight
 国新网	guo2;wy sin1;lt wang3;kx	284
 国姓井	guo2;wy sing4;nu zing3;ac	266
 过星期	guo4;zc sing1;ou qi1;co	531
-国姓爷	guo2;wy sing4;nu ye2;fe	78
 国姓鱼	guo2;wy sing4;nu yv2;da	144
 郭秀才	guo1;we siu4;hn cai2;up	297
 过雪山	guo4;zc sve3;ye shan1;kl	711
@@ -39460,7 +39278,6 @@ sort: by_weight
 哈布西	ha1;kk bu4;uj sii1;ak	292
 哈得逊	ha1;kk de2;rc svn4;zx	940
 哈德逊	ha1;kk de2;rx svn4;zx	426
-哈尔西	ha1;kk er3;dx sii1;ak	276
 哈夫节	ha1;kk fu1;er zie2;ce	45
 哈哈笑	ha1;kk ha1;kk siao4;vy	198
 哈酒吧	ha1;kk ziu3;dy ba1;kb	252
@@ -39475,7 +39292,6 @@ sort: by_weight
 哈啤酒	ha1;kk pi2;ku ziu3;dy	490
 哈西娜	ha1;kk sii1;ak na4;ne	544
 哈仙岛	ha1;kk sian1;ru dao3;nu	342
-哈谢克	ha1;kk sie4;yc ke4;ux	19
 蛤异性	ha2;ik yi4;sc sing4;xu	90
 海岸线	hai3;dm an4;ug sian4;sj	2462
 海报墙	hai3;dm bao4;fy ciang2;tk	428
@@ -39565,7 +39381,6 @@ sort: by_weight
 还请了	hai2;zb cing3;yo le5;al	770
 海青路	hai3;dm cing1;fo lu4;zk	279
 海青石	hai3;dm cing1;fo shi2;ak	76
-海青天	hai3;dm cing1;fo tian1;ad	19
 海青丸	hai3;dm cing1;fo wan2;jd	90
 海青线	hai3;dm cing1;fo sian4;sj	180
 还娶了	hai2;zb cv3;en le5;al	502
@@ -39825,7 +39640,6 @@ sort: by_weight
 含羞草	han2;rk siu1;yi cao3;cu	132
 含羞果	han2;rk siu1;yi guo3;ta	3
 含羞花	han2;rk siu1;yi hua1;cb	252
-汉宣帝	han4;dy svan1;bd di4;wj	2839
 函询时	han2;ku svn2;yo shi2;to	387
 含盐性	han2;rk yan2;tm sing4;xu	45
 寒衣节	han2;bd yi1;wy zie2;ce	544
@@ -39854,7 +39668,6 @@ sort: by_weight
 行情中	hang2;rd cing2;xo zhong1;kl	427
 杭三鲜	hang2;aj san1;ae sian1;yy	387
 杭深线	hang2;aj shen1;da sian4;sj	6
-杭世骏	hang2;aj shi4;cv zvn4;mw	3
 夯土墙	hang1;dl tu3;ua ciang2;tk	57
 航线吧	hang2;vj sian4;sj ba5;kb	238
 航线时	hang2;vj sian4;sj shi2;to	490
@@ -39927,7 +39740,6 @@ sort: by_weight
 好贱啊	hao3;nz zian4;bj a5;kk	378
 好煎熬	hao3;nz zian1;bh ao2;fh	6
 好剪辑	hao3;nz zian3;bd zii2;ie	346
-郝建秀	hao3;ie jian4;zy siu4;hn	3
 好将来	hao3;nz ziang1;lc lai2;aa	706
 好酱油	hao3;nz ziang4;ly you2;dy	580
 好焦虑	hao3;nz ziao1;rh lv4;hx	562
@@ -40309,7 +40121,6 @@ sort: by_weight
 河津仓	he2;dk zin1;dy cang1;rv	45
 合卺酒	he2;rk jin3;lv ziu3;dy	513
 喝尽了	he1;kr zin4;id le5;al	297
-贺晋年	he4;lb zin4;yo nian2;pf	9
 合进去	he2;rk zin4;zj qv4;ts	198
 喝进去	he1;kr zin4;zj qv4;ts	178
 河津町	he2;dk zin1;dy ting1;td	297
@@ -40538,16 +40349,13 @@ sort: by_weight
 何秀才	he2;rk siu4;hn cai2;up	180
 和修改	he2;hk siu1;rp gai3;jw	1583
 和袖口	he2;hk siu4;py kou3;la	662
-贺秀莲	he4;lb siu4;hn lian2;ci	129
 何须大	he2;rk sv1;py da4;ar	374
 何须待	he2;rk sv1;py dai4;rc	202
 何须更	he2;rk sv1;py geng4;an	248
-赫胥黎	he4;ii sv1;zo li2;hu	283
 赫胥氏	he4;ii sv1;zo shi4;pv	310
 何须问	he2;rk sv1;py wen4;mk	414
 何须怨	he2;rk sv1;py yvan4;xx	490
 喝雪碧	he1;kr sve3;ye bi4;wu	50
-贺雪峰	he4;lb sve3;ye feng1;uf	25
 和学习	he2;hk xve2;xz sii2;vd	8286
 和循环	he2;hk svn2;ro huan2;wb	1156
 和讯网	he2;hk svn4;yu wang3;kx	97
@@ -40570,7 +40378,6 @@ sort: by_weight
 合注井	he2;rk zhu4;dv zing3;ac	45
 合子钱	he2;rk zi3;la cian2;jj	4
 盒子枪	he2;rm zi5;la ciang1;av	387
-贺子秋	he4;lb zi3;la ciu1;hh	28
 何兹全	he2;rk zi1;by cvan2;rw	405
 合字象	he2;rk zi4;bz siang4;du	90
 合子性	he2;rk zi3;la sing4;xu	130
@@ -40671,7 +40478,6 @@ sort: by_weight
 黑眼睛	hei1;lh yan3;og zing5;oo	248
 黑眼线	hei1;lh yan3;og sian4;sj	486
 黑鱼精	hei1;lh yv2;da zing1;mo	284
-黑泽清	hei1;lh ze2;df cing1;do	22
 很爱钱	hen3;rg ai4;vy cian2;jj	28
 很爱惜	hen3;rg ai4;vy sii1;xo	644
 很爱笑	hen3;rg ai4;vy siao4;vy	116
@@ -41662,7 +41468,6 @@ sort: by_weight
 后酒店	hou4;ik ziu3;dy dian4;gv	752
 后就业	hou4;ik ziu4;wy ye4;la	932
 侯聚森	hou2;ru zv4;eu sen1;aa	590
-侯君集	hou2;ru jvn1;yk zii2;ra	330
 侯俊杰	hou2;ru zvn4;rw jie2;ah	310
 侯俊明	hou2;ru zvn4;rw ming2;oo	202
 侯俊伟	hou2;ru zvn4;rw wei3;rw	356
@@ -41706,7 +41511,6 @@ sort: by_weight
 后襄河	hou4;ik siang1;yf he2;dk	302
 后想了	hou4;ik siang3;ax le5;al	778
 侯祥麟	hou2;ru siang2;py lin2;gf	230
-侯湘婷	hou2;ru siang1;do ting2;nd	47
 后小河	hou4;ik siao3;lb he2;dk	346
 侯小姐	hou2;ru siao3;lb zie3;nq	392
 喉小囊	hou2;ku siao3;lb nang2;gy	45
@@ -41775,7 +41579,6 @@ sort: by_weight
 呼厨泉	hu1;kh chu2;ic cvan2;bu	382
 沪川线	hu4;dh chuan1;pl sian4;sj	171
 虎刺醛	hu3;hj ci4;ud cvan2;yw	50
-胡德济	hu2;go de2;rx zii4;dq	6
 蝴蝶精	hu2;io die2;ia zing1;mo	486
 蝴蝶泉	hu2;io die2;ia cvan2;bu	44
 蝴蝶袖	hu2;io die2;ia siu4;py	562
@@ -41783,7 +41586,6 @@ sort: by_weight
 互动秀	hu4;ah dong4;yl siu4;hn	364
 呼斗酒	hu1;kh dou3;ud ziu3;dy	50
 虎骨酒	hu3;hj gu3;go ziu3;dy	9
-呼韩邪	hu1;kh han2;uw sie2;ye	662
 互换性	hu4;ah huan4;fr sing4;xu	116
 户籍地	hu4;du zii2;vo di4;ty	656
 户籍法	hu4;du zii2;vo fa3;dq	468
@@ -41819,7 +41621,6 @@ sort: by_weight
 胡椒盐	hu2;go ziao1;ay yan2;tm	44
 胡椒油	hu2;go ziao1;ay you2;dy	423
 縠精草	hu2;tu zing1;mo cao3;cu	90
-胡靖航	hu2;go zing4;lo hang2;vj	9
 虎睛石	hu3;hj zing1;oo shi2;ak	346
 虎井屿	hu3;hj zing3;ac yv3;uy	369
 胡俊杰	hu2;go zvn4;rw jie2;ah	189
@@ -42221,7 +42022,6 @@ sort: by_weight
 淮海集	huai2;dv hai3;dm zii2;ra	279
 槐花节	huai2;ag hua1;cb zie2;ce	220
 坏姐姐	huai4;tb zie3;nq zie5;nq	482
-怀进鹏	huai2;xb zin4;zj peng2;on	6
 坏晶石	huai4;tb zing1;oo shi2;ak	4
 坏良心	huai4;tb liang2;dg sin1;dd	28
 怀牛膝	huai2;xb niu2;pu sii1;ou	19
@@ -42539,7 +42339,6 @@ sort: by_weight
 黄小河	huang2;cb siao3;lb he2;dk	396
 黄小姐	huang2;cb siao3;lb zie3;nq	170
 黄小米	huang2;cb siao3;lb mi3;ba	486
-黄小仙	huang2;cb siao3;lb sian1;ru	38
 黄信息	huang2;cb sin4;rk sii1;zx	338
 晃醒了	huang3;og sing3;yu le5;al	374
 黄须菜	huang2;cb sv1;py cai4;ca	270
@@ -43868,7 +43667,6 @@ sort: by_weight
 荤笑话	hun1;ci siao4;vy hua5;yu	31
 混小子	hun4;db siao3;lb zi5;la	747
 浑小子	hun2;di siao3;lb zi5;la	410
-浑邪王	hun2;di sie2;ye wang2;at	201
 荤腥了	hun1;ci sing1;ou le5;al	369
 混悬剂	hun4;db xvan2;qx zii4;qd	9
 混悬性	hun4;db xvan2;qx sing4;xu	42
@@ -45210,7 +45008,6 @@ sort: by_weight
 集贤街	zii2;ra xian2;lb jie1;rt	270
 集贤里	zii2;ra xian2;lb li3;tt	279
 祭先烈	zii4;xu sian1;ne lie4;dh	392
-季羡林	ji4;hz sian4;yq lin2;aa	433
 集贤楼	zii2;ra xian2;lb lou2;an	248
 集贤路	zii2;ra xian2;lb lu4;zk	450
 集线器	zii2;ra sian4;sj qi4;xx	157
@@ -45300,7 +45097,6 @@ sort: by_weight
 几小块	ji3;pv siao3;lb kuai4;tg	50
 讥笑了	ji1;yj siao4;vy le5;al	360
 极小量	ji2;aj siao3;lb liang4;ol	9
-纪小龙	ji4;sj siao3;lb long2;yp	6
 寄销品	ji4;bk siao1;jo pin3;kk	4
 几小时	ji3;pv siao3;lb shi2;to	2390
 绩效时	zii4;sb xiao4;ww shi2;to	400
@@ -45313,7 +45109,6 @@ sort: by_weight
 基谢拉	ji1;ct sie4;yc la1;fl	194
 机械性	ji1;aj xie4;ac sing4;xu	1112
 鸡心啊	ji1;yn sin1;dd a5;kk	346
-基辛格	ji1;ct sin1;lu ge2;ak	462
 鸡心河	ji1;yn sin1;dd he2;dk	50
 季辛吉	ji4;hz sin1;lu ji2;tk	410
 记心间	ji4;yj sin1;dd jian1;mo	35
@@ -45353,7 +45148,6 @@ sort: by_weight
 即兴诗	zii2;ge xing4;xb shi1;yc	742
 迹形式	zii4;zb xing2;kp shi4;gg	86
 剂型为	zii4;qd xing2;kt wei2;ld	338
-吉星文	ji2;tk sing1;ou wen2;wx	9
 急行线	ji2;dx xing2;rd sian4;sj	612
 急性型	ji2;dx sing4;xu xing2;kt	446
 基性岩	ji1;ct sing4;xu yan2;uu	426
@@ -45924,7 +45718,6 @@ sort: by_weight
 加息时	jia1;lk sii1;zx shi2;to	914
 甲锡烷	jia3;ol sii1;jw wan2;hy	162
 加西网	jia1;lk sii1;ak wang3;kx	153
-加西亚	jia1;lk sii1;ak ya4;ay	870
 加西娅	jia1;lk sii1;ak ya4;ny	310
 甲仙埔	jia3;ol sian1;ru pu3;tf	338
 家先生	jia1;bu sian1;ne sheng1;pf	783
@@ -46060,7 +45853,6 @@ sort: by_weight
 煎饼侠	zian1;bh bing3;uk xia2;rj	201
 简并性	jian3;vo bing4;bk sing4;xu	320
 煎饼岩	zian1;bh bing3;uk yan2;uu	153
-翦伯赞	zian3;bx bo2;rb zan4;nb	192
 剪不断	zian3;bd bu2;ab duan4;vt	160
 箭步蹲	zian4;vd bu4;vu dun1;zc	639
 贱不过	zian4;bj bu2;ab guo4;zc	414
@@ -55151,7 +54943,6 @@ sort: by_weight
 焦臭味	ziao1;rh chou4;zq wei4;kw	384
 椒疮病	ziao1;ay chuang1;bv bing4;bn	45
 教吹箫	jiao4;lw chui1;kq siao1;vb	400
-焦达峰	ziao1;rh da2;zd feng1;uf	3
 交的钱	jiao1;wf de5;bu cian2;jj	738
 叫得像	jiao4;kj de5;rc siang4;ru	40
 脚底心	jiao3;oe di3;gu sin1;dd	450
@@ -55268,14 +55059,12 @@ sort: by_weight
 焦距短	ziao1;rh jv4;zj duan3;ub	328
 焦距计	ziao1;rh jv4;zj ji4;yu	99
 焦距时	ziao1;rh jv4;zj shi2;to	2
-焦菊隐	ziao1;rh jv2;cm yin3;ex	35
 焦开河	ziao1;rh kai1;ac he2;dk	306
 焦兰生	ziao1;rh lan2;bs sheng1;pf	194
 焦姥河	ziao1;rh lao3;nl he2;dk	76
 焦老师	ziao1;rh lao3;lb shi1;lj	331
 焦了吧	ziao1;rh le5;al ba5;kb	132
 交了钱	jiao1;wf le5;al cian2;jj	1272
-焦立坤	ziao1;rh li4;wb kun1;tu	3
 焦沥青	ziao1;rh li4;dl cing1;fo	248
 较理想	jiao4;if li3;wl siang3;ax	113
 交联剂	jiao1;wf lian2;et zii4;qd	198
@@ -55365,7 +55154,6 @@ sort: by_weight
 教师情	jiao4;lw shi1;lj cing2;xo	357
 礁石区	ziao1;uh shi2;ak qv1;kx	68
 焦石英	ziao1;rh shi2;ak ying1;cy	85
-焦守云	ziao1;rh shou3;bc yvn2;ag	13
 焦树德	ziao1;rh shu4;ac de2;rx	207
 焦书记	ziao1;rh shu1;vd ji4;yj	22
 教书匠	jiao1;lw shu1;vd ziang4;kt	264
@@ -55477,7 +55265,6 @@ sort: by_weight
 焦祐瀛	ziao1;rh you4;pk ying2;dn	144
 焦油值	ziao1;rh you2;dy zhi2;rq	76
 教育奖	jiao4;lw yv4;wo ziang3;ld	648
-焦裕禄	ziao1;rh yv4;pg lu4;pu	593
 教育线	jiao4;lw yv4;wo sian4;sj	391
 教育新	jiao4;lw yv4;wo sin1;lt	999
 教育性	jiao4;lw yv4;wo sing4;xu	207
@@ -55491,9 +55278,7 @@ sort: by_weight
 焦粘酸	ziao1;rh zhan1;mv suan1;yw	45
 脚掌心	jiao3;oe zhang3;xu sin1;dd	9
 脚趾尖	jiao3;oe zhi3;zv zian1;xd	28
-焦志敏	ziao1;rh zhi4;tx min3;pw	9
 焦栀子	ziao1;rh zhi1;av zi5;la	230
-焦仲卿	ziao1;rh zhong4;rv qing1;pg	245
 焦庄户	ziao1;rh zhuang1;gt hu4;du	3
 焦灼感	ziao1;rh zhuo2;hu gan3;gx	410
 焦灼了	ziao1;rh zhuo2;hu le5;al	369
@@ -55788,12 +55573,10 @@ sort: by_weight
 接飞刀	zie1;fn fei1;vd dao1;vp	374
 接飞机	zie1;fn fei1;vd ji1;aj	436
 接飞盘	zie1;fn fei1;vd pan2;vm	6
-杰斐逊	jie2;ah fei3;fw svn4;zx	377
 接费用	zie1;fn fei4;fb yong5;kf	747
 接缝处	zie1;fn feng4;sf chu4;wb	386
 解风情	jie3;dn feng1;jx cing2;xo	873
 接风宴	zie1;fn feng1;jx yan4;bn	648
-杰佛逊	jie2;ah fo2;rf svn4;zx	57
 姐夫啊	zie3;nq fu5;er a5;kk	360
 姐夫吧	zie3;nq fu5;er ba5;kb	338
 姐夫陈	zie3;nq fu5;er chen2;ed	212
@@ -55804,7 +55587,6 @@ sort: by_weight
 姐夫了	zie3;nq fu5;er le5;al	518
 姐夫李	zie3;nq fu5;er li3;az	958
 姐夫们	zie3;nq fu5;er men5;rm	302
-杰弗逊	jie2;ah fu2;gl svn4;zx	176
 节妇吟	zie2;ce fu4;ne yin2;kv	324
 捷甘清	zie2;fz gan1;ca cing1;do	90
 截稿日	zie2;gv gao3;hk ri4;wa	558
@@ -56402,7 +56184,6 @@ sort: by_weight
 节食吧	zie2;ce shi2;rg ba5;kb	166
 节食法	zie2;ce shi2;rg fa3;dq	662
 姐是个	zie3;nq shi4;oz ge4;rl	494
-结石姐	jie2;sk shi2;ak zie3;nq	223
 解释就	jie3;dn shi4;mf ziu4;wy	1053
 节食诀	zie2;ce shi2;rg jve2;yg	45
 接视频	zie1;fn shi4;pj pin2;vy	608
@@ -56660,7 +56441,6 @@ sort: by_weight
 接续步	zie1;fn sv4;sd bu4;vu	19
 接续词	zie1;fn sv4;sd ci2;yk	47
 截序列	zie2;gv sv4;gy lie4;dd	90
-界徐盛	jie4;tj sv2;rm sheng4;im	433
 接续图	zie1;fn sv4;sd tu2;wd	90
 接续线	zie1;fn sv4;sd sian4;sj	279
 节选吧	zie2;ce svan3;ze ba5;kb	270
@@ -56960,10 +56740,8 @@ sort: by_weight
 晋城仓	zin4;yo cheng2;ti cang1;rv	90
 进程池	zin4;zj cheng2;hw chi2;dy	50
 晋城的	zin4;yo cheng2;ti de5;bu	518
-晋成帝	zin4;yo cheng2;gv di4;wj	22
 进成都	zin4;zj cheng2;gv du1;le	639
 进城费	zin4;zj cheng2;ti fei4;fb	346
-晋成公	zin4;yo cheng2;gv gong1;bs	22
 进程号	zin4;zj cheng2;hw hao4;kk	338
 进城后	zin4;zj cheng2;ti hou4;ik	652
 晋城话	zin4;yo cheng2;ti hua4;yu	288
@@ -57035,7 +56813,6 @@ sort: by_weight
 进大学	zin4;zj da4;ar xve2;xz	590
 进代数	zin4;zj dai4;rg shu4;mw	117
 晋代魏	zin4;yo dai4;rg wei4;hg	320
-晋悼公	zin4;yo dao4;xu gong1;bs	47
 尽到了	zin4;id dao4;gd le5;al	814
 进到了	zin4;zj dao4;gd le5;al	646
 进刀量	zin4;zj dao1;vp liang4;ol	238
@@ -57059,7 +56836,6 @@ sort: by_weight
 进店时	zin4;zj dian4;gv shi2;to	616
 进电视	zin4;zj dian4;ov shi4;pj	498
 进电梯	zin4;zj dian4;ov ti1;ad	317
-晋定公	zin4;yo ding4;bz gong1;bs	28
 金顶奖	jin1;rb ding3;dy ziang3;ld	720
 金鼎奖	jin1;rb ding3;po ziang3;ld	334
 进洞房	zin4;zj dong4;dk fang2;hf	670
@@ -57096,7 +56872,6 @@ sort: by_weight
 尽繁华	zin4;id fan2;px hua2;ru	531
 津幡町	zin1;dy fan1;jt ting1;td	378
 进房间	zin4;zj fang2;hf jian1;mo	465
-晋废帝	zin4;yo fei4;gy di4;wj	6
 进坟墓	zin4;zj fen2;tw mu4;ct	608
 进分数	zin4;zj fen1;bd shu4;mw	342
 进风管	zin4;zj feng1;jx guan3;vl	243
@@ -57124,7 +56899,6 @@ sort: by_weight
 进宫吧	zin4;zj gong1;bk ba5;kb	304
 进工厂	zin4;zj gong1;aa chang3;ap	571
 进工地	zin4;zj gong1;aa di4;ty	85
-晋恭帝	zin4;yo gong1;gx di4;wj	76
 进攻点	zin4;zj gong1;gw dian3;vh	585
 进攻度	zin4;zj gong1;gw du4;gy	234
 进攻端	zin4;zj gong1;gw duan1;le	1048
@@ -57219,14 +56993,10 @@ sort: by_weight
 进化者	zin4;zj hua4;rb zhe3;lo	414
 进化枝	zin4;zj hua4;rb zhi1;av	378
 进化中	zin4;zj hua4;rb zhong1;kl	774
-晋怀帝	zin4;yo huai2;xb di4;wj	60
-晋怀公	zin4;yo huai2;xb gong1;bs	53
 尽欢颜	zin4;id huan1;yq yan2;wy	324
 锦晃星	jin3;jj huang3;og sing1;ou	44
 进会场	zin4;zj hui4;ry chang3;tp	616
-晋惠帝	zin4;yo hui4;ix di4;wj	339
 津汇店	zin1;dy hui4;dk dian4;gv	356
-晋惠公	zin4;yo hui4;ix gong1;bs	91
 浸灰剂	zin4;dy hui1;uh zii4;qd	45
 金徽酒	jin1;rb hui1;rx ziu3;dy	25
 进货啊	zin4;zj huo4;rb a5;kk	598
@@ -57305,10 +57075,8 @@ sort: by_weight
 金津穴	jin1;rb zin1;dy xve2;bb	238
 进京城	zin4;zj jing1;wx cheng2;ti	35
 近井点	jin4;zt zing3;ac dian3;vh	45
-晋景公	zin4;yo jing3;ox gong1;bs	113
 晋静公	zin4;yo zing4;fy gong1;bs	102
 进京后	zin4;zj jing1;wx hou4;ik	508
-晋靖侯	zin4;yo zing4;lo hou2;ru	201
 进警局	zin4;zj jing3;ck jv2;uk	544
 金精矿	jin1;rb zing1;mo kuang4;ug	243
 进京了	zin4;zj jing1;wx le5;al	459
@@ -57347,7 +57115,6 @@ sort: by_weight
 进卡吧	zin4;zj ka3;ub ba5;kb	266
 尽开颜	zin4;id kai1;ac yan2;wy	508
 近看就	jin4;zt kan4;uo ziu4;wy	396
-晋康帝	zin4;yo kang1;gl di4;wj	13
 进考场	zin4;zj kao3;lk chang3;tp	955
 进烤箱	zin4;zj kao3;hk siang1;vo	796
 进可攻	zin4;zj ke3;dk gong1;gw	490
@@ -57448,7 +57215,6 @@ sort: by_weight
 进冷宫	zin4;zj leng3;ds gong1;bk	432
 进冷库	zin4;zj leng3;ds ku4;gi	13
 尽力吧	zin4;id li4;vp ba5;kb	450
-晋厉公	zin4;yo li4;iw gong1;bs	28
 浸礼会	zin4;dy li3;pv hui4;ry	3
 浸礼教	zin4;dy li3;pv jiao4;lw	13
 尽力局	zin4;id li4;vp jv2;uk	266
@@ -57483,8 +57249,6 @@ sort: by_weight
 进料气	zin4;zj liao4;md qi4;pv	4
 进料时	zin4;zj liao4;md shi2;to	207
 进料台	zin4;zj liao4;md tai2;sk	76
-晋烈公	zin4;yo lie4;dh gong1;bs	6
-晋灵公	zin4;yo ling2;eh gong1;bs	148
 金翎奖	jin1;rb ling2;rx ziang3;ld	47
 金龙奖	jin1;rb long2;yp ziang3;ld	100
 金龙泉	jin1;rb long2;yp cvan2;bu	436
@@ -57517,8 +57281,6 @@ sort: by_weight
 进面的	zin4;zj mian4;ao de5;bu	382
 尽免费	zin4;id mian3;de fei4;fb	117
 晋灭吴	zin4;yo mie4;ah wu2;kt	500
-晋愍帝	zin4;yo min3;mx di4;wj	31
-晋明帝	zin4;yo ming2;oo di4;wj	44
 晋名峰	zin4;yo ming2;xk feng1;uf	180
 金名线	jin1;rb ming2;xk sian4;sj	405
 进名校	zin4;zj ming2;xk xiao4;af	217
@@ -57526,7 +57288,6 @@ sort: by_weight
 筋膜枪	jin1;vl mo2;od ciang1;av	612
 浸没式	zin4;dy mo4;du shi4;gg	72
 进牧场	zin4;zj mu4;nw chang3;tp	288
-晋穆帝	zin4;yo mu4;hp di4;wj	25
 晋穆侯	zin4;yo mu4;hp hou2;ru	315
 金木犀	jin1;rb mu4;ur sii1;un	266
 进那个	zin4;zj na4;ve ge5;rl	819
@@ -57557,8 +57318,6 @@ sort: by_weight
 浸泡在	zin4;dy pao4;db zai4;ut	829
 尽赔钱	zin4;id pei2;bk cian2;jj	99
 浸盆法	zin4;dy pen2;fm fa3;dq	31
-晋鹏翔	zin4;yo peng2;on siang2;yx	3
-晋平公	zin4;yo ping2;au gong1;bs	63
 进平台	zin4;zj ping2;au tai2;sk	693
 紧迫性	jin3;lx po4;zb sing4;xu	546
 津浦路	zin1;dy pu3;df lu4;zk	293
@@ -57636,7 +57395,6 @@ sort: by_weight
 金桥济	jin1;rb qiao2;al zii4;dq	90
 金桥奖	jin1;rb qiao2;al ziang3;ld	351
 津桥路	zin1;dy qiao2;al lu4;zk	1
-津琴科	zin1;dy qin2;wv ke1;hd	116
 进寝室	zin4;zj cin3;by shi4;bt	594
 近亲属	jin4;zt cin1;la shu3;uy	411
 尽情吧	zin4;id cing2;xo ba5;kb	230
@@ -57867,7 +57625,6 @@ sort: by_weight
 津泰路	zin1;dy tai4;iu lu4;zk	8
 金堂奖	jin1;rb tang2;xt ziang3;ld	270
 津塘路	zin1;dy tang2;tk lu4;zk	490
-进藤光	zin4;zj teng2;cu guang1;xe	553
 仅提取	jin3;ry ti2;fz cv3;ey	297
 进体制	zin4;zj ti3;rb zhi4;nd	752
 进天国	zin4;zj tian1;ad guo2;wy	374
@@ -57917,14 +57674,10 @@ sort: by_weight
 进位数	zin4;zj wei4;rl shu4;mw	405
 进微信	zin4;zj wei1;rj sin4;rk	22
 进位制	zin4;zj wei4;rl zhi4;nd	644
-晋文公	zin4;yo wen2;wx gong1;bs	738
-晋文侯	zin4;yo wen2;wx hou2;ru	170
 晋文化	zin4;yo wen2;wx hua4;rb	490
 金温线	jin1;rb wen1;dm sian4;sj	189
 进卧室	zin4;zj wo4;ib shi4;bt	864
 进屋吧	zin4;zj wu1;ut ba5;kb	576
-晋武帝	zin4;yo wu3;gv di4;wj	421
-晋武公	zin4;yo wu3;gv gong1;bs	53
 进屋后	zin4;zj wu1;ut hou4;ik	770
 进屋了	zin4;zj wu1;ut le5;al	702
 进屋去	zin4;zj wu1;ut qv4;ts	747
@@ -57945,7 +57698,6 @@ sort: by_weight
 进厦大	zin4;zj xia4;iw da4;ar	302
 进现场	zin4;zj xian4;wj chang3;tp	590
 进县城	zin4;zj xian4;qs cheng2;ti	558
-晋献公	zin4;yo xian4;uq gong1;bs	292
 金仙观	jin1;rb sian1;ru guan1;yj	302
 进贤冠	zin4;zj xian2;lb guan1;bc	209
 金线龟	jin1;rb sian4;sj gui1;dd	261
@@ -57967,7 +57719,6 @@ sort: by_weight
 金仙子	jin1;rb sian1;ru zi3;la	234
 巾箱本	jin1;kl siang1;vo ben3;aa	38
 进乡村	zin4;zj xiang1;vp cun1;ac	724
-晋襄公	zin4;yo siang1;yf gong1;bs	82
 进香河	zin4;zj xiang1;ho he2;dk	446
 进相机	zin4;zj siang4;ao ji1;aj	450
 金像奖	jin1;rb siang4;ru ziang3;ld	1112
@@ -58153,7 +57904,6 @@ sort: by_weight
 进影院	zin4;zj ying3;op yvan4;ey	283
 晋永嘉	zin4;yo yong3;du jia1;tk	495
 尽有吧	zin4;id you3;uo ba5;kb	274
-晋幽公	zin4;yo you1;uy gong1;bs	6
 进油管	zin4;zj you2;dy guan3;vl	324
 进油锅	zin4;zj you2;dy guo1;jn	585
 进油口	zin4;zj you2;dy kou3;la	25
@@ -58163,7 +57913,6 @@ sort: by_weight
 烬余录	zin4;hd yv2;rm lu4;eu	144
 进与退	zin4;zj yv3;va tui4;zg	31
 靳羽西	jin4;ct yv3;xx sii1;ak	195
-晋元帝	zin4;yo yvan2;aw di4;wj	82
 晋元路	zin4;yo yvan2;aw lu4;zk	281
 进院落	zin4;zj yvan4;ey luo4;ck	3
 晋元桥	zin4;yo yvan2;aw qiao2;al	234
@@ -58200,7 +57949,6 @@ sort: by_weight
 进帐篷	zin4;zj zhang4;ji peng2;vf	634
 紧张性	jin3;lx zhang1;gi sing4;xu	141
 晋昭公	zin4;yo zhao1;ok gong1;bs	338
-晋昭侯	zin4;yo zhao1;ok hou2;ru	31
 进这个	zin4;zj zhe4;zw ge5;rl	1107
 尽折腰	zin4;id zhe2;ft yao1;on	423
 尽枕河	zin4;id zhen3;ae he2;dk	423
@@ -58624,7 +58372,6 @@ sort: by_weight
 净觉寺	zing4;dy jve2;xj si4;tc	342
 警觉心	jing3;ck jve2;xj sin1;dd	6
 警觉性	jing3;ck jve2;xj sing4;xu	342
-景俊海	jing3;ox zvn4;rw hai3;dm	6
 井浚泓	zing3;ac zvn4;dw hong2;ds	255
 井开发	zing3;ac kai1;ac fa1;fy	266
 井开区	zing3;ac kai1;ac qv1;kx	176
@@ -58904,7 +58651,6 @@ sort: by_weight
 净善宫	zing4;dy shan4;yk gong1;bk	76
 旌善郡	zing1;fu shan4;yk jvn4;ye	346
 旌善线	zing1;fu shan4;yk sian4;sj	252
-井上靖	zing3;ac shang4;ba zing4;lo	69
 井上清	zing3;ac shang4;ba cing1;do	423
 静设备	zing4;fy she4;yu bei4;wt	238
 精神啊	zing1;mo shen2;pu a5;kk	716
@@ -59099,7 +58845,6 @@ sort: by_weight
 井下死	zing3;ac xia4;ab si3;db	99
 静下心	zing4;fy xia4;ab sin1;dd	1086
 净现比	zing4;dy xian4;wj bi3;bb	130
-井贤栋	zing3;ac xian2;lb dong4;ad	31
 净现金	zing4;dy xian4;wj jin1;rb	53
 敬显俊	jing4;cw xian3;oy zvn4;rw	297
 景先生	jing3;ox sian1;ne sheng1;pf	526
@@ -59131,7 +58876,6 @@ sort: by_weight
 景小姐	jing3;ox siao3;lb zie3;nq	562
 景小楼	jing3;ox siao3;lb lou2;an	6
 净效率	zing4;dy xiao4;ww lv4;wu	302
-荆霄鹏	jing1;cd siao1;yo peng2;on	198
 经销权	jing1;sj siao1;jo qvan2;ay	63
 经销商	jing1;sj siao1;jo shang1;wk	10098
 净销售	zing4;dy siao1;jo shou4;rk	634
@@ -62452,7 +62196,6 @@ sort: by_weight
 卡席安	ka3;ub sii2;gj an1;bn	315
 卡西迪	ka3;ub sii1;ak di2;zy	28
 卡西姆	ka3;ub sii1;ak mu3;nm	16
-卡西尼	ka3;ub sii1;ak ni2;ub	317
 卡西诺	ka3;ub sii1;ak nuo4;yk	22
 卡西欧	ka3;ub sii1;ak ou1;qq	4456
 卡西酮	ka3;ub sii1;ak tong2;yk	572
@@ -62906,7 +62649,6 @@ sort: by_weight
 抗拒性	kang4;fj jv4;fj sing4;xu	9
 抗菌剂	kang4;fj jvn1;ch zii4;qd	132
 抗菌性	kang4;fj jvn1;ch sing4;xu	531
-康克清	kang1;gl ke4;ux cing1;do	22
 抗拉性	kang4;fj la1;fl sing4;xu	25
 抗老剂	kang4;fj lao3;lb zii4;qd	4
 抗裂性	kang4;fj lie4;dy sing4;xu	6
@@ -63041,7 +62783,6 @@ sort: by_weight
 烤小猪	kao3;hk siao3;lb zhu1;qo	320
 考辛碱	kao3;lk sin1;lu jian3;uk	90
 考信录	kao3;lk sin4;rk lu4;eu	9
-考辛斯	kao3;lk sin1;lu si1;ct	1765
 考新闻	kao3;lk sin1;lt wen2;me	652
 靠信息	kao4;nf sin4;rk sii1;zx	706
 靠信仰	kao4;nf sin4;rk yang3;re	531
@@ -63230,7 +62971,6 @@ sort: by_weight
 可列集	ke3;dk lie4;dd zii2;ra	153
 可领取	ke3;dk ling3;ry cv3;ey	1026
 克隆性	ke4;ux long2;eu sing4;xu	414
-克罗齐	ke4;ux luo2;sx cii2;wl	104
 克罗心	ke4;ux luo2;sx sin1;dd	464
 可磨性	ke3;dk mo2;gu sing4;xu	279
 可模性	ke3;dk mo2;ad sing4;xu	52
@@ -63337,7 +63077,6 @@ sort: by_weight
 科西河	ke1;hd sii1;ak he2;dk	99
 科西嘉	ke1;hd sii1;ak jia1;tk	226
 柯锡杰	ke1;ak sii1;jw jie2;ah	346
-柯西金	ke1;ak sii1;ak jin1;rb	16
 可惜了	ke3;dk sii1;xo le5;al	3636
 柯西列	ke1;ak sii1;ak lie4;dd	324
 可熄灭	ke3;dk sii1;hx mie4;ah	6
@@ -63700,7 +63439,6 @@ sort: by_weight
 苦杏酒	ku3;cg xing4;ak ziu3;dy	230
 哭醒了	ku1;xq sing3;yu le5;al	518
 苦修士	ku3;cg siu1;rp shi4;ua	279
-堀秀行	ku1;ti siu4;hn xing2;rd	6
 苦修者	ku3;cg siu1;rp zhe3;lo	342
 堀秀政	ku1;ti siu4;hn zheng4;vw	387
 堀秀治	ku1;ti siu4;hn zhi4;dk	243
@@ -64075,7 +63813,6 @@ sort: by_weight
 啦就是	la5;kl ziu4;wy shi4;oz	972
 拉力线	la1;fl li4;vp sian4;sj	212
 拉面前	la1;fl mian4;ao cian2;bd	459
-拉姆齐	la1;fl mu3;nm cii2;wl	484
 拉齐奥	la1;fl cii2;wl ao4;pd	747
 拉齐尼	la1;fl cii2;wl ni2;ub	288
 拉齐斯	la1;fl cii2;wl si1;ct	364
@@ -64087,7 +63824,6 @@ sort: by_weight
 拉伸性	la1;fl shen1;ru sing4;xu	423
 拉升前	la1;fl sheng1;pc cian2;bd	513
 拉条线	la1;fl tiao2;wa sian4;sj	153
-拉瓦锡	la1;fl wa3;ad sii1;jw	945
 拉网线	la1;fl wang3;kx sian4;sj	454
 拉西亚	la1;fl sii1;ak ya4;ay	19
 拉下线	la1;fl xia4;ab sian4;sj	495
@@ -64115,7 +63851,6 @@ sort: by_weight
 莱比锡	lai2;cl bi3;bb sii1;jw	1586
 来宾席	lai2;aa bin1;bb sii2;gj	207
 来不想	lai2;aa bu4;ab siang3;ax	1166
-赖昌星	lai4;ub chang1;oo sing1;ou	251
 来潮前	lai2;aa chao2;do cian2;bd	765
 来成就	lai2;aa cheng2;gv ziu4;wy	760
 来到西	lai2;aa dao4;gd sii1;ak	9
@@ -64172,7 +63907,6 @@ sort: by_weight
 来就是	lai2;aa ziu4;wy shi4;oz	1976
 来就送	lai2;aa ziu4;wy song4;zt	675
 来就行	lai2;aa ziu4;wy xing2;rd	1030
-来俊臣	lai2;aa zvn4;rw chen2;kl	176
 赖俊羽	lai4;ub zvn4;rw yv3;xx	252
 来看清	lai2;aa kan4;uo cing1;do	630
 来看秀	lai2;aa kan4;uo siu4;hn	414
@@ -64207,7 +63941,6 @@ sort: by_weight
 来切换	lai2;aa cie1;qd huan4;fr	662
 来沁阳	lai2;aa cin4;dx yang2;eo	144
 来青岛	lai2;aa cing1;fo dao3;nu	914
-赖清德	lai4;ub cing1;do de2;rx	6
 来青海	lai2;aa cing1;fo hai3;dm	598
 来清华	lai2;aa cing1;do hua2;ru	670
 来情况	lai2;aa cing2;xo kuang4;dx	788
@@ -64228,7 +63961,6 @@ sort: by_weight
 来省钱	lai2;aa sheng3;uo cian2;jj	44
 来收集	lai2;aa shou1;jw zii2;ra	1076
 来双祥	lai2;aa shuang1;yy siang2;py	477
-赖水清	lai4;ub shui3;ln cing1;do	16
 来说情	lai2;aa shuo1;yx cing2;xo	774
 赖斯翔	lai4;ub si1;ct siang2;yx	526
 来宿迁	lai2;aa su4;bb cian1;zq	360
@@ -64402,7 +64134,6 @@ sort: by_weight
 蓝小姐	lan2;cm siao3;lb zie3;nq	621
 兰小姐	lan2;bs siao3;lb zie3;nq	448
 蓝小邪	lan2;cm siao3;lb sie2;ye	306
-蓝心湄	lan2;cm sin1;dd mei2;do	25
 兰新线	lan2;bs sin1;lt sian4;sj	19
 蓝星人	lan2;cm sing1;ou ren2;pn	531
 蓝星星	lan2;cm sing1;ou sing1;ou	261
@@ -64422,7 +64153,6 @@ sort: by_weight
 浪费钱	lang4;dl fei4;fb cian2;jj	2569
 浪费性	lang4;dl fei4;fb sing4;xu	16
 浪花礁	lang4;dl hua1;cb ziao1;uh	310
-郎静山	lang2;le zing4;fy shan1;kl	53
 廊酒吧	lang2;ge ziu3;dy ba1;kb	360
 郎酒厂	lang2;le ziu3;dy chang3;ap	288
 狼居胥	lang2;ql jv1;ug sv1;zo	616
@@ -64508,7 +64238,6 @@ sort: by_weight
 劳模姐	lao2;cl mo2;ad zie3;nq	110
 老木匠	lao3;lb mu4;ur ziang4;kt	513
 老母亲	lao3;lb mu3;md cin1;la	1758
-劳乃宣	lao2;cl nai3;pv svan1;bd	6
 老年节	lao3;lb nian2;pf zie2;ce	500
 老年性	lao3;lb nian2;pf sing4;xu	88
 老婆就	lao3;lb po2;dn ziu4;wy	1017
@@ -64597,7 +64326,6 @@ sort: by_weight
 了借了	le5;al zie4;ro le5;al	353
 了进了	le5;al zin4;zj le5;al	693
 了进去	le5;al zin4;zj qv4;ts	1526
-乐靖宜	le4;px zing4;lo yi2;bq	9
 乐静怡	le4;px zing4;fy yi2;xk	8
 了就好	le5;al ziu4;wy hao3;nz	1224
 了就了	le5;al ziu4;wy le5;al	490
@@ -65220,7 +64948,6 @@ sort: by_weight
 莲前路	lian2;ci cian2;bd lu4;zk	162
 练枪法	lian4;sd ciang1;av fa3;dq	450
 连墙件	lian2;zi ciang2;tk jian4;rn	324
-廉亲王	lian2;gj cin1;la wang2;at	9
 恋情吧	lian4;wx cing2;xo ba5;kb	387
 恋情了	lian4;wx cing2;xo le5;al	590
 连清人	lian2;zi cing1;do ren2;pn	207
@@ -65606,11 +65333,9 @@ sort: by_weight
 聊加薪	liao2;ee jia1;lk sin1;ct	50
 了解些	liao3;al jie3;dn sie1;ve	138
 料今宵	liao4;md jin1;rv siao1;bo	117
-廖静文	liao4;gp zing4;fy wen2;wx	6
 聊就行	liao2;ee ziu4;wy xing2;rd	356
 聊就业	liao2;ee ziu4;wy ye4;la	207
 聊剧情	liao2;ee jv4;ud cing2;xo	396
-廖俊波	liao4;gp zvn4;rw bo1;dp	6
 聊开心	liao2;ee kai1;ac sin1;dd	436
 聊理想	liao2;ee li3;wl siang3;ax	544
 聊梦想	liao2;ee meng4;ax siang3;ax	432
@@ -65625,7 +65350,6 @@ sort: by_weight
 聊微信	liao2;ee wei1;rj sin4;rk	336
 辽西北	liao2;zl sii1;ak bei3;lb	310
 辽西郡	liao2;zl sii1;ak jvn4;ye	500
-廖锡龙	liao4;gp sii1;jw long2;yp	3
 廖西岩	liao4;gp sii1;ak yan2;uu	45
 廖先生	liao4;gp sian1;ne sheng1;pf	19
 料想到	liao4;md siang3;ax dao4;gd	276
@@ -65636,12 +65360,10 @@ sort: by_weight
 辽小虎	liao2;zl siao3;lb hu3;hj	47
 廖小姐	liao4;gp siao3;lb zie3;nq	508
 廖小荣	liao4;gp siao3;lb rong2;ca	45
-廖新波	liao4;gp sin1;lt bo1;dp	9
 聊心事	liao2;ee sin1;dd shi4;gy	585
 聊新闻	liao2;ee sin1;lt wen2;me	387
 聊星座	liao2;ee sing1;ou zuo4;gr	410
 聊学习	liao2;ee xve2;xz sii2;vd	490
-廖耀湘	liao4;gp yao4;gv siang1;do	100
 聊一些	liao2;ee yi4;aa sie1;ve	846
 聊涨薪	liao2;ee zhang3;di sin1;ct	4
 列编辑	lie4;dd bian1;sc zii2;ie	374
@@ -65734,7 +65456,6 @@ sort: by_weight
 林先生	lin2;aa sian1;ne sheng1;pf	769
 磷酰溴	lin2;uf sian1;ye xiu4;dq	162
 临湘仓	lin2;lk siang1;do cang1;rv	45
-蔺相如	lin4;cv siang4;ao ru2;nk	625
 拎箱子	lin1;fs siang1;vo zi5;la	22
 临湘组	lin2;lk siang1;do zu3;sq	45
 拎小鸡	lin1;fs siao3;lb ji1;yn	28
@@ -66071,7 +65792,6 @@ sort: by_weight
 硫氰值	liu2;ui cing2;qo zhi2;rq	4
 留全尸	liu2;pt cvan2;rw shi1;kp	374
 六人寝	liu4;wb ren2;pn cin3;by	540
-刘三姐	liu2;wd san1;ae zie3;nq	85
 六三七	liu4;wb san1;ae cii1;av	72
 柳色新	liu3;ae se4;db sin1;lt	504
 柳梢青	liu3;ae shao1;ao cing1;fo	44
@@ -66175,7 +65895,6 @@ sort: by_weight
 龙虎啸	long2;yp hu3;hj siao4;kb	225
 龙华线	long2;yp hua2;ru sian4;sj	495
 龙脊岛	long2;yp zii3;ro dao3;nu	212
-龙济光	long2;yp zii4;dq guang1;xe	16
 龙脊岭	long2;yp zii3;ro ling3;us	243
 龙脊山	long2;yp zii3;ro shan1;kl	436
 龙脊石	long2;yp zii3;ro shi2;ak	180
@@ -66323,7 +66042,6 @@ sort: by_weight
 鲁班奖	lu3;yo ban1;wl ziang3;ld	22
 鲁棒性	lu3;yo bang4;af sing4;xu	722
 陆背斜	lu4;ej bei4;bo sie2;rd	90
-鲁滨逊	lu3;yo bin1;db svn4;zx	352
 鸬鹚涎	lu2;bn ci2;bn sian2;dv	45
 鹿岛线	lu4;gb dao3;nu sian4;sj	490
 路东西	lu4;zk dong1;ax sii5;ak	806
@@ -66364,7 +66082,6 @@ sort: by_weight
 路面积	lu4;zk mian4;ao zii1;hv	801
 卢明铨	lu2;bu ming2;oo cvan2;jw	45
 路姆西	lu4;zk mu3;nm sii1;ak	392
-卢南樵	lu2;bu nan2;ug ciao2;ah	3
 炉前工	lu2;hh cian2;bd gong1;aa	6
 颅前窝	lu2;by cian2;bd wo1;bn	13
 录取吧	lu4;eu cv3;ey ba5;kb	378
@@ -66389,7 +66106,6 @@ sort: by_weight
 路台线	lu4;zk tai2;sk sian4;sj	522
 卢文进	lu2;bu wen2;wx zin4;zj	410
 卢西安	lu2;bu sii1;ak an1;bn	85
-卢西奥	lu2;bu sii1;ak ao4;pd	493
 鲁西北	lu3;yo sii1;ak bei3;lb	31
 路西侧	lu4;zk sii1;ak ce4;rd	882
 露西的	lu4;yk sii1;ak de5;bu	662
@@ -66437,12 +66153,10 @@ sort: by_weight
 陆向斜	lu4;ej xiang4;pk sie2;rd	4
 颅相学	lu2;by siang1;ao xve2;xz	414
 录像中	lu4;eu siang4;ru zhong1;kl	720
-路小佳	lu4;zk siao3;lb jia1;rt	22
 陆小姐	lu4;ej siao3;lb zie3;nq	38
 卢小姐	lu2;bu siao3;lb zie3;nq	31
 鹿小姐	lu4;gb siao3;lb zie3;nq	28
 鹿小葵	lu4;gb siao3;lb kui2;ct	28
-卢小鱼	lu2;bu siao3;lb yv2;da	25
 路小雨	lu4;zk siao3;lb yv3;ad	22
 鹿血酒	lu4;gb xie3;pm ziu3;dy	328
 露辛达	lu4;yk sin1;lu da2;zd	410
@@ -66527,7 +66241,6 @@ sort: by_weight
 落地箱	luo4;ck di4;ty siang1;vo	6
 落地性	luo4;ck di4;ty sing4;xu	207
 裸电线	luo3;pg dian4;ov sian4;sj	189
-罗戈津	luo2;sx ge1;yd zin1;dy	53
 罗汉钱	luo2;sx han4;dy cian2;jj	454
 罗汉像	luo2;sx han4;dy siang4;ru	626
 络合剂	luo4;sk he2;rk zii4;qd	338
@@ -66581,7 +66294,6 @@ sort: by_weight
 萝莉节	luo2;cx li4;cd zie2;ce	274
 萝莉心	luo2;cx li4;cd sin1;dd	22
 裸母线	luo3;pg mu3;md sian4;sj	45
-罗齐尔	luo2;sx cii2;wl er3;dx	308
 洛晴川	luo4;dk cing2;oo chuan1;pl	342
 落日西	luo4;ck ri4;wa sii1;ak	410
 螺丝椒	luo2;ix si1;sa ziao1;ay	338
@@ -66589,7 +66301,6 @@ sort: by_weight
 洛汀新	luo4;dk ting1;dd sin1;lt	342
 裸铜线	luo3;pg tong2;jk sian4;sj	220
 骆驼泉	luo4;mk tuo2;mb cvan2;bu	194
-罗洗河	luo2;sx sii3;de he2;dk	38
 洛西亚	luo4;dk sii1;ak ya4;ay	342
 螺线管	luo2;ix sian4;sj guan3;vl	97
 螺线群	luo2;ix sian4;sj qvn2;yy	90
@@ -66760,7 +66471,6 @@ sort: by_weight
 麻椒味	ma2;ga ziao1;ay wei4;kw	382
 麻椒油	ma2;ga ziao1;ay you2;dy	19
 马姐姐	ma3;va zie3;nq zie5;nq	28
-马克沁	ma3;va ke4;ux cin4;dx	104
 麻辣酱	ma2;ga la4;xu ziang4;ly	75
 麻辣情	ma2;ga la4;xu cing2;xo	274
 骂鲁迅	ma4;xm lu3;yo svn4;zu	356
@@ -66834,7 +66544,6 @@ sort: by_weight
 脉冲星	mai4;oy chong1;dv sing1;ou	885
 买大象	mai3;ad da4;ar siang4;du	13
 卖的钱	mai4;ud de5;bu cian2;jj	585
-麦迪逊	mai4;fw di2;zy svn4;zx	1448
 买点心	mai3;ad dian3;vh sin1;dd	729
 买东西	mai3;ad dong1;ax sii5;ak	9841
 卖东西	mai4;ud dong1;ax sii5;ak	2176
@@ -66879,7 +66588,6 @@ sort: by_weight
 买就买	mai3;ad ziu4;wy mai3;ad	936
 买就送	mai3;ad ziu4;wy song4;zt	585
 买就行	mai3;ad ziu4;wy xing2;rd	693
-麦卡锡	mai4;fw ka3;ub sii1;jw	352
 买开心	mai3;ad kai1;ac sin1;dd	572
 麦肯齐	mai4;fw ken3;vo cii2;wl	223
 麦肯锡	mai4;fw ken3;vo sii1;jw	2141
@@ -67141,9 +66849,7 @@ sort: by_weight
 毛小兵	mao2;pv siao3;lb bing1;qb	464
 毛小孩	mao2;pv siao3;lb hai2;zr	454
 猫小姐	mao1;qt siao3;lb zie3;nq	482
-猫小乐	mao1;qt siao3;lb le4;px	3
 猫小猫	mao1;qt siao3;lb mao1;qt	9
-毛小毛	mao2;pv siao3;lb mao2;pv	8
 猫小咪	mao1;qt siao3;lb mi1;km	194
 冒小泡	mao4;oo siao3;lb pao4;db	31
 毛小平	mao2;pv siao3;lb ping2;au	338
@@ -67163,7 +66869,6 @@ sort: by_weight
 猫一些	mao1;qt yi4;aa sie1;ve	292
 贸易性	mao4;pb yi4;ow sing4;xu	17
 毛远新	mao2;pv yvan3;zy sin1;lt	612
-毛主席	mao2;pv zhu3;wt sii2;gj	4427
 没爱情	mei2;du ai4;vy cing2;xo	28
 没爱心	mei2;du ai4;vy sin1;dd	44
 没安全	mei2;du an1;bn cvan2;rw	927
@@ -67725,8 +67430,6 @@ sort: by_weight
 没细问	mei2;du sii4;st wen4;mk	513
 没细想	mei2;du sii4;st siang3;ax	486
 梅西亚	mei2;am sii1;ak ya4;ay	331
-梅西叶	mei2;am sii1;ak ye4;ku	82
-梅西耶	mei2;am sii1;ak ye2;ee	74
 没洗澡	mei2;du sii3;de zao3;da	144
 没下线	mei2;du xia4;ab sian4;sj	229
 没下雪	mei2;du xia4;ab sve3;ye	13
@@ -68066,7 +67769,6 @@ sort: by_weight
 梦想中	meng4;ax siang3;ax zhong1;kl	1017
 梦想紫	meng4;ax siang3;ax zi3;vx	99
 孟小姐	meng4;zm siao3;lb zie3;nq	504
-猛小蛇	meng3;qm siao3;lb she2;ib	3
 锰榍石	meng3;jm sie4;ao shi2;ak	45
 萌新吧	meng2;co sin1;lt ba5;kb	297
 梦醒后	meng4;ax sing3;yu hou4;ik	188
@@ -68376,7 +68078,6 @@ sort: by_weight
 名港线	ming2;xk gang3;ds sian4;sj	333
 名歌星	ming2;xk ge1;kq sing1;ou	603
 明继续	ming2;oo ji4;sm sv4;sd	612
-明嘉靖	ming2;oo jia1;tk zing4;lo	493
 名将吧	ming2;xk ziang4;lc ba5;kb	189
 名将令	ming2;xk ziang4;lc ling4;rs	50
 名将中	ming2;xk ziang4;lc zhong1;kl	459
@@ -68496,7 +68197,6 @@ sort: by_weight
 明星制	ming2;oo sing1;ou zhi4;nd	567
 明宣德	ming2;oo svan1;bd de2;rx	720
 名选手	ming2;xk svan3;ze shou3;pf	1174
-明宣宗	ming2;oo svan1;bd zong1;bu	122
 明一些	ming2;oo yi4;aa sie1;ve	954
 名优新	ming2;xk you1;ry sin1;lt	342
 铭于心	ming2;jk yv2;au sin1;dd	243
@@ -68534,7 +68234,6 @@ sort: by_weight
 摩湖线	mo2;gu hu2;do sian4;sj	342
 模糊性	mo2;ad hu5;mo sing4;xu	496
 莫怀戚	mo4;cd huai2;xb cii1;gx	297
-莫焕晶	mo4;cd huan4;hr zing1;oo	72
 墨迹本	mo4;lt zii4;zb ben3;aa	392
 膜疾病	mo2;od zii2;bu bing4;bn	662
 墨迹不	mo4;lt zii4;zb bu4;ab	446
@@ -68554,7 +68253,6 @@ sort: by_weight
 莫君锡	mo4;cd jvn1;yk sii1;jw	45
 模块箱	mo2;ad kuai4;tg siang1;vo	4
 模块性	mo2;ad kuai4;tg sing4;xu	13
-魔礼青	mo2;gg li3;pv cing1;fo	9
 魔力星	mo2;gg li4;vp sing1;ou	9
 莫理循	mo4;cd li3;wl svn2;ro	414
 魔龙枪	mo2;gg long2;yp ciang1;av	288
@@ -68579,7 +68277,6 @@ sort: by_weight
 墨水心	mo4;lt shui3;ln sin1;dd	364
 磨损小	mo2;gu sun3;fb siao3;lb	342
 磨损性	mo2;gu sun3;fb sing4;xu	9
-莫天全	mo4;cd tian1;ad cvan2;rw	35
 莫文泉	mo4;cd wen2;wx cvan2;bu	4
 膜细胞	mo2;od sii4;st bao1;ob	774
 莫西干	mo4;cd sii1;ak gan4;au	639
@@ -68831,7 +68528,6 @@ sort: by_weight
 那段情	na4;ve duan4;pu cing2;xo	531
 那多钱	na4;ve duo1;xx cian2;jj	324
 哪儿切	na3;ke er5;pv cie4;qd	356
-纳尔逊	na4;sn er3;dx svn4;zx	305
 那份情	na4;ve fen4;rf cing2;xo	6
 那份心	na4;ve fen4;rf sin1;dd	63
 那封信	na4;ve feng1;tc sin4;rk	471
@@ -72193,7 +71889,6 @@ sort: by_weight
 牛津联	niu2;pu zin1;dy lian2;et	500
 牛津树	niu2;pu zin1;dy shu4;ac	405
 牛津鞋	niu2;pu zin1;dy xie2;ct	801
-牛金星	niu2;pu jin1;rb sing1;ou	25
 牛井饭	niu2;pu zing3;ac fan4;uy	274
 牛俊雁	niu2;pu zvn4;rw yan4;iv	130
 扭口藓	niu3;fi kou3;la sian3;cy	266
@@ -72208,9 +71903,7 @@ sort: by_weight
 牛肉酱	niu2;pu rou4;nr ziang4;ly	927
 牛酸浆	niu2;pu suan1;yw ziang1;lu	4
 牛外脊	niu2;pu wai4;xb zii3;ro	35
-钮文新	niu3;ji wen2;wx sin1;lt	63
 牛膝草	niu2;pu sii1;ou cao3;cu	284
-牛希济	niu2;pu xi1;xj zii4;dq	53
 牛膝菊	niu2;pu sii1;ou jv2;cm	243
 纽西兰	niu3;si sii1;ak lan2;bs	60
 牛锡明	niu2;pu sii1;jw ming2;oo	482
@@ -72468,9 +72161,7 @@ sort: by_weight
 欧阳晴	ou1;qq yang2;eo cing2;oo	396
 欧阳秋	ou1;qq yang2;eo ciu1;hh	266
 欧阳新	ou1;qq yang2;eo sin1;lt	270
-欧阳修	ou1;qq yang2;eo siu1;rp	3803
 欧阳雪	ou1;qq yang2;eo sve3;ye	706
-欧阳询	ou1;qq yang2;eo svn2;yo	528
 偶一些	ou3;rd yi4;aa sie1;ve	212
 欧洲线	ou1;qq zhou1;dv sian4;sj	436
 欧洲性	ou1;qq zhou1;dv sing4;xu	17
@@ -72668,7 +72359,6 @@ sort: by_weight
 胖新娘	pang4;ob sin1;lt niang2;nl	405
 庞星火	pang2;gl sing1;ou huo3;br	270
 胖修士	pang4;ob siu1;rp shi4;ua	3
-庞元济	pang2;gl yvan2;aw zii4;dq	6
 逄志泉	pang2;zf zhi4;tx cvan2;bu	338
 胖子小	pang4;ob zi5;la siao3;lb	432
 跑步前	pao3;zb bu4;vu cian2;bd	855
@@ -72745,7 +72435,6 @@ sort: by_weight
 配角奖	pei4;yj jve2;dy ziang3;ld	3
 赔了钱	pei2;bk le5;al cian2;jj	342
 佩鲁济	pei4;rj lu3;yo zii4;dq	256
-佩洛西	pei4;rj luo4;dk sii1;ak	697
 佩罗西	pei4;rj luo2;sx sii1;ak	356
 陪母亲	pei2;ek mu3;md cin1;la	648
 赔你钱	pei2;bk ni3;rx cian2;jj	72
@@ -72819,7 +72508,6 @@ sort: by_weight
 喷油漆	pen1;kb you2;dy cii1;du	621
 膨大剂	peng2;op da4;ar zii4;qd	25
 彭德倩	peng2;tp de2;rx cian4;ro	297
-彭德清	peng2;tp de2;rx cing1;do	16
 膨化剂	peng2;op hua4;rb zii4;qd	464
 彭济涉	peng2;tp zii4;dq she4;du	324
 彭将军	peng2;tp ziang1;lc jvn1;bi	364
@@ -72838,7 +72526,6 @@ sort: by_weight
 彭小姐	peng2;tp siao3;lb zie3;nq	378
 烹小鲜	peng1;wh siao3;lb sian1;yy	13
 捧新人	peng3;ff sin1;lt ren2;pn	450
-彭雪枫	peng2;tp sve3;ye feng1;af	19
 硼吖嗪	peng2;uo ya1;ky cin2;kh	45
 碰一些	peng4;uy yi4;aa sie1;ve	346
 捧一些	peng3;ff yi4;aa sie1;ve	289
@@ -72863,7 +72550,6 @@ sort: by_weight
 蓬宗集	peng2;cf zong1;bu zii2;ra	378
 皮背心	pi2;py bei4;bo sin1;dd	464
 批次线	pi1;fb ci4;dq sian4;sj	518
-皮尔逊	pi2;py er3;dx svn4;zx	85
 批发性	pi1;fb fa1;fy sing4;xu	274
 皮肤癣	pi2;py fu1;of svan3;by	3
 屁股小	pi4;ub gu5;ou siao3;lb	531
@@ -73113,7 +72799,6 @@ sort: by_weight
 品质奖	pin3;kk zhi4;ib ziang3;ld	454
 品种全	pin3;kk zhong3;hv cvan2;rw	716
 平安祭	ping2;au an1;bn zii4;xu	418
-平安信	ping2;au an1;bn sin4;rk	3
 平安性	ping2;au an1;bn sing4;xu	212
 平背斜	ping2;au bei4;bo sie2;rd	4
 屏蔽墙	ping2;uk bi4;cw ciang2;tk	320
@@ -73202,7 +72887,6 @@ sort: by_weight
 凭想象	ping2;rj siang3;ax siang4;du	662
 平销款	ping2;au siao1;jo kuan3;tq	130
 平消片	ping2;au siao1;do pian4;pv	220
-平新乔	ping2;au sin1;lt qiao2;yl	141
 凭心情	ping2;rj sin1;dd cing2;xo	495
 平信徒	ping2;au sin4;rk tu2;rz	616
 凭信心	ping2;rj sin4;rk sin1;dd	400
@@ -73357,7 +73041,6 @@ sort: by_weight
 溥心畬	pu3;dc sin1;dd she1;rt	472
 溥心畲	pu3;dc sin1;dd she1;rt	312
 谱性质	pu3;yo sing4;xu zhi4;ib	328
-普修斯	pu3;bo siu1;rp si1;ct	3
 谱序列	pu3;yo sv4;gy lie4;dd	464
 普选票	pu3;bo svan3;ze piao4;xu	662
 普选权	pu3;bo svan3;ze qvan2;ay	53
@@ -73904,7 +73587,6 @@ sort: by_weight
 凄凉调	cii1;dn liang2;dx diao4;yk	117
 凄凉犯	cii1;dn liang2;dx fan4;qv	194
 凄凉感	cii1;dn liang2;dx gan3;gx	486
-杞梁妻	qi3;aj liang2;da cii1;un	16
 凄凉山	cii1;dn liang2;dx shan1;kl	130
 凄凉我	cii1;dn liang2;dx wo3;ga	356
 齐亮相	cii2;wl liang4;wj siang4;ao	693
@@ -74755,7 +74437,6 @@ sort: by_weight
 钱财了	cian2;jj cai2;bc le5;al	378
 钱财如	cian2;jj cai2;bc ru2;nk	518
 钱财纹	cian2;jj cai2;bc wen2;sw	441
-浅仓威	cian3;dj cang1;rv wei1;gn	13
 潜藏在	cian2;do cang2;ci zai4;ut	480
 潜藏着	cian2;do cang2;ci zhe5;yo	430
 茜草根	cian4;cx cao3;cu gen1;ag	288
@@ -75539,7 +75220,6 @@ sort: by_weight
 千里香	cian1;pu li3;tt xiang1;ho	38
 千里行	cian1;pu li3;tt xing2;rd	28
 潜力型	cian2;do li4;vp xing2;kt	25
-千利休	cian1;pu li4;hd xiu1;ra	254
 千里雪	cian1;pu li3;tt sve3;ye	526
 千里寻	cian1;pu li3;tt svn2;ec	603
 千里眼	cian1;pu li3;tt yan3;og	371
@@ -75731,7 +75411,6 @@ sort: by_weight
 钱哪来	cian2;jj na3;ke lai2;aa	153
 钱拿了	cian2;jj na2;ru le5;al	612
 钱那时	cian2;jj na4;ve shi2;to	572
-千奈美	cian1;pu nai4;du mei3;yd	192
 前男的	cian2;bd nan2;tl de5;bu	356
 前男友	cian2;bd nan2;tl you3;uy	3934
 前南峪	cian2;bd nan2;ug yv4;ug	351
@@ -77628,7 +77307,6 @@ sort: by_weight
 切了菜	cie1;qd le5;al cai4;ca	76
 切了切	cie1;qd le5;al cie4;qd	351
 切粒机	cie1;qd li4;ml ji1;aj	189
-切利尼	cie4;qd li4;hd ni2;ub	53
 切里诺	cie4;qd li3;tt nuo4;yk	364
 切两半	cie4;qd liang3;ar ban4;bf	644
 切两刀	cie4;qd liang3;ar dao1;vp	414
@@ -78742,7 +78420,6 @@ sort: by_weight
 请的假	cing3;yo de5;bu jia3;ry	311
 请得起	cing3;yo de2;rc qi3;tj	292
 轻得像	qing1;ij de5;rc siang4;ru	19
-清德宗	cing1;do de2;rx zong1;bu	16
 请等待	cing3;yo deng3;vc dai4;rc	119
 请等等	cing3;yo deng3;vc deng3;vc	513
 请登记	cing3;yo deng1;bb ji4;yj	832
@@ -79146,7 +78823,6 @@ sort: by_weight
 亲家了	cing4;la jia5;bu le5;al	388
 清嘉录	cing1;do jia1;tk lu4;eu	6
 亲家母	cing4;la jia5;bu mu3;md	41
-清嘉庆	cing1;do jia1;tk qing4;gd	53
 请加群	cing3;yo jia1;lk qvn2;yy	19
 请假人	cing3;yo jia4;ry ren2;pn	693
 请家人	cing3;yo jia1;bu ren2;pn	293
@@ -79352,7 +79028,6 @@ sort: by_weight
 请看图	cing3;yo kan4;uo tu2;wd	770
 请看我	cing3;yo kan4;uo wo3;ga	832
 请看下	cing3;yo kan4;uo xia4;ab	119
-清康熙	cing1;do kang1;gl xi1;ih	126
 请考虑	cing3;yo kao3;lk lv4;hx	891
 请客啊	cing3;yo ke4;bk a5;kk	580
 请客吧	cing3;yo ke4;bk ba5;kb	495
@@ -79900,7 +79575,6 @@ sort: by_weight
 清欠款	cing1;do qian4;dr kuan3;tq	612
 青铅矿	cing1;fo qian1;jk kuang4;ug	99
 青钱柳	cing1;fo cian2;jj liu3;ae	195
-清乾隆	cing1;do qian2;uv long2;eu	232
 清前期	cing1;do cian2;bd qi1;co	468
 庆千秋	qing4;gd cian1;pu ciu1;hh	45
 情缱绻	cing2;xo qian3;sl qvan3;sv	459
@@ -80135,7 +79809,6 @@ sort: by_weight
 请慎重	cing3;yo shen4;xb zhong4;ql	625
 轻声笑	qing1;ij sheng1;tu siao4;vy	702
 青盛苑	cing1;fo sheng4;im yvan4;cv	252
-清圣祖	cing1;do sheng4;yt zu3;pq	22
 情诗吧	cing2;xo shi1;yc ba5;kb	186
 情史吧	cing2;xo shi3;kn ba5;kb	122
 青石板	cing1;fo shi2;ak ban3;ay	185
@@ -80179,7 +79852,6 @@ sort: by_weight
 请示中	cing3;yo shi4;ex zhong1;kl	634
 青石砖	cing1;fo shi2;ak zhuan1;uv	450
 青柿子	cing1;fo shi4;aj zi5;la	351
-清世宗	cing1;do shi4;cv zong1;bu	75
 青石嘴	cing1;fo shi2;ak zui3;ky	364
 请收藏	cing3;yo shou1;jw cang2;ci	185
 请收好	cing3;yo shou1;jw hao3;nz	626
@@ -80207,7 +79879,6 @@ sort: by_weight
 清水泵	cing1;do shui3;ln beng4;uu	3
 清水茶	cing1;do shui3;ln cha2;cm	351
 清水池	cing1;do shui3;ln chi2;dy	28
-清水崇	cing1;do shui3;ln chong2;uu	410
 清水川	cing1;do shui3;ln chuan1;pl	374
 清水道	cing1;do shui3;ln dao4;zz	225
 清水店	cing1;do shui3;ln dian4;gv	238
@@ -80268,7 +79939,6 @@ sort: by_weight
 清水中	cing1;do shui3;ln zhong1;kl	113
 清水煮	cing1;do shui3;ln zhu3;lh	963
 清水砖	cing1;do shui3;ln zhuan1;uv	486
-清顺治	cing1;do shun4;iy zhi4;dk	60
 请说吧	cing3;yo shuo1;yx ba5;kb	342
 请说出	cing3;yo shuo1;yx chu1;uu	126
 请说明	cing3;yo shuo1;yx ming2;oo	1318
@@ -80330,8 +80000,6 @@ sort: by_weight
 青苔鼠	cing1;fo tai2;ck shu3;jv	180
 请太医	cing3;yo tai4;dd yi1;ku	13
 青泰苑	cing1;fo tai4;iu yvan4;cv	256
-清太宗	cing1;do tai4;dd zong1;bu	13
-清太祖	cing1;do tai4;dd zu3;pq	31
 清潭洞	cing1;do tan2;du dong4;dk	603
 清谈家	cing1;do tan2;yh jia1;bu	3
 青檀树	cing1;fo tan2;ad shu4;ac	3
@@ -80413,7 +80081,6 @@ sort: by_weight
 请同学	cing3;yo tong2;kk xve2;xz	904
 青铜卣	cing1;fo tong2;jk you3;bk	194
 请通知	cing3;yo tong1;zy zhi1;uk	107
-清同治	cing1;do tong2;kk zhi4;dk	96
 青铜钟	cing1;fo tong2;jk zhong1;jv	9
 清透感	cing1;do tou4;zn gan3;gx	25
 青头菌	cing1;fo tou2;dd jvn1;ch	25
@@ -80548,7 +80215,6 @@ sort: by_weight
 青虾仁	cing1;fo xia1;ix ren2;re	369
 请下载	cing3;yo xia4;ab zai4;gi	170
 清闲的	cing1;do xian2;ma de5;bu	837
-清咸丰	cing1;do xian2;gk feng1;sl	57
 请先将	cing3;yo sian1;ne ziang1;lc	31
 青线椒	cing1;fo sian4;sj ziao1;ay	230
 清闲了	cing1;do xian2;ma le5;al	567
@@ -80561,7 +80227,6 @@ sort: by_weight
 青香蕉	cing1;fo xiang1;ho ziao1;ch	392
 清香木	cing1;do xiang1;ho mu4;ur	364
 清香坪	cing1;do xiang1;ho ping2;tp	225
-顷襄王	qing3;by siang1;yf wang2;at	22
 清香味	cing1;do xiang1;ho wei4;kw	195
 请向我	cing3;yo xiang4;pk wo3;ga	196
 请相信	cing3;yo siang1;ao sin4;rk	1071
@@ -80583,7 +80248,6 @@ sort: by_weight
 请笑纳	cing3;yo siao4;vy na4;sn	75
 倾销时	qing1;ry siao1;jo shi2;to	364
 轻小说	qing1;ij siao3;lb shuo1;yx	2766
-青小蛙	cing1;fo siao3;lb wa1;it	3
 请小心	cing3;yo siao3;lb sin1;dd	188
 轻小型	qing1;ij siao3;lb xing2;kt	446
 轻笑着	qing1;ij siao4;vy zhe5;yo	31
@@ -80803,7 +80467,6 @@ sort: by_weight
 请用力	cing3;yo yong4;kf li4;vp	500
 清永陵	cing1;do yong3;du ling2;ew	310
 情永在	cing2;xo yong3;du zai4;ut	351
-清雍正	cing1;do yong1;wv zheng4;av	75
 清油漆	cing1;do you2;dy cii1;du	130
 清幽幽	cing1;do you1;uy you1;uy	8
 青幽幽	cing1;fo you1;uy you1;uy	7
@@ -81181,7 +80844,6 @@ sort: by_weight
 求亲了	qiu2;au cin1;la le5;al	279
 求亲亲	qiu2;au cin1;la cin1;la	369
 求情了	qiu2;au cing2;xo le5;al	490
-邱清泉	qiu1;qe cing1;do cvan2;bu	47
 求情时	qiu2;au cing2;xo shi2;to	428
 求求情	qiu2;au qiu2;au cing2;xo	572
 秋日寒	ciu1;hh ri4;wa han2;bd	292
@@ -81300,7 +80962,6 @@ sort: by_weight
 秋玉米	ciu1;hh yv4;wd mi3;ba	266
 秋雨中	ciu1;hh yv3;ad zhong1;kl	531
 萩原健	ciu1;ch yvan2;ix jian4;ry	378
-秋元康	ciu1;hh yvan2;aw kang1;gl	327
 萩原舞	ciu1;ch yvan2;ix wu3;pf	378
 求援信	qiu2;au yvan2;fy sin4;rk	22
 秋月白	ciu1;hh yve4;ke bai2;po	13
@@ -81708,7 +81369,6 @@ sort: by_weight
 曲青山	qv3;wc cing1;fo shan1;kl	328
 去清远	qv4;ts cing1;do yvan3;zy	378
 去青州	qv4;ts cing1;fo zhou1;dl	418
-瞿秋白	qv2;ov ciu1;hh bai2;po	327
 去求亲	qv4;ts qiu2;au cin1;la	13
 去秋游	qv4;ts ciu1;hh you2;dz	490
 去秋燥	qv4;ts ciu1;hh zao4;ha	328
@@ -82341,7 +82001,6 @@ sort: by_weight
 全都关	cvan2;rw dou1;le guan1;bt	3
 全都好	cvan2;rw dou1;le hao3;nz	22
 全都换	cvan2;rw dou1;le huan4;fr	267
-全斗焕	cvan2;rw dou4;ud huan4;hr	240
 全都会	cvan2;rw dou1;le hui4;ry	292
 全都买	cvan2;rw dou1;le mai3;ad	63
 全都是	cvan2;rw dou1;le shi4;oz	11618
@@ -82468,7 +82127,6 @@ sort: by_weight
 全海景	cvan2;rw hai3;dm jing3;ox	526
 全海深	cvan2;rw hai3;dm shen1;da	288
 全韩班	cvan2;rw han2;uw ban1;wl	189
-全汉升	cvan2;rw han4;dy sheng1;pc	19
 全行业	cvan2;rw hang2;rd ye4;la	1592
 全好了	cvan2;rw hao3;nz le5;al	82
 全合成	cvan2;rw he2;rk cheng2;gv	828
@@ -83399,7 +83057,6 @@ sort: by_weight
 全制式	cvan2;rw zhi4;nd shi4;gg	6
 全指望	cvan2;rw zhi3;fo wang4;ww	590
 全植物	cvan2;rw zhi2;aq wu4;nw	396
-全智贤	cvan2;rw zhi4;uo xian2;lb	283
 全指向	cvan2;rw zhi3;fo xiang4;pk	387
 全知晓	cvan2;rw zhi1;uk xiao3;ow	454
 全职业	cvan2;rw zhi2;ev ye4;la	652
@@ -83623,7 +83280,6 @@ sort: by_weight
 绕线轮	rao4;sw sian4;sj lun2;il	266
 绕线器	rao4;sw sian4;sj qi4;xx	486
 饶先生	rao2;uw sian1;ne sheng1;pf	35
-饶雪漫	rao2;uw sve3;ye man4;dy	94
 绕一些	rao4;sw yi4;aa sie1;ve	418
 绕组线	rao4;sw zu3;sq sian4;sj	324
 热变性	re4;fh bian4;wy sing4;xu	300
@@ -83760,7 +83416,6 @@ sort: by_weight
 人和钱	ren2;pn he2;hk cian2;jj	94
 任何想	ren4;rw he2;rk siang3;ax	207
 人很挤	ren2;pn hen3;rg zii3;fq	446
-任鸿隽	ren4;rw hong2;dn zvan4;rn	6
 人欢笑	ren2;pn huan1;yq siao4;vy	554
 人会信	ren2;pn hui4;ry sin4;rk	66
 人嫉妒	ren2;pn zii2;nu du4;nh	909
@@ -83899,7 +83554,6 @@ sort: by_weight
 人心果	ren2;pn sin1;dd guo3;ta	35
 人心间	ren2;pn sin1;dd jian1;mo	374
 人心里	ren2;pn sin1;dd li3;tt	1364
-任新民	ren4;rw sin1;lt min2;vv	22
 人心暖	ren2;pn sin1;dd nuan3;oy	464
 人心齐	ren2;pn sin1;dd cii2;wl	47
 人心散	ren2;pn sin1;dd san4;cw	518
@@ -83961,7 +83615,6 @@ sort: by_weight
 韧一些	ren4;wd yi4;aa sie1;ve	229
 任意性	ren4;rw yi4;lx sing4;xu	286
 任意选	ren4;rw yi4;lx svan3;ze	868
-任应秋	ren4;rw ying1;ga ciu1;hh	16
 人有钱	ren2;pn you3;uo cian2;jj	950
 人有情	ren2;pn you3;uo cing2;xo	734
 人鱼线	ren2;pn yv2;da sian4;sj	496
@@ -84048,7 +83701,6 @@ sort: by_weight
 熔断性	rong2;hg duan4;vt sing4;xu	4
 荣凤祥	rong2;ca feng4;jy siang2;py	562
 溶骨性	rong2;dg gu3;go sing4;xu	297
-戎冠秀	rong2;gu guan1;bc siu4;hn	6
 融合剂	rong2;gi he2;rk zii4;qd	428
 融合积	rong2;gi he2;rk zii1;hv	262
 融合性	rong2;gi he2;rk sing4;xu	616
@@ -84079,7 +83731,6 @@ sort: by_weight
 融进了	rong2;gi zin4;zj le5;al	711
 融进去	rong2;gi zin4;zj qv4;ts	170
 荣枯线	rong2;ca ku1;ag sian4;sj	148
-荣兰祥	rong2;ca lan2;bs siang2;py	3
 容量小	rong2;bg liang4;ol siao3;lb	832
 绒毛浆	rong2;su mao2;pv ziang1;lu	446
 容纳性	rong2;bg na4;sn sing4;xu	19
@@ -84095,7 +83746,6 @@ sort: by_weight
 容小姐	rong2;bg siao3;lb zie3;nq	562
 融信达	rong2;gi sin4;rk da2;zd	477
 荣信达	rong2;ca sin4;rk da2;zd	281
-荣新江	rong2;ca sin1;lt jiang1;dg	41
 溶性盐	rong2;dg sing4;xu yan2;tm	441
 容许集	rong2;bg xv3;yw zii2;ra	180
 融雪剂	rong2;gi sve3;ye zii4;qd	63
@@ -84368,7 +84018,6 @@ sort: by_weight
 瑞鹤仙	rui4;we he4;bn sian1;ru	53
 瑞嘉新	rui4;we jia1;tk sin1;lt	4
 锐力新	rui4;jx li4;vp sin1;lt	45
-瑞切尔	rui4;we cie4;qd er3;dx	9
 睿亲王	rui4;bo cin1;la wang2;at	778
 瑞秋布	rui4;we ciu1;hh bu4;uj	364
 瑞士籍	rui4;we shi4;ua zii2;vo	13
@@ -84432,14 +84081,12 @@ sort: by_weight
 撒金钱	sa1;fw jin1;rb cian2;jj	256
 撒酒疯	sa1;fw ziu3;dy feng1;bf	75
 萨卡星	sa4;ci ka3;ub sing1;ou	13
-萨科齐	sa4;ci ke1;hd cii2;wl	100
 萨克逊	sa4;ci ke4;ux svn4;zx	317
 撒克逊	sa1;fw ke4;ux svn4;zx	285
 萨拉齐	sa4;ci la1;fl cii2;wl	9
 萨拉西	sa4;ci la1;fl sii1;ak	414
 萨拉辛	sa4;ci la1;fl sin1;lu	256
 撒拉逊	sa1;fw la1;fl svn4;zx	432
-撒切尔	sa1;fw cie4;qd er3;dx	314
 撒上些	sa1;fw shang4;ba sie1;ve	9
 萨师俊	sa4;ci shi1;lj zvn4;rw	356
 撒小谎	sa1;fw siao3;lb huang3;yi	230
@@ -84847,7 +84494,6 @@ sort: by_weight
 丧良心	sang4;ty liang2;dg sin1;dd	576
 桑落酒	sang1;ya luo4;ck ziu3;dy	288
 丧门星	sang4;ty men2;dv sing1;ou	72
-桑切斯	sang1;ya cie4;qd si1;ct	1746
 桑青河	sang1;ya cing1;fo he2;dk	99
 桑葚酒	sang1;ya shen4;cb ziu3;dy	414
 桑椹酒	sang1;ya shen4;ab ziu3;dy	258
@@ -85083,7 +84729,6 @@ sort: by_weight
 闪进了	shan3;mr zin4;zj le5;al	549
 闪晶晶	shan3;mr zing1;oo zing1;oo	73
 善酒吧	shan4;yk ziu3;dy ba1;kb	450
-山口茜	shan1;kl kou3;la cian4;cx	9
 山葵酱	shan1;kl kui2;ct ziang4;ly	405
 山里泉	shan1;kl li3;tt cvan2;bu	266
 山莲泉	shan1;kl lian2;ci cvan2;bu	472
@@ -85174,7 +84819,6 @@ sort: by_weight
 闪锌矿	shan3;mr sin1;jx kuang4;ug	60
 善心人	shan4;yk sin1;dd ren2;pn	540
 善心所	shan4;yk sin1;dd suo3;ht	306
-单雄信	shan4;bu xiong2;uv sin4;rk	129
 闪修侠	shan3;mr siu1;rp xia2;rj	6
 闪一些	shan3;mr yi4;aa sie1;ve	284
 山有槭	shan1;kl you3;uo cii4;ax	45
@@ -85215,8 +84859,6 @@ sort: by_weight
 伤感情	shang1;rl gan3;gx cing2;xo	311
 上岗前	shang4;ba gang3;ux cian2;bd	657
 伤官星	shang1;rl guan1;bl sing1;ou	436
-上官宣	shang4;ba guan1;bl svan1;bd	292
-上官雪	shang4;ba guan1;bl sve3;ye	518
 上光剂	shang4;ba guang1;xe zii4;qd	3
 上广西	shang4;ba guang3;di sii1;ak	526
 上过线	shang4;ba guo4;zc sian4;sj	428
@@ -85524,10 +85166,8 @@ sort: by_weight
 上油漆	shang4;ba you2;dy cii1;du	621
 上元节	shang4;ba yvan2;aw zie2;ce	85
 商云集	shang1;wk yvn2;ag zii2;ra	616
-尚云祥	shang4;xk yvn2;ag siang2;py	35
 上云霄	shang4;ba yvn2;ag siao1;yo	846
 上征信	shang4;ba zheng1;rv sin4;rk	616
-尚之信	shang4;xk zhi1;dn sin4;rk	3
 上中旬	shang4;ba zhong1;kl svn2;bo	53
 上桌前	shang4;ba zhuo1;ba cian2;bd	706
 上自习	shang4;ba zi4;po sii2;vd	1112
@@ -85690,7 +85330,6 @@ sort: by_weight
 摄像管	she4;fy siang4;ru guan3;vl	35
 摄像机	she4;fy siang4;ru ji1;aj	5260
 设想了	she4;yu siang3;ax le5;al	471
-佘祥林	she2;ru siang2;py lin2;aa	138
 摄像枪	she4;fy siang4;ru ciang1;av	266
 摄像师	she4;fy siang4;ru shi1;lj	499
 摄像时	she4;fy siang4;ru shi2;to	449
@@ -85713,7 +85352,6 @@ sort: by_weight
 设直线	she4;yu zhi2;uq sian4;sj	468
 深澳线	shen1;da ao4;dd sian4;sj	446
 申报前	shen1;ol bao4;fy cian2;bd	490
-申包胥	shen1;ol bao1;bs sv1;zo	82
 神表情	shen2;pu biao3;fy cing2;xo	608
 身材小	shen1;zc cai2;ac siao3;lb	626
 肾藏精	shen4;lo cang2;ci zing1;mo	97
@@ -85939,7 +85577,6 @@ sort: by_weight
 肾小球	shen4;lo siao3;lb qiu2;wq	641
 伸小手	shen1;ru siao3;lb shou3;pf	234
 肾小体	shen4;lo siao3;lb ti3;rb	9
-慎小嶷	shen4;xb siao3;lb yi2;uz	122
 肾小盏	shen4;lo siao3;lb zhan3;jm	238
 身心吧	shen1;zc sin1;dd ba5;kb	315
 深信服	shen1;da sin4;rk fu2;oy	311
@@ -85961,7 +85598,6 @@ sort: by_weight
 审讯室	shen3;bu svn4;yu shi4;bt	342
 审讯时	shen3;bu svn4;yu shi2;to	308
 深巡天	shen1;da svn2;zv tian1;ad	45
-神荀彧	shen2;pu svn2;co yv4;ga	192
 审讯员	shen3;bu svn4;yu yvan2;kb	3
 审讯者	shen3;bu svn4;yu zhe3;lo	19
 审讯中	shen3;bu svn4;yu zhong1;kl	698
@@ -85975,7 +85611,6 @@ sort: by_weight
 肾脏线	shen4;lo zang4;ot sian4;sj	50
 伸展性	shen1;ru zhan3;uy sing4;xu	572
 深圳西	shen1;da zhen4;ti sii1;ak	19
-申真谞	shen1;ol zhen1;ub sv1;yo	22
 神志清	shen2;pu zhi4;tx cing1;do	680
 甚至想	shen4;cb zhi4;gt siang3;ax	1262
 神之心	shen2;pu zhi1;dn sin1;dd	72
@@ -86035,7 +85670,6 @@ sort: by_weight
 省经济	sheng3;uo jing1;sj zii4;dq	6
 圣晶石	sheng4;yt zing1;oo shi2;ak	477
 生驹线	sheng1;pf jv1;mj sian4;sj	396
-圣卡西	sheng4;yt ka3;ub sii1;ak	72
 省控线	sheng3;uo kong4;fg sian4;sj	28
 生来就	sheng1;pf lai2;aa ziu4;wy	1790
 省了钱	sheng3;uo le5;al cian2;jj	176
@@ -86081,7 +85715,6 @@ sort: by_weight
 盛锡福	sheng4;im sii1;jw fu2;pt	531
 圣西路	sheng4;yt sii1;ak lu4;zk	374
 圣西罗	sheng4;yt sii1;ak luo2;sx	188
-圣西门	sheng4;yt sii1;ak men2;dv	69
 圣西蒙	sheng4;yt sii1;ak meng2;cu	504
 生犀散	sheng1;pf sii1;un san4;cw	45
 升息时	sheng1;pc sii1;zx shi2;to	621
@@ -86147,7 +85780,6 @@ sort: by_weight
 生锈的	sheng1;pf siu4;jn de5;bu	886
 生锈了	sheng1;pf siu4;jn le5;al	276
 胜选后	sheng4;ou svan3;ze hou4;ik	9
-盛宣怀	sheng4;im svan1;bd huai2;xb	148
 生宣纸	sheng1;pf svan1;bd zhi3;su	387
 圣雪绒	sheng4;yt sve3;ye rong2;su	212
 盛讯达	sheng4;im svn4;yu da2;zd	369
@@ -86207,11 +85839,9 @@ sort: by_weight
 时常想	shi2;to chang2;xj siang3;ax	783
 市场小	shi4;wj chang3;tp siao3;lb	868
 市场性	shi4;wj chang3;tp sing4;xu	94
-师昌绪	shi1;lj chang1;oo sv4;so	9
 石城墙	shi2;ak cheng2;ti ciang2;tk	333
 使持节	shi3;rl chi2;fc zie2;ce	82
 食虫性	shi2;rg chong2;vd sing4;xu	432
-时传祥	shi2;to chuan2;rv siang2;py	19
 实穿性	shi2;bd chuan1;by sing4;xu	558
 诗词集	shi1;yc ci2;yk zii2;ra	35
 诗词选	shi1;yc ci2;yk svan3;ze	3
@@ -86277,7 +85907,6 @@ sort: by_weight
 十贯钱	shi2;al guan4;mb cian2;jj	44
 史国信	shi3;kn guo2;wy sin4;rk	45
 食海鲜	shi2;rg hai3;dm sian1;yy	742
-石汉青	shi2;ak han4;dy cing1;fo	9
 适航性	shi4;zu hang2;vj sing4;xu	91
 十号线	shi2;al hao4;kk sian4;sj	66
 石贺净	shi2;ak he4;lb zing4;dy	238
@@ -86439,7 +86068,6 @@ sort: by_weight
 市净率	shi4;wj zing4;dy lv4;wu	1242
 石井坡	shi2;ak zing3;ac po1;tp	288
 市井气	shi4;wj zing3;ac qi4;pv	94
-史景迁	shi3;kn jing3;ox cian1;zq	69
 视晶酸	shi4;pj zing1;oo suan1;yw	50
 石井町	shi2;ak zing3;ac ting1;td	392
 市井味	shi4;wj zing3;ac wei4;kw	500
@@ -86714,7 +86342,6 @@ sort: by_weight
 时事性	shi2;to shi4;gy sing4;xu	89
 式手枪	shi4;gg shou3;pf ciang1;av	810
 是首相	shi4;oz shou3;bz siang4;ao	670
-石守信	shi2;ak shou3;bc sin4;rk	25
 实数集	shi2;bd shu4;mw zii2;ra	57
 十数节	shi2;al shu4;mw zie2;ce	194
 史树青	shi3;kn shu4;ac cing1;fo	378
@@ -86746,7 +86373,6 @@ sort: by_weight
 石头心	shi2;ak tou5;dd sin1;dd	472
 师徒情	shi1;lj tu2;rz cing2;xo	621
 市推进	shi4;wj tui1;fv zin4;zj	738
-史瓦西	shi3;kn wa3;ad sii1;ak	521
 十万钱	shi2;al wan4;av cian2;jj	468
 石围墙	shi2;ak wei2;ww ciang2;tk	468
 示威性	shi4;ex wei1;gn sing4;xu	306
@@ -86918,7 +86544,6 @@ sort: by_weight
 实新世	shi2;bd sin1;lt shi4;cv	62
 实心胎	shi2;bd sin1;dd tai1;ok	57
 始新统	shi3;nk sin1;lt tong3;sy	162
-狮心王	shi1;qj sin1;dd wang2;at	138
 市新闻	shi4;wj sin1;lt wen2;me	882
 市信息	shi4;wj sin4;rk sii1;zx	741
 实心眼	shi2;bd sin1;dd yan3;og	13
@@ -86955,7 +86580,6 @@ sort: by_weight
 是选择	shi4;oz svan3;ze ze2;ff	1732
 使旋转	shi3;rl svan2;fz zhuan3;iv	3
 食雪糕	shi2;rg sve3;ye gao1;mh	423
-石雪清	shi2;ak sve3;ye cing1;do	3
 是学习	shi4;oz xve2;xz sii2;vd	0
 是寻常	shi4;oz svn2;ec chang2;xj	976
 是循环	shi4;oz svn2;ro huan2;wb	927
@@ -86998,7 +86622,6 @@ sort: by_weight
 适应性	shi4;zu ying4;ga sing4;xu	3266
 使用前	shi3;rl yong4;kf cian2;bd	1064
 食用前	shi2;rg yong4;kf cian2;bd	806
-释永信	shi4;mf yong3;du sin4;rk	47
 实用性	shi2;bd yong4;kf sing4;xu	9743
 适用性	shi4;zu yong4;kf sing4;xu	1573
 使用性	shi3;rl yong4;kf sing4;xu	411
@@ -87026,7 +86649,6 @@ sort: by_weight
 使这些	shi3;rl zhe4;zw sie1;ve	411
 辻真先	shi2;zu zhen1;ub sian1;ne	392
 是真心	shi4;oz zhen1;ub sin1;dd	2044
-辻政信	shi2;zu zheng4;vw sin4;rk	60
 实证性	shi2;bd zheng4;yv sing4;xu	119
 食指尖	shi2;rg zhi3;fo zian1;xd	486
 是直接	shi4;oz zhi2;uq zie1;fn	1768
@@ -87543,7 +87165,6 @@ sort: by_weight
 舒心啊	shu1;ry sin1;dd a5;kk	486
 舒心吧	shu1;ry sin1;dd ba5;kb	324
 舒心草	shu1;ry sin1;dd cao3;cu	248
-舒新城	shu1;ry sin1;lt cheng2;ti	16
 树新风	shu4;ac sin1;lt feng1;jx	35
 沭新河	shu4;du sin1;lt he2;dk	297
 书信集	shu1;vd sin4;rk zii2;ra	154
@@ -87556,7 +87177,6 @@ sort: by_weight
 书信中	shu1;vd sin4;rk zhong1;kl	742
 属性啊	shu3;uy sing4;xu a5;kk	580
 属性吧	shu3;uy sing4;xu ba5;kb	477
-束星北	shu4;gr sing1;ou bei3;lb	25
 属性表	shu3;uy sing4;xu biao3;fy	44
 属性词	shu3;uy sing4;xu ci2;yk	179
 属性点	shu3;uy sing4;xu dian3;vh	270
@@ -87801,7 +87421,6 @@ sort: by_weight
 双旋翼	shuang1;yy svan2;fz yi4;xg	477
 双选周	shuang1;yy svan3;ze zhou1;kk	4
 双学籍	shuang1;yy xve2;xz zii2;vo	423
-双雪涛	shuang1;yy sve3;ye tao1;dc	480
 双循环	shuang1;yy svn2;ro huan2;wb	342
 双眼睛	shuang1;yy yan3;og zing5;oo	1305
 双眼井	shuang1;yy yan3;og zing3;ac	198
@@ -88064,7 +87683,6 @@ sort: by_weight
 水七升	shui3;ln cii1;av sheng1;pc	202
 睡前吧	shui4;ot cian2;bd ba5;kb	238
 税前吧	shui4;hx cian2;bd ba5;kb	179
-水千丞	shui3;ln cian1;pu cheng2;la	22
 睡前吃	shui4;ot cian2;bd chi1;kv	873
 谁钱多	shui2;yv cian2;jj duo1;xx	464
 睡前服	shui4;ot cian2;bd fu2;oy	22
@@ -91810,7 +91428,6 @@ sort: by_weight
 太扎心	tai4;dd zha1;fv sin1;dd	82
 太珍惜	tai4;dd zhen1;wp sii1;xo	522
 太整齐	tai4;dd zheng3;uv cii2;wl	558
-邰正宵	tai2;se zheng4;av siao1;bo	38
 太直接	tai4;dd zhi2;uq zie1;fn	801
 太值钱	tai4;dd zhi2;rq cian2;jj	594
 台中讯	tai2;sk zhong1;kl svn4;yu	4
@@ -92086,7 +91703,6 @@ sort: by_weight
 套进了	tao4;dg zin4;zj le5;al	334
 套进去	tao4;dg zin4;zj qv4;ts	452
 桃井薰	tao2;av zing3;ac xvn1;ch	356
-陶晶莹	tao2;ef zing1;oo ying2;cy	88
 掏了钱	tao1;ff le5;al cian2;jj	160
 讨论性	tao3;yc lun4;yl sing4;xu	684
 陶启泉	tao2;ef qi3;hk cvan2;bu	418
@@ -92195,7 +91811,6 @@ sort: by_weight
 藤椒味	teng2;cu ziao1;ay wei4;kw	94
 藤椒油	teng2;cu ziao1;ay you2;dy	53
 藤井家	teng2;cu zing3;ac jia1;bu	302
-藤井隆	teng2;cu zing3;ac long2;eu	3
 藤井寺	teng2;cu zing3;ac si4;tc	464
 藤三七	teng2;cu san1;ae cii1;av	292
 藤沙绪	teng2;cu sha1;du sv4;so	418
@@ -92529,7 +92144,6 @@ sort: by_weight
 天气晴	tian1;ad qi4;pv cing2;oo	1166
 天启星	tian1;ad qi3;hk sing1;ou	314
 天巧星	tian1;ad qiao3;gk sing1;ou	6
-田沁鑫	tian2;wu cin4;dx xin1;jj	82
 天晴吧	tian1;ad cing2;oo ba5;kb	207
 天晴邨	tian1;ad cing2;oo cun1;te	418
 天青湖	tian1;ad cing1;fo hu2;do	4
@@ -93827,7 +93441,6 @@ sort: by_weight
 脱沥青	tuo1;ox li4;dl cing1;fo	117
 脱硫剂	tuo1;ox liu2;ui zii4;qd	387
 脱落醛	tuo1;ox luo4;ck cvan2;yw	117
-托马西	tuo1;fq ma3;va sii1;ak	28
 脱毛剂	tuo1;ox mao2;pv zii4;qd	319
 脱霉剂	tuo1;ox mei2;ym zii4;qd	261
 脱敏剂	tuo1;ox min3;pw zii4;qd	333
@@ -94177,7 +93790,6 @@ sort: by_weight
 玩小号	wan2;wy siao3;lb hao4;kk	531
 玩笑话	wan2;wy siao4;vy hua5;yu	1306
 玩小姐	wan2;wy siao3;lb zie3;nq	279
-万筱菊	wan4;av siao3;vw jv2;cm	9
 玩笑啦	wan2;wy siao4;vy la5;kl	675
 碗小了	wan3;uv siao3;lb le5;al	357
 湾小区	wan1;dg siao3;lb qv1;kx	711
@@ -94860,7 +94472,6 @@ sort: by_weight
 文静了	wen2;wx zing4;fy le5;al	405
 文靖路	wen2;wx zing4;lo lu4;zk	236
 文井路	wen2;wx zing3;ac lu4;zk	120
-文晶熙	wen2;wx zing1;oo xi1;ih	3
 问酒吧	wen4;mk ziu3;dy ba1;kb	256
 问就是	wen4;mk ziu4;wy shi4;oz	2807
 问就行	wen4;mk ziu4;wy xing2;rd	47
@@ -94960,7 +94571,6 @@ sort: by_weight
 稳妥些	wen3;hx tuo3;vn sie1;ve	47
 问微信	wen4;mk wei1;rj sin4;rk	31
 问问先	wen4;mk wen4;mk sian1;ne	392
-文熙俊	wen2;wx xi1;ih zvn4;rw	19
 文献集	wen2;wx xian4;uq zii2;ra	22
 文仙尼	wen2;wx sian1;ru ni2;ub	405
 文先生	wen2;wx sian1;ne sheng1;pf	927
@@ -95033,8 +94643,6 @@ sort: by_weight
 文字性	wen2;wx zi4;bz sing4;xu	621
 瓮津郡	weng4;gw zin1;dy jvn4;ye	432
 瓮津线	weng4;gw zin1;dy sian4;sj	279
-翁静晶	weng1;gx zing4;fy zing1;oo	66
-翁倩玉	weng1;gx cian4;ro yv4;wd	50
 翁先生	weng1;gx sian1;ne sheng1;pf	22
 翁振新	weng1;gx zhen4;fi sin1;lt	207
 我阿姐	wo3;ga a1;ek zie3;nq	572
@@ -96095,7 +95703,6 @@ sort: by_weight
 我妹就	wo3;ga mei4;nw ziu4;wy	450
 我没钱	wo3;ga mei2;du cian2;jj	760
 我没请	wo3;ga mei2;du cing3;yo	508
-渥美清	wo4;dt mei3;yd cing1;do	296
 渥美线	wo4;dt mei3;yd sian4;sj	396
 我没想	wo3;ga mei2;du siang3;ax	1233
 我没笑	wo3;ga mei2;du siao4;vy	436
@@ -97932,7 +97539,6 @@ sort: by_weight
 无精力	wu2;ay zing1;mo li4;vp	28
 武经七	wu3;gv jing1;sj cii1;av	428
 无精神	wu2;ay zing1;mo shen2;pu	107
-武井咲	wu3;gv zing3;ac xiao4;kt	9
 无晶圆	wu2;ay zing1;oo yvan2;wb	6
 无精症	wu2;ay zing1;mo zheng4;bv	19
 武井壮	wu3;gv zing3;ac zhuang4;lt	261
@@ -98482,7 +98088,6 @@ sort: by_weight
 西北斗	sii1;ak bei3;lb dou4;ud	266
 西北端	sii1;ak bei3;lb duan1;le	783
 西北段	sii1;ak bei3;lb duan4;pu	452
-西贝尔	sii1;ak bei4;kr er3;dx	25
 西北二	sii1;ak bei3;lb er4;aa	22
 席贝尔	sii2;gj bei4;kr er3;dx	20
 西北方	sii1;ak bei3;lb fang1;wv	289
@@ -98828,7 +98433,6 @@ sort: by_weight
 西多司	sii1;ak duo1;xx si1;vk	346
 袭夺湾	sii2;ly duo2;dc wan1;dg	50
 西恩宾	sii1;ak en1;yx bin1;bb	333
-西恩潘	sii1;ak en1;yx pan1;dt	19
 西尔贝	sii1;ak er3;dx bei4;kr	387
 细而长	sii4;st er2;al chang2;pn	25
 细而短	sii4;st er2;al duan3;ub	261
@@ -100719,7 +100323,6 @@ sort: by_weight
 锡耶那	sii1;jw ye2;ee na4;ve	187
 西野司	sii1;ak ye3;ly si1;vk	292
 西野未	sii1;ak ye3;ly wei4;aa	418
-西野翔	sii1;ak ye3;ly siang2;yx	6
 习爷爷	sii2;vd ye2;fe ye5;fe	238
 西医吧	sii1;ak yi1;ku ba5;kb	238
 洗衣板	sii3;de yi1;wy ban3;ay	13
@@ -100821,7 +100424,6 @@ sort: by_weight
 西游路	sii1;ak you2;dz lu4;zk	477
 习友路	sii2;vd you3;uy lu4;zk	331
 西游录	sii1;ak you2;dz lu4;eu	159
-夕又米	sii1;pd you4;vn mi3;ba	28
 西游篇	sii1;ak you2;dz pian1;vc	6
 西柚色	sii1;ak you4;ay se4;db	38
 西柚味	sii1;ak you4;ay wei4;kw	31
@@ -101460,7 +101062,6 @@ sort: by_weight
 线对线	sian4;sj dui4;yc sian4;sj	405
 仙娥礁	sian1;ru e2;nw ziao1;uh	284
 先饿着	sian1;ne e4;uw zhe5;yo	234
-咸恩静	xian2;gk en1;yx zing4;fy	9
 仙二代	sian1;ru er4;aa dai4;rg	252
 先发表	sian1;ne fa1;fy biao3;fy	698
 先发布	sian1;ne fa1;fy bu4;uj	113
@@ -102083,7 +101684,6 @@ sort: by_weight
 鲜嫩嫩	sian1;yy nen4;nw nen4;nw	13
 线能量	sian4;sj neng2;sb liang4;ol	536
 先匿了	sian1;ne ni4;kk le5;al	711
-仙妮娅	sian1;ru ni1;nb ya4;ny	3
 鲜柠檬	sian1;yy ning2;ad meng2;au	860
 咸柠七	xian2;gk ning2;ad cii1;av	44
 鲜牛奶	sian1;yy niu2;pu nai3;nn	518
@@ -104196,7 +103796,6 @@ sort: by_weight
 像京东	siang4;ru jing1;wx dong1;ax	630
 向经济	xiang4;pk jing1;sj zii4;dq	837
 想静静	siang3;ax zing4;fy zing4;fy	846
-向井理	xiang4;pk zing3;ac li3;wl	418
 像精灵	siang4;ru zing1;mo ling2;eh	518
 想精神	siang3;ax zing1;mo shen2;pu	657
 香精味	xiang1;ho zing1;mo wei4;kw	864
@@ -105612,7 +105211,6 @@ sort: by_weight
 像兄妹	siang4;ru xiong1;ke mei4;nw	477
 湘绣城	siang1;do siu4;sn cheng2;ti	374
 想休假	siang3;ax xiu1;ra jia4;ry	441
-乡秀树	xiang1;vp siu4;hn shu4;ac	408
 想休息	siang3;ax xiu1;ra sii5;zx	922
 想许多	siang3;ax xv3;yw duo1;xx	572
 香绪里	xiang1;ho sv4;so li3;tt	346
@@ -106698,7 +106296,6 @@ sort: by_weight
 小场地	siao3;lb chang3;tp di4;ty	113
 小厂房	siao3;lb chang3;ap fang2;hf	392
 小场合	siao3;lb chang3;tp he2;rk	382
-萧长华	siao1;cb chang2;pn hua2;ru	6
 小长假	siao3;lb chang2;pn jia4;ry	493
 小厂家	siao3;lb chang3;ap jia1;bu	444
 小长江	siao3;lb chang2;pn jiang1;dg	297
@@ -106987,7 +106584,6 @@ sort: by_weight
 小蛋糕	siao3;lb dan4;zi gao1;mh	1215
 小单间	siao3;lb dan1;bu jian1;mo	716
 小蛋壳	siao3;lb dan4;zi ke2;tj	400
-小丹尼	siao3;lb dan1;kd ni2;ub	50
 小单品	siao3;lb dan1;bu pin3;kk	450
 小单室	siao3;lb dan1;bu shi4;bt	117
 小蛋挞	siao3;lb dan4;zi ta4;fd	526
@@ -108474,7 +108070,6 @@ sort: by_weight
 小黄皮	siao3;lb huang2;cb pi2;py	342
 小黄片	siao3;lb huang2;cb pian4;pv	220
 小黄旗	siao3;lb huang2;cb qi2;fb	662
-萧煌奇	siao1;cb huang2;hw qi2;dk	266
 小黄人	siao3;lb huang2;cb ren2;pn	1765
 小黄色	siao3;lb huang2;cb se4;db	414
 小黄山	siao3;lb huang2;cb shan1;kl	540
@@ -108908,7 +108503,6 @@ sort: by_weight
 小景深	siao3;lb jing3;ox shen1;da	508
 小京说	siao3;lb jing1;wx shuo1;yx	396
 小经堂	siao3;lb jing1;sj tang2;xt	306
-萧敬腾	siao1;cb jing4;cw teng2;om	2603
 小晶体	siao3;lb zing1;oo ti3;rb	477
 萧景田	siao1;cb jing3;ox tian2;wu	378
 小镜头	siao3;lb jing4;je tou2;dd	518
@@ -109293,7 +108887,6 @@ sort: by_weight
 小梨线	siao3;lb li2;ha sian4;sj	194
 小厉线	siao3;lb li4;iw sian4;sj	42
 小理想	siao3;lb li3;wl siang3;ax	432
-小栗旬	siao3;lb li4;xa svn2;bo	210
 小利益	siao3;lb li4;hd yi4;bm	554
 小鲤鱼	siao3;lb li3;yl yv2;da	776
 小沥源	siao3;lb li4;dl yvan2;dx	914
@@ -109400,7 +108993,6 @@ sort: by_weight
 小鳞片	siao3;lb lin2;yf pian4;pv	428
 小林市	siao3;lb lin2;aa shi4;wj	387
 小林旭	siao3;lb lin2;aa xv4;jo	418
-小林薰	siao3;lb lin2;aa xvn1;ch	3
 小林优	siao3;lb lin2;aa you1;ry	315
 小林源	siao3;lb lin2;aa yvan2;dx	324
 小林园	siao3;lb lin2;aa yvan2;wy	190
@@ -110381,7 +109973,6 @@ sort: by_weight
 小普陀	siao3;lb pu3;bo tuo2;eb	459
 小铺子	siao3;lb pu4;jf zi5;la	69
 小气啊	siao3;lb qi4;pv a5;kk	554
-筱崎爱	siao3;vw qi2;uk ai4;vy	19
 小憩吧	siao3;lb qi4;ux ba5;kb	186
 小气包	siao3;lb qi4;pv bao1;bs	9
 小汽车	siao3;lb qi4;dq che1;au	1350
@@ -110621,7 +110212,6 @@ sort: by_weight
 小拳拳	siao3;lb qvan2;ju qvan2;ju	170
 小圈圈	siao3;lb qvan1;wv qvan1;wv	147
 小券商	siao3;lb qvan4;jd shang1;wk	747
-小拳石	siao3;lb qvan2;ju shi2;ak	60
 小全套	siao3;lb cvan2;rw tao4;dg	428
 小拳头	siao3;lb qvan2;ju tou5;dd	88
 小全张	siao3;lb cvan2;rw zhang1;gi	25
@@ -111320,7 +110910,6 @@ sort: by_weight
 小树人	siao3;lb shu4;ac ren2;pn	364
 小蜀山	siao3;lb shu3;si shan1;kl	423
 小树上	siao3;lb shu4;ac shang4;ba	454
-萧淑慎	siao1;cb shu1;dy shen4;xb	50
 小书生	siao3;lb shu1;vd sheng1;pf	57
 小叔叔	siao3;lb shu1;uy shu5;uy	151
 肖叔叔	siao1;xo shu1;uy shu5;uy	136
@@ -112587,7 +112176,6 @@ sort: by_weight
 小丫挺	siao3;lb ya1;bl ting3;fw	306
 小丫头	siao3;lb ya1;bl tou5;dd	1061
 小鸭尾	siao3;lb ya1;jn wei3;um	310
-萧亚轩	siao1;cb ya4;ay xvan1;ig	820
 小鸭鸭	siao3;lb ya1;jn ya1;jn	6
 小丫丫	siao3;lb ya1;bl ya1;bl	5
 小牙牙	siao3;lb ya2;gp ya2;gp	4
@@ -112830,7 +112418,6 @@ sort: by_weight
 笑一年	siao4;vy yi4;aa nian2;pf	621
 小一年	siao3;lb yi4;aa nian2;pf	422
 小一千	siao3;lb yi4;aa cian1;pu	562
-萧忆情	siao1;cb yi4;xv cing2;xo	31
 小一圈	siao3;lb yi4;aa qvan1;wv	201
 小艺人	siao3;lb yi4;cv ren2;pn	544
 消翳散	siao1;do yi4;kx san4;cw	45
@@ -113144,7 +112731,6 @@ sort: by_weight
 小澡堂	siao3;lb zao3;da tang2;xt	284
 萧泽宏	siao1;cb ze2;df hong2;bs	342
 小泽蜓	siao3;lb ze2;df ting2;iw	45
-小泽圆	siao3;lb ze2;df yvan2;wb	13
 小赠品	siao3;lb zeng4;bo pin3;kk	35
 小榨菜	siao3;lb zha4;av cai4;ca	351
 小炸弹	siao3;lb zha4;hv dan4;gu	66
@@ -113236,7 +112822,6 @@ sort: by_weight
 小政府	siao3;lb zheng4;vw fu3;gc	361
 萧正浩	siao1;cb zheng4;av hao4;dk	364
 小郑家	siao3;lb zheng4;be jia1;bu	207
-萧正楠	siao1;cb zheng4;av nan2;ag	13
 小正太	siao3;lb zheng4;av tai4;dd	342
 萧政委	siao1;cb zheng4;vw wei3;hn	45
 小争议	siao3;lb zheng1;dy yi4;yy	486
@@ -115322,7 +114907,6 @@ sort: by_weight
 新丰台	sin1;lt feng1;sl tai2;sk	224
 新蜂王	sin1;lt feng1;if wang2;at	274
 新风味	sin1;lt feng1;jx wei4;kw	396
-新凤霞	sin1;lt feng4;jy xia2;yy	135
 新风险	sin1;lt feng1;jx xian3;eq	666
 新风向	sin1;lt feng1;jx xiang4;pk	603
 新风云	sin1;lt feng1;jx yvn2;ag	396
@@ -118239,7 +117823,6 @@ sort: by_weight
 新校名	sin1;lt xiao4;af ming2;xk	9
 新小脑	sin1;lt siao3;lb nao3;ox	130
 信销票	sin4;rk siao1;jo piao4;xu	396
-辛晓琪	sin1;lu xiao3;ow qi2;wb	355
 新小区	sin1;lt siao3;lb qv1;kx	2336
 新校区	sin1;lt xiao4;af qv1;kx	157
 新校舍	sin1;lt xiao4;af she4;rg	66
@@ -120001,7 +119584,6 @@ sort: by_weight
 星夜黑	sing1;ou ye4;ww hei1;lh	288
 姓耶律	sing4;nu ye1;ee lv4;ry	12
 星野明	sing1;ou ye3;ly ming2;oo	333
-星野南	sing1;ou ye3;ly nan2;ug	3
 星叶石	sing1;ou ye4;ku shi2;ak	284
 性业务	sing4;xu ye4;la wu4;wl	832
 星野源	sing1;ou ye3;ly yvan2;dx	567
@@ -120466,7 +120048,6 @@ sort: by_weight
 修脚器	siu1;rp jiao3;oe qi4;xx	99
 修脚师	siu1;rp jiao3;oe shi1;lj	428
 嗅结节	xiu4;kq jie2;sk zie2;ce	76
-修杰楷	siu1;rp jie2;ah kai3;ab	6
 绣金匾	siu4;sn jin1;rb bian3;kc	19
 修井机	siu1;rp zing3;ac ji1;aj	3
 修净土	siu1;rp zing4;dy tu3;ua	544
@@ -124160,7 +123741,6 @@ sort: by_weight
 一半醒	yi2;aa ban4;bf sing3;yu	311
 一棒雪	yi2;aa bang4;af sve3;ye	99
 已报请	yi3;kv bao4;fy cing3;yo	360
-以保全	yi3;lr bao3;ra cvan2;rw	91
 已报销	yi3;kv bao4;fy siao1;jo	9
 一杯酒	yi4;aa bei1;ab ziu3;dy	920
 已被抢	yi3;kv bei4;pp ciang3;fv	522
@@ -124607,7 +124187,6 @@ sort: by_weight
 一男性	yi4;aa nan2;tl sing4;xu	662
 疑难性	yi2;bz nan2;yv sing4;xu	205
 已难寻	yi3;kv nan2;yv svn2;ec	360
-伊能静	yi1;ry neng2;sb zing4;fy	446
 旖旎情	yi3;fk ni3;fb cing2;xo	320
 一年就	yi4;aa nian2;pf ziu4;wy	1287
 一年前	yi4;aa nian2;pf cian2;bd	5077
@@ -139006,6 +138585,7 @@ sort: by_weight
 不就好了	bu2;ab ziu4;wy hao3;nz le5;al	1875
 不就活该	bu2;ab ziu4;wy huo2;du gai1;yr	162
 不久将来	bu4;ab jiu3;pn ziang1;lc lai2;aa	513
+不就结了	bu2;ab ziu4;wy jie2;sk le5;al	78
 不就可能	bu2;ab ziu4;wy ke3;dk neng2;sb	248
 不就可以	bu2;ab ziu4;wy ke3;dk yi3;lr	320
 不就没事	bu2;ab ziu4;wy mei2;du shi4;gy	531
@@ -223139,16 +222719,11 @@ sort: by_weight
 上古遗迹	shang4;ba gu3;uk yi2;zb zii4;zb	436
 商贾云集	shang1;wk gu3;xb yvn2;ag zii2;ra	63
 上观国际	shang4;ba guan1;yj guo2;wy zii4;eu	99
-上官捷科	shang4;ba guan1;bl zie2;fz ke1;hd	117
 上关节面	shang4;ba guan1;bt zie2;ce mian4;ao	162
 上关节突	shang4;ba guan1;bt zie2;ce tu1;bq	279
-上官俊杰	shang4;ba guan1;bl zvn4;rw jie2;ah	45
-上官秋月	shang4;ba guan1;bl ciu1;hh yve4;ke	144
 伤官伤尽	shang1;rl guan1;bl shang1;rl zin4;id	374
 上官小仙	shang4;ba guan1;bl siao3;lb sian1;ru	464
 上观新闻	shang4;ba guan1;yj sin1;lt wen2;me	428
-上官雪儿	shang4;ba guan1;bl sve3;ye er2;pv	171
-上官云相	shang4;ba guan1;bl yvn2;ag siang1;ao	464
 伤过的心	shang1;rl guo4;zc de5;bu sin1;dd	238
 上海安信	shang4;ba hai3;dm an1;bn sin4;rk	212
 上海博迅	shang4;ba hai3;dm bo2;uc svn4;zu	45
