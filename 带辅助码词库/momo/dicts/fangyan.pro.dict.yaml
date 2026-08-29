@@ -8,7 +8,7 @@ name: fangyan
 version: "LTS"
 sort: by_weight
 ...
-#大同话
+#北方方言-晋方言-大包片-大同小片
 红话	hóng;sg huà;yu
 勾留	gōu;bs liú;pt
 呱嗒	guā;kg dā;kk
@@ -280,23 +280,68 @@ sort: by_weight
 抽柚抽柚	chōu;fy yòu;ay chōu;fy yòu;ay
 错前摸后	cuò;jo qián;bd mō;fd hòu;ik
 打杂烙毛	dǎ;fd zá;ja lào;hk máo;pv
-#广东话
+#北方方言-西南官话
+㮟㮟角角	kā;aa kā;aa jiǎo;dy jiǎo;dy
+日白	rì;wa bái;po	3
+厮儿	sī;it ér;pv	54
+鼁蟆	qù;qd má;id
+鼁蟆儿	qù;qd má;id ér;pv
+耳矢	ěr;ol shǐ;pd
+𢱟耳矢	chǎn;fi ěr;ol shǐ;pd
+𬲹𬲹	𬲹 𬲹
+#吴方言
+交春	jiāo;wf chūn;io
+交秋	jiāo;wf qiū;hh
+借手	jiè;ro shǒu;pf
+济手	jì;dq shǒu;pf
+顺手	shùn;iy shǒu;pf
+借眼	jiè;ro yǎn;og
+济眼	jì;dq yǎn;og
+顺眼	shùn;iy yǎn;og
+借脚	jiè;ro jiǎo;oe
+济脚	jì;dq jiǎo;oe
+顺脚	shùn;iy jiǎo;oe
+借手面	jiè;ro shǒu;pf miàn;ao
+济手面	jì;dq shǒu;pf miàn;ao
+顺手面	shùn;iy shǒu;pf miàn;ao
+姆妈	mǔ;nm mā;nm
+阿姆	ā;ek mǔ;nm
+娘妗	niáng;nl jìn;nv
+老嬬	lǎo;lb rú;ne
+老嬬儿	lǎo;lb rú;ne ér;pv
+木卵	mù;ur luǎn;pd
+呆大	dāi;ka dà;ar
+呆大头	dāi;ka dà;ar tóu;dd
+戆大	gàng;lx dà;ar
+青𬲼	qīng;fo 𬲼
+菜蕻	cài;ca hóng;cg
+上蕻	shàng;ba hóng;cg
+树蕻	shù;ac hóng;cg
+坞堂	wù;tw táng;xt
+楐排	jiè;aj pái;ff
+楐棚	jiè;aj péng;ao
+忖忖	cǔn;xc cǔn;xc
+小揢	xiǎo;lb ké;fk
+剩落来	shèng;qd luò;ck lái;aa
+望相	wàng;ww xiāng;ao
+样个	yàng;ay gè;rl
+#湘方言
 娭毑	āi;nu jiě;my
+撩撇	liāo;fx piē;fw
+了难	liǎo;al nán;yv
+恰得苦	qià;xk dé;rc kǔ;cg
+恰点酒	qià;xk diǎn;vh jiǔ;dy
+恰点东西	qià;xk diǎn;vh dōng;ax xi;ak,wk
+#粤方言
 饱咗	bǎo;ub zuo;kg
 睇戏	dì;od xì;yg
-了难	liǎo;al nán;yv
-撩撇	liāo;fx piē;fw
 埋数	mái;tl shù;mw
 闹热	nào;mj rè;fh
 恰酒	qià;xk jiǔ;dy
 唔该	wú;kk gāi;yr
 正嘢	zhèng;av yě;ky
-恰得苦	qià;xk dé;rc kǔ;cg
-恰点酒	qià;xk diǎn;vh jiǔ;dy
-恰点东西	qià;xk diǎn;vh dōng;ax xi;ak,wk
 系哩度	xì;px lī;kl dù;gy
 到屋企	dào;gd wū;ut qǐ;rv
-㮟㮟角角	kā;aa kā;aa jiǎo;dy jiǎo;dy
 掂过碌蔗	diān;fv guò;zc lù;uu zhè;ch
 裹筋	guǒ;yg jīn;vl
 便靓正	biàn;rg liàng;fj zhèng;av
