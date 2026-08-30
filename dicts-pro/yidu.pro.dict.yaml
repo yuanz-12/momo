@@ -7,1140 +7,1140 @@ version: "LTS"
 sort: by_weight
 ...
 #造句用单字
-不	bu2;ab	400
-不	bu5;ab	100
-子	zi5;la	300
-个	ge5;rl	100
-儿	er5;pv	100
-头	tou5;dd	300
-识	shi5;yv	600
-斜	xia2;rd	200
+不	bú;ab	400
+不	bu;ab	100
+子	zi;la	300
+个	ge;rl	100
+儿	er;pv	100
+头	tou;dd	300
+识	shi;yv	600
+斜	xiá;rd	200
 #《普通话水平测试实施纲要》（2021版）中规定的必读轻声词兼容
-爱人	ai4;vy ren5;pn	11508
-爱人	ai4;vy ren2;pn	11508
-巴掌	ba1;sl zhang5;xu	1350
-巴掌	ba1;sl zhang3;xu	1350
-爸爸	ba4;fb ba5;fb	45791
-爸爸	ba4;fb ba4;fb	45791
-白净	bai2;po jing5;dy	650
-白净	bai2;po jing4;dy	650
-帮手	bang1;fj shou5;pf	2892
-帮手	bang1;fj shou3;pf	2892
-棒槌	bang4;af chui5;al	515
-棒槌	bang4;af chui2;al	515
-包袱	bao1;bs fu5;pq	8403
-包袱	bao1;bs fu2;pq	8403
-包涵	bao1;bs han5;du	54140
-包涵	bao1;bs han2;du	54140
-本事	ben3;aa shi5;gy	11222
-本事	ben3;aa shi4;gy	11222
-比方	bi3;bb fang5;wv	4252
-比方	bi3;bb fang1;wv	4252
-扁担	bian3;hc dan5;fd	751
-扁担	bian3;hc dan4;fd	751
-别扭	bie4;kd niu5;fi	4399
-别扭	bie4;kd niu3;fi	4399
-拨弄	bo1;fy nong5;wc	462
-拨弄	bo1;fy nong4;wc	462
-簸箕	bo4;vp ji5;vb	2088
-簸箕	bo4;vp ji1;vb	2088
-补丁	bu3;pb ding5;al	4054
-补丁	bu3;pb ding1;al	4054
-不由得	bu4;ab you2;ol de5;rc	4164
-不由得	bu4;ab you2;ol de2;rc	4164
-不在乎	bu2;ab zai4;ut hu5;pl	11571
-不在乎	bu2;ab zai4;ut hu1;pl	11571
-部分	bu4;le fen5;bd	305026
-部分	bu4;le fen4;bd	305026
-裁缝	cai2;gy feng5;sf	1633
-裁缝	cai2;gy feng2;sf	1633
-财主	cai2;bc zhu5;wt	325
-财主	cai2;bc zhu3;wt	325
-苍蝇	cang1;cv ying5;id	4697
-苍蝇	cang1;cv ying2;id	4697
-差事	chai1;yg shi5;gy	895
-差事	chai1;yg shi4;gy	895
-柴火	chai2;va huo5;br	1165
-柴火	chai2;va huo3;br	1165
-称呼	cheng1;hx hu5;kh	17600
-称呼	cheng1;hx hu1;kh	17600
-锄头	chu2;jl tou5;dd	12492
-锄头	chu2;jl tou2;dd	12492
-畜生	chu4;xt sheng5;pf	23631
-畜生	chu4;xt sheng1;pf	23631
-窗户	chuang1;bw hu5;du	12227
-窗户	chuang1;bw hu4;du	12227
-刺猬	ci4;ud wei5;qo	2996
-刺猬	ci4;ud wei4;qo	2996
-凑合	cou4;dt he5;rk	4572
-凑合	cou4;dt he2;rk	4572
-耷拉	da1;de la5;fl	486
-耷拉	da1;de la1;fl	486
-答应	da1;vk ying5;ga	9668
-答应	da1;vk ying4;ga	9668
-打扮	da3;fd ban5;ff	5580
-打扮	da3;fd ban4;ff	5580
-打点	da3;fd dian5;vh	2175
-打点	da3;fd dian3;vh	2175
-打发	da3;fd fa5;fy	21088
-打发	da3;fd fa1;fy	21088
-打量	da3;fd liang5;ol	126956
-打量	da3;fd liang2;ol	126956
-打算	da3;fd suan5;vc	50680
-打算	da3;fd suan4;vc	50680
-打听	da3;fd ting5;kt	4707
-打听	da3;fd ting1;kt	4707
-大方	da4;ar fang5;wv	4239
-大方	da4;ar fang1;wv	4239
-大爷	da4;ar ye5;fe	13631
-大爷	da4;ar ye2;fe	13631
-大夫	dai4;ar fu5;er	11941
-大夫	dai4;ar fu1;er	11941
-耽搁	dan1;ee ge5;fk	15983
-耽搁	dan1;ee ge1;fk	15983
-耽误	dan1;ee wu5;yt	7750
-耽误	dan1;ee wu4;yt	7750
-道士	dai4;zz shi5;ua	39937
-道士	dai4;zz shi4;ua	39937
-灯笼	deng1;hd long5;vl	1378
-灯笼	deng1;hd long2;vl	1378
-提防	di1;fz fang5;ef	230008
-提防	di1;fz fang2;ef	230008
-地道	di4;ty dao5;zz	8952
-地道	di4;ty dao4;zz	8952
-地方	di4;ty fang5;wv	255565
-地方	di4;ty fang1;wv	255565
-弟弟	di4;bd di5;bd	31651
-弟弟	di4;bd di4;bd	31651
-弟兄	di4;bd xiong5;ke	857
-弟兄	di4;bd xiong1;ke	857
-点心	dian3;vh xin5;dd	5438
-点心	dian3;vh xin1;dd	5438
-东家	dong1;ax jia5;bu	1689
-东家	dong1;ax jia1;bu	1689
-动静	dong4;yl jing5;fy	13865
-动静	dong4;yl jing4;fy	13865
-动弹	dong4;yl tan5;gu	581
-动弹	dong4;yl tan2;gu	581
-豆腐	dou4;ab fu5;gr	5997
-豆腐	dou4;ab fu3;gr	5997
-嘟囔	du1;ke nang5;ky	948
-嘟囔	du1;ke nang1;ky	948
-对付	dui4;yc fu5;rc	14171
-对付	dui4;yc fu4;rc	14171
-对头	dui4;yc tou5;dd	823
-对头	dui4;yc tou2;dd	823
-队伍	dui4;er wu5;rw	29952
-队伍	dui4;er wu3;rw	29952
-耳朵	er3;ol duo5;ja	20140
-耳朵	er3;ol duo3;ja	20140
-耳朵	er3;ol duo1;ja	20140
-风筝	feng1;jx zheng5;vy	2349
-风筝	feng1;jx zheng1;vy	2349
-福气	fu2;pt qi5;pv	8033
-福气	fu2;pt qi4;pv	8033
-甘蔗	gan1;ca zhe5;ch	2999
-甘蔗	gan1;ca zhe4;ch	2999
-干事	gan4;au shi5;gy	1598
-干事	gan4;au shi4;gy	1598
-高粱	gao1;wk liang5;dm	2714
-高粱	gao1;wk liang2;dm	2714
-膏药	gao1;wo yao5;cu	933
-膏药	gao1;wo yao4;cu	933
-告诉	gao4;nk su5;yi	57920
-告诉	gao4;nk su4;yi	57920
-疙瘩	ge1;bv da5;bk	27339
-疙瘩	ge1;bv da2;bk	27339
-哥哥	ge1;kk ge5;kk	75211
-哥哥	ge1;kk ge1;kk	75211
-胳膊	ge1;ok bo5;oc	10955
-胳膊	ge1;ok bo2;oc	10955
-跟头	gen1;zg tou5;dd	1139
-跟头	gen1;zg tou2;dd	1139
-工夫	gong1;aa fu5;er	21609
-工夫	gong1;aa fu1;er	21609
-公公	gong1;bs gong5;bs	8794
-公公	gong1;bs gong1;bs	8794
-功夫	gong1;gl fu5;er	22746
-功夫	gong1;gl fu1;er	22746
-姑姑	gu1;ng gu5;ng	4066
-姑姑	gu1;ng gu1;ng	4066
-姑娘	gu1;ng niang5;nl	36280
-姑娘	gu1;ng niang2;nl	36280
-骨头	gu3;go tou5;dd	12321
-骨头	gu3;go tou2;dd	12321
-故事	gu4;gw shi5;gy	240728
-故事	gu4;gw shi4;gy	240728
-寡妇	gua3;bf fu5;ne	2286
-寡妇	gua3;bf fu4;ne	2286
-怪物	guai4;xt wu5;nw	23355
-怪物	guai4;xt wu4;nw	23355
-关系	guan1;bt xi5;px	158297
-关系	guan1;bt xi4;px	158297
-官司	guan1;bl si5;vk	5291
-官司	guan1;bl si1;vk	5291
-罐头	guan4;fv tou5;dd	4848
-罐头	guan4;fv tou2;dd	4848
-规矩	gui1;fj jv5;uj	12789
-规矩	gui1;fj jv3;uj	12789
-闺女	gui1;mt nv5;va	1588
-闺女	gui1;mt nv3;va	1588
-蛤蟆	ha2;ik ma5;id	1865
-蛤蟆	ha2;ik ma2;id	1865
-含糊	han2;rk hu5;mo	1708
-含糊	han2;rk hu2;mo	1708
-行当	hang2;rd dang5;xe	2876
-行当	hang2;rd dang1;xe	2876
-合同	he2;rk tong5;kk	36487
-合同	he2;rk tong2;kk	36487
-和尚	he2;hk shang5;xk	7052
-和尚	he2;hk shang4;xk	7052
-核桃	he2;ar tao5;av	3445
-核桃	he2;ar tao2;av	3445
-红火	hong2;sg huo5;br	1102
-红火	hong2;sg huo3;br	1102
-后头	hou4;ik tou5;dd	2120
-后头	hou4;ik tou2;dd	2120
-厚道	hou4;iz dao5;zz	1520
-厚道	hou4;iz dao4;zz	1520
-狐狸	hu2;qg li5;ql	7383
-狐狸	hu2;qg li2;ql	7383
-胡琴	hu2;go qin5;wv	392
-胡琴	hu2;go qin2;wv	392
-糊涂	hu2;mo tu5;dm	2396
-糊涂	hu2;mo tu2;dm	2396
-皇上	huang2;bw shang5;ba	11587
-皇上	huang2;bw shang4;ba	11587
-胡萝卜	hu2;go luo2;cx bo5;ld	6170
-胡萝卜	hu2;go luo2;cx bo2;ld	6170
-活泼	huo2;du po5;dy	3994
-活泼	huo2;du po1;dy	3994
-火候	huo3;br hou5;ru	3423
-火候	huo3;br hou4;ru	3423
-伙计	huo3;rh ji5;yu	1878
-伙计	huo3;rh ji4;yu	1878
-护士	hu4;fh shi5;ua	16812
-护士	hu4;fh shi4;ua	16812
-机灵	ji1;aj ling5;eh	2883
-机灵	ji1;aj ling2;eh	2883
-脊梁	ji3;ro liang5;da	3583
-脊梁	ji3;ro liang2;da	3583
-记号	ji4;yj hao5;kk	3821
-记性	ji4;yj xing5;xu	15461
-记性	ji4;yj xing4;xu	15461
-家伙	jia1;bu huo5;rh	11461
-家伙	jia1;bu huo3;rh	11461
-架势	jia4;la shi5;fl	11372
-架势	jia4;la shi4;fl	11372
-嫁妆	jia4;nu zhuang5;ln	10391
-嫁妆	jia4;nu zhuang1;ln	10391
-见识	jian4;ke shi5;yv	8860
-见识	jian4;ke shi2;yv	8860
-将就	jiang1;lc jiu5;wy	17948
-将就	jiang1;lc jiu4;wy	17948
-交情	jiao1;wf qing5;xo	6730
-交情	jiao1;wf qing2;xo	6730
-叫唤	jiao4;kj huan5;kr	22140
-叫唤	jiao4;kj huan4;kr	22140
-结实	jie1;sk shi5;bd	106399
-结实	jie1;sk shi2;bd	106399
-街坊	jie1;rt fang5;tf	7997
-街坊	jie1;rt fang1;tf	7997
-姐夫	jie3;nq fu5;er	2477
-姐夫	jie3;nq fu1;er	2477
-姐姐	jie3;nq jie5;nq	32549
-姐姐	jie3;nq jie3;nq	32549
-精神	jing1;mo shen5;pu	73030
-精神	jing1;mo shen2;pu	73030
-舅舅	jiu4;jl jiu5;jl	6023
-舅舅	jiu4;jl jiu4;jl	6023
-咳嗽	ke2;kr sou5;kq	8189
-咳嗽	ke2;kr sou4;kq	8189
-客气	ke4;bk qi5;pv	3379
-客气	ke4;bk qi4;pv	3379
-口袋	kou3;la dai5;ry	8528
-口袋	kou3;la dai4;ry	8528
-窟窿	ku1;bi long5;bu	2016
-窟窿	ku1;bi long2;bu	2016
-快活	kuai4;xg huo5;du	1407
-快活	kuai4;xg huo2;du	1407
-困难	kun4;wa nan5;yv	38732
-困难	kun4;wa nan2;yv	38732
-阔气	kuo4;mu qi5;pv	283
-阔气	kuo4;mu qi4;pv	283
-喇叭	la3;kd ba5;kb	4022
-喇叭	la3;kd ba1;kb	4022
-喇嘛	la3;kd ma5;ka	772
-喇嘛	la3;kd ma2;ka	772
-浪头	lang4;dl tou5;dd	620
-浪头	lang4;dl tou2;dd	620
-老婆	lao3;lb po5;dn	35344
-老婆	lao3;lb po2;dn	35344
-老实	lao3;lb shi5;bd	368332
-老实	lao3;lb shi2;bd	368332
-老太太	lao3;lb tai4;dd tai5;dd	11998
-老太太	lao3;lb tai4;dd tai4;dd	11998
-老爷	lao3;lb ye5;fe	11505
-老爷	lao3;lb ye2;fe	11505
-姥姥	lao3;nl lao5;nl	5187
-姥姥	lao3;nl lao3;nl	5187
-累赘	lei2;tx zhui5;fb	3218
-累赘	lei2;tx zhui4;fb	3218
-篱笆	li2;vn ba5;vb	1248
-篱笆	li2;vn ba1;vb	1248
-里头	li3;tt tou5;dd	7297
-里头	li3;tt tou2;dd	7297
-力气	li4;vp qi5;pv	11420
-力气	li4;vp qi4;pv	11420
-厉害	li4;iw hai5;bk	27710
-厉害	li4;iw hai4;bk	1
-利落	li4;hd luo5;ck	1645
-利落	li4;hd luo4;ck	1645
-利索	li4;hd suo5;ux	1419
-利索	li4;hd suo3;ux	1419
-痢疾	li4;bd ji5;bu	20542
-痢疾	li4;bd ji2;bu	20542
-连累	lian2;zi lei5;tx	1372
-连累	lian2;zi lei3;tx	1372
-凉快	liang2;dx kuai5;xg	7056
-凉快	liang2;dx kuai4;xg	7056
-粮食	liang2;ml shi5;rg	16965
-粮食	liang2;ml shi2;rg	16965
-溜达	liu1;dt da5;zd	3168
-溜达	liu1;dt da2;zd	3168
-萝卜	luo2;cx bo5;ld	5639
-萝卜	luo2;cx bo2;ld	5639
-骆驼	luo4;mk tuo5;mb	3093
-骆驼	luo4;mk tuo2;mb	3093
-妈妈	ma1;nm ma5;nm	72656
-妈妈	ma1;nm ma1;nm	72656
-麻烦	ma2;ga fan5;hy	42698
-麻烦	ma2;ga fan2;hy	42698
-麻利	ma2;ga li5;hd	7447
-麻利	ma2;ga li4;hd	7447
-马虎	ma3;va hu5;hj	1432
-马虎	ma3;va hu1;hj	1432
-码头	ma3;um tou5;dd	4694
-码头	ma3;um tou2;dd	4694
-买卖	mai3;ad mai5;ud	17546
-买卖	mai3;ad mai4;ud	17546
-馒头	man2;uy tou5;dd	7326
-馒头	man2;uy tou2;dd	7326
-忙活	mang2;xw huo5;du	1300
-忙活	mang2;xw huo2;du	1300
-冒失	mao4;oo shi5;pf	875
-冒失	mao4;oo shi1;pf	875
-眉毛	mei2;uo mao5;pv	8814
-眉毛	mei2;uo mao2;pv	8814
-媒人	mei2;na ren5;pn	27383
-媒人	mei2;na ren2;pn	27383
-妹妹	mei4;nw mei5;nw	26985
-妹妹	mei4;nw mei4;nw	26985
-门道	men2;dv dao5;zz	3102
-门道	men2;dv dao4;zz	3102
-眯缝	mi1;om feng5;sf	659
-眯缝	mi1;om feng4;sf	659
-迷糊	mi2;zm hu5;mo	1567
-迷糊	mi2;zm hu2;mo	1567
-苗条	miao2;ct tiao5;wa	791
-苗条	miao2;ct tiao2;wa	791
-苗头	miao2;ct tou5;dd	2170
-苗头	miao2;ct tou2;dd	2170
-名堂	ming2;xk tang5;xt	1231
-名堂	ming2;xk tang2;xt	1231
-明白	ming2;oo bai5;po	55883
-明白	ming2;oo bai2;po	55883
-蘑菇	mo2;cu gu5;cg	5815
-蘑菇	mo2;cu gu1;cg	5815
-模糊	mo2;ad hu5;mo	12723
-模糊	mo2;ad hu2;mo	12723
-木匠	mu4;ur jiang5;kt	2163
-木匠	mu4;ur jiang4;kt	2163
-木头	mu4;ur tou5;dd	10243
-木头	mu4;ur tou2;dd	10243
-奶奶	nai3;nn nai5;nn	17725
-奶奶	nai3;nn nai3;nn	17725
-难为	nan2;yv wei5;ld	1112
-难为	nan2;yv wei2;ld	1112
-脑袋	nao3;ox dai5;ry	23861
-脑袋	nao3;ox dai4;ry	23861
-能耐	neng2;sb nai5;ec	2506
-能耐	neng2;sb nai4;ec	2506
-念叨	nian4;rx dao5;kd	3485
-念叨	nian4;rx dao1;kd	3485
-念头	nian4;rx tou5;dd	13862
-念头	nian4;rx tou2;dd	13862
-娘家	niang2;nl jia5;bu	1978
-娘家	niang2;nl jia1;bu	1978
-奴才	nu2;ny cai5;up	1812
-奴才	nu2;ny cai2;up	1812
-女婿	nv3;va xv5;no	1494
-女婿	nv3;va xv4;no	1494
-暖和	nuan3;oy huo5;hk	2151
-暖和	nuan3;oy huo2;hk	2151
-疟疾	nve4;be ji5;bu	1116
-疟疾	nve4;be ji2;bu	1116
-牌楼	pai2;pu lou5;an	342
-牌楼	pai2;pu lou2;an	342
-盘算	pan2;vm suan5;vc	1542
-盘算	pan2;vm suan4;vc	1542
-朋友	peng2;oo you5;uy	260959
-朋友	peng2;oo you3;uy	260959
-脾气	pi2;ou qi5;pv	9539
-脾气	pi2;ou qi4;pv	9539
-便宜	pian2;rg yi5;bq	44949
-便宜	pian2;rg yi2;bq	44949
-漂亮	piao4;du liang5;wj	31447
-漂亮	piao4;du liang4;wj	31447
-婆家	po2;dn jia5;bu	835
-婆家	po2;dn jia1;bu	835
-婆婆	po2;dn po5;dn	8949
-婆婆	po2;dn po2;dn	8949
-铺盖	pu1;jf gai5;ym	317
-铺盖	pu1;jf gai4;ym	317
-欺负	qi1;cq fu5;db	12541
-欺负	qi1;cq fu4;db	12541
-前头	qian2;bd tou5;dd	2666
-前头	qian2;bd tou2;dd	2666
-亲戚	qin1;la qi5;gx	19992
-亲戚	qin1;la qi1;gx	19992
-勤快	qin2;cl kuai5;xg	2198
-勤快	qin2;cl kuai4;xg	2198
-清楚	qing1;do chu5;az	33381
-清楚	qing1;do chu3;az	33381
-亲家	qing4;la jia5;bu	6968
-亲家	qing4;la jia1;bu	6968
-拳头	qvan2;ju tou5;dd	6858
-拳头	qvan2;ju tou2;dd	6858
-热闹	re4;fh nao5;mj	7329
-热闹	re4;fh nao4;mj	7329
-人家	ren2;pn jia5;bu	167004
-人家	ren2;pn jia1;bu	167004
-认识	ren4;yr shi5;yv	73872
-认识	ren4;yr shi2;yv	73872
-扫帚	sao4;fe zhou5;ej	857
-扫帚	sao4;fe zhou3;ej	857
-商量	shang1;wk liang5;ol	9599
-商量	shang1;wk liang2;ol	9599
-上司	shang4;ba si5;vk	8754
-上司	shang4;ba si1;vk	8754
-上头	shang4;ba tou5;dd	6892
-上头	shang4;ba tou2;dd	6892
-烧饼	shao1;hw bing5;uk	2066
-烧饼	shao1;hw bing3;uk	2066
-少爷	shao4;xp ye5;fe	3718
-少爷	shao4;xp ye2;fe	3718
-舌头	she2;qk tou5;dd	9181
-舌头	she2;qk tou2;dd	9181
-生意	sheng1;pf yi5;lx	30910
-生意	sheng1;pf yi4;lx	30910
-牲口	sheng1;nu kou5;la	1526
-牲口	sheng1;nu kou3;la	1526
-师父	shi1;lj fu5;bx	25508
-师父	shi1;lj fu4;bx	25508
-师傅	shi1;lj fu5;rc	26850
-师傅	shi1;lj fu4;rc	26850
-石匠	shi2;ak jiang5;kt	7407
-石匠	shi2;ak jiang4;kt	7407
-石榴	shi2;ak liu5;at	3131
-石榴	shi2;ak liu2;at	3131
-石头	shi2;ak tou5;dd	20416
-石头	shi2;ak tou2;dd	20416
-时候	shi2;to hou5;ru	90573
-时候	shi2;to hou4;ru	90573
-实在	shi2;bd zai5;ut	103889
-实在	shi2;bd zai4;ut	103889
-拾掇	shi2;fk duo5;fy	1115
-拾掇	shi2;fk duo1;fy	1115
-使唤	shi3;rl huan5;kr	1272
-使唤	shi3;rl huan4;kr	1272
-世故	shi4;cv gu5;gw	1737
-世故	shi4;cv gu4;gw	1737
-事情	shi4;gy qing5;xo	61236
-事情	shi4;gy qing2;xo	61236
-收成	shou1;jw cheng5;gv	1281
-收成	shou1;jw cheng2;gv	1281
-收拾	shou1;jw shi5;fk	9392
-收拾	shou1;jw shi2;fk	9392
-首饰	shou3;bz shi5;uj	7795
-首饰	shou3;bz shi4;uj	7795
-叔叔	shu1;uy shu5;uy	11998
-叔叔	shu1;uy shu1;uy	11998
-舒服	shu1;ry fu5;oy	26725
-舒服	shu1;ry fu2;oy	26725
-舒坦	shu1;ry tan5;td	1718
-舒坦	shu1;ry tan3;td	1718
-疏忽	shu1;vi hu5;wx	2666
-疏忽	shu1;vi hu1;wx	2666
-爽快	shuang3;dx kuai5;xg	2879
-爽快	shuang3;dx kuai4;xg	2879
-思量	si1;tx liang5;ol	1083
-思量	si1;tx liang2;ol	1083
-算计	suan4;vc ji5;yu	4157
-算计	suan4;vc ji4;yu	4157
-岁数	sui4;ux shu5;mw	2952
-岁数	sui4;ux shu4;mw	2952
-太太	tai4;dd tai5;dd	8390
-太太	tai4;dd tai4;dd	8390
-特务	te4;nc wu5;wl	1221
-特务	te4;nc wu4;wl	1221
-挑剔	tiao1;fv ti5;od	3875
-挑剔	tiao1;fv ti1;od	3875
-跳蚤	tiao4;zv zao5;ii	1086
-跳蚤	tiao4;zv zao3;ii	1086
-铁匠	tie3;jf jiang5;kt	1639
-铁匠	tie3;jf jiang4;kt	1639
-头发	tou2;dd fa5;fy	36685
-头发	tou2;dd fa4;fy	36685
-妥当	tuo3;vn dang5;xe	1488
-妥当	tuo3;vn dang4;xe	1488
-唾沫	tuo4;kt mo5;dw	509
-唾沫	tuo4;kt mo4;dw	509
-挖苦	wa1;fv ku5;cg	1187
-挖苦	wa1;fv ku3;cg	1187
-娃娃	wa2;nt wa5;nt	4358
-娃娃	wa2;nt wa2;nt	4358
-晚上	wan3;oe shang5;ba	98266
-晚上	wan3;oe shang4;ba	98266
-尾巴	wei3;um ba5;sl	7404
-尾巴	wei3;um ba1;sl	7404
-委屈	wei3;hn qv5;ui	12613
-委屈	wei3;hn qv1;ui	12613
-稳当	wei3;hx dang5;xe	32237
-稳当	wei3;hx dang4;xe	32237
-稀罕	xi1;hj han5;bg	5944
-稀罕	xi1;hj han3;bg	5944
-媳妇	xi2;nx fu5;ne	11577
-媳妇	xi2;nx fu4;ne	11577
-喜欢	xi3;tk huan5;yq	240700
-喜欢	xi3;tk huan1;yq	240700
-下巴	xia4;ab ba5;sl	9665
-下巴	xia4;ab ba1;sl	9665
-吓唬	xia4;kx hu5;kj	2016
-吓唬	xia4;kx hu3;kj	2016
-先生	xian1;ne sheng5;pf	66317
-先生	xian1;ne sheng1;pf	66317
-乡下	xiang1;vp xia5;ab	12814
-乡下	xiang1;vp xia4;ab	12814
-相声	xiang4;ao sheng5;tu	7520
-相声	xiang4;ao sheng1;tu	7520
-消息	xiao1;do xi5;zx	55540
-消息	xiao1;do xi1;zx	55540
-小气	xiao3;lb qi5;pv	1806
-小气	xiao3;lb qi4;pv	1806
-笑话	xiao4;vy hua5;yu	17810
-笑话	xiao4;vy hua4;yu	17810
-谢谢	xie4;yc xie5;yc	39956
-谢谢	xie4;yc xie4;yc	39956
-心思	xin1;dd si5;tx	15421
-心思	xin1;dd si1;tx	15421
-星星	xing1;ou xing5;ou	15308
-星星	xing1;ou xing1;ou	15308
-猩猩	xing1;qu xing5;qu	14543
-猩猩	xing1;qu xing1;qu	14543
-行李	xing2;rd li5;az	5329
-行李	xing2;rd li3;az	5329
-兄弟	xiong1;ke di5;bd	41925
-兄弟	xiong1;ke di4;bd	41925
-休息	xiu1;ra xi5;zx	34050
-休息	xiu1;ra xi1;zx	34050
-秀才	xiu4;hn cai5;up	4267
-秀才	xiu4;hn cai2;up	4267
-秀气	xiu4;hn qi5;pv	907
-秀气	xiu4;hn qi4;pv	907
-学生	xve2;xz sheng5;pf	324538
-学生	xve2;xz sheng1;pf	324538
-学问	xve2;xz wen5;mk	7140
-学问	xve2;xz wen4;mk	7140
-丫头	ya1;bl tou5;dd	2732
-丫头	ya1;bl tou2;dd	2732
-衙门	ya2;rk men5;dv	1319
-衙门	ya2;rk men2;dv	1319
-哑巴	ya3;ky ba5;sl	1784
-哑巴	ya3;ky ba1;sl	1784
-胭脂	yan1;oy zhi5;oo	21910
-胭脂	yan1;oy zhi1;oo	21910
-烟筒	yan1;hy tong5;vk	452
-烟筒	yan1;hy tong3;vk	452
-眼睛	yan3;og jing5;oo	70069
-眼睛	yan3;og jing1;oo	70069
-秧歌	yang1;hy ge5;kq	573
-秧歌	yang1;hy ge1;kq	573
-养活	yang3;yl huo5;du	6478
-养活	yang3;yl huo2;du	6478
-吆喝	yao1;ky he5;kr	6907
-吆喝	yao1;ky he4;kr	6907
-妖精	yao1;ny jing5;mo	2704
-妖精	yao1;ny jing1;mo	2704
-爷爷	ye2;fe ye5;fe	26263
-爷爷	ye2;fe ye2;fe	26263
-衣服	yi1;wy fu5;oy	61666
-衣服	yi1;wy fu2;oy	61666
-衣裳	yi1;wy shang5;xy	352429
-衣裳	yi1;wy shang1;xy	352429
-意思	yi4;lx si5;tx	90777
-意思	yi4;lx si1;tx	90777
-应酬	ying4;ga chou5;yv	3077
-应酬	ying4;ga chou2;yv	3077
-冤枉	yvan1;bt wang5;aw	11428
-冤枉	yvan1;bt wang3;aw	11428
-月饼	yve4;ke bing5;uk	2509
-月饼	yve4;ke bing3;uk	2509
-月亮	yve4;ke liang5;wj	17188
-月亮	yve4;ke liang4;wj	17188
-云彩	yvn2;ag cai5;vp	1146
-云彩	yvn2;ag cai3;vp	1146
-运气	yvn4;zy qi5;pv	25437
-运气	yvn4;zy qi4;pv	25437
-在乎	zai4;ut hu5;pl	13034
-在乎	zai4;ut hu1;pl	13034
-早上	zao3;ou shang5;ba	38390
-早上	zao3;ou shang4;ba	38390
-扎实	zha1;fv shi5;bd	16915
-扎实	zha1;fv shi2;bd	16915
-眨巴	zha3;of ba5;sl	44
-眨巴	zha3;of ba1;sl	44
-栅栏	zha4;ac lan5;al	1576
-栅栏	zha4;ac lan2;al	1576
-张罗	zhang1;gi luo5;sx	1454
-张罗	zhang1;gi luo2;sx	1454
-丈夫	zhang4;an fu5;er	21930
-丈夫	zhang4;an fu1;er	21930
-帐篷	zhang4;ji peng5;vf	8443
-帐篷	zhang4;ji peng2;vf	8443
-丈人	zhang4;an ren5;pn	254
-丈人	zhang4;an ren2;pn	254
-招呼	zhao1;fk hu5;kh	3947
-招呼	zhao1;fk hu1;kh	3947
-招牌	zhao1;fk pai5;pu	11018
-招牌	zhao1;fk pai2;pu	11018
-折腾	zhe1;ft teng5;om	20341
-折腾	zhe1;ft teng2;om	20341
-这个	zhe4;zw ge5;rl	1742719
-这个	zhe4;zw ge4;rl	1742719
-枕头	zhen3;ae tou5;dd	5690
-枕头	zhen3;ae tou2;dd	5690
-芝麻	zhi1;cv ma5;ga	3382
-芝麻	zhi1;cv ma2;ga	3382
-知识	zhi1;uk shi5;yv	424797
-知识	zhi1;uk shi2;yv	424797
-指甲	zhi1;fo jia5;ol	6644
-指甲	zhi1;fo jia3;ol	6644
-指头	zhi3;fo tou5;dd	1868
-指头	zhi3;fo tou2;dd	1868
-主意	zhu3;wt yi5;lx	131186
-主意	zhu3;wt yi4;lx	131186
-转悠	zhuan4;iv you5;rx	1545
-转悠	zhuan4;iv you1;rx	1545
-庄稼	zhuang1;gt jia5;hu	5689
-庄稼	zhuang1;gt jia4;hu	5689
-壮实	zhuang4;lt shi5;bd	13553
-壮实	zhuang4;lt shi2;bd	13553
-状元	zhuang4;lq yvan5;aw	5391
-状元	zhuang4;lq yvan2;aw	5391
-字号	zi4;bz hao5;kk	3758
-字号	zi4;bz hao4;kk	3758
-自在	zi4;po zai5;ut	5128
-自在	zi4;po zai4;ut	5128
-祖宗	zu3;pq zong5;bu	4876
-祖宗	zu3;pq zong1;bu	4876
-嘴巴	zui3;ky ba5;sl	10607
-嘴巴	zui3;ky ba1;sl	10607
-作坊	zuo1;rv fang5;tf	1777
-作坊	zuo1;rv fang2;tf	1777
-琢磨	zuo2;wu mo5;gu	13216
-琢磨	zuo2;wu mo2;gu	13216
+爱人	ài;vy ren;pn	11508
+爱人	ài;vy rén;pn	11508
+巴掌	bā;sl zhang;xu	1350
+巴掌	bā;sl zhǎng;xu	1350
+爸爸	bà;fb ba;fb	45791
+爸爸	bà;fb bà;fb	45791
+白净	bái;po jing;dy	650
+白净	bái;po jìng;dy	650
+帮手	bāng;fj shou;pf	2892
+帮手	bāng;fj shǒu;pf	2892
+棒槌	bàng;af chui;al	515
+棒槌	bàng;af chuí;al	515
+包袱	bāo;bs fu;pq	8403
+包袱	bāo;bs fú;pq	8403
+包涵	bāo;bs han;du	54140
+包涵	bāo;bs hán;du	54140
+本事	běn;aa shi;gy	11222
+本事	běn;aa shì;gy	11222
+比方	bǐ;bb fang;wv	4252
+比方	bǐ;bb fāng;wv	4252
+扁担	biǎn;hc dan;fd	751
+扁担	biǎn;hc dàn;fd	751
+别扭	biè;kd niu;fi	4399
+别扭	biè;kd niǔ;fi	4399
+拨弄	bō;fy nong;wc	462
+拨弄	bō;fy nòng;wc	462
+簸箕	bò;vp ji;vb	2088
+簸箕	bò;vp jī;vb	2088
+补丁	bǔ;pb ding;al	4054
+补丁	bǔ;pb dīng;al	4054
+不由得	bù;ab yóu;ol de;rc	4164
+不由得	bù;ab yóu;ol dé;rc	4164
+不在乎	bú;ab zài;ut hu;pl	11571
+不在乎	bú;ab zài;ut hū;pl	11571
+部分	bù;le fen;bd	305026
+部分	bù;le fèn;bd	305026
+裁缝	cái;gy feng;sf	1633
+裁缝	cái;gy féng;sf	1633
+财主	cái;bc zhu;wt	325
+财主	cái;bc zhǔ;wt	325
+苍蝇	cāng;cv ying;id	4697
+苍蝇	cāng;cv yíng;id	4697
+差事	chāi;yg shi;gy	895
+差事	chāi;yg shì;gy	895
+柴火	chái;va huo;br	1165
+柴火	chái;va huǒ;br	1165
+称呼	chēng;hx hu;kh	17600
+称呼	chēng;hx hū;kh	17600
+锄头	chú;jl tou;dd	12492
+锄头	chú;jl tóu;dd	12492
+畜生	chù;xt sheng;pf	23631
+畜生	chù;xt shēng;pf	23631
+窗户	chuāng;bw hu;du	12227
+窗户	chuāng;bw hù;du	12227
+刺猬	cì;ud wei;qo	2996
+刺猬	cì;ud wèi;qo	2996
+凑合	còu;dt he;rk	4572
+凑合	còu;dt hé;rk	4572
+耷拉	dā;de la;fl	486
+耷拉	dā;de lā;fl	486
+答应	dā;vk ying;ga	9668
+答应	dā;vk yìng;ga	9668
+打扮	dǎ;fd ban;ff	5580
+打扮	dǎ;fd bàn;ff	5580
+打点	dǎ;fd dian;vh	2175
+打点	dǎ;fd diǎn;vh	2175
+打发	dǎ;fd fa;fy	21088
+打发	dǎ;fd fā;fy	21088
+打量	dǎ;fd liang;ol	126956
+打量	dǎ;fd liáng;ol	126956
+打算	dǎ;fd suan;vc	50680
+打算	dǎ;fd suàn;vc	50680
+打听	dǎ;fd ting;kt	4707
+打听	dǎ;fd tīng;kt	4707
+大方	dà;ar fang;wv	4239
+大方	dà;ar fāng;wv	4239
+大爷	dà;ar ye;fe	13631
+大爷	dà;ar yé;fe	13631
+大夫	dài;ar fu;er	11941
+大夫	dài;ar fū;er	11941
+耽搁	dān;ee ge;fk	15983
+耽搁	dān;ee gē;fk	15983
+耽误	dān;ee wu;yt	7750
+耽误	dān;ee wù;yt	7750
+道士	dài;zz shi;ua	39937
+道士	dài;zz shì;ua	39937
+灯笼	dēng;hd long;vl	1378
+灯笼	dēng;hd lóng;vl	1378
+提防	dī;fz fang;ef	230008
+提防	dī;fz fáng;ef	230008
+地道	dì;ty dao;zz	8952
+地道	dì;ty dào;zz	8952
+地方	dì;ty fang;wv	255565
+地方	dì;ty fāng;wv	255565
+弟弟	dì;bd di;bd	31651
+弟弟	dì;bd dì;bd	31651
+弟兄	dì;bd xiong;ke	857
+弟兄	dì;bd xiōng;ke	857
+点心	diǎn;vh xin;dd	5438
+点心	diǎn;vh xīn;dd	5438
+东家	dōng;ax jia;bu	1689
+东家	dōng;ax jiā;bu	1689
+动静	dòng;yl jing;fy	13865
+动静	dòng;yl jìng;fy	13865
+动弹	dòng;yl tan;gu	581
+动弹	dòng;yl tán;gu	581
+豆腐	dòu;ab fu;gr	5997
+豆腐	dòu;ab fǔ;gr	5997
+嘟囔	dū;ke nang;ky	948
+嘟囔	dū;ke nāng;ky	948
+对付	duì;yc fu;rc	14171
+对付	duì;yc fù;rc	14171
+对头	duì;yc tou;dd	823
+对头	duì;yc tóu;dd	823
+队伍	duì;er wu;rw	29952
+队伍	duì;er wǔ;rw	29952
+耳朵	ěr;ol duo;ja	20140
+耳朵	ěr;ol duǒ;ja	20140
+耳朵	ěr;ol duō;ja	20140
+风筝	fēng;jx zheng;vy	2349
+风筝	fēng;jx zhēng;vy	2349
+福气	fú;pt qi;pv	8033
+福气	fú;pt qì;pv	8033
+甘蔗	gān;ca zhe;ch	2999
+甘蔗	gān;ca zhè;ch	2999
+干事	gàn;au shi;gy	1598
+干事	gàn;au shì;gy	1598
+高粱	gāo;wk liang;dm	2714
+高粱	gāo;wk liáng;dm	2714
+膏药	gāo;wo yao;cu	933
+膏药	gāo;wo yào;cu	933
+告诉	gào;nk su;yi	57920
+告诉	gào;nk sù;yi	57920
+疙瘩	gē;bv da;bk	27339
+疙瘩	gē;bv dá;bk	27339
+哥哥	gē;kk ge;kk	75211
+哥哥	gē;kk gē;kk	75211
+胳膊	gē;ok bo;oc	10955
+胳膊	gē;ok bó;oc	10955
+跟头	gēn;zg tou;dd	1139
+跟头	gēn;zg tóu;dd	1139
+工夫	gōng;aa fu;er	21609
+工夫	gōng;aa fū;er	21609
+公公	gōng;bs gong;bs	8794
+公公	gōng;bs gōng;bs	8794
+功夫	gōng;gl fu;er	22746
+功夫	gōng;gl fū;er	22746
+姑姑	gū;ng gu;ng	4066
+姑姑	gū;ng gū;ng	4066
+姑娘	gū;ng niang;nl	36280
+姑娘	gū;ng niáng;nl	36280
+骨头	gǔ;go tou;dd	12321
+骨头	gǔ;go tóu;dd	12321
+故事	gù;gw shi;gy	240728
+故事	gù;gw shì;gy	240728
+寡妇	guǎ;bf fu;ne	2286
+寡妇	guǎ;bf fù;ne	2286
+怪物	guài;xt wu;nw	23355
+怪物	guài;xt wù;nw	23355
+关系	guān;bt xi;px	158297
+关系	guān;bt xì;px	158297
+官司	guān;bl si;vk	5291
+官司	guān;bl sī;vk	5291
+罐头	guàn;fv tou;dd	4848
+罐头	guàn;fv tóu;dd	4848
+规矩	guī;fj ju;uj	12789
+规矩	guī;fj jǔ;uj	12789
+闺女	guī;mt nü;va	1588
+闺女	guī;mt nǚ;va	1588
+蛤蟆	há;ik ma;id	1865
+蛤蟆	há;ik má;id	1865
+含糊	hán;rk hu;mo	1708
+含糊	hán;rk hú;mo	1708
+行当	háng;rd dang;xe	2876
+行当	háng;rd dāng;xe	2876
+合同	hé;rk tong;kk	36487
+合同	hé;rk tóng;kk	36487
+和尚	hé;hk shang;xk	7052
+和尚	hé;hk shàng;xk	7052
+核桃	hé;ar tao;av	3445
+核桃	hé;ar táo;av	3445
+红火	hóng;sg huo;br	1102
+红火	hóng;sg huǒ;br	1102
+后头	hòu;ik tou;dd	2120
+后头	hòu;ik tóu;dd	2120
+厚道	hòu;iz dao;zz	1520
+厚道	hòu;iz dào;zz	1520
+狐狸	hú;qg li;ql	7383
+狐狸	hú;qg lí;ql	7383
+胡琴	hú;go qin;wv	392
+胡琴	hú;go qín;wv	392
+糊涂	hú;mo tu;dm	2396
+糊涂	hú;mo tú;dm	2396
+皇上	huáng;bw shang;ba	11587
+皇上	huáng;bw shàng;ba	11587
+胡萝卜	hú;go luó;cx bo;ld	6170
+胡萝卜	hú;go luó;cx bó;ld	6170
+活泼	huó;du po;dy	3994
+活泼	huó;du pō;dy	3994
+火候	huǒ;br hou;ru	3423
+火候	huǒ;br hòu;ru	3423
+伙计	huǒ;rh ji;yu	1878
+伙计	huǒ;rh jì;yu	1878
+护士	hù;fh shi;ua	16812
+护士	hù;fh shì;ua	16812
+机灵	jī;aj ling;eh	2883
+机灵	jī;aj líng;eh	2883
+脊梁	jǐ;ro liang;da	3583
+脊梁	jǐ;ro liáng;da	3583
+记号	jì;yj hao;kk	3821
+记性	jì;yj xing;xu	15461
+记性	jì;yj xìng;xu	15461
+家伙	jiā;bu huo;rh	11461
+家伙	jiā;bu huǒ;rh	11461
+架势	jià;la shi;fl	11372
+架势	jià;la shì;fl	11372
+嫁妆	jià;nu zhuang;ln	10391
+嫁妆	jià;nu zhuāng;ln	10391
+见识	jiàn;ke shi;yv	8860
+见识	jiàn;ke shí;yv	8860
+将就	jiāng;lc jiu;wy	17948
+将就	jiāng;lc jiù;wy	17948
+交情	jiāo;wf qing;xo	6730
+交情	jiāo;wf qíng;xo	6730
+叫唤	jiào;kj huan;kr	22140
+叫唤	jiào;kj huàn;kr	22140
+结实	jiē;sk shi;bd	106399
+结实	jiē;sk shí;bd	106399
+街坊	jiē;rt fang;tf	7997
+街坊	jiē;rt fāng;tf	7997
+姐夫	jiě;nq fu;er	2477
+姐夫	jiě;nq fū;er	2477
+姐姐	jiě;nq jie;nq	32549
+姐姐	jiě;nq jiě;nq	32549
+精神	jīng;mo shen;pu	73030
+精神	jīng;mo shén;pu	73030
+舅舅	jiù;jl jiu;jl	6023
+舅舅	jiù;jl jiù;jl	6023
+咳嗽	ké;kr sou;kq	8189
+咳嗽	ké;kr sòu;kq	8189
+客气	kè;bk qi;pv	3379
+客气	kè;bk qì;pv	3379
+口袋	kǒu;la dai;ry	8528
+口袋	kǒu;la dài;ry	8528
+窟窿	kū;bi long;bu	2016
+窟窿	kū;bi lóng;bu	2016
+快活	kuài;xg huo;du	1407
+快活	kuài;xg huó;du	1407
+困难	kùn;wa nan;yv	38732
+困难	kùn;wa nán;yv	38732
+阔气	kuò;mu qi;pv	283
+阔气	kuò;mu qì;pv	283
+喇叭	lǎ;kd ba;kb	4022
+喇叭	lǎ;kd bā;kb	4022
+喇嘛	lǎ;kd ma;ka	772
+喇嘛	lǎ;kd má;ka	772
+浪头	làng;dl tou;dd	620
+浪头	làng;dl tóu;dd	620
+老婆	lǎo;lb po;dn	35344
+老婆	lǎo;lb pó;dn	35344
+老实	lǎo;lb shi;bd	368332
+老实	lǎo;lb shí;bd	368332
+老太太	lǎo;lb tài;dd tai;dd	11998
+老太太	lǎo;lb tài;dd tài;dd	11998
+老爷	lǎo;lb ye;fe	11505
+老爷	lǎo;lb yé;fe	11505
+姥姥	lǎo;nl lao;nl	5187
+姥姥	lǎo;nl lǎo;nl	5187
+累赘	léi;tx zhui;fb	3218
+累赘	léi;tx zhuì;fb	3218
+篱笆	lí;vn ba;vb	1248
+篱笆	lí;vn bā;vb	1248
+里头	lǐ;tt tou;dd	7297
+里头	lǐ;tt tóu;dd	7297
+力气	lì;vp qi;pv	11420
+力气	lì;vp qì;pv	11420
+厉害	lì;iw hai;bk	27710
+厉害	lì;iw hài;bk	1
+利落	lì;hd luo;ck	1645
+利落	lì;hd luò;ck	1645
+利索	lì;hd suo;ux	1419
+利索	lì;hd suǒ;ux	1419
+痢疾	lì;bd ji;bu	20542
+痢疾	lì;bd jí;bu	20542
+连累	lián;zi lei;tx	1372
+连累	lián;zi lěi;tx	1372
+凉快	liáng;dx kuai;xg	7056
+凉快	liáng;dx kuài;xg	7056
+粮食	liáng;ml shi;rg	16965
+粮食	liáng;ml shí;rg	16965
+溜达	liū;dt da;zd	3168
+溜达	liū;dt dá;zd	3168
+萝卜	luó;cx bo;ld	5639
+萝卜	luó;cx bó;ld	5639
+骆驼	luò;mk tuo;mb	3093
+骆驼	luò;mk tuó;mb	3093
+妈妈	mā;nm ma;nm	72656
+妈妈	mā;nm mā;nm	72656
+麻烦	má;ga fan;hy	42698
+麻烦	má;ga fán;hy	42698
+麻利	má;ga li;hd	7447
+麻利	má;ga lì;hd	7447
+马虎	mǎ;va hu;hj	1432
+马虎	mǎ;va hū;hj	1432
+码头	mǎ;um tou;dd	4694
+码头	mǎ;um tóu;dd	4694
+买卖	mǎi;ad mai;ud	17546
+买卖	mǎi;ad mài;ud	17546
+馒头	mán;uy tou;dd	7326
+馒头	mán;uy tóu;dd	7326
+忙活	máng;xw huo;du	1300
+忙活	máng;xw huó;du	1300
+冒失	mào;oo shi;pf	875
+冒失	mào;oo shī;pf	875
+眉毛	méi;uo mao;pv	8814
+眉毛	méi;uo máo;pv	8814
+媒人	méi;na ren;pn	27383
+媒人	méi;na rén;pn	27383
+妹妹	mèi;nw mei;nw	26985
+妹妹	mèi;nw mèi;nw	26985
+门道	mén;dv dao;zz	3102
+门道	mén;dv dào;zz	3102
+眯缝	mī;om feng;sf	659
+眯缝	mī;om fèng;sf	659
+迷糊	mí;zm hu;mo	1567
+迷糊	mí;zm hú;mo	1567
+苗条	miáo;ct tiao;wa	791
+苗条	miáo;ct tiáo;wa	791
+苗头	miáo;ct tou;dd	2170
+苗头	miáo;ct tóu;dd	2170
+名堂	míng;xk tang;xt	1231
+名堂	míng;xk táng;xt	1231
+明白	míng;oo bai;po	55883
+明白	míng;oo bái;po	55883
+蘑菇	mó;cu gu;cg	5815
+蘑菇	mó;cu gū;cg	5815
+模糊	mó;ad hu;mo	12723
+模糊	mó;ad hú;mo	12723
+木匠	mù;ur jiang;kt	2163
+木匠	mù;ur jiàng;kt	2163
+木头	mù;ur tou;dd	10243
+木头	mù;ur tóu;dd	10243
+奶奶	nǎi;nn nai;nn	17725
+奶奶	nǎi;nn nǎi;nn	17725
+难为	nán;yv wei;ld	1112
+难为	nán;yv wéi;ld	1112
+脑袋	nǎo;ox dai;ry	23861
+脑袋	nǎo;ox dài;ry	23861
+能耐	néng;sb nai;ec	2506
+能耐	néng;sb nài;ec	2506
+念叨	niàn;rx dao;kd	3485
+念叨	niàn;rx dāo;kd	3485
+念头	niàn;rx tou;dd	13862
+念头	niàn;rx tóu;dd	13862
+娘家	niáng;nl jia;bu	1978
+娘家	niáng;nl jiā;bu	1978
+奴才	nú;ny cai;up	1812
+奴才	nú;ny cái;up	1812
+女婿	nǚ;va xu;no	1494
+女婿	nǚ;va xù;no	1494
+暖和	nuǎn;oy huo;hk	2151
+暖和	nuǎn;oy huó;hk	2151
+疟疾	nüè;be ji;bu	1116
+疟疾	nüè;be jí;bu	1116
+牌楼	pái;pu lou;an	342
+牌楼	pái;pu lóu;an	342
+盘算	pán;vm suan;vc	1542
+盘算	pán;vm suàn;vc	1542
+朋友	péng;oo you;uy	260959
+朋友	péng;oo yǒu;uy	260959
+脾气	pí;ou qi;pv	9539
+脾气	pí;ou qì;pv	9539
+便宜	pián;rg yi;bq	44949
+便宜	pián;rg yí;bq	44949
+漂亮	piào;du liang;wj	31447
+漂亮	piào;du liàng;wj	31447
+婆家	pó;dn jia;bu	835
+婆家	pó;dn jiā;bu	835
+婆婆	pó;dn po;dn	8949
+婆婆	pó;dn pó;dn	8949
+铺盖	pū;jf gai;ym	317
+铺盖	pū;jf gài;ym	317
+欺负	qī;cq fu;db	12541
+欺负	qī;cq fù;db	12541
+前头	qián;bd tou;dd	2666
+前头	qián;bd tóu;dd	2666
+亲戚	qīn;la qi;gx	19992
+亲戚	qīn;la qī;gx	19992
+勤快	qín;cl kuai;xg	2198
+勤快	qín;cl kuài;xg	2198
+清楚	qīng;do chu;az	33381
+清楚	qīng;do chǔ;az	33381
+亲家	qìng;la jia;bu	6968
+亲家	qìng;la jiā;bu	6968
+拳头	quán;ju tou;dd	6858
+拳头	quán;ju tóu;dd	6858
+热闹	rè;fh nao;mj	7329
+热闹	rè;fh nào;mj	7329
+人家	rén;pn jia;bu	167004
+人家	rén;pn jiā;bu	167004
+认识	rèn;yr shi;yv	73872
+认识	rèn;yr shí;yv	73872
+扫帚	sào;fe zhou;ej	857
+扫帚	sào;fe zhǒu;ej	857
+商量	shāng;wk liang;ol	9599
+商量	shāng;wk liáng;ol	9599
+上司	shàng;ba si;vk	8754
+上司	shàng;ba sī;vk	8754
+上头	shàng;ba tou;dd	6892
+上头	shàng;ba tóu;dd	6892
+烧饼	shāo;hw bing;uk	2066
+烧饼	shāo;hw bǐng;uk	2066
+少爷	shào;xp ye;fe	3718
+少爷	shào;xp yé;fe	3718
+舌头	shé;qk tou;dd	9181
+舌头	shé;qk tóu;dd	9181
+生意	shēng;pf yi;lx	30910
+生意	shēng;pf yì;lx	30910
+牲口	shēng;nu kou;la	1526
+牲口	shēng;nu kǒu;la	1526
+师父	shī;lj fu;bx	25508
+师父	shī;lj fù;bx	25508
+师傅	shī;lj fu;rc	26850
+师傅	shī;lj fù;rc	26850
+石匠	shí;ak jiang;kt	7407
+石匠	shí;ak jiàng;kt	7407
+石榴	shí;ak liu;at	3131
+石榴	shí;ak liú;at	3131
+石头	shí;ak tou;dd	20416
+石头	shí;ak tóu;dd	20416
+时候	shí;to hou;ru	90573
+时候	shí;to hòu;ru	90573
+实在	shí;bd zai;ut	103889
+实在	shí;bd zài;ut	103889
+拾掇	shí;fk duo;fy	1115
+拾掇	shí;fk duō;fy	1115
+使唤	shǐ;rl huan;kr	1272
+使唤	shǐ;rl huàn;kr	1272
+世故	shì;cv gu;gw	1737
+世故	shì;cv gù;gw	1737
+事情	shì;gy qing;xo	61236
+事情	shì;gy qíng;xo	61236
+收成	shōu;jw cheng;gv	1281
+收成	shōu;jw chéng;gv	1281
+收拾	shōu;jw shi;fk	9392
+收拾	shōu;jw shí;fk	9392
+首饰	shǒu;bz shi;uj	7795
+首饰	shǒu;bz shì;uj	7795
+叔叔	shū;uy shu;uy	11998
+叔叔	shū;uy shū;uy	11998
+舒服	shū;ry fu;oy	26725
+舒服	shū;ry fú;oy	26725
+舒坦	shū;ry tan;td	1718
+舒坦	shū;ry tǎn;td	1718
+疏忽	shū;vi hu;wx	2666
+疏忽	shū;vi hū;wx	2666
+爽快	shuǎng;dx kuai;xg	2879
+爽快	shuǎng;dx kuài;xg	2879
+思量	sī;tx liang;ol	1083
+思量	sī;tx liáng;ol	1083
+算计	suàn;vc ji;yu	4157
+算计	suàn;vc jì;yu	4157
+岁数	suì;ux shu;mw	2952
+岁数	suì;ux shù;mw	2952
+太太	tài;dd tai;dd	8390
+太太	tài;dd tài;dd	8390
+特务	tè;nc wu;wl	1221
+特务	tè;nc wù;wl	1221
+挑剔	tiāo;fv ti;od	3875
+挑剔	tiāo;fv tī;od	3875
+跳蚤	tiào;zv zao;ii	1086
+跳蚤	tiào;zv zǎo;ii	1086
+铁匠	tiě;jf jiang;kt	1639
+铁匠	tiě;jf jiàng;kt	1639
+头发	tóu;dd fa;fy	36685
+头发	tóu;dd fà;fy	36685
+妥当	tuǒ;vn dang;xe	1488
+妥当	tuǒ;vn dàng;xe	1488
+唾沫	tuò;kt mo;dw	509
+唾沫	tuò;kt mò;dw	509
+挖苦	wā;fv ku;cg	1187
+挖苦	wā;fv kǔ;cg	1187
+娃娃	wá;nt wa;nt	4358
+娃娃	wá;nt wá;nt	4358
+晚上	wǎn;oe shang;ba	98266
+晚上	wǎn;oe shàng;ba	98266
+尾巴	wěi;um ba;sl	7404
+尾巴	wěi;um bā;sl	7404
+委屈	wěi;hn qu;ui	12613
+委屈	wěi;hn qū;ui	12613
+稳当	wěi;hx dang;xe	32237
+稳当	wěi;hx dàng;xe	32237
+稀罕	xī;hj han;bg	5944
+稀罕	xī;hj hǎn;bg	5944
+媳妇	xí;nx fu;ne	11577
+媳妇	xí;nx fù;ne	11577
+喜欢	xǐ;tk huan;yq	240700
+喜欢	xǐ;tk huān;yq	240700
+下巴	xià;ab ba;sl	9665
+下巴	xià;ab bā;sl	9665
+吓唬	xià;kx hu;kj	2016
+吓唬	xià;kx hǔ;kj	2016
+先生	xiān;ne sheng;pf	66317
+先生	xiān;ne shēng;pf	66317
+乡下	xiāng;vp xia;ab	12814
+乡下	xiāng;vp xià;ab	12814
+相声	xiàng;ao sheng;tu	7520
+相声	xiàng;ao shēng;tu	7520
+消息	xiāo;do xi;zx	55540
+消息	xiāo;do xī;zx	55540
+小气	xiǎo;lb qi;pv	1806
+小气	xiǎo;lb qì;pv	1806
+笑话	xiào;vy hua;yu	17810
+笑话	xiào;vy huà;yu	17810
+谢谢	xiè;yc xie;yc	39956
+谢谢	xiè;yc xiè;yc	39956
+心思	xīn;dd si;tx	15421
+心思	xīn;dd sī;tx	15421
+星星	xīng;ou xing;ou	15308
+星星	xīng;ou xīng;ou	15308
+猩猩	xīng;qu xing;qu	14543
+猩猩	xīng;qu xīng;qu	14543
+行李	xíng;rd li;az	5329
+行李	xíng;rd lǐ;az	5329
+兄弟	xiōng;ke di;bd	41925
+兄弟	xiōng;ke dì;bd	41925
+休息	xiū;ra xi;zx	34050
+休息	xiū;ra xī;zx	34050
+秀才	xiù;hn cai;up	4267
+秀才	xiù;hn cái;up	4267
+秀气	xiù;hn qi;pv	907
+秀气	xiù;hn qì;pv	907
+学生	xué;xz sheng;pf	324538
+学生	xué;xz shēng;pf	324538
+学问	xué;xz wen;mk	7140
+学问	xué;xz wèn;mk	7140
+丫头	yā;bl tou;dd	2732
+丫头	yā;bl tóu;dd	2732
+衙门	yá;rk men;dv	1319
+衙门	yá;rk mén;dv	1319
+哑巴	yǎ;ky ba;sl	1784
+哑巴	yǎ;ky bā;sl	1784
+胭脂	yān;oy zhi;oo	21910
+胭脂	yān;oy zhī;oo	21910
+烟筒	yān;hy tong;vk	452
+烟筒	yān;hy tǒng;vk	452
+眼睛	yǎn;og jing;oo	70069
+眼睛	yǎn;og jīng;oo	70069
+秧歌	yāng;hy ge;kq	573
+秧歌	yāng;hy gē;kq	573
+养活	yǎng;yl huo;du	6478
+养活	yǎng;yl huó;du	6478
+吆喝	yāo;ky he;kr	6907
+吆喝	yāo;ky hè;kr	6907
+妖精	yāo;ny jing;mo	2704
+妖精	yāo;ny jīng;mo	2704
+爷爷	yé;fe ye;fe	26263
+爷爷	yé;fe yé;fe	26263
+衣服	yī;wy fu;oy	61666
+衣服	yī;wy fú;oy	61666
+衣裳	yī;wy shang;xy	352429
+衣裳	yī;wy shāng;xy	352429
+意思	yì;lx si;tx	90777
+意思	yì;lx sī;tx	90777
+应酬	yìng;ga chou;yv	3077
+应酬	yìng;ga chóu;yv	3077
+冤枉	yuān;bt wang;aw	11428
+冤枉	yuān;bt wǎng;aw	11428
+月饼	yuè;ke bing;uk	2509
+月饼	yuè;ke bǐng;uk	2509
+月亮	yuè;ke liang;wj	17188
+月亮	yuè;ke liàng;wj	17188
+云彩	yún;ag cai;vp	1146
+云彩	yún;ag cǎi;vp	1146
+运气	yùn;zy qi;pv	25437
+运气	yùn;zy qì;pv	25437
+在乎	zài;ut hu;pl	13034
+在乎	zài;ut hū;pl	13034
+早上	zǎo;ou shang;ba	38390
+早上	zǎo;ou shàng;ba	38390
+扎实	zhā;fv shi;bd	16915
+扎实	zhā;fv shí;bd	16915
+眨巴	zhǎ;of ba;sl	44
+眨巴	zhǎ;of bā;sl	44
+栅栏	zhà;ac lan;al	1576
+栅栏	zhà;ac lán;al	1576
+张罗	zhāng;gi luo;sx	1454
+张罗	zhāng;gi luó;sx	1454
+丈夫	zhàng;an fu;er	21930
+丈夫	zhàng;an fū;er	21930
+帐篷	zhàng;ji peng;vf	8443
+帐篷	zhàng;ji péng;vf	8443
+丈人	zhàng;an ren;pn	254
+丈人	zhàng;an rén;pn	254
+招呼	zhāo;fk hu;kh	3947
+招呼	zhāo;fk hū;kh	3947
+招牌	zhāo;fk pai;pu	11018
+招牌	zhāo;fk pái;pu	11018
+折腾	zhē;ft teng;om	20341
+折腾	zhē;ft téng;om	20341
+这个	zhè;zw ge;rl	1742719
+这个	zhè;zw gè;rl	1742719
+枕头	zhěn;ae tou;dd	5690
+枕头	zhěn;ae tóu;dd	5690
+芝麻	zhī;cv ma;ga	3382
+芝麻	zhī;cv má;ga	3382
+知识	zhī;uk shi;yv	424797
+知识	zhī;uk shí;yv	424797
+指甲	zhī;fo jia;ol	6644
+指甲	zhī;fo jiǎ;ol	6644
+指头	zhǐ;fo tou;dd	1868
+指头	zhǐ;fo tóu;dd	1868
+主意	zhǔ;wt yi;lx	131186
+主意	zhǔ;wt yì;lx	131186
+转悠	zhuàn;iv you;rx	1545
+转悠	zhuàn;iv yōu;rx	1545
+庄稼	zhuāng;gt jia;hu	5689
+庄稼	zhuāng;gt jià;hu	5689
+壮实	zhuàng;lt shi;bd	13553
+壮实	zhuàng;lt shí;bd	13553
+状元	zhuàng;lq yuan;aw	5391
+状元	zhuàng;lq yuán;aw	5391
+字号	zì;bz hao;kk	3758
+字号	zì;bz hào;kk	3758
+自在	zì;po zai;ut	5128
+自在	zì;po zài;ut	5128
+祖宗	zǔ;pq zong;bu	4876
+祖宗	zǔ;pq zōng;bu	4876
+嘴巴	zuǐ;ky ba;sl	10607
+嘴巴	zuǐ;ky bā;sl	10607
+作坊	zuō;rv fang;tf	1777
+作坊	zuō;rv fáng;tf	1777
+琢磨	zuó;wu mo;gu	13216
+琢磨	zuó;wu mó;gu	13216
 #其他轻声词兼容
-出去	chu1;uu qv4;ts	60210
-教训	jiao4;lw xvn4;yi	10550
-作料	zuo2;rv liao4;md	1247
-使得	shi3;rl de2;rc	2454
-讲究	jiang3;yj jiu1;bj	17051
-考究	kao3;lk jiu1;bj	4148
-时辰	shi2;to chen2;iy	1313
-抽屉	chou1;fy ti4;uu	5969
-磨蹭	mo2;gu ceng4;zo	1222
-宽敞	kuan1;bj chang3;xw	1532
-显摆	xian3;oy bai3;fq	2207
-盘算	pan2;vm suan4;vc	1542
-糊弄	hu4;mo nong4;wc	4578
-祸害	huo4;pn hai4;bk	3049
-划拉	hua2;gd la1;fl	389
-费用	fei4;fb yong4;kf	84384
-毛躁	mao2;pv zao4;za	864
-活计	huo2;du ji4;yu	502
-交道	jiao1;wf dao4;zz	546
-当口	dang1;xe kou3;la	270
-扑扇	pu1;fb shan1;hx	181
-聊聊	liao2;ee liao2;ee	100
-揉搓	rou2;fa cuo1;fg	1083
-捣鼓	dao3;fu gu3;tv	2339
-知会	zhi1;uk hui4;ry	248
-德性	de2;rx xing4;xu	1529
-严实	yan2;ai shi2;bd	835
-消停	xiao1;do ting2;rd	229
-查查	cha2;ad cha2;ad	3978
-芋头	yv4;cy tou2;dd	2503
-一部分	yi2;aa bu4;le fen4;bd	125
-死乞白赖	si3;db qi3;pv bai2;po lai4;ub	195
-黑咕隆咚	hei1;lh gu1;kg long1;eu dong1;kd	100
-出去	chu1;uu qv5;ts	60210
-出去	chu5;uu qv5;ts	60210
-每个	mei3;pm ge5;rl	206295
-一个	yi2;aa ge5;rl	1967810
-常识	chang2;xj shi5;yv	72335
-意识	yi4;lx shi5;yv	59045
-潜意识	qian2;do yi4;lx shi5;yv	6553
-成绩	cheng2;gv ji5;sb	128884
-放肆	fang4;fw si5;ey	2000
-刺激	ci4;ud ji5;dw	46908
-太阳	tai4;dd yang5;eo	63886
-佩服	pei4;rj fu5;oy	10378
-父亲	fu4;bx qin5;la	89757
-母亲	mu3;md qin5;la	65070
-都督	du1;le du5;uo	367
-吩咐	fen1;kf fu5;kc	100
-错误	cuo4;jo wu5;yt	100
-埋伏	mai2;tl fu5;rq	100
-露水	lu4;yk shui5;ln	100
-证据	zheng4;yv jv5;fg	100
-聪明	cong1;ex ming5;oo	100
-指望	zhi3;fo wang5;ww	100
-喉咙	hou2;ku long5;kl	100
-神气	shen2;pu qi5;pv	100
-太监	tai4;dd jian5;lm	4327
+出去	chū;uu qù;ts	60210
+教训	jiào;lw xùn;yi	10550
+作料	zuó;rv liào;md	1247
+使得	shǐ;rl dé;rc	2454
+讲究	jiǎng;yj jiū;bj	17051
+考究	kǎo;lk jiū;bj	4148
+时辰	shí;to chén;iy	1313
+抽屉	chōu;fy tì;uu	5969
+磨蹭	mó;gu cèng;zo	1222
+宽敞	kuān;bj chǎng;xw	1532
+显摆	xiǎn;oy bǎi;fq	2207
+盘算	pán;vm suàn;vc	1542
+糊弄	hù;mo nòng;wc	4578
+祸害	huò;pn hài;bk	3049
+划拉	huá;gd lā;fl	389
+费用	fèi;fb yòng;kf	84384
+毛躁	máo;pv zào;za	864
+活计	huó;du jì;yu	502
+交道	jiāo;wf dào;zz	546
+当口	dāng;xe kǒu;la	270
+扑扇	pū;fb shān;hx	181
+聊聊	liáo;ee liáo;ee	100
+揉搓	róu;fa cuō;fg	1083
+捣鼓	dǎo;fu gǔ;tv	2339
+知会	zhī;uk huì;ry	248
+德性	dé;rx xìng;xu	1529
+严实	yán;ai shí;bd	835
+消停	xiāo;do tíng;rd	229
+查查	chá;ad chá;ad	3978
+芋头	yù;cy tóu;dd	2503
+一部分	yí;aa bù;le fèn;bd	125
+死乞白赖	sǐ;db qǐ;pv bái;po lài;ub	195
+黑咕隆咚	hēi;lh gū;kg lōng;eu dōng;kd	100
+出去	chū;uu qu;ts	60210
+出去	chu;uu qu;ts	60210
+每个	měi;pm ge;rl	206295
+一个	yí;aa ge;rl	1967810
+常识	cháng;xj shi;yv	72335
+意识	yì;lx shi;yv	59045
+潜意识	qián;do yì;lx shi;yv	6553
+成绩	chéng;gv ji;sb	128884
+放肆	fàng;fw si;ey	2000
+刺激	cì;ud ji;dw	46908
+太阳	tài;dd yang;eo	63886
+佩服	pèi;rj fu;oy	10378
+父亲	fù;bx qin;la	89757
+母亲	mǔ;md qin;la	65070
+都督	dū;le du;uo	367
+吩咐	fēn;kf fu;kc	100
+错误	cuò;jo wu;yt	100
+埋伏	mái;tl fu;rq	100
+露水	lù;yk shui;ln	100
+证据	zhèng;yv ju;fg	100
+聪明	cōng;ex ming;oo	100
+指望	zhǐ;fo wang;ww	100
+喉咙	hóu;ku long;kl	100
+神气	shén;pu qi;pv	100
+太监	tài;dd jian;lm	4327
 #《现代汉语词典》中注口语读音兼容
-碧油油	bi4;wu you1;dy you1;dy	100
-沉甸甸	chen2;dj dian1;bt dian1;bt	100
-乘势	chen4;qr shi4;fl	100
-乘胜	chen4;qr sheng4;ou	100
-打主意	da3;fd zhu2;wt yi5;lx	100
-二流子	er4;aa liu1;di zi5;la	100
-法子	fa2;dq zi5;la	100
-汗淋淋	han4;dg lin1;da lin1;da	100
-好好	hao3;nz hao1;nz	100
-好好儿	hao3;nz hao1;nz er5;pv	100
-黑洞洞	hei1;lh dong1;dk dong1;dk	100
-黑黝黝	hei1;lh you1;ll you1;ll	171
-黑油油	hei1;lh you1;dy you1;dy	60
-红彤彤	hong2;sg tong1;dp tong1;dp	200
-会儿	hui3;ry er5;pv	100
-会子	hui3;ry zi5;la	100
-脚指头	jiao3;oe zhi2;fo tou5;dd	100
-空落落	kong1;bg lao4;ck lao4;ck	100
-亮堂堂	liang4;wj tang1;xt tang1;xt	100
-绿油油	lv4;su you1;dy you1;dy	150
-乱腾腾	luan4;uv teng1;om teng1;om	100
-乱蓬蓬	luan4;uv peng1;cf peng1;cf	100
-麻麻黑	ma1;ga ma5;ga hei1;lh	100
-麻麻亮	ma1;ga ma5;ga liang4;wj	100
-拿主意	na2;ru zhu2;wt yi5;lx	100
-哪会儿	na3;ke hui3;ry er5;pv	100
-那会儿	na4;ve hui3;ry er5;pv	100
-热腾腾	re4;fh teng1;om teng1;om	100
-湿淋淋	shi1;dy lin1;da lin1;da	100
-湿漉漉	shi1;dy lu1;db lu1;db	100
-屎壳郎	shi3;um ke2;tj lang2;le	100
-屎壳郎	shi3;um ke5;tj lang2;le	100
-屎壳郎	shi3;um ke2;tj lang4;le	100
-屎壳郎	shi3;um ke5;tj lang4;le	100
-手指头	shou3;pf zhi2;fo tou5;dd	100
-手指头肚儿	shou3;pf zhi2;fo tou5;dd du4;ot er5;pv	100
-水淋淋	shui3;ln lin1;da lin1;da	100
-馊主意	sou1;uy zhu2;wt yi5;lx	100
-褪色	tui4;pg shai3;db	566
-退色	tui4;zg shai3;db	452
-乌油油	wu1;pa you1;dy you1;dy	100
-血淋淋	xve4;pm lin1;da lin1;da	100
-寻短见	xin2;ec duan3;ub jian4;ke	100
-寻开心	xin2;ec kai1;ac xin1;dd	100
-寻思	xin2;ec si5;tx	450
-寻死	xin2;ec si3;db	410
-寻死觅活	xin2;ec si3;db mi4;vj huo2;du	100
-一把手	yi1;aa ba3;fb shou3;pf	100
-一本正经	yi4;aa ben3;aa zheng4;av jing3;sj	100
-一会儿	yi1;aa hui4;ry er5;pv	100
-一会儿	yi4;aa hui4;ry er5;pv	100
-一会儿	yi4;aa hui3;ry er5;pv	100
-一会儿	yi1;aa hui3;ry er5;pv	100
-一会儿	yi2;aa hui3;ry er5;pv	100
-一时半会	yi4;aa shi2;to ban4;bf hui3;ry	100
-一时半会儿	yi4;aa shi2;to ban4;bf hui3;ry er5;pv	100
-有会子	you3;uo hui3;ry zi5;la	100
-早早	zao3;ou zao1;ou	100
-早早儿	zao3;ou zao1;ou er5;pv	100
-这会儿	zhe4;zw hui3;ry er5;pv	100
-这么	ze4;zw me5;ps	100
-正儿八经	zheng4;av er5;pv ba1;pn jing3;sj	100
-正经	zheng4;av jing3;sj	100
-正经	zheng4;av jing5;sj	100
-直瞪瞪	zhi2;uq deng1;ob deng1;ob	100
-直愣愣	zhi2;uq leng1;xf leng1;xf	100
-指甲	zhi1;fo jia5;ol	100
-指甲盖	zhi1;fo jia5;ol gai4;ym	100
-指甲盖儿	zhi1;fo jia5;ol gai4;ym er5;pv	100
-指甲花	zhi1;fo jia5;ol hua1;cb	100
-指甲心儿	zhi1;fo jia5;ol xin1;dd er5;pv	100
-指头	zhi2;fo tou5;dd	100
-指头肚儿	zhi2;fo tou5;dd du4;ot er5;pv	100
-主意	zhu2;wt yi5;lx	100
-作践	zuo2;rv jian5;zj	100
-作料	zuo2;rv liao5;md	100
-作弄	zuo1;rv nong4;wc	100
-作死	zuo1;rv si3;db	100
-作揖	zuo1;rv yi1;fe	100
+碧油油	bì;wu yōu;dy yōu;dy	100
+沉甸甸	chén;dj diān;bt diān;bt	100
+乘势	chèn;qr shì;fl	100
+乘胜	chèn;qr shèng;ou	100
+打主意	dǎ;fd zhú;wt yi;lx	100
+二流子	èr;aa liū;di zi;la	100
+法子	fá;dq zi;la	100
+汗淋淋	hàn;dg līn;da līn;da	100
+好好	hǎo;nz hāo;nz	100
+好好儿	hǎo;nz hāo;nz er;pv	100
+黑洞洞	hēi;lh dōng;dk dōng;dk	100
+黑黝黝	hēi;lh yōu;ll yōu;ll	171
+黑油油	hēi;lh yōu;dy yōu;dy	60
+红彤彤	hóng;sg tōng;dp tōng;dp	200
+会儿	huǐ;ry er;pv	100
+会子	huǐ;ry zi;la	100
+脚指头	jiǎo;oe zhí;fo tou;dd	100
+空落落	kōng;bg lào;ck lào;ck	100
+亮堂堂	liàng;wj tāng;xt tāng;xt	100
+绿油油	lǜ;su yōu;dy yōu;dy	150
+乱腾腾	luàn;uv tēng;om tēng;om	100
+乱蓬蓬	luàn;uv pēng;cf pēng;cf	100
+麻麻黑	mā;ga ma;ga hēi;lh	100
+麻麻亮	mā;ga ma;ga liàng;wj	100
+拿主意	ná;ru zhú;wt yi;lx	100
+哪会儿	nǎ;ke huǐ;ry er;pv	100
+那会儿	nà;ve huǐ;ry er;pv	100
+热腾腾	rè;fh tēng;om tēng;om	100
+湿淋淋	shī;dy līn;da līn;da	100
+湿漉漉	shī;dy lū;db lū;db	100
+屎壳郎	shǐ;um ké;tj láng;le	100
+屎壳郎	shǐ;um ke;tj láng;le	100
+屎壳郎	shǐ;um ké;tj làng;le	100
+屎壳郎	shǐ;um ke;tj làng;le	100
+手指头	shǒu;pf zhí;fo tou;dd	100
+手指头肚儿	shǒu;pf zhí;fo tou;dd dù;ot er;pv	100
+水淋淋	shuǐ;ln līn;da līn;da	100
+馊主意	sōu;uy zhú;wt yi;lx	100
+褪色	tuì;pg shǎi;db	566
+退色	tuì;zg shǎi;db	452
+乌油油	wū;pa yōu;dy yōu;dy	100
+血淋淋	xuè;pm līn;da līn;da	100
+寻短见	xín;ec duǎn;ub jiàn;ke	100
+寻开心	xín;ec kāi;ac xīn;dd	100
+寻思	xín;ec si;tx	450
+寻死	xín;ec sǐ;db	410
+寻死觅活	xín;ec sǐ;db mì;vj huó;du	100
+一把手	yī;aa bǎ;fb shǒu;pf	100
+一本正经	yì;aa běn;aa zhèng;av jǐng;sj	100
+一会儿	yī;aa huì;ry er;pv	100
+一会儿	yì;aa huì;ry er;pv	100
+一会儿	yì;aa huǐ;ry er;pv	100
+一会儿	yī;aa huǐ;ry er;pv	100
+一会儿	yí;aa huǐ;ry er;pv	100
+一时半会	yì;aa shí;to bàn;bf huǐ;ry	100
+一时半会儿	yì;aa shí;to bàn;bf huǐ;ry er;pv	100
+有会子	yǒu;uo huǐ;ry zi;la	100
+早早	zǎo;ou zāo;ou	100
+早早儿	zǎo;ou zāo;ou er;pv	100
+这会儿	zhè;zw huǐ;ry er;pv	100
+这么	zè;zw me;ps	100
+正儿八经	zhèng;av er;pv bā;pn jǐng;sj	100
+正经	zhèng;av jǐng;sj	100
+正经	zhèng;av jing;sj	100
+直瞪瞪	zhí;uq dēng;ob dēng;ob	100
+直愣愣	zhí;uq lēng;xf lēng;xf	100
+指甲	zhī;fo jia;ol	100
+指甲盖	zhī;fo jia;ol gài;ym	100
+指甲盖儿	zhī;fo jia;ol gài;ym er;pv	100
+指甲花	zhī;fo jia;ol huā;cb	100
+指甲心儿	zhī;fo jia;ol xīn;dd er;pv	100
+指头	zhí;fo tou;dd	100
+指头肚儿	zhí;fo tou;dd dù;ot er;pv	100
+主意	zhú;wt yi;lx	100
+作践	zuó;rv jian;zj	100
+作料	zuó;rv liao;md	100
+作弄	zuō;rv nòng;wc	100
+作死	zuō;rv sǐ;db	100
+作揖	zuō;rv yī;fe	100
 #文白异读兼容
-血霉	xie3;pm mei2;ym	508
-血霉	xve4;pm mei2;ym	508
-血诏	xve4;pm zhao4;yk	1
-血诏	xie3;pm zhao4;yk	1
-血迹	xve4;pm ji4;zb	1780
-血迹	xie3;pm ji4;zb	1780
-滴血	di1;dg xie3;pm	1225
-滴血	di1;dg xve4;pm	1225
-泣血	qi4;dl xie3;pm	206
-泣血	qi4;dl xve4;pm	206
-舔血	tian3;ux xie3;pm	1
-舔血	tian3;ux xve4;pm	1
-晕血	yvn4;oi xie3;pm	182
-晕血	yvn4;oi xve4;pm	182
-渗血	shen4;dp xie3;pm	783
-渗血	shen4;dp xve4;pm	783
-鸡血	ji1;yn xie3;pm	2681
-鸡血	ji1;yn xve4;pm	2681
-鸭血	ya1;jn xie3;pm	593
-鸭血	ya1;jn xve4;pm	593
-狗血	gou3;qj xie3;pm	3583
-狗血	gou3;qj xve4;pm	3683
-人血	ren2;pn xie3;pm	490
-人血	ren2;pn xve4;pm	490
-血淋淋	xie3;pm lin2;da lin2;da	422
-血淋淋	xve4;pm lin2;da lin2;da	422
-剥开	bo1;ed kai1;ac	1408
-剥开	bao1;ed kai1;ac	1408
-泄露	xie4;du lu4;yk	7847
-泄露	xie4;du lou4;yk	7847
-财不外露	cai2;bc bu4;ab wai4;xb lu4;yk	30
-财不外露	cai2;bc bu4;ab wai4;xb lou4;yk	30
-深藏不露	shen1;da cang2;ci bu2;ab lu4;yk	56
-深藏不露	shen1;da cang2;ci bu2;ab lou4;yk	56
-薄薄	bao2;cc bao2;cc	496
-薄薄	bo2;cc bo2;cc	496
-不薄	bu4;ab bao2;cc	233
-不薄	bu4;ab bo2;cc	233
-纤薄	xian1;sq bao2;cc	575
-纤薄	xian1;sq bo2;cc	575
-甲壳	jia3;ol qiao4;tj	295
-甲壳	jia3;ol ke2;tj	295
-密钥	mi4;bu yve4;jo	5702
-密钥	mi4;bu yao4;jo	5702
-公钥	gong1;bs yve4;jo	2207
-公钥	gong1;bs yao4;jo	2207
-私钥	si1;hs yve4;jo	2474
-私钥	si1;hs yao4;jo	2474
-确凿	qve4;uy zuo4;yg	951
+血霉	xiě;pm méi;ym	508
+血霉	xuè;pm méi;ym	508
+血诏	xuè;pm zhào;yk	1
+血诏	xiě;pm zhào;yk	1
+血迹	xuè;pm jì;zb	1780
+血迹	xiě;pm jì;zb	1780
+滴血	dī;dg xiě;pm	1225
+滴血	dī;dg xuè;pm	1225
+泣血	qì;dl xiě;pm	206
+泣血	qì;dl xuè;pm	206
+舔血	tiǎn;ux xiě;pm	1
+舔血	tiǎn;ux xuè;pm	1
+晕血	yùn;oi xiě;pm	182
+晕血	yùn;oi xuè;pm	182
+渗血	shèn;dp xiě;pm	783
+渗血	shèn;dp xuè;pm	783
+鸡血	jī;yn xiě;pm	2681
+鸡血	jī;yn xuè;pm	2681
+鸭血	yā;jn xiě;pm	593
+鸭血	yā;jn xuè;pm	593
+狗血	gǒu;qj xiě;pm	3583
+狗血	gǒu;qj xuè;pm	3683
+人血	rén;pn xiě;pm	490
+人血	rén;pn xuè;pm	490
+血淋淋	xiě;pm lín;da lín;da	422
+血淋淋	xuè;pm lín;da lín;da	422
+剥开	bō;ed kāi;ac	1408
+剥开	bāo;ed kāi;ac	1408
+泄露	xiè;du lù;yk	7847
+泄露	xiè;du lòu;yk	7847
+财不外露	cái;bc bù;ab wài;xb lù;yk	30
+财不外露	cái;bc bù;ab wài;xb lòu;yk	30
+深藏不露	shēn;da cáng;ci bú;ab lù;yk	56
+深藏不露	shēn;da cáng;ci bú;ab lòu;yk	56
+薄薄	báo;cc báo;cc	496
+薄薄	bó;cc bó;cc	496
+不薄	bù;ab báo;cc	233
+不薄	bù;ab bó;cc	233
+纤薄	xiān;sq báo;cc	575
+纤薄	xiān;sq bó;cc	575
+甲壳	jiǎ;ol qiào;tj	295
+甲壳	jiǎ;ol ké;tj	295
+密钥	mì;bu yuè;jo	5702
+密钥	mì;bu yào;jo	5702
+公钥	gōng;bs yuè;jo	2207
+公钥	gōng;bs yào;jo	2207
+私钥	sī;hs yuè;jo	2474
+私钥	sī;hs yào;jo	2474
+确凿	què;uy zuò;yg	951
 #破音异读兼容
-骑兵	qi2;mk bing1;qb	11084
-骑兵	ji4;mk bing1;qb	11084
-骑士	qi2;mk shi4;ua	7218
-骑士	ji4;mk shi4;ua	7218
-坐骑	zuo4;tr qi2;mk	6950
-坐骑	zuo4;tr ji4;mk	6950
-铁骑	tie3;jf qi2;mk	1026
-铁骑	tie3;jf ji4;mk	1026
-胡骑	hu2;go qi2;mk	142
-胡骑	hu2;go ji4;mk	142
-车骑	che1;au qi2;mk	1184
-车骑	che1;au ji4;mk	1184
-骠骑	piao4;mu qi2;mk	280
-骠骑	piao4;mu ji4;mk	280
-骁骑	xiao1;mw qi2;mk	11
-骁骑	xiao1;mw ji4;mk	11
-轻骑	qing1;ij qi2;mk	3049
-轻骑	qing1;ij ji4;mk	3049
-步骑	bu4;vu qi2;mk	1077
-步骑	bu4;vu ji4;mk	1077
-战骑	zhan4;vg qi2;mk	1
-战骑	zhan4;vg ji4;mk	1
-游骑	you2;dz qi2;mk	1
-游骑	you2;dz ji4;mk	1
-精骑	jing1;mo qi2;mk	1
-精骑	jing1;mo ji4;mk	1
-候骑	hou4;ru qi2;mk	1
-候骑	hou4;ru ji4;mk	1
-飞骑	fei1;vd qi2;mk	1
-飞骑	fei1;vd ji4;mk	1
-哨骑	shao4;ko qi2;mk	1
-哨骑	shao4;ko ji4;mk	1
-猎骑	lie4;qo qi2;mk	1
-猎骑	lie4;qo ji4;mk	1
-一骑	yi4;aa qi2;mk	50
-一骑	yi2;aa ji4;mk	50
-单骑	dan1;bu qi2;mk	7141
-单骑	dan1;bu ji4;mk	7141
-双骑	shuang1;yy qi2;mk	1
-双骑	shuang1;yy ji4;mk	1
-两骑	liang3;ar qi2;mk	1
-两骑	liang3;ar ji4;mk	1
-二骑	er4;aa qi2;mk	1
-二骑	er4;aa ji4;mk	1
-三骑	san1;ae qi2;mk	1
-三骑	san1;ae ji4;mk	1
-四骑	si4;we qi2;mk	1
-四骑	si4;we ji4;mk	1
-五骑	wu3;aw qi2;mk	1
-五骑	wu3;aw ji4;mk	1
-六骑	liu4;wb qi2;mk	1
-六骑	liu4;wb ji4;mk	1
-七骑	qi1;av qi2;mk	1
-七骑	qi1;av ji4;mk	1
-八骑	ba1;pn qi2;mk	1
-八骑	ba1;pn ji4;mk	1
-九骑	jiu3;pv qi2;mk	1
-九骑	jiu3;pv ji4;mk	1
-十骑	shi2;al qi2;mk	1
-十骑	shi2;al ji4;mk	1
-十八骑	shi2;al ba1;pn qi2;mk	477
-十八骑	shi2;al ba1;pn ji4;mk	477
-百骑	bai3;ab qi2;mk	1
-百骑	bai3;ab ji4;mk	1
-千骑	qian1;pu qi2;mk	2002
-千骑	qian1;pu ji4;mk	2002
-万骑	wan4;av qi2;mk	181
-万骑	wan4;av ji4;mk	181
-数骑	shu4;mw qi2;mk	1
-数骑	shu4;mw ji4;mk	1
-雨花台	yv3;ad hua1;cb tai2;sk	144
-雨花台	yv4;ad hua1;cb tai2;sk	144
-衣锦	yi4;wy jin3;jj	1
-衣锦	yi1;wy jin3;jj	1
-衣绣	yi4;wy xiu4;sn	1
-衣绣	yi1;wy xiu4;sn	1
-随从	sui2;eo cong2;rr	1
-随从	sui2;eo zong4;rr	1
-侍从	shi4;rc cong2;rr	1
-侍从	shi4;rc zong4;rr	1
-仆从	pu2;rb cong2;rr	1
-仆从	pu2;rb zong4;rr	1
-从堂	cong2;rr tang2;xt	1
-从堂	zong4;rr tang2;xt	1
-从兄弟	cong2;rr xiong1;ke di4;bd	1
-从兄弟	zong4;rr xiong1;ke di4;bd	1
-从姊妹	cong2;rr zi3;nd mei4;nw	1
-从姊妹	zong4;rr zi3;nd mei4;nw	1
-从伯叔	cong2;rr bo2;rb shu1;uy	1
-从伯叔	zong4;rr bo2;rb shu1;uy	1
-从叔伯	cong2;rr shu1;uy bo2;rb	1
-从叔伯	zong4;rr shu1;uy bo2;rb	1
-从兄	cong2;rr xiong1;ke	1
-从兄	zong4;rr xiong1;ke	1
-从哥	cong2;rr ge1;kk	1
-从哥	zong4;rr ge1;kk	1
-从弟	cong2;rr di4;bd	1
-从弟	zong4;rr di4;bd	1
-从姐	cong2;rr jie3;nq	1
-从姐	zong4;rr jie3;nq	1
-从妹	cong2;rr mei4;nw	1
-从妹	zong4;rr mei4;nw	1
-从伯	cong2;rr bo2;rb	1
-从伯	zong4;rr bo2;rb	1
-从叔	cong2;rr shu1;uy	1
-从叔	zong4;rr shu1;uy	1
-从侄	cong2;rr zhi2;rt	1
-从侄	zong4;rr zhi2;rt	1
-主从	zhu3;wt cong2;rr	1
-主从	zhu3;wt zong4;rr	1
-首从	shou3;bz cong2;rr	1
-首从	shou3;bz zong4;rr	1
-从犯	cong2;rr fan4;qv	1
-从犯	zong4;rr fan4;qv	1
-从吏	cong2;rr li4;gn	1
-从吏	zong4;rr li4;gn	1
-从句	cong2;rr jv4;bk	1
-从句	zong4;rr jv4;bk	1
-从一品	cong2;rr yi1;aa pin3;kk	1
-从一品	zong4;rr yi1;aa pin3;kk	1
-从二品	cong2;rr er4;aa pin3;kk	1  1
-从二品	zong4;rr er4;aa pin3;kk	1
-从三品	cong2;rr san1;ae pin3;kk	1
-从三品	zong4;rr san1;ae pin3;kk	1
-从四品	cong2;rr si4;we pin3;kk	1
-从四品	zong4;rr si4;we pin3;kk	1
-从五品	cong2;rr wu3;aw pin3;kk	1
-从五品	zong4;rr wu3;aw pin3;kk	1
-从六品	cong2;rr liu4;wb pin3;kk	1
-从六品	zong4;rr liu4;wb pin3;kk	1
-从七品	cong2;rr qi1;av pin3;kk	1
-从七品	zong4;rr qi1;av pin3;kk	1
-从八品	cong2;rr ba1;pn pin3;kk	1
-从八品	zong4;rr ba1;pn pin3;kk	1
-从九品	cong2;rr jiu3;pv pin3;kk	1
-从九品	zong4;rr jiu3;pv pin3;kk	1
+骑兵	qí;mk bīng;qb	11084
+骑兵	jì;mk bīng;qb	11084
+骑士	qí;mk shì;ua	7218
+骑士	jì;mk shì;ua	7218
+坐骑	zuò;tr qí;mk	6950
+坐骑	zuò;tr jì;mk	6950
+铁骑	tiě;jf qí;mk	1026
+铁骑	tiě;jf jì;mk	1026
+胡骑	hú;go qí;mk	142
+胡骑	hú;go jì;mk	142
+车骑	chē;au qí;mk	1184
+车骑	chē;au jì;mk	1184
+骠骑	piào;mu qí;mk	280
+骠骑	piào;mu jì;mk	280
+骁骑	xiāo;mw qí;mk	11
+骁骑	xiāo;mw jì;mk	11
+轻骑	qīng;ij qí;mk	3049
+轻骑	qīng;ij jì;mk	3049
+步骑	bù;vu qí;mk	1077
+步骑	bù;vu jì;mk	1077
+战骑	zhàn;vg qí;mk	1
+战骑	zhàn;vg jì;mk	1
+游骑	yóu;dz qí;mk	1
+游骑	yóu;dz jì;mk	1
+精骑	jīng;mo qí;mk	1
+精骑	jīng;mo jì;mk	1
+候骑	hòu;ru qí;mk	1
+候骑	hòu;ru jì;mk	1
+飞骑	fēi;vd qí;mk	1
+飞骑	fēi;vd jì;mk	1
+哨骑	shào;ko qí;mk	1
+哨骑	shào;ko jì;mk	1
+猎骑	liè;qo qí;mk	1
+猎骑	liè;qo jì;mk	1
+一骑	yì;aa qí;mk	50
+一骑	yí;aa jì;mk	50
+单骑	dān;bu qí;mk	7141
+单骑	dān;bu jì;mk	7141
+双骑	shuāng;yy qí;mk	1
+双骑	shuāng;yy jì;mk	1
+两骑	liǎng;ar qí;mk	1
+两骑	liǎng;ar jì;mk	1
+二骑	èr;aa qí;mk	1
+二骑	èr;aa jì;mk	1
+三骑	sān;ae qí;mk	1
+三骑	sān;ae jì;mk	1
+四骑	sì;we qí;mk	1
+四骑	sì;we jì;mk	1
+五骑	wǔ;aw qí;mk	1
+五骑	wǔ;aw jì;mk	1
+六骑	liù;wb qí;mk	1
+六骑	liù;wb jì;mk	1
+七骑	qī;av qí;mk	1
+七骑	qī;av jì;mk	1
+八骑	bā;pn qí;mk	1
+八骑	bā;pn jì;mk	1
+九骑	jiǔ;pv qí;mk	1
+九骑	jiǔ;pv jì;mk	1
+十骑	shí;al qí;mk	1
+十骑	shí;al jì;mk	1
+十八骑	shí;al bā;pn qí;mk	477
+十八骑	shí;al bā;pn jì;mk	477
+百骑	bǎi;ab qí;mk	1
+百骑	bǎi;ab jì;mk	1
+千骑	qiān;pu qí;mk	2002
+千骑	qiān;pu jì;mk	2002
+万骑	wàn;av qí;mk	181
+万骑	wàn;av jì;mk	181
+数骑	shù;mw qí;mk	1
+数骑	shù;mw jì;mk	1
+雨花台	yǔ;ad huā;cb tái;sk	144
+雨花台	yù;ad huā;cb tái;sk	144
+衣锦	yì;wy jǐn;jj	1
+衣锦	yī;wy jǐn;jj	1
+衣绣	yì;wy xiù;sn	1
+衣绣	yī;wy xiù;sn	1
+随从	suí;eo cóng;rr	1
+随从	suí;eo zòng;rr	1
+侍从	shì;rc cóng;rr	1
+侍从	shì;rc zòng;rr	1
+仆从	pú;rb cóng;rr	1
+仆从	pú;rb zòng;rr	1
+从堂	cóng;rr táng;xt	1
+从堂	zòng;rr táng;xt	1
+从兄弟	cóng;rr xiōng;ke dì;bd	1
+从兄弟	zòng;rr xiōng;ke dì;bd	1
+从姊妹	cóng;rr zǐ;nd mèi;nw	1
+从姊妹	zòng;rr zǐ;nd mèi;nw	1
+从伯叔	cóng;rr bó;rb shū;uy	1
+从伯叔	zòng;rr bó;rb shū;uy	1
+从叔伯	cóng;rr shū;uy bó;rb	1
+从叔伯	zòng;rr shū;uy bó;rb	1
+从兄	cóng;rr xiōng;ke	1
+从兄	zòng;rr xiōng;ke	1
+从哥	cóng;rr gē;kk	1
+从哥	zòng;rr gē;kk	1
+从弟	cóng;rr dì;bd	1
+从弟	zòng;rr dì;bd	1
+从姐	cóng;rr jiě;nq	1
+从姐	zòng;rr jiě;nq	1
+从妹	cóng;rr mèi;nw	1
+从妹	zòng;rr mèi;nw	1
+从伯	cóng;rr bó;rb	1
+从伯	zòng;rr bó;rb	1
+从叔	cóng;rr shū;uy	1
+从叔	zòng;rr shū;uy	1
+从侄	cóng;rr zhí;rt	1
+从侄	zòng;rr zhí;rt	1
+主从	zhǔ;wt cóng;rr	1
+主从	zhǔ;wt zòng;rr	1
+首从	shǒu;bz cóng;rr	1
+首从	shǒu;bz zòng;rr	1
+从犯	cóng;rr fàn;qv	1
+从犯	zòng;rr fàn;qv	1
+从吏	cóng;rr lì;gn	1
+从吏	zòng;rr lì;gn	1
+从句	cóng;rr jù;bk	1
+从句	zòng;rr jù;bk	1
+从一品	cóng;rr yī;aa pǐn;kk	1
+从一品	zòng;rr yī;aa pǐn;kk	1
+从二品	cóng;rr èr;aa pǐn;kk	1  1
+从二品	zòng;rr èr;aa pǐn;kk	1
+从三品	cóng;rr sān;ae pǐn;kk	1
+从三品	zòng;rr sān;ae pǐn;kk	1
+从四品	cóng;rr sì;we pǐn;kk	1
+从四品	zòng;rr sì;we pǐn;kk	1
+从五品	cóng;rr wǔ;aw pǐn;kk	1
+从五品	zòng;rr wǔ;aw pǐn;kk	1
+从六品	cóng;rr liù;wb pǐn;kk	1
+从六品	zòng;rr liù;wb pǐn;kk	1
+从七品	cóng;rr qī;av pǐn;kk	1
+从七品	zòng;rr qī;av pǐn;kk	1
+从八品	cóng;rr bā;pn pǐn;kk	1
+从八品	zòng;rr bā;pn pǐn;kk	1
+从九品	cóng;rr jiǔ;pv pǐn;kk	1
+从九品	zòng;rr jiǔ;pv pǐn;kk	1
 #叶（xié）韵兼容
-乐山乐水	le4;px shan1;kl le4;px shui3;ln	346
-乐山乐水	yao4;px shan1;kl yao4;px shui3;ln	346
-乐山爱水	le4;px shan1;kl ai4;vy shui3;ln	76
-乐山爱水	yao4;px shan1;kl ai4;vy shui3;ln	76
-仁者乐山	ren2;re zhe3;lo le4;px shan1;kl	57
-仁者乐山	ren2;re zhe3;lo yao4;px shan1;kl	57
-智者乐水	zhi4;uo zhe3;lo le4;px shui3;ln	558
-智者乐水	zhi4;uo zhe3;lo yao4;px shui3;ln	558
-知者乐水	zhi4;uk zhe3;lo le4;px shui3;ln	281
-知者乐水	zhi4;uk zhe3;lo yao4;px shui3;ln	281
-笼盖四野	long2;vl gai4;ym si4;we ye3;ly	1
-笼盖四野	long2;vl gai4;ym si4;we ya3;ly	1
-青山郭外斜	qiang1;fo shan1;kl guo1;we wai4;xb xie2;rd	1
-青山郭外斜	qiang1;fo shan1;kl guo1;we wai4;xb xia2;rd	1
-远上寒山石径斜	yvan3;zy shang4;ba han2;bd shan1;kl shi2;ak jing4;rj xie2;rd	1
-远上寒山石径斜	yvan3;zy shang4;ba han2;bd shan1;kl shi2;ak jing4;rj xia2;rd	1
-北斗阑干南斗斜	bei3;lb dou3;ud lan2;mj gan1;au nan2;ug dou3;ud xie2;rd	1
-北斗阑干南斗斜	bei3;lb dou3;ud lan2;mj gan1;au nan2;ug dou3;ud xia2;rd	1
-寒食东风御柳斜	han2;bd shi2;rg dong1;ax feng1;jx yv4;re liu3;ae xie2;rd	1
-寒食东风御柳斜	han2;bd shi2;rg dong1;ax feng1;jx yv4;re liu3;ae xia2;rd	1
-浩荡离愁白日斜	hao4;dk dang4;cp li2;wn chou2;hx bai2;po ri4;wa xie2;rd	1
-浩荡离愁白日斜	hao4;dk dang4;cp li2;wn chou2;hx bai2;po ri4;wa xia2;rd	1
-乌衣巷口夕阳斜	wu1;pa yi1;wy xiang4;gs kou3;la xi1;pd yang2;eo xie2;rd	1
-乌衣巷口夕阳斜	wu1;pa yi1;wy xiang4;gs kou3;la xi1;pd yang2;eo xia2;rd	1
-江潭落月复西斜	jiang1;dg tan2;du luo4;ck yve4;ke fu4;pw xi1;ak xie2;rd	1
-江潭落月复西斜	jiang1;dg tan2;du luo4;ck yve4;ke fu4;pw xi1;ak xia2;rd	1
-连云芳草日初斜	lian2;zi yvn2;ag fang1;cf cao3;cu ri4;wa chu1;pd xie2;rd	1
-连云芳草日初斜	lian2;zi yvn2;ag fang1;cf cao3;cu ri4;wa chu1;pd xia2;rd	1
-秋天漠漠向昏黑	qiu1;hh tian1;ad mo4;dd mo4;dd xiang4;pk hun1;uo hei1;lh	1
-秋天漠漠向昏黑	qiu1;hh tian1;ad mo4;dd mo4;dd xiang4;pk hun1;uo he4;lh	1
-两鬓苍苍十指黑	liang3;ar bin4;eb cang1;cv cang1;cv shi2;al zhi3;fo hei1;lh	1
-两鬓苍苍十指黑	liang3;ar bin4;eb cang1;cv cang1;cv shi2;al zhi3;fo he4;lh	1
+乐山乐水	lè;px shān;kl lè;px shuǐ;ln	346
+乐山乐水	yào;px shān;kl yào;px shuǐ;ln	346
+乐山爱水	lè;px shān;kl ài;vy shuǐ;ln	76
+乐山爱水	yào;px shān;kl ài;vy shuǐ;ln	76
+仁者乐山	rén;re zhě;lo lè;px shān;kl	57
+仁者乐山	rén;re zhě;lo yào;px shān;kl	57
+智者乐水	zhì;uo zhě;lo lè;px shuǐ;ln	558
+智者乐水	zhì;uo zhě;lo yào;px shuǐ;ln	558
+知者乐水	zhì;uk zhě;lo lè;px shuǐ;ln	281
+知者乐水	zhì;uk zhě;lo yào;px shuǐ;ln	281
+笼盖四野	lóng;vl gài;ym sì;we yě;ly	1
+笼盖四野	lóng;vl gài;ym sì;we yǎ;ly	1
+青山郭外斜	qiāng;fo shān;kl guō;we wài;xb xié;rd	1
+青山郭外斜	qiāng;fo shān;kl guō;we wài;xb xiá;rd	1
+远上寒山石径斜	yuǎn;zy shàng;ba hán;bd shān;kl shí;ak jìng;rj xié;rd	1
+远上寒山石径斜	yuǎn;zy shàng;ba hán;bd shān;kl shí;ak jìng;rj xiá;rd	1
+北斗阑干南斗斜	běi;lb dǒu;ud lán;mj gān;au nán;ug dǒu;ud xié;rd	1
+北斗阑干南斗斜	běi;lb dǒu;ud lán;mj gān;au nán;ug dǒu;ud xiá;rd	1
+寒食东风御柳斜	hán;bd shí;rg dōng;ax fēng;jx yù;re liǔ;ae xié;rd	1
+寒食东风御柳斜	hán;bd shí;rg dōng;ax fēng;jx yù;re liǔ;ae xiá;rd	1
+浩荡离愁白日斜	hào;dk dàng;cp lí;wn chóu;hx bái;po rì;wa xié;rd	1
+浩荡离愁白日斜	hào;dk dàng;cp lí;wn chóu;hx bái;po rì;wa xiá;rd	1
+乌衣巷口夕阳斜	wū;pa yī;wy xiàng;gs kǒu;la xī;pd yáng;eo xié;rd	1
+乌衣巷口夕阳斜	wū;pa yī;wy xiàng;gs kǒu;la xī;pd yáng;eo xiá;rd	1
+江潭落月复西斜	jiāng;dg tán;du luò;ck yuè;ke fù;pw xī;ak xié;rd	1
+江潭落月复西斜	jiāng;dg tán;du luò;ck yuè;ke fù;pw xī;ak xiá;rd	1
+连云芳草日初斜	lián;zi yún;ag fāng;cf cǎo;cu rì;wa chū;pd xié;rd	1
+连云芳草日初斜	lián;zi yún;ag fāng;cf cǎo;cu rì;wa chū;pd xiá;rd	1
+秋天漠漠向昏黑	qiū;hh tiān;ad mò;dd mò;dd xiàng;pk hūn;uo hēi;lh	1
+秋天漠漠向昏黑	qiū;hh tiān;ad mò;dd mò;dd xiàng;pk hūn;uo hè;lh	1
+两鬓苍苍十指黑	liǎng;ar bìn;eb cāng;cv cāng;cv shí;al zhǐ;fo hēi;lh	1
+两鬓苍苍十指黑	liǎng;ar bìn;eb cāng;cv cāng;cv shí;al zhǐ;fo hè;lh	1
 #方言异读兼容
-搭界	da1;fk ga4;tj	128
-困觉	kun4;wa gao4;xj	126
-了解	liao3;al gai3;dn	157763
-鞋	hai2;ct	100
-鞋子	hai2;ct zi5;la	100
-拖鞋	tuo1;fy hai2;ct	3676
-街	gai1;rt	100
-街溜子	gai1;rt liu1;dt zi5;la	220
-嘛	ma4;ka	1
+搭界	dā;fk gà;tj	128
+困觉	kùn;wa gào;xj	126
+了解	liǎo;al gǎi;dn	157763
+鞋	hái;ct	100
+鞋子	hái;ct zi;la	100
+拖鞋	tuō;fy hái;ct	3676
+街	gāi;rt	100
+街溜子	gāi;rt liū;dt zi;la	220
+嘛	mà;ka	1
 #讹音异读兼容
-哔哩哔哩	bi1;ku li1;kl bi1;ku li1;kl	8032
-哔哩哔哩干杯	bi1;ku li1;kl bi1;ku li1;kl gan1;au bei1;ab	10
-哔哩哔哩弹幕网	bi1;ku li1;kl bi1;ku li1;kl dan4;gu mu4;cj wang3;kx	10
-叶县	she4;ku xian4;qs	1
-叶公好龙	she4;ku gong1;bs hao4;nz long2;yp	1
-溪	qi1;dd	2
-鲸	qing2;yx	2
-鲸鱼	qing2;yx yv2;da	2
-蜗牛	gua1;in niu2;pu	2
-拎	ling1;fs	2
-拎	ling2;fs	2
-馨	xing1;to	2
-秘密	bi4;hb mi4;bu	23164
-神秘	shen2;pu bi4;hb	19013
-便秘	bian4;rg bi4;hb	5153
-瑞金	shui4;we jin1;rb	650
-董存瑞	dong3;cv cun2;uz shui4;we	267
-瑞士	shui4;we shi4;ua	14915
-瑞典	shui4;we dian3;qb	9913
+哔哩哔哩	bī;ku lī;kl bī;ku lī;kl	8032
+哔哩哔哩干杯	bī;ku lī;kl bī;ku lī;kl gān;au bēi;ab	10
+哔哩哔哩弹幕网	bī;ku lī;kl bī;ku lī;kl dàn;gu mù;cj wǎng;kx	10
+叶县	shè;ku xiàn;qs	1
+叶公好龙	shè;ku gōng;bs hào;nz lóng;yp	1
+溪	qī;dd	2
+鲸	qíng;yx	2
+鲸鱼	qíng;yx yú;da	2
+蜗牛	guā;in niú;pu	2
+拎	līng;fs	2
+拎	líng;fs	2
+馨	xīng;to	2
+秘密	bì;hb mì;bu	23164
+神秘	shén;pu bì;hb	19013
+便秘	biàn;rg bì;hb	5153
+瑞金	shuì;we jīn;rb	650
+董存瑞	dǒng;cv cún;uz shuì;we	267
+瑞士	shuì;we shì;ua	14915
+瑞典	shuì;we diǎn;qb	9913
 #变调兼容
-允许	yvn2;se xv3;yw	45028
-一上	yi1;aa shang4;ba	1764
-一下	yi1;aa xia4;ab	501621
-一群	yi1;aa qvn2;yy	43787
-任一	ren4;rw yi1;aa	1852
-任一	ren4;rw yi2;aa	1852
-任一	ren4;rw yi4;aa	1852
-任一	ren4;rw yi5;aa	1852
-那一	na4;ve yi1;aa	2182
-那一	na4;ve yi2;aa	2182
-那一	na4;ve yi4;aa	2182
-那一	na4;ve yi5;aa	2182
-哪一	na3;ke yi1;aa	1032
-哪一	na3;ke yi2;aa	1032
-哪一	na3;ke yi4;aa	1032
-哪一	na3;ke yi5;aa	1032
-不一定	bu4;ab yi2;aa ding4;bz	55358
-不一定	bu4;ab yi1;aa ding4;bz	55358
-一无所长	yi1;aa wu2;ay suo3;ht chang2;pn	396
-一无所长	yi4;aa wu2;ay suo3;ht chang2;pn	396
-一无所成	yi1;aa wu2;ay suo3;ht cheng2;gv	119
-一无所成	yi4;aa wu2;ay suo3;ht cheng2;gv	119
-一无所得	yi1;aa wu2;ay suo3;ht de2;rc	170
-一无所得	yi4;aa wu2;ay suo3;ht de2;rc	170
-一无所犯	yi1;aa wu2;ay suo3;ht fan4;qv	76
-一无所犯	yi4;aa wu2;ay suo3;ht fan4;qv	76
-一无所好	yi1;aa wu2;ay suo3;ht hao4;nz	99
-一无所好	yi4;aa wu2;ay suo3;ht hao4;nz	99
-一无所获	yi1;aa wu2;ay suo3;ht huo4;cq	1777
-一无所获	yi4;aa wu2;ay suo3;ht huo4;cq	1777
-一无所见	yi1;aa wu2;ay suo3;ht jian4;ke	3
-一无所见	yi4;aa wu2;ay suo3;ht jian4;ke	3
-一无所惧	yi1;aa wu2;ay suo3;ht jv4;xb	338
-一无所惧	yi4;aa wu2;ay suo3;ht jv4;xb	338
-一无所觉	yi1;aa wu2;ay suo3;ht jve2;xj	428
-一无所觉	yi4;aa wu2;ay suo3;ht jve2;xj	428
-一无所能	yi1;aa wu2;ay suo3;ht neng2;sb	9
-一无所能	yi4;aa wu2;ay suo3;ht neng2;sb	9
-一无所求	yi1;aa wu2;ay suo3;ht qiu2;au	57
-一无所求	yi4;aa wu2;ay suo3;ht qiu2;au	57
-一无所取	yi1;aa wu2;ay suo3;ht qv3;ey	239
-一无所取	yi4;aa wu2;ay suo3;ht qv3;ey	239
-一无所容	yi1;aa wu2;ay suo3;ht rong2;bg
-一无所容	yi4;aa wu2;ay suo3;ht rong2;bg
-一无所恃	yi1;aa wu2;ay suo3;ht shi4;xc	153
-一无所恃	yi4;aa wu2;ay suo3;ht shi4;xc	153
-一无所失	yi1;aa wu2;ay suo3;ht shi1;pf	42
-一无所失	yi4;aa wu2;ay suo3;ht shi1;pf	42
-一无所闻	yi1;aa wu2;ay suo3;ht wen2;me	189
-一无所闻	yi4;aa wu2;ay suo3;ht wen2;me	189
-一无所言	yi1;aa wu2;ay suo3;ht yan2;wk	50
-一无所言	yi4;aa wu2;ay suo3;ht yan2;wk	50
-一无所有	yi1;aa wu2;ay suo3;ht you3;uo	5482
-一无所有	yi4;aa wu2;ay suo3;ht you3;uo	5482
-一无所知	yi1;aa wu2;ay suo3;ht zhi1;uk	6776
-一无所知	yi4;aa wu2;ay suo3;ht zhi1;uk	6776
-而一无所鉴	er2;al yi1;aa wu2;ay suo3;ht jian4;lj	1
-而一无所鉴	er2;al yi4;aa wu2;ay suo3;ht jian4;lj	1
-不列颠	bu4;ab lie4;dd dian1;uy	1190
-不列颠	bu2;ab lie4;dd dian3;uy	1190
-大不列颠	da4;ar bu4;ab lie4;dd dian1;uy	496
-大不列颠	da4;ar bu2;ab lie4;dd dian3;uy	496
-兵不血刃	bing1;qb bu4;ab xve4;pm ren4;dd	509
-兵不血刃	bing1;qb bu2;ab xve4;pm ren4;dd	509
-财不外露	cai2;bc bu2;ab wai4;xb lu4;yk	30
+允许	yún;se xǔ;yw	45028
+一上	yī;aa shàng;ba	1764
+一下	yī;aa xià;ab	501621
+一群	yī;aa qún;yy	43787
+任一	rèn;rw yī;aa	1852
+任一	rèn;rw yí;aa	1852
+任一	rèn;rw yì;aa	1852
+任一	rèn;rw yi;aa	1852
+那一	nà;ve yī;aa	2182
+那一	nà;ve yí;aa	2182
+那一	nà;ve yì;aa	2182
+那一	nà;ve yi;aa	2182
+哪一	nǎ;ke yī;aa	1032
+哪一	nǎ;ke yí;aa	1032
+哪一	nǎ;ke yì;aa	1032
+哪一	nǎ;ke yi;aa	1032
+不一定	bù;ab yí;aa dìng;bz	55358
+不一定	bù;ab yī;aa dìng;bz	55358
+一无所长	yī;aa wú;ay suǒ;ht cháng;pn	396
+一无所长	yì;aa wú;ay suǒ;ht cháng;pn	396
+一无所成	yī;aa wú;ay suǒ;ht chéng;gv	119
+一无所成	yì;aa wú;ay suǒ;ht chéng;gv	119
+一无所得	yī;aa wú;ay suǒ;ht dé;rc	170
+一无所得	yì;aa wú;ay suǒ;ht dé;rc	170
+一无所犯	yī;aa wú;ay suǒ;ht fàn;qv	76
+一无所犯	yì;aa wú;ay suǒ;ht fàn;qv	76
+一无所好	yī;aa wú;ay suǒ;ht hào;nz	99
+一无所好	yì;aa wú;ay suǒ;ht hào;nz	99
+一无所获	yī;aa wú;ay suǒ;ht huò;cq	1777
+一无所获	yì;aa wú;ay suǒ;ht huò;cq	1777
+一无所见	yī;aa wú;ay suǒ;ht jiàn;ke	3
+一无所见	yì;aa wú;ay suǒ;ht jiàn;ke	3
+一无所惧	yī;aa wú;ay suǒ;ht jù;xb	338
+一无所惧	yì;aa wú;ay suǒ;ht jù;xb	338
+一无所觉	yī;aa wú;ay suǒ;ht jué;xj	428
+一无所觉	yì;aa wú;ay suǒ;ht jué;xj	428
+一无所能	yī;aa wú;ay suǒ;ht néng;sb	9
+一无所能	yì;aa wú;ay suǒ;ht néng;sb	9
+一无所求	yī;aa wú;ay suǒ;ht qiú;au	57
+一无所求	yì;aa wú;ay suǒ;ht qiú;au	57
+一无所取	yī;aa wú;ay suǒ;ht qǔ;ey	239
+一无所取	yì;aa wú;ay suǒ;ht qǔ;ey	239
+一无所容	yī;aa wú;ay suǒ;ht róng;bg
+一无所容	yì;aa wú;ay suǒ;ht róng;bg
+一无所恃	yī;aa wú;ay suǒ;ht shì;xc	153
+一无所恃	yì;aa wú;ay suǒ;ht shì;xc	153
+一无所失	yī;aa wú;ay suǒ;ht shī;pf	42
+一无所失	yì;aa wú;ay suǒ;ht shī;pf	42
+一无所闻	yī;aa wú;ay suǒ;ht wén;me	189
+一无所闻	yì;aa wú;ay suǒ;ht wén;me	189
+一无所言	yī;aa wú;ay suǒ;ht yán;wk	50
+一无所言	yì;aa wú;ay suǒ;ht yán;wk	50
+一无所有	yī;aa wú;ay suǒ;ht yǒu;uo	5482
+一无所有	yì;aa wú;ay suǒ;ht yǒu;uo	5482
+一无所知	yī;aa wú;ay suǒ;ht zhī;uk	6776
+一无所知	yì;aa wú;ay suǒ;ht zhī;uk	6776
+而一无所鉴	ér;al yī;aa wú;ay suǒ;ht jiàn;lj	1
+而一无所鉴	ér;al yì;aa wú;ay suǒ;ht jiàn;lj	1
+不列颠	bù;ab liè;dd diān;uy	1190
+不列颠	bú;ab liè;dd diǎn;uy	1190
+大不列颠	dà;ar bù;ab liè;dd diān;uy	496
+大不列颠	dà;ar bú;ab liè;dd diǎn;uy	496
+兵不血刃	bīng;qb bù;ab xuè;pm rèn;dd	509
+兵不血刃	bīng;qb bú;ab xuè;pm rèn;dd	509
+财不外露	cái;bc bú;ab wài;xb lù;yk	30
 #有争议读音兼容
-系安全带	ji4;px an1;bn qvan2;rw dai4;cj	1066
-系安全带	xi4;px an1;bn qvan2;rw dai4;cj	1066
-清平乐	qing1;do ping2;au yve4;px	680
-清平乐	qing1;do ping2;au le4;px	680
-樊於期	fan2;ad yv1;fd qi1;co	482
-樊於期	fan2;ad yv1;fd ji1;co	482
-樊於期	fan2;ad wu1;fd qi1;co	482
-樊於期	fan2;ad wu1;fd ji1;co	482
-的卢	di4;bu lu2;bu	478
-的卢马	di4;bu lu2;bu ma3;va	1
-马作的卢飞快	ma3;va zuo4;rv di4;bu lu2;bu fei1;vd kuai4;xg	1
-的卢	di2;bu lu2;bu	478
-的卢马	di2;bu lu2;bu ma3;va	1
-马作的卢飞快	ma3;va zuo4;rv di2;bu lu2;bu fei1;vd kuai4;xg	1
-阿房宫	e1;ek pang2;hf gong1;bk	565
-阿房宫	a1;ek pang2;hf gong1;bk	565
-阿房宫	e1;ek fang2;hf gong1;bk	565
-阿房宫	a1;ek fang2;hf gong1;bk	565
-阿房宫赋	e1;ek pang2;hf gong1;bk fu4;bv	138
-阿房宫赋	a1;ek pang2;hf gong1;bk fu4;bv	138
-阿房宫赋	e1;ek fang2;hf gong1;bk fu4;bv	138
-阿房宫赋	a1;ek fang2;hf gong1;bk fu4;bv	138
-吐蕃	tu3;kt bo1;ct	6372
-吐蕃	tu3;kt fan1;ct	6372
-岑参	cen2;uv shen1;sp	724
-岑参	cen2;uv can1;sp	724
-没羽箭	mei2;du yv3;xx jian4;vd	244
-没羽箭	mo4;du yv3;xx jian4;vd	244
-没羽箭张清	mei2;du yv3;xx jian4;vd zhang1;gi qing1;do	10
-没羽箭张清	mo4;du yv3;xx jian4;vd zhang1;gi qing1;do	10
+系安全带	jì;px ān;bn quán;rw dài;cj	1066
+系安全带	xì;px ān;bn quán;rw dài;cj	1066
+清平乐	qīng;do píng;au yuè;px	680
+清平乐	qīng;do píng;au lè;px	680
+樊於期	fán;ad yū;fd qī;co	482
+樊於期	fán;ad yū;fd jī;co	482
+樊於期	fán;ad wū;fd qī;co	482
+樊於期	fán;ad wū;fd jī;co	482
+的卢	dì;bu lú;bu	478
+的卢马	dì;bu lú;bu mǎ;va	1
+马作的卢飞快	mǎ;va zuò;rv dì;bu lú;bu fēi;vd kuài;xg	1
+的卢	dí;bu lú;bu	478
+的卢马	dí;bu lú;bu mǎ;va	1
+马作的卢飞快	mǎ;va zuò;rv dí;bu lú;bu fēi;vd kuài;xg	1
+阿房宫	ē;ek páng;hf gōng;bk	565
+阿房宫	ā;ek páng;hf gōng;bk	565
+阿房宫	ē;ek fáng;hf gōng;bk	565
+阿房宫	ā;ek fáng;hf gōng;bk	565
+阿房宫赋	ē;ek páng;hf gōng;bk fù;bv	138
+阿房宫赋	ā;ek páng;hf gōng;bk fù;bv	138
+阿房宫赋	ē;ek fáng;hf gōng;bk fù;bv	138
+阿房宫赋	ā;ek fáng;hf gōng;bk fù;bv	138
+吐蕃	tǔ;kt bō;ct	6372
+吐蕃	tǔ;kt fān;ct	6372
+岑参	cén;uv shēn;sp	724
+岑参	cén;uv cān;sp	724
+没羽箭	méi;du yǔ;xx jiàn;vd	244
+没羽箭	mò;du yǔ;xx jiàn;vd	244
+没羽箭张清	méi;du yǔ;xx jiàn;vd zhāng;gi qīng;do	10
+没羽箭张清	mò;du yǔ;xx jiàn;vd zhāng;gi qīng;do	10
 #其他
-要求	yao4;xn qiu2;au	321928
-没差	mei2;du cha1;yg	1124
-无差	wu2;ay cha1;yg	1117
-关系	guan1;bt xi1;px	1
-氛围	fen4;qf wei2;ww	1
-特供	te4;nc gong4;rg	1
-孤零零	gu1;zg ling1;ys ling1;ys	1
+要求	yào;xn qiú;au	321928
+没差	méi;du chā;yg	1124
+无差	wú;ay chā;yg	1117
+关系	guān;bt xī;px	1
+氛围	fèn;qf wéi;ww	1
+特供	tè;nc gòng;rg	1
+孤零零	gū;zg līng;ys līng;ys	1
