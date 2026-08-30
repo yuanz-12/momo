@@ -5,7 +5,9 @@
 ────────────────────────────────────────
 功能：
 1. 递归处理 input_dicts/ 下所有词库（.yaml/.yml/.txt），保留子目录结构
-2. 剥离上游词库已有辅码，拼音统一转为数字声调（ā→a1，ü→v，无声调补 5）
+2. 剥离上游词库已有辅码，按 TONE_MODE 转换声调格式：
+   - "digit"：数字声调（bā→ba1，lǚ→lv3，er→er5）
+   - "mark" ：声调符号（ba1→bā，lv3→lǚ，er5→er）
 3. 按根目录 aux_code.csv 为每个字重新刷辅码，格式：拼音;辅码
    - 本地码表查不到的字：回退沿用上游词库自带的辅码（保证不丢码）
    - 同时打印告警日志，提示需要补录进 aux_code.csv 的字
@@ -25,12 +27,15 @@ from typing import Dict, List, Tuple
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 CSV_PATH = os.path.join(BASE_DIR, "aux_code.csv")        # 辅码表：字、辅码 两列
 INPUT_DIR = os.path.join(BASE_DIR, "input_dicts")         # 输入目录（workflow 下载解压产物）
-OUT_ROOT = os.path.join(BASE_DIR, "output_dicts")         # 输出根目录
+OUT_ROOT = os.environ.get("AUX_OUT_ROOT", os.path.join(BASE_DIR, "output_dicts"))
 
 BLACKLIST_PATTERNS = ["en*", "mixed*"]                    # 通配黑名单，命中则原样复制
 OUTPUT_SUFFIX = ".pro"                                    # 输出文件名后缀（已含 .pro. 的文件不重复加）
 SEP = ";"                                                 # 拼音与辅码的分隔符
 AUX_SEP_REGEX = r'[;\[]'                                  # 辅码起始分隔符（分号或方括号）
+
+TONE_MODE = os.environ.get("AUX_TONE_MODE", "mark")       # "digit"=数字声调（原行为）；"mark"=声调符号（反向）
+STANDARD_JQXY = True                                      # mark 模式：j/q/x/y 后的 ü 按标准正字法写作 u（jū 而非 jǖ）
 # ──────────────────────────────────────────
 
 CJK_PATTERN = re.compile(
@@ -48,10 +53,18 @@ COMBINING_TONE = {
     "\u0307": "5",  # 轻声
 }
 
+TONE_TO_MARK = {
+    "1": "\u0304",  # 一声 → 长音符
+    "2": "\u0301",  # 二声 → 锐音符
+    "3": "\u030c",  # 三声 → 抑扬符
+    "4": "\u0300",  # 四声 → 重音符
+    "5": "",        # 轻声 → 去掉数字、不加符号
+}
+
 
 # ---------- 基础工具 ----------
 def convert_tone(pinyin: str, add_tone5: bool = True) -> str:
-    """带声调符号的拼音 → 数字声调；已是数字声调的跳过。"""
+    """带声调符号的拼音 → 数字声调；已是数字声调的跳过。（digit 模式用）"""
     if re.search(r"[1-5]$", pinyin):
         return pinyin
     nfd = unicodedata.normalize("NFD", pinyin)
@@ -79,6 +92,52 @@ def convert_tone(pinyin: str, add_tone5: bool = True) -> str:
     if len(result) >= 2 and result[0] in "jqxy" and result[1] == "u":
         result[1] = "v"
     return "".join(result)
+
+
+# ---------- mark 模式：数字声调 → 声调符号 ----------
+def _find_tone_vowel(s: str) -> int:
+    """按拼音标调规则定位应标调的元音下标。
+    a > o > e 优先；只剩 i/u/ü 时标在最后一个元音（liu→u、gui→i 自然覆盖）。"""
+    for v in ("a", "o", "e"):
+        p = s.find(v)
+        if p != -1:
+            return p
+    last = -1
+    for i, ch in enumerate(s):
+        if ch in "iu":
+            last = i
+    return last
+
+
+def _place_tone(base: str, mark: str) -> str:
+    """在正确的元音上插入声调组合符号，输出 NFC 规范形式（如 bā、lǚ）。"""
+    nfd = unicodedata.normalize("NFD", base)
+    idx = _find_tone_vowel(nfd)
+    if idx == -1:
+        return unicodedata.normalize("NFC", base)  # 无元音（如 hm/n），原样返回
+    # 跳过元音后紧跟的组合符号（如 ü 的分音符），保证组合顺序正确
+    j = idx + 1
+    while j < len(nfd) and unicodedata.combining(nfd[j]):
+        j += 1
+    return unicodedata.normalize("NFC", nfd[:j] + mark + nfd[j:])
+
+
+def digit_to_mark(pinyin: str) -> str:
+    """数字声调 → 声调符号（convert_tone 的逆操作，mark 模式用）。
+    ba1→bā，lv3→lǚ，er5→er（轻声去数字不加符）；无数字的段仅做 v→ü 正字处理。"""
+    if not pinyin:
+        return pinyin
+    if pinyin[-1] in "12345":
+        tone, base = pinyin[-1], pinyin[:-1]
+    else:
+        tone, base = "", pinyin
+    if STANDARD_JQXY:
+        base = re.sub(r"([jqxy])v", r"\1u", base)   # jū 而非 jǖ（标准正字法）
+    base = base.replace("v", "\u00fc")              # 其余 v → ü
+    mark = TONE_TO_MARK.get(tone, "")
+    if mark:
+        return _place_tone(base, mark)
+    return unicodedata.normalize("NFC", base)
 
 
 def clean_aux_from_seg(seg: str) -> str:
@@ -178,9 +237,12 @@ def process_dict_file(in_file: str, out_file: str, aux_map: Dict[str, str], sep:
                 fout.write(line + "\n")
                 continue
 
-            # 保留原始段用于辅码回退，同时剥离旧辅码并转换声调
+            # 保留原始段用于辅码回退；按 TONE_MODE 决定声调转换方向
             raw_segs = col2.split(" ") if col2 else []
-            pinyins = [convert_tone(clean_aux_from_seg(py)) for py in raw_segs]
+            if TONE_MODE == "mark":
+                pinyins = [digit_to_mark(clean_aux_from_seg(py)) for py in raw_segs]
+            else:
+                pinyins = [convert_tone(clean_aux_from_seg(py)) for py in raw_segs]
             cn_chars = extract_cn_chars(han)
 
             if not is_valid_han_word(han) or len(cn_chars) != len(pinyins):
@@ -246,7 +308,7 @@ def process_all_schemes(input_dir: str, out_root: str, aux_map: Dict[str, str]):
         print(f"⚠ 输入目录中没有可处理的文件: {input_dir}")
         return
 
-    print(f"共找到 {len(files)} 个文件待处理")
+    print(f"共找到 {len(files)} 个文件待处理（TONE_MODE={TONE_MODE}）")
     for in_file in files:
         name = os.path.basename(in_file)
         rel_dir = os.path.relpath(os.path.dirname(in_file), input_dir)
@@ -269,30 +331,11 @@ def process_all_schemes(input_dir: str, out_root: str, aux_map: Dict[str, str]):
         print(f"✓ 已处理: {name} → {os.path.relpath(os.path.join(dest_dir, out_name), out_root)}")
 
 
-# ---------- 可选：生成 base 版本（仅拼音转数字声调，不带辅码） ----------
-def process_base_dicts(input_dir: str, out_root: str):
-    out_dir = os.path.join(out_root, "dicts-base")
-    os.makedirs(out_dir, exist_ok=True)
-    for in_file in collect_dict_files(input_dir):
-        name = os.path.basename(in_file)
-        rel_dir = os.path.relpath(os.path.dirname(in_file), input_dir)
-        dest_dir = os.path.join(out_dir, rel_dir)
-        os.makedirs(dest_dir, exist_ok=True)
-        if is_blacklisted(name) or has_userdb_marker(in_file):
-            shutil.copy2(in_file, os.path.join(dest_dir, name))
-            continue
-        out_name = name if ".pro." in name else add_suffix_before_extensions(name, OUTPUT_SUFFIX)
-        process_dict_file(in_file, os.path.join(dest_dir, out_name), {})
-        print(f"✓ [base] {name}")
-
-
 # ---------- 入口 ----------
 def main():
     aux_map = load_aux_map(CSV_PATH)
     process_all_schemes(INPUT_DIR, OUT_ROOT, aux_map)
-    # 如需同时产出「仅拼音、不带辅码」的 base 版本，取消下一行注释：
-    # process_base_dicts(INPUT_DIR, OUT_ROOT)
-    print("\n✓ 全部完成，输出目录:", os.path.join(OUT_ROOT, "dicts-pro"))
+    print(f"\n✓ 全部完成（TONE_MODE={TONE_MODE}），输出目录:", os.path.join(OUT_ROOT, "dicts-pro"))
 
 
 if __name__ == "__main__":
