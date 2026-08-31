@@ -14915,7 +14915,7 @@ sort: by_weight
 毒蝮三太夫	dú;fm fù;iw sān;ae tài;dd fū;er	10
 杜父鱼下目	dù;at fù;bx yú;da xià;ab mù;we	10
 毒副作用小	dú;fm fù;ad zuò;rv yòng;kf xiǎo;lb	10
-镀铬门把手	dù;jy gè;jk mén;dv bà;fb shǒu;pf	10
+镀铬门把手	dù;jy gè;jk mén;dv bǎ;fb shǒu;pf	10
 镀铬前格栅	dù;jy gè;jk qián;bd gé;ak shān;ac	10
 镀铬装饰件	dù;jy gè;jk zhuāng;ly shì;uj jiàn;rn	10
 镀铬装饰条	dù;jy gè;jk zhuāng;ly shì;uj tiáo;wa	10
@@ -36501,6 +36501,7 @@ sort: by_weight
 巨星卡丁赛	jù;kk xīng;ou kǎ;ub dīng;al sài;bb	10
 巨型绿宝石	jù;kk xíng;kt lǜ;su bǎo;by shí;ak	10
 矩形面积并	jǔ;uj xíng;kp miàn;ao jī;hv bìng;bk	10
+巨型泥石流	jù;kk xíng;kt ní;db shí;ak liú;di	10
 巨型三角洲	jù;kk xíng;kt sān;ae jiǎo;dy zhōu;dv	10
 巨型投石机	jù;kk xíng;kt tóu;fu shí;ak jī;aj	10
 巨型挖掘机	jù;kk xíng;kt wā;fv jué;fi jī;aj	10
@@ -45977,6 +45978,7 @@ sort: by_weight
 拿铁马奇朵	ná;ru tiě;jf mǎ;va qí;dk duǒ;ja	10
 纳吐纳群岛	nà;sn tǔ;kt nà;sn qún;yy dǎo;nu	10
 纳土纳群岛	nà;sn tǔ;ua nà;sn qún;yy dǎo;nu	10
+纳瓦尔宝典	nà;sn wǎ;ad ěr;dx bǎo;by diǎn;qb	10
 那瓦尔王国	nà;ve wǎ;ad ěr;dx wáng;at guó;wy	10
 纳维亚半岛	nà;sn wéi;sv yà;ay bàn;bf dǎo;nu	10
 拿我没办法	ná;ru wǒ;ga méi;du bàn;lb fǎ;dq	10
@@ -78735,6 +78737,8 @@ sort: by_weight
 疑非仲景方	yí;bz fēi;ls zhòng;rv jǐng;ox fāng;wv	10
 依分布收敛	yī;ry fēn;bd bù;uj shōu;jw liǎn;qw	10
 一粉顶十黑	yì;aa fěn;mf dǐng;dy shí;al hēi;lh	10
+一份多重了	yí;aa fèn;rf duō;xx chóng;ql le;al	10
+一分多钟了	yì;aa fēn;bd duō;xx zhōng;jv le;al	12
 一分钱没花	yī;aa fēn;bd qián;jj méi;du huā;cb	10
 以分手告终	yǐ;lr fēn;bd shǒu;pf gào;nk zhōng;sd	10
 一分为二刀	yì;aa fēn;bd wéi;ld èr;aa dāo;vp	10
@@ -121614,6 +121618,7 @@ sort: by_weight
 普华永道公司	pǔ;bo huá;ru yǒng;du dào;zz gōng;bs sī;vk	10
 普及法律常识	pǔ;bo jí;pn fǎ;dq lǜ;ry cháng;xj shí;yv	10
 浦建龙梅铁路	pǔ;df jiàn;zy lóng;yp méi;am tiě;jf lù;zk	10
+普降大到暴雨	pǔ;bo jiàng;ef dà;ar dào;gd bào;ou yǔ;ad	10
 浦江镇停车场	pǔ;df jiāng;dg zhèn;jb tíng;rd chē;au chǎng;tp	10
 扑救初起火灾	pū;fb jiù;qw chū;pd qǐ;tj huǒ;br zāi;bh	10
 葡聚糖凝胶柱	pú;cf jù;eu táng;mk níng;dz jiāo;of zhù;av	10
@@ -140901,6 +140906,7 @@ sort: by_weight
 有无明灭难消	yǒu;uo wú;ay míng;oo miè;ah nán;yv xiāo;do	10
 油污损害赔偿	yóu;dy wū;dk sǔn;fb hài;bk péi;bk cháng;ry	10
 右武卫大将军	yòu;uk wǔ;gv wèi;ea dà;ar jiàng;lc jūn;bi	10
+有无修改意见	yǒu;uo wú;ay xiū;rp gǎi;jw yì;lx jiàn;ke	10
 有乌鸦的麦田	yǒu;uo wū;pa yā;yn de;bu mài;fw tián;wu	10
 游戏背景音乐	yóu;dz xì;yg bèi;bo jǐng;ox yīn;lo yuè;px	10
 游戏捕鱼达人	yóu;dz xì;yg bǔ;ff yú;da dá;zd rén;pn	10
@@ -158292,6 +158298,7 @@ sort: by_weight
 前庭神功能疾患	qián;bd tíng;gw shén;pu gōng;gl néng;sb jí;bu huàn;ix	10
 前庭性共济失调	qián;bd tíng;gw xìng;xu gòng;cb jì;dq shī;pf tiáo;yk	10
 前外侧中央动脉	qián;bd wài;xb cè;rd zhōng;kl yāng;kr dòng;yl mài;oy	10
+千万别与小人斗	qiān;pu wàn;av bié;kd yǔ;va xiǎo;lb rén;pn dòu;ud	10
 前牙根折根牵引	qián;bd yá;gp gēn;ag zhé;ft gēn;ag qiān;dn yǐn;gl	10
 前牙形态不满意	qián;bd yá;gp xíng;kp tài;tx bù;ab mǎn;dl yì;lx	10
 牵一发而动全身	qiān;dn yí;aa fà;fy ér;al dòng;yl quán;rw shēn;zc	10
@@ -160845,6 +160852,7 @@ sort: by_weight
 远心性环状红斑	yuǎn;zy xīn;dd xìng;xu huán;wb zhuàng;lq hóng;sg bān;ww	10
 圆形糠秕孢子菌	yuán;wb xíng;kp kāng;ml bǐ;hb bāo;zb zǐ;la jūn;ch	10
 圆形吻合器钉仓	yuán;wb xíng;kp wěn;kw hé;rk qì;xx dīng;jd cāng;rv	10
+远洋捕捞式执法	yuǎn;zy yáng;dy bǔ;ff lāo;fl shì;gg zhí;fw fǎ;dq	10
 远志茯苓共养神	yuǎn;zy zhì;tx fú;cq líng;cs gòng;cb yǎng;yl shén;pu	10
 远中邻颌面深龋	yuǎn;zy zhōng;kl lín;re hé;ry miàn;ao shēn;da qǔ;vy	10
 原子角分布函数	yuán;ix zǐ;la jiǎo;dy fēn;bd bù;uj hán;ku shù;mw	10
