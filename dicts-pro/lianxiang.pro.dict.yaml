@@ -13117,9 +13117,9 @@ sort: by_weight
 第三代战机	dì;vd sān;ae dài;rg zhàn;vg jī;aj	10
 第三定律熵	dì;vd sān;ae dìng;bz lǜ;ry shāng;hk	10
 第三方存管	dì;vd sān;ae fāng;wv cún;uz guǎn;vl	10
-第三方登录	dì;vd sān;ae fāng;wv dēng;bb lù;eu	10
+第三方登录	dì;vd sān;ae fāng;wv dēng;bb lù;eu	12
 第三方登陆	dì;vd sān;ae fāng;wv dēng;bb lù;ej	10
-第三方检测	dì;vd sān;ae fāng;wv jiǎn;aq cè;dd	10
+第三方检测	dì;vd sān;ae fāng;wv jiǎn;aq cè;dd	12
 第三方监测	dì;vd sān;ae fāng;wv jiān;lm cè;dd	10
 第三方监理	dì;vd sān;ae fāng;wv jiān;lm lǐ;wl	10
 第三方介入	dì;vd sān;ae fāng;wv jiè;rl rù;pn	10
@@ -31539,6 +31539,7 @@ sort: by_weight
 集资诈骗案	jí;ra zī;db zhà;yv piàn;mc àn;ba	10
 集资诈骗罪	jí;ra zī;db zhà;yv piàn;mc zuì;sf	10
 集总参量系	jí;ra zǒng;bx cān;sp liàng;ol xì;px	10
+机座回转体	jī;aj zuò;gr huí;wk zhuǎn;iv tǐ;rb	10
 极左翼政党	jí;aj zuǒ;ug yì;xg zhèng;vw dǎng;xx	10
 甲氨甲酰基	jiǎ;ol ān;qn jiǎ;ol xiān;ye jī;ct	10
 夹岸数百步	jiā;ar àn;ug shù;mw bǎi;ab bù;vu	10
@@ -158388,6 +158389,7 @@ sort: by_weight
 泡利不相容原理	pào;db lì;hd bù;ab xiāng;ao róng;bg yuán;ix lǐ;wl	10
 抛物偏微分方程	pāo;fl wù;nw piān;rc wēi;rj fēn;bd fāng;wv chéng;hw	10
 配第克拉克定理	pèi;yj dì;vd kè;ux lā;fl kè;ux dìng;bz lǐ;wl	10
+佩服得五体投地	pèi;rj fú;oy de;rc wǔ;aw tǐ;rb tóu;fu dì;ty	10
 赔了夫人又折兵	péi;bk le;al fū;er rén;pn yòu;vn zhé;ft bīng;qb	10
 佩斯大学法学院	pèi;rj sī;ct dà;ar xué;xz fǎ;dq xué;xz yuàn;ey	10
 配伍枳朴泻力强	pèi;yj wǔ;rw zhǐ;av pǔ;ab xiè;dy lì;vp qiáng;gi	10
@@ -159359,6 +159361,7 @@ sort: by_weight
 圣惠荆芥地黄汤	shèng;yt huì;ix jīng;cd jiè;cj dì;ty huáng;cb tāng;dp	10
 生活满意度指数	shēng;pf huó;du mǎn;dl yì;lx dù;gy zhǐ;fo shù;mw	10
 圣基茨和尼维斯	shèng;yt jī;ct cí;cq hé;hk ní;ub wéi;sv sī;ct	10
+省级自然保护区	shěng;uo jí;sj zì;po rán;xh bǎo;ra hù;fh qū;kx	10
 生姜半夏汤主之	shēng;pf jiāng;yn bàn;bf xià;bw tāng;dp zhǔ;wt zhī;dn	10
 生理性眼球震颤	shēng;pf lǐ;wl xìng;xu yǎn;og qiú;wq zhèn;yi chàn;wy	10
 生脉麦味与人参	shēng;pf mài;oy mài;fw wèi;kw yú;va rén;pn cān;sp	10
@@ -159660,6 +159663,7 @@ sort: by_weight
 苏巴什佛寺遗址	sū;cb bā;sl shí;ru fó;rf sì;tc yí;zb zhǐ;tv	10
 速发相哮喘反应	sù;zu fā;fy xiāng;ao xiào;kz chuǎn;ke fǎn;iy yìng;ga	10
 速发型超敏反应	sù;zu fà;fy xíng;kt chāo;tk mǐn;pw fǎn;iy yìng;ga	10
+苏格拉底式对话	sū;cb gé;ak lā;fl dǐ;gu shì;gg duì;yc huà;yu	10
 苏军烈士纪念塔	sū;cb jūn;bi liè;dh shì;ua jì;sj niàn;rx tǎ;tk	10
 粟粒性脑膜结核	sù;xm lì;ml xìng;xu nǎo;ox mó;od jié;sk hé;ar	10
 塑料车针消毒盒	sù;nt liào;md chē;au zhēn;ju xiāo;do dú;fm hé;rm	10
@@ -160838,6 +160842,7 @@ sort: by_weight
 以什么样的方式	yǐ;lr shén;ru me;ps yàng;ay de;bu fāng;wv shì;gg	10
 益生菌固体饮料	yì;bm shēng;pf jūn;ch gù;wg tǐ;rb yǐn;uq liào;md	10
 益生菌和益生元	yì;bm shēng;pf jūn;ch hé;hk yì;bm shēng;pf yuán;aw	10
+已是不争的事实	yǐ;kv shì;oz bù;ab zhēng;dy de;bu shì;gy shí;bd	10
 意识的高阶理论	yì;lx shí;yv de;bu gāo;wk jiē;ej lǐ;wl lùn;yl	10
 胰十二指肠移植	yí;oy shí;al èr;aa zhǐ;fo cháng;op yí;hx zhí;aq	10
 以实干笃定前行	yǐ;lr shí;bd gàn;au dǔ;vm dìng;bz qián;bd xíng;rd	10
