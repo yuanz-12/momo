@@ -48048,7 +48048,7 @@ sort: by_weight
 水竹夹小径	shuǐ;ln zhú;gg jiā;ar siǎo;lb jìng;rj	10
 水竹绕床前	shuǐ;ln zhú;gg rào;sw chuáng;ga cián;bd	10
 水竹深青苍	shuǐ;ln zhú;gg shēn;da cīng;fo cāng;cv	10
-水渚犹疑雪	shuǐ;ln zhǔ;do yóu;qy nǐ;bz süě;ye	10
+水渚犹疑雪	shuǐ;ln zhǔ;do yóu;qy yí;bz süě;ye	10
 睡足心更慵	shuì;ot zú;kz sīn;dd gèng;an yōng;xo	10
 水坐怜秋月	shuǐ;ln zuò;tr lián;xs ciū;hh yuè;ke	10
 谁作招寻侣	shuí;yv zuò;rv zhāo;fk sǘn;ec lǚ;rk	10
@@ -67896,7 +67896,6 @@ sort: by_weight
 犹能井臼任	yóu;qy néng;sb zǐng;ac jiù;pa rèn;rw	10
 尤能酒后吟	yóu;yd néng;sb ziǔ;dy hòu;ik yín;kv	10
 有能市骏骨	yǒu;uo néng;sb shì;wj zǜn;mw gǔ;go	10
-犹疑大漠秋	yóu;qy nǐ;bz dà;ar mò;dd ciū;hh	10
 忧念两消释	yōu;xy niàn;rx liǎng;ar siāo;do shì;mf	10
 又念兄在囚	yòu;vn niàn;rx xiōng;ke zài;ut ciú;wr	10
 幽鸟清涟上	yōu;uy niǎo;na cīng;do lián;di shàng;ba	10
@@ -68222,6 +68221,7 @@ sort: by_weight
 幽咽新芦管	yōu;uy yè;ky sīn;lt lú;ch guǎn;vl	10
 犹忆把樽酒	yóu;qy yì;xv bǎ;fb zūn;ac ziǔ;dy	10
 尤宜白发新	yóu;yd yí;bq bái;po fà;fy sīn;lt	10
+犹疑大漠秋	yóu;qy yí;bz dà;ar mò;dd ciū;hh	10
 幽抑方成疾	yōu;uy yì;fe fāng;wv chéng;gv zií;bu	10
 有义即夫婿	yǒu;uo yì;dx zií;ge fū;er sǜ;no	10
 有一即为乐	yǒu;uo yī;aa zií;ge wéi;ld lè;px	10
@@ -87317,7 +87317,7 @@ sort: by_weight
 积雪未放游尘兴	ziī;hv süě;ye wèi;aa fàng;fw yóu;dz chén;xt xīng;xb	10
 急雪乍翻香阁絮	jí;dx süě;ye zhà;pe fān;mx xiāng;ho gé;mk sǜ;nx	10
 记巡传把一枝花	jì;yj sǘn;zv chuán;rv bǎ;fb yì;aa zhī;av huā;cb	10
-即寻湓水去犹疑	zií;ge sǘn;ec pén;dm shuǐ;ln qù;ts yóu;qy nǐ;bz	10
+即寻湓水去犹疑	zií;ge sǘn;ec pén;dm shuǐ;ln qù;ts yóu;qy yí;bz	10
 寄言痴小人家女	jì;bk yán;wk chī;bk siǎo;lb rén;pn jiā;bu nǚ;va	10
 寄雁传书谢不能	jì;bk yàn;iv chuán;rv shū;vd siè;yc bù;ab néng;sb	10
 寄言全盛红颜子	jì;bk yán;wk cüán;rw shèng;im hóng;sg yán;wy zǐ;la	10
@@ -107272,7 +107272,7 @@ sort: by_weight
 小洞庭兮牵方舟	siǎo;lb dòng;dk tíng;gw xī;bk qiān;dn fāng;wv zhōu;pd	10
 小队戎衣自出城	siǎo;lb duì;er róng;gu yī;wy zì;po chū;uu chéng;ti	10
 笑而不答心自闲	siào;vy ér;al bù;ab dá;vk sīn;dd zì;po xián;ma	10
-小儿不信犹疑错	siǎo;lb ér;pv bú;ab sìn;rk yóu;qy nǐ;bz cuò;jo	10
+小儿不信犹疑错	siǎo;lb ér;pv bú;ab sìn;rk yóu;qy yí;bz cuò;jo	10
 小儿得褌不索襦	siǎo;lb ér;pv dé;rc kūn;pi bù;ab suǒ;ux rú;pe	10
 小儿骨相能文字	siǎo;lb ér;pv gǔ;go siāng;ao néng;sb wén;wx zì;bz	10
 小儿归去须读之	siǎo;lb ér;pv guī;le qù;ts sǖ;py dú;yd zhī;dn	10
@@ -112049,10 +112049,6 @@ sort: by_weight
 油囊取得天河水	yóu;dy náng;gy cǚ;ey dé;rc tiān;ad hé;dk shuǐ;ln	10
 犹能三伏凛生秋	yóu;qy néng;sb sān;ae fú;rq lǐn;du shēng;pf ciū;hh	10
 犹能携妓远过寻	yóu;qy néng;sb xié;fn jì;nv yuǎn;zy guò;zc sǘn;ec	10
-犹疑蜀魄千年恨	yóu;qy nǐ;bz shǔ;si pò;bg ciān;pu nián;pf hèn;xg	10
-犹疑王母不相许	yóu;qy nǐ;bz wáng;at mǔ;md bù;ab siāng;ao xǔ;yw	10
-犹疑一半作神仙	yóu;qy nǐ;bz yí;aa bàn;bf zuò;rv shén;pu siān;ru	10
-犹疑只在屋东西	yóu;qy nǐ;bz zhǐ;kb zài;ut wū;ut dōng;ax sii;ak	10
 犹念悲秋更分赐	yóu;qy niàn;rx bēi;fx ciū;hh gèng;an fēn;bd cì;bw	10
 幽鸟迎阳语啾唧	yōu;uy niǎo;na yíng;ze yáng;eo yǔ;yk ziū;kh ziī;ke	10
 有鸟有鸟名俊鹘	yǒu;uo niǎo;na yǒu;uo niǎo;na míng;xk zǜn;rw gǔ;gn	10
@@ -112215,10 +112211,14 @@ sort: by_weight
 犹忆洛阳千树花	yóu;qy yì;xv luò;dk yáng;eo ciān;pu shù;ac huā;cb	10
 有一迁客登高楼	yǒu;uo yī;aa ciān;zq kè;bk dēng;bb gāo;wk lóu;an	10
 又疑曲渚前年雪	yòu;vn yí;bz qǔ;wc zhǔ;do cián;bd nián;pf süě;ye	10
+犹疑蜀魄千年恨	yóu;qy yí;bz shǔ;si pò;bg ciān;pu nián;pf hèn;xg	10
 犹以岁寒心相待	yóu;qy yǐ;lr suì;ux hán;bd sīn;dd siāng;ao dài;rc	10
+犹疑王母不相许	yóu;qy yí;bz wáng;at mǔ;md bù;ab siāng;ao xǔ;yw	10
 有意西寻白下亭	yǒu;uo yì;lx siī;ak sǘn;ec bái;po xià;ab tíng;wd	10
 又一夜西风吹折	yòu;vn yí;aa yè;ww siī;ak fēng;jx chuī;kq zhé;ft	10
+犹疑一半作神仙	yóu;qy yí;bz yí;aa bàn;bf zuò;rv shén;pu siān;ru	10
 有一征夫年七十	yǒu;uo yī;aa zhēng;rv fū;er nián;pf ciī;av shí;al	10
+犹疑只在屋东西	yóu;qy yí;bz zhǐ;kb zài;ut wū;ut dōng;ax sii;ak	10
 有一众生发大心	yǒu;uo yí;aa zhòng;rr shēng;pf fà;fy dà;ar sīn;dd	10
 右银台路雪三尺	yòu;uk yín;jg tái;sk lù;zk süě;ye sān;ae chǐ;un	10
 犹应更有前途在	yóu;qy yīng;ga gèng;an yǒu;uo cián;bd tú;zm zài;ut	10
