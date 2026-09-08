@@ -23666,7 +23666,6 @@ sort: by_weight
 半液晶	bàn;bf yè;dw zīng;oo	153
 半夜醒	bàn;bf yè;ww sǐng;yu	873
 板一些	bǎn;ay yì;aa siē;ve	513
-版一些	bǎn;py yì;aa siē;ve	395
 搬一些	bān;fu yì;aa siē;ve	221
 拌一些	bàn;fb yì;aa siē;ve	185
 阪有漆	bǎn;ey yǒu;uo ciī;du	4
@@ -130047,6 +130046,7 @@ sort: by_weight
 这些哈	zhè;zw siē;ve hā;kk	482
 这些好	zhè;zw siē;ve hǎo;nz	1071
 这些话	zhè;zw siē;ve huà;yu	5555
+这些会	zhè;zw siē;ve huì;ry	1224
 这些货	zhè;zw siē;ve huò;rb	122
 这些课	zhè;zw siē;ve kè;yg	1008
 这些料	zhè;zw siē;ve liào;md	53
@@ -133842,14 +133842,12 @@ sort: by_weight
 爱的序位	ài;vy de;bu sǜ;gy wèi;rl	292
 爱的旋涡	ài;vy de;bu süán;fz wō;dn	52
 矮灯心草	ǎi;un dēng;hd sīn;dd cǎo;cu	50
-哀冬公爵	āi;yk dōng;wd gōng;bs züé;vc	76
 爱都国际	ài;vy dōu;le guó;wy ziì;eu	45
 爱都酒店	ài;vy dōu;le ziǔ;dy diàn;gv	414
 爱断了线	ài;vy duàn;vt le;al siàn;sj	99
 埃尔津詹	āi;tu ěr;dx zīn;dy zhān;dk	387
 爱儿心切	ài;vy ér;pv sīn;dd ciè;qd	189
 癌干细胞	ái;bu gàn;au siì;st bāo;ob	446
-癌肝细胞	ái;bu gān;og siì;st bāo;ob	190
 爱国奋青	ài;vy guó;wy fèn;dt cīng;fo	4
 爱国将领	ài;vy guó;wy ziàng;lc lǐng;ry	567
 爱国精神	ài;vy guó;wy zīng;mo shén;pu	135
@@ -134375,7 +134373,6 @@ sort: by_weight
 安全地带	ān;bn cüán;rw de;ty dài;cj	936
 安全地点	ān;bn cüán;rw de;ty diǎn;vh	706
 安全地垫	ān;bn cüán;rw de;ty diàn;ft	137
-安全的云	ān;bn cüán;rw de;bu yún;ag	544
 安全等级	ān;bn cüán;rw děng;vc jí;sj	232
 安全登录	ān;bn cüán;rw dēng;bb lù;eu	396
 安全抵达	ān;bn cüán;rw dǐ;fu dá;zd	122
@@ -135795,7 +135792,6 @@ sort: by_weight
 白日青天	bái;po rì;wa cīng;fo tiān;ad	6
 百日维新	bǎi;ab rì;wa wéi;sv sīn;lt	28
 白日西沉	bái;po rì;wa siī;ak chén;dj	202
-白日小云	bái;po rì;wa siǎo;lb yún;ag	20
 白日绣衣	bái;po rì;wa siù;sn yī;wy	4
 白日宣淫	bái;po rì;wa süān;bd yín;dw	9
 白日饮酒	bái;po rì;wa yǐn;uq ziǔ;dy	45
@@ -199563,7 +199559,6 @@ sort: by_weight
 民主精神	mín;vv zhǔ;wt zīng;mo shén;pu	562
 民主思想	mín;vv zhǔ;wt sī;tx siǎng;ax	91
 民主选举	mín;vv zhǔ;wt süǎn;ze jǔ;xf	220
-闵字祥宾	mǐn;mw zì;bz siáng;py bīn;bb	76
 民族风情	mín;vv zú;fu fēng;jx cíng;xo	185
 民族感情	mín;vv zú;fu gǎn;gx cíng;xo	210
 民族脊梁	mín;vv zú;fu ziǐ;ro liáng;da	495
@@ -217383,13 +217378,11 @@ sort: by_weight
 球旁细胞	qiú;wq páng;wf siì;st bāo;ob	202
 秋浦花鳜	ciū;hh pǔ;df huā;cb guì;yq	144
 秋麒麟草	ciū;hh qí;gb lín;gf cǎo;cu	180
-酋崎正刚	ciú;by qí;uk zhèng;av gāng;kd	50
 秋前算账	ciū;hh cián;bd suàn;vc zhàng;bi	76
 求签问卜	qiú;au ciān;vq wèn;mk bǔ;ld	3
 求亲告友	qiú;au cīn;la gào;nk yǒu;uy	76
 求亲靠友	qiú;au cīn;la kào;nf yǒu;uy	76
 求亲使团	qiú;au cīn;la shǐ;rl tuán;wc	45
-秋秋影视	ciū;hh ciū;hh yǐng;op shì;pj	45
 秋去春来	ciū;hh qù;ts chūn;io lái;aa	288
 秋去冬来	ciū;hh qù;ts dōng;wd lái;aa	16
 求取功名	qiú;au cǚ;ey gōng;gl míng;xk	423
@@ -276285,7 +276278,7 @@ sort: by_weight
 以小引大	yǐ;lr siǎo;lb yǐn;gl dà;ar	4
 以消阴翳	yǐ;lr siāo;do yīn;eo yì;kx	194
 一笑展颜	yí;aa siào;vy zhǎn;uy yán;wy	4
-一小阵儿	yì;aa siǎo;lb zhèn;ei ér;pv	144
+一小阵儿	yì;aa siǎo;lb zhèn;ei er;pv	144
 一小阵子	yì;aa siǎo;lb zhèn;ei zi;la	19
 一笑置之	yí;aa siào;vy zhì;sq zhī;dn	433
 一肖中特	yī;aa siāo;xo zhōng;kl tè;nc	3
