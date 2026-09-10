@@ -260,7 +260,7 @@ sort: by_weight
 㞄	ān;yd	1
 㫨	ān;on	1
 㱘	àn;iv	1
-鿷	àn	1
+鿷	àn;	1
 㸩	àn;ng	1
 㽢	ǎn;td	1
 䀂	ān;bm	1
@@ -416,7 +416,7 @@ sort: by_weight
 梎	āo;ab	1
 嗸	áo;fk	1
 謸	áo;yw	1
-𪉑	áo	1
+𪉑	áo;	1
 㠂	áo;uw	1
 䴈	ǎo;pn	1
 嫯	ào;fn	1
@@ -577,7 +577,7 @@ sort: by_weight
 罷	ba;sb	1
 魞	bà;yr	1
 鮁	bà;yy	1
-鿱	bā	1
+鿱	bā;	1
 㖠	bà;ku	1
 㧊	bá;fj	1
 㭭	bā;ad	1
@@ -629,7 +629,7 @@ sort: by_weight
 𩖣	bá;wf	1
 𩖽	bá;fp	1
 𩚥	bā;ub	1
-𩠀	bā	1
+𩠀	bā;	1
 𩡩	bā;mb	1
 𩨜	bǎ;gb	1
 𩹏	bà;yq	1
@@ -802,7 +802,7 @@ sort: by_weight
 𩭧	bān;eu	1
 𩿉	bān;nf	1
 𪄕	bān;wn	1
-𪉒	bān	1
+𪉒	bān;	1
 𪒋	bān;lu	1
 𪠦	bǎn;iy	1
 𫁤	bān;ll	1
@@ -1139,10 +1139,10 @@ sort: by_weight
 䩀	bèi;fb	1
 𠋭	bèi;rk	1
 𠐡	bèi;ri	1
-𠐲	bèi	1
-𠕩	bēi	1
+𠐲	bèi;	1
+𠕩	bēi;	1
 𠢥	bèi;fl	1
-𠥧	bēi	1
+𠥧	bēi;	1
 𡋭	bèi;bt	1
 𡥞	bèi;vz	1
 𡰯	běi;uj	1
@@ -1829,7 +1829,7 @@ sort: by_weight
 𠐈	biān;rf	1
 𠑟	biān;rf	1
 𠓫	biǎn;rb	1
-𠥫	biān	1
+𠥫	biān;	1
 𠪂	biǎn;ic	1
 𠭹	biàn;by	1
 𠯴	biàn;kb	1
@@ -2610,8 +2610,8 @@ sort: by_weight
 䳝	bù;ln	1
 䴝	bù;vy	1
 𠀚	bù;ax	1
-𠁡	bǔ	1
-鿻	bù	1
+𠁡	bǔ;	1
+鿻	bù;	1
 𠘁	bù;de	1
 𠚉	bū;kh	1
 𠜙	bù;fd	1
@@ -2947,7 +2947,7 @@ sort: by_weight
 𧕐	cáo;ci	1
 𨎝	cáo;io	1
 𩞄	cáo;uo	1
-𩠎	cáo	1
+𩠎	cáo;	1
 𩫥	cáo;vk	1
 测	cè;dd	8990
 策	cè;vu	3411
@@ -4172,7 +4172,7 @@ sort: by_weight
 𩙆	chéng;fa	1
 𩛦	chèng;uw	1
 𩞦	chēng;uu	1
-𩠏	chēng	1
+𩠏	chēng;	1
 𩤙	chéng;md	1
 𩦆	chéng;ma	1
 𩨆	chéng;md	1
@@ -4516,8 +4516,8 @@ sort: by_weight
 𪅍	chì;dn	1
 𪅙	chì;un	1
 𪆵	chì;dn	1
-𪉄	chì	1
-𪉅	chì	1
+𪉄	chì;	1
+𪉅	chì;	1
 𪉗	chì;vd	1
 𪌫	chí;lx	1
 𪌹	chī;lj	1
@@ -5427,7 +5427,7 @@ sort: by_weight
 蠀	cī;ib	1
 飺	cí;vg	1
 珁	cí;ww	1
-𪉈	cí	1
+𪉈	cí;	1
 𧊒	cì;di	1
 𥻵	cí;mc	1
 㓨	cí;dd	1
@@ -5758,7 +5758,7 @@ sort: by_weight
 𪓰	cù;bd	1
 𪕝	cù;jz	1
 𪚯	cù;hg	1
-𫝖	cū	1
+𫝖	cū;	1
 𫠀	cù;jo	1
 窜	cuàn;bi	2590
 蹿	cuān;zi	2061
@@ -6151,7 +6151,7 @@ sort: by_weight
 𩏒	dá;wk	1
 𩝣	dā;ux	1
 𩟐	dá;uy	1
-𩠅	dá	1
+𩠅	dá;	1
 𩣯	dá;mo	1
 𩭣	dá;eo	1
 𩺗	dá;yk	1
@@ -7567,7 +7567,7 @@ sort: by_weight
 𧳉	dīng;vk	1
 𨡱	dǐng;yg	1
 𩜦	dìng;uz	1
-𩠆	dìng	1
+𩠆	dìng;	1
 𩠑	dǐng;dz	1
 𩡯	dīng;md	1
 𩸎	dìng;yz	1
@@ -7649,7 +7649,7 @@ sort: by_weight
 燑	dòng;hl	1
 狪	dòng;qk	1
 衕	dòng;rk	1
-鿴	dōng	1
+鿴	dōng;	1
 㐑	dōng;dv	1
 㓊	dòng;dk	1
 㖦	dǒng;kd	1
@@ -7952,7 +7952,7 @@ sort: by_weight
 𥀁	dù;lp	1
 𥀲	dú;pb	1
 𥃾	dù;ot	1
-𥆳	dū	1
+𥆳	dū;	1
 𥑯	dú;ut	1
 𥓍	dú;uu	1
 𥓇	dǔ;xu	1
@@ -8231,7 +8231,7 @@ sort: by_weight
 𪞿	dùn;td	1
 𪤯	dūn;ty	1
 𪥈	dūn;dp	1
-𫓕	dūn	1
+𫓕	dūn;	1
 𫓜	dūn;jy	1
 多	duō;xx	461539
 夺	duó;dc	6554
@@ -8328,7 +8328,7 @@ sort: by_weight
 馱	duò;md	1
 駄	duò;mt	1
 鬌	duǒ;eo	1
-鿳	duò	1
+鿳	duò;	1
 㛆	duò;na	1
 㛆	duǒ;na	1
 㣞	duò;ry	1
@@ -8340,7 +8340,7 @@ sort: by_weight
 䁟	duó;og	1
 䄍	duó;po	1
 䅜	duò;ht	1
-鿸	duò	1
+鿸	duò;	1
 䍴	duò;yn	1
 䑨	duò;vy	1
 䒳	duǒ;ca	1
@@ -9117,7 +9117,7 @@ sort: by_weight
 䉊	fáng;vi	1
 䢍	fǎng;zf	1
 䲱	fǎng;nf	1
-𠥓	fāng	1
+𠥓	fāng;	1
 𢨲	fáng;hf	1
 𣄅	fǎng;fk	1
 𥫳	fāng;vf	1
@@ -10420,7 +10420,7 @@ sort: by_weight
 𩉐	gàn;mu	1
 𩖦	gān;fv	1
 𩚵	gān;ug	1
-𩠁	gān	1
+𩠁	gān;	1
 𩢨	gān;mg	1
 𩬚	gàn;eg	1
 𩴁	gān;gk	1
@@ -11584,7 +11584,7 @@ sort: by_weight
 𠴨	guān;kl	1
 𡅭	guān;kj	1
 𡠒	guān;nc	1
-𡦹	guān	1
+𡦹	guān;	1
 𡭷	guān;xu	1
 𡮟	guān;sx	1
 𢇇	guān;yj	1
@@ -11824,7 +11824,7 @@ sort: by_weight
 䰎	guì;eb	1
 䲅	guī;yj	1
 䳏	guì;tn	1
-𠁴	guī	1
+𠁴	guī;	1
 𠐽	guì;rj	1
 𠐽	guī;rj	1
 𠜾	guì;ud	1
@@ -12153,7 +12153,7 @@ sort: by_weight
 猲	hài;qr	1
 絯	hài;sr	1
 郂	hái;we	1
-㐪	hài	1
+㐪	hài;	1
 㕢	hài;bb	1
 㜾	hái;zj	1
 㤥	hài;xr	1
@@ -12336,7 +12336,7 @@ sort: by_weight
 馯	hán;mg	1
 魽	hān;yg	1
 鳱	hàn;gn	1
-鿰	hán	1
+鿰	hán;	1
 㑵	hàn;ru	1
 㖤	hán;ku	1
 㘕	hǎn;km	1
@@ -12871,7 +12871,7 @@ sort: by_weight
 𡀽	hè;km	1
 𡇞	hé;wk	1
 𡇶	hé;sk	1
-𡎓	hè	1
+𡎓	hè;	1
 𡫥	hè;bk	1
 𢄍	hé;jm	1
 𢅰	hè;je	1
@@ -13023,7 +13023,7 @@ sort: by_weight
 𧝒	héng;pb	1
 𩙯	héng;fb	1
 𪏓	héng;bb	1
-𫰟	héng	1
+𫰟	héng;	1
 红	hóng;sg	24527
 洪	hóng;dg	2948
 宏	hóng;bs	2653
@@ -13554,7 +13554,7 @@ sort: by_weight
 𠍐	hú;rg	1
 𠥰	hū;ke	1
 𠦪	hū;uu	1
-𠪳	hǔ	1
+𠪳	hǔ;	1
 𠯳	hū;wk	1
 𠰛	hù;ug	1
 𠴱	hú;kg	1
@@ -13848,7 +13848,7 @@ sort: by_weight
 𩲏	huà;rg	1
 𩵏	huà;yb	1
 𩸄	huà;yg	1
-𪉊	huá	1
+𪉊	huá;	1
 𪗽	huá;vu	1
 𫚝	huà;yg	1
 𫜸	huà;kb	1
@@ -14027,7 +14027,7 @@ sort: by_weight
 䴟	huàn;gf	1
 䴟	huán;gf	1
 𠂄	huān;dr	1
-𠄔	huàn	1
+𠄔	huàn;	1
 𠟼	huán;yd	1
 𠺐	huàn;xj	1
 𠻍	huàn;ky	1
@@ -15356,7 +15356,7 @@ sort: by_weight
 𠟣	jī;gd	1
 𠢠	jí;ul	1
 𠥊	jī;kb	1
-𠥩	jī	1
+𠥩	jī;	1
 𠦫	jí;ku	1
 𠨕	jì;vv	1
 𠨠	jí;gj	1
@@ -15385,7 +15385,7 @@ sort: by_weight
 𡦊	jì;lz	1
 𡦪	jí;zz	1
 𡧯	jì;bx	1
-𡨜	jì	1
+𡨜	jì;	1
 𡪱	jì;bq	1
 𡫀	jī;bw	1
 𡬄	jì;bu	1
@@ -15718,9 +15718,9 @@ sort: by_weight
 賈	jià;xb	1
 鴐	jiā;ln	1
 龿	jiā;ct	1
-鿼	jiā	1
+鿼	jiā;	1
 㔠	jiá;ol	1
-㔖	jiā	1
+㔖	jiā;	1
 㕅	jiǎ;ij	1
 㚙	jiā;ld	1
 㪴	jiá;yd	1
@@ -15789,7 +15789,7 @@ sort: by_weight
 𩌍	jiǎ;cm	1
 𩚲	jiá;uj	1
 𩛩	jiá;ur	1
-𩠃	jiá	1
+𩠃	jiá;	1
 𩨹	jiǎ;gj	1
 𩲣	jiǎ;jg	1
 𩶛	jiā;yk	1
@@ -16621,7 +16621,7 @@ sort: by_weight
 𤃭	jiǎo;dh	1
 𤉧	jiǎo;xw	1
 𤊙	jiāo;rh	1
-𤒅	jiāo	1
+𤒅	jiāo;	1
 𤓪	jiāo;rh	1
 𤕝	jiào;xy	1
 𤫷	jiào;ug	1
@@ -17039,7 +17039,7 @@ sort: by_weight
 𪃈	jié;fn	1
 𪅸	jié;fn	1
 𪇲	jié;xn	1
-𪉋	jié	1
+𪉋	jié;	1
 𪉚	jiē;vm	1
 𪌧	jié;lk	1
 𪑹	jiè;lj	1
@@ -17635,7 +17635,7 @@ sort: by_weight
 𠜉	jiǔ;ld	1
 𠠳	jiū;jl	1
 𠣿	jiù;bu	1
-𠥬	jiù	1
+𠥬	jiù;	1
 𠴄	jiǔ;kv	1
 𠿈	jiū;kx	1
 𡆥	jiù;wb	1
@@ -17967,7 +17967,7 @@ sort: by_weight
 𡸘	jū;uy	1
 𡸨	jū;uy	1
 𡿾	jú;vv	1
-𢀓	jù	1
+𢀓	jù;	1
 𢚆	jù;xl	1
 𢤫	jǔ;xf	1
 𢩁	jú;hj	1
@@ -18217,7 +18217,7 @@ sort: by_weight
 𩜇	juàn;uv	1
 𩜇	juǎn;uv	1
 𩟥	juǎn;uk	1
-𩠉	juǎn	1
+𩠉	juǎn;	1
 觉	jué;xj	6663
 决	jué;dg	3510
 绝	jué;sb	3439
@@ -18412,8 +18412,8 @@ sort: by_weight
 𢱺	juē;fp	1
 𢴭	juē;su	1
 𣅡	jué;og	1
-𣅞	jué	1
-𣅲	jué	1
+𣅞	jué;	1
+𣅲	jué;	1
 𣖬	jué;aq	1
 𣨢	juè;di	1
 𣬎	jué;dg	1
@@ -19816,7 +19816,7 @@ sort: by_weight
 䠅	kǔn;zh	1
 䪲	kūn;wy	1
 𠚯	kūn;wd	1
-𡈋	kǔn	1
+𡈋	kǔn;	1
 𡖉	kūn;xd	1
 𢈛	kùn;ga	1
 𣏔	kùn;va	1
@@ -20337,12 +20337,12 @@ sort: by_weight
 哴	láng;kl	1
 樃	láng;ao	1
 誏	làng;yl	1
-鿶	láng	1
+鿶	láng;	1
 㓪	lǎng;ld	1
 㟍	láng;ul	1
 㢃	láng;gl	1
 㱢	láng;dl	1
-鿾	làng	1
+鿾	làng;	1
 㾿	lǎng;be	1
 䀶	lǎng;ol	1
 䁁	lǎng;ox	1
@@ -20447,7 +20447,7 @@ sort: by_weight
 㟉	láo;un	1
 㟙	lǎo;uo	1
 㟹	láo;ue	1
-鿲	láo	1
+鿲	láo;	1
 㨓	láo;fn	1
 㧯	lǎo;fl	1
 䃕	láo;hu	1
@@ -21147,7 +21147,7 @@ sort: by_weight
 𠩵	lì;ia	1
 𠪄	lì;it	1
 𠪺	lì;if	1
-𠪱	lì	1
+𠪱	lì;	1
 𠪿	lì;ii	1
 𠫌	lì;iu	1
 𠭰	lí;wy	1
@@ -22562,7 +22562,7 @@ sort: by_weight
 𪇯	liú;xn	1
 𪎣	liú;gi	1
 𪕚	liú;jl	1
-𫞉	liǔ	1
+𫞉	liǔ;	1
 𠮩	liū;kl	1
 𤠑	liú;qt	1
 咯	lo;kk	4946
@@ -23695,7 +23695,7 @@ sort: by_weight
 菻	má;ca	1
 螞	mà;im	1
 螞	mā;im	1
-㐃	ma	1
+㐃	ma;	1
 㐷	mà;rm	1
 㑻	mà;ru	1
 㦄	má;gx	1
@@ -23766,7 +23766,7 @@ sort: by_weight
 𪡃	mǎi;kd	1
 䜕	mài;yd	1
 𪄳	mài;ln	1
-鿺	mài	1
+鿺	mài;	1
 㜥	mái;nb	1
 㦟	mái;vx	1
 䁲	mái;ob	1
@@ -23919,7 +23919,7 @@ sort: by_weight
 𪍩	mán;ly	1
 𪑪	mán;bh	1
 𪮳	mán;fi	1
-𫞜	mǎn	1
+𫞜	mǎn;	1
 忙	máng;xw	12406
 芒	máng;cw	2808
 盲	máng;wo	2527
@@ -24307,7 +24307,7 @@ sort: by_weight
 𩴈	mèi;og	1
 𪂜	méi;an	1
 𪃏	méi;gn	1
-𪉏	méi	1
+𪉏	méi;	1
 𪎦	měi;ga	1
 𪎭	méi;gu	1
 𪾛	mèi;dm	1
@@ -24681,7 +24681,7 @@ sort: by_weight
 㩢	mí;fd	1
 㫘	mì;bo	1
 㰽	mǐ;kq	1
-鿹	mì	1
+鿹	mì;	1
 㳴	mì;dt	1
 㳽	mǐ;dx	1
 㴵	mì;dm	1
@@ -25160,7 +25160,7 @@ sort: by_weight
 𩭷	mín;el	1
 𪂆	mín;un	1
 𪄴	mǐn;pn	1
-𪉎	mín	1
+𪉎	mín;	1
 𫒏	mǐn;jm	1
 𫞖	mín;md	1
 名	míng;xk	73768
@@ -25730,7 +25730,7 @@ sort: by_weight
 𨚗	nà;re	1
 𩏼	nà;wn	1
 𩚛	nà;un	1
-𩟿	nà	1
+𩟿	nà;	1
 𩮅	nà;ex	1
 𩮸	nà;ew	1
 𩹾	nà;yn	1
@@ -26442,7 +26442,7 @@ sort: by_weight
 𩭑	niǎo;ei	1
 𪅝	niǎo;nn	1
 𪈼	niǎo;nn	1
-𪉓	niǎo	1
+𪉓	niǎo;	1
 𫠓	niǎo;na	1
 捏	niē;ft	10139
 涅	niè;dt	2565
@@ -27933,7 +27933,7 @@ sort: by_weight
 𪄆	pí;pn	1
 𪄆	pī;pn	1
 𪇊	pì;nx	1
-𪉔	pī	1
+𪉔	pī;	1
 𪊕	pí;gb	1
 𪌈	pí;lb	1
 𪖞	pì;zp	1
@@ -29103,7 +29103,7 @@ sort: by_weight
 𪙧	qí;vr	1
 𪜵	qǐ;ro	1
 𪥪	qí;nj	1
-𪦧	qí	1
+𪦧	qí;	1
 𫅆	qī;kn	1
 𠺪	qì;km	1
 恰	qià;xk	4675
@@ -30448,11 +30448,11 @@ sort: by_weight
 䨂	qiū;hv	1
 䱸	qiū;yy	1
 𠀉	qiū;ia	1
-𠀈	qiū	1
-𠀌	qiū	1
+𠀈	qiū;	1
+𠀌	qiū;	1
 𠗈	qiú;dq	1
 𠰋	qiū;kq	1
-𡆢	qiú	1
+𡆢	qiú;	1
 𡊣	qiū;qt	1
 𡲚	qiú;uy	1
 𢈝	qiú;gq	1
@@ -30679,7 +30679,7 @@ sort: by_weight
 𠇯	qù;rq	1
 𠍲	qú;ra	1
 𠏛	qú;rf	1
-𠙴	qū	1
+𠙴	qū;	1
 𠚖	qū;aw	1
 𠣪	qú;jj	1
 𡟥	qǔ;ny	1
@@ -30773,7 +30773,7 @@ sort: by_weight
 𪄊	qú;on	1
 𪆂	qú;dn	1
 𪆫	qú;na	1
-𪉌	qú	1
+𪉌	qú;	1
 𪋄	qǔ;gy	1
 𪌆	qú;ly	1
 𪌬	qū;lm	1
@@ -31323,7 +31323,7 @@ sort: by_weight
 𧴬	rèn;bd	1
 𨉃	rèn;ru	1
 𩑉	rěn;lx	1
-𩠈	rěn	1
+𩠈	rěn;	1
 𩵕	rèn;yd	1
 𪔺	rèn;jd	1
 𣏴	rén;ae	1
@@ -33178,7 +33178,7 @@ sort: by_weight
 𦖞	shēng;ue	1
 𦛙	shèng;oi	1
 𦩱	shéng;vt	1
-𦫵	shēng	1
+𦫵	shēng;	1
 𦳗	shěng;co	1
 𧍖	shěng;io	1
 𧡶	shèng;oj	1
@@ -33466,7 +33466,7 @@ sort: by_weight
 䶵	shǐ;rj	1
 𠀍	shì;cv	1
 𠁗	shì;ud	1
-𠁱	shì	1
+𠁱	shì;	1
 𠂕	shǐ;pf	1
 𠃭	shǐ;vv	1
 𠇳	shī;rj	1
@@ -33643,7 +33643,7 @@ sort: by_weight
 㧃	shōu;fj	1
 䛵	shòu;yy	1
 䭭	shǒu;by	1
-𠂿	shǒu	1
+𠂿	shǒu;	1
 𠱔	shòu;kc	1
 𠷃	shòu;ky	1
 𠷎	shòu;gk	1
@@ -34321,7 +34321,7 @@ sort: by_weight
 𠋡	sì;rg	1
 𠒃	sì;le	1
 𠑾	sǐ;de	1
-𠒅	sì	1
+𠒅	sì;	1
 𠖓	sī;bx	1
 𠩕	sī;im	1
 𠭈	sì;vy	1
@@ -34430,7 +34430,7 @@ sort: by_weight
 梥	sōng;ba	23
 庺	sōng;ga	1
 𧊕	sōng;iu	1
-𩠌	sòng	1
+𩠌	sòng;	1
 㩳	sǒng;fy	1
 𡾼	sǒng;uy	1
 吅	sòng;kk	1
@@ -34956,7 +34956,7 @@ sort: by_weight
 𩪦	suǐ;gg	1
 𩮴	suī;ev	1
 𫔽	suí;et	1
-𫞓	suì	1
+𫞓	suì;	1
 损	sǔn;fb	7511
 孙	sūn;zx	3069
 笋	sǔn;vy	2486
@@ -35796,7 +35796,7 @@ sort: by_weight
 𠚜	tāo;aj	1
 𠚡	tāo;aj	1
 𠞞	tāo;vd	1
-𠥪	tāo	1
+𠥪	tāo;	1
 𠬢	tāo;cy	1
 𡍒	táo;tf	1
 𡸅	tāo;uw	1
@@ -36080,7 +36080,7 @@ sort: by_weight
 𣖸	tí;ax	1
 𣜹	tì;yd	1
 𣤖	tì;iq	1
-𣥠	tī	1
+𣥠	tī;	1
 𣧂	tì;dd	1
 𣸒	tí;dx	1
 𤗘	tí;pz	1
@@ -36885,7 +36885,7 @@ sort: by_weight
 𩥽	tú;mm	1
 𩸃	tù;yt	1
 𩾅	tù;yt	1
-𪉍	tū	1
+𪉍	tū;	1
 𪑏	tú;lm	1
 𫟏	tù;cd	1
 团	tuán;wc	19264
@@ -36946,7 +36946,7 @@ sort: by_weight
 𩃘	tuán;yd	1
 𩘯	tuán;fc	1
 𩜵	tuán;ue	1
-𩠊	tuán	1
+𩠊	tuán;	1
 𩠹	tuán;vz	1
 𪈋	tuán;wn	1
 𪏖	tuān;ce	1
@@ -37188,8 +37188,8 @@ sort: by_weight
 毤	tuò;gm	1
 莌	tuō;cx	1
 籜	tuò;vg	1
-鿳	tuò	1
-鿸	tuò	1
+鿳	tuò;	1
+鿸	tuò;	1
 䓕	tuǒ;cy	1
 狏	tuó;qy	1
 侻	tuó;rx	1
@@ -38050,7 +38050,7 @@ sort: by_weight
 𡼱	wéi;uf	1
 𢉝	wèi;gy	1
 𢊯	wěi;gw	1
-𢑭	wèi	1
+𢑭	wèi;	1
 𢣘	wèi;sx	1
 𢯷	wěi;ff	1
 𢲴	wèi;uu	1
@@ -38324,7 +38324,7 @@ sort: by_weight
 𩢌	wén;wm	1
 𩥈	wēn;mm	1
 𩭋	wén;ea	1
-𪉃	wén	1
+𪉃	wén;	1
 𪉸	wēn;vm	1
 𪶸	wěn;dx	1
 薀	wēn;cm	1
@@ -39309,7 +39309,7 @@ sort: by_weight
 𣯪	xǐ;mz	1
 𣳦	xì;dx	1
 𣳬	xí;df	1
-𣴁	xī	1
+𣴁	xī;	1
 𤀠	xī;dh	1
 𤃪	xī;dg	1
 𤄎	xì;de	1
@@ -41126,7 +41126,7 @@ sort: by_weight
 𠛬	xíng;gd	1
 𠦡	xìng;tg	1
 𠬋	xīng;su	1
-鿿	xìng	1
+鿿	xìng;	1
 𡃳	xīng;kb	1
 𡴘	xìng;yn	1
 𡶭	xíng;ud	1
@@ -41631,7 +41631,7 @@ sort: by_weight
 𩔴	xù;gy	1
 𩔼	xù;gy	1
 𩝔	xǔ;uo	1
-𩠋	xǔ	1
+𩠋	xǔ;	1
 𩣊	xù;md	1
 𩪉	xù;gb	1
 𩰠	xǔ;kz	1
@@ -41805,7 +41805,7 @@ sort: by_weight
 𠣖	xuán;bx	1
 𠤰	xuán;kg	1
 𠥞	xuán;kw	1
-𠵓	xuán	1
+𠵓	xuán;	1
 𠵷	xuàn;ky	1
 𡈣	xuān;ws	1
 𡈴	xuán;wx	1
@@ -42174,7 +42174,7 @@ sort: by_weight
 𨼔	xún;ec	1
 𩊻	xùn;cw	1
 𩖰	xún;fw	1
-𩠇	xùn	1
+𩠇	xùn;	1
 𩪱	xūn;gh	1
 𩷰	xùn;yu	1
 𩾄	xùn;yu	1
@@ -42322,7 +42322,7 @@ sort: by_weight
 䯉	yà;gq	1
 䰲	yà;yv	1
 䵝	yà;lv	1
-𠃉	yà	1
+𠃉	yà;	1
 𠄮	yà;ey	1
 𠋗	yā;ry	1
 𠜲	yā;yd	1
@@ -44220,7 +44220,7 @@ sort: by_weight
 䵝	yì;lv	1
 𠁼	yī;dd	1
 𠂆	yì;pp	1
-𠂣	yī	1
+𠂣	yī;	1
 𠄱	yí;ei	1
 𠅃	yì;wr	1
 𠅌	yí;wd	1
@@ -44296,7 +44296,7 @@ sort: by_weight
 𢏗	yì;gg	1
 𢑏	yì;pe	1
 𢑞	yì;hj	1
-𢑱	yí	1
+𢑱	yí;	1
 𢓀	yì;rg	1
 𢓡	yí;ry	1
 𢕷	yí;rw	1
@@ -44448,7 +44448,7 @@ sort: by_weight
 𧺿	yì;tu	1
 𧾰	yì;tg	1
 𨋯	yì;iy	1
-𨙨	yì	1
+𨙨	yì;	1
 𨛯	yí;be	1
 𨜶	yì;be	1
 𨜽	yí;he	1
@@ -44483,7 +44483,7 @@ sort: by_weight
 𩛮	yí;ur	1
 𩞾	yì;ui	1
 𩟉	yì;ut	1
-𩠂	yǐ	1
+𩠂	yǐ;	1
 𩡣	yǐ;hw	1
 𩣞	yì;mj	1
 𩤒	yí;mq	1
@@ -44756,7 +44756,7 @@ sort: by_weight
 䴛	yín;vo	1
 䴦	yín;gk	1
 𠃊	yǐn;vv	1
-𠆭	yīn	1
+𠆭	yīn;	1
 𠖟	yīn;bd	1
 𠪚	yín;iw	1
 𠪘	yín;io	1
@@ -45135,7 +45135,7 @@ sort: by_weight
 𫝭	yīng;nn	1
 𫞯	yíng;nm	1
 𫞰	yíng;nm	1
-𫠕	yīng	1
+𫠕	yīng;	1
 哟	yō;ku	9737
 唷	yō;ko	1840
 喲	yō;ku	1432
@@ -45584,7 +45584,7 @@ sort: by_weight
 𪸅	yóu;dx	1
 𪾏	yǒu;bm	1
 𫚸	yǒu;no	1
-𫝁	yǒu	1
+𫝁	yǒu;	1
 𫠘	yòu;xy	1
 与	yǔ;va	1380382
 于	yú;au	515737
@@ -46047,10 +46047,10 @@ sort: by_weight
 𠒍	yú;jv	1
 𠓱	yù;rd	1
 𠔔	yǔ;yl	1
-𠕒	yǔ	1
+𠕒	yǔ;	1
 𠕘	yǔ;kx	1
 𠕦	yù;od	1
-𠕲	yǔ	1
+𠕲	yǔ;	1
 𠧇	yú;bc	1
 𠫣	yù;sn	1
 𠱐	yǔ;kb	1
@@ -46240,7 +46240,7 @@ sort: by_weight
 𪃎	yú;rn	1
 𪇝	yú;ry	1
 𪇬	yù;jn	1
-𪉐	yú	1
+𪉐	yú;	1
 𪊻	yú;gb	1
 𪋉	yù;gy	1
 𪋬	yǔ;gt	1
@@ -46443,7 +46443,7 @@ sort: by_weight
 𢱽	yuān;fx	1
 𢷻	yuán;fu	1
 𣶒	yuān;pa	1
-𣸼	yuán	1
+𣸼	yuán;	1
 𣹠	yuān;dt	1
 𤬌	yuán;hg	1
 𥭞	yuàn;vo	1
@@ -46849,7 +46849,7 @@ sort: by_weight
 𩏅	yùn;wy	1
 𩏆	yùn;wd	1
 𩴉	yùn;gb	1
-𪉂	yùn	1
+𪉂	yùn;	1
 𪍝	yùn;lm	1
 𪏔	yǔn;cy	1
 𪏚	yǔn;cb	1
@@ -48406,7 +48406,7 @@ sort: by_weight
 𠘱	zhěn;jp	1
 𠛶	zhēn;bd	1
 𠠹	zhěn;bl	1
-𠤛	zhēn	1
+𠤛	zhēn;	1
 𠬓	zhěn;sx	1
 𠵧	zhén;ik	1
 𠸸	zhēn;kk	1
@@ -48457,7 +48457,7 @@ sort: by_weight
 𪁧	zhèn;in	1
 𪇳	zhēn;nk	1
 𪈁	zhēn;vn	1
-𪉕	zhēn	1
+𪉕	zhēn;	1
 𪐲	zhèn;lp	1
 𪑳	zhěn;lb	1
 𪣗	zhèn;it	1
@@ -48562,7 +48562,7 @@ sort: by_weight
 䦛	zhèng;my	1
 䫆	zhèng;iy	1
 䱢	zhēng;yy	1
-𠄙	zhēng	1
+𠄙	zhēng;	1
 𠏫	zhěng;rm	1
 𠑅	zhēng;rb	1
 𠔻	zhèng;jb	1
@@ -48868,7 +48868,7 @@ sort: by_weight
 驇	zhì;tm	1
 㡳	zhǐ;gu	1
 𩷓	zhì;yx	1
-𪉆	zhī	1
+𪉆	zhī;	1
 縶	zhí;tx	1
 鴲	zhī;bn	1
 㙷	zhí;th	1
@@ -48909,7 +48909,7 @@ sort: by_weight
 蚔	zhǐ;iu	1
 銴	zhì;fj	1
 鶨	zhì;hn	1
-鿵	zhì	1
+鿵	zhì;	1
 㕄	zhì;iy	1
 㗌	zhì;kt	1
 㗧	zhì;kt	1
@@ -49318,10 +49318,10 @@ sort: by_weight
 䝦	zhōng;vu	1
 䱰	zhòng;yv	1
 䳋	zhòng;in	1
-𠁦	zhōng	1
-𠁧	zhōng	1
-𠁩	zhōng	1
-𠂂	zhōng	1
+𠁦	zhōng;	1
+𠁧	zhōng;	1
+𠁩	zhōng;	1
+𠂂	zhōng;	1
 𠊥	zhǒng;ru	1
 𠔈	zhōng;bv	1
 𠔙	zhōng;pb	1
@@ -49486,7 +49486,7 @@ sort: by_weight
 𠂗	zhōu;ex	1
 𠃕	zhōu;pv	1
 𠄗	zhōu;kl	1
-𠄓	zhōu	1
+𠄓	zhōu;	1
 𠊣	zhòu;ri	1
 𠋢	zhòu;ry	1
 𠚴	zhōu;vd	1
@@ -49503,7 +49503,7 @@ sort: by_weight
 𢷗	zhòu;fu	1
 𢼲	zhòu;py	1
 𢽧	zhōu;ky	1
-𣅯	zhòu	1
+𣅯	zhòu;	1
 𣆔	zhòu;ov	1
 𣥯	zhǒu;vo	1
 𣻱	zhòu;dd	1
@@ -50021,7 +50021,7 @@ sort: by_weight
 𪁈	zhuàng;gn	1
 𪄻	zhuāng;nj	1
 𪅖	zhuāng;in	1
-𪉉	zhuàng	1
+𪉉	zhuàng;	1
 𪺟	zhuāng;pt	1
 追	zhuī;zl	20617
 椎	zhuī;av	2660
