@@ -286,7 +286,8 @@ def process_dict_file(in_file: str, out_file: str, aux_map: Dict[str, str], sep:
                         aux = upstream_aux
                     else:
                         missing_chars.add(ch)
-                new_cols.append(f"{py}{sep}{aux}" if aux else py)
+                # 统一格式：拼音;辅码（辅码为空时保留分号占位）
+                new_cols.append(f"{py}{sep}{aux}")
             fout.write(
                 "\t".join([han, " ".join(new_cols)] + ([col3] if col3 else []) + ([col4] if col4 else [])) + "\n"
             )
