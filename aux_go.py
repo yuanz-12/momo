@@ -59,6 +59,16 @@ TONE_TO_MARK = {
     "3": "\u030c",  # 三声 → 抑扬符
     "4": "\u0300",  # 四声 → 重音符
     "5": "",        # 轻声 → 去掉数字、不加符号
+    ("n", "1"): "n\u0304",   # n̄（理论存在，罕见）
+    ("n", "2"): "\u0144",    # ń（嗯）
+    ("n", "3"): "\u0148",    # ň（嗯）
+    ("n", "4"): "\u01f9",    # ǹ（嗯）
+    ("ng", "2"): "\u0144g",  # ńg（嗯）
+    ("ng", "3"): "\u0148g",  # ňg（嗯）
+    ("ng", "4"): "\u01f9g",  # ǹg（嗯）
+    ("m", "1"): "m\u0304",   # m̄（呣）
+    ("m", "2"): "\u1e3f",    # ḿ（呒）
+    ("m", "4"): "m\u0300",   # m̀（呣）
 }
 
 
@@ -124,7 +134,8 @@ def _place_tone(base: str, mark: str) -> str:
 
 def digit_to_mark(pinyin: str) -> str:
     """数字声调 → 声调符号（convert_tone 的逆操作，mark 模式用）。
-    ba1→bā，lv3→lǚ，er5→er（轻声去数字不加符）；无数字的段仅做 v→ü 正字处理。"""
+    ba1→bā，lv3→lǚ，er5→er（轻声去数字不加符）；无数字的段仅做 v→ü 正字处理。
+    零元音音节（n/ng/m 等）按 VOWELLESS_TONE 特判表处理。"""
     if not pinyin:
         return pinyin
     if pinyin[-1] in "12345":
@@ -134,10 +145,19 @@ def digit_to_mark(pinyin: str) -> str:
     if STANDARD_JQXY:
         base = re.sub(r"([jqxy])v", r"\1u", base)   # jū 而非 jǖ（标准正字法）
     base = base.replace("v", "\u00fc")              # 其余 v → ü
+    # 零元音音节特判：n/ng/m 没有元音可标调，查表整音节映射
+    if not re.search(r"[aeiou\u00fc]", base):
+        if not tone or tone == "5":
+            return unicodedata.normalize("NFC", base)          # 轻声/无调 → 裸音节
+        mapped = VOWELLESS_TONE.get((base, tone))
+        if mapped:
+            return unicodedata.normalize("NFC", mapped)
+        return unicodedata.normalize("NFC", base)              # 未收录组合 → 裸音节兜底
     mark = TONE_TO_MARK.get(tone, "")
     if mark:
         return _place_tone(base, mark)
     return unicodedata.normalize("NFC", base)
+
 
 
 def clean_aux_from_seg(seg: str) -> str:
