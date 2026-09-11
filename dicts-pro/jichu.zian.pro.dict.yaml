@@ -335,7 +335,7 @@ sort: by_weight
 荸荠	bí;cz cii;cq	492
 俾钱	bǐ;ru cián;jj	1426
 比前	bǐ;bb cián;bd	1355
-逼抢	bī;zt ciǎng;fv	6029
+逼抢	bī;zt ciǎng;fv	2810
 吡嗪	bǐ;kb cín;kh	572
 避秦	bì;zx cín;ih	441
 笔情	bǐ;vm cíng;xo	531
@@ -35397,7 +35397,7 @@ sort: by_weight
 泛对象	fàn;df duì;yc siàng;du	50
 反对性	fǎn;iy duì;yc sìng;xu	580
 犯恶心	fàn;qv ě;yx sīn;dd	273
-范儿姐	fàn;cv ér;pv ziě;nq	63
+范儿姐	fàn;cv er;pv ziě;nq	63
 泛发性	fàn;df fā;fy sìng;xu	395
 反复嚼	fǎn;iy fù;pw züé;kc	288
 凡夫心	fán;jd fū;er sīn;dd	297
@@ -57052,6 +57052,7 @@ sort: by_weight
 借一本	ziè;ro yì;aa běn;aa	66
 接一传	ziē;fn yī;aa chuán;rv	188
 借一点	ziè;ro yì;aa diǎn;vh	585
+接一点	ziē;fn yì;aa diǎn;vh	201
 借衣服	ziè;ro yī;wy fu;oy	482
 借一个	ziè;ro yí;aa gè;rl	807
 接一个	ziē;fn yí;aa gè;rl	131
@@ -74103,7 +74104,7 @@ sort: by_weight
 齐发展	cií;wl fā;fy zhǎn;uy	500
 七返丹	ciī;av fǎn;zy dān;kd	45
 七番队	ciī;av fān;mt duì;er	346
-七范儿	ciī;av fàn;cv ér;pv	4
+七范儿	ciī;av fàn;cv er;pv	4
 七方面	ciī;av fāng;wv miàn;ao	482
 起飞前	qǐ;tj fēi;vd cián;bd	361
 起飞线	qǐ;tj fēi;vd siàn;sj	333
@@ -94290,6 +94291,7 @@ sort: by_weight
 推荐类	tuī;fv ziàn;cz lèi;md	1017
 推荐量	tuī;fv ziàn;cz liàng;ol	702
 推荐率	tuī;fv ziàn;cz lǜ;wu	540
+推荐吗	tuī;fv ziàn;cz ma;km	299
 推荐码	tuī;fv ziàn;cz mǎ;um	107
 推荐买	tuī;fv ziàn;cz mǎi;ad	1174
 推荐面	tuī;fv ziàn;cz miàn;ao	639
@@ -120095,7 +120097,7 @@ sort: by_weight
 性发育	sìng;xu fā;fy yù;wo	69
 性发展	sìng;xu fā;fy zhǎn;uy	1264
 姓范的	sìng;nu fàn;cv de;bu	20
-星范儿	sīng;ou fàn;cv ér;pv	585
+星范儿	sīng;ou fàn;cv er;pv	585
 性贩卖	sìng;xu fàn;by mài;ud	378
 性反应	sìng;xu fǎn;iy yìng;ga	41
 性反转	sìng;xu fǎn;iy zhuǎn;iv	471
@@ -133791,14 +133793,6 @@ sort: by_weight
 阿托西班	ā;ek tuō;fq siī;ak bān;wl	99
 阿西棘豆	ā;ek siī;ak jí;uu dòu;ab	50
 阿西里西	ā;ek siī;ak lǐ;tt siī;ak	162
-阿昔洛韦	ā;ek siī;co luò;dk wéi;fv	60
-阿昔洛伟	ā;ek siī;co luò;dk wěi;rw	54
-阿西洛韦	ā;ek siī;ak luò;dk wéi;fv	49
-阿西美辛	ā;ek siī;ak měi;yd sīn;lu	4
-阿西莫司	ā;ek siī;ak mò;cd sī;vk	189
-阿昔莫司	ā;ek siī;co mò;cd sī;vk	84
-阿昔替尼	ā;ek siī;co tì;fo ní;ub	212
-阿西替尼	ā;ek siī;ak tì;fo ní;ub	175
 阿细跳月	ā;ek siì;st tiào;zv yuè;ke	266
 阿香米线	ā;ek xiāng;ho mǐ;ba siàn;sj	536
 阿修罗道	ā;ek siū;rp luó;sx dào;zz	69
@@ -133817,7 +133811,6 @@ sort: by_weight
 皑皑雪山	ái;bj ái;bj süě;ye shān;kl	508
 哀哀欲绝	āi;yk āi;yk yù;gq züé;sb	238
 矮半截儿	ǎi;un bàn;bf zié;gv ér;pv	4
-爱博而心	ài;vy bó;uc ér;al sīn;dd	144
 爱不惜手	ài;vy bù;ab siī;xo shǒu;pf	490
 爱不需要	ài;vy bù;ab sǖ;ye yào;xn	16
 爱财集团	ài;vy cái;bc zií;ra tuán;wc	266
@@ -144751,11 +144744,11 @@ sort: by_weight
 充满想象	chōng;wy mǎn;dl siǎng;ax siàng;du	909
 充满笑点	chōng;wy mǎn;dl siào;vy diǎn;vh	279
 充满硝烟	chōng;wy mǎn;dl siāo;uo yān;hy	324
-充满血性	chōng;wy mǎn;dl xiě;pm sìng;xu	382
 充满心机	chōng;wy mǎn;dl sīn;dd jī;aj	387
 充满信心	chōng;wy mǎn;dl sìn;rk sīn;dd	1036
 充满新意	chōng;wy mǎn;dl sīn;lt yì;lx	454
 充满兴趣	chōng;wy mǎn;dl xìng;xb cǜ;ty	742
+充满血性	chōng;wy mǎn;dl xuè;pm sìng;xu	382
 充满野性	chōng;wy mǎn;dl yě;ly sìng;xu	540
 充满自信	chōng;wy mǎn;dl zì;po sìn;rk	950
 重门须闭	chóng;ql mén;dv sǖ;py bì;mc	180
@@ -163487,7 +163480,7 @@ sort: by_weight
 国际法院	guó;wy ziì;eu fǎ;dq yuàn;ey	41
 国际发展	guó;wy ziì;eu fā;fy zhǎn;uy	810
 国际饭店	guó;wy ziì;eu fàn;uy diàn;gv	122
-国际范儿	guó;wy ziì;eu fàn;cv ér;pv	756
+国际范儿	guó;wy ziì;eu fàn;cv er;pv	756
 国际帆联	guó;wy ziì;eu fān;jf lián;et	486
 国际反战	guó;wy ziì;eu fǎn;iy zhàn;vg	302
 国际方面	guó;wy ziì;eu fāng;wv miàn;ao	608
@@ -179135,6 +179128,7 @@ sort: by_weight
 截叶毛茛	zié;gv yè;ku máo;pv gèn;cg	76
 姐也一样	ziě;nq yě;vv yí;aa yàng;ay	274
 接一电话	ziē;fn yí;aa diàn;ov huà;yu	356
+接一点水	ziē;fn yì;aa diǎn;vh shuǐ;ln	131
 借一个号	ziè;ro yí;aa gè;rl hào;kk	50
 截一个图	zié;gv yí;aa gè;rl tú;wd	13
 接一技能	ziē;fn yī;aa jì;fv néng;sb	207
@@ -184556,7 +184550,7 @@ sort: by_weight
 精英电脑	zīng;mo yīng;cy diàn;ov nǎo;ox	266
 精英斗士	zīng;mo yīng;cy dòu;ud shì;ua	76
 精英队伍	zīng;mo yīng;cy duì;er wǔ;rw	405
-精英范儿	zīng;mo yīng;cy fàn;cv ér;pv	38
+精英范儿	zīng;mo yīng;cy fàn;cv er;pv	38
 精英分子	zīng;mo yīng;cy fèn;bd zǐ;la	558
 菁英分子	zīng;co yīng;cy fèn;bd zǐ;la	99
 精英峰会	zīng;mo yīng;cy fēng;uf huì;ry	266
@@ -199817,7 +199811,7 @@ sort: by_weight
 明星导师	míng;oo sīng;ou dǎo;sc shī;lj	608
 明星电力	míng;oo sīng;ou diàn;ov lì;vp	468
 明星发型	míng;oo sīng;ou fà;fy xíng;kt	387
-明星范儿	míng;oo sīng;ou fàn;cv ér;pv	526
+明星范儿	míng;oo sīng;ou fàn;cv er;pv	526
 明星粉丝	míng;oo sīng;ou fěn;mf sī;sa	670
 明星富豪	míng;oo sīng;ou fù;bt háo;wu	392
 明星夫妻	míng;oo sīng;ou fū;er ciī;un	792
@@ -213413,7 +213407,7 @@ sort: by_weight
 清纯动人	cīng;do chún;st dòng;yl rén;pn	441
 青春痘吗	cīng;fo chūn;io dòu;bb ma;km	270
 清纯短发	cīng;do chún;st duǎn;ub fà;fy	50
-青春范儿	cīng;fo chūn;io fàn;cv ér;pv	310
+青春范儿	cīng;fo chūn;io fàn;cv er;pv	310
 青春芳华	cīng;fo chūn;io fāng;cf huá;ru	153
 青春风暴	cīng;fo chūn;io fēng;jx bào;ou	301
 清纯风格	cīng;do chún;st fēng;jx gé;ak	297
@@ -214401,7 +214395,6 @@ sort: by_weight
 清华姚班	cīng;do huá;ru yáo;nv bān;wl	486
 青花椰菜	cīng;fo huā;cb yē;ae cài;ca	338
 清华医院	cīng;do huá;ru yī;ku yuàn;ey	153
-清化饮二	cīng;do huà;rb yǐn;uq èr;aa	45
 氰化银钾	cíng;qo huà;rb yín;jg jiǎ;jj	144
 清华优才	cīng;do huá;ru yōu;ry cái;up	225
 清华园路	cīng;do huá;ru yuán;wy lù;zk	189
@@ -216524,7 +216517,7 @@ sort: by_weight
 清新的风	cīng;do sīn;lt de;bu fēng;jx	711
 清新的蓝	cīng;do sīn;lt de;bu lán;cm	432
 清新典雅	cīng;do sīn;lt diǎn;qb yǎ;yv	536
-清新范儿	cīng;do sīn;lt fàn;cv ér;pv	549
+清新范儿	cīng;do sīn;lt fàn;cv er;pv	549
 清新风格	cīng;do sīn;lt fēng;jx gé;ak	783
 倾心付出	qīng;ry sīn;dd fù;rc chū;uu	302
 清新福建	cīng;do sīn;lt fú;pt jiàn;zy	616
@@ -250201,7 +250194,7 @@ sort: by_weight
 仙女阿姨	siān;ru nǚ;va ā;ek yí;ny	130
 仙女本仙	siān;ru nǚ;va běn;aa siān;ru	315
 仙女短鲷	siān;ru nǚ;va duǎn;ub diāo;yk	50
-仙女范儿	siān;ru nǚ;va fàn;cv ér;pv	320
+仙女范儿	siān;ru nǚ;va fàn;cv er;pv	320
 仙女河路	siān;ru nǚ;va hé;dk lù;zk	99
 仙女很酷	siān;ru nǚ;va hěn;rg kù;yk	45
 仙女教母	siān;ru nǚ;va jiào;lw mǔ;md	418
@@ -258219,7 +258212,7 @@ sort: by_weight
 小小豆腐	siǎo;lb siǎo;lb dòu;ab fu;gr	130
 萧萧而下	siāo;cb siāo;cb ér;al xià;ab	189
 小小饭店	siǎo;lb siǎo;lb fàn;uy diàn;gv	279
-小小范儿	siǎo;lb siǎo;lb fàn;cv ér;pv	4
+小小范儿	siǎo;lb siǎo;lb fàn;cv er;pv	4
 小小飞侠	siǎo;lb siǎo;lb fēi;vd xiá;rj	45
 潇潇风雨	siāo;db siāo;db fēng;jx yǔ;ad	130
 萧萧风雨	siāo;cb siāo;cb fēng;jx yǔ;ad	84
@@ -280359,7 +280352,7 @@ sort: by_weight
 欲笺心事	yù;gq ziān;vj sīn;dd shì;gy	364
 鱼胶小姐	yú;da jiāo;of siǎo;lb ziě;nq	90
 玉洁冰清	yù;wd jié;dk bīng;du cīng;do	22
-御姐范儿	yù;re ziě;nq fàn;cv ér;pv	544
+御姐范儿	yù;re ziě;nq fàn;cv er;pv	544
 御姐精神	yù;re ziě;nq zīng;mo shén;pu	4
 玉阶秋感	yù;wd jiē;ej ciū;hh gǎn;gx	45
 预借提单	yù;yy ziè;ro tí;fz dān;bu	202
@@ -283270,8 +283263,8 @@ sort: by_weight
 战略中心	zhàn;vg lüè;tk zhōng;kl sīn;dd	414
 战略咨询	zhàn;vg lüè;tk zī;dk sǘn;yo	806
 沾满鲜血	zhān;dv mǎn;dl siān;yy xuè;pm	666
-沾满血迹	zhān;dv mǎn;dl xiě;pm ziì;zb	486
-沾满血腥	zhān;dv mǎn;dl xiě;pm sīng;ou	333
+沾满血迹	zhān;dv mǎn;dl xuè;pm ziì;zb	486
+沾满血腥	zhān;dv mǎn;dl xuè;pm sīng;ou	333
 展毛翠雀	zhǎn;uy máo;pv cuì;xu cüè;xv	76
 展毛地椒	zhǎn;uy máo;pv dì;ty ziāo;ay	76
 展毛含笑	zhǎn;uy máo;pv hán;rk siào;vy	50
