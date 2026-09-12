@@ -1,0 +1,1992 @@
+# @format
+
+# Rime dictionary
+# encoding: utf-8
+#
+# Luna Pinyin Extended Dictionary(Chinese&English) - 明月拼音扩充词库（含西文的词汇）
+#
+#   瑾昀 <cokunhui@gmail.com>
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 于重新部署后生效
+#
+
+# 注（魔然）：原始词库为简化字，使用 OpenCC 繁体化。
+
+---
+name: computer
+version: "LTS"
+sort: by_weight
+...
+磁心	cí;uy sīn;dd	10
+错接	cuò;jo ziē;fn	10
+盖写	gài;ym siě;by	10
+后像	hòu;ik siàng;ru	10
+浸焊	zìn;dy hàn;hg	10
+禁集	jìn;au zií;ra	10
+进栈	zìn;zj zhàn;aj	10
+净荷	zìng;dy hé;ck	10
+盲签	máng;wo ciān;vq	10
+魔集	mó;gg zií;ra	10
+前像	cián;bd siàng;ru	10
+绕接	rào;sw ziē;fn	10
+色集	sè;db zií;ra	10
+团集	tuán;wc zií;ra	10
+伪像	wěi;rw siàng;ru	10
+系序	xì;px sǜ;gy	10
+线表	siàn;sj biǎo;fy	10
+线或	siàn;sj huò;ga	10
+消密	siāo;do mì;bu	10
+写锁	siě;by suǒ;jb	10
+芯件	sīn;cx jiàn;rn	10
+行选	xíng;rd süǎn;ze	10
+锈污	siù;jn wū;dk	10
+序偶	sǜ;gy ǒu;rd	10
+隐线	yǐn;ex siàn;sj	10
+槽排序	cáo;ao pái;ff sǜ;gy	10
+层析术	céng;uy siī;at shù;ad	10
+程序池	chéng;hw sǜ;gy chí;dy	10
+程序纸	chéng;hw sǜ;gy zhǐ;su	10
+冲突集	chōng;dv tū;bq zií;ra	10
+词切分	cí;yk ciē;qd fēn;bd	10
+存取臂	cún;uz cǚ;ey bì;uo	10
+带扭斜	dài;cj niǔ;fi sié;rd	10
+读出线	dú;yd chū;uu siàn;sj	10
+读写孔	dú;yd siě;by kǒng;zv	10
+端接器	duān;le ziē;fn qì;xx	10
+对换集	duì;yc huàn;fr zií;ra	10
+对象式	duì;yc siàng;du shì;gg	10
+多总线	duō;xx zǒng;bx siàn;sj	10
+法线流	fǎ;dq siàn;sj liú;di	10
+赋逻辑	fù;bv luó;zx zií;ie	10
+光顺性	guāng;xe shùn;iy sìng;xu	10
+黑信号	hēi;lh sìn;rk hào;kk	10
+红信号	hóng;sg sìn;rk hào;kk	10
+活变迁	huó;du biàn;wy ciān;zq	10
+迹语言	ziì;zb yǔ;yk yán;wk	10
+键元集	jiàn;jy yuán;aw zií;ra	10
+接收门	ziē;fn shōu;jw mén;dv	10
+精定位	zīng;mo dìng;bz wèi;rl	10
+静启动	zìng;fy qǐ;hk dòng;yl	10
+块净荷	kuài;tg zìng;dy hé;ck	10
+连线表	lián;zi siàn;sj biǎo;fy	10
+逻辑环	luó;zx zií;ie huán;wb	10
+码元集	mǎ;um yuán;aw zií;ra	10
+挠进程	náo;fw zìn;zj chéng;hw	10
+逆变迁	nì;zn biàn;wy ciān;zq	10
+前驱站	cián;bd qū;mq zhàn;lv	10
+前台区	cián;bd tái;sk qū;kx	10
+清洁盘	cīng;do jié;dk pán;vm	10
+情态集	cíng;xo tài;tx zií;ra	10
+去焊枪	qù;ts hàn;hg ciāng;av	10
+全干扰	cüán;rw gān;au rǎo;fy	10
+全混洗	cüán;rw hùn;db siǐ;de	10
+全减器	cüán;rw jiǎn;dk qì;xx	10
+死变迁	sǐ;db biàn;wy ciān;zq	10
+通信性	tōng;zy sìn;rk sìng;xu	10
+凸凹性	tū;la āo;la sìng;xu	10
+图像元	tú;wd siàng;ru yuán;aw	10
+外裁剪	wài;xb cái;gy ziǎn;bd	10
+外像素	wài;xb siàng;ru sù;fx	10
+微逻辑	wēi;rj luó;zx zií;ie	10
+微前端	wēi;rj cián;bd duān;le	10
+无端接	wú;ay duān;le ziē;fn	10
+无穷集	wú;ay qióng;bl zií;ra	10
+稀疏集	xī;hj shū;vi zií;ra	10
+细索引	siì;st suǒ;ux yǐn;gl	10
+线畸变	siàn;sj jī;tk biàn;wy	10
+线检索	siàn;sj jiǎn;aq suǒ;ux	10
+线衰减	siàn;sj shuāi;yv jiǎn;dk	10
+相变碟	siāng;ao biàn;wy dié;ua	10
+消耗件	siāo;do hào;lm jiàn;rn	10
+小背板	siǎo;lb bèi;bo bǎn;ay	10
+写广播	siě;by guǎng;di bō;ft	10
+卸载区	siè;ve zài;gi qū;kx	10
+信元头	sìn;rk yuán;aw tóu;dd	10
+星环网	sīng;ou huán;wb wǎng;kx	10
+星特性	sīng;ou tè;nc sìng;xu	10
+星状网	sīng;ou zhuàng;lq wǎng;kx	10
+循环网	sǘn;ro huán;wb wǎng;kx	10
+询问站	sǘn;yo wèn;mk zhàn;lv	10
+元信令	yuán;aw sìn;rk lìng;rs	10
+栈寻址	zhàn;aj sǘn;ec zhǐ;tv	10
+正则序	zhèng;av zé;bd sǜ;gy	10
+终接器	zhōng;sd ziē;fn qì;xx	10
+转接网	zhuǎn;iv ziē;fn wǎng;kx	10
+自修理	zì;po siū;rp lǐ;wl	10
+总线网	zǒng;bx siàn;sj wǎng;kx	10
+组进位	zǔ;sq zìn;zj wèi;rl	10
+安全标号	ān;bn cüán;rw biāo;au hào;kk	10
+安全停机	ān;bn cüán;rw tíng;rd jī;aj	10
+按序检测	àn;fn sǜ;gy jiǎn;aq cè;dd	10
+按序提交	àn;fn sǜ;gy tí;fz jiāo;wf	10
+白箱测试	bái;po siāng;vo cè;dd shì;yg	10
+半线性集	bàn;bf siàn;sj sìng;xu zií;ra	10
+比特彗星	bǐ;bb tè;nc huì;fe sīng;ou	10
+比特精灵	bǐ;bb tè;nc zīng;mo líng;eh	10
+比特信令	bǐ;bb tè;nc sìn;rk lìng;rs	10
+编辑距离	biān;sc zií;ie jù;zj lí;wn	10
+编译选项	biān;sc yì;yf süǎn;ze xiàng;gy	10
+边缘图像	biān;zl yuán;su tú;wd siàng;ru	10
+边缘像素	biān;zl yuán;su siàng;ru sù;fx	10
+变迁规则	biàn;wy ciān;zq guī;fj zé;bd	10
+变迁系统	biàn;wy ciān;zq xì;px tǒng;sy	10
+变迁序列	biàn;wy ciān;zq sǜ;gy liè;dd	10
+变迁子网	biàn;wy ciān;zq zi;la wǎng;kx	10
+标志序列	biāo;au zhì;tx sǜ;gy liè;dd	10
+标准对象	biāo;au zhǔn;dv duì;yc siàng;du	10
+别名分析	bié;kd míng;xk fēn;bd siī;at	10
+并发变迁	bìng;bk fā;fy biàn;wy ciān;zq	10
+布线程序	bù;uj siàn;sj chéng;hw sǜ;gy	10
+步可达性	bù;vu kě;dk dá;zd sìng;xu	10
+裁剪曲面	cái;gy ziǎn;bd qū;wc miàn;ao	10
+插补程序	chā;fj bǔ;pb chéng;hw sǜ;gy	10
+查询优化	chá;ad sǘn;yo yōu;ry huà;rb	10
+查询语言	chá;ad sǘn;yo yǔ;yk yán;wk	10
+超级巡警	chāo;tk jí;sj sǘn;zv jǐng;ck	10
+超前补偿	chāo;tk cián;bd bǔ;pb cháng;ry	10
+撤销还原	chè;fw siāo;jo huán;zb yuán;ix	10
+程序保护	chéng;hw sǜ;gy bǎo;ra hù;fh	10
+程序变异	chéng;hw sǜ;gy biàn;wy yì;sc	10
+程序代数	chéng;hw sǜ;gy dài;rg shù;mw	10
+程序段表	chéng;hw sǜ;gy duàn;pu biǎo;fy	10
+程序对换	chéng;hw sǜ;gy duì;yc huàn;fr	10
+程序高手	chéng;hw sǜ;gy gāo;wk shǒu;pf	10
+程序隔离	chéng;hw sǜ;gy gé;eg lí;wn	10
+程序格式	chéng;hw sǜ;gy gé;ak shì;gg	10
+程序规约	chéng;hw sǜ;gy guī;fj yuē;su	10
+程序划分	chéng;hw sǜ;gy huà;gd fēn;bd	10
+程序集合	chéng;hw sǜ;gy zií;ra hé;rk	10
+程序扩展	chéng;hw sǜ;gy kuò;fg zhǎn;uy	10
+程序理解	chéng;hw sǜ;gy lǐ;wl jiě;dn	10
+程序确认	chéng;hw sǜ;gy què;uy rèn;yr	10
+程序生成	chéng;hw sǜ;gy shēng;pf chéng;gv	10
+程序探测	chéng;hw sǜ;gy tàn;fa cè;dd	10
+程序修改	chéng;hw sǜ;gy siū;rp gǎi;jw	10
+程序暂停	chéng;hw sǜ;gy zàn;io tíng;rd	10
+程序质量	chéng;hw sǜ;gy zhì;ib liàng;ol	10
+程序重试	chéng;hw sǜ;gy zhòng;ql shì;yg	10
+程序转换	chéng;hw sǜ;gy zhuǎn;iv huàn;fr	10
+程序状态	chéng;hw sǜ;gy zhuàng;lq tài;tx	10
+程序综合	chéng;hw sǜ;gy zōng;su hé;rk	10
+乘积曲面	chéng;qr ziī;hv qū;wc miàn;ao	10
+重新运行	chóng;ql sīn;lt yùn;zy xíng;rd	10
+虫孔寻径	chóng;vd kǒng;zv sǘn;ec jìng;rj	10
+虫蚀寻径	chóng;vd shí;ui sǘn;ec jìng;rj	10
+抽象层次	chōu;fy siàng;du céng;uy cì;dq	10
+初启程序	chū;pd qǐ;hk chéng;hw sǜ;gy	10
+初启序列	chū;pd qǐ;hk sǜ;gy liè;dd	10
+出现序列	chū;uu xiàn;wj sǜ;gy liè;dd	10
+穿越序列	chuān;by yuè;tl sǜ;gy liè;dd	10
+串行排序	chuàn;kl xíng;rd pái;ff sǜ;gy	10
+窗口大小	chuāng;bw kǒu;la dà;ar siǎo;lb	10
+磁盘镜像	cí;uy pán;vm jìng;je siàng;ru	10
+词汇分析	cí;yk huì;dk fēn;bd siī;at	10
+词性标注	cí;yk sìng;xu biāo;au zhù;dv	10
+词语切分	cí;yk yǔ;yk ciē;qd fēn;bd	10
+词语信息	cí;yk yǔ;yk sìn;rk siī;zx	10
+次递归性	cì;dq dì;zd guī;le sìng;xu	10
+存取冲突	cún;uz cǚ;ey chōng;dv tū;bq	10
+存取队列	cún;uz cǚ;ey duì;er liè;dd	10
+存取范畴	cún;uz cǚ;ey fàn;cv chóu;tc	10
+存取方法	cún;uz cǚ;ey fāng;wv fǎ;dq	10
+存取机构	cún;uz cǚ;ey jī;aj gòu;ag	10
+存取级别	cún;uz cǚ;ey jí;sj bié;kd	10
+存取矩阵	cún;uz cǚ;ey jǔ;uj zhèn;ei	10
+存取拒绝	cún;uz cǚ;ey jù;fj züé;sb	10
+存取控制	cún;uz cǚ;ey kòng;fg zhì;nd	10
+存取类型	cún;uz cǚ;ey lèi;md xíng;kt	10
+存取时间	cún;uz cǚ;ey shí;to jiān;mo	10
+存取特权	cún;uz cǚ;ey tè;nc quán;ay	10
+存取违例	cún;uz cǚ;ey wéi;zw lì;rd	10
+存取许可	cún;uz cǚ;ey xǔ;yw kě;dk	10
+错误分析	cuò;jo wù;yt fēn;bd siī;at	10
+打包安全	dǎ;fd bāo;bs ān;bn cüán;rw	10
+代数逻辑	dài;rg shù;mw luó;zx zií;ie	10
+单端端接	dān;bu duān;le duān;le ziē;fn	10
+单选按钮	dān;bu süǎn;ze àn;fn niǔ;ji	10
+当前日期	dāng;xe cián;bd rì;wa qī;co	10
+递归查询	dì;zd guī;le chá;ad sǘn;yo	10
+点可见性	diǎn;vh kě;dk jiàn;ke sìng;xu	10
+点阵精度	diǎn;vh zhèn;ei zīng;mo dù;gy	10
+电源总线	diàn;ov yuán;dx zǒng;bx siàn;sj	10
+电子情报	diàn;ov zi;la cíng;xo bào;fy	10
+调度程序	diào;yk dù;gy chéng;hw sǜ;gy	10
+迭代改进	dié;zf dài;rg gǎi;jw zìn;zj	10
+定时分析	dìng;bz shí;to fēn;bd siī;at	10
+定位信道	dìng;bz wèi;rl sìn;rk dào;zz	10
+定性描述	dìng;bz sìng;xu miáo;ft shù;zu	10
+定性推理	dìng;bz sìng;xu tuī;fv lǐ;wl	10
+定性物理	dìng;bz sìng;xu wù;nw lǐ;wl	10
+动态扭斜	dòng;yl tài;tx niǔ;fi sié;rd	10
+动态刷新	dòng;yl tài;tx shuā;ud sīn;lt	10
+独立程序	dú;qi lì;wb chéng;hw sǜ;gy	10
+读写周期	dú;yd siě;by zhōu;kk qī;co	10
+读选择线	dú;yd süǎn;ze zé;ff siàn;sj	10
+端接电压	duān;le ziē;fn diàn;ov yā;id	10
+对换程序	duì;yc huàn;fr chéng;hw sǜ;gy	10
+对象模型	duì;yc siàng;du mó;ad xíng;kt	10
+对象引用	duì;yc siàng;du yǐn;gl yòng;kf	10
+对象字典	duì;yc siàng;du zì;bz diǎn;qb	10
+多遍排序	duō;xx biàn;zc pái;ff sǜ;gy	10
+多点通信	duō;xx diǎn;vh tōng;zy sìn;rk	10
+多级安全	duō;xx jí;sj ān;bn cüán;rw	10
+多类逻辑	duō;xx lèi;md luó;zx zií;ie	10
+多维存取	duō;xx wéi;sv cún;uz cǚ;ey	10
+恶意逻辑	è;yx yì;lx luó;zx zií;ie	10
+翻译程序	fān;mx yì;yf chéng;hw sǜ;gy	10
+反向信道	fǎn;iy xiàng;pk sìn;rk dào;zz	10
+范畴分析	fàn;cv chóu;tc fēn;bd siī;at	10
+范例修正	fàn;cv lì;rd siū;rp zhèng;av	10
+防疫程序	fáng;ef yì;bu chéng;hw sǜ;gy	10
+放弃序列	fàng;fw qì;wc sǜ;gy liè;dd	10
+非自反性	fēi;ls zì;po fǎn;iy sìng;xu	10
+分隔安全	fēn;bd gé;eg ān;bn cüán;rw	10
+分派程序	fēn;bd pài;dy chéng;hw sǜ;gy	10
+分析攻击	fēn;bd siī;at gōng;gw jī;fk	10
+分析阶段	fēn;bd siī;at jiē;ej duàn;pu	10
+分析属性	fēn;bd siī;at shǔ;uy sìng;xu	10
+分析学习	fēn;bd siī;at xué;xz sií;vd	10
+分页程序	fēn;bd yè;ab chéng;hw sǜ;gy	10
+风险接受	fēng;jx xiǎn;eq ziē;fn shòu;vy	10
+符号分析	fú;vc hào;kk fēn;bd siī;at	10
+符号逻辑	fú;vc hào;kk luó;zx zií;ie	10
+腐蚀切割	fǔ;gr shí;ui ciē;qd gē;bd	10
+负载线图	fù;db zài;gi siàn;sj tú;wd	10
+附加维修	fù;ec jiā;lk wéi;sv siū;rp	10
+复合序列	fù;pw hé;rk sǜ;gy liè;dd	10
+复位序列	fù;pw wèi;rl sǜ;gy liè;dd	10
+复原请求	fù;pw yuán;ix cǐng;yo qiú;au	10
+改进调频	gǎi;jw zìn;zj tiáo;yk pín;vy	10
+概念分析	gài;aw niàn;rx fēn;bd siī;at	10
+概念获取	gài;aw niàn;rx huò;cq cǚ;ey	10
+概念相关	gài;aw niàn;rx siāng;ao guān;bt	10
+概念学习	gài;aw niàn;rx xué;xz sií;vd	10
+个性标记	gè;rl sìng;xu biāo;au jì;yj	10
+更新报酬	gēng;an sīn;lt bào;fy chóu;yv	10
+更新传播	gēng;an sīn;lt chuán;rv bō;ft	10
+公共总线	gōng;bs gòng;cb zǒng;bx siàn;sj	10
+攻击程序	gōng;gw jī;fk chéng;hw sǜ;gy	10
+构造程序	gòu;ag zào;zk chéng;hw sǜ;gy	10
+观察学习	guān;yj chá;bu xué;xz sií;vd	10
+光线跟踪	guāng;xe siàn;sj gēn;zg zōng;zu	10
+光线投射	guāng;xe siàn;sj tóu;fu shè;uc	10
+光学图像	guāng;xe xué;xz tú;wd siàng;ru	10
+归纳学习	guī;le nà;sn xué;xz sií;vd	10
+轨迹曲线	guǐ;ij ziì;zb qū;wc siàn;sj	10
+过程分析	guò;zc chéng;hw fēn;bd siī;at	10
+过程逻辑	guò;zc chéng;hw luó;zx zií;ie	10
+汉语分析	hàn;dy yǔ;yk fēn;bd siī;at	10
+汉字属性	hàn;dy zì;bz shǔ;uy sìng;xu	10
+核基安全	hé;ar jī;ct ān;bn cüán;rw	10
+合取查询	hé;rk cǚ;ey chá;ad sǘn;yo	10
+黑箱测试	hēi;lh siāng;vo cè;dd shì;yg	10
+后加安全	hòu;ik jiā;lk ān;bn cüán;rw	10
+互斥变迁	hù;ah chì;id biàn;wy ciān;zq	10
+互相怀疑	hù;ah siāng;ao huái;xb yí;bz	10
+话题小组	huà;yu tí;oy siǎo;lb zǔ;sq	10
+唤醒等待	huàn;kr sǐng;yu děng;vc dài;rc	10
+唤醒原语	huàn;kr sǐng;yu yuán;ix yǔ;yk	10
+唤醒字符	huàn;kr sǐng;yu zì;bz fú;vc	10
+回收程序	huí;wk shōu;jw chéng;hw sǜ;gy	10
+会议连接	huì;ry yì;yy lián;zi ziē;fn	10
+混洗交换	hùn;db siǐ;de jiāo;wf huàn;fr	10
+活动进程	huó;du dòng;yl zìn;zj chéng;hw	10
+获取过程	huò;cq cǚ;ey guò;zc chéng;hw	10
+霍尔逻辑	huò;yv ěr;dx luó;zx zií;ie	10
+即时压缩	zií;ge shí;to yā;id suō;sb	10
+集成电源	zií;ra chéng;gv diàn;ov yuán;dx	10
+集合语言	zií;ra hé;rk yǔ;yk yán;wk	10
+集散控制	zií;ra sàn;cw kòng;fg zhì;nd	10
+集团口令	zií;ra tuán;wc kǒu;la lìng;rs	10
+集中电容	zií;ra zhōng;kl diàn;ov róng;bg	10
+集中负载	zií;ra zhōng;kl fù;db zài;gi	10
+集中式网	zií;ra zhōng;kl shì;gg wǎng;kx	10
+计算程序	jì;yu suàn;vc chéng;hw sǜ;gy	10
+计算逻辑	jì;yu suàn;vc luó;zx zií;ie	10
+计算性能	jì;yu suàn;vc sìng;xu néng;sb	10
+监视信元	jiān;lm shì;pj sìn;rk yuán;aw	10
+剪裁过程	ziǎn;bd cái;gy guò;zc chéng;hw	10
+剪切变换	ziǎn;bd ciē;qd biàn;wy huàn;fr	10
+拣取设备	jiǎn;fd cǚ;ey shè;yu bèi;wt	10
+检查程序	jiǎn;aq chá;ad chéng;hw sǜ;gy	10
+检验序列	jiǎn;aq yàn;mq sǜ;gy liè;dd	10
+检验总线	jiǎn;aq yàn;mq zǒng;bx siàn;sj	10
+溅射膜盘	ziàn;dj shè;uc mó;od pán;vm	10
+鉴别逻辑	jiàn;lj bié;kd luó;zx zií;ie	10
+鉴别信息	jiàn;lj bié;kd sìn;rk siī;zx	10
+鉴定需求	jiàn;lj dìng;bz sǖ;ye qiú;au	10
+讲授学习	jiǎng;yj shòu;fy xué;xz sií;vd	10
+交叉存取	jiāo;wf chā;yd cún;uz cǚ;ey	10
+交换排序	jiāo;wf huàn;fr pái;ff sǜ;gy	10
+交换线路	jiāo;wf huàn;fr siàn;sj lù;zk	10
+接触起停	ziē;fn chù;di qǐ;tj tíng;rd	10
+接地平面	ziē;fn dì;ty píng;au miàn;ao	10
+接口分析	ziē;fn kǒu;la fēn;bd siī;at	10
+接口规约	ziē;fn kǒu;la guī;fj yuē;su	10
+接口净荷	ziē;fn kǒu;la zìng;dy hé;ck	10
+接口开销	ziē;fn kǒu;la kāi;ac siāo;jo	10
+接口速率	ziē;fn kǒu;la sù;zu lǜ;wu	10
+接口需求	ziē;fn kǒu;la sǖ;ye qiú;au	10
+接口主体	ziē;fn kǒu;la zhǔ;wt tǐ;rb	10
+接收证实	ziē;fn shōu;jw zhèng;yv shí;bd	10
+节点插值	zié;ce diǎn;vh chā;fj zhí;rq	10
+节点删除	zié;ce diǎn;vh shān;cd chú;em	10
+解答抽取	jiě;dn dá;vk chōu;fy cǚ;ey	10
+借线进入	ziè;ro siàn;sj zìn;zj rù;pn	10
+尽力投递	zìn;id lì;vp tóu;fu dì;zd	10
+禁止信号	jìn;au zhǐ;lb sìn;rk hào;kk	10
+进程变迁	zìn;zj chéng;hw biàn;wy ciān;zq	10
+进程调度	zìn;zj chéng;hw diào;yk dù;gy	10
+进程迁移	zìn;zj chéng;hw ciān;zq yí;hx	10
+进程同步	zìn;zj chéng;hw tóng;kk bù;vu	10
+进程状态	zìn;zj chéng;hw zhuàng;lq tài;tx	10
+进化策略	zìn;zj huà;rb cè;vu lüè;tk	10
+进化程序	zìn;zj huà;rb chéng;hw sǜ;gy	10
+进化发展	zìn;zj huà;rb fā;fy zhǎn;uy	10
+进化机制	zìn;zj huà;rb jī;aj zhì;nd	10
+进化计算	zìn;zj huà;rb jì;yu suàn;vc	10
+进化检查	zìn;zj huà;rb jiǎn;aq chá;ad	10
+进化优化	zìn;zj huà;rb yōu;ry huà;rb	10
+精化策略	zīng;mo huà;rb cè;vu lüè;tk	10
+精化准则	zīng;mo huà;rb zhǔn;dv zé;bd	10
+精简指令	zīng;mo jiǎn;vo zhǐ;fo lìng;rs	10
+经典逻辑	jīng;sj diǎn;qb luó;zx zií;ie	10
+静态绑定	zìng;fy tài;tx bǎng;se dìng;bz	10
+静态测试	zìng;fy tài;tx cè;dd shì;yg	10
+静态调度	zìng;fy tài;tx diào;yk dù;gy	10
+静态缓冲	zìng;fy tài;tx huǎn;sy chōng;dv	10
+静态检验	zìng;fy tài;tx jiǎn;aq yàn;mq	10
+静态冒险	zìng;fy tài;tx mào;oo xiǎn;eq	10
+静态扭斜	zìng;fy tài;tx niǔ;fi sié;rd	10
+静态冗余	zìng;fy tài;tx rǒng;bj yú;rm	10
+静态刷新	zìng;fy tài;tx shuā;ud sīn;lt	10
+静态网络	zìng;fy tài;tx wǎng;kx luò;sk	10
+静态知识	zìng;fy tài;tx zhī;uk shí;yv	10
+竞争变迁	jìng;lx zhēng;dy biàn;wy ciān;zq	10
+就绪状态	ziù;wy sǜ;so zhuàng;lq tài;tx	10
+局部总线	jú;uk bù;le zǒng;bx siàn;sj	10
+句法分析	jù;bk fǎ;dq fēn;bd siī;at	10
+聚焦伺服	zǜ;eu ziāo;rh cì;rk fú;oy	10
+聚酯色带	zǜ;eu zhǐ;yo sè;db dài;cj	10
+拒绝服务	jù;fj züé;sb fú;oy wù;wl	10
+开发进展	kāi;ac fā;fy zìn;zj zhǎn;uy	10
+可串行性	kě;dk chuàn;kl xíng;rd sìng;xu	10
+可归约性	kě;dk guī;le yuē;su sìng;xu	10
+可扩缩性	kě;dk kuò;fg suō;sb sìng;xu	10
+可视现象	kě;dk shì;pj xiàn;wj siàng;du	10
+可信代理	kě;dk sìn;rk dài;rg lǐ;wl	10
+可信计算	kě;dk sìn;rk jì;yu suàn;vc	10
+可信进程	kě;dk sìn;rk zìn;zj chéng;hw	10
+可诊断性	kě;dk zhěn;yp duàn;vt sìng;xu	10
+课题小组	kè;yg tí;oy siǎo;lb zǔ;sq	10
+空间需要	kōng;bg jiān;mo sǖ;ye yào;xn	10
+控制精度	kòng;fg zhì;nd zīng;mo dù;gy	10
+控制总线	kòng;fg zhì;nd zǒng;bx siàn;sj	10
+快速消息	kuài;xg sù;zu siāo;do siī;zx	10
+快速选择	kuài;xg sù;zu süǎn;ze zé;ff	10
+类比学习	lèi;md bǐ;bb xué;xz sií;vd	10
+离散卷积	lí;wn sàn;cw juǎn;jv ziī;hv	10
+立即地址	lì;wb zií;ge dì;ty zhǐ;tv	10
+联赛排序	lián;et sài;bb pái;ff sǜ;gy	10
+联想输入	lián;et siǎng;ax shū;id rù;pn	10
+联想网络	lián;et siǎng;ax wǎng;kx luò;sk	10
+连接端点	lián;zi ziē;fn duān;le diǎn;vh	10
+连续控制	lián;zi sǜ;sd kòng;fg zhì;nd	10
+连续文本	lián;zi sǜ;sd wén;wx běn;aa	10
+良构程序	liáng;dg gòu;ag chéng;hw sǜ;gy	10
+两倍线程	liǎng;ar bèi;rk siàn;sj chéng;hw	10
+路径分析	lù;zk jìng;rj fēn;bd siī;at	10
+路由选择	lù;zk yóu;ol süǎn;ze zé;ff	10
+乱序提交	luàn;uv sǜ;gy tí;fz jiāo;wf	10
+乱序执行	luàn;uv sǜ;gy zhí;fw xíng;rd	10
+螺旋磁道	luó;ix süán;fz cí;uy dào;zz	10
+螺旋扫描	luó;ix süán;fz sǎo;fe miáo;ft	10
+逻辑部件	luó;zx zií;ie bù;le jiàn;rn	10
+逻辑布局	luó;zx zií;ie bù;uj jú;uk	10
+逻辑布线	luó;zx zií;ie bù;uj siàn;sj	10
+逻辑测试	luó;zx zií;ie cè;dd shì;yg	10
+逻辑地址	luó;zx zií;ie dì;ty zhǐ;tv	10
+逻辑分页	luó;zx zií;ie fēn;bd yè;ab	10
+逻辑跟踪	luó;zx zií;ie gēn;zg zōng;zu	10
+逻辑划分	luó;zx zií;ie huà;gd fēn;bd	10
+逻辑记录	luó;zx zií;ie jì;yj lù;eu	10
+逻辑控制	luó;zx zií;ie kòng;fg zhì;nd	10
+逻辑冒险	luó;zx zií;ie mào;oo xiǎn;eq	10
+逻辑模拟	luó;zx zií;ie mó;ad nǐ;fr	10
+逻辑设备	luó;zx zií;ie shè;yu bèi;wt	10
+逻辑探头	luó;zx zií;ie tàn;fa tóu;dd	10
+逻辑文件	luó;zx zií;ie wén;wx jiàn;rn	10
+逻辑系统	luó;zx zií;ie xì;px tǒng;sy	10
+逻辑语法	luó;zx zií;ie yǔ;yk fǎ;dq	10
+逻辑炸弹	luó;zx zií;ie zhà;hv dàn;gu	10
+逻辑综合	luó;zx zií;ie zōng;su hé;rk	10
+逻辑座标	luó;zx zií;ie zuò;gr biāo;au	10
+脉冲步进	mài;oy chōng;dv bù;vu zìn;zj	10
+迷失消息	mí;zm shī;pf siāo;do siī;zx	10
+密级信息	mì;bu jí;sj sìn;rk siī;zx	10
+密码分析	mì;bu mǎ;um fēn;bd siī;at	10
+免费短信	miǎn;de fèi;fb duǎn;ub sìn;rk	10
+名字抽取	míng;xk zì;bz chōu;fy cǚ;ey	10
+命令接口	mìng;re lìng;rs ziē;fn kǒu;la	10
+模糊逻辑	mó;ad hú;mo luó;zx zií;ie	10
+模拟程序	mó;ad nǐ;fr chéng;hw sǜ;gy	10
+目录排序	mù;we lù;eu pái;ff sǜ;gy	10
+内部对象	nèi;kr bù;le duì;yc siàng;du	10
+内核程序	nèi;kr hé;ar chéng;hw sǜ;gy	10
+内核进程	nèi;kr hé;ar zìn;zj chéng;hw	10
+排队进程	pái;ff duì;er zìn;zj chéng;hw	10
+排序策略	pái;ff sǜ;gy cè;vu lüè;tk	10
+排序网络	pái;ff sǜ;gy wǎng;kx luò;sk	10
+判定逻辑	pàn;bd dìng;bz luó;zx zií;ie	10
+喷泉模型	pēn;kb cüán;bu mó;ad xíng;kt	10
+篇章分析	piān;vc zhāng;lu fēn;bd siī;at	10
+品质属性	pǐn;kk zhì;ib shǔ;uy sìng;xu	10
+签名模式	ciān;vq míng;xk mó;ad shì;gg	10
+签名算法	ciān;vq míng;xk suàn;vc fǎ;dq	10
+签名文件	ciān;vq míng;xk wén;wx jiàn;rn	10
+签名验证	ciān;vq míng;xk yàn;mq zhèng;yv	10
+迁移开销	ciān;zq yí;hx kāi;ac siāo;jo	10
+前台分区	cián;bd tái;sk fēn;bd qū;kx	10
+前台分页	cián;bd tái;sk fēn;bd yè;ab	10
+前台任务	cián;bd tái;sk rèn;rw wù;wl	10
+前台作业	cián;bd tái;sk zuò;rv yè;la	10
+前向串扰	cián;bd xiàng;pk chuàn;kl rǎo;fy	10
+前缀性质	cián;bd zhuì;sy sìng;xu zhì;ib	10
+强度削弱	qiáng;gi dù;gy süē;xd ruò;gg	10
+抢先调度	ciǎng;fv siān;ne diào;yk dù;gy	10
+桥接故障	qiáo;al ziē;fn gù;gw zhàng;eu	10
+桥接结点	qiáo;al ziē;fn jié;sk diǎn;vh	10
+窃取程序	ciè;bd cǚ;ey chéng;hw sǜ;gy	10
+清除请求	cīng;do chú;em cǐng;yo qiú;au	10
+清洁软盘	cīng;do jié;dk ruǎn;iq pán;vm	10
+情感符号	cíng;xo gǎn;gx fú;vc hào;kk	10
+情感建模	cíng;xo gǎn;gx jiàn;zy mó;ad	10
+情景演算	cíng;xo jǐng;ox yǎn;db suàn;vc	10
+情景主体	cíng;xo jǐng;ox zhǔ;wt tǐ;rb	10
+情况语句	cíng;xo kuàng;dx yǔ;yk jù;bk	10
+情态公理	cíng;xo tài;tx gōng;bs lǐ;wl	10
+请求分页	cǐng;yo qiú;au fēn;bd yè;ab	10
+请求评论	cǐng;yo qiú;au píng;yp lùn;yl	10
+区分序列	qū;kx fēn;bd sǜ;gy liè;dd	10
+区间查询	qū;kx jiān;mo chá;ad sǘn;yo	10
+区域聚类	qū;kx yù;ta zǜ;eu lèi;md	10
+曲面拼接	qū;wc miàn;ao pīn;fk ziē;fn	10
+曲线光顺	qū;wc siàn;sj guāng;xe shùn;iy	10
+驱动安全	qū;mq dòng;yl ān;bn cüán;rw	10
+取景变换	cǚ;ey jǐng;ox biàn;wy huàn;fr	10
+全称域名	cüán;rw chēng;hx yù;ta míng;xk	10
+全局查询	cüán;rw jú;uk chá;ad sǘn;yo	10
+全局搜索	cüán;rw jú;uk sōu;fy suǒ;ux	10
+全局应用	cüán;rw jú;uk yìng;ga yòng;kf	10
+全局优化	cüán;rw jú;uk yōu;ry huà;rb	10
+全局知识	cüán;rw jú;uk zhī;uk shí;yv	10
+全连接网	cüán;rw lián;zi ziē;fn wǎng;kx	10
+全球地址	cüán;rw qiú;wq dì;ty zhǐ;tv	10
+全文索引	cüán;rw wén;wx suǒ;ux yǐn;gl	10
+确定变迁	què;uy dìng;bz biàn;wy ciān;zq	10
+群集分析	qún;yy zií;ra fēn;bd siī;at	10
+人工进化	rén;pn gōng;aa zìn;zj huà;rb	10
+人机接口	rén;pn jī;aj ziē;fn kǒu;la	10
+人际消息	rén;pn ziì;eu siāo;do siī;zx	10
+任务集库	rèn;rw wù;wl zií;ra kù;gi	10
+任务迁移	rèn;rw wù;wl ciān;zq yí;hx	10
+熔丝连接	róng;hg sī;sa lián;zi ziē;fn	10
+软件安全	ruǎn;iq jiàn;rn ān;bn cüán;rw	10
+软件盗窃	ruǎn;iq jiàn;rn dào;dm ciè;bd	10
+软件获取	ruǎn;iq jiàn;rn huò;cq cǚ;ey	10
+软件陷阱	ruǎn;iq jiàn;rn xiàn;ej zǐng;ej	10
+软件性能	ruǎn;iq jiàn;rn sìng;xu néng;sb	10
+软件总线	ruǎn;iq jiàn;rn zǒng;bx siàn;sj	10
+弱一致性	ruò;gg yí;aa zhì;gw sìng;xu	10
+散焦测距	sàn;cw ziāo;rh cè;dd jù;zj	10
+色适应性	sè;db shì;zu yìng;ga sìng;xu	10
+筛选主体	shāi;vj süǎn;ze zhǔ;wt tǐ;rb	10
+上推排序	shàng;ba tuī;fv pái;ff sǜ;gy	10
+设计分析	shè;yu jì;yu fēn;bd siī;at	10
+设计需求	shè;yu jì;yu sǖ;ye qiú;au	10
+设施请求	shè;yu shī;fy cǐng;yo qiú;au	10
+审计尾迹	shěn;bu jì;yu wěi;um ziì;zb	10
+实际页数	shí;bd ziì;eu yè;ab shù;mw	10
+实施变迁	shí;bd shī;fy biàn;wy ciān;zq	10
+实现需求	shí;bd xiàn;wj sǖ;ye qiú;au	10
+拾取设备	shí;fk cǚ;ey shè;yu bèi;wt	10
+时间变迁	shí;to jiān;mo biàn;wy ciān;zq	10
+时序综合	shí;to sǜ;gy zōng;su hé;rk	10
+时钟步进	shí;to zhōng;jv bù;vu zìn;zj	10
+事故变迁	shì;gy gù;gw biàn;wy ciān;zq	10
+示教学习	shì;ex jiào;lw xué;xz sií;vd	10
+视频消息	shì;pj pín;vy siāo;do siī;zx	10
+适应学习	shì;zu yìng;ga xué;xz sií;vd	10
+守护程序	shǒu;bc hù;fh chéng;hw sǜ;gy	10
+手机小二	shǒu;pf jī;aj siǎo;lb èr;aa	10
+手势消息	shǒu;pf shì;fl siāo;do siī;zx	10
+受控安全	shòu;vy kòng;fg ān;bn cüán;rw	10
+受控存取	shòu;vy kòng;fg cún;uz cǚ;ey	10
+受控对象	shòu;vy kòng;fg duì;yc siàng;du	10
+输出进程	shū;id chū;uu zìn;zj chéng;hw	10
+输入进程	shū;id rù;pn zìn;zj chéng;hw	10
+书写方向	shū;vd siě;by fāng;wv xiàng;pk	10
+属性闭包	shǔ;uy sìng;xu bì;mc bāo;bs	10
+属性语法	shǔ;uy sìng;xu yǔ;yk fǎ;dq	10
+术语抽取	shù;ad yǔ;yk chōu;fy cǚ;ey	10
+数据抽象	shù;mw jù;fg chōu;fy siàng;du	10
+数据偏斜	shù;mw jù;fg piān;rc sié;rd	10
+数据属性	shù;mw jù;fg shǔ;uy sìng;xu	10
+数据信号	shù;mw jù;fg sìn;rk hào;kk	10
+数值精度	shù;mw zhí;rq zīng;mo dù;gy	10
+数字对象	shù;mw zì;bz duì;yc siàng;du	10
+刷新测试	shuā;ud sīn;lt cè;dd shì;yg	10
+刷新电路	shuā;ud sīn;lt diàn;ov lù;zk	10
+刷新周期	shuā;ud sīn;lt zhōu;kk qī;co	10
+双向通信	shuāng;yy xiàng;pk tōng;zy sìn;rk	10
+顺序操作	shùn;iy sǜ;gy cāo;fa zuò;rv	10
+顺序处理	shùn;iy sǜ;gy chǔ;wb lǐ;wl	10
+顺序存取	shùn;iy sǜ;gy cún;uz cǚ;ey	10
+顺序调度	shùn;iy sǜ;gy diào;yk dù;gy	10
+顺序调用	shùn;iy sǜ;gy diào;yk yòng;kf	10
+顺序发生	shùn;iy sǜ;gy fā;fy shēng;pf	10
+顺序加电	shùn;iy sǜ;gy jiā;lk diàn;ov	10
+顺序进程	shùn;iy sǜ;gy zìn;zj chéng;hw	10
+顺序搜索	shùn;iy sǜ;gy sōu;fy suǒ;ux	10
+顺序索引	shùn;iy sǜ;gy suǒ;ux yǐn;gl	10
+顺序文件	shùn;iy sǜ;gy wén;wx jiàn;rn	10
+瞬时变迁	shùn;of shí;to biàn;wy ciān;zq	10
+瞬态分析	shùn;of tài;tx fēn;bd siī;at	10
+算法分析	suàn;vc fǎ;dq fēn;bd siī;at	10
+随机存取	suí;eo jī;aj cún;uz cǚ;ey	10
+缩写抽取	suō;sb siě;by chōu;fy cǚ;ey	10
+索引图像	suǒ;ux yǐn;gl tú;wd siàng;ru	10
+贪心周期	tān;rb sīn;dd zhōu;kk qī;co	10
+特征集成	tè;nc zhēng;rv zií;ra chéng;gv	10
+提取策略	tí;fz cǚ;ey cè;vu lüè;tk	10
+替代选择	tì;fo dài;rg süǎn;ze zé;ff	10
+条件逻辑	tiáo;wa jiàn;rn luó;zx zií;ie	10
+调试程序	tiáo;yk shì;yg chéng;hw sǜ;gy	10
+停止信号	tíng;rd zhǐ;lb sìn;rk hào;kk	10
+通道接口	tōng;zy dào;zz ziē;fn kǒu;la	10
+通信安全	tōng;zy sìn;rk ān;bn cüán;rw	10
+通信接口	tōng;zy sìn;rk ziē;fn kǒu;la	10
+通信模型	tōng;zy sìn;rk mó;ad xíng;kt	10
+通信情报	tōng;zy sìn;rk cíng;xo bào;fy	10
+通信子网	tōng;zy sìn;rk zi;la wǎng;kx	10
+同步刷新	tóng;kk bù;vu shuā;ud sīn;lt	10
+同步通信	tóng;kk bù;vu tōng;zy sìn;rk	10
+同步序列	tóng;kk bù;vu sǜ;gy liè;dd	10
+投影中心	tóu;fu yǐng;op zhōng;kl sīn;dd	10
+透明桥接	tòu;zn míng;oo qiáo;al ziē;fn	10
+透明刷新	tòu;zn míng;oo shuā;ud sīn;lt	10
+图例查询	tú;wd lì;rd chá;ad sǘn;yo	10
+图像逼真	tú;wd siàng;ru bī;zt zhēn;ub	10
+图像重建	tú;wd siàng;ru chóng;ql jiàn;zy	10
+图像函数	tú;wd siàng;ru hán;ku shù;mw	10
+图像检索	tú;wd siàng;ru jiǎn;aq suǒ;ux	10
+图像空间	tú;wd siàng;ru kōng;bg jiān;mo	10
+图像匹配	tú;wd siàng;ru pǐ;ke pèi;yj	10
+图像拼接	tú;wd siàng;ru pīn;fk ziē;fn	10
+图像平滑	tú;wd siàng;ru píng;au huá;do	10
+图像平面	tú;wd siàng;ru píng;au miàn;ao	10
+图像去噪	tú;wd siàng;ru qù;ts zào;ka	10
+图像序列	tú;wd siàng;ru sǜ;gy liè;dd	10
+推理程序	tuī;fv lǐ;wl chéng;hw sǜ;gy	10
+外壳进程	wài;xb ké;tj zìn;zj chéng;hw	10
+完全保密	wán;by cüán;rw bǎo;ra mì;bu	10
+完全问题	wán;by cüán;rw wèn;mk tí;oy	10
+往复寻道	wǎng;rv fù;pw sǘn;ec dào;zz	10
+网上新手	wǎng;kx shàng;ba sīn;lt shǒu;pf	10
+威胁分析	wēi;gn xié;ob fēn;bd siī;at	10
+维护程序	wéi;sv hù;fh chéng;hw sǜ;gy	10
+维护陷阱	wéi;sv hù;fh xiàn;ej zǐng;ej	10
+卫星直播	wèi;ea sīng;ou zhí;uq bō;ft	10
+纹理图像	wén;sw lǐ;wl tú;wd siàng;ru	10
+文件安全	wén;wx jiàn;rn ān;bn cüán;rw	10
+文件存取	wén;wx jiàn;rn cún;uz cǚ;ey	10
+文献分析	wén;wx xiàn;uq fēn;bd siī;at	10
+稳态信号	wěn;hx tài;tx sìn;rk hào;kk	10
+无饥饿性	wú;ay jī;uj è;uw sìng;xu	10
+无死锁性	wú;ay sǐ;db suǒ;jb sìng;xu	10
+无效信元	wú;ay xiào;ww sìn;rk yuán;aw	10
+无用信息	wú;ay yòng;kf sìn;rk siī;zx	10
+物理安全	wù;nw lǐ;wl ān;bn cüán;rw	10
+物理布线	wù;nw lǐ;wl bù;uj siàn;sj	10
+物理信号	wù;nw lǐ;wl sìn;rk hào;kk	10
+物理需求	wù;nw lǐ;wl sǖ;ye qiú;au	10
+系统核心	xì;px tǒng;sy hé;ar sīn;dd	10
+系统进程	xì;px tǒng;sy zìn;zj chéng;hw	10
+系统开销	xì;px tǒng;sy kāi;ac siāo;jo	10
+系统需求	xì;px tǒng;sy sǖ;ye qiú;au	10
+细节层次	siì;st zié;ce céng;uy cì;dq	10
+先行分页	siān;ne xíng;rd fēn;bd yè;ab	10
+先行算法	siān;ne xíng;rd suàn;vc fǎ;dq	10
+线程结构	siàn;sj chéng;hw jié;sk gòu;ag	10
+线间进入	siàn;sj jiān;mo zìn;zj rù;pn	10
+线路噪声	siàn;sj lù;zk zào;ka shēng;tu	10
+线条检测	siàn;sj tiáo;wa jiǎn;aq cè;dd	10
+线性归结	siàn;sj sìng;xu guī;le jié;sk	10
+线性检测	siàn;sj sìng;xu jiǎn;aq cè;dd	10
+线性文法	siàn;sj sìng;xu wén;wx fǎ;dq	10
+线性演绎	siàn;sj sìng;xu yǎn;db yì;sf	10
+线性语言	siàn;sj sìng;xu yǔ;yk yán;wk	10
+线性组织	siàn;sj sìng;xu zǔ;sq zhī;sv	10
+现场总线	xiàn;wj chǎng;tp zǒng;bx siàn;sj	10
+相关匹配	siāng;ao guān;bt pǐ;ke pèi;yj	10
+相关驱动	siāng;ao guān;bt qū;mq dòng;yl	10
+相关探测	siāng;ao guān;bt tàn;fa cè;dd	10
+相容收敛	siāng;ao róng;bg shōu;jw liǎn;qw	10
+相似性弧	siāng;ao sì;rr sìng;xu hú;gg	10
+相信逻辑	siāng;ao sìn;rk luó;zx zií;ie	10
+向心模型	xiàng;pk sīn;dd mó;ad xíng;kt	10
+消解规则	siāo;do jiě;dn guī;fj zé;bd	10
+消息处理	siāo;do siī;zx chǔ;wb lǐ;wl	10
+消息传递	siāo;do siī;zx chuán;rv dì;zd	10
+消息存储	siāo;do siī;zx cún;uz chǔ;ro	10
+消息方式	siāo;do siī;zx fāng;wv shì;gg	10
+消息排队	siāo;do siī;zx pái;ff duì;er	10
+小波包基	siǎo;lb bō;dp bāo;bs jī;ct	10
+协调程序	xié;ub tiáo;yk chéng;hw sǜ;gy	10
+谐波信号	xié;yb bō;dp sìn;rk hào;kk	10
+写读串扰	siě;by dú;yd chuàn;kl rǎo;fy	10
+写前补偿	siě;by cián;bd bǔ;pb cháng;ry	10
+写数据线	siě;by shù;mw jù;fg siàn;sj	10
+写选择线	siě;by süǎn;ze zé;ff siàn;sj	10
+泄密发射	siè;du mì;bu fā;fy shè;uc	10
+心智机理	sīn;dd zhì;uo jī;aj lǐ;wl	10
+心智能力	sīn;dd zhì;uo néng;sb lì;vp	10
+心智图像	sīn;dd zhì;uo tú;wd siàng;ru	10
+心智状态	sīn;dd zhì;uo zhuàng;lq tài;tx	10
+新认知机	sīn;lt rèn;yr zhī;uk jī;aj	10
+信号交换	sìn;rk hào;kk jiāo;wf huàn;fr	10
+信号情报	sìn;rk hào;kk cíng;xo bào;fy	10
+信号退化	sìn;rk hào;kk tuì;zg huà;rb	10
+信号重构	sìn;rk hào;kk zhòng;ql gòu;ag	10
+信令终端	sìn;rk lìng;rs zhōng;sd duān;le	10
+信念修正	sìn;rk niàn;rx siū;rp zhèng;av	10
+信任逻辑	sìn;rk rèn;rw luó;zx zií;ie	10
+信息编码	sìn;rk siī;zx biān;sc mǎ;um	10
+信息分类	sìn;rk siī;zx fēn;bd lèi;md	10
+信息格式	sìn;rk siī;zx gé;ak shì;gg	10
+信息估计	sìn;rk siī;zx gū;rg jì;yu	10
+信息结构	sìn;rk siī;zx jié;sk gòu;ag	10
+信息客体	sìn;rk siī;zx kè;bk tǐ;rb	10
+信息空间	sìn;rk siī;zx kōng;bg jiān;mo	10
+信息模型	sìn;rk siī;zx mó;ad xíng;kt	10
+信息协议	sìn;rk siī;zx xié;ub yì;yy	10
+信息隐蔽	sìn;rk siī;zx yǐn;ex bì;cw	10
+信息增益	sìn;rk siī;zx zēng;to yì;bm	10
+信息主管	sìn;rk siī;zx zhǔ;wt guǎn;vl	10
+信息字段	sìn;rk siī;zx zì;bz duàn;pu	10
+信元划界	sìn;rk yuán;aw huà;gd jiè;tj	10
+行位偏斜	xíng;rd wèi;rl piān;rc sié;rd	10
+行政安全	xíng;rd zhèng;vw ān;bn cüán;rw	10
+形状曲线	xíng;kp zhuàng;lq qū;wc siàn;sj	10
+性能保证	sìng;xu néng;sb bǎo;ra zhèng;yv	10
+性能测量	sìng;xu néng;sb cè;dd liáng;ol	10
+性能管理	sìng;xu néng;sb guǎn;vl lǐ;wl	10
+性能规约	sìng;xu néng;sb guī;fj yuē;su	10
+性能监视	sìng;xu néng;sb jiān;lm shì;pj	10
+性能评价	sìng;xu néng;sb píng;yp jià;rj	10
+性能需求	sìng;xu néng;sb sǖ;ye qiú;au	10
+修改检测	siū;rp gǎi;jw jiǎn;aq cè;dd	10
+修理时间	siū;rp lǐ;wl shí;to jiān;mo	10
+需求工程	sǖ;ye qiú;au gōng;aa chéng;hw	10
+需求规约	sǖ;ye qiú;au guī;fj yuē;su	10
+需求函数	sǖ;ye qiú;au hán;ku shù;mw	10
+需求阶段	sǖ;ye qiú;au jiē;ej duàn;pu	10
+需求审查	sǖ;ye qiú;au shěn;bu chá;ad	10
+需求验证	sǖ;ye qiú;au yàn;mq zhèng;yv	10
+序列密码	sǜ;gy liè;dd mì;bu mǎ;um	10
+旋转变换	süán;fz zhuǎn;iv biàn;wy huàn;fr	10
+选择通道	süǎn;ze zé;ff tōng;zy dào;zz	10
+选择注意	süǎn;ze zé;ff zhù;dv yì;lx	10
+学习程序	xué;xz sií;vd chéng;hw sǜ;gy	10
+学习风范	xué;xz sií;vd fēng;jx fàn;cv	10
+学习功能	xué;xz sií;vd gōng;gl néng;sb	10
+寻径函数	sǘn;ec jìng;rj hán;ku shù;mw	10
+循环测试	sǘn;ro huán;wb cè;dd shì;yg	10
+循环调度	sǘn;ro huán;wb diào;yk dù;gy	10
+循环缓冲	sǘn;ro huán;wb huǎn;sy chōng;dv	10
+循环借位	sǘn;ro huán;wb ziè;ro wèi;rl	10
+循环链表	sǘn;ro huán;wb liàn;ji biǎo;fy	10
+循环展开	sǘn;ro huán;wb zhǎn;uy kāi;ac	10
+演示程序	yǎn;db shì;ex chéng;hw sǜ;gy	10
+样条曲线	yàng;ay tiáo;wa qū;wc siàn;sj	10
+遗传学习	yí;zb chuán;rv xué;xz sií;vd	10
+易调度性	yì;ow diào;yk dù;gy sìng;xu	10
+易扩充性	yì;ow kuò;fg chōng;wy sìng;xu	10
+易扩缩性	yì;ow kuò;fg suō;sb sìng;xu	10
+译词选择	yì;yf cí;yk süǎn;ze zé;ff	10
+因果逻辑	yīn;wd guǒ;ta luó;zx zií;ie	10
+银兆信安	yín;jg zhào;ed sìn;rk ān;bn	10
+隐蔽信道	yǐn;ex bì;cw sìn;rk dào;zz	10
+隐含属性	yǐn;ex hán;rk shǔ;uy sìng;xu	10
+引导程序	yǐn;gl dǎo;sc chéng;hw sǜ;gy	10
+应用进程	yìng;ga yòng;kf zìn;zj chéng;hw	10
+应用逻辑	yìng;ga yòng;kf luó;zx zií;ie	10
+映射程序	yìng;oy shè;uc chéng;hw sǜ;gy	10
+硬件安全	yìng;ug jiàn;rn ān;bn cüán;rw	10
+硬盘接口	yìng;ug pán;vm ziē;fn kǒu;la	10
+用户程序	yòng;kf hù;du chéng;hw sǜ;gy	10
+用户线路	yòng;kf hù;du siàn;sj lù;zk	10
+用户兴趣	yòng;kf hù;du xìng;xb cǜ;ty	10
+用户选项	yòng;kf hù;du süǎn;ze xiàng;gy	10
+用户注销	yòng;kf hù;du zhù;dv siāo;jo	10
+优先约束	yōu;ry siān;ne yuē;su shù;gr	10
+有限点集	yǒu;uo xiàn;eg diǎn;vh zií;ra	10
+有效请求	yǒu;uo xiào;ww cǐng;yo qiú;au	10
+有效信元	yǒu;uo xiào;ww sìn;rk yuán;aw	10
+有序搜索	yǒu;uo sǜ;gy sōu;fy suǒ;ux	10
+语法属性	yǔ;yk fǎ;dq shǔ;uy sìng;xu	10
+语言获取	yǔ;yk yán;wk huò;cq cǚ;ey	10
+语言信息	yǔ;yk yán;wk sìn;rk siī;zx	10
+语义属性	yǔ;yk yì;dx shǔ;uy sìng;xu	10
+浴盆曲线	yù;dg pén;fm qū;wc siàn;sj	10
+阈下信道	yù;ma xià;ab sìn;rk dào;zz	10
+预定维修	yù;yy dìng;bz wéi;sv siū;rp	10
+远程查询	yuǎn;zy chéng;hw chá;ad sǘn;yo	10
+远程咨询	yuǎn;zy chéng;hw zī;dk sǘn;yo	10
+运动分析	yùn;zy dòng;yl fēn;bd siī;at	10
+运动图像	yùn;zy dòng;yl tú;wd siàng;ru	10
+噪声清除	zào;ka shēng;tu cīng;do chú;em	10
+增量精化	zēng;to liàng;ol zīng;mo huà;rb	10
+增量学习	zēng;to liàng;ol xué;xz sií;vd	10
+战略情报	zhàn;vg lüè;tk cíng;xo bào;fy	10
+战术情报	zhàn;vg shù;ad cíng;xo bào;fy	10
+正文编辑	zhèng;av wén;wx biān;sc zií;ie	10
+正向信道	zhèng;av xiàng;pk sìn;rk dào;zz	10
+知识精化	zhī;uk shí;yv zīng;mo huà;rb	10
+支持程序	zhī;uy chí;fc chéng;hw sǜ;gy	10
+执行开销	zhí;fw xíng;rd kāi;ac siāo;jo	10
+直接存取	zhí;uq ziē;fn cún;uz cǚ;ey	10
+直接液冷	zhí;uq ziē;fn yè;dw lěng;ds	10
+直接映射	zhí;uq ziē;fn yìng;oy shè;uc	10
+直接组织	zhí;uq ziē;fn zǔ;sq zhī;sv	10
+指令步进	zhǐ;fo lìng;rs bù;vu zìn;zj	10
+指数变迁	zhǐ;fo shù;mw biàn;wy ciān;zq	10
+指纹分析	zhǐ;fo wén;sw fēn;bd siī;at	10
+置信测度	zhì;sq sìn;rk cè;dd duó;gy	10
+中心动词	zhōng;kl sīn;dd dòng;yl cí;yk	10
+中心机构	zhōng;kl sīn;dd jī;aj gòu;ag	10
+中心名词	zhōng;kl sīn;dd míng;xk cí;yk	10
+重心座标	zhòng;ql sīn;dd zuò;gr biāo;au	10
+重邮程序	zhòng;ql yóu;ye chéng;hw sǜ;gy	10
+重载分析	zhòng;ql zài;gi fēn;bd siī;at	10
+周期窃取	zhōu;kk qī;co ciè;bd cǚ;ey	10
+主动查询	zhǔ;wt dòng;yl chá;ad sǘn;yo	10
+主干总线	zhǔ;wt gàn;au zǒng;bx siàn;sj	10
+专用线路	zhuān;ts yòng;kf siàn;sj lù;zk	10
+转储清除	zhuǎn;iv chǔ;ro cīng;do chú;em	10
+转接延迟	zhuǎn;iv ziē;fn yán;zv chí;zi	10
+装入程序	zhuāng;ly rù;pn chéng;hw sǜ;gy	10
+追踪程序	zhuī;zl zōng;zu chéng;hw sǜ;gy	10
+字符相关	zì;bz fú;vc siāng;ao guān;bt	10
+自然非序	zì;po rán;xh fēi;ls sǜ;gy	10
+自由曲线	zì;po yóu;ol qū;wc siàn;sj	10
+自主安全	zì;po zhǔ;wt ān;bn cüán;rw	10
+总线结构	zǒng;bx siàn;sj jié;sk gòu;ag	10
+总线鼠标	zǒng;bx siàn;sj shǔ;jv biāo;au	10
+总线仲裁	zǒng;bx siàn;sj zhòng;rv cái;gy	10
+租用线路	zū;hq yòng;kf siàn;sj lù;zk	10
+组合曲线	zǔ;sq hé;rk qū;wc siàn;sj	10
+最大线长	zuì;oy dà;ar siàn;sj zhǎng;pn	10
+最小范围	zuì;oy siǎo;lb fàn;cv wéi;ww	10
+最小回路	zuì;oy siǎo;lb huí;wk lù;zk	10
+最小特权	zuì;oy siǎo;lb tè;nc quán;ay	10
+安全病毒库	ān;bn cüán;rw bìng;bn dú;fm kù;gi	10
+安全过滤器	ān;bn cüán;rw guò;zc lǜ;dx qì;xx	10
+安全浏览器	ān;bn cüán;rw liú;dd lǎn;lj qì;xx	10
+安全路由器	ān;bn cüán;rw lù;zk yóu;ol qì;xx	10
+八进制数字	bā;pn zìn;zj zhì;nd shù;mw zì;bz	10
+白消耗周期	bái;po siāo;do hào;lm zhōu;kk qī;co	10
+半色调图像	bàn;bf sè;db diào;yk tú;wd siàng;ru	10
+包交换总线	bāo;bs jiāo;wf huàn;fr zǒng;bx siàn;sj	10
+薄膜晶体管	báo;cc mó;od zīng;oo tǐ;rb guǎn;vl	10
+保留页选项	bǎo;ra liú;pt yè;ab süǎn;ze xiàng;gy	10
+报复性雇员	bào;fy fù;pw sìng;xu gù;hv yuán;kb	10
+贝济埃曲面	bèi;kr ziì;dq āi;tu qū;wc miàn;ao	10
+贝叶斯逻辑	bèi;kr yè;ku sī;ct luó;zx zií;ie	10
+编码字符集	biān;sc mǎ;um zì;bz fú;vc zií;ra	10
+边缘连接器	biān;zl yuán;su lián;zi ziē;fn qì;xx	10
+标号化安全	biāo;au hào;kk huà;rb ān;bn cüán;rw	10
+标量流水线	biāo;au liàng;ol liú;di shuǐ;ln siàn;sj	10
+标准程序法	biāo;au zhǔn;dv chéng;hw sǜ;gy fǎ;dq	10
+标准程序库	biāo;au zhǔn;dv chéng;hw sǜ;gy kù;gi	10
+标准扭斜带	biāo;au zhǔn;dv niǔ;fi sié;rd dài;cj	10
+并行外排序	bìng;bk xíng;rd wài;xb pái;ff sǜ;gy	10
+波形流水线	bō;dp xíng;kp liú;di shuǐ;ln siàn;sj	10
+不精确推理	bù;ab zīng;mo què;uy tuī;fv lǐ;wl	10
+不精确中断	bù;ab zīng;mo què;uy zhōng;kl duàn;vt	10
+不可靠进程	bù;ab kě;dk kào;nf zìn;zj chéng;hw	10
+不完全排错	bù;ab wán;by cüán;rw pái;ff cuò;jo	10
+不完全数据	bù;ab wán;by cüán;rw shù;mw jù;fg	10
+不完全信息	bù;ab wán;by cüán;rw sìn;rk siī;zx	10
+部分正确性	bù;le fèn;bd zhèng;av què;uy sìng;xu	10
+参照完整性	cān;sp zhào;oh wán;by zhěng;uv sìng;xu	10
+测试有效性	cè;dd shì;yg yǒu;uo xiào;ww sìng;xu	10
+差错潜伏期	chā;yg cuò;jo cián;do fú;rq qī;co	10
+差分双绞线	chā;yg fēn;bd shuāng;yy jiǎo;sf siàn;sj	10
+长期相关性	cháng;pn qī;co siāng;ao guān;bt sìng;xu	10
+陈述性知识	chén;ed shù;zu sìng;xu zhī;uk shí;yv	10
+程序寄存器	chéng;hw sǜ;gy jì;bk cún;uz qì;xx	10
+程序计数器	chéng;hw sǜ;gy jì;yu shù;mw qì;xx	10
+程序局部性	chéng;hw sǜ;gy jú;uk bù;le sìng;xu	10
+程序生成器	chéng;hw sǜ;gy shēng;pf chéng;gv qì;xx	10
+程序验证器	chéng;hw sǜ;gy yàn;mq zhèng;yv qì;xx	10
+程序优先级	chéng;hw sǜ;gy yōu;ry siān;ne jí;sj	10
+程序员作业	chéng;hw sǜ;gy yuán;kb zuò;rv yè;la	10
+程序正确性	chéng;hw sǜ;gy zhèng;av què;uy sìng;xu	10
+程序支持库	chéng;hw sǜ;gy zhī;uy chí;fc kù;gi	10
+抽象语言族	chōu;fy siàng;du yǔ;yk yán;wk zú;fu	10
+穿线二叉树	chuān;by siàn;sj èr;aa chā;yd shù;ac	10
+传递相关性	chuán;rv dì;zd siāng;ao guān;bt sìng;xu	10
+串联端接线	chuàn;kl lián;et duān;le ziē;fn siàn;sj	10
+磁道中心距	cí;uy dào;zz zhōng;kl sīn;dd jù;zj	10
+磁头读写槽	cí;uy tóu;dd dú;yd siě;by cáo;ao	10
+磁头卸载区	cí;uy tóu;dd siè;ve zài;gi qū;kx	10
+存储器总线	cún;uz chǔ;ro qì;xx zǒng;bx siàn;sj	10
+存取透明性	cún;uz cǚ;ey tòu;zn míng;oo sìng;xu	10
+打印机机芯	dǎ;fd yìn;pe jī;aj jī;aj sīn;cx	10
+带标号信道	dài;cj biāo;au hào;kk sìn;rk dào;zz	10
+单回路调节	dān;bu huí;wk lù;zk tiáo;yk zié;ce	10
+单字节校正	dān;bu zì;bz zié;ce jiào;af zhèng;av	10
+弹出式选单	dàn;gu chū;uu shì;gg süǎn;ze dān;bu	10
+当前活动栈	dāng;xe cián;bd huó;du dòng;yl zhàn;aj	10
+当前行指针	dāng;xe cián;bd xíng;rd zhǐ;fo zhēn;ju	10
+点对点通信	diǎn;vh duì;yc diǎn;vh tōng;zy sìn;rk	10
+电流型逻辑	diàn;ov liú;di xíng;kt luó;zx zií;ie	10
+调度信息池	diào;yk dù;gy sìn;rk siī;zx chí;dy	10
+定义性出现	dìng;bz yì;dx sìng;xu chū;uu xiàn;wj	10
+动态分析器	dòng;yl tài;tx fēn;bd siī;at qì;xx	10
+动态流水线	dòng;yl tài;tx liú;di shuǐ;ln siàn;sj	10
+动态优先级	dòng;yl tài;tx yōu;ry siān;ne jí;sj	10
+端接二极管	duān;le ziē;fn èr;aa jí;aj guǎn;vl	10
+对称传输线	duì;yc chèn;hx chuán;rv shū;id siàn;sj	10
+对换优先级	duì;yc huàn;fr yōu;ry siān;ne jí;sj	10
+对角线测试	duì;yc jiǎo;dy siàn;sj cè;dd shì;yg	10
+对象标识符	duì;yc siàng;du biāo;au shí;yv fú;vc	10
+对象式方法	duì;yc siàng;du shì;gg fāng;wv fǎ;dq	10
+对象式分析	duì;yc siàng;du shì;gg fēn;bd siī;at	10
+对象式设计	duì;yc siàng;du shì;gg shè;yu jì;yu	10
+对象式语言	duì;yc siàng;du shì;gg yǔ;yk yán;wk	10
+多边形裁剪	duō;xx biān;zl xíng;kp cái;gy ziǎn;bd	10
+多边形取向	duō;xx biān;zl xíng;kp cǚ;ey xiàng;pk	10
+多尺度分析	duō;xx chǐ;un dù;gy fēn;bd siī;at	10
+多光谱图像	duō;xx guāng;xe pǔ;yo tú;wd siàng;ru	10
+多回路调节	duō;xx huí;wk lù;zk tiáo;yk zié;ce	10
+多媒体通信	duō;xx méi;na tǐ;rb tōng;zy sìn;rk	10
+多面体裁剪	duō;xx miàn;ao tǐ;rb cái;gy ziǎn;bd	10
+多模式接口	duō;xx mó;ad shì;gg ziē;fn kǒu;la	10
+多线程处理	duō;xx siàn;sj chéng;hw chǔ;wb lǐ;wl	10
+多芯片模块	duō;xx sīn;cx piàn;pv mó;ad kuài;tg	10
+多一可归性	duō;xx yī;aa kě;dk guī;le sìng;xu	10
+二进制单元	èr;aa zìn;zj zhì;nd dān;bu yuán;aw	10
+二进制数字	èr;aa zìn;zj zhì;nd shù;mw zì;bz	10
+二进制运算	èr;aa zìn;zj zhì;nd yùn;zy suàn;vc	10
+二进制字符	èr;aa zìn;zj zhì;nd zì;bz fú;vc	10
+发射极点接	fā;fy shè;uc jí;aj diǎn;vh ziē;fn	10
+反编译程序	fǎn;iy biān;sc yì;yf chéng;hw sǜ;gy	10
+反汇编程序	fǎn;iy huì;dk biān;sc chéng;hw sǜ;gy	10
+反馈边集合	fǎn;iy kuì;ub biān;zl zií;ra hé;rk	10
+反窃听装置	fǎn;iy ciè;bd tīng;kt zhuāng;ly zhì;sq	10
+防病毒程序	fáng;ef bìng;bn dú;fm chéng;hw sǜ;gy	10
+防信息泄漏	fáng;ef sìn;rk siī;zx siè;du lòu;dy	10
+访问局部性	fǎng;yf wèn;mk jú;uk bù;le sìng;xu	10
+访问局守性	fǎng;yf wèn;mk jú;uk shǒu;bc sìng;xu	10
+非交换连接	fēi;ls jiāo;wf huàn;fr lián;zi ziē;fn	10
+非抢先调度	fēi;ls ciǎng;fv siān;ne diào;yk dù;gy	10
+非请求分页	fēi;ls cǐng;yo qiú;au fēn;bd yè;ab	10
+非线性编辑	fēi;ls siàn;sj sìng;xu biān;sc zií;ie	10
+非线性导航	fēi;ls siàn;sj sìng;xu dǎo;sc háng;vj	10
+非线性量化	fēi;ls siàn;sj sìng;xu liàng;ol huà;rb	10
+非预定维修	fēi;ls yù;yy dìng;bz wéi;sv siū;rp	10
+分布透明性	fēn;bd bù;uj tòu;zn míng;oo sìng;xu	10
+分派优先级	fēn;bd pài;dy yōu;ry siān;ne jí;sj	10
+分区存取法	fēn;bd qū;kx cún;uz cǚ;ey fǎ;dq	10
+分时优先级	fēn;bd shí;to yōu;ry siān;ne jí;sj	10
+封装可靠性	fēng;tc zhuāng;ly kě;dk kào;nf sìng;xu	10
+服务接入点	fú;oy wù;wl ziē;fn rù;pn diǎn;vh	10
+服务请求块	fú;oy wù;wl cǐng;yo qiú;au kuài;tg	10
+负逻辑转换	fù;db luó;zx zií;ie zhuǎn;iv huàn;fr	10
+复杂特征集	fù;pw zá;ja tè;nc zhēng;rv zií;ra	10
+改善性维护	gǎi;jw shàn;yk sìng;xu wéi;sv hù;fh	10
+改正性活动	gǎi;jw zhèng;av sìng;xu huó;du dòng;yl	10
+根编译程序	gēn;ag biān;sc yì;yf chéng;hw sǜ;gy	10
+公共接地点	gōng;bs gòng;cb ziē;fn dì;ty diǎn;vh	10
+公理复杂性	gōng;bs lǐ;wl fù;pw zá;ja sìng;xu	10
+构造性证明	gòu;ag zào;zk sìng;xu zhèng;yv míng;oo	10
+固定性错误	gù;wg dìng;bz sìng;xu cuò;jo wù;yt	10
+固有多义性	gù;wg yǒu;uo duō;xx yì;dx sìng;xu	10
+固有线电容	gù;wg yǒu;uo siàn;sj diàn;ov róng;bg	10
+广义序列机	guǎng;di yì;dx sǜ;gy liè;dd jī;aj	10
+过程性知识	guò;zc chéng;hw sìng;xu zhī;uk shí;yv	10
+核心映像库	hé;ar sīn;dd yìng;oy siàng;ru kù;gi	10
+合法性撤消	hé;rk fǎ;dq sìng;xu chè;fw siāo;do	10
+合法性取消	hé;rk fǎ;dq sìng;xu cǚ;ey siāo;do	10
+合格性测试	hé;rk gé;ak sìng;xu cè;dd shì;yg	10
+很小很强大	hěn;rg siǎo;lb hěn;rg qiáng;gi dà;ar	10
+宏处理程序	hóng;bs chǔ;wb lǐ;wl chéng;hw sǜ;gy	10
+互联网安全	hù;ah lián;et wǎng;kx ān;bn cüán;rw	10
+环氧黏合剂	huán;wb yǎng;qy nián;hv hé;rk ziì;qd	10
+基本优先级	jī;ct běn;aa yōu;ry siān;ne jí;sj	10
+极限优先级	jí;aj xiàn;eg yōu;ry siān;ne jí;sj	10
+集成自动化	zií;ra chéng;gv zì;po dòng;yl huà;rb	10
+几何连续性	jǐ;pv hé;rk lián;zi sǜ;sd sìng;xu	10
+技术可行性	jì;fv shù;ad kě;dk xíng;rd sìng;xu	10
+计数选择弧	jì;yu shù;mw süǎn;ze zé;ff hú;gg	10
+计算复杂性	jì;yu suàn;vc fù;pw zá;ja sìng;xu	10
+计算机安全	jì;yu suàn;vc jī;aj ān;bn cüán;rw	10
+计算机程序	jì;yu suàn;vc jī;aj chéng;hw sǜ;gy	10
+计算机性能	jì;yu suàn;vc jī;aj sìng;xu néng;sb	10
+结构化程序	jié;sk gòu;ag huà;rb chéng;hw sǜ;gy	10
+结构化分析	jié;sk gòu;ag huà;rb fēn;bd siī;at	10
+结构有界性	jié;sk gòu;ag yǒu;uo jiè;tj sìng;xu	10
+紧密一致性	jǐn;lx mì;bu yí;aa zhì;gw sìng;xu	10
+进程间通信	zìn;zj chéng;hw jiān;mo tōng;zy sìn;rk	10
+进程优先级	zìn;zj chéng;hw yōu;ry siān;ne jí;sj	10
+经济可行性	jīng;sj ziì;dq kě;dk xíng;rd sìng;xu	10
+静电绘图机	zìng;fy diàn;ov huì;sy tú;wd jī;aj	10
+静电印刷机	zìng;fy diàn;ov yìn;pe shuā;ud jī;aj	10
+静态存储器	zìng;fy tài;tx cún;uz chǔ;ro qì;xx	10
+静态缓冲区	zìng;fy tài;tx huǎn;sy chōng;dv qū;kx	10
+静态流水线	zìng;fy tài;tx liú;di shuǐ;ln siàn;sj	10
+绝对分辨率	züé;sb duì;yc fēn;bd biàn;xl lǜ;wu	10
+开发工具箱	kāi;ac fā;fy gōng;aa jù;qb siāng;vo	10
+可达标识集	kě;dk dá;zd biāo;au shí;yv zií;ra	10
+可达性关系	kě;dk dá;zd sìng;xu guān;bt xì;px	10
+可见性问题	kě;dk jiàn;ke sìng;xu wèn;mk tí;oy	10
+可靠性度量	kě;dk kào;nf sìng;xu dù;gy liàng;ol	10
+可靠性分析	kě;dk kào;nf sìng;xu fēn;bd siī;at	10
+可靠性工程	kě;dk kào;nf sìng;xu gōng;aa chéng;hw	10
+可靠性模型	kě;dk kào;nf sìng;xu mó;ad xíng;kt	10
+可靠性评价	kě;dk kào;nf sìng;xu píng;yp jià;rj	10
+可靠性认证	kě;dk kào;nf sìng;xu rèn;yr zhèng;yv	10
+可靠性设计	kě;dk kào;nf sìng;xu shè;yu jì;yu	10
+可靠性数据	kě;dk kào;nf sìng;xu shù;mw jù;fg	10
+可靠性统计	kě;dk kào;nf sìng;xu tǒng;sy jì;yu	10
+可靠性预计	kě;dk kào;nf sìng;xu yù;yy jì;yu	10
+可靠性增长	kě;dk kào;nf sìng;xu zēng;to zhǎng;pn	10
+可能性理论	kě;dk néng;sb sìng;xu lǐ;wl lùn;yl	10
+可信度函数	kě;dk sìn;rk dù;gy hán;ku shù;mw	10
+可信时间戳	kě;dk sìn;rk shí;to jiān;mo chuō;xg	10
+可行性研究	kě;dk xíng;rd sìng;xu yán;uk jiū;bj	10
+可用性模型	kě;dk yòng;kf sìng;xu mó;ad xíng;kt	10
+可执行程序	kě;dk zhí;fw xíng;rd chéng;hw sǜ;gy	10
+可重写光碟	kě;dk zhòng;ql siě;by guāng;xe dié;ua	10
+可转换签名	kě;dk zhuǎn;iv huàn;fr ciān;vq míng;xk	10
+空间复杂性	kōng;bg jiān;mo fù;pw zá;ja sìng;xu	10
+空间局部性	kōng;bg jiān;mo jú;uk bù;le sìng;xu	10
+控制流分析	kòng;fg zhì;nd liú;di fēn;bd siī;at	10
+控制器接口	kòng;fg zhì;nd qì;xx ziē;fn kǒu;la	10
+离线图灵机	lí;wn siàn;sj tú;wd líng;eh jī;aj	10
+联想存储器	lián;et siǎng;ax cún;uz chǔ;ro qì;xx	10
+连接装配区	lián;zi ziē;fn zhuāng;ly pèi;yj qū;kx	10
+连续性检验	lián;zi sǜ;sd sìng;xu jiǎn;aq yàn;mq	10
+临界负载线	lín;lk jiè;tj fù;db zài;gi siàn;sj	10
+邻接表结构	lín;re ziē;fn biǎo;fy jié;sk gòu;ag	10
+领域专指性	lǐng;ry yù;ta zhuān;ts zhǐ;fo sìng;xu	10
+流水线处理	liú;di shuǐ;ln siàn;sj chǔ;wb lǐ;wl	10
+流水线控制	liú;di shuǐ;ln siàn;sj kòng;fg zhì;nd	10
+流水线排空	liú;di shuǐ;ln siàn;sj pái;ff kōng;bg	10
+流水线算法	liú;di shuǐ;ln siàn;sj suàn;vc fǎ;dq	10
+流水线停顿	liú;di shuǐ;ln siàn;sj tíng;rd dùn;ty	10
+流水线效率	liú;di shuǐ;ln siàn;sj xiào;ww lǜ;wu	10
+论题选择器	lùn;yl tí;oy süǎn;ze zé;ff qì;xx	10
+逻辑测试笔	luó;zx zií;ie cè;dd shì;yg bǐ;vm	10
+逻辑格式化	luó;zx zií;ie gé;ak shì;gg huà;rb	10
+逻辑驱动器	luó;zx zií;ie qū;mq dòng;yl qì;xx	10
+逻辑设备表	luó;zx zií;ie shè;yu bèi;wt biǎo;fy	10
+逻辑设备名	luó;zx zií;ie shè;yu bèi;wt míng;xk	10
+密封连接器	mì;bu fēng;tc lián;zi ziē;fn qì;xx	10
+面向对象的	miàn;ao xiàng;pk duì;yc siàng;du de;bu	10
+描写语言学	miáo;ft siě;by yǔ;yk yán;wk xué;xz	10
+命令行接口	mìng;re lìng;rs xíng;rd ziē;fn kǒu;la	10
+模糊集合论	mó;ad hú;mo zií;ra hé;rk lùn;yl	10
+模式敏感性	mó;ad shì;gg mǐn;pw gǎn;gx sìng;xu	10
+内联网安全	nèi;kr lián;et wǎng;kx ān;bn cüán;rw	10
+你见即我见	nǐ;rx jiàn;ke zií;ge wǒ;ga jiàn;ke	10
+逆完全混洗	nì;zn wán;by cüán;rw hùn;db siǐ;de	10
+耦合传输线	ǒu;ld hé;rk chuán;rv shū;id siàn;sj	10
+匹配筛选器	pǐ;ke pèi;yj shāi;vj süǎn;ze qì;xx	10
+屏蔽双绞线	píng;uk bì;cw shuāng;yy jiǎo;sf siàn;sj	10
+齐次座标系	cií;wl cì;dq zuò;gr biāo;au xì;px	10
+启发式程序	qǐ;hk fā;fy shì;gg chéng;hw sǜ;gy	10
+启发式信息	qǐ;hk fā;fy shì;gg sìn;rk siī;zx	10
+千禧年危机	ciān;pu xǐ;pk nián;pf wēi;dv jī;aj	10
+前端处理器	cián;bd duān;le chǔ;wb lǐ;wl qì;xx	10
+嵌套循环法	qiàn;uq tào;dg sǘn;ro huán;wb fǎ;dq	10
+情景自动机	cíng;xo jǐng;ox zì;po dòng;yl jī;aj	10
+请求参数表	cǐng;yo qiú;au cān;sp shù;mw biǎo;fy	10
+权标总线网	quán;ay biāo;au zǒng;bx siàn;sj wǎng;kx	10
+全动感视频	cüán;rw dòng;yl gǎn;gx shì;pj pín;vy	10
+全局存储器	cüán;rw jú;uk cún;uz chǔ;ro qì;xx	10
+全双工传输	cüán;rw shuāng;yy gōng;aa chuán;rv shū;id	10
+全息存储器	cüán;rw siī;zx cún;uz chǔ;ro qì;xx	10
+确定性调度	què;uy dìng;bz sìng;xu diào;yk dù;gy	10
+确定性算法	què;uy dìng;bz sìng;xu suàn;vc fǎ;dq	10
+认知心理学	rèn;yr zhī;uk sīn;dd lǐ;wl xué;xz	10
+软件安全性	ruǎn;iq jiàn;rn ān;bn cüán;rw sìng;xu	10
+软件可靠性	ruǎn;iq jiàn;rn kě;dk kào;nf sìng;xu	10
+软中断信号	ruǎn;iq zhōng;kl duàn;vt sìn;rk hào;kk	10
+扫描线算法	sǎo;fe miáo;ft siàn;sj suàn;vc fǎ;dq	10
+扫描选择器	sǎo;fe miáo;ft süǎn;ze zé;ff qì;xx	10
+上下文分析	shàng;ba xià;ab wén;wx fēn;bd siī;at	10
+上下文切换	shàng;ba xià;ab wén;wx ciè;qd huàn;fr	10
+摄像机标定	shè;fy siàng;ru jī;aj biāo;au dìng;bz	10
+设计编辑器	shè;yu jì;yu biān;sc zií;ie qì;xx	10
+设计多样性	shè;yu jì;yu duō;xx yàng;ay sìng;xu	10
+设计分析器	shè;yu jì;yu fēn;bd siī;at qì;xx	10
+申请令牌帧	shēn;ol cǐng;yo lìng;rs pái;pu zhēn;jb	10
+申请权标帧	shēn;ol cǐng;yo quán;ay biāo;au zhēn;jb	10
+申述性语言	shēn;ol shù;zu sìng;xu yǔ;yk yán;wk	10
+生产线方法	shēng;pf chǎn;wi siàn;sj fāng;wv fǎ;dq	10
+实体完整性	shí;bd tǐ;rb wán;by zhěng;uv sìng;xu	10
+时间复杂性	shí;to jiān;mo fù;pw zá;ja sìng;xu	10
+时间局部性	shí;to jiān;mo jú;uk bù;le sìng;xu	10
+事件独立性	shì;gy jiàn;rn dú;qi lì;wb sìng;xu	10
+事件依赖性	shì;gy jiàn;rn yī;ry lài;ub sìng;xu	10
+似真性排序	shì;rr zhēn;ub sìng;xu pái;ff sǜ;gy	10
+适应性维护	shì;zu yìng;ga sìng;xu wéi;sv hù;fh	10
+首席执行官	shǒu;bz sií;gj zhí;fw xíng;rd guān;bl	10
+输入优先级	shū;id rù;pn yōu;ry siān;ne jí;sj	10
+树连接结构	shù;ac lián;zi ziē;fn jié;sk gòu;ag	10
+树连接语法	shù;ac lián;zi ziē;fn yǔ;yk fǎ;dq	10
+数据并行性	shù;mw jù;fg bìng;bk xíng;rd sìng;xu	10
+数据独立性	shù;mw jù;fg dú;qi lì;wb sìng;xu	10
+数据多样性	shù;mw jù;fg duō;xx yàng;ay sìng;xu	10
+数据集中器	shù;mw jù;fg zií;ra zhōng;kl qì;xx	10
+数据局部性	shù;mw jù;fg jú;uk bù;le sìng;xu	10
+数据库安全	shù;mw jù;fg kù;gi ān;bn cüán;rw	10
+数据库集成	shù;mw jù;fg kù;gi zií;ra chéng;gv	10
+数据流分析	shù;mw jù;fg liú;di fēn;bd siī;at	10
+数据通信中	shù;mw jù;fg tōng;zy sìn;rk zhōng;kl	10
+数据完整性	shù;mw jù;fg wán;by zhěng;uv sìng;xu	10
+数据一致性	shù;mw jù;fg yí;aa zhì;gw sìng;xu	10
+数据有效性	shù;mw jù;fg yǒu;uo xiào;ww sìng;xu	10
+数字配线架	shù;mw zì;bz pèi;yj siàn;sj jià;la	10
+数字照相机	shù;mw zì;bz zhào;oh siàng;ao jī;aj	10
+数字字符集	shù;mw zì;bz zì;bz fú;vc zií;ra	10
+双线性曲面	shuāng;yy siàn;sj sìng;xu qū;wc miàn;ao	10
+双线性系统	shuāng;yy siàn;sj sìng;xu xì;px tǒng;sy	10
+顺序局部性	shùn;iy sǜ;gy jú;uk bù;le sìng;xu	10
+顺序批处理	shùn;iy sǜ;gy pī;fb chǔ;wb lǐ;wl	10
+顺序推理机	shùn;iy sǜ;gy tuī;fv lǐ;wl jī;aj	10
+说明性语言	shuō;yx míng;oo sìng;xu yǔ;yk yán;wk	10
+松散一致性	sōng;ag sǎn;cw yí;aa zhì;gw sìng;xu	10
+算法正确性	suàn;vc fǎ;dq zhèng;av què;uy sìng;xu	10
+随机数序列	suí;eo jī;aj shù;mw sǜ;gy liè;dd	10
+所见即所得	suǒ;ht jiàn;ke zií;ge suǒ;ht de;rc	10
+调试程序包	tiáo;yk shì;yg chéng;hw sǜ;gy bāo;bs	10
+通信处理机	tōng;zy sìn;rk chǔ;wb lǐ;wl jī;aj	10
+通信控制器	tōng;zy sìn;rk kòng;fg zhì;nd qì;xx	10
+通信量分析	tōng;zy sìn;rk liàng;ol fēn;bd siī;at	10
+通信量填充	tōng;zy sìn;rk liàng;ol tián;tb chōng;wy	10
+通信适配器	tōng;zy sìn;rk shì;zu pèi;yj qì;xx	10
+图像几何学	tú;wd siàng;ru jǐ;pv hé;rk xué;xz	10
+图像数据库	tú;wd siàng;ru shù;mw jù;fg kù;gi	10
+完全二叉树	wán;by cüán;rw èr;aa chā;yd shù;ac	10
+完全正确性	wán;by cüán;rw zhèng;av què;uy sìng;xu	10
+完全自检验	wán;by cüán;rw zì;po jiǎn;aq yàn;mq	10
+完整性检查	wán;by zhěng;uv sìng;xu jiǎn;aq chá;ad	10
+完整性检验	wán;by zhěng;uv sìng;xu jiǎn;aq yàn;mq	10
+完整性控制	wán;by zhěng;uv sìng;xu kòng;fg zhì;nd	10
+完整性约束	wán;by zhěng;uv sìng;xu yuē;su shù;gr	10
+微程序控制	wēi;rj chéng;hw sǜ;gy kòng;fg zhì;nd	10
+微程序设计	wēi;rj chéng;hw sǜ;gy shè;yu jì;yu	10
+位脉冲拥挤	wèi;rl mài;oy chōng;dv yōng;fy ziǐ;fq	10
+位置透明性	wèi;rl zhì;sq tòu;zn míng;oo sìng;xu	10
+沃伦抽象机	wò;dy lún;rl chōu;fy siàng;du jī;aj	10
+无监督学习	wú;ay jiān;lm dū;uo xué;xz sií;vd	10
+无连接业务	wú;ay lián;zi ziē;fn yè;la wù;wl	10
+无循环设置	wú;ay sǘn;ro huán;wb shè;yu zhì;sq	10
+无用信息区	wú;ay yòng;kf sìn;rk siī;zx qū;kx	10
+膝上计算机	siī;ou shàng;ba jì;yu suàn;vc jī;aj	10
+系统高安全	xì;px tǒng;sy gāo;wk ān;bn cüán;rw	10
+系统兼容性	xì;px tǒng;sy jiān;bb róng;bg sìng;xu	10
+系统可靠性	xì;px tǒng;sy kě;dk kào;nf sìng;xu	10
+系统可行性	xì;px tǒng;sy kě;dk xíng;rd sìng;xu	10
+系统可用性	xì;px tǒng;sy kě;dk yòng;kf sìng;xu	10
+系统任务集	xì;px tǒng;sy rèn;rw wù;wl zií;ra	10
+系统完整性	xì;px tǒng;sy wán;by zhěng;uv sìng;xu	10
+细胞自动机	siì;st bāo;ob zì;po dòng;yl jī;aj	10
+细线以太网	siì;st siàn;sj yǐ;lr tài;dd wǎng;kx	10
+下拉式选单	xià;ab lā;fl shì;gg süǎn;ze dān;bu	10
+先来先服务	siān;ne lái;aa siān;ne fú;oy wù;wl	10
+先行指令站	siān;ne xíng;rd zhǐ;fo lìng;rs zhàn;lv	10
+显式并行性	xiǎn;oy shì;gg bìng;bk xíng;rd sìng;xu	10
+线性流水线	siàn;sj sìng;xu liú;di shuǐ;ln siàn;sj	10
+相关型故障	siāng;ao guān;bt xíng;kt gù;gw zhàng;eu	10
+相似性测度	siāng;ao sì;rr sìng;xu cè;dd duó;gy	10
+橡皮筋方法	siàng;au pí;py jīn;vl fāng;wv fǎ;dq	10
+向后可达性	xiàng;pk hòu;ik kě;dk dá;zd sìng;xu	10
+向量流水线	xiàng;pk liàng;ol liú;di shuǐ;ln siàn;sj	10
+向前可达性	xiàng;pk cián;bd kě;dk dá;zd sìng;xu	10
+小服务程序	siǎo;lb fú;oy wù;wl chéng;hw sǜ;gy	10
+小型计算机	siǎo;lb xíng;kt jì;yu suàn;vc jī;aj	10
+写更新协议	siě;by gēng;an sīn;lt xié;ub yì;yy	10
+心智心理学	sīn;dd zhì;uo sīn;dd lǐ;wl xué;xz	10
+新用户免费	sīn;lt yòng;kf hù;du miǎn;de fèi;fb	10
+信号电压降	sìn;rk hào;kk diàn;ov yā;id jiàng;ef	10
+信号预处理	sìn;rk hào;kk yù;yy chǔ;wb lǐ;wl	10
+信令虚通道	sìn;rk lìng;rs xū;hy tōng;zy dào;zz	10
+信息流模型	sìn;rk siī;zx liú;di mó;ad xíng;kt	10
+信息隐形性	sìn;rk siī;zx yǐn;ex xíng;kp sìng;xu	10
+信元丢失率	sìn;rk yuán;aw diū;pq shī;pf lǜ;wu	10
+修改检测码	siū;rp gǎi;jw jiǎn;aq cè;dd mǎ;um	10
+虚通道连接	xū;hy tōng;zy dào;zz lián;zi ziē;fn	10
+虚通路连接	xū;hy tōng;zy lù;zk lián;zi ziē;fn	10
+许可权清单	xǔ;yw kě;dk quán;ay cīng;do dān;bu	10
+学习自动机	xué;xz sií;vd zì;po dòng;yl jī;aj	10
+循环不变式	sǘn;ro huán;wb bù;ab biàn;wy shì;gg	10
+液晶印刷机	yè;dw zīng;oo yìn;pe shuā;ud jī;aj	10
+一致性测试	yí;aa zhì;gw sìng;xu cè;dd shì;yg	10
+一致性重演	yí;aa zhì;gw sìng;xu chóng;ql yǎn;db	10
+一致性检验	yí;aa zhì;gw sìng;xu jiǎn;aq yàn;mq	10
+一致性约束	yí;aa zhì;gw sìng;xu yuē;su shù;gr	10
+已配准图像	yǐ;kv pèi;yj zhǔn;dv tú;wd siàng;ru	10
+异步并行性	yì;sc bù;vu bìng;bk xíng;rd sìng;xu	10
+隐藏线消除	yǐn;ex cáng;ci siàn;sj siāo;do chú;em	10
+隐式并行性	yǐn;ex shì;gg bìng;bk xíng;rd sìng;xu	10
+印制板布线	yìn;pe zhì;nd bǎn;ay bù;uj siàn;sj	10
+英文缩写词	yīng;cy wén;wx suō;sb siě;by cí;yk	10
+硬件多线程	yìng;ug jiàn;rn duō;xx siàn;sj chéng;hw	10
+硬联线控制	yìng;ug lián;et siàn;sj kòng;fg zhì;nd	10
+硬连线逻辑	yìng;ug lián;zi siàn;sj luó;zx zií;ie	10
+用户任务集	yòng;kf hù;du rèn;rw wù;wl zií;ra	10
+优先级调度	yōu;ry siān;ne jí;sj diào;yk dù;gy	10
+优先级控制	yōu;ry siān;ne jí;sj kòng;fg zhì;nd	10
+优先级调整	yōu;ry siān;ne jí;sj tiáo;yk zhěng;uv	10
+优先级选择	yōu;ry siān;ne jí;sj süǎn;ze zé;ff	10
+优先级作业	yōu;ry siān;ne jí;sj zuò;rv yè;la	10
+有穷性问题	yǒu;uo qióng;bl sìng;xu wèn;mk tí;oy	10
+有限元分析	yǒu;uo xiàn;eg yuán;aw fēn;bd siī;at	10
+有效性检查	yǒu;uo xiào;ww sìng;xu jiǎn;aq chá;ad	10
+语义相关性	yǔ;yk yì;dx siāng;ao guān;bt sìng;xu	10
+预编译程序	yù;yy biān;sc yì;yf chéng;hw sǜ;gy	10
+预处理程序	yù;yy chǔ;wb lǐ;wl chéng;hw sǜ;gy	10
+预防性维护	yù;yy fáng;ef sìng;xu wéi;sv hù;fh	10
+源路由桥接	yuán;dx lù;zk yóu;ol qiáo;al ziē;fn	10
+源语言分析	yuán;dx yǔ;yk yán;wk fēn;bd siī;at	10
+元编译程序	yuán;aw biān;sc yì;yf chéng;hw sǜ;gy	10
+元件数小时	yuán;aw jiàn;rn shù;mw siǎo;lb shí;to	10
+元可满足性	yuán;aw kě;dk mǎn;dl zú;kz sìng;xu	10
+运算流水线	yùn;zy suàn;vc liú;di shuǐ;ln siàn;sj	10
+运行可靠性	yùn;zy xíng;rd kě;dk kào;nf sìng;xu	10
+运行可行性	yùn;zy xíng;rd kě;dk xíng;rd sìng;xu	10
+噪声消除器	zào;ka shēng;tu siāo;do chú;em qì;xx	10
+阵列流水线	zhèn;ei liè;dd liú;di shuǐ;ln siàn;sj	10
+正逻辑转换	zhèng;av luó;zx zií;ie zhuǎn;iv huàn;fr	10
+正确性证明	zhèng;av què;uy sìng;xu zhèng;yv míng;oo	10
+正文编辑器	zhèng;av wén;wx biān;sc zií;ie qì;xx	10
+知识编辑器	zhī;uk shí;yv biān;sc zií;ie qì;xx	10
+知识提取器	zhī;uk shí;yv tí;fz cǚ;ey qì;xx	10
+知识相容性	zhī;uk shí;yv siāng;ao róng;bg sìng;xu	10
+直方图修正	zhí;uq fāng;wv tú;wd siū;rp zhèng;av	10
+指令流水线	zhǐ;fo lìng;rs liú;di shuǐ;ln siàn;sj	10
+指令相关性	zhǐ;fo lìng;rs siāng;ao guān;bt sìng;xu	10
+指派优先级	zhǐ;fo pài;dy yōu;ry siān;ne jí;sj	10
+智能高清版	zhì;uo néng;sb gāo;wk cīng;do bǎn;py	10
+终止性证明	zhōng;sd zhǐ;lb sìng;xu zhèng;yv míng;oo	10
+重汇聚扇出	zhòng;ql huì;dk zǜ;eu shàn;hx chū;uu	10
+周期性定义	zhōu;kk qī;co sìng;xu dìng;bz yì;dx	10
+主调度程序	zhǔ;wt diào;yk dù;gy chéng;hw sǜ;gy	10
+注意力聚焦	zhù;dv yì;lx lì;vp zǜ;eu ziāo;rh	10
+字母字符集	zì;bz mǔ;md zì;bz fú;vc zií;ra	10
+自寻优控制	zì;po sǘn;ec yōu;ry kòng;fg zhì;nd	10
+自由选择网	zì;po yóu;ol süǎn;ze zé;ff wǎng;kx	10
+子监控程序	zi;la jiān;lm kòng;fg chéng;hw sǜ;gy	10
+最高优先级	zuì;oy gāo;wk yōu;ry siān;ne jí;sj	10
+最高优先数	zuì;oy gāo;wk yōu;ry siān;ne shù;mw	10
+最后优先级	zuì;oy hòu;ik yōu;ry siān;ne jí;sj	10
+最小生成树	zuì;oy siǎo;lb shēng;pf chéng;gv shù;ac	10
+作业优先级	zuò;rv yè;la yōu;ry siān;ne jí;sj	10
+安全操作系统	ān;bn cüán;rw cāo;fa zuò;rv xì;px tǒng;sy	10
+安全电子交易	ān;bn cüán;rw diàn;ov zi;la jiāo;wf yì;ow	10
+安全功能评估	ān;bn cüán;rw gōng;gl néng;sb píng;yp gū;rg	10
+安全认证授权	ān;bn cüán;rw rèn;yr zhèng;yv shòu;fy quán;ay	10
+安全运行模式	ān;bn cüán;rw yùn;zy xíng;rd mó;ad shì;gg	10
+办公信息系统	bàn;lb gōng;bs sìn;rk siī;zx xì;px tǒng;sy	10
+报表生成程序	bào;fy biǎo;fy shēng;pf chéng;gv chéng;hw sǜ;gy	10
+报表书写程序	bào;fy biǎo;fy shū;vd siě;by chéng;hw sǜ;gy	10
+便笺式存储器	biàn;rg ziān;vj shì;gg cún;uz chǔ;ro qì;xx	10
+变迁实施速率	biàn;wy ciān;zq shí;bd shī;fy sù;zu lǜ;wu	10
+表面安装焊接	biǎo;fy miàn;ao ān;bn zhuāng;ly hàn;hg ziē;fn	10
+并发程序设计	bìng;bk fā;fy chéng;hw sǜ;gy shè;yu jì;yu	10
+并发读并发写	bìng;bk fā;fy dú;yd bìng;bk fā;fy siě;by	10
+并发信息系统	bìng;bk fā;fy sìn;rk siī;zx xì;px tǒng;sy	10
+并行程序设计	bìng;bk xíng;rd chéng;hw sǜ;gy shè;yu jì;yu	10
+并行多元连接	bìng;bk xíng;rd duō;xx yuán;aw lián;zi ziē;fn	10
+并行二元连接	bìng;bk xíng;rd èr;aa yuán;aw lián;zi ziē;fn	10
+并行排序算法	bìng;bk xíng;rd pái;ff sǜ;gy suàn;vc fǎ;dq	10
+并行选择算法	bìng;bk xíng;rd süǎn;ze zé;ff suàn;vc fǎ;dq	10
+不完全性理论	bù;ab wán;by cüán;rw sìng;xu lǐ;wl lùn;yl	10
+布局接地规则	bù;uj jú;uk ziē;fn dì;ty guī;fj zé;bd	10
+测试存取端口	cè;dd shì;yg cún;uz cǚ;ey duān;le kǒu;la	10
+测试可重复性	cè;dd shì;yg kě;dk chóng;ql fù;pw sìng;xu	10
+测试驱动程序	cè;dd shì;yg qū;mq dòng;yl chéng;hw sǜ;gy	10
+层次分析处理	céng;uy cì;dq fēn;bd siī;at chǔ;wb lǐ;wl	10
+层次序列键码	céng;uy cì;dq sǜ;gy liè;dd jiàn;jy mǎ;um	10
+差分电压信号	chā;yg fēn;bd diàn;ov yā;id sìn;rk hào;kk	10
+差分密码分析	chā;yg fēn;bd mì;bu mǎ;um fēn;bd siī;at	10
+常规信息系统	cháng;xj guī;fj sìn;rk siī;zx xì;px tǒng;sy	10
+常驻控制程序	cháng;xj zhù;mv kòng;fg zhì;nd chéng;hw sǜ;gy	10
+超级编译程序	chāo;tk jí;sj biān;sc yì;yf chéng;hw sǜ;gy	10
+超流水线结构	chāo;tk liú;di shuǐ;ln siàn;sj jié;sk gòu;ag	10
+程序调度程序	chéng;hw sǜ;gy diào;yk dù;gy chéng;hw sǜ;gy	10
+程序分页功能	chéng;hw sǜ;gy fēn;bd yè;ab gōng;gl néng;sb	10
+程序界限监控	chéng;hw sǜ;gy jiè;tj xiàn;eg jiān;lm kòng;fg	10
+程序逻辑单元	chéng;hw sǜ;gy luó;zx zií;ie dān;bu yuán;aw	10
+程序敏感故障	chéng;hw sǜ;gy mǐn;pw gǎn;gx gù;gw zhàng;eu	10
+程序设计环境	chéng;hw sǜ;gy shè;yu jì;yu huán;wb jìng;te	10
+程序设计技术	chéng;hw sǜ;gy shè;yu jì;yu jì;fv shù;ad	10
+程序设计逻辑	chéng;hw sǜ;gy shè;yu jì;yu luó;zx zií;ie	10
+程序设计语言	chéng;hw sǜ;gy shè;yu jì;yu yǔ;yk yán;wk	10
+程序生成程序	chéng;hw sǜ;gy shēng;pf chéng;gv chéng;hw sǜ;gy	10
+程序体系结构	chéng;hw sǜ;gy tǐ;rb xì;px jié;sk gòu;ag	10
+程序转换方法	chéng;hw sǜ;gy zhuǎn;iv huàn;fr fāng;wv fǎ;dq	10
+程序装入操作	chéng;hw sǜ;gy zhuāng;ly rù;pn cāo;fa zuò;rv	10
+程序装入程序	chéng;hw sǜ;gy zhuāng;ly rù;pn chéng;hw sǜ;gy	10
+成本效益分析	chéng;gv běn;aa xiào;ww yì;bm fēn;bd siī;at	10
+重复选择排序	chóng;ql fù;pw süǎn;ze zé;ff pái;ff sǜ;gy	10
+抽象数据类型	chōu;fy siàng;du shù;mw jù;fg lèi;md xíng;kt	10
+初始程序装入	chū;pd shǐ;nk chéng;hw sǜ;gy zhuāng;ly rù;pn	10
+出错登记程序	chū;uu cuò;jo dēng;bb jì;yj chéng;hw sǜ;gy	10
+纯正可归约性	chún;st zhèng;av kě;dk guī;le yuē;su sìng;xu	10
+伺服道录写器	cì;rk fú;oy dào;zz lù;eu siě;by qì;xx	10
+篡改信道信息	cuàn;vs gǎi;jw sìn;rk dào;zz sìn;rk siī;zx	10
+存储器一致性	cún;uz chǔ;ro qì;xx yí;aa zhì;gw sìng;xu	10
+存取管理程序	cún;uz cǚ;ey guǎn;vl lǐ;wl chéng;hw sǜ;gy	10
+存取控制机制	cún;uz cǚ;ey kòng;fg zhì;nd jī;aj zhì;nd	10
+待续数据标记	dài;rc sǜ;sd shù;mw jù;fg biāo;au jì;yj	10
+代码生成程序	dài;rg mǎ;um shēng;pf chéng;gv chéng;hw sǜ;gy	10
+单调曲率螺线	dān;bu diào;yk qū;wc lǜ;wu luó;ix siàn;sj	10
+当前默认目录	dāng;xe cián;bd mò;lq rèn;yr mù;we lù;eu	10
+地理信息系统	dì;ty lǐ;wl sìn;rk siī;zx xì;px tǒng;sy	10
+地址解析协议	dì;ty zhǐ;tv jiě;dn siī;at xié;ub yì;yy	10
+电压电流曲线	diàn;ov yā;id diàn;ov liú;di qū;wc siàn;sj	10
+电子消息处理	diàn;ov zi;la siāo;do siī;zx chǔ;wb lǐ;wl	10
+电阻引线电感	diàn;ov zǔ;eq yǐn;gl siàn;sj diàn;ov gǎn;gx	10
+定量图像分析	dìng;bz liàng;ol tú;wd siàng;ru fēn;bd siī;at	10
+动态生成程序	dòng;yl tài;tx shēng;pf chéng;gv chéng;hw sǜ;gy	10
+读写控制电路	dú;yd siě;by kòng;fg zhì;nd diàn;ov lù;zk	10
+对象管理结构	duì;yc siàng;du guǎn;vl lǐ;wl jié;sk gòu;ag	10
+对象建模技术	duì;yc siàng;du jiàn;zy mó;ad jì;fv shù;ad	10
+对象请求代理	duì;yc siàng;du cǐng;yo qiú;au dài;rg lǐ;wl	10
+多道程序分派	duō;xx dào;zz chéng;hw sǜ;gy fēn;bd pài;dy	10
+多道程序设计	duō;xx dào;zz chéng;hw sǜ;gy shè;yu jì;yu	10
+多点通信服务	duō;xx diǎn;vh tōng;zy sìn;rk fú;oy wù;wl	10
+多分辨率分析	duō;xx fēn;bd biàn;xl lǜ;wu fēn;bd siī;at	10
+多分辨率曲线	duō;xx fēn;bd biàn;xl lǜ;wu qū;wc siàn;sj	10
+多重程序装入	duō;xx zhòng;ql chéng;hw sǜ;gy zhuāng;ly rù;pn	10
+二阶参数连续	èr;aa jiē;ej cān;sp shù;mw lián;zi sǜ;sd	10
+二阶几何连续	èr;aa jiē;ej jǐ;pv hé;rk lián;zi sǜ;sd	10
+二进制大对象	èr;aa zìn;zj zhì;nd dà;ar duì;yc siàng;du	10
+发散束卷积法	fā;fy sàn;cw shù;gr juǎn;jv ziī;hv fǎ;dq	10
+反馈桥接故障	fǎn;iy kuì;ub qiáo;al ziē;fn gù;gw zhàng;eu	10
+反向计费接受	fǎn;iy xiàng;pk jì;yu fèi;fb ziē;fn shòu;vy	10
+仿真定性推理	fǎng;rf zhēn;ub dìng;bz sìng;xu tuī;fv lǐ;wl	10
+非对称选择网	fēi;ls duì;yc chèn;hx süǎn;ze zé;ff wǎng;kx	10
+非屏蔽双绞线	fēi;ls píng;uk bì;cw shuāng;yy jiǎo;sf siàn;sj	10
+非线性流水线	fēi;ls siàn;sj sìng;xu liú;di shuǐ;ln siàn;sj	10
+分段确定性的	fēn;bd duàn;pu què;uy dìng;bz sìng;xu de;bu	10
+分隔安全模式	fēn;bd gé;eg ān;bn cüán;rw mó;ad shì;gg	10
+分时就绪方式	fēn;bd shí;to ziù;wy sǜ;so fāng;wv shì;gg	10
+分时驱动程序	fēn;bd shí;to qū;mq dòng;yl chéng;hw sǜ;gy	10
+封闭安全环境	fēng;tc bì;mc ān;bn cüán;rw huán;wb jìng;te	10
+浮动装入程序	fú;dz dòng;yl zhuāng;ly rù;pn chéng;hw sǜ;gy	10
+服务监控程序	fú;oy wù;wl jiān;lm kòng;fg chéng;hw sǜ;gy	10
+服务请求中断	fú;oy wù;wl cǐng;yo qiú;au zhōng;kl duàn;vt	10
+干线连接单元	gàn;au siàn;sj lián;zi ziē;fn dān;bu yuán;aw	10
+干线耦合单元	gàn;au siàn;sj ǒu;ld hé;rk dān;bu yuán;aw	10
+高性能计算机	gāo;wk sìng;xu néng;sb jì;yu suàn;vc jī;aj	10
+高优先级中断	gāo;wk yōu;ry siān;ne jí;sj zhōng;kl duàn;vt	10
+个人通信系统	gè;rl rén;pn tōng;zy sìn;rk xì;px tǒng;sy	10
+更新事务处理	gēng;an sīn;lt shì;gy wù;wl chǔ;wb lǐ;wl	10
+工作信道状态	gōng;aa zuò;rv sìn;rk dào;zz zhuàng;lq tài;tx	10
+公共对象模型	gōng;bs gòng;cb duì;yc siàng;du mó;ad xíng;kt	10
+公共网关接口	gōng;bs gòng;cb wǎng;kx guān;bt ziē;fn kǒu;la	10
+构件对象模型	gòu;ag jiàn;rn duì;yc siàng;du mó;ad xíng;kt	10
+故障安全电路	gù;gw zhàng;eu ān;bn cüán;rw diàn;ov lù;zk	10
+故障弱化逻辑	gù;gw zhàng;eu ruò;gg huà;rb luó;zx zií;ie	10
+故障诊断程序	gù;gw zhàng;eu zhěn;yp duàn;vt chéng;hw sǜ;gy	10
+关键部分优先	guān;bt jiàn;jy bù;le fèn;bd yōu;ry siān;ne	10
+管道通信机制	guǎn;vl dào;zz tōng;zy sìn;rk jī;aj zhì;nd	10
+管理程序调用	guǎn;vl lǐ;wl chéng;hw sǜ;gy diào;yk yòng;kf	10
+管理信息系统	guǎn;vl lǐ;wl sìn;rk siī;zx xì;px tǒng;sy	10
+广度优先搜索	guǎng;di dù;gy yōu;ry siān;ne sōu;fy suǒ;ux	10
+广义相容运算	guǎng;di yì;dx siāng;ao róng;bg yùn;zy suàn;vc	10
+国际权威认证	guó;wy ziì;eu quán;ay wēi;gn rèn;yr zhèng;yv	10
+过程程序设计	guò;zc chéng;hw chéng;hw sǜ;gy shè;yu jì;yu	10
+函数程序设计	hán;ku shù;mw chéng;hw sǜ;gy shè;yu jì;yu	10
+汉语信息处理	hàn;dy yǔ;yk sìn;rk siī;zx chǔ;wb lǐ;wl	10
+汉语言语分析	hàn;dy yǔ;yk yán;wk yǔ;yk fēn;bd siī;at	10
+汉语语音分析	hàn;dy yǔ;yk yǔ;yk yīn;lo fēn;bd siī;at	10
+汉语自动切分	hàn;dy yǔ;yk zì;po dòng;yl ciē;qd fēn;bd	10
+汉字公用程序	hàn;dy zì;bz gōng;bs yòng;kf chéng;hw sǜ;gy	10
+汉字输入程序	hàn;dy zì;bz shū;id rù;pn chéng;hw sǜ;gy	10
+汉字属性字典	hàn;dy zì;bz shǔ;uy sìng;xu zì;bz diǎn;qb	10
+汉字信息处理	hàn;dy zì;bz sìn;rk siī;zx chǔ;wb lǐ;wl	10
+宏观经济模型	hóng;bs guān;yj jīng;sj ziì;dq mó;ad xíng;kt	10
+宏流水线算法	hóng;bs liú;di shuǐ;ln siàn;sj suàn;vc fǎ;dq	10
+后台初启程序	hòu;ik tái;sk chū;pd qǐ;hk chéng;hw sǜ;gy	10
+后台调度程序	hòu;ik tái;sk diào;yk dù;gy chéng;hw sǜ;gy	10
+后台监控程序	hòu;ik tái;sk jiān;lm kòng;fg chéng;hw sǜ;gy	10
+呼叫接通分组	hū;kh jiào;kj ziē;fn tōng;zy fēn;bd zǔ;sq	10
+呼叫进行信号	hū;kh jiào;kj zìn;zj xíng;rd sìn;rk hào;kk	10
+混合集成电路	hùn;db hé;rk zií;ra chéng;gv diàn;ov lù;zk	10
+混洗交换网络	hùn;db siǐ;de jiāo;wf huàn;fr wǎng;kx luò;sk	10
+奇偶归并排序	jī;dk ǒu;rd guī;le bìng;bk pái;ff sǜ;gy	10
+及时编译程序	jí;pn shí;to biān;sc yì;yf chéng;hw sǜ;gy	10
+集成数字控制	zií;ra chéng;gv shù;mw zì;bz kòng;fg zhì;nd	10
+集散控制系统	zií;ra sàn;cw kòng;fg zhì;nd xì;px tǒng;sy	10
+集中式缓冲池	zií;ra zhōng;kl shì;gg huǎn;sy chōng;dv chí;dy	10
+计量经济模型	jì;yu liàng;ol jīng;sj ziì;dq mó;ad xíng;kt	10
+计时分析程序	jì;yu shí;to fēn;bd siī;at chéng;hw sǜ;gy	10
+计算机可靠性	jì;yu suàn;vc jī;aj kě;dk kào;nf sìng;xu	10
+简单安全特性	jiǎn;vo dān;bu ān;bn cüán;rw tè;nc sìng;xu	10
+溅射薄膜磁盘	ziàn;dj shè;uc báo;cc mó;od cí;uy pán;vm	10
+交叉汇编程序	jiāo;wf chā;yd huì;dk biān;sc chéng;hw sǜ;gy	10
+交叉链接文件	jiāo;wf chā;yd liàn;ji ziē;fn wén;wx jiàn;rn	10
+接触式磁记录	ziē;fn chù;di shì;gg cí;uy jì;yj lù;eu	10
+接口定义语言	ziē;fn kǒu;la dìng;bz yì;dx yǔ;yk yán;wk	10
+接口描述语言	ziē;fn kǒu;la miáo;ft shù;zu yǔ;yk yán;wk	10
+结构查询语言	jié;sk gòu;ag chá;ad sǘn;yo yǔ;yk yán;wk	10
+结构化编辑器	jié;sk gòu;ag huà;rb biān;sc zií;ie qì;xx	10
+进程定性推理	zìn;zj chéng;hw dìng;bz sìng;xu tuī;fv lǐ;wl	10
+进化程序设计	zìn;zj huà;rb chéng;hw sǜ;gy shè;yu jì;yu	10
+经济信息系统	jīng;sj ziì;dq sìn;rk siī;zx xì;px tǒng;sy	10
+经理信息系统	jīng;sj lǐ;wl sìn;rk siī;zx xì;px tǒng;sy	10
+净室软件工程	zìng;dy shì;bt ruǎn;iq jiàn;rn gōng;aa chéng;hw	10
+静态存储分配	zìng;fy tài;tx cún;uz chǔ;ro fēn;bd pèi;yj	10
+静态分析程序	zìng;fy tài;tx fēn;bd siī;at chéng;hw sǜ;gy	10
+静止图像压缩	zìng;fy zhǐ;lb tú;wd siàng;ru yā;id suō;sb	10
+句子歧义消除	jù;bk zi;la qí;vv yì;dx siāo;do chú;em	10
+卷积投影数据	juǎn;jv ziī;hv tóu;fu yǐng;op shù;mw jù;fg	10
+决策支持中心	jué;dg cè;vu zhī;uy chí;fc zhōng;kl sīn;dd	10
+绝对机器代码	züé;sb duì;yc jī;aj qì;xx dài;rg mǎ;um	10
+卡普可归约性	kǎ;ub pǔ;bo kě;dk guī;le yuē;su sìng;xu	10
+开放安全环境	kāi;ac fàng;fw ān;bn cüán;rw huán;wb jìng;te	10
+可计算性理论	kě;dk jì;yu suàn;vc sìng;xu lǐ;wl lùn;yl	10
+可满足性问题	kě;dk mǎn;dl zú;kz sìng;xu wèn;mk tí;oy	10
+可视程序设计	kě;dk shì;pj chéng;hw sǜ;gy shè;yu jì;yu	10
+空闲信道状态	kòng;bg xián;ma sìn;rk dào;zz zhuàng;lq tài;tx	10
+库克可归约性	kù;gi kè;ux kě;dk guī;le yuē;su sìng;xu	10
+块优先级控制	kuài;tg yōu;ry siān;ne jí;sj kòng;fg zhì;nd	10
+快速编译程序	kuài;xg sù;zu biān;sc yì;yf chéng;hw sǜ;gy	10
+快速有序运输	kuài;xg sù;zu yǒu;uo sǜ;gy yùn;zy shū;id	10
+宽度优先分析	kuān;bj dù;gy yōu;ry siān;ne fēn;bd siī;at	10
+立方连接结构	lì;wb fāng;wv lián;zi ziē;fn jié;sk gòu;ag	10
+联机分析过程	lián;et jī;aj fēn;bd siī;at guò;zc chéng;hw	10
+联机分析挖掘	lián;et jī;aj fēn;bd siī;at wā;fv jué;fi	10
+连接编辑程序	lián;zi ziē;fn biān;sc zií;ie chéng;hw sǜ;gy	10
+连接单元接口	lián;zi ziē;fn dān;bu yuán;aw ziē;fn kǒu;la	10
+连接方式传输	lián;zi ziē;fn fāng;wv shì;gg chuán;rv shū;id	10
+连接接纳控制	lián;zi ziē;fn ziē;fn nà;sn kòng;fg zhì;nd	10
+连接装入程序	lián;zi ziē;fn zhuāng;ly rù;pn chéng;hw sǜ;gy	10
+连续控制系统	lián;zi sǜ;sd kòng;fg zhì;nd xì;px tǒng;sy	10
+连续模拟语言	lián;zi sǜ;sd mó;ad nǐ;fr yǔ;yk yán;wk	10
+连续语音识别	lián;zi sǜ;sd yǔ;yk yīn;lo shí;yv bié;kd	10
+流水线计算机	liú;di shuǐ;ln siàn;sj jì;yu suàn;vc jī;aj	10
+逻辑程序设计	luó;zx zií;ie chéng;hw sǜ;gy shè;yu jì;yu	10
+逻辑访问控制	luó;zx zií;ie fǎng;yf wèn;mk kòng;fg zhì;nd	10
+逻辑工作单元	luó;zx zií;ie gōng;aa zuò;rv dān;bu yuán;aw	10
+逻辑链路控制	luó;zx zií;ie liàn;ji lù;zk kòng;fg zhì;nd	10
+逻辑输入设备	luó;zx zií;ie shū;id rù;pn shè;yu bèi;wt	10
+逻辑信令信道	luó;zx zií;ie sìn;rk lìng;rs sìn;rk dào;zz	10
+逻辑验证系统	luó;zx zií;ie yàn;mq zhèng;yv xì;px tǒng;sy	10
+媒体控制接口	méi;na tǐ;rb kòng;fg zhì;nd ziē;fn kǒu;la	10
+媒体相关接口	méi;na tǐ;rb siāng;ao guān;bt ziē;fn kǒu;la	10
+密码分析攻击	mì;bu mǎ;um fēn;bd siī;at gōng;gw jī;fk	10
+密文分组链接	mì;bu wén;wx fēn;bd zǔ;sq liàn;ji ziē;fn	10
+密钥分配中心	mì;bu yào;jo fēn;bd pèi;yj zhōng;kl sīn;dd	10
+面向对象表示	miàn;ao xiàng;pk duì;yc siàng;du biǎo;fy shì;ex	10
+面向对象测试	miàn;ao xiàng;pk duì;yc siàng;du cè;dd shì;yg	10
+面向对象方法	miàn;ao xiàng;pk duì;yc siàng;du fāng;wv fǎ;dq	10
+面向对象分析	miàn;ao xiàng;pk duì;yc siàng;du fēn;bd siī;at	10
+面向对象建模	miàn;ao xiàng;pk duì;yc siàng;du jiàn;zy mó;ad	10
+面向对象设计	miàn;ao xiàng;pk duì;yc siàng;du shè;yu jì;yu	10
+面向对象语言	miàn;ao xiàng;pk duì;yc siàng;du yǔ;yk yán;wk	10
+面向连接协议	miàn;ao xiàng;pk lián;zi ziē;fn xié;ub yì;yy	10
+敏感元件接口	mǐn;pw gǎn;gx yuán;aw jiàn;rn ziē;fn kǒu;la	10
+命令处理程序	mìng;re lìng;rs chǔ;wb lǐ;wl chéng;hw sǜ;gy	10
+命令解释程序	mìng;re lìng;rs jiě;dn shì;mf chéng;hw sǜ;gy	10
+模糊查询语言	mó;ad hú;mo chá;ad sǘn;yo yǔ;yk yán;wk	10
+模型定性推理	mó;ad xíng;kt dìng;bz sìng;xu tuī;fv lǐ;wl	10
+墨者安全专家	mò;lt zhě;lo ān;bn cüán;rw zhuān;ts jiā;bu	10
+内务处理程序	nèi;kr wù;wl chǔ;wb lǐ;wl chéng;hw sǜ;gy	10
+排队注册请求	pái;ff duì;er zhù;dv cè;ka cǐng;yo qiú;au	10
+平衡归并排序	píng;au héng;rd guī;le bìng;bk pái;ff sǜ;gy	10
+平均存取时间	píng;au jūn;ty cún;uz cǚ;ey shí;to jiān;mo	10
+平均性态分析	píng;au jūn;ty sìng;xu tài;tx fēn;bd siī;at	10
+平均修复时间	píng;au jūn;ty siū;rp fù;pw shí;to jiān;mo	10
+平行束卷积法	píng;au xíng;rd shù;gr juǎn;jv ziī;hv fǎ;dq	10
+起始间隔集合	qǐ;tj shǐ;nk jiàn;mo gé;eg zií;ra hé;rk	10
+前台操作方式	cián;bd tái;sk cāo;fa zuò;rv fāng;wv shì;gg	10
+前台初启程序	cián;bd tái;sk chū;pd qǐ;hk chéng;hw sǜ;gy	10
+前台调度程序	cián;bd tái;sk diào;yk dù;gy chéng;hw sǜ;gy	10
+前台监控程序	cián;bd tái;sk jiān;lm kòng;fg chéng;hw sǜ;gy	10
+窃取信道信息	ciè;bd cǚ;ey sìn;rk dào;zz sìn;rk siī;zx	10
+情报检索语言	cíng;xo bào;fy jiǎn;aq suǒ;ux yǔ;yk yán;wk	10
+情景行动系统	cíng;xo jǐng;ox xíng;rd dòng;yl xì;px tǒng;sy	10
+请求分时处理	cǐng;yo qiú;au fēn;bd shí;to chǔ;wb lǐ;wl	10
+求解路径学习	qiú;au jiě;dn lù;zk jìng;rj xué;xz sií;vd	10
+区间时态逻辑	qū;kx jiān;mo shí;to tài;tx luó;zx zií;ie	10
+全局查询优化	cüán;rw jú;uk chá;ad sǘn;yo yōu;ry huà;rb	10
+全局共享资源	cüán;rw jú;uk gòng;cb xiǎng;wz zī;db yuán;dx	10
+全面质量管理	cüán;rw miàn;ao zhì;ib liàng;ol guǎn;vl lǐ;wl	10
+全球地址管理	cüán;rw qiú;wq dì;ty zhǐ;tv guǎn;vl lǐ;wl	10
+全球定位系统	cüán;rw qiú;wq dìng;bz wèi;rl xì;px tǒng;sy	10
+全自检查电路	cüán;rw zì;po jiǎn;aq chá;ad diàn;ov lù;zk	10
+人工信息系统	rén;pn gōng;aa sìn;rk siī;zx xì;px tǒng;sy	10
+人际消息处理	rén;pn ziì;eu siāo;do siī;zx chǔ;wb lǐ;wl	10
+任务调度程序	rèn;rw wù;wl diào;yk dù;gy chéng;hw sǜ;gy	10
+任务分派程序	rèn;rw wù;wl fēn;bd pài;dy chéng;hw sǜ;gy	10
+任务管理程序	rèn;rw wù;wl guǎn;vl lǐ;wl chéng;hw sǜ;gy	10
+任选用户设施	rèn;rw süǎn;ze yòng;kf hù;du shè;yu shī;fy	10
+认知映像系统	rèn;yr zhī;uk yìng;oy siàng;ru xì;px tǒng;sy	10
+柔性制造系统	róu;ma sìng;xu zhì;nd zào;zk xì;px tǒng;sy	10
+入侵检测系统	rù;pn cīn;ry jiǎn;aq cè;dd xì;px tǒng;sy	10
+软件监控程序	ruǎn;iq jiàn;rn jiān;lm kòng;fg chéng;hw sǜ;gy	10
+软件可维护性	ruǎn;iq jiàn;rn kě;dk wéi;sv hù;fh sìng;xu	10
+软件可移植性	ruǎn;iq jiàn;rn kě;dk yí;hx zhí;aq sìng;xu	10
+软件潜行分析	ruǎn;iq jiàn;rn cián;do xíng;rd fēn;bd siī;at	10
+软件验证程序	ruǎn;iq jiàn;rn yàn;mq zhèng;yv chéng;hw sǜ;gy	10
+软件易维护性	ruǎn;iq jiàn;rn yì;ow wéi;sv hù;fh sìng;xu	10
+软件易移植性	ruǎn;iq jiàn;rn yì;ow yí;hx zhí;aq sìng;xu	10
+瑞星杀毒软件	ruì;we sīng;ou shā;xa dú;fm ruǎn;iq jiàn;rn	10
+弱一致性模型	ruò;gg yí;aa zhì;gw sìng;xu mó;ad xíng;kt	10
+上的网际协议	shàng;ba de;bu wǎng;kx ziì;eu xié;ub yì;yy	10
+射极耦合逻辑	shè;uc jí;aj ǒu;ld hé;rk luó;zx zií;ie	10
+设备驱动程序	shè;yu bèi;wt qū;mq dòng;yl chéng;hw sǜ;gy	10
+设计编辑程序	shè;yu jì;yu biān;sc zií;ie chéng;hw sǜ;gy	10
+设计分析程序	shè;yu jì;yu fēn;bd siī;at chéng;hw sǜ;gy	10
+深度优先分析	shēn;da dù;gy yōu;ry siān;ne fēn;bd siī;at	10
+深度优先搜索	shēn;da dù;gy yōu;ry siān;ne sōu;fy suǒ;ux	10
+实际存储页表	shí;bd ziì;eu cún;uz chǔ;ro yè;ab biǎo;fy	10
+实时执行程序	shí;bd shí;to zhí;fw xíng;rd chéng;hw sǜ;gy	10
+时间序列模型	shí;to jiān;mo sǜ;gy liè;dd mó;ad xíng;kt	10
+时态查询语言	shí;to tài;tx chá;ad sǘn;yo yǔ;yk yán;wk	10
+时延偏差大小	shí;to yán;zv piān;rc chā;yg dà;ar siǎo;lb	10
+事件检测程序	shì;gy jiàn;rn jiǎn;aq cè;dd chéng;hw sǜ;gy	10
+事务消息传递	shì;gy wù;wl siāo;do siī;zx chuán;rv dì;zd	10
+是指信息技术	shì;oz zhǐ;fo sìn;rk siī;zx jì;fv shù;ad	10
+手段目的分析	shǒu;pf duàn;pu mù;we dì;bu fēn;bd siī;at	10
+手写汉字输入	shǒu;pf siě;by hàn;dy zì;bz shū;id rù;pn	10
+受控安全模式	shòu;vy kòng;fg ān;bn cüán;rw mó;ad shì;gg	10
+输入输出接口	shū;id rù;pn shū;id chū;uu ziē;fn kǒu;la	10
+数据采集系统	shù;mw jù;fg cǎi;va zií;ra xì;px tǒng;sy	10
+数据存取路径	shù;mw jù;fg cún;uz cǚ;ey lù;zk jìng;rj	10
+数据分析系统	shù;mw jù;fg fēn;bd siī;at xì;px tǒng;sy	10
+数据管理程序	shù;mw jù;fg guǎn;vl lǐ;wl chéng;hw sǜ;gy	10
+数据库完整性	shù;mw jù;fg kù;gi wán;by zhěng;uv sìng;xu	10
+数据相关冲突	shù;mw jù;fg siāng;ao guān;bt chōng;dv tū;bq	10
+数字签名标准	shù;mw zì;bz ciān;vq míng;xk biāo;au zhǔn;dv	10
+数字图像处理	shù;mw zì;bz tú;wd siàng;ru chǔ;wb lǐ;wl	10
+双向交替通信	shuāng;yy xiàng;pk jiāo;wf tì;fo tōng;zy sìn;rk	10
+双向同时通信	shuāng;yy xiàng;pk tóng;kk shí;to tōng;zy sìn;rk	10
+双元小波变换	shuāng;yy yuán;aw siǎo;lb bō;dp biàn;wy huàn;fr	10
+顺序程序设计	shùn;iy sǜ;gy chéng;hw sǜ;gy shè;yu jì;yu	10
+顺序调度系统	shùn;iy sǜ;gy diào;yk dù;gy xì;px tǒng;sy	10
+思想生成系统	sī;tx siǎng;ax shēng;pf chéng;gv xì;px tǒng;sy	10
+算术逻辑部件	suàn;vc shù;ad luó;zx zií;ie bù;le jiàn;rn	10
+算术运算逻辑	suàn;vc shù;ad yùn;zy suàn;vc luó;zx zií;ie	10
+随机存取机器	suí;eo jī;aj cún;uz cǚ;ey jī;aj qì;xx	10
+随机存取内存	suí;eo jī;aj cún;uz cǚ;ey nèi;kr cún;uz	10
+通道调度程序	tōng;zy dào;zz diào;yk dù;gy chéng;hw sǜ;gy	10
+通信控制字符	tōng;zy sìn;rk kòng;fg zhì;nd zì;bz fú;vc	10
+通信流量分析	tōng;zy sìn;rk liú;di liàng;ol fēn;bd siī;at	10
+通用安装程序	tōng;zy yòng;kf ān;bn zhuāng;ly chéng;hw sǜ;gy	10
+通用串行总线	tōng;zy yòng;kf chuàn;kl xíng;rd zǒng;bx siàn;sj	10
+通用接口总线	tōng;zy yòng;kf ziē;fn kǒu;la zǒng;bx siàn;sj	10
+通用阵列逻辑	tōng;zy yòng;kf zhèn;ei liè;dd luó;zx zií;ie	10
+图灵可归约性	tú;wd líng;eh kě;dk guī;le yuē;su sìng;xu	10
+图像并行处理	tú;wd siàng;ru bìng;bk xíng;rd chǔ;wb lǐ;wl	10
+图像输入设备	tú;wd siàng;ru shū;id rù;pn shè;yu bèi;wt	10
+图形核心系统	tú;wd xíng;kp hé;ar sīn;dd xì;px tǒng;sy	10
+团集覆盖问题	tuán;wc zií;ra fù;xw gài;ym wèn;mk tí;oy	10
+完全函数依赖	wán;by cüán;rw hán;ku shù;mw yī;ry lài;ub	10
+网际互连协议	wǎng;kx ziì;eu hù;ah lián;zi xié;ub yì;yy	10
+网际协议地址	wǎng;kx ziì;eu xié;ub yì;yy dì;ty zhǐ;tv	10
+网络结点接口	wǎng;kx luò;sk jié;sk diǎn;vh ziē;fn kǒu;la	10
+网络信息服务	wǎng;kx luò;sk sìn;rk siī;zx fú;oy wù;wl	10
+网络信息中心	wǎng;kx luò;sk sìn;rk siī;zx zhōng;kl sīn;dd	10
+网络运行中心	wǎng;kx luò;sk yùn;zy xíng;rd zhōng;kl sīn;dd	10
+网络字节顺序	wǎng;kx luò;sk zì;bz zié;ce shùn;iy sǜ;gy	10
+微诊断微程序	wēi;rj zhěn;yp duàn;vt wēi;rj chéng;hw sǜ;gy	10
+维护分析过程	wéi;sv hù;fh fēn;bd siī;at guò;zc chéng;hw	10
+维护服务程序	wéi;sv hù;fh fú;oy wù;wl chéng;hw sǜ;gy	10
+伪多色射线和	wěi;rw duō;xx sè;db shè;uc siàn;sj hé;hk	10
+伪造信道信息	wěi;rw zào;zk sìn;rk dào;zz sìn;rk siī;zx	10
+位置偏差信号	wèi;rl zhì;sq piān;rc chā;yg sìn;rk hào;kk	10
+温度循环试验	wēn;dm dù;gy sǘn;ro huán;wb shì;yg yàn;mq	10
+温切斯特技术	wēn;dm ciè;qd sī;ct tè;nc jì;fv shù;ad	10
+文本编辑程序	wén;wx běn;aa biān;sc zií;ie chéng;hw sǜ;gy	10
+文化程序设计	wén;wx huà;rb chéng;hw sǜ;gy shè;yu jì;yu	10
+文件检验程序	wén;wx jiàn;rn jiǎn;aq yàn;mq chéng;hw sǜ;gy	10
+无我程序设计	wú;ay wǒ;ga chéng;hw sǜ;gy shè;yu jì;yu	10
+无线置标语言	wú;ay siàn;sj zhì;sq biāo;au yǔ;yk yán;wk	10
+无源底板总线	wú;ay yuán;dx dǐ;gu bǎn;ay zǒng;bx siàn;sj	10
+物理隔绝网络	wù;nw lǐ;wl gé;eg züé;sb wǎng;kx luò;sk	10
+物理媒体连接	wù;nw lǐ;wl méi;na tǐ;rb lián;zi ziē;fn	10
+物理信令信道	wù;nw lǐ;wl sìn;rk lìng;rs sìn;rk dào;zz	10
+物资需求规划	wù;nw zī;db sǖ;ye qiú;au guī;fj huà;gd	10
+系统调度程序	xì;px tǒng;sy diào;yk dù;gy chéng;hw sǜ;gy	10
+系统辅助连接	xì;px tǒng;sy fǔ;if zhù;ql lián;zi ziē;fn	10
+系统控制程序	xì;px tǒng;sy kòng;fg zhì;nd chéng;hw sǜ;gy	10
+系统实用程序	xì;px tǒng;sy shí;bd yòng;kf chéng;hw sǜ;gy	10
+系统执行程序	xì;px tǒng;sy zhí;fw xíng;rd chéng;hw sǜ;gy	10
+系统中断请求	xì;px tǒng;sy zhōng;kl duàn;vt cǐng;yo qiú;au	10
+系统装入程序	xì;px tǒng;sy zhuāng;ly rù;pn chéng;hw sǜ;gy	10
+先进操作环境	siān;ne zìn;zj cāo;fa zuò;rv huán;wb jìng;te	10
+先进操作系统	siān;ne zìn;zj cāo;fa zuò;rv xì;px tǒng;sy	10
+线性控制系统	siàn;sj sìng;xu kòng;fg zhì;nd xì;px tǒng;sy	10
+线性预测编码	siàn;sj sìng;xu yù;yy cè;dd biān;sc mǎ;um	10
+相关控制部件	siāng;ao guān;bt kòng;fg zhì;nd bù;le jiàn;rn	10
+向量循环方法	xiàng;pk liàng;ol sǘn;ro huán;wb fāng;wv fǎ;dq	10
+消息处理系统	siāo;do siī;zx chǔ;wb lǐ;wl xì;px tǒng;sy	10
+消息传递接口	siāo;do siī;zx chuán;rv dì;zd ziē;fn kǒu;la	10
+消息传送代理	siāo;do siī;zx chuán;rv sòng;zt dài;rg lǐ;wl	10
+消息传送系统	siāo;do siī;zx chuán;rv sòng;zt xì;px tǒng;sy	10
+小巨型计算机	siǎo;lb jù;kk xíng;kt jì;yu suàn;vc jī;aj	10
+小引出线封装	siǎo;lb yǐn;gl chū;uu siàn;sj fēng;tc zhuāng;ly	10
+斜等轴测投影	sié;rd děng;vc zhóu;iy cè;dd tóu;fu yǐng;op	10
+斜二轴测投影	sié;rd èr;aa zhóu;iy cè;dd tóu;fu yǐng;op	10
+协同操作程序	xié;ub tóng;kk cāo;fa zuò;rv chéng;hw sǜ;gy	10
+协同操作进程	xié;ub tóng;kk cāo;fa zuò;rv zìn;zj chéng;hw	10
+协作信息主体	xié;ub zuò;rv sìn;rk siī;zx zhǔ;wt tǐ;rb	10
+心智信息传送	sīn;dd zhì;uo sìn;rk siī;zx chuán;rv sòng;zt	10
+信息处理系统	sìn;rk siī;zx chǔ;wb lǐ;wl xì;px tǒng;sy	10
+信息处理语言	sìn;rk siī;zx chǔ;wb lǐ;wl yǔ;yk yán;wk	10
+信息存储技术	sìn;rk siī;zx cún;uz chǔ;ro jì;fv shù;ad	10
+信息管理系统	sìn;rk siī;zx guǎn;vl lǐ;wl xì;px tǒng;sy	10
+信息净荷容量	sìn;rk siī;zx zìng;dy hé;ck róng;bg liàng;ol	10
+信息浏览服务	sìn;rk siī;zx liú;dd lǎn;lj fú;oy wù;wl	10
+信息冗余检验	sìn;rk siī;zx rǒng;bj yú;rm jiǎn;aq yàn;mq	10
+信息资源管理	sìn;rk siī;zx zī;db yuán;dx guǎn;vl lǐ;wl	10
+信元传送延迟	sìn;rk yuán;aw chuán;rv sòng;zt yán;zv chí;zi	10
+修理延误时间	siū;rp lǐ;wl yán;zv wù;yt shí;to jiān;mo	10
+虚拟安全网络	xū;hy nǐ;fr ān;bn cüán;rw wǎng;kx luò;sk	10
+虚拟寻址机制	xū;hy nǐ;fr sǘn;ec zhǐ;tv jī;aj zhì;nd	10
+需求规约语言	sǖ;ye qiú;au guī;fj yuē;su yǔ;yk yán;wk	10
+选择密文攻击	süǎn;ze zé;ff mì;bu wén;wx gōng;gw jī;fk	10
+选择明文攻击	süǎn;ze zé;ff míng;oo wén;wx gōng;gw jī;fk	10
+学习简单概念	xué;xz sií;vd jiǎn;vo dān;bu gài;aw niàn;rx	10
+循环重构技术	sǘn;ro huán;wb zhòng;ql gòu;ag jì;fv shù;ad	10
+页面存取时间	yè;ab miàn;ao cún;uz cǚ;ey shí;to jiān;mo	10
+一阶参数连续	yī;aa jiē;ej cān;sp shù;mw lián;zi sǜ;sd	10
+一阶几何连续	yī;aa jiē;ej jǐ;pv hé;rk lián;zi sǜ;sd	10
+依赖集的覆盖	yī;ry lài;ub zií;ra de;bu fù;xw gài;ym	10
+一致性强制器	yí;aa zhì;gw sìng;xu qiáng;gi zhì;nd qì;xx	10
+溢出控制程序	yì;dm chū;uu kòng;fg zhì;nd chéng;hw sǜ;gy	10
+易失性存储器	yì;ow shī;pf sìng;xu cún;uz chǔ;ro qì;xx	10
+易失性检查点	yì;ow shī;pf sìng;xu jiǎn;aq chá;ad diǎn;vh	10
+异常处理程序	yì;sc cháng;xj chǔ;wb lǐ;wl chéng;hw sǜ;gy	10
+异常调度程序	yì;sc cháng;xj diào;yk dù;gy chéng;hw sǜ;gy	10
+异常分派程序	yì;sc cháng;xj fēn;bd pài;dy chéng;hw sǜ;gy	10
+异常中止连接	yì;sc cháng;xj zhōng;kl zhǐ;lb lián;zi ziē;fn	10
+异常中止序列	yì;sc cháng;xj zhōng;kl zhǐ;lb sǜ;gy liè;dd	10
+因果分析系统	yīn;wd guǒ;ta fēn;bd siī;at xì;px tǒng;sy	10
+因果消息日志	yīn;wd guǒ;ta siāo;do siī;zx rì;wa zhì;tx	10
+引导装入程序	yǐn;gl dǎo;sc zhuāng;ly rù;pn chéng;hw sǜ;gy	10
+应用程序接口	yìng;ga yòng;kf chéng;hw sǜ;gy ziē;fn kǒu;la	10
+应用生成程序	yìng;ga yòng;kf shēng;pf chéng;gv chéng;hw sǜ;gy	10
+用户定义消息	yòng;kf hù;du dìng;bz yì;dx siāo;do siī;zx	10
+用户进入时间	yòng;kf hù;du zìn;zj rù;pn shí;to jiān;mo	10
+用户造词程序	yòng;kf hù;du zào;zk cí;yk chéng;hw sǜ;gy	10
+用户造字程序	yòng;kf hù;du zào;zk zì;bz chéng;hw sǜ;gy	10
+邮件发送清单	yóu;ye jiàn;rn fā;fy sòng;zt cīng;do dān;bu	10
+语法分析程序	yǔ;yk fǎ;dq fēn;bd siī;at chéng;hw sǜ;gy	10
+语言处理程序	yǔ;yk yán;wk chǔ;wb lǐ;wl chéng;hw sǜ;gy	10
+预订维修时间	yù;yy dìng;yd wéi;sv siū;rp shí;to jiān;mo	10
+预先计划分配	yù;yy siān;ne jì;yu huà;gd fēn;bd pèi;yj	10
+圆片规模集成	yuán;wb piàn;pv guī;fj mó;ad zií;ra chéng;gv	10
+远程进程调用	yuǎn;zy chéng;hw zìn;zj chéng;hw diào;yk yòng;kf	10
+乐器数字接口	yuè;px qì;xx shù;mw zì;bz ziē;fn kǒu;la	10
+允许信元速率	yǔn;se xǔ;yw sìn;rk yuán;aw sù;zu lǜ;wu	10
+运动图像压缩	yùn;zy dòng;yl tú;wd siàng;ru yā;id suō;sb	10
+正交小波变换	zhèng;av jiāo;wf siǎo;lb bō;dp biàn;wy huàn;fr	10
+知识图像编码	zhī;uk shí;yv tú;wd siàng;ru biān;sc mǎ;um	10
+知识信息处理	zhī;uk shí;yv sìn;rk siī;zx chǔ;wb lǐ;wl	10
+知识信息格式	zhī;uk shí;yv sìn;rk siī;zx gé;ak shì;gg	10
+执行管理程序	zhí;fw xíng;rd guǎn;vl lǐ;wl chéng;hw sǜ;gy	10
+执行控制程序	zhí;fw xíng;rd kòng;fg zhì;nd chéng;hw sǜ;gy	10
+直接成分语法	zhí;uq ziē;fn chéng;gv fèn;bd yǔ;yk fǎ;dq	10
+直接呼叫设施	zhí;uq ziē;fn hū;kh jiào;kj shè;yu shī;fy	10
+直接数字控制	zhí;uq ziē;fn shù;mw zì;bz kòng;fg zhì;nd	10
+直接随机存取	zhí;uq ziē;fn suí;eo jī;aj cún;uz cǚ;ey	10
+指令调度程序	zhǐ;fo lìng;rs diào;yk dù;gy chéng;hw sǜ;gy	10
+质子层析成像	zhì;ib zi;la céng;uy siī;at chéng;gv siàng;ru	10
+智能外围接口	zhì;uo néng;sb wài;xb wéi;ww ziē;fn kǒu;la	10
+中文信息处理	zhōng;kl wén;wx sìn;rk siī;zx chǔ;wb lǐ;wl	10
+主体通信语言	zhǔ;wt tǐ;rb tōng;zy sìn;rk yǔ;yk yán;wk	10
+专用安全模式	zhuān;ts yòng;kf ān;bn cüán;rw mó;ad shì;gg	10
+专用集成电路	zhuān;ts yòng;kf zií;ra chéng;gv diàn;ov lù;zk	10
+状态管理程序	zhuàng;lq tài;tx guǎn;vl lǐ;wl chéng;hw sǜ;gy	10
+资源管理程序	zī;db yuán;dx guǎn;vl lǐ;wl chéng;hw sǜ;gy	10
+自动安全监控	zì;po dòng;yl ān;bn cüán;rw jiān;lm kòng;fg	10
+自动程序设计	zì;po dòng;yl chéng;hw sǜ;gy shè;yu jì;yu	10
+自动程序中断	zì;po dòng;yl chéng;hw sǜ;gy zhōng;kl duàn;vt	10
+自动逻辑推理	zì;po dòng;yl luó;zx zií;ie tuī;fv lǐ;wl	10
+自动模型获取	zì;po dòng;yl mó;ad xíng;kt huò;cq cǚ;ey	10
+综合编辑修改	zōng;su hé;rk biān;sc zií;ie siū;rp gǎi;jw	10
+总线隔离模式	zǒng;bx siàn;sj gé;eg lí;wn mó;ad shì;gg	10
+总线寂静信号	zǒng;bx siàn;sj ziì;by zìng;fy sìn;rk hào;kk	10
+组合逻辑电路	zǔ;sq hé;rk luó;zx zií;ie diàn;ov lù;zk	10
+组合逻辑综合	zǔ;sq hé;rk luó;zx zií;ie zōng;su hé;rk	10
+最大最小测试	zuì;oy dà;ar zuì;oy siǎo;lb cè;dd shì;yg	10
+最坏情况分析	zuì;oy huài;tb cíng;xo kuàng;dx fēn;bd siī;at	10
+最佳优先搜索	zuì;oy jiā;rt yōu;ry siān;ne sōu;fy suǒ;ux	10
+最小平方逼近	zuì;oy siǎo;lb píng;au fāng;wv bī;zt jìn;zt	10
+最小特权原则	zuì;oy siǎo;lb tè;nc quán;ay yuán;ix zé;bd	10
+作业控制程序	zuò;rv yè;la kòng;fg zhì;nd chéng;hw sǜ;gy	10
+保留进位加法器	bǎo;ra liú;pt zìn;zj wèi;rl jiā;lk fǎ;dq qì;xx	10
+变换先行缓冲器	biàn;wy huàn;fr siān;ne xíng;rd huǎn;sy chōng;dv qì;xx	10
+标量数据流分析	biāo;au liàng;ol shù;mw jù;fg liú;di fēn;bd siī;at	10
+测试码生成程序	cè;dd shì;yg mǎ;um shēng;pf chéng;gv chéng;hw sǜ;gy	10
+插接兼容计算机	chā;fj ziē;fn jiān;bb róng;bg jì;yu suàn;vc jī;aj	10
+差动信号驱动器	chā;yg dòng;yl sìn;rk hào;kk qū;mq dòng;yl qì;xx	10
+超高速集成电路	chāo;tk gāo;wk sù;zu zií;ra chéng;gv diàn;ov lù;zk	10
+超级小型计算机	chāo;tk jí;sj siǎo;lb xíng;kt jì;yu suàn;vc jī;aj	10
+沉浸式虚拟现实	chén;dj zìn;dy shì;gg xū;hy nǐ;fr xiàn;wj shí;bd	10
+程序存储计算机	chéng;hw sǜ;gy cún;uz chǔ;ro jì;yu suàn;vc jī;aj	10
+程序设计方法学	chéng;hw sǜ;gy shè;yu jì;yu fāng;wv fǎ;dq xué;xz	10
+抽象窗口工具箱	chōu;fy siàng;du chuāng;bw kǒu;la gōng;aa jù;qb siāng;vo	10
+词专家句法分析	cí;yk zhuān;ts jiā;bu jù;bk fǎ;dq fēn;bd siī;at	10
+存储器存取冲突	cún;uz chǔ;ro qì;xx cún;uz cǚ;ey chōng;dv tū;bq	10
+存储器存取管理	cún;uz chǔ;ro qì;xx cún;uz cǚ;ey guǎn;vl lǐ;wl	10
+存储器存取模式	cún;uz chǔ;ro qì;xx cún;uz cǚ;ey mó;ad shì;gg	10
+存储器分配程序	cún;uz chǔ;ro qì;xx fēn;bd pèi;yj chéng;hw sǜ;gy	10
+存储器交叉存取	cún;uz chǔ;ro qì;xx jiāo;wf chā;yd cún;uz cǚ;ey	10
+存储器滞后写入	cún;uz chǔ;ro qì;xx zhì;dj hòu;ik siě;by rù;pn	10
+大规模集成电路	dà;ar guī;fj mó;ad zií;ra chéng;gv diàn;ov lù;zk	10
+低电平状态特性	dī;ru diàn;ov píng;au zhuàng;lq tài;tx tè;nc sìng;xu	10
+低电压差动信号	dī;ru diàn;ov yā;id chā;yg dòng;yl sìn;rk hào;kk	10
+点分十进制记法	diǎn;vh fēn;bd shí;al zìn;zj zhì;nd jì;yj fǎ;dq	10
+电子数字积分器	diàn;ov zi;la shù;mw zì;bz ziī;hv fēn;bd qì;xx	10
+电子照相印刷机	diàn;ov zi;la zhào;oh siàng;ao yìn;pe shuā;ud jī;aj	10
+调度程序工作区	diào;yk dù;gy chéng;hw sǜ;gy gōng;aa zuò;rv qū;kx	10
+东龙进销存软件	dōng;ax lóng;yp zìn;zj siāo;jo cún;uz ruǎn;iq jiàn;rn	10
+动态相关性检查	dòng;yl tài;tx siāng;ao guān;bt sìng;xu jiǎn;aq chá;ad	10
+动态优先级算法	dòng;yl tài;tx yōu;ry siān;ne jí;sj suàn;vc fǎ;dq	10
+对象式编程语言	duì;yc siàng;du shì;gg biān;sc chéng;hw yǔ;yk yán;wk	10
+对象式程序设计	duì;yc siàng;du shì;gg chéng;hw sǜ;gy shè;yu jì;yu	10
+多工序实体造型	duō;xx gōng;aa sǜ;gy shí;bd tǐ;rb zào;zk xíng;kt	10
+多级优先级中断	duō;xx jí;sj yōu;ry siān;ne jí;sj zhōng;kl duàn;vt	10
+多媒体信息系统	duō;xx méi;na tǐ;rb sìn;rk siī;zx xì;px tǒng;sy	10
+多属性决策系统	duō;xx shǔ;uy sìng;xu jué;dg cè;vu xì;px tǒng;sy	10
+多文种信息处理	duō;xx wén;wx zhǒng;hv sìn;rk siī;zx chǔ;wb lǐ;wl	10
+多终端监控程序	duō;xx zhōng;sd duān;le jiān;lm kòng;fg chéng;hw sǜ;gy	10
+多重存取存储器	duō;xx zhòng;ql cún;uz cǚ;ey cún;uz chǔ;ro qì;xx	10
+二次型性能指标	èr;aa cì;dq xíng;kt sìng;xu néng;sb zhǐ;fo biāo;au	10
+反向局域网信道	fǎn;iy xiàng;pk jú;uk yù;ta wǎng;kx sìn;rk dào;zz	10
+范例依存相似性	fàn;cv lì;rd yī;ry cún;uz siāng;ao sì;rr sìng;xu	10
+非接触式磁记录	fēi;ls ziē;fn chù;di shì;gg cí;uy jì;yj lù;eu	10
+非均匀对象模型	fēi;ls jūn;ty yún;bd duì;yc siàng;du mó;ad xíng;kt	10
+非线性控制系统	fēi;ls siàn;sj sìng;xu kòng;fg zhì;nd xì;px tǒng;sy	10
+非易失性存储器	fēi;ls yì;ow shī;pf sìng;xu cún;uz chǔ;ro qì;xx	10
+非预定维修时间	fēi;ls yù;yy dìng;bz wéi;sv siū;rp shí;to jiān;mo	10
+分布式程序设计	fēn;bd bù;uj shì;gg chéng;hw sǜ;gy shè;yu jì;yu	10
+分布式定序算法	fēn;bd bù;uj shì;gg dìng;bz sǜ;gy suàn;vc fǎ;dq	10
+分布式对象技术	fēn;bd bù;uj shì;gg duì;yc siàng;du jì;fv shù;ad	10
+分布式对象计算	fēn;bd bù;uj shì;gg duì;yc siàng;du jì;yu suàn;vc	10
+分布式排序算法	fēn;bd bù;uj shì;gg pái;ff sǜ;gy suàn;vc fǎ;dq	10
+分布式选择算法	fēn;bd bù;uj shì;gg süǎn;ze zé;ff suàn;vc fǎ;dq	10
+分程序结构语言	fēn;bd chéng;hw sǜ;gy jié;sk gòu;ag yǔ;yk yán;wk	10
+高电平状态特性	gāo;wk diàn;ov píng;au zhuàng;lq tài;tx tè;nc sìng;xu	10
+高速缓存一致性	gāo;wk sù;zu huǎn;sy cún;uz yí;aa zhì;gw sìng;xu	10
+高性能文件系统	gāo;wk sìng;xu néng;sb wén;wx jiàn;rn xì;px tǒng;sy	10
+格式化实用程序	gé;ak shì;gg huà;rb shí;bd yòng;kf chéng;hw sǜ;gy	10
+工作集分派程序	gōng;aa zuò;rv zií;ra fēn;bd pài;dy chéng;hw sǜ;gy	10
+功能性配置审计	gōng;gl néng;sb sìng;xu pèi;yj zhì;sq shěn;bu jì;yu	10
+汉语言语信息库	hàn;dy yǔ;yk yán;wk yǔ;yk sìn;rk siī;zx kù;gi	10
+汉语语音信息库	hàn;dy yǔ;yk yǔ;yk yīn;lo sìn;rk siī;zx kù;gi	10
+汉字编码字符集	hàn;dy zì;bz biān;sc mǎ;um zì;bz fú;vc zií;ra	10
+汉字信息交换码	hàn;dy zì;bz sìn;rk siī;zx jiāo;wf huàn;fr mǎ;um	10
+基于规则的程序	jī;ct yú;au guī;fj zé;bd de;bu chéng;hw sǜ;gy	10
+计算机层析成像	jì;yu suàn;vc jī;aj céng;uy siī;at chéng;gv siàng;ru	10
+计算机程序确认	jì;yu suàn;vc jī;aj chéng;hw sǜ;gy què;uy rèn;yr	10
+计算机程序认证	jì;yu suàn;vc jī;aj chéng;hw sǜ;gy rèn;yr zhèng;yv	10
+计算机程序验证	jì;yu suàn;vc jī;aj chéng;hw sǜ;gy yàn;mq zhèng;yv	10
+计算机程序摘要	jì;yu suàn;vc jī;aj chéng;hw sǜ;gy zhāi;fg yào;xn	10
+计算机程序注释	jì;yu suàn;vc jī;aj chéng;hw sǜ;gy zhù;dv shì;mf	10
+计算机辅助分析	jì;yu suàn;vc jī;aj fǔ;if zhù;ql fēn;bd siī;at	10
+计算机集成制造	jì;yu suàn;vc jī;aj zií;ra chéng;gv zhì;nd zào;zk	10
+计算机性能评价	jì;yu suàn;vc jī;aj sìng;xu néng;sb píng;yp jià;rj	10
+结构化编辑程序	jié;sk gòu;ag huà;rb biān;sc zií;ie chéng;hw sǜ;gy	10
+结构化程序设计	jié;sk gòu;ag huà;rb chéng;hw sǜ;gy shè;yu jì;yu	10
+进位传递加法器	zìn;zj wèi;rl chuán;rv dì;zd jiā;lk fǎ;dq qì;xx	10
+静态处理器分配	zìng;fy tài;tx chǔ;wb lǐ;wl qì;xx fēn;bd pèi;yj	10
+静态汉字重码率	zìng;fy tài;tx hàn;dy zì;bz zhòng;ql mǎ;um lǜ;wu	10
+静态缓冲区分配	zìng;fy tài;tx huǎn;sy chōng;dv qū;kx fēn;bd pèi;yj	10
+静态随机存储器	zìng;fy tài;tx suí;eo jī;aj cún;uz chǔ;ro qì;xx	10
+静态相关性检查	zìng;fy tài;tx siāng;ao guān;bt sìng;xu jiǎn;aq chá;ad	10
+静态字词重码率	zìng;fy tài;tx zì;bz cí;yk zhòng;ql mǎ;um lǜ;wu	10
+局域网管理程序	jú;uk yù;ta wǎng;kx guǎn;vl lǐ;wl chéng;hw sǜ;gy	10
+句法制导编辑器	jù;bk fǎ;dq zhì;nd dǎo;sc biān;sc zií;ie qì;xx	10
+可编程逻辑器件	kě;dk biān;sc chéng;hw luó;zx zií;ie qì;xx jiàn;rn	10
+可编程逻辑阵列	kě;dk biān;sc chéng;hw luó;zx zií;ie zhèn;ei liè;dd	10
+可编程通信接口	kě;dk biān;sc chéng;hw tōng;zy sìn;rk ziē;fn kǒu;la	10
+可编程阵列逻辑	kě;dk biān;sc chéng;hw zhèn;ei liè;dd luó;zx zií;ie	10
+可持续信元速率	kě;dk chí;fc sǜ;sd sìn;rk yuán;aw sù;zu lǜ;wu	10
+可扩展链接语言	kě;dk kuò;fg zhǎn;uy liàn;ji ziē;fn yǔ;yk yán;wk	10
+可信计算机系统	kě;dk sìn;rk jì;yu suàn;vc jī;aj xì;px tǒng;sy	10
+控制计算机接口	kòng;fg zhì;nd jì;yu suàn;vc jī;aj ziē;fn kǒu;la	10
+控制开发工具箱	kòng;fg zhì;nd kāi;ac fā;fy gōng;aa jù;qb siāng;vo	10
+离线累积升级包	lí;wn siàn;sj lěi;tx ziī;hv shēng;pc jí;sj bāo;bs	10
+离子沉积印刷机	lí;wn zi;la chén;dj ziī;hv yìn;pe shuā;ud jī;aj	10
+流水线互锁控制	liú;di shuǐ;ln siàn;sj hù;ah suǒ;jb kòng;fg zhì;nd	10
+流水线数据冲突	liú;di shuǐ;ln siàn;sj shù;mw jù;fg chōng;dv tū;bq	10
+逻辑定时分析仪	luó;zx zií;ie dìng;bz shí;to fēn;bd siī;at yí;ry	10
+逻辑数据独立性	luó;zx zií;ie shù;mw jù;fg dú;qi lì;wb sìng;xu	10
+逻辑探头指示器	luó;zx zií;ie tàn;fa tóu;dd zhǐ;fo shì;ex qì;xx	10
+逻辑状态分析仪	luó;zx zií;ie zhuàng;lq tài;tx fēn;bd siī;at yí;ry	10
+逻辑综合自动化	luó;zx zií;ie zōng;su hé;rk zì;po dòng;yl huà;rb	10
+码独立数据通信	mǎ;um dú;qi lì;wb shù;mw jù;fg tōng;zy sìn;rk	10
+码透明数据通信	mǎ;um tòu;zn míng;oo shù;mw jù;fg tōng;zy sìn;rk	10
+媒体接口连接器	méi;na tǐ;rb ziē;fn kǒu;la lián;zi ziē;fn qì;xx	10
+面向对象数据库	miàn;ao xiàng;pk duì;yc siàng;du shù;mw jù;fg kù;gi	10
+面向分析的设计	miàn;ao xiàng;pk fēn;bd siī;at de;bu shè;yu jì;yu	10
+面型图像传感器	miàn;ao xíng;kt tú;wd siàng;ru chuán;rv gǎn;gx qì;xx	10
+模块化程序设计	mó;ad kuài;tg huà;rb chéng;hw sǜ;gy shè;yu jì;yu	10
+逆地址解析协议	nì;zn dì;ty zhǐ;tv jiě;dn siī;at xié;ub yì;yy	10
+抢先多任务处理	ciǎng;fv siān;ne duō;xx rèn;rw wù;wl chǔ;wb lǐ;wl	10
+全高速缓存存取	cüán;rw gāo;wk sù;zu huǎn;sy cún;uz cún;uz cǚ;ey	10
+全相联高速缓存	cüán;rw siāng;ao lián;et gāo;wk sù;zu huǎn;sy cún;uz	10
+确定性控制系统	què;uy dìng;bz sìng;xu kòng;fg zhì;nd xì;px tǒng;sy	10
+任务调度优先级	rèn;rw wù;wl diào;yk dù;gy yōu;ry siān;ne jí;sj	10
+任务集装入模块	rèn;rw wù;wl zií;ra zhuāng;ly rù;pn mó;ad kuài;tg	10
+软件工程经济学	ruǎn;iq jiàn;rn gōng;aa chéng;hw jīng;sj ziì;dq xué;xz	10
+软件可靠性工程	ruǎn;iq jiàn;rn kě;dk kào;nf sìng;xu gōng;aa chéng;hw	10
+实寻址高速缓存	shí;bd sǘn;ec zhǐ;tv gāo;wk sù;zu huǎn;sy cún;uz	10
+释放一致性模型	shì;mf fàng;fw yí;aa zhì;gw sìng;xu mó;ad xíng;kt	10
+手写体汉字识别	shǒu;pf siě;by tǐ;rb hàn;dy zì;bz shí;yv bié;kd	10
+数据电路透明性	shù;mw jù;fg diàn;ov lù;zk tòu;zn míng;oo sìng;xu	10
+数据驱动型分析	shù;mw jù;fg qū;mq dòng;yl xíng;kt fēn;bd siī;at	10
+数据完整性保护	shù;mw jù;fg wán;by zhěng;uv sìng;xu bǎo;ra hù;fh	10
+数字信号处理器	shù;mw zì;bz sìn;rk hào;kk chǔ;wb lǐ;wl qì;xx	10
+双正交小波变换	shuāng;yy zhèng;av jiāo;wf siǎo;lb bō;dp biàn;wy huàn;fr	10
+顺序一致性模型	shùn;iy sǜ;gy yí;aa zhì;gw sìng;xu mó;ad xíng;kt	10
+顺序栈作业控制	shùn;iy sǜ;gy zhàn;aj zuò;rv yè;la kòng;fg zhì;nd	10
+随机数生成程序	suí;eo jī;aj shù;mw shēng;pf chéng;gv chéng;hw sǜ;gy	10
+条件项重写系统	tiáo;wa jiàn;rn xiàng;gy zhòng;ql siě;by xì;px tǒng;sy	10
+同步和会聚功能	tóng;kk bù;vu hé;hk huì;ry zǜ;eu gōng;gl néng;sb	10
+图形使用者接口	tú;wd xíng;kp shǐ;rl yòng;kf zhě;lo ziē;fn kǒu;la	10
+微诊断装入程序	wēi;rj zhěn;yp duàn;vt zhuāng;ly rù;pn chéng;hw sǜ;gy	10
+稳定的排序算法	wěn;hx dìng;bz de;bu pái;ff sǜ;gy suàn;vc fǎ;dq	10
+无失真图像压缩	wú;ay shī;pf zhēn;ub tú;wd siàng;ru yā;id suō;sb	10
+无引线芯片载体	wú;ay yǐn;gl siàn;sj sīn;cx piàn;pv zài;gi tǐ;rb	10
+物理数据独立性	wù;nw lǐ;wl shù;mw jù;fg dú;qi lì;wb sìng;xu	10
+系统高安全方式	xì;px tǒng;sy gāo;wk ān;bn cüán;rw fāng;wv shì;gg	10
+系统性能监视器	xì;px tǒng;sy sìng;xu néng;sb jiān;lm shì;pj qì;xx	10
+线缆调制解调器	siàn;sj lǎn;sj tiáo;yk zhì;nd jiě;dn tiáo;yk qì;xx	10
+线性图像传感器	siàn;sj sìng;xu tú;wd siàng;ru chuán;rv gǎn;gx qì;xx	10
+相对弦长参数化	siāng;ao duì;yc xián;gx zhǎng;pn cān;sp shù;mw huà;rb	10
+向量优先级中断	xiàng;pk liàng;ol yōu;ry siān;ne jí;sj zhōng;kl duàn;vt	10
+信息系统安全官	sìn;rk siī;zx xì;px tǒng;sy ān;bn cüán;rw guān;bl	10
+信元延迟变动量	sìn;rk yuán;aw yán;zv chí;zi biàn;wy dòng;yl liàng;ol	10
+虚寻址高速缓存	xū;hy sǘn;ec zhǐ;tv gāo;wk sù;zu huǎn;sy cún;uz	10
+因特网服务清单	yīn;wd tè;nc wǎng;kx fú;oy wù;wl cīng;do dān;bu	10
+因特网接力闲谈	yīn;wd tè;nc wǎng;kx ziē;fn lì;vp xián;ma tán;yh	10
+因特网商业中心	yīn;wd tè;nc wǎng;kx shāng;wk yè;la zhōng;kl sīn;dd	10
+有理贝济埃曲线	yǒu;uo lǐ;wl bèi;kr ziì;dq āi;tu qū;wc siàn;sj	10
+有失真图像压缩	yǒu;uo shī;pf zhēn;ub tú;wd siàng;ru yā;id suō;sb	10
+有仲裁的新闻组	yǒu;uo zhòng;rv cái;gy de;bu sīn;lt wén;me zǔ;sq	10
+真值表可归约性	zhēn;ub zhí;rq biǎo;fy kě;dk guī;le yuē;su sìng;xu	10
+正向局域网信道	zhèng;av xiàng;pk jú;uk yù;ta wǎng;kx sìn;rk dào;zz	10
+知识密集型产业	zhī;uk shí;yv mì;bu zií;ra xíng;kt chǎn;wi yè;la	10
+直角平面显像管	zhí;uq jiǎo;dy píng;au miàn;ao xiǎn;oy siàng;ru guǎn;vl	10
+直接存储器存取	zhí;uq ziē;fn cún;uz chǔ;ro qì;xx cún;uz cǚ;ey	10
+直线位移传感器	zhí;uq siàn;sj wèi;rl yí;hx chuán;rv gǎn;gx qì;xx	10
+指令集体系结构	zhǐ;fo lìng;rs zií;ra tǐ;rb xì;px jié;sk gòu;ag	10
+质量和性能测试	zhì;ib liàng;ol hé;hk sìng;xu néng;sb cè;dd shì;yg	10
+终端接入控制器	zhōng;sd duān;le ziē;fn rù;pn kòng;fg zhì;nd qì;xx	10
+字母数字字符集	zì;bz mǔ;md shù;mw zì;bz zì;bz fú;vc zií;ra	10
+自相似网络业务	zì;po siāng;ao sì;rr wǎng;kx luò;sk yè;la wù;wl	10
+组相联高速缓存	zǔ;sq siāng;ao lián;et gāo;wk sù;zu huǎn;sy cún;uz	10
+最大开路线长度	zuì;oy dà;ar kāi;ac lù;zk siàn;sj cháng;pn dù;gy	10
+最短作业优先法	zuì;oy duǎn;ub zuò;rv yè;la yōu;ry siān;ne fǎ;dq	10
+按内容存取存储器	àn;fn nèi;kr róng;bg cún;uz cǚ;ey cún;uz chǔ;ro qì;xx	10
+比例积分微分控制	bǐ;bb lì;rd ziī;hv fēn;bd wēi;rj fēn;bd kòng;fg zhì;nd	10
+编译程序规约语言	biān;sc yì;yf chéng;hw sǜ;gy guī;fj yuē;su yǔ;yk yán;wk	10
+操作系统管理程序	cāo;fa zuò;rv xì;px tǒng;sy guǎn;vl lǐ;wl chéng;hw sǜ;gy	10
+操作系统监控程序	cāo;fa zuò;rv xì;px tǒng;sy jiān;lm kòng;fg chéng;hw sǜ;gy	10
+测试数据生成程序	cè;dd shì;yg shù;mw jù;fg shēng;pf chéng;gv chéng;hw sǜ;gy	10
+测试用例生成程序	cè;dd shì;yg yòng;kf lì;rd shēng;pf chéng;gv chéng;hw sǜ;gy	10
+程序设计支持环境	chéng;hw sǜ;gy shè;yu jì;yu zhī;uy chí;fc huán;wb jìng;te	10
+处理器一致性模型	chǔ;wb lǐ;wl qì;xx yí;aa zhì;gw sìng;xu mó;ad xíng;kt	10
+串行线路网际协议	chuàn;kl xíng;rd siàn;sj lù;zk wǎng;kx ziì;eu xié;ub yì;yy	10
+存储器无冲突存取	cún;uz chǔ;ro qì;xx wú;ay chōng;dv tū;bq cún;uz cǚ;ey	10
+带注释的图像交换	dài;cj zhù;dv shì;mf de;bu tú;wd siàng;ru jiāo;wf huàn;fr	10
+单程序流多数据流	dān;bu chéng;hw sǜ;gy liú;di duō;xx shù;mw jù;fg liú;di	10
+电子数据交换消息	diàn;ov zi;la shù;mw jù;fg jiāo;wf huàn;fr siāo;do siī;zx	10
+调度程序等待队列	diào;yk dù;gy chéng;hw sǜ;gy děng;vc dài;rc duì;er liè;dd	10
+丢失中断处理程序	diū;pq shī;pf zhōng;kl duàn;vt chǔ;wb lǐ;wl chéng;hw sǜ;gy	10
+独立程序装入程序	dú;qi lì;wb chéng;hw sǜ;gy zhuāng;ly rù;pn chéng;hw sǜ;gy	10
+多八位编码字符集	duō;xx bā;pn wèi;rl biān;sc mǎ;um zì;bz fú;vc zií;ra	10
+多媒体延伸指令集	duō;xx méi;na tǐ;rb yán;zv shēn;ru zhǐ;fo lìng;rs zií;ra	10
+多字节图形字符集	duō;xx zì;bz zié;ce tú;wd xíng;kp zì;bz fú;vc zií;ra	10
+非均匀存储器存取	fēi;ls jūn;ty yún;bd cún;uz chǔ;ro qì;xx cún;uz cǚ;ey	10
+非抢先多任务处理	fēi;ls ciǎng;fv siān;ne duō;xx rèn;rw wù;wl chǔ;wb lǐ;wl	10
+非确定空间复杂性	fēi;ls què;uy dìng;bz kōng;bg jiān;mo fù;pw zá;ja sìng;xu	10
+非确定时间复杂性	fēi;ls què;uy dìng;bz shí;to jiān;mo fù;pw zá;ja sìng;xu	10
+非确定性控制系统	fēi;ls què;uy dìng;bz sìng;xu kòng;fg zhì;nd xì;px tǒng;sy	10
+非远程存储器存取	fēi;ls yuǎn;zy chéng;hw cún;uz chǔ;ro qì;xx cún;uz cǚ;ey	10
+分布式队列双总线	fēn;bd bù;uj shì;gg duì;er liè;dd shuāng;yy zǒng;bx siàn;sj	10
+分时调度程序系统	fēn;bd shí;to diào;yk dù;gy chéng;hw sǜ;gy xì;px tǒng;sy	10
+分时动态分配程序	fēn;bd shí;to dòng;yl tài;tx fēn;bd pèi;yj chéng;hw sǜ;gy	10
+复杂指令集计算机	fù;pw zá;ja zhǐ;fo lìng;rs zií;ra jì;yu suàn;vc jī;aj	10
+高性能计算和通信	gāo;wk sìng;xu néng;sb jì;yu suàn;vc hé;hk tōng;zy sìn;rk	10
+工业标准结构总线	gōng;aa yè;la biāo;au zhǔn;dv jié;sk gòu;ag zǒng;bx siàn;sj	10
+管理程序调用中断	guǎn;vl lǐ;wl chéng;hw sǜ;gy diào;yk yòng;kf zhōng;kl duàn;vt	10
+广域信息服务系统	guǎng;di yù;ta sìn;rk siī;zx fú;oy wù;wl xì;px tǒng;sy	10
+归纳逻辑程序设计	guī;le nà;sn luó;zx zií;ie chéng;hw sǜ;gy shè;yu jì;yu	10
+国家信息基础设施	guó;wy jiā;bu sìn;rk siī;zx jī;ct chǔ;ui shè;yu shī;fy	10
+过程间数据流分析	guò;zc chéng;hw jiān;mo shù;mw jù;fg liú;di fēn;bd siī;at	10
+汉语言语信息处理	hàn;dy yǔ;yk yán;wk yǔ;yk sìn;rk siī;zx chǔ;wb lǐ;wl	10
+汉语语音信息处理	hàn;dy yǔ;yk yǔ;yk yīn;lo sìn;rk siī;zx chǔ;wb lǐ;wl	10
+汉字信息处理技术	hàn;dy zì;bz sìn;rk siī;zx chǔ;wb lǐ;wl jì;fv shù;ad	10
+汉字信息特征编码	hàn;dy zì;bz sìn;rk siī;zx tè;nc zhēng;rv biān;sc mǎ;um	10
+汉字信息压缩技术	hàn;dy zì;bz sìn;rk siī;zx yā;id suō;sb jì;fv shù;ad	10
+宏观计量经济模型	hóng;bs guān;yj jì;yu liàng;ol jīng;sj ziì;dq mó;ad xíng;kt	10
+即插即用操作系统	zií;ge chā;fj zií;ge yòng;kf cāo;fa zuò;rv xì;px tǒng;sy	10
+即插即用程序设计	zií;ge chā;fj zií;ge yòng;kf chéng;hw sǜ;gy shè;yu jì;yu	10
+集成注入逻辑电路	zií;ra chéng;gv zhù;dv rù;pn luó;zx zií;ie diàn;ov lù;zk	10
+计算机安全与保密	jì;yu suàn;vc jī;aj ān;bn cüán;rw yǔ;va bǎo;ra mì;bu	10
+计算机化小交换机	jì;yu suàn;vc jī;aj huà;rb siǎo;lb jiāo;wf huàn;fr jī;aj	10
+精简指令集计算机	zīng;mo jiǎn;vo zhǐ;fo lìng;rs zií;ra jì;yu suàn;vc jī;aj	10
+晶体管电子计算机	zīng;oo tǐ;rb guǎn;vl diàn;ov zi;la jì;yu suàn;vc jī;aj	10
+晶体管晶体管逻辑	zīng;oo tǐ;rb guǎn;vl zīng;oo tǐ;rb guǎn;vl luó;zx zií;ie	10
+静态多功能流水线	zìng;fy tài;tx duō;xx gōng;gl néng;sb liú;di shuǐ;ln siàn;sj	10
+静态汉字平均码长	zìng;fy tài;tx hàn;dy zì;bz píng;au jūn;ty mǎ;um zhǎng;pn	10
+静态键位分布系数	zìng;fy tài;tx jiàn;jy wèi;rl fēn;bd bù;uj xì;px shù;mw	10
+静态字词平均码长	zìng;fy tài;tx zì;bz cí;yk píng;au jūn;ty mǎ;um zhǎng;pn	10
+句法制导编辑程序	jù;bk fǎ;dq zhì;nd dǎo;sc biān;sc zií;ie chéng;hw sǜ;gy	10
+开放的数据库连接	kāi;ac fàng;fw de;bu shù;mw jù;fg kù;gi lián;zi ziē;fn	10
+科摩哥洛夫复杂性	kē;hd mó;gu gē;kk luò;dk fū;er fù;pw zá;ja sìng;xu	10
+可编程逻辑控制器	kě;dk biān;sc chéng;hw luó;zx zií;ie kòng;fg zhì;nd qì;xx	10
+可扩缩一致性接口	kě;dk kuò;fg suō;sb yí;aa zhì;gw sìng;xu ziē;fn kǒu;la	10
+联机测试执行程序	lián;et jī;aj cè;dd shì;yg zhí;fw xíng;rd chéng;hw sǜ;gy	10
+连接机制神经网络	lián;zi ziē;fn jī;aj zhì;nd shén;pu jīng;sj wǎng;kx luò;sk	10
+连接机制体系结构	lián;zi ziē;fn jī;aj zhì;nd tǐ;rb xì;px jié;sk gòu;ag	10
+连续变量动态系统	lián;zi sǜ;sd biàn;wy liàng;ol dòng;yl tài;tx xì;px tǒng;sy	10
+逻辑句法分析系统	luó;zx zií;ie jù;bk fǎ;dq fēn;bd siī;at xì;px tǒng;sy	10
+逻辑链路控制协议	luó;zx zií;ie liàn;ji lù;zk kòng;fg zhì;nd xié;ub yì;yy	10
+逻辑输入输出设备	luó;zx zií;ie shū;id rù;pn shū;id chū;uu shè;yu bèi;wt	10
+面向对象编程语言	miàn;ao xiàng;pk duì;yc siàng;du biān;sc chéng;hw yǔ;yk yán;wk	10
+面向对象操作系统	miàn;ao xiàng;pk duì;yc siàng;du cāo;fa zuò;rv xì;px tǒng;sy	10
+面向对象程序设计	miàn;ao xiàng;pk duì;yc siàng;du chéng;hw sǜ;gy shè;yu jì;yu	10
+面向对象数据模型	miàn;ao xiàng;pk duì;yc siàng;du shù;mw jù;fg mó;ad xíng;kt	10
+前向显式拥塞指示	cián;bd xiàng;pk xiǎn;oy shì;gg yōng;fy sè;bt zhǐ;fo shì;ex	10
+嵌入式通信处理器	qiàn;uq rù;pn shì;gg tōng;zy sìn;rk chǔ;wb lǐ;wl qì;xx	10
+全沉浸式虚拟现实	cüán;rw chén;dj zìn;dy shì;gg xū;hy nǐ;fr xiàn;wj shí;bd	10
+全局一致性存储器	cüán;rw jú;uk yí;aa zhì;gw sìng;xu cún;uz chǔ;ro qì;xx	10
+全球信息基础设施	cüán;rw qiú;wq sìn;rk siī;zx jī;ct chǔ;ui shè;yu shī;fy	10
+人工智能程序设计	rén;pn gōng;aa zhì;uo néng;sb chéng;hw sǜ;gy shè;yu jì;yu	10
+软件资产管理程序	ruǎn;iq jiàn;rn zī;db chǎn;wi guǎn;vl lǐ;wl chéng;hw sǜ;gy	10
+瑞星卡卡安全助手	ruì;we sīng;ou kǎ;ub kǎ;ub ān;bn cüán;rw zhù;ql shǒu;pf	10
+实时系统执行程序	shí;bd shí;to xì;px tǒng;sy zhí;fw xíng;rd chéng;hw sǜ;gy	10
+事件驱动执行程序	shì;gy jiàn;rn qū;mq dòng;yl zhí;fw xíng;rd chéng;hw sǜ;gy	10
+数据电路终接设备	shù;mw jù;fg diàn;ov lù;zk zhōng;sd ziē;fn shè;yu bèi;wt	10
+通用问题求解程序	tōng;zy yòng;kf wèn;mk tí;oy qiú;au jiě;dn chéng;hw sǜ;gy	10
+通用消息事务协议	tōng;zy yòng;kf siāo;do siī;zx shì;gy wù;wl xié;ub yì;yy	10
+图表句法分析程序	tú;wd biǎo;fy jù;bk fǎ;dq fēn;bd siī;at chéng;hw sǜ;gy	10
+万用连接端口总线	wàn;av yòng;kf lián;zi ziē;fn duān;le kǒu;la zǒng;bx siàn;sj	10
+网络新闻传送协议	wǎng;kx luò;sk sīn;lt wén;me chuán;rv sòng;zt xié;ub yì;yy	10
+微程序只读存储器	wēi;rj chéng;hw sǜ;gy zhī;kb dú;yd cún;uz chǔ;ro qì;xx	10
+文件传送存取方法	wén;wx jiàn;rn chuán;rv sòng;zt cún;uz cǚ;ey fāng;wv fǎ;dq	10
+问题陈述分析程序	wèn;mk tí;oy chén;ed shù;zu fēn;bd siī;at chéng;hw sǜ;gy	10
+无用信息收集程序	wú;ay yòng;kf sìn;rk siī;zx shōu;jw zií;ra chéng;hw sǜ;gy	10
+系统管理监控程序	xì;px tǒng;sy guǎn;vl lǐ;wl jiān;lm kòng;fg chéng;hw sǜ;gy	10
+系统命令解释程序	xì;px tǒng;sy mìng;re lìng;rs jiě;dn shì;mf chéng;hw sǜ;gy	10
+系统资源管理程序	xì;px tǒng;sy zī;db yuán;dx guǎn;vl lǐ;wl chéng;hw sǜ;gy	10
+线性定常控制系统	siàn;sj sìng;xu dìng;bz cháng;xj kòng;fg zhì;nd xì;px tǒng;sy	10
+线性时变控制系统	siàn;sj sìng;xu shí;to biàn;wy kòng;fg zhì;nd xì;px tǒng;sy	10
+现场总线控制系统	xiàn;wj chǎng;tp zǒng;bx siàn;sj kòng;fg zhì;nd xì;px tǒng;sy	10
+相关分析独立生成	siāng;ao guān;bt fēn;bd siī;at dú;qi lì;wb shēng;pf chéng;gv	10
+小计算机系统接口	siǎo;lb jì;yu suàn;vc jī;aj xì;px tǒng;sy ziē;fn kǒu;la	10
+肖特基二极管端接	siào;xo tè;nc jī;ct èr;aa jí;aj guǎn;vl duān;le ziē;fn	10
+协作信息系统开发	xié;ub zuò;rv sìn;rk siī;zx xì;px tǒng;sy kāi;ac fā;fy	10
+新因特网知识系统	sīn;lt yīn;wd tè;nc wǎng;kx zhī;uk shí;yv xì;px tǒng;sy	10
+虚拟控制程序接口	xū;hy nǐ;fr kòng;fg zhì;nd chéng;hw sǜ;gy ziē;fn kǒu;la	10
+虚拟盘初始化程序	xū;hy nǐ;fr pán;vm chū;pd shǐ;nk huà;rb chéng;hw sǜ;gy	10
+虚拟设备驱动程序	xū;hy nǐ;fr shè;yu bèi;wt qū;mq dòng;yl chéng;hw sǜ;gy	10
+依存关系句法分析	yī;ry cún;uz guān;bt xì;px jù;bk fǎ;dq fēn;bd siī;at	10
+依赖集的最小覆盖	yī;ry lài;ub zií;ra de;bu zuì;oy siǎo;lb fù;xw gài;ym	10
+依赖集的最优覆盖	yī;ry lài;ub zií;ra de;bu zuì;oy yōu;ry fù;xw gài;ym	10
+阴极射线管显示器	yīn;eo jí;aj shè;uc siàn;sj guǎn;vl xiǎn;oy shì;ex qì;xx	10
+因特网接入提供者	yīn;wd tè;nc wǎng;kx ziē;fn rù;pn tí;fz gōng;rg zhě;lo	10
+因特网信息服务器	yīn;wd tè;nc wǎng;kx sìn;rk siī;zx fú;oy wù;wl qì;xx	10
+有穷自动机最小化	yǒu;uo qióng;bl zì;po dòng;yl jī;aj zuì;oy siǎo;lb huà;rb	10
+域际策略路由选择	yù;ta ziì;eu cè;vu lüè;tk lù;zk yóu;ol süǎn;ze zé;ff	10
+远程信息处理信息	yuǎn;zy chéng;hw sìn;rk siī;zx chǔ;wb lǐ;wl sìn;rk siī;zx	10
+远程作业处理程序	yuǎn;zy chéng;hw zuò;rv yè;la chǔ;wb lǐ;wl chéng;hw sǜ;gy	10
+增强型小设备接口	zēng;to qiáng;gi xíng;kt siǎo;lb shè;yu bèi;wt ziē;fn kǒu;la	10
+知识查询操纵语言	zhī;uk shí;yv chá;ad sǘn;yo cāo;fa zòng;sr yǔ;yk yán;wk	10
+知识信息处理系统	zhī;uk shí;yv sìn;rk siī;zx chǔ;wb lǐ;wl xì;px tǒng;sy	10
+直接相联高速缓存	zhí;uq ziē;fn siāng;ao lián;et gāo;wk sù;zu huǎn;sy cún;uz	10
+智能输入输出接口	zhì;uo néng;sb shū;id rù;pn shū;id chū;uu ziē;fn kǒu;la	10
+中断信号互连网络	zhōng;kl duàn;vt sìn;rk hào;kk hù;ah lián;zi wǎng;kx luò;sk	10
+中文信息处理设备	zhōng;kl wén;wx sìn;rk siī;zx chǔ;wb lǐ;wl shè;yu bèi;wt	10
+中文信息检索系统	zhōng;kl wén;wx sìn;rk siī;zx jiǎn;aq suǒ;ux xì;px tǒng;sy	10
+专用自动小交换机	zhuān;ts yòng;kf zì;po dòng;yl siǎo;lb jiāo;wf huàn;fr jī;aj	10
+字节多路转换通道	zì;bz zié;ce duō;xx lù;zk zhuǎn;iv huàn;fr tōng;zy dào;zz	10
+自底向上句法分析	zì;po dǐ;gu xiàng;pk shàng;ba jù;bk fǎ;dq fēn;bd siī;at	10
+自顶向下句法分析	zì;po dǐng;dy xiàng;pk xià;ab jù;bk fǎ;dq fēn;bd siī;at	10
+自然语言概念分析	zì;po rán;xh yǔ;yk yán;wk gài;aw niàn;rx fēn;bd siī;at	10
+最高优先级优先法	zuì;oy gāo;wk yōu;ry siān;ne jí;sj yōu;ry siān;ne fǎ;dq	10
+最近使用字词先见	zuì;oy jìn;zt shǐ;rl yòng;kf zì;bz cí;yk siān;ne jiàn;ke	10
+编译程序的编译程序	biān;sc yì;yf chéng;hw sǜ;gy de;bu biān;sc yì;yf chéng;hw sǜ;gy	10
+编译程序的生成程序	biān;sc yì;yf chéng;hw sǜ;gy de;bu shēng;pf chéng;gv chéng;hw sǜ;gy	10
+部分沉浸式虚拟现实	bù;le fèn;bd chén;dj zìn;dy shì;gg xū;hy nǐ;fr xiàn;wj shí;bd	10
+存储模块驱动器接口	cún;uz chǔ;ro mó;ad kuài;tg qū;mq dòng;yl qì;xx ziē;fn kǒu;la	10
+递推联想拼音输入法	dì;zd tuī;fv lián;et siǎng;ax pīn;fk yīn;lo shū;id rù;pn fǎ;dq	10
+多点二进制文件传送	duō;xx diǎn;vh èr;aa zìn;zj zhì;nd wén;wx jiàn;rn chuán;rv sòng;zt	10
+多点静止图像及注释	duō;xx diǎn;vh zìng;fy zhǐ;lb tú;wd siàng;ru jí;pn zhù;dv shì;mf	10
+多语种信息处理系统	duō;xx yǔ;yk zhǒng;hv sìn;rk siī;zx chǔ;wb lǐ;wl xì;px tǒng;sy	10
+防信息泄漏控制范围	fáng;ef sìn;rk siī;zx siè;du lòu;dy kòng;fg zhì;nd fàn;cv wéi;ww	10
+分布式公共对象模型	fēn;bd bù;uj shì;gg gōng;bs gòng;cb duì;yc siàng;du mó;ad xíng;kt	10
+分布式构件对象模型	fēn;bd bù;uj shì;gg gòu;ag jiàn;rn duì;yc siàng;du mó;ad xíng;kt	10
+分布式系统对象模式	fēn;bd bù;uj shì;gg xì;px tǒng;sy duì;yc siàng;du mó;ad shì;gg	10
+高速缓存一致性协议	gāo;wk sù;zu huǎn;sy cún;uz yí;aa zhì;gw sìng;xu xié;ub yì;yy	10
+光纤分布式数据接口	guāng;xe siān;sq fēn;bd bù;uj shì;gg shù;mw jù;fg ziē;fn kǒu;la	10
+后精简指令集计算机	hòu;ik zīng;mo jiǎn;vo zhǐ;fo lìng;rs zií;ra jì;yu suàn;vc jī;aj	10
+基于代价的查询优化	jī;ct yú;au dài;rg jià;rj de;bu chá;ad sǘn;yo yōu;ry huà;rb	10
+基于内容的图像检索	jī;ct yú;au nèi;kr róng;bg de;bu tú;wd siàng;ru jiǎn;aq suǒ;ux	10
+基于语法的查询优化	jī;ct yú;au yǔ;yk fǎ;dq de;bu chá;ad sǘn;yo yōu;ry huà;rb	10
+基于语义的查询优化	jī;ct yú;au yǔ;yk yì;dx de;bu chá;ad sǘn;yo yōu;ry huà;rb	10
+基于知识的咨询系统	jī;ct yú;au zhī;uk shí;yv de;bu zī;dk sǘn;yo xì;px tǒng;sy	10
+计算机程序开发计划	jì;yu suàn;vc jī;aj chéng;hw sǜ;gy kāi;ac fā;fy jì;yu huà;gd	10
+计算机程序配置标识	jì;yu suàn;vc jī;aj chéng;hw sǜ;gy pèi;yj zhì;sq biāo;au shí;yv	10
+计算机集成制造系统	jì;yu suàn;vc jī;aj zií;ra chéng;gv zhì;nd zào;zk xì;px tǒng;sy	10
+监控与数据采集系统	jiān;lm kòng;fg yǔ;va shù;mw jù;fg cǎi;va zií;ra xì;px tǒng;sy	10
+结构化程序设计语言	jié;sk gòu;ag huà;rb chéng;hw sǜ;gy shè;yu jì;yu yǔ;yk yán;wk	10
+截断二进制指数退避	zié;gv duàn;vt èr;aa zìn;zj zhì;nd zhǐ;fo shù;mw tuì;zg bì;zx	10
+进程存储器开关表示	zìn;zj chéng;hw cún;uz chǔ;ro qì;xx kāi;ac guān;bt biǎo;fy shì;ex	10
+柯尔莫哥洛夫复杂性	kē;ak ěr;dx mò;cd gē;kk luò;dk fū;er fù;pw zá;ja sìng;xu	10
+可安装设备驱动程序	kě;dk ān;bn zhuāng;ly shè;yu bèi;wt qū;mq dòng;yl chéng;hw sǜ;gy	10
+可重定位程序库模块	kě;dk zhòng;ql dìng;bz wèi;rl chéng;hw sǜ;gy kù;gi mó;ad kuài;tg	10
+控制台命令处理程序	kòng;fg zhì;nd tái;sk mìng;re lìng;rs chǔ;wb lǐ;wl chéng;hw sǜ;gy	10
+里诺进销存管理软件	lǐ;tt nuò;yk zìn;zj siāo;jo cún;uz guǎn;vl lǐ;wl ruǎn;iq jiàn;rn	10
+美国信息交换标准码	měi;yd guó;wy sìn;rk siī;zx jiāo;wf huàn;fr biāo;au zhǔn;dv mǎ;um	10
+面向对象的体系结构	miàn;ao xiàng;pk duì;yc siàng;du de;bu tǐ;rb xì;px jié;sk gòu;ag	10
+面向对象数据库语言	miàn;ao xiàng;pk duì;yc siàng;du shù;mw jù;fg kù;gi yǔ;yk yán;wk	10
+平衡型链路接入规程	píng;au héng;rd xíng;kt liàn;ji lù;zk ziē;fn rù;pn guī;fj chéng;hw	10
+商务因特网交换中心	shāng;wk wù;wl yīn;wd tè;nc wǎng;kx jiāo;wf huàn;fr zhōng;kl sīn;dd	10
+实时批处理监控程序	shí;bd shí;to pī;fb chǔ;wb lǐ;wl jiān;lm kòng;fg chéng;hw sǜ;gy	10
+铜线分布式数据接口	tóng;jk siàn;sj fēn;bd bù;uj shì;gg shù;mw jù;fg ziē;fn kǒu;la	10
+同步多媒体集成语言	tóng;kk bù;vu duō;xx méi;na tǐ;rb zií;ra chéng;gv yǔ;yk yán;wk	10
+同步静态随机存储器	tóng;kk bù;vu zìng;fy tài;tx suí;eo jī;aj cún;uz chǔ;ro qì;xx	10
+无类别域际路由选择	wú;ay lèi;md bié;kd yù;ta ziì;eu lù;zk yóu;ol süǎn;ze zé;ff	10
+现场可编程逻辑阵列	xiàn;wj chǎng;tp kě;dk biān;sc chéng;hw luó;zx zií;ie zhèn;ei liè;dd	10
+新技术视窗操作系统	sīn;lt jì;fv shù;ad shì;pj chuāng;bw cāo;fa zuò;rv xì;px tǒng;sy	10
+因特网控制消息协议	yīn;wd tè;nc wǎng;kx kòng;fg zhì;nd siāo;do siī;zx xié;ub yì;yy	10
+正电压射极耦合逻辑	zhèng;av diàn;ov yā;id shè;uc jí;aj ǒu;ld hé;rk luó;zx zií;ie	10
+直接耦合晶体管逻辑	zhí;uq ziē;fn ǒu;ld hé;rk zīng;oo tǐ;rb guǎn;vl luó;zx zií;ie	10
+最小高阈值输入电压	zuì;oy siǎo;lb gāo;wk yù;ma zhí;rq shū;id rù;pn diàn;ov yā;id	10
+薄膜晶体管液晶显示器	báo;cc mó;od zīng;oo tǐ;rb guǎn;vl yè;dw zīng;oo xiǎn;oy shì;ex qì;xx	10
+宏联通用进销存管理软件	hóng;bs lián;et tōng;zy yòng;kf zìn;zj siāo;jo cún;uz guǎn;vl lǐ;wl ruǎn;iq jiàn;rn	10
+青松汽车衡称重管理软件	cīng;fo sōng;ag qì;dq chē;au héng;rd chēng;hx zhòng;ql guǎn;vl lǐ;wl ruǎn;iq jiàn;rn	10
+光华反病毒离线累积升级包	guāng;xe huá;ru fǎn;iy bìng;bn dú;fm lí;wn siàn;sj lěi;tx ziī;hv shēng;pc jí;sj bāo;bs	10
+总管家全能客户关系管理系统	zǒng;bx guǎn;vl jiā;bu cüán;rw néng;sb kè;bk hù;du guān;bt xì;px guǎn;vl lǐ;wl xì;px tǒng;sy	10

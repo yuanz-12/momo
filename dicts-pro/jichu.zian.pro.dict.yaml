@@ -3416,6 +3416,7 @@ sort: by_weight
 祭司	ziì;xu sī;vk	304
 缉私	ziī;se sī;hs	229
 即送	zií;ge sòng;zt	141
+即搜	zií;ge sōu;fy	201
 疾速	zií;bu sù;zu	339
 即算	zií;ge suàn;vc	487
 脊髓	ziǐ;ro suǐ;go	1221
@@ -6839,7 +6840,6 @@ sort: by_weight
 凌姐	líng;dw ziě;nq	281
 领进	lǐng;ry zìn;zj	136
 零七	líng;ys ciī;av	77
-〇七	líng;vv ciī;av	10
 零钱	líng;ys cián;jj	2101
 灵前	líng;eh cián;bd	643
 领钱	lǐng;ry cián;jj	172
@@ -79281,6 +79281,7 @@ sort: by_weight
 请的假	cǐng;yo de;bu jiǎ;ry	311
 请得起	cǐng;yo dé;rc qǐ;tj	292
 轻得像	qīng;ij de;rc siàng;ru	19
+清德宗	cīng;do dé;rx zōng;bu	16
 请等待	cǐng;yo děng;vc dài;rc	119
 请等等	cǐng;yo děng;vc děng;vc	513
 请登记	cǐng;yo dēng;bb jì;yj	832
@@ -79687,6 +79688,7 @@ sort: by_weight
 亲家了	cìng;la jia;bu le;al	388
 清嘉录	cīng;do jiā;tk lù;eu	6
 亲家母	cìng;la jia;bu mǔ;md	41
+清嘉庆	cīng;do jiā;tk qìng;gd	53
 请加群	cǐng;yo jiā;lk qún;yy	19
 请假人	cǐng;yo jià;ry rén;pn	693
 请家人	cǐng;yo jiā;bu rén;pn	293
@@ -79892,6 +79894,7 @@ sort: by_weight
 请看图	cǐng;yo kàn;uo tú;wd	770
 请看我	cǐng;yo kàn;uo wǒ;ga	832
 请看下	cǐng;yo kàn;uo xià;ab	119
+清康熙	cīng;do kāng;gl xī;ih	126
 请考虑	cǐng;yo kǎo;lk lǜ;hx	891
 请客啊	cǐng;yo kè;bk a;kk	580
 请客吧	cǐng;yo kè;bk ba;kb	495
@@ -80441,6 +80444,7 @@ sort: by_weight
 清欠款	cīng;do qiàn;dr kuǎn;tq	612
 青铅矿	cīng;fo qiān;jk kuàng;ug	99
 青钱柳	cīng;fo cián;jj liǔ;ae	195
+清乾隆	cīng;do qián;uv lóng;eu	232
 清前期	cīng;do cián;bd qī;co	468
 庆千秋	qìng;gd ciān;pu ciū;hh	45
 情缱绻	cíng;xo qiǎn;sl quǎn;sv	459
@@ -80677,6 +80681,7 @@ sort: by_weight
 请慎重	cǐng;yo shèn;xb zhòng;ql	625
 轻声笑	qīng;ij shēng;tu siào;vy	702
 青盛苑	cīng;fo shèng;im yuàn;cv	252
+清圣祖	cīng;do shèng;yt zǔ;pq	22
 情诗吧	cíng;xo shī;yc ba;kb	186
 情史吧	cíng;xo shǐ;kn ba;kb	122
 青石板	cīng;fo shí;ak bǎn;ay	185
@@ -80720,6 +80725,7 @@ sort: by_weight
 请示中	cǐng;yo shì;ex zhōng;kl	634
 青石砖	cīng;fo shí;ak zhuān;uv	450
 青柿子	cīng;fo shì;aj zi;la	351
+清世宗	cīng;do shì;cv zōng;bu	75
 青石嘴	cīng;fo shí;ak zuǐ;ky	364
 请收藏	cǐng;yo shōu;jw cáng;ci	185
 请收好	cǐng;yo shōu;jw hǎo;nz	626
@@ -80748,6 +80754,7 @@ sort: by_weight
 清水泵	cīng;do shuǐ;ln bèng;uu	3
 清水茶	cīng;do shuǐ;ln chá;cm	351
 清水池	cīng;do shuǐ;ln chí;dy	28
+清水崇	cīng;do shuǐ;ln chóng;uu	410
 清水川	cīng;do shuǐ;ln chuān;pl	374
 清水道	cīng;do shuǐ;ln dào;zz	225
 清水店	cīng;do shuǐ;ln diàn;gv	238
@@ -80808,6 +80815,7 @@ sort: by_weight
 清水中	cīng;do shuǐ;ln zhōng;kl	113
 清水煮	cīng;do shuǐ;ln zhǔ;lh	963
 清水砖	cīng;do shuǐ;ln zhuān;uv	486
+清顺治	cīng;do shùn;iy zhì;dk	60
 请说吧	cǐng;yo shuō;yx ba;kb	342
 请说出	cǐng;yo shuō;yx chū;uu	126
 请说明	cǐng;yo shuō;yx míng;oo	1318
@@ -80869,6 +80877,8 @@ sort: by_weight
 青苔鼠	cīng;fo tái;ck shǔ;jv	180
 请太医	cǐng;yo tài;dd yī;ku	13
 青泰苑	cīng;fo tài;iu yuàn;cv	256
+清太宗	cīng;do tài;dd zōng;bu	13
+清太祖	cīng;do tài;dd zǔ;pq	31
 清潭洞	cīng;do tán;du dòng;dk	603
 清谈家	cīng;do tán;yh jiā;bu	3
 青檀树	cīng;fo tán;ad shù;ac	3
@@ -80952,6 +80962,7 @@ sort: by_weight
 请同学	cǐng;yo tóng;kk xué;xz	904
 青铜卣	cīng;fo tóng;jk yǒu;bk	194
 请通知	cǐng;yo tōng;zy zhī;uk	107
+清同治	cīng;do tóng;kk zhì;dk	96
 青铜钟	cīng;fo tóng;jk zhōng;jv	9
 清透感	cīng;do tòu;zn gǎn;gx	25
 青头菌	cīng;fo tóu;dd jūn;ch	25
@@ -81088,6 +81099,7 @@ sort: by_weight
 青虾仁	cīng;fo xiā;ix rén;re	369
 请下载	cǐng;yo xià;ab zài;gi	170
 清闲的	cīng;do xián;ma de;bu	837
+清咸丰	cīng;do xián;gk fēng;sl	57
 请先将	cǐng;yo siān;ne ziāng;lc	31
 青线椒	cīng;fo siàn;sj ziāo;ay	230
 清闲了	cīng;do xián;ma le;al	567
@@ -81343,6 +81355,7 @@ sort: by_weight
 请用力	cǐng;yo yòng;kf lì;vp	500
 清永陵	cīng;do yǒng;du líng;ew	310
 情永在	cíng;xo yǒng;du zài;ut	351
+清雍正	cīng;do yōng;wv zhèng;av	75
 清油漆	cīng;do yóu;dy ciī;du	130
 清幽幽	cīng;do yōu;uy yōu;uy	8
 青幽幽	cīng;fo yōu;uy yōu;uy	7
@@ -153987,7 +154000,6 @@ sort: by_weight
 二零八七	èr;aa líng;ys bā;pn ciī;av	4
 二零二七	èr;aa líng;ys èr;aa ciī;av	4
 二零九七	èr;aa líng;ys jiǔ;pv ciī;av	4
-二〇〇七	èr;aa líng;vv líng;vv ciī;av	38
 二零零七	èr;aa líng;ys líng;ys ciī;av	8
 二零六七	èr;aa líng;ys liù;wb ciī;av	4
 二零七八	èr;aa líng;ys ciī;av bā;pn	4
