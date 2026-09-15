@@ -2268,6 +2268,7 @@ sort: by_weight
 各节	gè;wk zié;ce	64
 割接	gē;bd ziē;fn	32
 各进	gè;wk zìn;zj	195
+圪蹴	gē;tv ziù;zy	28
 隔绝	gé;eg züé;sb	3583
 割漆	gē;bd ciī;du	62
 搁浅	gē;fk ciǎn;dj	1871
@@ -7451,6 +7452,7 @@ sort: by_weight
 奶癣	nǎi;nn süǎn;by	621
 奈雪	nài;du süě;ye	857
 难挤	nán;yv ziǐ;fq	92
+难嚼	nán;yv ziáo;kc	234
 楠姐	nán;ag ziě;nq	142
 南接	nán;ug ziē;fn	113
 难进	nán;yv zìn;zj	581
@@ -7458,7 +7460,6 @@ sort: by_weight
 南靖	nán;ug zìng;lo	150
 南菁	nán;ug zīng;co	96
 男爵	nán;tl züé;vc	1529
-难嚼	nán;yv züé;kc	734
 南俊	nán;ug zǜn;rw	476
 南齐	nán;ug cií;wl	176
 南茜	nán;ug ciàn;cx	1030
@@ -41237,10 +41238,10 @@ sort: by_weight
 很耐嚼	hěn;rg nài;ec züé;kc	418
 很耐心	hěn;rg nài;ec sīn;dd	1206
 很难挤	hěn;rg nán;yv ziǐ;fq	119
+很难嚼	hěn;rg nán;yv ziáo;kc	540
 很难接	hěn;rg nán;yv ziē;fn	821
 很难进	hěn;rg nán;yv zìn;zj	968
 很难就	hěn;rg nán;yv ziù;wy	666
-很难嚼	hěn;rg nán;yv züé;kc	540
 很难抢	hěn;rg nán;yv ciǎng;fv	621
 很难切	hěn;rg nán;yv ciē;qd	540
 很难请	hěn;rg nán;yv cǐng;yo	477
@@ -125917,6 +125918,7 @@ sort: by_weight
 一天前	yì;aa tiān;ad cián;bd	144
 已填写	yǐ;kv tián;tb siě;by	418
 一天雪	yì;aa tiān;ad süě;ye	6
+已调节	yǐ;kv tiáo;yk zié;ce	538
 一条线	yì;aa tiáo;wa siàn;sj	3900
 一条心	yì;aa tiáo;wa sīn;dd	465
 已挑选	yǐ;kv tiāo;fv süǎn;ze	369
@@ -127485,6 +127487,8 @@ sort: by_weight
 又想看	yòu;vn siǎng;ax kàn;uo	626
 有相克	yǒu;uo siāng;ao kè;ux	486
 油箱口	yóu;dy siāng;vo kǒu;la	482
+又想啦	yòu;vn siǎng;ax la;kl	202
+又想拉	yòu;vn siǎng;ax lā;fl	68
 又想了	yòu;vn siǎng;ax le;al	219
 邮箱里	yóu;ye siāng;vo lǐ;tt	968
 油箱里	yóu;dy siāng;vo lǐ;tt	364
@@ -133802,7 +133806,6 @@ sort: by_weight
 阿齐沙坦	ā;ek cií;wl shā;du tǎn;td	212
 阿嗪米特	ā;ek cín;kh mǐ;ba tè;nc	9
 阿柔比星	ā;ek róu;ma bǐ;bb sīng;ou	99
-阿氏六须	ā;ek shì;pv liù;wb sǖ;py	50
 阿时趋俗	ā;ek shí;to cǖ;te sú;rg	45
 阿舒拉节	ā;ek shū;ry lā;fl zié;ce	52
 阿司米星	ā;ek sī;vk mǐ;ba sīng;ou	45
@@ -201505,6 +201508,7 @@ sort: by_weight
 南煎丸子	nán;ug ziān;bh wán;jd zi;la	22
 南疆沙蜥	nán;ug jiāng;gj shā;du siī;it	117
 南江小学	nán;ug jiāng;dg siǎo;lb xué;xz	4
+难嚼难咽	nán;yv ziáo;kc nán;yv yàn;ky	117
 难进易退	nán;yv zìn;zj yì;ow tuì;zg	3
 南京城际	nán;ug jīng;wx chéng;ti ziì;eu	171
 南京城墙	nán;ug jīng;wx chéng;ti ciáng;tk	688
@@ -201528,7 +201532,6 @@ sort: by_weight
 南九西路	nán;ug jiǔ;pv siī;ak lù;zk	4
 难就知道	nán;yv ziù;wy zhī;uk dào;zz	234
 南聚北优	nán;ug zǜ;eu běi;lb yōu;ry	117
-难嚼难咽	nán;yv züé;kc nán;yv yàn;ky	117
 南俊北路	nán;ug zǜn;rw běi;lb lù;zk	4
 男俊女靓	nán;tl zǜn;rw nǚ;va liàng;fj	266
 男俊女美	nán;tl zǜn;rw nǚ;va měi;yd	324
@@ -223401,6 +223404,7 @@ sort: by_weight
 三焦辨证	sān;ae ziāo;rh biàn;xl zhèng;yv	9
 散焦光束	sàn;cw ziāo;rh guāng;xe shù;gr	45
 三角接法	sān;ae jiǎo;dy ziē;fn fǎ;dq	153
+三焦经穴	sān;ae ziāo;rh jīng;sj xué;bb	46
 三角齐尖	sān;ae jiǎo;dy cií;wl ziān;xd	4
 三角青玉	sān;ae jiǎo;dy cīng;fo yù;wd	4
 三焦湿热	sān;ae ziāo;rh shī;dy rè;fh	130
@@ -256413,7 +256417,6 @@ sort: by_weight
 肖家屋脊	siāo;xo jiā;bu wū;ut ziǐ;ro	171
 硝甲西泮	siāo;uo jiǎ;ol siī;ak pàn;db	189
 小家小户	siǎo;lb jiā;bu siǎo;lb hù;du	364
-萧家小六	siāo;cb jiā;bu siǎo;lb liù;wb	45
 肖家院子	siāo;xo jiā;bu yuàn;ey zǐ;la	4
 小家子气	siǎo;lb jiā;bu zi;la qì;pv	873
 小家子相	siǎo;lb jiā;bu zǐ;la siāng;ao	144
@@ -256444,7 +256447,6 @@ sort: by_weight
 小脚指头	siǎo;lb jiǎo;oe zhǐ;fo tou;dd	171
 消解方法	siāo;do jiě;dn fāng;wv fǎ;dq	99
 小街风情	siǎo;lb jiē;rt fēng;jx cíng;xo	207
-小接骨丹	siǎo;lb ziē;fn gǔ;go dān;kd	76
 小姐贵姓	siǎo;lb ziě;nq guì;vb sìng;nu	310
 小街锅贴	siǎo;lb jiē;rt guō;jn tiē;bv	261
 小姐好辣	siǎo;lb ziě;nq hǎo;nz là;xu	212
@@ -256765,7 +256767,6 @@ sort: by_weight
 销路不好	siāo;jo lù;zk bù;ab hǎo;nz	446
 小鹿叮叮	siǎo;lb lù;gb dīng;kd dīng;kd	382
 小炉儿匠	siǎo;lb lú;hh ér;pv ziàng;kt	4
-小陆姑娘	siǎo;lb lù;ej gū;ng niang;nl	4
 小陆家嘴	siǎo;lb lù;ej jiā;bu zuǐ;ky	405
 小路捷径	siǎo;lb lù;zk zié;fz jìng;rj	50
 小鹿蓝蓝	siǎo;lb lù;gb lán;cm lán;cm	99
@@ -257343,7 +257344,6 @@ sort: by_weight
 潇洒佳人	siāo;db sǎ;dx jiā;rt rén;pn	50
 潇洒俊逸	siāo;db sǎ;dx zǜn;rw yì;zt	333
 潇洒离开	siāo;db sǎ;dx lí;wn kāi;ac	490
-潇洒令狐	siāo;db sǎ;dx líng;rs hú;qg	45
 潇洒飘逸	siāo;db sǎ;dx piāo;xf yì;zt	526
 潇洒倜傥	siāo;db sǎ;dx tì;rk tǎng;rx	464
 潇洒桐庐	siāo;db sǎ;dx tóng;ak lú;gh	194
@@ -258578,8 +258578,6 @@ sort: by_weight
 小羊一只	siǎo;lb yáng;bf yì;aa zhī;kb	4
 小杨臻选	siǎo;lb yáng;ap zhēn;gh süǎn;ze	45
 逍遥兵王	siāo;zo yáo;zf bīng;qb wáng;at	45
-逍遥成人	siāo;zo yáo;zf chéng;gv rén;pn	45
-逍遥的火	siāo;zo yáo;zf de;bu huǒ;br	4
 逍遥的人	siāo;zo yáo;zf de;bu rén;pn	207
 逍遥二仙	siāo;zo yáo;zf èr;aa siān;ru	256
 逍遥法外	siāo;zo yáo;zf fǎ;dq wài;xb	1027
@@ -258603,7 +258601,6 @@ sort: by_weight
 逍遥王子	siāo;zo yáo;zf wáng;at zǐ;la	4
 逍遥物外	siāo;zo yáo;zf wù;nw wài;xb	9
 逍遥仙境	siāo;zo yáo;zf siān;ru jìng;te	45
-潇遥晓仙	siāo;db yáo;zf xiǎo;ow siān;ru	144
 逍遥一笑	siāo;zo yáo;zf yí;aa siào;vy	4
 逍遥一族	siāo;zo yáo;zf yì;aa zú;fu	4
 逍遥游人	siāo;zo yáo;zf yóu;dz rén;pn	180
@@ -258838,7 +258835,6 @@ sort: by_weight
 小镇姗姗	siǎo;lb zhèn;jb shān;nc shān;nc	3
 小镇阳光	siǎo;lb zhèn;jb yáng;eo guāng;xe	230
 小镇疑云	siǎo;lb zhèn;jb yí;bz yún;ag	315
-萧政储出	siāo;cb zhèng;vw chǔ;ro chū;uu	99
 小正方形	siǎo;lb zhèng;av fāng;wv xíng;kp	110
 小郑同志	siǎo;lb zhèng;be tóng;kk zhì;tx	4
 消症益肝	siāo;do zhèng;bv yì;bm gān;og	45
