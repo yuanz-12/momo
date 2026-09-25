@@ -3877,9 +3877,9 @@ sort: by_weight
 渐失	ziàn;dt shī;pf	43
 歼十	ziān;dq shí;al	34
 尖石	ziān;xd shí;ak	21
-箭石	ziàn;vd shí;ak	0
-渐逝	ziàn;dt shì;zt	-1
-溅湿	ziàn;dj shī;dy	0
+箭石	ziàn;vd shí;ak	1
+渐逝	ziàn;dt shì;zt	1
+溅湿	ziàn;dj shī;dy	1
 箭手	ziàn;vd shǒu;pf	135
 箭术	ziàn;vd shù;ad	157
 渐衰	ziàn;dt shuāi;yv	47
@@ -13261,8 +13261,8 @@ sort: by_weight
 无际	wú;ay ziì;eu	285
 无疾	wú;ay zií;bu	182
 五集	wǔ;aw zií;ra	160
-吾即	wú;wk zií;ge	0
-无迹	wú;ay ziì;zb	0
+吾即	wú;wk zií;ge	1
+无迹	wú;ay ziì;zb	1
 武将	wǔ;gv ziàng;lc	19013
 误将	wù;yt ziāng;lc	301
 吾将	wú;wk ziāng;lc	122
@@ -20692,6 +20692,7 @@ sort: by_weight
 再就	zài;ar ziù;wy	358
 再聚	zài;ar zǜ;eu	2399
 在前	zài;ut cián;bd	7087
+灾前	zāi;bh cián;bd	970
 再迁	zài;ar ciān;zq	770
 再抢	zài;ar ciǎng;fv	109
 再切	zài;ar ciē;qd	314
@@ -54734,7 +54735,7 @@ sort: by_weight
 将在全	ziāng;lc zài;ut cüán;rw	1066
 将载人	ziāng;lc zài;gi rén;pn	369
 将在日	ziāng;lc zài;ut rì;wa	900
-将载入	ziāng;lc zǎi;gi rù;pn	576
+将载入	ziāng;lc zài;gi rù;pn	576
 将宰杀	ziāng;lc zǎi;bx shā;xa	324
 将在十	ziāng;lc zài;ut shí;al	688
 将在市	ziāng;lc zài;ut shì;wj	555
@@ -106314,9 +106315,9 @@ sort: by_weight
 相信人	siāng;ao sìn;rk rén;pn	1089
 相信神	siāng;ao sìn;rk shén;pu	774
 向新生	xiàng;pk sīn;lt shēng;pf	626
-相信是	siāng;ao sìn;rk shì;oz	0
-想心事	siǎng;ax sīn;dd shì;gy	-1
-向心式	xiàng;pk sīn;dd shì;gg	0
+相信是	siāng;ao sìn;rk shì;oz	60
+想心事	siǎng;ax sīn;dd shì;gy	45
+向心式	xiàng;pk sīn;dd shì;gg	12
 相信谁	siāng;ao sìn;rk shuí;yv	810
 想心思	siǎng;ax sīn;dd si;tx	454
 相信他	siāng;ao sìn;rk tā;ry	1516
@@ -119965,6 +119966,7 @@ sort: by_weight
 新组合	sīn;lt zǔ;sq hé;rk	958
 新租户	sīn;lt zū;hq hù;du	387
 新组建	sīn;lt zǔ;sq jiàn;zy	251
+新组件	sīn;lt zǔ;sq jiàn;rn	182
 新租客	sīn;lt zū;hq kè;bk	333
 新租赁	sīn;lt zū;hq lìn;rb	405
 新足球	sīn;lt zú;kz qiú;wq	468
@@ -125276,8 +125278,7 @@ sort: by_weight
 一集吧	yì;aa zií;ra ba;kb	177
 遗迹吧	yí;zb ziì;zb ba;kb	36
 已集成	yǐ;kv zií;ra chéng;gv	364
-以积极	yǐ;lr ziī;hv jí;aj	31
-已积极	yǐ;kv ziī;hv jí;aj	22
+一集集	yì;aa zií;ra zií;ra	22
 已即将	yǐ;kv zií;ge ziāng;lc	364
 已集结	yǐ;kv zií;ra jié;sk	495
 以季节	yǐ;lr jì;hz zié;ce	384
@@ -145025,7 +145026,7 @@ sort: by_weight
 重新引入	chóng;ql sīn;lt yǐn;gl rù;pn	60
 重新油漆	chóng;ql sīn;lt yóu;dy ciī;du	6
 重新再来	chóng;ql sīn;lt zài;ar lái;aa	201
-重新载入	chóng;ql sīn;lt zǎi;gi rù;pn	20
+重新载入	chóng;ql sīn;lt zài;gi rù;pn	20
 重新展开	chóng;ql sīn;lt zhǎn;uy kāi;ac	57
 重新占领	chóng;ql sīn;lt zhàn;bw lǐng;ry	53
 重新站起	chóng;ql sīn;lt zhàn;lv qǐ;tj	47
@@ -198633,6 +198634,7 @@ sort: by_weight
 没有进步	méi;du yǒu;uo zìn;zj bù;vu	741
 没有尽头	méi;du yǒu;uo zìn;id tóu;dd	933
 没有精力	méi;du yǒu;uo zīng;mo lì;vp	936
+没有就的	méi;du yǒu;uo ziù;wy de;bu	21
 没有绝对	méi;du yǒu;uo züé;sb duì;yc	3222
 没有嚼头	méi;du yǒu;uo züé;kc tóu;dd	52
 没有看清	méi;du yǒu;uo kàn;uo cīng;do	52
@@ -274229,6 +274231,7 @@ sort: by_weight
 以及国际	yǐ;lr jí;pn guó;wy ziì;eu	968
 遗迹化石	yí;zb ziì;zb huà;rb shí;ak	392
 一级火箭	yì;aa jí;sj huǒ;br ziàn;vd	598
+以积极的	yǐ;lr ziī;hv jí;aj de;bu	31
 一击即溃	yì;aa jī;fk zií;ge kuì;db	31
 一机集团	yì;aa jī;aj zií;ra tuán;wc	405
 一击即中	yì;aa jī;fk zií;ge zhōng;kl	210
@@ -291880,6 +291883,8 @@ sort: by_weight
 最有激情	zuì;oy yǒu;uo jī;dw cíng;xo	418
 最有良心	zuì;oy yǒu;uo liáng;dg sīn;dd	468
 最有灵性	zuì;oy yǒu;uo líng;eh sìng;xu	400
+最有逻辑	zuì;oy yǒu;uo luó;zx zii;ie	49
+最优逻辑	zuì;oy yōu;ry luó;zx zii;ie	33
 最有耐心	zuì;oy yǒu;uo nài;ec sīn;dd	454
 最有前景	zuì;oy yǒu;uo cián;bd jǐng;ox	666
 最有潜力	zuì;oy yǒu;uo cián;do lì;vp	850
