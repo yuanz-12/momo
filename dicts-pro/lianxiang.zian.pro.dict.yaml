@@ -1195,7 +1195,6 @@ sort: by_weight
 不可篡改性	bù;ab kě;dk cuàn;vs gǎi;jw sìng;xu	10
 不可达序数	bù;ab kě;dk dá;zd sǜ;gy shù;mw	10
 不可抵赖性	bù;ab kě;dk dǐ;fu lài;ub sìng;xu	10
-不可调节的	bù;ab kě;dk diào;yk zié;ce de;bu	10
 不可对易性	bù;ab kě;dk duì;yc yì;ow sìng;xu	10
 不可观测性	bù;ab kě;dk guān;yj cè;dd sìng;xu	10
 不可即基数	bù;ab kě;dk zií;ge jī;ct shù;mw	10
@@ -1204,6 +1203,7 @@ sort: by_weight
 不可判定性	bù;ab kě;dk pàn;bd dìng;bz sìng;xu	10
 不可侵犯的	bù;ab kě;dk cīn;ry fàn;qv de;bu	10
 不可数序数	bù;ab kě;dk shù;mw sǜ;gy shù;mw	10
+不可调节的	bù;ab kě;dk tiáo;yk zié;ce de;bu	10
 不可先传也	bù;ab kě;dk siān;ne chuán;rv yě;vv	10
 不可亵玩焉	bù;ab kě;dk siè;yw wán;wy yān;vh	10
 不可须臾离	bù;ab kě;dk sǖ;py yú;jr lí;wn	10
@@ -47586,7 +47586,6 @@ sort: by_weight
 流量流容积波形	liú;di liàng;ol liú;di róng;bg ziī;hv bō;dp xíng;kp	10
 流式细胞分选仪	liú;di shì;gg siì;st bāo;ob fēn;bd süǎn;ze yí;ry	10
 流行性斑疹伤寒	liú;di xíng;rd sìng;xu bān;ww zhěn;bp shāng;rl hán;bd	10
-流行性感冒疫苗	liú;di xíng;rd sìng;xu gǎn;gx mào;oo yì;bu miáo;ct	10
 流行性关节红斑	liú;di xíng;rd sìng;xu guān;bt zié;ce hóng;sg bān;ww	10
 六一国际儿童节	liù;wb yī;aa guó;wy ziì;eu ér;pv tóng;ll zié;ce	10
 龙宝牌精品燕窝	lóng;yp bǎo;by pái;pu zīng;mo pǐn;kk yàn;ch wō;bn	10

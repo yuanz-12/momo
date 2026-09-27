@@ -6987,6 +6987,8 @@ sort: by_weight
 乱枪	luàn;uv ciāng;av	662
 乱抢	luàn;uv ciǎng;fv	62
 卵鞘	luǎn;pd ciào;co	68
+乱情	luàn;uv cíng;xo	544
+乱清	luàn;uv cīng;do	331
 栾清	luán;wa cīng;do	4
 乱想	luàn;uv siǎng;ax	2264
 乱象	luàn;uv siàng;du	471
@@ -7616,6 +7618,7 @@ sort: by_weight
 宁姐	níng;bd ziě;nq	700
 宁晋	níng;bd zìn;yo	519
 宁津	níng;bd zīn;dy	491
+宁静	níng;bd zìng;fy	6789
 凝聚	níng;dz zǜ;eu	3247
 凝绝	níng;dz züé;sb	25
 宁戚	níng;bd ciī;gx	42
@@ -63522,7 +63525,6 @@ sort: by_weight
 可得性	kě;dk de;rc sìng;xu	157
 可递集	kě;dk dì;zd zií;ra	45
 可递性	kě;dk dì;zd sìng;xu	180
-可调性	kě;dk diào;yk sìng;xu	504
 可动性	kě;dk dòng;yl sìng;xu	57
 刻度井	kè;wd dù;gy zǐng;ac	45
 可读取	kě;dk dú;yd cǚ;ey	594
@@ -63725,6 +63727,7 @@ sort: by_weight
 可提取	kě;dk tí;fz cǚ;ey	747
 可调剂	kě;dk tiáo;yk ziì;qd	9
 可调节	kě;dk tiáo;yk zié;ce	2748
+可调性	kě;dk tiáo;yk sìng;xu	504
 可挑选	kě;dk tiāo;fv süǎn;ze	644
 客厅墙	kè;bk tīng;id ciáng;tk	634
 客厅小	kè;bk tīng;id siǎo;lb	472
@@ -189856,7 +189859,6 @@ sort: by_weight
 髁道斜度	kē;gg dào;zz sié;rd dù;gy	38
 科迪集团	kē;hd dí;zy zií;ra tuán;wc	270
 克敌机先	kè;ux dí;uw jī;aj siān;ne	153
-可调度性	kě;dk diào;yk dù;gy sìng;xu	194
 可定向性	kě;dk dìng;bz xiàng;pk sìng;xu	288
 可定义性	kě;dk dìng;bz yì;dx sìng;xu	189
 可定制性	kě;dk dìng;bz zhì;nd sìng;xu	918
@@ -190181,6 +190183,7 @@ sort: by_weight
 可替代性	kě;dk tì;fo dài;rg sìng;xu	904
 可提取的	kě;dk tí;fz cǚ;ey de;bu	19
 可提取性	kě;dk tí;fz cǚ;ey sìng;xu	194
+可调度性	kě;dk tiáo;yk dù;gy sìng;xu	194
 可调节式	kě;dk tiáo;yk zié;ce shì;gg	160
 可调节性	kě;dk tiáo;yk zié;ce sìng;xu	223
 可听讯号	kě;dk tīng;kt sǜn;yu hào;kk	45

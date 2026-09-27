@@ -1,7 +1,7 @@
 # Rime dictionary
 # encoding: utf-8
 #https://github.com/amzxyz/RIME-LMDG
-#------行政区划、地理、地标、景区、实体------
+#------行政区划
 ---
 name: diming
 version: "LTS"
@@ -704,6 +704,7 @@ sort: by_weight
 金星乡	jīn;rb sīng;ou xiāng;vp	282
 金星镇	jīn;rb sīng;ou zhèn;jb	139
 锦星镇	jǐn;jj sīng;ou zhèn;jb	10
+锦绣村	jǐn;jj siù;sn cūn;ac	10
 金秀县	jīn;rb siù;hn xiàn;qs	146
 金秀镇	jīn;rb siù;hn zhèn;jb	367
 晋源区	zìn;yo yuán;dx qū;kx	632
@@ -2714,6 +2715,7 @@ sort: by_weight
 新塘站	sīn;lt táng;tk zhàn;lv	477
 新塘镇	sīn;lt táng;tk zhèn;jb	10
 新棠镇	sīn;lt táng;xa zhèn;jb	10
+新陶村	sīn;lt táo;ef cūn;ac	10
 新田村	sīn;lt tián;wu cūn;ac	286
 新田县	sīn;lt tián;wu xiàn;qs	167
 新田乡	sīn;lt tián;wu xiāng;vp	10
@@ -3118,6 +3120,7 @@ sort: by_weight
 迎接镇	yíng;ze ziē;fn zhèn;jb	10
 樱井站	yīng;an zǐng;ac zhàn;lv	436
 英俊镇	yīng;cy zǜn;rw zhèn;jb	10
+应钱村	yīng;ga cián;jj cūn;ac	10
 营前镇	yíng;ck cián;bd zhèn;jb	10
 颍泉区	yǐng;bu cüán;bu qū;kx	172
 迎仙镇	yíng;ze siān;ru zhèn;jb	10
@@ -3222,6 +3225,7 @@ sort: by_weight
 镇靖镇	zhèn;jb zìng;lo zhèn;jb	10
 镇前镇	zhèn;jb cián;bd zhèn;jb	10
 珍秦镇	zhēn;wp cín;ih zhèn;jb	10
+镇西村	zhèn;jb siī;ak cūn;ac	10
 镇西镇	zhèn;jb siī;ak zhèn;jb	10
 祯祥镇	zhēn;pb siáng;py zhèn;jb	10
 郑集村	zhèng;be zií;ra cūn;ac	10
@@ -7732,6 +7736,7 @@ sort: by_weight
 上新城乡	shàng;ba sīn;lt chéng;ti xiāng;vp	10
 上新河镇	shàng;ba sīn;lt hé;dk zhèn;jb	10
 上新集镇	shàng;ba sīn;lt zií;ra zhèn;jb	10
+上新建村	shàng;ba sīn;lt jiàn;zy cūn;ac	10
 上辛口村	shàng;ba sīn;lu kǒu;la cūn;ac	10
 上新农村	shàng;ba sīn;lt nóng;by cūn;ac	10
 上新营村	shàng;ba sīn;lt yíng;ck cūn;ac	10
@@ -8006,6 +8011,7 @@ sort: by_weight
 台北信义	tái;sk běi;lb sìn;rk yì;dx	10
 台港新村	tái;sk gǎng;ds sīn;lt cūn;ac	10
 太公泉镇	tài;dd gōng;bs cüán;bu zhèn;jb	10
+太湖新村	tài;dd hú;do sīn;lt cūn;ac	10
 台集屯镇	tái;sk zií;ra tún;av zhèn;jb	10
 台南将军	tái;sk nán;ug ziāng;lc jūn;bi	10
 台南楠西	tái;sk nán;ug nán;ag siī;ak	10
@@ -10096,6 +10102,7 @@ sort: by_weight
 夏辛店村	xià;bw sīn;lu diàn;gv cūn;ac	10
 下辛店镇	xià;ab sīn;lu diàn;gv zhèn;jb	10
 下新沟村	xià;ab sīn;lt gōu;dg cūn;ac	10
+下新建村	xià;ab sīn;lt jiàn;zy cūn;ac	10
 下新农村	xià;ab sīn;lt nóng;by cūn;ac	10
 下新屋村	xià;ab sīn;lt wū;ut cūn;ac	10
 下辛庄村	xià;ab sīn;lu zhuāng;gt cūn;ac	10
