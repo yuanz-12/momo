@@ -3955,7 +3955,7 @@ version: "0.3.7"
 爱德华·诺亚	ài;vy dé;rx huá;ru nuò;yk yà;ay	100
 爱德华·瑞奇托芬	ài;vy dé;rx huá;ru ruì;we qí;dk tuō;fq fēn;cf	100
 爱德华·斯普拉特	ài;vy dé;rx huá;ru sī;ct pǔ;bo lā;fl tè;nc	100
-# 警告: 拼音数与字数不匹配（dicts/moegirl.dict.yaml) => 爱德华·王·侯·皮皮鲁·提布鲁斯基Ⅳ世	ài dé huá wáng hóu pí pí lǔ tí bù lǔ sī jī sì shì	100
+# 警告: 拼音数与字数不匹配（moegirl.dict.yaml): 爱德华·王·侯·皮皮鲁·提布鲁斯基Ⅳ世	ài dé huá wáng hóu pí pí lǔ tí bù lǔ sī jī sì shì	100
 爱德华·王·侯·皮皮鲁·提布鲁斯基四世	ài;vy dé;rx huá;ru wáng;at hóu;ru pí;py pí;py lǔ;yo tí;fz bù;uj lǔ;yo sī;ct jī;ct sì;we shì;cv	100
 爱德华·希霍托芬	ài;vy dé;rx huá;ru xī;xj huò;yv tuō;fq fēn;cf	100
 爱德华的医院	ài;vy dé;rx huá;ru de;bu yī;ku yuàn;ey	100
@@ -204324,7 +204324,7 @@ version: "0.3.7"
 水池海	shuǐ;ln chí;dy hǎi;dm	100
 地平潮	dì;ty píng;au cháo;do	100
 星高空	xīng;ou gāo;wk kōng;bg	100
-# 警告: 拼音数与字数不匹配（dicts/moegirl.dict.yaml) => 感谢对局~大小姐才不会玩格斗游戏~	gǎn xiè duì jú dà xiǎo jiě cái bù huì wán gé dòu yóu xì	100
+# 警告: 拼音数与字数不匹配（moegirl.dict.yaml): 感谢对局~大小姐才不会玩格斗游戏~	gǎn xiè duì jú dà xiǎo jiě cái bù huì wán gé dòu yóu xì	100
 犬井夕	quǎn;dd jǐng;ac xī;pd	100
 藤宫森乃	téng;cu gōng;bk sēn;aa nǎi;pv	100
 富士见夜子	fù;bt shì;ua jiàn;ke yè;ww zǐ;la	100

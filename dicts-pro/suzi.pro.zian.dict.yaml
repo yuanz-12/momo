@@ -1,0 +1,13 @@
+# Rime dictionary
+# encoding: utf-8
+#万象词库中缺失的各类简化字、民间俗字扩展包
+---
+name: suzi.zian
+version: "LTS"
+sort: by_weight
+...
+𫊻	sǘn;ic	1
+𫄥	siǐ;sd	1
+𫄳	siǐ;sz	1
+𫄬	siè;sa	1
+𪾔	sǚ;pm	1

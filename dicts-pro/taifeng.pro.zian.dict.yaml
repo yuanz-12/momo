@@ -1,0 +1,29 @@
+# rime dictionary
+# encoding: utf-8
+#https://github.com/amzxyz/RIME-LMDG
+# ----台风--同步更新最新台风表----
+---
+name: taifeng.zian
+version: "LTS"
+sort: by_weight
+...
+台风蔷薇	tái;sk fēng;jx ciáng;ck wēi;cj	1
+台风西马仑	tái;sk fēng;jx siī;ak mǎ;va lún;rb	1
+台风暹芭	tái;sk fēng;jx siān;zv bā;cb	1
+#2000年以来除名
+台风点心	tái;sk fēng;jx diǎn;vh sīn;dd	1
+台风青马	tái;sk fēng;jx cīng;fo mǎ;va	1
+台风小犬	tái;sk fēng;jx siǎo;lb quǎn;dd	1
+台风小熊	tái;sk fēng;jx siǎo;lb xióng;sh	1
+台风蔷琵	tái;sk fēng;jx ciáng;ck pí;wb	1
+台风西望洋	tái;sk fēng;jx siī;ak wàng;ww yáng;dy	1
+台风竹节草	tái;sk fēng;jx zhú;gg zié;ce cǎo;cu	1
+台风云雀	tái;sk fēng;jx yún;ag cüè;xv	1
+台风蜻蜓	tái;sk fēng;jx cīng;io tíng;iw	1
+台风海星	tái;sk fēng;jx hǎi;dm sīng;ou	1
+台风法茜	tái;sk fēng;jx fǎ;dq ciàn;cx	1
+台风凤仙	tái;sk fēng;jx fèng;jy siān;ru	1
+台风象神	tái;sk fēng;jx siàng;du shén;pu	1
+台风清松	tái;sk fēng;jx cīng;do sōng;ag	1
+台风威马逊	tái;sk fēng;jx wēi;gn mǎ;va sǜn;zx	1
+台风巨爵	tái;sk fēng;jx jù;kk züé;vc	1

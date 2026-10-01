@@ -640,7 +640,7 @@ sort: by_weight
 儿童崩解症	ér;pv tóng;ll bēng;uo jiě;dn zhèng;bv	10
 耳蜗神经核	ěr;ol wō;in shén;pu jīng;sj hé;ar	10
 耳下淋巴结	ěr;ol xià;ab lín;da bā;sl jié;sk	10
-# 警告: 拼音数与字数不匹配（dicts/yixue.dict.yaml) => 2型糖尿病	èr xíng táng niào bìng	10
+# 警告: 拼音数与字数不匹配（yixue.dict.yaml): 2型糖尿病	èr xíng táng niào bìng	10
 耳牙综合征	ěr;ol yá;gp zōng;su hé;rk zhēng;rv	10
 耳咽鼓管炎	ěr;ol yàn;ky gǔ;tv guǎn;vl yán;hh	10
 耳源性脑炎	ěr;ol yuán;dx xìng;xu nǎo;ox yán;hh	10
@@ -4546,7 +4546,7 @@ sort: by_weight
 胰腺移植术	yí;oy xiàn;ou yí;hx zhí;aq shù;ad	10
 胰腺游离术	yí;oy xiàn;ou yóu;dz lí;wn shù;ad	10
 胰腺造影术	yí;oy xiàn;ou zào;zk yǐng;op shù;ad	10
-# 警告: 拼音数与字数不匹配（dicts/yixue.dict.yaml) => 1型糖尿病	yī xíng táng niào bìng	10
+# 警告: 拼音数与字数不匹配（yixue.dict.yaml): 1型糖尿病	yī xíng táng niào bìng	10
 一型糖尿病	yì;aa xíng;kt táng;mk niào;uu bìng;bn	10
 移行细胞癌	yí;hx xíng;rd xì;st bāo;ob ái;bu	10
 异型吸虫病	yì;sc xíng;kt xī;kj chóng;vd bìng;bn	10

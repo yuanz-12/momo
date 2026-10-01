@@ -1,0 +1,148 @@
+# Rime dictionary
+# encoding: utf-8
+#异读词库，收录万象词库中不予收录的读音
+---
+name: yidu.zian
+version: "LTS"
+sort: by_weight
+...
+#造句用单字
+#《普通话水平测试实施纲要》（2021版）中规定的必读轻声词兼容
+白净	bái;po zing;dy	650
+白净	bái;po zìng;dy	650
+点心	diǎn;vh sin;dd	5438
+点心	diǎn;vh sīn;dd	5438
+动静	dòng;yl zing;fy	13865
+动静	dòng;yl zìng;fy	13865
+脊梁	ziǐ;ro liang;da	3583
+脊梁	ziǐ;ro liáng;da	3583
+记性	jì;yj sing;xu	15461
+记性	jì;yj sìng;xu	15461
+将就	ziāng;lc ziu;wy	17948
+将就	ziāng;lc ziù;wy	17948
+交情	jiāo;wf cing;xo	6730
+交情	jiāo;wf cíng;xo	6730
+姐夫	ziě;nq fu;er	2477
+姐夫	ziě;nq fū;er	2477
+姐姐	ziě;nq zie;nq	32549
+姐姐	ziě;nq ziě;nq	32549
+精神	zīng;mo shen;pu	73030
+精神	zīng;mo shén;pu	73030
+痢疾	lì;bd zii;bu	20542
+痢疾	lì;bd zií;bu	20542
+木匠	mù;ur ziang;kt	2163
+木匠	mù;ur ziàng;kt	2163
+女婿	nǚ;va sü;no	1494
+女婿	nǚ;va sǜ;no	1494
+疟疾	nüè;be zii;bu	1116
+疟疾	nüè;be zií;bu	1116
+前头	cián;bd tou;dd	2666
+前头	cián;bd tóu;dd	2666
+亲戚	cīn;la cii;gx	19992
+亲戚	cīn;la ciī;gx	19992
+清楚	cīng;do chu;az	33381
+清楚	cīng;do chǔ;az	33381
+亲家	cìng;la jia;bu	6968
+亲家	cìng;la jiā;bu	6968
+石匠	shí;ak ziang;kt	7407
+石匠	shí;ak ziàng;kt	7407
+事情	shì;gy cing;xo	61236
+事情	shì;gy cíng;xo	61236
+铁匠	tiě;jf ziang;kt	1639
+铁匠	tiě;jf ziàng;kt	1639
+媳妇	sií;nx fu;ne	11577
+媳妇	sií;nx fù;ne	11577
+先生	siān;ne sheng;pf	66317
+先生	siān;ne shēng;pf	66317
+相声	siàng;ao sheng;tu	7520
+相声	siàng;ao shēng;tu	7520
+消息	siāo;do sii;zx	55540
+消息	siāo;do siī;zx	55540
+小气	siǎo;lb qi;pv	1806
+小气	siǎo;lb qì;pv	1806
+笑话	siào;vy hua;yu	17810
+笑话	siào;vy huà;yu	17810
+谢谢	siè;yc sie;yc	39956
+谢谢	siè;yc siè;yc	39956
+心思	sīn;dd si;tx	15421
+心思	sīn;dd sī;tx	15421
+星星	sīng;ou sing;ou	15308
+星星	sīng;ou sīng;ou	15308
+猩猩	sīng;qu sing;qu	14543
+猩猩	sīng;qu sīng;qu	14543
+休息	xiū;ra sii;zx	34050
+休息	xiū;ra siī;zx	34050
+秀才	siù;hn cai;up	4267
+秀才	siù;hn cái;up	4267
+秀气	siù;hn qi;pv	907
+秀气	siù;hn qì;pv	907
+眼睛	yǎn;og zing;oo	70069
+眼睛	yǎn;og zīng;oo	70069
+妖精	yāo;ny zing;mo	2704
+妖精	yāo;ny zīng;mo	2704
+#其他轻声词兼容
+德性	dé;rx sìng;xu	1529
+消停	siāo;do tíng;rd	229
+潜意识	cián;do yì;lx shi;yv	6553
+成绩	chéng;gv zii;sb	128884
+父亲	fù;bx cin;la	89757
+母亲	mǔ;md cin;la	65070
+#《现代汉语词典》中注口语读音兼容
+寻开心	xín;ec kāi;ac sīn;dd	100
+指甲心儿	zhī;fo jia;ol sīn;dd er;pv	100
+作践	zuó;rv zian;zj	100
+#文白异读兼容
+血迹	xuè;pm ziì;zb	1780
+血迹	xiě;pm ziì;zb	1780
+泣血	ciì;dl xiě;pm	206
+泣血	ciì;dl xuè;pm	206
+泄露	siè;du lù;yk	7847
+泄露	siè;du lòu;yk	7847
+纤薄	siān;sq báo;cc	575
+纤薄	siān;sq bó;cc	575
+#破音异读兼容
+精骑	zīng;mo qí;mk	1
+精骑	zīng;mo jì;mk	1
+七骑	ciī;av qí;mk	1
+七骑	ciī;av jì;mk	1
+千骑	ciān;pu qí;mk	2002
+千骑	ciān;pu jì;mk	2002
+衣绣	yì;wy siù;sn	1
+衣绣	yī;wy siù;sn	1
+从姐	cóng;rr ziě;nq	1
+从姐	zòng;rr ziě;nq	1
+从七品	cóng;rr ciī;av pǐn;kk	1
+从七品	zòng;rr ciī;av pǐn;kk	1
+#叶（xié）韵兼容
+青山郭外斜	qiāng;fo shān;kl guō;we wài;xb sié;rd	1
+远上寒山石径斜	yuǎn;zy shàng;ba hán;bd shān;kl shí;ak jìng;rj sié;rd	1
+北斗阑干南斗斜	běi;lb dǒu;ud lán;mj gān;au nán;ug dǒu;ud sié;rd	1
+寒食东风御柳斜	hán;bd shí;rg dōng;ax fēng;jx yù;re liǔ;ae sié;rd	1
+浩荡离愁白日斜	hào;dk dàng;cp lí;wn chóu;hx bái;po rì;wa sié;rd	1
+乌衣巷口夕阳斜	wū;pa yī;wy xiàng;gs kǒu;la siī;pd yáng;eo sié;rd	1
+乌衣巷口夕阳斜	wū;pa yī;wy xiàng;gs kǒu;la siī;pd yáng;eo xiá;rd	1
+江潭落月复西斜	jiāng;dg tán;du luò;ck yuè;ke fù;pw siī;ak sié;rd	1
+江潭落月复西斜	jiāng;dg tán;du luò;ck yuè;ke fù;pw siī;ak xiá;rd	1
+连云芳草日初斜	lián;zi yún;ag fāng;cf cǎo;cu rì;wa chū;pd sié;rd	1
+秋天漠漠向昏黑	ciū;hh tiān;ad mò;dd mò;dd xiàng;pk hūn;uo hēi;lh	1
+秋天漠漠向昏黑	ciū;hh tiān;ad mò;dd mò;dd xiàng;pk hūn;uo hè;lh	1
+#方言异读兼容
+#讹音异读兼容
+#变调兼容
+一无所取	yī;aa wú;ay suǒ;ht cǚ;ey	239
+一无所取	yì;aa wú;ay suǒ;ht cǚ;ey	239
+#有争议读音兼容
+系安全带	jì;px ān;bn cüán;rw dài;cj	1066
+系安全带	xì;px ān;bn cüán;rw dài;cj	1066
+清平乐	cīng;do píng;au yuè;px	680
+清平乐	cīng;do píng;au lè;px	680
+没羽箭	méi;du yǔ;xx ziàn;vd	244
+没羽箭	mò;du yǔ;xx ziàn;vd	244
+没羽箭张清	méi;du yǔ;xx ziàn;vd zhāng;gi cīng;do	10
+没羽箭张清	mò;du yǔ;xx ziàn;vd zhāng;gi cīng;do	10
+摸着天杜迁	mō;fd zhe;yo tiān;ad dù;at ciān;zq	1
+摸着天杜迁	mō;fd zháo;yo tiān;ad dù;at ciān;zq	1
+#其他万象词库不收的普通多音词
+妻子	ciī;un zi;la	39589
+#降重用错音
+#其他

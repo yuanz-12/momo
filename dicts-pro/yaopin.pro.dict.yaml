@@ -428,7 +428,7 @@ sort: by_weight
 阿司匹林片	ā;ek sī;vk pǐ;ke lín;aa piàn;pv	10
 阿司匹林散	ā;ek sī;vk pǐ;ke lín;aa sàn;cw	10
 阿替洛尔片	ā;ek tì;fo luò;dk ěr;dx piàn;pv	10
-# 警告: 拼音数与字数不匹配（dicts/yaopin.dict.yaml) => 阿维A胶囊	ā wéi a jiāo náng	11
+# 警告: 拼音数与字数不匹配（yaopin.dict.yaml): 阿维A胶囊	ā wéi a jiāo náng	11
 阿魏八味丸	ā;ek wèi;hg bā;pn wèi;kw wán;jd	10
 阿魏化痞膏	ā;ek wèi;hg huà;rb pǐ;bk gāo;wo	10
 阿魏酸钠片	ā;ek wèi;hg suān;yw nà;jn piàn;pv	10
@@ -7998,7 +7998,7 @@ sort: by_weight
 息热痛注射液	xī;zx rè;fh tòng;by zhù;dv shè;uc yè;dw	10
 西沙必利胶囊	xī;ak shā;du bì;xp lì;hd jiāo;of náng;gy	10
 系统基础晶片	xì;px tǒng;sy jī;ct chǔ;ui jīng;oo piàn;pv	10
-# 警告: 拼音数与字数不匹配（dicts/yaopin.dict.yaml) => 西妥昔单抗β	xī tuǒ xī dān kàng beta	10
+# 警告: 拼音数与字数不匹配（yaopin.dict.yaml): 西妥昔单抗β	xī tuǒ xī dān kàng beta	10
 豨莶通栓胶囊	xī;uj xiān;cq tōng;zy shuān;aw jiāo;of náng;gy	10
 细辛脑注射液	xì;st xīn;lu nǎo;ox zhù;dv shè;uc yè;dw	10
 喜炎平注射液	xǐ;tk yán;hh píng;au zhù;dv shè;uc yè;dw	10

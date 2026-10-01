@@ -1,0 +1,80 @@
+# rime dictionary
+# encoding: utf-8
+#https://github.com/amzxyz/RIME-LMDG
+# ------- 方言-------
+# 词库维护中避免当成烂词删除，独立维护，以明确用途
+---
+name: fangyan.zian
+version: "LTS"
+sort: by_weight
+...
+#北方方言-晋方言-大包片-大同小片
+失笑	shī;pf siào;vy
+呐心	nà;kn sīn;dd
+耨呐心	nòu;lc nà;kn sīn;dd
+胡嚼	hú;go züé;kc
+各揪	gè;wk ziū;fh
+乃心	nǎi;pv sīn;dd
+噶切	gá;kr ciè;qd
+切吧	ciè;qd ba;kb
+圪揪	gē;tv ziū;fh
+耐心	nài;ec sīn;dd
+铁千	tiě;jf ciān;pu
+个嚼	gè;rl züé;kc
+如节	rú;nk zié;ce
+绕节	rào;sw zié;ce
+揪决	ziū;fh jué;dg
+尿西	niào;uu siī;ak
+导心	dǎo;sc sīn;dd
+光眉俊眼	guāng;xe méi;uo zǜn;rw yǎn;og
+假眉惺眼	jiǎ;ry méi;uo sīng;xu yǎn;og
+喜眉笑眼	xǐ;tk méi;uo siào;vy yǎn;og
+愣七砍八	lèng;xf ciī;av kǎn;uq bā;pn
+精说白道	zīng;mo shuō;yx bái;po dào;zz
+跌东舀西	diē;zf dōng;ax yǎo;vj siī;ak
+阴七阳八	yīn;eo ciī;av yáng;eo bā;pn
+游出摆进	yóu;dz chū;uu bǎi;fq zìn;zj
+嘴尖毛长	zuǐ;ky ziān;xd máo;pv cháng;pn
+闪深踏浅	shǎn;mr shēn;da tà;zo ciǎn;dj
+鬼七裂八	guǐ;ps ciī;av liè;dy bā;pn
+油鼻圪嚼	yóu;dy bí;zw gē;tv züé;kc
+呛查古东	ciāng;kv chá;ad gǔ;uk dōng;ax
+聋七坎症	lóng;le ciī;av kǎn;tq zhèng;bv
+牵粗把细	qiān;dn cū;mq bǎ;fb siì;st
+拍大来小	pāi;fb dà;ar lái;aa siǎo;lb
+急刁瓦抢	jí;dx diāo;va wǎ;ad ciǎng;fv
+尖言诈语	ziān;xd yán;wk zhà;yv yǔ;yk
+跌跟抢头	diē;zf gēn;zg ciǎng;fv tóu;dd
+精七明八	zīng;mo ciī;av míng;oo bā;pn
+冷清客气	lěng;ds cīng;do kè;bk qi;pv
+圪连前蛋	gē;tv lián;zi cián;bd dàn;zi
+孤独流细	gū;zg dú;qi liú;di siì;st
+小家瓦气	siǎo;lb jiā;bu wǎ;ad qì;pv
+小眼簿皮	siǎo;lb yǎn;og bù;vc pí;py
+死精圪韧	sǐ;db zīng;mo gē;tv rèn;wd
+爽前褪后	shuǎng;dx cián;bd tuì;pg hòu;ik
+推前爽后	tuī;fv cián;bd shuǎng;dx hòu;ik
+拉汤沫线	lā;fl tāng;dp mò;dw siàn;sj
+错前摸后	cuò;jo cián;bd mō;fd hòu;ik
+#北方方言-西南官话
+#吴方言
+交秋	jiāo;wf ciū;hh
+借手	ziè;ro shǒu;pf
+济手	ziì;dq shǒu;pf
+借眼	ziè;ro yǎn;og
+济眼	ziì;dq yǎn;og
+借脚	ziè;ro jiǎo;oe
+济脚	ziì;dq jiǎo;oe
+借手面	ziè;ro shǒu;pf miàn;ao
+济手面	ziì;dq shǒu;pf miàn;ao
+青𬲼	cīng;fo yè;ud
+小揢	siǎo;lb ké;fk
+望相	wàng;ww siāng;ao
+#湘方言
+娭毑	āi;nu ziě;my
+恰点酒	qià;xk diǎn;vh ziǔ;dy
+恰点东西	qià;xk diǎn;vh dōng;ax sii;ak
+#粤方言
+恰酒	qià;xk ziǔ;dy
+都睇唔清	dōu;le dì;od wú;kk cīng;do
+#中原
