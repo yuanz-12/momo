@@ -11,6 +11,7 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: 拉取仓库代码
         uses: actions/checkout@v6
@@ -20,21 +21,22 @@ jobs:
           mkdir -p input_dicts tmp_extract/pro tmp_extract/zian
 
           # 1. 下载两个 release 压缩包（-f 让 HTTP 404 等错误直接失败）
-          curl -fL "https://github.com/Carlson24/rime-config/releases/download/nightly/dicts-pro.tar.bz2" \
-            -o dicts-pro.tar.bz2
-          curl -fL "https://github.com/Carlson24/rime-config/releases/download/nightly/dicts-zian-pro.tar.bz2" \
-            -o dicts-zian-pro.tar.bz2
+          curl -fL "https://github.com/Carlson24/rime-config/releases/download/nightly/dicts-tone.tar.bz2" \
+            -o dicts-tone.tar.bz2
+          curl -fL "https://github.com/Carlson24/rime-config/releases/download/nightly/dicts-zian-tone.tar.bz2" \
+            -o dicts-zian-tone.tar.bz2
 
           # 2. 分别解压到临时目录
-          tar -xjf dicts-pro.tar.bz2      -C tmp_extract/pro
-          tar -xjf dicts-zian-pro.tar.bz2 -C tmp_extract/zian
+          tar -xjf dicts-tone.tar.bz2 -C tmp_extract/pro
+          tar -xjf dicts-zian-tone.tar.bz2 -C tmp_extract/zian
 
           # 3. 展平：两个压缩包内的所有词库文件统一移入 input_dicts
           find tmp_extract -type f \( -name "*.yaml" -o -name "*.yml" -o -name "*.txt" \) \
             -exec mv -v {} input_dicts/ \;
 
           # 4. 清理临时文件
-          rm -rf tmp_extract dicts-pro.tar.bz2 dicts-zian-pro.tar.bz2
+          rm -rf tmp_extract dicts-tone.tar.bz2 dicts-zian-tone.tar.bz2
+
           echo "input_dicts 中共有 $(ls input_dicts | wc -l) 个词库文件待处理"
 
       - name: 刷辅助码
@@ -50,6 +52,7 @@ jobs:
           # 两个压缩包处理后的所有词库统一放入仓库的 dicts-pro/ 文件夹
           mkdir -p dicts-pro
           cp -rf output_dicts/dicts-pro/* dicts-pro/
+
           git add .
           if git diff --staged --quiet; then
             echo "☕ 上游词库完全一致，没有检测到任何新更新，跳过本次提交。"
