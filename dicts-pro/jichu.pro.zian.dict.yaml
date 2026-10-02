@@ -1625,7 +1625,7 @@ sort: by_weight
 都笑	dōu;le siào;vy	392
 都写	dōu;le siě;by	1636
 都信	dōu;le sìn;rk	163
-窦性	dòu;bd sìng;xu	9915
+窦性	dòu;bd sìng;xu	915
 斗宿	dǒu;ud siù;bb	495
 都需	dōu;le sǖ;ye	449
 都选	dōu;le süǎn;ze	898
@@ -2039,7 +2039,7 @@ sort: by_weight
 风习	fēng;jx sií;vd	153
 风息	fēng;jx siī;zx	77
 沣西	fēng;df siī;ak	38
-锋线	fēng;jf siàn;sj	5140
+锋线	fēng;jf siàn;sj	2140
 缝线	féng;sf siàn;sj	1240
 凤仙	fèng;jy siān;ru	148
 凤翔	fèng;jy siáng;yx	722
@@ -2081,8 +2081,8 @@ sort: by_weight
 弗爵	fú;gl züé;vc	648
 夫妻	fū;er ciī;un	8456
 付钱	fù;rc cián;jj	5366
-浮潜	fú;dz cián;do	5140
 肤浅	fū;of ciǎn;dj	1268
+浮潜	fú;dz cián;do	940
 府前	fǔ;gc cián;bd	844
 浮浅	fú;dz ciǎn;dj	62
 扶墙	fú;ff ciáng;tk	314
@@ -6699,7 +6699,7 @@ sort: by_weight
 脸前	liǎn;oq cián;bd	669
 敛钱	liǎn;qw cián;jj	307
 练枪	liàn;sd ciāng;av	967
-恋情	liàn;wx cíng;xo	3617
+恋情	liàn;wx cíng;xo	917
 脸青	liǎn;oq cīng;fo	62
 廉泉	lián;gj cüán;bu	486
 练习	liàn;sd sií;vd	58878
@@ -10091,7 +10091,7 @@ sort: by_weight
 青囊	cīng;fo náng;gy	71
 青嫩	cīng;fo nèn;nw	16
 请你	cǐng;yo nǐ;rx	11367
-青泥	cīng;fo ní;db	10799
+青泥	cīng;fo ní;db	99
 青年	cīng;fo nián;pf	21430
 青鸟	cīng;fo niǎo;na	490
 请您	cǐng;yo nín;rx	3391
@@ -14258,7 +14258,8 @@ sort: by_weight
 线垂	siàn;sj chuí;qt	722
 鲜醇	siān;yy chún;yz	75
 先从	siān;ne cóng;rr	15147
-线丛	siàn;sj cóng;ra	14390
+线丛	siàn;sj cóng;ra	4390
+鲜葱	siān;yy cōng;cx	744
 鲜脆	siān;yy cuì;ov	44
 先存	siān;ne cún;uz	113
 仙村	siān;ru cūn;ac	90
@@ -14836,7 +14837,7 @@ sort: by_weight
 翔安	siáng;yx ān;bn	1206
 相安	siāng;ao ān;bn	1085
 想把	siǎng;ax bǎ;fb	13954
-象拔	siàng;du bá;fy	13256
+象拔	siàng;du bá;fy	256
 相伴	siāng;ao bàn;rb	2908
 镶板	siāng;jf bǎn;ay	605
 想帮	siǎng;ax bāng;fj	411
@@ -15340,7 +15341,7 @@ sort: by_weight
 箱推	siāng;vo tuī;fv	648
 相托	siāng;ao tuō;fq	50
 想挖	siǎng;ax wā;fv	783
-想歪	siǎng;ax wāi;bv	6029
+想歪	siǎng;ax wāi;bv	1029
 象外	siàng;du wài;xb	769
 想玩	siǎng;ax wán;wy	5203
 想完	siǎng;ax wán;by	116
@@ -15356,10 +15357,9 @@ sort: by_weight
 相违	siāng;ao wéi;zw	416
 相偎	siāng;ao wēi;ry	162
 想问	siǎng;ax wèn;mk	9382
-相闻	siāng;ao wén;me	8913
-相吻	siāng;ao wěn;kw	7787
-详文	siáng;yy wén;wx	6098
-相问	siāng;ao wèn;mk	4503
+相吻	siāng;ao wěn;kw	1787
+详文	siáng;yy wén;wx	1098
+相问	siāng;ao wèn;mk	503
 像我	siàng;ru wǒ;ga	8431
 相握	siāng;ao wò;ft	1127
 想我	siǎng;ax wǒ;ga	901
@@ -16794,7 +16794,7 @@ sort: by_weight
 小昭	siǎo;lb zhāo;ok	631
 小招	siǎo;lb zhāo;fk	504
 笑着	siào;vy zhe;yo	8271
-小哲	siǎo;lb zhé;fk	7857
+小哲	siǎo;lb zhé;fk	857
 小镇	siǎo;lb zhèn;jb	12623
 小珍	siǎo;lb zhēn;wp	972
 小真	siǎo;lb zhēn;ub	811
@@ -21082,7 +21082,7 @@ sort: by_weight
 智选	zhì;uo süǎn;ze	108
 只选	zhǐ;kb süǎn;ze	86
 质询	zhì;ib sǘn;yo	716
-重疾	zhòng;ql zií;bu	9765
+重疾	zhòng;ql zií;bu	3765
 种脊	zhǒng;hv ziǐ;ro	62
 中箭	zhòng;kl ziàn;vd	135
 终将	zhōng;sd ziāng;lc	6164
@@ -34084,7 +34084,6 @@ sort: by_weight
 斗心眼	dòu;ud sīn;dd yǎn;og	31
 都醒了	dōu;le sǐng;yu le;al	448
 豆腥味	dòu;ab sīng;ou wèi;kw	110
-窦性心	dòu;bd sìng;xu sīn;dd	788
 都醒醒	dōu;le sǐng;yu sǐng;yu	13
 都修了	dōu;le siū;rp le;al	450
 都休息	dōu;le xiū;ra sii;zx	94
@@ -38630,8 +38629,6 @@ sort: by_weight
 公司小	gōng;bs sī;vk siǎo;lb	1008
 公司信	gōng;bs sī;vk sìn;rk	1170
 公诉席	gōng;bs sù;yi sií;gj	225
-公孙接	gōng;bs sūn;zx ziē;fn	342
-公孙续	gōng;bs sūn;zx sǜ;sd	212
 共缩聚	gòng;cb suō;sb zǜ;eu	50
 宫田线	gōng;bk tián;wu siàn;sj	302
 共通线	gòng;cb tōng;zy siàn;sj	94
@@ -65142,6 +65139,7 @@ sort: by_weight
 例大祭	lì;rd dà;ar ziì;xu	554
 李大姐	lǐ;az dà;ar ziě;nq	35
 利岛线	lì;hd dǎo;nu siàn;sj	194
+理得清	lǐ;wl dé;rc cīng;do	75
 锂电芯	lǐ;jl diàn;ov sīn;cx	432
 立雕像	lì;wb diāo;kv siàng;ru	450
 理东西	lǐ;wl dōng;ax sii;ak	13
@@ -116736,6 +116734,7 @@ sort: by_weight
 新家桥	sīn;lt jiā;bu qiáo;al	220
 新加入	sīn;lt jiā;lk rù;pn	1120
 新家庭	sīn;lt jiā;bu tíng;gw	778
+新佳宜	sīn;lt jiā;rt yí;bq	94
 新家园	sīn;lt jiā;bu yuán;wy	163
 心家园	sīn;dd jiā;bu yuán;wy	147
 新价值	sīn;lt jià;rj zhí;rq	860
@@ -140761,6 +140760,7 @@ sort: by_weight
 不习水土	bù;ab sií;vd shuǐ;ln tǔ;ua	180
 不细说吧	bú;ab siì;st shuō;yx ba;kb	4
 补习天后	bǔ;pb sií;vd tiān;ad hòu;ik	315
+不习王化	bù;ab sií;vd wáng;at huà;rb	45
 补习文化	bǔ;pb sií;vd wén;wx huà;rb	400
 不惜牺牲	bù;ab siī;xo xī;nx shēng;nu	399
 不惜性命	bù;ab siī;xo sìng;xu mìng;re	351
@@ -159058,6 +159058,7 @@ sort: by_weight
 高波动性	gāo;wk bō;dp dòng;yl sìng;xu	526
 搞不搞笑	gǎo;fk bù;ab gǎo;fk siào;vy	284
 搞不进去	gǎo;fk bú;ab zìn;zj qù;ts	189
+搞不拎清	gǎo;fk bù;ab līn;fs cīng;do	6
 搞不零清	gǎo;fk bù;ab líng;ys cīng;do	243
 搞不灵清	gǎo;fk bù;ab líng;eh cīng;do	84
 搞不清白	gǎo;fk bù;ab cīng;do bái;po	162
@@ -174369,6 +174370,8 @@ sort: by_weight
 价格新低	jià;rj gé;ak sīn;lt dī;ru	266
 价格信号	jià;rj gé;ak sìn;rk hào;kk	608
 价格信息	jià;rj gé;ak sìn;rk siī;zx	1148
+加个选项	jiā;lk gè;rl süǎn;ze xiàng;gy	67
+价格选项	jià;rj gé;ak süǎn;ze xiàng;gy	16
 价格优先	jià;rj gé;ak yōu;ry siān;ne	122
 价格秩序	jià;rj gé;ak zhì;hf sǜ;gy	513
 价格咨询	jià;rj gé;ak zī;dk sǘn;yo	806
@@ -176334,6 +176337,7 @@ sort: by_weight
 酱饼西施	ziàng;ly bǐng;uk siī;ak shī;fy	99
 将兵长史	ziàng;lc bīng;qb zhǎng;pn shǐ;kn	207
 将兵之才	ziàng;lc bīng;qb zhī;dn cái;up	50
+讲不拎清	jiǎng;yj bù;ab līn;fs cīng;do	6
 奖补内容	ziǎng;ld bǔ;pb nèi;kr róng;bg	52
 讲不清楚	jiǎng;yj bù;ab cīng;do chu;az	765
 奖补资金	ziǎng;ld bǔ;pb zī;db jīn;rb	680
@@ -284833,6 +284837,7 @@ sort: by_weight
 挣不到钱	zhèng;fy bú;ab dào;gd cián;jj	870
 挣不来钱	zhèng;fy bù;ab lái;aa cián;jj	364
 挣不了钱	zhèng;fy bù;ab liǎo;al cián;jj	116
+整不拎清	zhěng;uv bù;ab līn;fs cīng;do	6
 挣不上钱	zhèng;fy bú;ab shàng;ba cián;jj	202
 挣不下钱	zhèng;fy bú;ab xià;ab cián;jj	144
 整不整齐	zhěng;uv bù;ab zhěng;uv cií;wl	31
