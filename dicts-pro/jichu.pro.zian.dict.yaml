@@ -545,8 +545,8 @@ sort: by_weight
 不侵	bù;ab cīn;ry	427
 不清	bù;ab cīng;do	2832
 不请	bù;ab cǐng;yo	734
-不取	bù;ab cǚ;ey	621
-不娶	bù;ab cǚ;en	398
+不取	bù;ab cǚ;ey	1042
+不娶	bù;ab cǚ;en	621
 不全	bù;ab cüán;rw	5652
 补全	bǔ;pb cüán;rw	3318
 不惜	bù;ab siī;xo	8820
@@ -57684,7 +57684,7 @@ sort: by_weight
 进考场	zìn;zj kǎo;lk chǎng;tp	955
 进烤箱	zìn;zj kǎo;hk siāng;vo	796
 进可攻	zìn;zj kě;dk gōng;gw	490
-尽可能	zìn;id kě;dk néng;sb	36553
+尽可能	zǐn;id kě;dk néng;sb	36553
 进科室	zìn;zj kē;hd shì;bt	410
 进课堂	zìn;zj kè;yg táng;xt	783
 尽可以	zìn;id kě;dk yǐ;lr	534
@@ -180091,16 +180091,16 @@ sort: by_weight
 进考场前	zìn;zj kǎo;lk chǎng;tp cián;bd	464
 尽可放心	zìn;id kě;dk fàng;fw sīn;dd	41
 尽可拿去	zìn;id kě;dk ná;ru qù;ts	3
-尽可能大	zìn;id kě;dk néng;sb dà;ar	693
+尽可能大	zǐn;id kě;dk néng;sb dà;ar	693
 尽可能地	zìn;id kě;dk néng;sb de;ty	5508
-尽可能的	zìn;id kě;dk néng;sb de;bu	1310
-尽可能低	zìn;id kě;dk néng;sb dī;ru	644
-尽可能短	zìn;id kě;dk néng;sb duǎn;ub	621
-尽可能多	zìn;id kě;dk néng;sb duō;xx	4264
-尽可能好	zìn;id kě;dk néng;sb hǎo;nz	549
-尽可能快	zìn;id kě;dk néng;sb kuài;xg	850
-尽可能少	zìn;id kě;dk néng;sb shǎo;xp	788
-尽可能早	zìn;id kě;dk néng;sb zǎo;ou	594
+尽可能的	zǐn;id kě;dk néng;sb de;bu	1310
+尽可能低	zǐn;id kě;dk néng;sb dī;ru	644
+尽可能短	zǐn;id kě;dk néng;sb duǎn;ub	621
+尽可能多	zǐn;id kě;dk néng;sb duō;xx	4264
+尽可能好	zǐn;id kě;dk néng;sb hǎo;nz	549
+尽可能快	zǐn;id kě;dk néng;sb kuài;xg	850
+尽可能少	zǐn;id kě;dk néng;sb shǎo;xp	788
+尽可能早	zǐn;id kě;dk néng;sb zǎo;ou	594
 进可替否	zìn;zj kě;dk tì;fo fǒu;bk	90
 尽可问之	zìn;id kě;dk wèn;mk zhī;dn	45
 进可以攻	zìn;zj kě;dk yǐ;lr gōng;gw	230
@@ -269822,7 +269822,7 @@ sort: by_weight
 雪地靴男	süě;ye dì;ty xuē;cb nán;tl	117
 雪地靴女	süě;ye dì;ty xuē;cb nǚ;va	153
 雪地真菌	süě;ye dì;ty zhēn;ub jūn;ch	45
-雪地转转	süě;ye dì;ty zhuǎn;iv zhuǎn;iv	4
+雪地转转	süě;ye dì;ty zhuàn;iv zhuàn;iv	4
 雪地追踪	süě;ye dì;ty zhuī;zl zōng;zu	99
 雪地足球	süě;ye dì;ty zú;kz qiú;wq	382
 学东学西	xué;xz dōng;ax xué;xz siī;ak	153
@@ -289803,7 +289803,7 @@ sort: by_weight
 转中小火	zhuǎn;iv zhōng;kl siǎo;lb huǒ;br	698
 专注前方	zhuān;ts zhù;dv cián;bd fāng;wv	194
 专注学习	zhuān;ts zhù;dv xué;xz sií;vd	729
-转转麻将	zhuǎn;iv zhuǎn;iv má;ga ziàng;lc	76
+转转麻将	zhuàn;iv zhuàn;iv má;ga ziàng;lc	76
 转子间线	zhuàn;iv zǐ;la jiān;mo siàn;sj	90
 转子净重	zhuàn;iv zǐ;la zìng;dy zhòng;ql	45
 转子铁芯	zhuàn;iv zǐ;la tiě;jf sīn;cx	333
