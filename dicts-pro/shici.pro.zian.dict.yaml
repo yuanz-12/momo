@@ -3321,7 +3321,7 @@ sort: by_weight
 忧心有忡	yōu;xy sīn;dd yǒu;uo chōng;xv	10
 忧心愈愈	yōu;xy sīn;dd yù;rx yù;rx	10
 黝纁就瘗	yǒu;ll xūn;sh ziù;wy yì;bt	10
-侑以清乐	yòu;ro yǐ;lr cīng;do lè;px	10
+侑以清乐	yòu;ro yǐ;lr cīng;do yuè;px	10
 悠悠旆旌	yōu;rx yōu;rx pèi;fj zīng;fu	10
 由之以全	yóu;ol zhī;dn yǐ;lr cüán;rw	10
 有旨者酒	yǒu;uo zhǐ;bo zhě;lo ziǔ;dy	10
@@ -14123,7 +14123,7 @@ sort: by_weight
 风止夜何清	fēng;jx zhǐ;lb yè;ww hé;rk cīng;do	10
 风至忆襄王	fēng;jx zhì;gt yì;xv siāng;yf wáng;at	10
 封植众心归	fēng;tc zhí;aq zhòng;rr sīn;dd guī;le	10
-风中闻清乐	fēng;jx zhōng;kl wén;me cīng;do lè;px	10
+风中闻清乐	fēng;jx zhōng;kl wén;me cīng;do yuè;px	10
 逢舟或借风	féng;zf zhōu;pd huò;ga ziè;ro fēng;jx	10
 风竹飘馀霰	fēng;jx zhú;gg piāo;xf yú;um siàn;yw	10
 凤逐清箫远	fèng;jy zhú;zu cīng;do siāo;vb yuǎn;zy	10
@@ -27062,7 +27062,7 @@ sort: by_weight
 肯效屠门嚼	kěn;vo xiào;ww tú;uo mén;dv züé;kc	10
 肯信同年友	kěn;vo sìn;rk tóng;kk nián;pf yǒu;uy	10
 肯徇奔走闹	kěn;vo sǜn;ro bēn;dc zǒu;tz nào;mj	10
-铿尔荐清乐	kēng;jt ěr;dx ziàn;cz cīng;do lè;px	10
+铿尔荐清乐	kēng;jt ěr;dx ziàn;cz cīng;do yuè;px	10
 铿铿青琅玕	kēng;jt kēng;jt cīng;fo láng;wl gān;wg	10
 铿锵哀忠义	kēng;jt ciāng;jc āi;yk zhōng;vx yì;dx	10
 铿锵发宫徵	kēng;jt ciāng;jc fā;fy gōng;bk zhēng;rw	10
@@ -38947,9 +38947,6 @@ sort: by_weight
 倾篮写地上	qīng;ry lán;vm siě;by dì;ty shàng;ba	10
 清朗悟心术	cīng;do lǎng;lo wù;xk sīn;dd shù;ad	10
 清浪浴潭鱼	cīng;do làng;dl yù;dg tán;du yú;da	10
-清乐动千门	cīng;do lè;px dòng;yl ciān;pu mén;dv	10
-清乐动诸天	cīng;do lè;px dòng;yl zhū;yo tiān;ad	10
-清乐九天闻	cīng;do lè;px jiǔ;pv tiān;ad wén;me	10
 清泪长啼血	cīng;do lèi;do cháng;pn tí;kj xuè;pm	10
 清羸还对月	cīng;do léi;wy hái;zb duì;yc yuè;ke	10
 清羸驾彩鸾	cīng;do léi;wy jià;lm cǎi;vp luán;wn	10
@@ -40266,9 +40263,12 @@ sort: by_weight
 清猿助客愁	cīng;do yuán;qy zhù;ql kè;bk chóu;hx	10
 清猿坐见伤	cīng;do yuán;qy zuò;tr jiàn;ke shāng;rl	10
 清月半西楼	cīng;do yuè;ke bàn;bf siī;ak lóu;an	10
+清乐动千门	cīng;do yuè;px dòng;yl ciān;pu mén;dv	10
+清乐动诸天	cīng;do yuè;px dòng;yl zhū;yo tiān;ad	10
 青岳好登高	cīng;fo yuè;qu hǎo;nz dēng;bb gāo;wk	10
 清月皓方闲	cīng;do yuè;ke hào;bk fāng;wv xián;ma	10
 晴月九重开	cíng;oo yuè;ke jiǔ;pv chóng;ql kāi;ac	10
+清乐九天闻	cīng;do yuè;px jiǔ;pv tiān;ad wén;me	10
 清越扣琼瑰	cīng;do yuè;tl kòu;fk qióng;wx guī;wg	10
 清越岂同年	cīng;do yuè;tl qǐ;uj tóng;kk nián;pf	10
 卿月岂相离	qīng;pg yuè;ke qǐ;uj siāng;ao lí;wn	10
@@ -83943,6 +83943,7 @@ sort: by_weight
 共道繁华不复全	gòng;cb dào;zz fán;px huá;ru bú;ab fù;pw cüán;rw	10
 公到江南应削瓜	gōng;bs dào;gd jiāng;dg nán;ug yīng;ga süē;xd guā;in	10
 共道进贤蒙上赏	gòng;cb dào;zz zìn;zj xián;lb méng;cu shàng;ba shǎng;xb	10
+弓刀千骑成何事	gōng;vv dāo;vp ciān;pu jì;mk chéng;gv hé;rk shì;gy	10
 宫殿风微燕雀高	gōng;bk diàn;uu fēng;jx wēi;rj yàn;ch cüè;xv gāo;wk	10
 宫殿如星树似毫	gōng;bk diàn;uu rú;nk sīng;ou shù;ac sì;rr háo;wm	10
 公独未知其趣尔	gōng;bs dú;qi wèi;aa zhī;uk qí;cb cǜ;ty ěr;dx	10
@@ -97095,7 +97096,6 @@ sort: by_weight
 顷来新得谢公诗	qǐng;by lái;aa sīn;lt de;rc siè;yc gōng;bs shī;yc	10
 情来一倍苦相思	cíng;xo lái;aa yí;aa bèi;rk kǔ;cg siāng;ao sī;tx	10
 清澜一洗啼痕空	cīng;do lán;dj yì;aa siǐ;de tí;kj hén;bg kōng;bg	10
-清乐灵香几处闻	cīng;do lè;px líng;eh xiāng;ho jī;pv chù;wb wén;me	10
 清泪难忘父母邦	cīng;do lèi;do nán;yv wàng;wx fù;bx mǔ;md bāng;fe	10
 清羸已近百年身	cīng;do léi;wy yǐ;kv jìn;zt bǎi;ab nián;pf shēn;zc	10
 清羸已觉助禅心	cīng;do léi;wy yǐ;kv jué;xj zhù;ql chán;pu sīn;dd	10
@@ -97664,6 +97664,7 @@ sort: by_weight
 青原万丈光赫赫	cīng;fo yuán;ix wàn;av zhàng;an guāng;xe hè;ii hè;ii	10
 清源寻尽花绵绵	cīng;do yuán;dx sǘn;ec zìn;id huā;cb mián;sj mián;sj	10
 清月出岭光入扉	cīng;do yuè;ke chū;uu lǐng;us guāng;xe rù;pn fēi;hf	10
+清乐灵香几处闻	cīng;do yuè;px líng;eh xiāng;ho jī;pv chù;wb wén;me	10
 清月依微香露轻	cīng;do yuè;ke yī;ry wēi;rj xiāng;ho lù;yk qīng;ij	10
 青云北望紫微遥	cīng;fo yún;ag běi;lb wàng;ww zǐ;vx wēi;rj yáo;zf	10
 青云表柱白云崖	cīng;fo yún;ag biǎo;fy zhù;av bái;po yún;ag yá;ut	10
@@ -111095,7 +111096,7 @@ sort: by_weight
 依微香雨青氛氲	yī;ry wēi;rj xiāng;ho yǔ;ad cīng;fo fēn;qf yūn;qm	10
 一闻君语识君心	yì;aa wén;me jūn;yk yǔ;yk shí;yv jūn;yk sīn;dd	10
 已闻佩响知腰细	yǐ;kv wén;me pèi;rj xiǎng;kk zhī;uk yāo;on siì;st	10
-已闻清乐动云韶	yǐ;kv wén;me cīng;do lè;px dòng;yl yún;ag sháo;lk	10
+已闻清乐动云韶	yǐ;kv wén;me cīng;do yuè;px dòng;yl yún;ag sháo;lk	10
 一闻说尽急难材	yì;aa wén;me shuō;yx zìn;id jí;dx nàn;yv cái;ac	10
 亦闻私地学求仙	yì;wb wén;me sī;hs dì;ty xué;xz qiú;au siān;ru	10
 已闻香雪烂梅枝	yǐ;kv wén;me xiāng;ho süě;ye làn;hl méi;am zhī;av	10

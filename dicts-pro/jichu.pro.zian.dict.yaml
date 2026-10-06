@@ -826,7 +826,7 @@ sort: by_weight
 陈迹	chén;ed ziì;zb	80
 陈姐	chén;ed ziě;nq	295
 沉浸	chén;dj zìn;dy	3887
-沉静	chén;dj zìng;fy	1118
+沉静	chén;dj zìng;fy	1247
 沉井	chén;dj zǐng;ac	1031
 衬砌	chèn;pc ciì;ud	624
 沉潜	chén;dj cián;do	232
@@ -4166,7 +4166,6 @@ sort: by_weight
 将夜	ziāng;lc yè;ww	109
 奖掖	ziǎng;ld yè;fw	87
 将以	ziāng;lc yǐ;lr	11992
-蒋姨	ziǎng;cc yí;ny	73
 将用	ziāng;lc yòng;kf	1593
 酱油	ziàng;ly yóu;dy	12532
 将有	ziāng;lc yǒu;uo	1865
@@ -4615,7 +4614,7 @@ sort: by_weight
 截水	zié;gv shuǐ;ln	212
 捷顺	zié;fz shùn;iy	644
 姐说	ziě;nq shuō;yx	238
-接送	ziē;fn sòng;zt	1579
+接送	ziē;fn sòng;zt	3127
 借宿	ziè;ro sù;bb	430
 节俗	zié;ce sú;rg	387
 接穗	ziē;fn suì;hx	352
@@ -5531,7 +5530,6 @@ sort: by_weight
 静逸	zìng;fy yì;zt	47
 静宜	zìng;fy yí;bq	37
 精艺	zīng;mo yì;cv	13
-井姨	zǐng;ac yí;ny	7
 静音	zìng;fy yīn;lo	5963
 精英	zīng;mo yīng;cy	17398
 晶莹	zīng;oo yíng;cy	552
@@ -7106,7 +7104,7 @@ sort: by_weight
 毛姐	máo;pv ziě;nq	178
 铆接	mǎo;je ziē;fn	153
 冒进	mào;oo zìn;zj	885
-毛钱	máo;pv cián;jj	2270
+毛钱	máo;pv cián;jj	2013
 毛细	máo;pv siì;st	233
 毛线	máo;pv siàn;sj	6137
 貌相	mào;ve siāng;ao	13
@@ -7218,7 +7216,7 @@ sort: by_weight
 迷津	mí;zm zīn;dy	173
 米酒	mǐ;ba ziǔ;dy	1300
 迷墙	mí;zm ciáng;tk	486
-密切	mì;bu ciè;qd	2013
+密切	mì;bu ciè;qd	2270
 迷情	mí;zm cíng;xo	166
 米泉	mǐ;ba cüán;bu	490
 米西	mǐ;ba siī;ak	62
@@ -8255,8 +8253,6 @@ sort: by_weight
 七爷	ciī;av yé;fe	144
 七页	ciī;av yè;ab	73
 七一	ciī;av yī;aa	458
-戚姨	ciī;gx yí;ny	40
-齐姨	cií;wl yí;ny	25
 漆艺	ciī;du yì;cv	20
 七亿	ciī;av yì;rv	16
 七音	ciī;av yīn;lo	97
@@ -8921,7 +8917,6 @@ sort: by_weight
 千亿	ciān;pu yì;rv	1048
 前移	cián;bd yí;hx	1017
 潜移	cián;do yí;hx	95
-钱姨	cián;jj yí;ny	76
 前翼	cián;bd yì;xg	60
 浅易	ciǎn;dj yì;ow	48
 钱乙	cián;jj yǐ;vv	38
@@ -9671,7 +9666,6 @@ sort: by_weight
 勤修	qín;cl siū;rp	662
 亲眼	cīn;la yǎn;og	1407
 沁阳	cìn;dx yáng;eo	63
-秦姨	cín;ih yí;ny	149
 亲迎	cīn;la yíng;ze	82
 亲英	cīn;la yīng;cy	74
 秦俑	cín;ih yǒng;ry	667
@@ -10020,7 +10014,6 @@ sort: by_weight
 情郎	cíng;xo láng;le	379
 青狼	cīng;fo láng;ql	303
 请了	cǐng;yo le;al	6073
-清乐	cīng;do lè;px	1089
 清了	cīng;do le;al	94
 晴了	cíng;oo le;al	75
 青了	cīng;fo le;al	73
@@ -10404,6 +10397,7 @@ sort: by_weight
 青源	cīng;fo yuán;dx	20
 青苑	cīng;fo yuàn;cv	16
 清圆	cīng;do yuán;wb	9
+清乐	cīng;do yuè;px	1089
 清月	cīng;do yuè;ke	1040
 清越	cīng;do yuè;tl	988
 青云	cīng;fo yún;ag	791
@@ -10619,7 +10613,6 @@ sort: by_weight
 秋野	ciū;hh yě;ly	200
 秋意	ciū;hh yì;lx	847
 秋衣	ciū;hh yī;wy	141
-秋姨	ciū;hh yí;ny	72
 囚衣	ciú;wr yī;wy	17
 秋英	ciū;hh yīng;cy	9
 秋游	ciū;hh yóu;dz	1060
@@ -11251,7 +11244,7 @@ sort: by_weight
 全圆	cüán;rw yuán;wb	52
 全月	cüán;rw yuè;ke	144
 全运	cüán;rw yùn;zy	1228
-全在	cüán;rw zài;ut	3247
+全在	cüán;rw zài;ut	6151
 全责	cüán;rw zé;fb	2459
 全寨	cüán;rw zhài;ba	13
 全站	cüán;rw zhàn;lv	1655
@@ -11755,7 +11748,7 @@ sort: by_weight
 少小	shào;xp siǎo;lb	543
 稍小	shāo;ho siǎo;lb	94
 少些	shǎo;xp siē;ve	1353
-少写	shǎo;xp siě;by	1285
+少写	shǎo;xp siě;by	1014
 烧写	shāo;hw siě;by	950
 烧心	shāo;hw sīn;dd	433
 捎信	shāo;fo sìn;rk	390
@@ -13935,7 +13928,6 @@ sort: by_weight
 细挑	siì;st tiao;fv	195
 细调	siì;st tiáo;yk	178
 锡条	siī;jw tiáo;wa	176
-细调	siì;st tiáo;yk	111
 西铁	siī;ak tiě;jf	70
 细听	siì;st tīng;kt	440
 西厅	siī;ak tīng;id	356
@@ -15442,7 +15434,6 @@ sort: by_weight
 想以	siǎng;ax yǐ;lr	477
 相异	siāng;ao yì;sc	204
 相忆	siāng;ao yì;xv	51
-相姨	siāng;ao yí;ny	40
 相移	siāng;ao yí;hx	32
 襄邑	siāng;yf yì;kb	1
 相印	siāng;ao yìn;pe	95
@@ -18008,7 +17999,6 @@ sort: by_weight
 心怡	sīn;dd yí;xk	58
 新翼	sīn;lt yì;xg	46
 新医	sīn;lt yī;ku	36
-辛姨	sīn;lu yí;ny	28
 新艺	sīn;lt yì;cv	22
 新译	sīn;lt yì;yf	17
 信宜	sìn;rk yí;bq	13
@@ -19046,7 +19036,6 @@ sort: by_weight
 须要	sǖ;py yào;xn	430
 需以	sǖ;ye yǐ;lr	104
 需依	sǖ;ye yī;ry	83
-徐姨	sǘ;rm yí;ny	66
 需用	sǖ;ye yòng;kf	150
 须用	sǖ;py yòng;kf	96
 叙永	sǜ;ry yǒng;du	76
@@ -19310,7 +19299,6 @@ sort: by_weight
 旋翼	süán;fz yì;xg	1623
 选一	süǎn;ze yī;aa	1566
 选译	süǎn;ze yì;yf	504
-宣姨	süān;bd yí;ny	324
 宣仪	süān;bd yí;ry	125
 选印	süǎn;ze yìn;pe	62
 选用	süǎn;ze yòng;kf	13951
@@ -19550,7 +19538,6 @@ sort: by_weight
 雪妖	süě;ye yāo;ny	80
 雪夜	süě;ye yè;ww	703
 雪野	süě;ye yě;ly	477
-薛姨	süē;cx yí;ny	69
 雪衣	süě;ye yī;wy	55
 雪意	süě;ye yì;lx	35
 雪鹰	süě;ye yīng;gn	680
@@ -74742,6 +74729,7 @@ sort: by_weight
 七夕节	ciī;av siī;pd zié;ce	267
 气息了	qì;pv siī;zx le;al	670
 起息日	qǐ;tj siī;zx rì;wa	60
+脐息肉	cií;oq siī;zx ròu;nr	20
 齐膝深	cií;wl siī;ou shēn;da	378
 七夕时	ciī;av siī;pd shí;to	482
 气息时	qì;pv siī;zx shí;to	342
@@ -79944,7 +79932,6 @@ sort: by_weight
 情了吧	cíng;xo le;al ba;kb	445
 请了假	cǐng;yo le;al jiǎ;ry	342
 清了吗	cīng;do le;al ma;km	572
-清乐平	cīng;do lè;px píng;au	50
 清了清	cīng;do le;al cīng;do	44
 晴了天	cíng;oo le;al tiān;ad	292
 清泪尽	cīng;do lèi;do zìn;id	4
@@ -81374,6 +81361,7 @@ sort: by_weight
 情缘值	cíng;xo yuán;su zhí;rq	450
 青元子	cīng;fo yuán;aw zǐ;la	52
 请阅读	cǐng;yo yuè;mx dú;yd	832
+清乐平	cīng;do yuè;px píng;au	50
 请月嫂	cǐng;yo yuè;ke sǎo;ny	693
 请阅示	cǐng;yo yuè;mx shì;ex	45
 请阅知	cǐng;yo yuè;mx zhī;uk	76
@@ -99464,6 +99452,7 @@ sort: by_weight
 西尔贝	siī;ak ěr;dx bèi;kr	387
 细而长	siì;st ér;al cháng;pn	25
 细而短	siì;st ér;al duǎn;ub	261
+西二段	siī;ak èr;aa duàn;pu	40
 洗耳朵	siǐ;de ěr;ol duǒ;ja	531
 西尔弗	siī;ak ěr;dx fú;gl	652
 西洱海	siī;ak ěr;de hǎi;dm	288
@@ -101386,6 +101375,7 @@ sort: by_weight
 蜥蜴蛋	siī;it yì;iw dàn;zi	52
 洗衣店	siǐ;de yī;wy diàn;gv	427
 细一点	siì;st yì;aa diǎn;vh	384
+西一段	siī;ak yī;aa duàn;pu	40
 洗衣房	siǐ;de yī;wy fáng;hf	747
 洗衣坊	siǐ;de yī;wy fāng;tf	266
 洗衣费	siǐ;de yī;wy fèi;fb	19
@@ -134860,13 +134850,6 @@ sort: by_weight
 傲慢不逊	ào;rw màn;xy bú;ab sǜn;zx	16
 傲慢宣言	ào;rw màn;xy süān;bd yán;wk	162
 澳美国际	ào;dd měi;yd guó;wy ziì;eu	117
-澳门国际	ào;dd mén;dv guó;wy ziì;eu	824
-澳门励骏	ào;dd mén;dv lì;il zǜn;mw	342
-澳门女性	ào;dd mén;dv nǚ;va sìng;xu	212
-澳门气象	ào;dd mén;dv qì;pv siàng;du	693
-澳门手信	ào;dd mén;dv shǒu;pf sìn;rk	356
-澳门小吃	ào;dd mén;dv siǎo;lb chī;kv	356
-澳门新城	ào;dd mén;dv sīn;lt chéng;ti	266
 傲睨一切	ào;rw nì;oe yí;aa ciè;qd	99
 熬清守淡	áo;fh cīng;do shǒu;bc dàn;dh	50
 奥沙拉嗪	ào;pd shā;du lā;fl cín;kh	50
@@ -135752,7 +135735,6 @@ sort: by_weight
 白清胃散	bái;po cīng;do wèi;to sàn;cw	4
 百秋李醇	bǎi;ab ciū;hh lǐ;az chún;yz	45
 白秋沙鸭	bái;po ciū;hh shā;du yā;jn	212
-百泉公园	bǎi;ab cüán;bu gōng;bs yuán;wy	50
 白泉市场	bái;po cüán;bu shì;wj chǎng;tp	99
 百泉药会	bǎi;ab cüán;bu yào;cu huì;ry	50
 白人男性	bái;po rén;pn nán;tl sìng;xu	675
@@ -137186,7 +137168,6 @@ sort: by_weight
 被简写成	bèi;pp jiǎn;vo siě;by chéng;gv	153
 被拣选的	bèi;pp jiǎn;fd süǎn;ze de;bu	288
 北江小学	běi;lb jiāng;dg siǎo;lb xué;xz	225
-北焦公园	běi;lb ziāo;rh gōng;bs yuán;wy	29
 北郊小区	běi;lb jiāo;we siǎo;lb qū;kx	130
 北胶新河	běi;lb jiāo;of sīn;lt hé;dk	243
 北角秀味	běi;lb jiǎo;dy siù;hn wèi;kw	180
@@ -137495,7 +137476,6 @@ sort: by_weight
 背形向斜	bèi;bo xíng;kp xiàng;pk sié;rd	45
 北秀宾馆	běi;lb siù;hn bīn;bb guǎn;ul	50
 北秀大厦	běi;lb siù;hn dà;ar shà;iw	99
-北秀公园	běi;lb siù;hn gōng;bs yuán;wy	50
 被秀一脸	bèi;pp siù;hn yì;aa liǎn;oq	342
 被需要的	bèi;pp sǖ;ye yào;xn de;bu	670
 被需要感	bèi;pp sǖ;ye yào;xn gǎn;gx	360
@@ -137877,7 +137857,6 @@ sort: by_weight
 毕节学院	bì;bu zié;ce xué;xz yuàn;ey	189
 毕节一小	bì;bu zié;ce yì;aa siǎo;lb	99
 毕节一中	bì;bu zié;ce yī;aa zhōng;kl	117
-碧津公园	bì;wu zīn;dy gōng;bs yuán;wy	288
 彼进我退	bǐ;rp zìn;zj wǒ;ga tuì;zg	4
 必经程序	bì;xp jīng;sj chéng;hw sǜ;gy	482
 碧井风夏	bì;wu zǐng;ac fēng;jx xià;bw	189
@@ -139500,7 +139479,6 @@ sort: by_weight
 波西塔诺	bō;dp siī;ak tǎ;tk nuò;yk	531
 玻纤竿稍	bō;wp siān;sq gān;vg shāo;ho	62
 玻纤格栅	bō;wp siān;sq gé;ak shān;ac	162
-伯先公园	bó;rb siān;ne gōng;bs yuán;wy	248
 玻纤行业	bō;wp siān;sq háng;rd yè;la	6
 玻纤增强	bō;wp siān;sq zēng;to qiáng;gi	288
 玻纤制品	bō;wp siān;sq zhì;nd pǐn;kk	194
@@ -142652,8 +142630,6 @@ sort: by_weight
 长青二队	cháng;pn cīng;fo èr;aa duì;er	45
 常青二路	cháng;xj cīng;fo èr;aa lù;zk	50
 长清宫词	cháng;pn cīng;do gōng;bk cí;yk	4
-常青公园	cháng;xj cīng;fo gōng;bs yuán;wy	410
-长青公园	cháng;pn cīng;fo gōng;bs yuán;wy	122
 常青花园	cháng;xj cīng;fo huā;cb yuán;wy	540
 常青集团	cháng;xj cīng;fo zií;ra tuán;wc	554
 长青集团	cháng;pn cīng;fo zií;ra tuán;wc	190
@@ -143906,7 +143882,6 @@ sort: by_weight
 城西干道	chéng;ti siī;ak gàn;au dào;zz	450
 城西港区	chéng;ti siī;ak gǎng;ds qū;kx	153
 城西公社	chéng;ti siī;ak gōng;bs shè;pt	99
-城西公园	chéng;ti siī;ak gōng;bs yuán;wy	99
 成习惯了	chéng;gv sií;vd guàn;xb le;al	104
 城西广场	chéng;ti siī;ak guǎng;di chǎng;tp	117
 城西花园	chéng;ti siī;ak huā;cb yuán;wy	144
@@ -156977,7 +156952,6 @@ sort: by_weight
 凤翔东湖	fèng;jy siáng;yx dōng;ax hú;do	180
 凤翔东路	fèng;jy siáng;yx dōng;ax lù;zk	234
 凤翔豆花	fèng;jy siáng;yx dòu;ab huā;cb	171
-凤翔公园	fèng;jy siáng;yx gōng;bs yuán;wy	76
 凤祥股份	fèng;jy siáng;py gǔ;ou fèn;rf	338
 凤翔花园	fèng;jy siáng;yx huā;cb yuán;wy	153
 凤祥集团	fèng;jy siáng;py zií;ra tuán;wc	212
@@ -157019,7 +156993,6 @@ sort: by_weight
 风袖低昂	fēng;jx siù;py dī;ru áng;oe	50
 枫岫主人	fēng;af siù;uy zhǔ;wt rén;pn	225
 风徐徐吹	fēng;jx sǘ;rm sǘ;rm chuī;kq	536
-丰宣公园	fēng;sl süān;bd gōng;bs yuán;wy	4
 风宣玄品	fēng;jx süān;bd xuán;wy pǐn;kk	342
 枫雪动漫	fēng;af süě;ye dòng;yl màn;dy	130
 风雪独行	fēng;jx süě;ye dú;qi xíng;rd	4
@@ -161705,7 +161678,6 @@ sort: by_weight
 古籍残页	gǔ;uk zií;vo cán;dj yè;ab	99
 孤寂的心	gū;zg ziì;by de;bu sīn;dd	428
 古籍典故	gǔ;uk zií;vo diǎn;qb gù;gw	76
-古迹公园	gǔ;uk ziì;zb gōng;bs yuán;wy	324
 古籍记载	gǔ;uk zií;vo jì;yj zǎi;gi	558
 估计就是	gū;rg jì;yu ziù;wy shì;oz	2138
 固基浚源	gù;wg jī;ct zǜn;dw yuán;dx	76
@@ -164590,7 +164562,6 @@ sort: by_weight
 海新大桥	hǎi;dm sīn;lt dà;ar qiáo;al	153
 海信电器	hǎi;dm sìn;rk diàn;ov qì;xx	3
 海信电视	hǎi;dm sìn;rk diàn;ov shì;pj	693
-海心公园	hǎi;dm sīn;dd gōng;bs yuán;wy	346
 海信广场	hǎi;dm sìn;rk guǎng;di chǎng;tp	612
 海鑫国际	hǎi;dm xīn;jj guó;wy ziì;eu	130
 海芯华夏	hǎi;dm sīn;cx huá;ru xià;bw	306
@@ -166114,7 +166085,6 @@ sort: by_weight
 核心功能	hé;ar sīn;dd gōng;gl néng;sb	1030
 核心工事	hé;ar sīn;dd gōng;aa shì;gy	202
 核心公司	hé;ar sīn;dd gōng;bs sī;vk	468
-河心公园	hé;dk sīn;dd gōng;bs yuán;wy	99
 核心工作	hé;ar sīn;dd gōng;aa zuò;rv	729
 核心骨干	hé;ar sīn;dd gǔ;go gàn;au	666
 核心观点	hé;ar sīn;dd guān;yj diǎn;vh	968
@@ -167920,7 +167890,6 @@ sort: by_weight
 湖心北路	hú;do sīn;dd běi;lb lù;zk	50
 湖心宾馆	hú;do sīn;dd bīn;bb guǎn;ul	45
 湖心东桥	hú;do sīn;dd dōng;ax qiáo;al	144
-湖心公园	hú;do sīn;dd gōng;bs yuán;wy	230
 互信互利	hù;ah sìn;rk hù;ah lì;hd	396
 湖心花园	hú;do sīn;dd huā;cb yuán;wy	50
 护心胶囊	hù;fh sīn;dd jiāo;of náng;gy	45
@@ -168399,7 +168368,6 @@ sort: by_weight
 华西大厦	huá;ru siī;ak dà;ar shà;iw	4
 华西枫杨	huá;ru siī;ak fēng;af yáng;ap	99
 花媳妇儿	huā;cb sií;nx fù;ne er;pv	117
-华西公园	huá;ru siī;ak gōng;bs yuán;wy	3
 华西集团	huá;ru siī;ak zií;ra tuán;wc	482
 华锡集团	huá;ru siī;jw zií;ra tuán;wc	255
 华曦集团	huá;ru xī;ok zií;ra tuán;wc	122
@@ -168450,7 +168418,6 @@ sort: by_weight
 华翔电子	huá;ru siáng;yx diàn;ov zǐ;la	248
 滑翔飞行	huá;do siáng;yx fēi;vd xíng;rd	47
 华翔富奇	huá;ru siáng;yx fù;bt qí;dk	76
-滑翔公园	huá;do siáng;yx gōng;bs yuán;wy	220
 华翔国际	huá;ru siáng;yx guó;wy ziì;eu	45
 滑翔技术	huá;do siáng;yx jì;fv shù;ad	180
 滑翔劈扣	huá;do siáng;yx pī;ud kòu;fk	238
@@ -168773,7 +168740,6 @@ sort: by_weight
 坏小孩儿	huài;tb siǎo;lb hái;zr er;pv	162
 坏消息和	huài;tb siāo;do sii;zx hé;hk	374
 坏消息吗	huài;tb siāo;do sii;zx ma;km	248
-槐新公园	huái;ag sīn;lt gōng;bs yuán;wy	266
 坏心眼儿	huài;tb sīn;dd yǎn;og er;pv	9
 坏心眼子	huài;tb sīn;dd yǎn;og zi;la	52
 怀星堂集	huái;xb sīng;ou táng;xt zií;ra	153
@@ -172111,7 +172077,6 @@ sort: by_weight
 济南高新	ziǐ;dq nán;ug gāo;wk sīn;lt	562
 济南公安	ziǐ;dq nán;ug gōng;bs ān;bn	576
 济南工业	ziǐ;dq nán;ug gōng;aa yè;la	279
-济南公园	ziǐ;dq nán;ug gōng;bs yuán;wy	130
 济南古城	ziǐ;dq nán;ug gǔ;uk chéng;ti	207
 济南广播	ziǐ;dq nán;ug guǎng;di bō;ft	378
 济南广场	ziǐ;dq nán;ug guǎng;di chǎng;tp	99
@@ -172571,7 +172536,6 @@ sort: by_weight
 即时更新	zií;ge shí;to gēng;an sīn;lt	1206
 及时更新	jí;pn shí;to gēng;an sīn;lt	634
 即时功率	zií;ge shí;to gōng;gl lǜ;wu	117
-集士公园	zií;ra shì;ua gōng;bs yuán;wy	50
 即时沟通	zií;ge shí;to gōu;dg tōng;zy	464
 集市广场	zií;ra shì;wj guǎng;di chǎng;tp	598
 即食海参	zií;ge shí;rg hǎi;dm shēn;sp	464
@@ -173207,7 +173171,6 @@ sort: by_weight
 嫉贤妒能	zií;nu xián;lb dù;nh néng;sb	110
 基线飞行	jī;ct siàn;sj fēi;vd xíng;rd	4
 极限分析	jí;aj xiàn;eg fēn;bd siī;at	189
-集贤公园	zií;ra xián;lb gōng;bs yuán;wy	243
 极限糊精	jí;aj xiàn;eg hú;mo zīng;mo	117
 极限滑雪	jí;aj xiàn;eg huá;do süě;ye	374
 极限集合	jí;aj xiàn;eg zií;ra hé;rk	266
@@ -174026,6 +173989,7 @@ sort: by_weight
 集镇建设	zií;ra zhèn;jb jiàn;zy shè;yu	428
 即真实性	zií;ge zhēn;ub shí;bd sìng;xu	202
 集镇小学	zií;ra zhèn;jb siǎo;lb xué;xz	130
+济郑高铁	ziì;dq zhèng;be gāo;wk tiě;jf	8
 即征即退	zií;ge zhēng;rv zií;ge tuì;zg	82
 极致安全	jí;aj zhì;gw ān;bn cüán;rw	405
 机制创新	jī;aj zhì;nd chuàng;rd sīn;lt	41
@@ -176378,7 +176342,6 @@ sort: by_weight
 将翻一番	ziāng;lc fān;mx yì;aa fān;mt	441
 酱房大院	ziàng;ly fáng;hf dà;ar yuàn;ey	99
 降分录取	jiàng;ef fēn;bd lù;eu cǚ;ey	138
-将府公园	ziāng;lc fǔ;gc gōng;bs yuán;wy	243
 蒋干盗书	ziǎng;cc gàn;au dào;dm shū;vd	19
 酱缸震荡	ziàng;ly gāng;fg zhèn;yi dàng;cp	99
 将高就低	ziāng;lc gāo;wk ziù;wy dī;ru	4
@@ -176446,7 +176409,6 @@ sort: by_weight
 降价信息	jiàng;ef jià;rj sìn;rk siī;zx	13
 蒋家竹园	ziǎng;cc jiā;bu zhú;gg yuán;wy	50
 江尖大桥	jiāng;dg ziān;xd dà;ar qiáo;al	144
-江尖公园	jiāng;dg ziān;xd gōng;bs yuán;wy	207
 将将之才	ziāng;lc ziāng;lc zhī;dn cái;up	76
 将骄兵惰	ziāng;lc jiāo;ml bīng;qb duò;xo	220
 奖教奖学	ziǎng;ld jiào;lw ziǎng;ld xué;xz	387
@@ -176761,7 +176723,6 @@ sort: by_weight
 匠心独具	ziàng;kt sīn;dd dú;qi jù;qb	94
 匠心独妙	ziàng;kt sīn;dd dú;qi miào;nu	171
 匠心独运	ziàng;kt sīn;dd dú;qi yùn;zy	245
-江心公园	jiāng;dg sīn;dd gōng;bs yuán;wy	16
 江心孤屿	jiāng;dg sīn;dd gū;zg yǔ;uy	4
 江信国际	jiāng;dg sìn;rk guó;wy ziì;eu	261
 江信基金	jiāng;dg sìn;rk jī;ct jīn;rb	288
@@ -177240,7 +177201,6 @@ sort: by_weight
 绞杀现象	jiǎo;sf shā;xa xiàn;wj siàng;du	171
 焦山碑刻	ziāo;rh shān;kl bēi;uu kè;wd	200
 焦山碑林	ziāo;rh shān;kl bēi;uu lín;aa	207
-焦山公园	ziāo;rh shān;kl gōng;bs yuán;wy	130
 角闪岩相	jiǎo;dy shǎn;mr yán;uu siāng;ao	194
 焦烧羊肉	ziāo;rh shāo;hw yáng;bf ròu;nr	76
 嚼舌根的	ziáo;kc shé;qk gēn;ag de;bu	670
@@ -179082,7 +179042,6 @@ sort: by_weight
 接线组别	ziē;fn siàn;sj zǔ;sq bié;kd	248
 解像能力	jiě;dn siàng;ru néng;sb lì;vp	202
 节相适应	zié;ce siāng;ao shì;zu yìng;ga	202
-街心公园	jiē;rt sīn;dd gōng;bs yuán;wy	57
 街心广场	jiē;rt sīn;dd guǎng;di chǎng;tp	270
 借新还旧	ziè;ro sīn;lt hái;zb jiù;lo	524
 街心花园	jiē;rt sīn;dd huā;cb yuán;wy	35
@@ -179552,7 +179511,6 @@ sort: by_weight
 金疮小草	jīn;rb chuāng;bv siǎo;lb cǎo;cu	130
 晋祠宾馆	zìn;yo cí;pk bīn;bb guǎn;ul	248
 晋祠大米	zìn;yo cí;pk dà;ar mǐ;ba	266
-晋祠公园	zìn;yo cí;pk gōng;bs yuán;wy	324
 晋祠路口	zìn;yo cí;pk lù;zk kǒu;la	252
 晋祠学院	zìn;yo cí;pk xué;xz yuàn;ey	252
 尽此一觞	zìn;id cǐ;vb yī;aa shāng;dp	50
@@ -181595,7 +181553,6 @@ sort: by_weight
 锦绣福田	jǐn;jj siù;sn fú;pt tián;wu	50
 锦绣肝肠	jǐn;jj siù;sn gān;og cháng;op	50
 锦绣膏粱	jǐn;jj siù;sn gāo;wo liáng;dm	4
-锦绣公园	jǐn;jj siù;sn gōng;bs yuán;wy	50
 锦绣广场	jǐn;jj siù;sn guǎng;di chǎng;tp	171
 锦绣广苑	jǐn;jj siù;sn guǎng;di yuàn;cv	76
 锦绣国际	jǐn;jj siù;sn guó;wy ziì;eu	252
@@ -182438,7 +182395,6 @@ sort: by_weight
 经国先生	jīng;sj guó;wy siān;ne shēng;pf	639
 经过消化	jīng;sj guò;zc siāo;do huà;rb	616
 经过询问	jīng;sj guò;zc sǘn;yo wèn;mk	634
-靖海公园	zìng;lo hǎi;dm gōng;bs yuán;wy	4
 靖海将军	zìng;lo hǎi;dm ziāng;lc jūn;bi	234
 靖海路口	zìng;lo hǎi;dm lù;zk kǒu;la	99
 经海七路	jīng;sj hǎi;dm ciī;av lù;zk	50
@@ -184348,7 +184304,6 @@ sort: by_weight
 晶型转化	zīng;oo xíng;kt zhuǎn;iv huà;rb	76
 京雄城际	jīng;wx xióng;uv chéng;ti ziì;eu	414
 净修梵行	zìng;dy siū;rp fàn;af xíng;rd	117
-竞秀公园	jìng;lx siù;hn gōng;bs yuán;wy	202
 景秀江山	jǐng;ox siù;hn jiāng;dg shān;kl	50
 静修女中	zìng;fy siū;rp nǚ;va zhōng;kl	315
 景秀世家	jǐng;ox siù;hn shì;cv jiā;bu	180
@@ -184680,7 +184635,6 @@ sort: by_weight
 精于此道	zīng;mo yú;au cǐ;vb dào;zz	91
 靖宇大街	zìng;lo yǔ;by dà;ar jiē;rt	171
 靖宇东路	zìng;lo yǔ;by dōng;ax lù;zk	284
-靖宇公园	zìng;lo yǔ;by gōng;bs yuán;wy	256
 靖鱼罐头	zìng;lo yú;da guàn;fv tou;dd	90
 靖宇广场	zìng;lo yǔ;by guǎng;di chǎng;tp	117
 精于计算	zīng;mo yú;au jì;yu suàn;vc	459
@@ -184727,7 +184681,6 @@ sort: by_weight
 静园瑜伽	zìng;fy yuán;wy yú;wd jiā;rk	50
 晶圆制造	zīng;oo yuán;wb zhì;nd zào;zk	500
 净月大街	zìng;dy yuè;ke dà;ar jiē;rt	392
-净月公园	zìng;dy yuè;ke gōng;bs yuán;wy	207
 净月花园	zìng;dy yuè;ke huā;cb yuán;wy	130
 静月花园	zìng;fy yuè;ke huā;cb yuán;wy	42
 净月监狱	zìng;dy yuè;ke jiān;lm yù;qq	162
@@ -185000,7 +184953,6 @@ sort: by_weight
 九八二七	jiǔ;pv bā;pn èr;aa ciī;av	5
 酒吧服务	ziǔ;dy bā;kb fú;oy wù;wl	526
 酒吧歌手	ziǔ;dy bā;kb gē;kq shǒu;pf	513
-酒吧公园	ziǔ;dy bā;kb gōng;bs yuán;wy	297
 酒吧工作	ziǔ;dy bā;kb gōng;aa zuò;rv	585
 酒吧广场	ziǔ;dy bā;kb guǎng;di chǎng;tp	234
 酒吧柜台	ziǔ;dy bā;kb guì;aj tái;sk	234
@@ -185589,7 +185541,8 @@ sort: by_weight
 就会断网	ziù;wy huì;ry duàn;vt wǎng;kx	52
 就会发现	ziù;wy huì;ry fā;fy xiàn;wj	1490
 就会分的	ziù;wy huì;ry fēn;bd de;bu	99
-就回复了	ziù;wy huí;wk fù;pw le;al	580
+就恢复了	ziù;wy huī;xh fù;pw le;al	580
+就回复了	ziù;wy huí;wk fù;pw le;al	133
 就回复你	ziù;wy huí;wk fù;pw nǐ;rx	270
 就回复我	ziù;wy huí;wk fù;pw wǒ;ga	392
 就悔改了	ziù;wy huǐ;xm gǎi;jw le;al	99
@@ -190603,7 +190556,6 @@ sort: by_weight
 孔雀大厦	kǒng;zv cüè;xv dà;ar shà;iw	162
 孔雀帝国	kǒng;zv cüè;xv dì;wj guó;wy	382
 孔雀东南	kǒng;zv cüè;xv dōng;ax nán;ug	742
-孔雀公园	kǒng;zv cüè;xv gōng;bs yuán;wy	50
 孔雀公主	kǒng;zv cüè;xv gōng;bs zhǔ;wt	518
 孔雀胡同	kǒng;zv cüè;xv hú;go tòng;kk	117
 孔雀花园	kǒng;zv cüè;xv huā;cb yuán;wy	153
@@ -196347,7 +196299,6 @@ sort: by_weight
 路宣抚司	lù;zk süān;bd fǔ;fw sī;vk	302
 陆宣公祠	lù;ej süān;bd gōng;bs cí;pk	50
 路选择器	lù;zk süǎn;ze zé;ff qì;xx	189
-鲁迅公园	lǔ;yo sǜn;zu gōng;bs yuán;wy	113
 鲁迅故居	lǔ;yo sǜn;zu gù;gw jū;ug	200
 鲁迅故里	lǔ;yo sǜn;zu gù;gw lǐ;tt	544
 鲁迅美院	lǔ;yo sǜn;zu měi;yd yuàn;ey	288
@@ -196865,7 +196816,6 @@ sort: by_weight
 绿纤石相	lǜ;su siān;sq shí;ak siāng;ao	130
 绿箱政策	lǜ;su siāng;vo zhèng;vw cè;vu	194
 铝芯电缆	lǚ;jk sīn;cx diàn;ov lǎn;sj	189
-绿心公园	lǜ;su sīn;dd gōng;bs yuán;wy	230
 驴心狗肺	lǘ;mh sīn;dd gǒu;qj fèi;oj	153
 铝锌合金	lǚ;jk sīn;jx hé;rk jīn;rb	279
 绿新市场	lǜ;su sīn;lt shì;wj chǎng;tp	202
@@ -197474,7 +197424,6 @@ sort: by_weight
 满清遗老	mǎn;dl cīng;do yí;zb lǎo;lb	374
 满清政府	mǎn;dl cīng;do zhèng;vw fǔ;gc	135
 满清政权	mǎn;dl cīng;do zhèng;vw quán;ay	396
-蔓趣公园	màn;cy cǜ;ty gōng;bs yuán;wy	310
 漫射光线	màn;dy shè;uc guāng;xe siàn;sj	144
 漫射现象	màn;dy shè;uc xiàn;wj siàng;du	99
 满身酒气	mǎn;dl shēn;zc ziǔ;dy qì;pv	630
@@ -199527,7 +199476,6 @@ sort: by_weight
 民心向背	mín;vv sīn;dd xiàng;pk bèi;bo	9
 民心相通	mín;vv sīn;dd siāng;ao tōng;zy	639
 民信之矣	mín;vv sìn;rk zhī;dn yǐ;su	212
-民星公园	mín;vv sīng;ou gōng;bs yuán;wy	162
 民选政府	mín;vv süǎn;ze zhèng;vw fǔ;gc	796
 民选总统	mín;vv süǎn;ze zǒng;bx tǒng;sy	47
 敏讯科技	mǐn;pw sǜn;yu kē;hd jì;fv	4
@@ -205823,7 +205771,6 @@ sort: by_weight
 汽车最小	qì;dq chē;au zuì;oy siǎo;lb	117
 脐橙产业	cií;oq chéng;ab chǎn;wi yè;la	256
 七成功力	ciī;av chéng;gv gōng;gl lì;vp	297
-戚城公园	ciī;gx chéng;ti gōng;bs yuán;wy	225
 七城七店	ciī;av chéng;ti ciī;av diàn;gv	99
 启程前往	qǐ;hk chéng;hw cián;bd wǎng;rv	82
 戚城遗址	ciī;gx chéng;ti yí;zb zhǐ;tv	117
@@ -206266,7 +206213,6 @@ sort: by_weight
 七号电池	ciī;av hào;kk diàn;ov chí;dy	25
 七号法庭	ciī;av hào;kk fǎ;dq tíng;gw	45
 七号公馆	ciī;av hào;kk gōng;bs guǎn;ul	153
-七号公园	ciī;av hào;kk gōng;bs yuán;wy	346
 七号会所	ciī;av hào;kk huì;ry suǒ;ht	45
 七号技师	ciī;av hào;kk jì;fv shī;lj	45
 七号路口	ciī;av hào;kk lù;zk kǒu;la	4
@@ -208155,7 +208101,6 @@ sort: by_weight
 七星公馆	ciī;av sīng;ou gōng;bs guǎn;ul	130
 齐性公式	cií;wl sìng;xu gōng;bs shì;gg	45
 七星公司	ciī;av sīng;ou gōng;bs sī;vk	171
-七星公园	ciī;av sīng;ou gōng;bs yuán;wy	693
 七星购物	ciī;av sīng;ou gòu;bg wù;nw	153
 齐性关系	cií;wl sìng;xu guān;bt xì;px	45
 七星广场	ciī;av sīng;ou guǎng;di chǎng;tp	212
@@ -209391,7 +209336,6 @@ sort: by_weight
 钱湖北路	cián;jj hú;do běi;lb lù;zk	414
 前湖大道	cián;bd hú;do dà;ar dào;zz	288
 钱湖东路	cián;jj hú;do dōng;ax lù;zk	45
-前湖公园	cián;bd hú;do gōng;bs yuán;wy	144
 前呼后应	cián;bd hū;kh hòu;ik yīng;ga	22
 前呼后拥	cián;bd hū;kh hòu;ik yōng;fy	188
 前护后拥	cián;bd hù;fh hòu;ik yōng;fy	169
@@ -209479,7 +209423,6 @@ sort: by_weight
 遣将调兵	qiǎn;zl ziàng;lc diào;yk bīng;qb	50
 钱江二路	cián;jj jiāng;dg èr;aa lù;zk	220
 钱江方舟	cián;jj jiāng;dg fāng;wv zhōu;pd	45
-潜江公园	cián;do jiāng;dg gōng;bs yuán;wy	45
 潜江教育	cián;do jiāng;dg jiào;lw yù;wo	144
 潜江经济	cián;do jiāng;dg jīng;sj ziì;dq	4
 潜江剧院	cián;do jiāng;dg jù;ud yuàn;ey	130
@@ -210419,9 +210362,6 @@ sort: by_weight
 迁善改恶	ciān;zq shàn;yk gǎi;jw è;yx	45
 迁善改过	ciān;zq shàn;yk gǎi;jw guò;zc	230
 迁善改行	ciān;zq shàn;yk gǎi;jw háng;rd	4
-前山公园	cián;bd shān;kl gōng;bs yuán;wy	207
-潜山公园	cián;do shān;kl gōng;bs yuán;wy	42
-千山公园	ciān;pu shān;kl gōng;bs yuán;wy	29
 浅珊瑚红	ciǎn;dj shān;wc hú;wo hóng;sg	144
 迁善悔过	ciān;zq shàn;yk huǐ;xm guò;zc	45
 千山活血	ciān;pu shān;kl huó;du xuè;pm	99
@@ -210695,7 +210635,6 @@ sort: by_weight
 潜艇组织	cián;do tǐng;vw zǔ;sq zhī;sv	50
 前同步码	cián;bd tóng;kk bù;vu mǎ;um	4
 千童大道	ciān;pu tóng;ll dà;ar dào;zz	212
-千童公园	ciān;pu tóng;ll gōng;bs yuán;wy	162
 千头百绪	ciān;pu tóu;dd bǎi;ab sǜ;so	4
 千头万绪	ciān;pu tóu;dd wàn;av sǜ;so	349
 千头猪场	ciān;pu tóu;dd zhū;qo chǎng;tp	144
@@ -210858,7 +210797,6 @@ sort: by_weight
 迁徙的鸟	ciān;zq siǐ;rz de;bu niǎo;na	38
 迁徙动物	ciān;zq siǐ;rz dòng;yl wù;nw	279
 迁徙而来	ciān;zq siǐ;rz ér;al lái;aa	41
-千禧公园	ciān;pu xǐ;pk gōng;bs yuán;wy	486
 千禧广场	ciān;pu xǐ;pk guǎng;di chǎng;tp	320
 铅锡合金	qiān;jk siī;jw hé;rk jīn;rb	9
 千禧河畔	ciān;pu xǐ;pk hé;dk pàn;tb	99
@@ -212445,7 +212383,6 @@ sort: by_weight
 亲和标记	cīn;la hé;hk biāo;au jì;yj	50
 亲和层析	cīn;la hé;hk céng;uy siī;at	3
 亲核反应	cīn;la hé;ar fǎn;iy yìng;ga	310
-沁河公园	cìn;dx hé;dk gōng;bs yuán;wy	144
 亲和硅烷	cīn;la hé;hk guī;ut wán;hy	45
 亲核加成	cīn;la hé;ar jiā;lk chéng;gv	477
 亲和力强	cīn;la hé;hk lì;vp qiáng;gi	540
@@ -212835,7 +212772,6 @@ sort: by_weight
 亲疏有别	cīn;la shū;vi yǒu;uo bié;kd	490
 亲疏远近	cīn;la shū;vi yuǎn;zy jìn;zt	572
 亲水步道	cīn;la shuǐ;ln bù;vu dào;zz	351
-亲水公园	cīn;la shuǐ;ln gōng;bs yuán;wy	544
 沁水公主	cìn;dx shuǐ;ln gōng;bs zhǔ;wt	274
 亲水环境	cīn;la shuǐ;ln huán;wb jìng;te	189
 亲水基团	cīn;la shuǐ;ln jī;ct tuán;wc	400
@@ -213161,7 +213097,6 @@ sort: by_weight
 清便自调	cīng;do biàn;rg zì;po diào;yk	4
 请别那么	cǐng;yo bié;kd nà;ve me;ps	153
 请别伤害	cǐng;yo bié;kd shāng;rl hài;bk	410
-清滨公园	cīng;do bīn;db gōng;bs yuán;wy	130
 青鬓皓齿	cīng;fo bìn;eb hào;bk chǐ;vr	99
 氰丙氨酸	cíng;qo bǐng;an ān;qn suān;yw	4
 清兵入关	cīng;do bīng;qb rù;pn guān;bt	652
@@ -213277,7 +213212,6 @@ sort: by_weight
 青城道长	cīng;fo chéng;ti dào;zz zhǎng;pn	45
 青城弟子	cīng;fo chéng;ti dì;bd zǐ;la	342
 青城公安	cīng;fo chéng;ti gōng;bs ān;bn	4
-青城公园	cīng;fo chéng;ti gōng;bs yuán;wy	324
 青城后山	cīng;fo chéng;ti hòu;ik shān;kl	459
 青城花园	cīng;fo chéng;ti huā;cb yuán;wy	76
 青城剑法	cīng;fo chéng;ti jiàn;qd fǎ;dq	117
@@ -213929,8 +213863,6 @@ sort: by_weight
 清风浮云	cīng;do fēng;jx fú;dz yún;ag	50
 清风高飞	cīng;do fēng;jx gāo;wk fēi;vd	45
 清风高节	cīng;do fēng;jx gāo;wk zié;ce	3
-青枫公园	cīng;fo fēng;af gōng;bs yuán;wy	6
-清风公园	cīng;do fēng;jx gōng;bs yuán;wy	4
 清风红叶	cīng;do fēng;jx hóng;sg yè;ku	45
 清枫华景	cīng;do fēng;af huá;ru jǐng;ox	76
 清风花香	cīng;do fēng;jx huā;cb xiāng;ho	130
@@ -214235,7 +214167,6 @@ sort: by_weight
 青河东路	cīng;fo hé;dk dōng;ax lù;zk	38
 清河二桥	cīng;do hé;dk èr;aa qiáo;al	4
 清河法院	cīng;do hé;dk fǎ;dq yuàn;ey	189
-清河公园	cīng;do hé;dk gōng;bs yuán;wy	4
 清河公主	cīng;do hé;dk gōng;bs zhǔ;wt	423
 清河广场	cīng;do hé;dk guǎng;di chǎng;tp	274
 清河海风	cīng;do hé;dk hǎi;dm fēng;jx	45
@@ -214449,7 +214380,6 @@ sort: by_weight
 清江东路	cīng;do jiāng;dg dōng;ax lù;zk	369
 清江二桥	cīng;do jiāng;dg èr;aa qiáo;al	76
 清江公司	cīng;do jiāng;dg gōng;bs sī;vk	130
-清江公园	cīng;do jiāng;dg gōng;bs yuán;wy	45
 清江泓景	cīng;do jiāng;dg hóng;ds jǐng;ox	99
 清江画廊	cīng;do jiāng;dg huà;at láng;ge	477
 清江花苑	cīng;do jiāng;dg huā;cb yuàn;cv	13
@@ -215209,7 +215139,6 @@ sort: by_weight
 青年工人	cīng;fo nián;pf gōng;aa rén;pn	44
 青年公益	cīng;fo nián;pf gōng;bs yì;bm	490
 青年公寓	cīng;fo nián;pf gōng;bs yù;bd	47
-青年公园	cīng;fo nián;pf gōng;bs yuán;wy	598
 青年画家	cīng;fo nián;pf huà;at jiā;bu	634
 青年记者	cīng;fo nián;pf jì;yj zhě;lo	428
 青年检察	cīng;fo nián;pf jiǎn;aq chá;bu	266
@@ -215629,7 +215558,6 @@ sort: by_weight
 情色作家	cíng;xo sè;db zuò;rv jiā;bu	189
 青森县立	cīng;fo sēn;aa xiàn;qs lì;wb	472
 青纱灯笼	cīng;fo shā;su dēng;hd lóng;vl	171
-青莎公园	cīng;fo shā;cu gōng;bs yuán;wy	130
 青纱帐里	cīng;fo shā;su zhàng;ji lǐ;tt	356
 青山白浪	cīng;fo shān;kl bái;po làng;dl	117
 青山碧水	cīng;fo shān;kl bì;wu shuǐ;ln	22
@@ -216249,7 +216177,6 @@ sort: by_weight
 清洗功能	cīng;do siǐ;de gōng;gl néng;sb	626
 清洗公司	cīng;do siǐ;de gōng;bs sī;vk	369
 清洗工艺	cīng;do siǐ;de gōng;aa yì;cv	266
-清溪公园	cīng;do xī;dd gōng;bs yuán;wy	50
 清洗工作	cīng;do siǐ;de gōng;aa zuò;rv	608
 情系故里	cíng;xo xì;px gù;gw lǐ;tt	99
 清洗管道	cīng;do siǐ;de guǎn;vl dào;zz	279
@@ -216770,7 +216697,6 @@ sort: by_weight
 清伊高速	cīng;do yī;ry gāo;wk sù;zu	100
 情义公道	cíng;xo yì;dx gōng;bs dào;zz	45
 青衣公共	cīng;fo yī;wy gōng;bs gòng;cb	212
-青衣公园	cīng;fo yī;wy gōng;bs yuán;wy	324
 清溢光电	cīng;do yì;dm guāng;xe diàn;ov	50
 情义还在	cíng;xo yì;dx hái;zb zài;ut	99
 情以何堪	cíng;xo yǐ;lr hé;rk kān;tb	9
@@ -216899,7 +216825,6 @@ sort: by_weight
 青院附中	cīng;fo yuàn;ey fù;ec zhōng;kl	42
 清原高中	cīng;do yuán;ix gāo;wk zhōng;kl	4
 清远公路	cīng;do yuǎn;zy gōng;bs lù;zk	117
-清源公园	cīng;do yuán;dx gōng;bs yuán;wy	194
 清源公主	cīng;do yuán;dx gōng;bs zhǔ;wt	194
 清远公主	cīng;do yuǎn;zy gōng;bs zhǔ;wt	122
 清源股份	cīng;do yuán;dx gǔ;ou fèn;rf	76
@@ -218610,7 +218535,6 @@ sort: by_weight
 全程高甜	cüán;rw chéng;hw gāo;wk tián;ug	256
 全程跟踪	cüán;rw chéng;hw gēn;zg zōng;zu	801
 全程公里	cüán;rw chéng;hw gōng;bs lǐ;tt	860
-泉城公园	cüán;bu chéng;ti gōng;bs yuán;wy	472
 泉城广场	cüán;bu chéng;ti guǎng;di chǎng;tp	113
 全程合成	cüán;rw chéng;hw hé;rk chéng;gv	50
 全城轰动	cüán;rw chéng;ti hōng;iy dòng;yl	342
@@ -220012,7 +219936,6 @@ sort: by_weight
 全柔性屏	cüán;rw róu;ma sìng;xu píng;uk	45
 全散装件	cüán;rw sǎn;cw zhuāng;ly jiàn;rn	76
 泉山法院	cüán;bu shān;kl fǎ;dq yuàn;ey	171
-泉山公园	cüán;bu shān;kl gōng;bs yuán;wy	374
 全删了吧	cüán;rw shān;cd le;al ba;kb	9
 泉山校区	cüán;bu shān;kl xiào;af qū;kx	189
 泉山学校	cüán;bu shān;kl xué;xz xiào;af	50
@@ -220950,7 +220873,6 @@ sort: by_weight
 确认相关	què;uy rèn;yr siāng;ao guān;bt	634
 确认信件	què;uy rèn;yr sìn;rk jiàn;rn	3
 确认信息	què;uy rèn;yr sìn;rk siī;zx	195
-雀山公园	cüè;xv shān;kl gōng;bs yuán;wy	117
 鹊山水库	cüè;cn shān;kl shuǐ;ln kù;gi	297
 却上心头	què;qe shàng;ba sīn;dd tóu;dd	75
 缺少新意	quē;fg shǎo;xp sīn;lt yì;lx	369
@@ -223760,7 +223682,6 @@ sort: by_weight
 三秋桂子	sān;ae ciū;hh guì;at zǐ;la	400
 三全公寓	sān;ae cüán;rw gōng;bs yù;bd	279
 三泉公寓	sān;ae cüán;bu gōng;bs yù;bd	152
-三泉公园	sān;ae cüán;bu gōng;bs yuán;wy	171
 三全路上	sān;ae cüán;rw lù;zk shàng;ba	76
 三全其美	sān;ae cüán;rw qí;cb měi;yd	302
 三全食品	sān;ae cüán;rw shí;rg pǐn;kk	38
@@ -232080,7 +232001,6 @@ sort: by_weight
 双修道侣	shuāng;yy siū;rp dào;zz lǚ;rk	180
 双修福慧	shuāng;yy siū;rp fú;pt huì;fx	76
 双修功法	shuāng;yy siū;rp gōng;gl fǎ;dq	180
-双秀公园	shuāng;yy siù;hn gōng;bs yuán;wy	360
 双修去了	shuāng;yy siū;rp qù;ts le;al	117
 双眼皮线	shuāng;yy yǎn;og pí;py siàn;sj	459
 双眼线索	shuāng;yy yǎn;og siàn;sj suǒ;ux	117
@@ -232565,7 +232485,6 @@ sort: by_weight
 水西大桥	shuǐ;ln siī;ak dà;ar qiáo;al	153
 水西东街	shuǐ;ln siī;ak dōng;ax jiē;rt	4
 水洗工艺	shuǐ;ln siǐ;de gōng;aa yì;cv	364
-水西公园	shuǐ;ln siī;ak gōng;bs yuán;wy	261
 水西关街	shuǐ;ln siī;ak guān;bt jiē;rt	338
 水西环路	shuǐ;ln siī;ak huán;wb lù;zk	117
 水洗精煤	shuǐ;ln siǐ;de zīng;mo méi;ha	45
@@ -237167,7 +237086,6 @@ sort: by_weight
 田心大道	tián;wu sīn;dd dà;ar dào;zz	50
 天新纺织	tiān;ad sīn;lt fǎng;sf zhī;sv	76
 甜心格格	tián;ug sīn;dd gé;ak gé;ak	342
-天心公园	tiān;ad sīn;dd gōng;bs yuán;wy	207
 天心皓月	tiān;ad sīn;dd hào;bk yuè;ke	52
 天心和合	tiān;ad sīn;dd hé;hk hé;rk	4
 田心花园	tián;wu sīn;dd huā;cb yuán;wy	38
@@ -237601,7 +237519,6 @@ sort: by_weight
 铁西公安	tiě;jf siī;ak gōng;bs ān;bn	292
 铁西工厂	tiě;jf siī;ak gōng;aa chǎng;ap	374
 铁西公司	tiě;jf siī;ak gōng;bs sī;vk	76
-铁西公园	tiě;jf siī;ak gōng;bs yuán;wy	4
 铁西广场	tiě;jf siī;ak guǎng;di chǎng;tp	508
 铁西乐购	tiě;jf siī;ak lè;px gòu;bg	144
 铁西路口	tiě;jf siī;ak lù;zk kǒu;la	4
@@ -240020,7 +239937,6 @@ sort: by_weight
 完全隔离	wán;by cüán;rw gé;eg lí;wn	657
 完全公开	wán;by cüán;rw gōng;bs kāi;ac	612
 万泉公寓	wàn;av cüán;bu gōng;bs yù;bd	45
-万泉公园	wàn;av cüán;bu gōng;bs yuán;wy	405
 完全孤立	wán;by cüán;rw gū;zg lì;wb	490
 完全故障	wán;by cüán;rw gù;gw zhàng;eu	189
 完全关闭	wán;by cüán;rw guān;bt bì;mc	711
@@ -240802,7 +240718,7 @@ sort: by_weight
 忘忧草酱	wàng;wx yōu;xy cǎo;cu ziàng;ly	45
 王右丞集	wáng;at yòu;uk chéng;la zií;ra	9
 忘忧酒馆	wàng;wx yōu;xy ziǔ;dy guǎn;ul	13
-忘忧清乐	wàng;wx yōu;xy cīng;do lè;px	248
+忘忧清乐	wàng;wx yōu;xy cīng;do yuè;px	248
 网友推荐	wǎng;kx yǒu;uy tuī;fv ziàn;cz	909
 网游推荐	wǎng;kx yóu;dz tuī;fv ziàn;cz	236
 网友小黄	wǎng;kx yǒu;uy siǎo;lb huáng;cb	76
@@ -244427,7 +244343,6 @@ sort: by_weight
 无锡佛教	wú;ay siī;jw fó;rf jiào;lw	50
 五西格玛	wǔ;aw siī;ak gé;ak mǎ;wm	4
 无锡公路	wú;ay siī;jw gōng;bs lù;zk	144
-无锡公园	wú;ay siī;jw gōng;bs yuán;wy	99
 无锡广播	wú;ay siī;jw guǎng;di bō;ft	360
 无锡国旅	wú;ay siī;jw guó;wy lǚ;fy	117
 无锡毫茶	wú;ay siī;jw háo;wm chá;cm	238
@@ -244778,7 +244693,6 @@ sort: by_weight
 五星服务	wǔ;aw sīng;ou fú;oy wù;wl	441
 五星公社	wǔ;aw sīng;ou gōng;bs shè;pt	153
 五星公寓	wǔ;aw sīng;ou gōng;bs yù;bd	4
-五星公园	wǔ;aw sīng;ou gōng;bs yuán;wy	76
 五星国际	wǔ;aw sīng;ou guó;wy ziì;eu	351
 五星国旗	wǔ;aw sīng;ou guó;wy qí;fb	6
 五星好评	wǔ;aw sīng;ou hǎo;nz píng;yp	600
@@ -245200,8 +245114,6 @@ sort: by_weight
 西安工大	siī;ak ān;bn gōng;aa dà;ar	207
 西安公路	siī;ak ān;bn gōng;bs lù;zk	441
 西安公司	siī;ak ān;bn gōng;bs sī;vk	485
-西安公园	siī;ak ān;bn gōng;bs yuán;wy	153
-西岸公园	siī;ak àn;ug gōng;bs yuán;wy	65
 西安故事	siī;ak ān;bn gù;gw shi;gy	364
 西安鼓乐	siī;ak ān;bn gǔ;tv yuè;px	297
 西岸观邸	siī;ak àn;ug guān;yj dǐ;ue	99
@@ -245890,7 +245802,6 @@ sort: by_weight
 席地而卧	sií;gj dì;ty ér;al wò;ib	387
 席地而坐	sií;gj dì;ty ér;al zuò;tr	512
 洗涤工序	siǐ;de dí;da gōng;aa sǜ;gy	50
-西堤公园	siī;ak dī;tz gōng;bs yuán;wy	180
 西堤国际	siī;ak dī;tz guó;wy ziì;eu	194
 洗涤剂厂	siǐ;de dí;da ziì;qd chǎng;ap	279
 洗涤剂洗	siǐ;de dí;da ziì;qd siǐ;de	832
@@ -246132,7 +246043,6 @@ sort: by_weight
 洗干净喽	siǐ;de gān;au zìng;dy lóu;kn	162
 洗干净手	siǐ;de gān;au zìng;dy shǒu;pf	634
 西岗分局	siī;ak gǎng;ux fēn;bd jú;uk	320
-西岗公园	siī;ak gǎng;ux gōng;bs yuán;wy	171
 西钢集团	siī;ak gāng;jx zií;ra tuán;wc	180
 西岗市场	siī;ak gǎng;ux shì;wj chǎng;tp	202
 西岗小学	siī;ak gǎng;ux siǎo;lb xué;xz	153
@@ -246179,8 +246089,6 @@ sort: by_weight
 细骨代刀	siì;st gǔ;go dài;rg dāo;vp	76
 袭故蹈常	sií;ly gù;gw dǎo;zj cháng;xj	45
 析骨而炊	siī;at gǔ;go ér;al chuī;hq	6
-西沽公园	siī;ak gū;dg gōng;bs yuán;wy	410
-西固公园	siī;ak gù;wg gōng;bs yuán;wy	232
 矽谷科技	siī;ux gǔ;bk kē;hd jì;fv	162
 细故毛举	siì;st gù;gw máo;pv jǔ;xf	45
 西固区委	siī;ak gù;wg qū;kx wěi;hn	194
@@ -246372,7 +246280,6 @@ sort: by_weight
 西河大鼓	siī;ak hé;dk dà;ar gǔ;tv	85
 西河大桥	siī;ak hé;dk dà;ar qiáo;al	346
 西和高速	siī;ak hé;hk gāo;wk sù;zu	189
-西河公园	siī;ak hé;dk gōng;bs yuán;wy	338
 西河公主	siī;ak hé;dk gōng;bs zhǔ;wt	297
 西河合集	siī;ak hé;dk hé;rk zií;ra	99
 西河花园	siī;ak hé;dk huā;cb yuán;wy	117
@@ -246435,7 +246342,6 @@ sort: by_weight
 西湖高等	siī;ak hú;do gāo;wk děng;vc	297
 西户高速	siī;ak hù;du gāo;wk sù;zu	162
 西湖公馆	siī;ak hú;do gōng;bs guǎn;ul	144
-西湖公园	siī;ak hú;do gōng;bs yuán;wy	44
 西湖国中	siī;ak hú;do guó;wy zhōng;kl	202
 西湖寒碧	siī;ak hú;do hán;bd bì;wu	171
 西湖花园	siī;ak hú;do huā;cb yuán;wy	266
@@ -246496,7 +246402,6 @@ sort: by_weight
 西华大学	siī;ak huá;ru dà;ar xué;xz	163
 西画东渐	siī;ak huà;at dōng;ax ziàn;dt	162
 西华饭店	siī;ak huá;ru fàn;uy diàn;gv	266
-西华公园	siī;ak huá;ru gōng;bs yuán;wy	238
 西华公主	siī;ak huá;ru gōng;bs zhǔ;wt	117
 矽化合物	siī;ux huà;rb hé;rk wù;nw	423
 锡化合物	siī;jw huà;rb hé;rk wù;nw	129
@@ -246530,7 +246435,6 @@ sort: by_weight
 西环高架	siī;ak huán;wb gāo;wk jià;la	261
 西环高速	siī;ak huán;wb gāo;wk sù;zu	432
 喜欢搞笑	xǐ;tk huan;yq gǎo;fk siào;vy	450
-西环公园	siī;ak huán;wb gōng;bs yuán;wy	76
 西环广场	siī;ak huán;wb guǎng;di chǎng;tp	346
 喜欢喝酒	xǐ;tk huan;yq hē;kr ziǔ;dy	487
 喜欢滑雪	xǐ;tk huan;yq huá;do süě;ye	554
@@ -246573,7 +246477,6 @@ sort: by_weight
 西黄清醒	siī;ak huáng;cb cīng;do sǐng;yu	90
 西黄蓍胶	siī;ak huáng;cb shī;co jiāo;of	4
 锡惠公交	siī;jw huì;ix gōng;bs jiāo;wf	50
-锡惠公园	siī;jw huì;ix gōng;bs yuán;wy	490
 西灰角区	siī;ak huī;uh jiǎo;dy qū;kx	189
 锡慧在线	siī;jw huì;fx zài;ut siàn;sj	45
 细火慢炖	siì;st huǒ;br màn;xy dùn;ht	378
@@ -246631,7 +246534,6 @@ sort: by_weight
 西交大南	siī;ak jiāo;wf dà;ar nán;ug	76
 西郊大厦	siī;ak jiāo;we dà;ar shà;iw	130
 西郊公寓	siī;ak jiāo;we gōng;bs yù;bd	99
-西郊公园	siī;ak jiāo;we gōng;bs yuán;wy	459
 西郊花园	siī;ak jiāo;we huā;cb yuán;wy	117
 西郊机场	siī;ak jiāo;we jī;aj chǎng;tp	477
 犀角金龟	siī;un jiǎo;dy jīn;rb guī;dd	162
@@ -247057,7 +246959,6 @@ sort: by_weight
 锡林高勒	siī;jw lín;aa gāo;wk lè;cl	153
 西临高速	siī;ak lín;lk gāo;wk sù;zu	387
 锡林格勒	siī;jw lín;aa gé;ak lè;cl	346
-西林公园	siī;ak lín;aa gōng;bs yuán;wy	194
 西林横路	siī;ak lín;aa héng;ab lù;zk	4
 西林后路	siī;ak lín;aa hòu;ik lù;zk	99
 西林教案	siī;ak lín;aa jiào;lw àn;ba	52
@@ -247088,7 +246989,6 @@ sort: by_weight
 西泠印泥	siī;ak líng;ds yìn;pe ní;db	13
 西泠印社	siī;ak líng;ds yìn;pe shè;pt	113
 西六道街	siī;ak liù;wb dào;zz jiē;rt	171
-西柳公园	siī;ak liǔ;ae gōng;bs yuán;wy	130
 西流湖路	siī;ak liú;di hú;do lù;zk	238
 西六家子	siī;ak liù;wb jiā;bu zǐ;la	162
 西龙虎峪	siī;ak lóng;yp hǔ;hj yù;ug	3
@@ -247310,7 +247210,6 @@ sort: by_weight
 西尼二胺	siī;ak ní;ub èr;aa àn;on	45
 悉尼房价	siī;mx ní;ub fáng;hf jià;rj	400
 悉尼公司	siī;mx ní;ub gōng;bs sī;vk	189
-悉尼公园	siī;mx ní;ub gōng;bs yuán;wy	117
 细腻光滑	siì;st nì;ob guāng;xe huá;do	693
 悉尼国际	siī;mx ní;ub guó;wy ziì;eu	428
 悉尼机场	siī;mx ní;ub jī;aj chǎng;tp	6
@@ -247442,8 +247341,6 @@ sort: by_weight
 西青大道	siī;ak cīng;fo dà;ar dào;zz	76
 西青分局	siī;ak cīng;fo fēn;bd jú;uk	52
 析氢腐蚀	siī;at qīng;qj fǔ;gr shí;ui	202
-西清公园	siī;ak cīng;do gōng;bs yuán;wy	256
-西青公园	siī;ak cīng;fo gōng;bs yuán;wy	65
 西清古鉴	siī;ak cīng;do gǔ;uk jiàn;lj	288
 喜庆吉祥	xǐ;tk qìng;gd jí;tk siáng;py	464
 西青龙街	siī;ak cīng;fo lóng;yp jiē;rt	99
@@ -247467,7 +247364,6 @@ sort: by_weight
 析取概念	siī;at cǚ;ey gài;aw niàn;rx	4
 吸取攻击	xī;kj cǚ;ey gōng;gw jī;fk	50
 西区公司	siī;ak qū;kx gōng;bs sī;vk	99
-西区公园	siī;ak qū;kx gōng;bs yuán;wy	225
 西区故事	siī;ak qū;kx gù;gw shi;gy	75
 西区花园	siī;ak qū;kx huā;cb yuán;wy	3
 析取记号	siī;at cǚ;ey jì;yj hào;kk	45
@@ -248117,7 +248013,6 @@ sort: by_weight
 洗洗干净	siǐ;de siǐ;de gān;au zìng;dy	66
 细细感受	siì;st siì;st gǎn;gx shòu;vy	504
 洗洗胳膊	siǐ;de siǐ;de gē;ok bo;oc	50
-西溪公园	siī;ak xī;dd gōng;bs yuán;wy	202
 细细观察	siì;st siì;st guān;yj chá;bu	657
 细细观看	siì;st siì;st guān;yj kàn;uo	400
 细细观赏	siì;st siì;st guān;yj shǎng;xb	432
@@ -248410,7 +248305,6 @@ sort: by_weight
 西洋杜鹃	siī;ak yáng;dy dù;at juān;kn	238
 西洋风格	siī;ak yáng;dy fēng;jx gé;ak	504
 西洋甘菊	siī;ak yáng;dy gān;ca jú;cm	189
-西洋公园	siī;ak yáng;dy gōng;bs yuán;wy	4
 西洋古典	siī;ak yáng;dy gǔ;uk diǎn;qb	554
 西洋古董	siī;ak yáng;dy gǔ;uk dǒng;cv	540
 膝阳关穴	siī;ou yáng;eo guān;bt xué;bb	234
@@ -248688,7 +248582,6 @@ sort: by_weight
 西苑饭店	siī;ak yuàn;cv fàn;uy diàn;gv	432
 西园饭店	siī;ak yuán;wy fàn;uy diàn;gv	175
 西园公墓	siī;ak yuán;wy gōng;bs mù;ct	76
-西苑公园	siī;ak yuàn;cv gōng;bs yuán;wy	378
 西院骨科	siī;ak yuàn;ey gǔ;go kē;hd	45
 西园挂绿	siī;ak yuán;wy guà;ft lǜ;su	207
 西园广场	siī;ak yuán;wy guǎng;di chǎng;tp	144
@@ -249426,7 +249319,6 @@ sort: by_weight
 先导产业	siān;ne dǎo;sc chǎn;wi yè;la	392
 仙岛大厦	siān;ru dǎo;nu dà;ar shà;iw	4
 先导放电	siān;ne dǎo;sc fàng;fw diàn;ov	266
-仙岛公园	siān;ru dǎo;nu gōng;bs yuán;wy	117
 先导股份	siān;ne dǎo;sc gǔ;ou fèn;rf	153
 先导海报	siān;ne dǎo;sc hǎi;dm bào;fy	558
 先导计划	siān;ne dǎo;sc jì;yu huà;gd	513
@@ -251158,7 +251050,6 @@ sort: by_weight
 先于大盘	siān;ne yú;au dà;ar pán;vm	468
 线与电路	siàn;sj yǔ;va diàn;ov lù;zk	52
 先预发货	siān;ne yù;yy fā;fy huò;rb	45
-仙屿公园	siān;ru yǔ;uy gōng;bs yuán;wy	76
 鲜于璜碑	siān;yy yú;au huáng;wb bēi;uu	207
 县域经济	xiàn;qs yù;ta jīng;sj ziì;dq	144
 陷于绝境	xiàn;ej yú;au züé;sb jìng;te	3
@@ -251180,7 +251071,6 @@ sort: by_weight
 仙缘再续	siān;ru yuán;su zài;ar sǜ;sd	130
 仙乐传说	siān;ru yuè;px chuán;rv shuō;yx	392
 仙乐风飘	siān;ru yuè;px fēng;jx piāo;xf	261
-仙岳公园	siān;ru yuè;qu gōng;bs yuán;wy	50
 仙悦花园	siān;ru yuè;xx huā;cb yuán;wy	256
 仙岳花园	siān;ru yuè;qu huā;cb yuán;wy	160
 仙乐健康	siān;ru yuè;px jiàn;ry kāng;gl	45
@@ -252096,9 +251986,6 @@ sort: by_weight
 湘赣战役	siāng;do gàn;lb zhàn;vg yì;ru	238
 想干这个	siǎng;ax gàn;au zhè;zw ge;rl	400
 相干状态	siāng;ao gān;au zhuàng;lq tài;tx	130
-香港残疾	xiāng;ho gǎng;ds cán;dj zií;bu	338
-香港电讯	xiāng;ho gǎng;ds diàn;ov sǜn;yu	9
-香港歌星	xiāng;ho gǎng;ds gē;kq sīng;ou	396
 香港国际	xiāng;ho gǎng;ds guó;wy ziì;eu	1112
 香港奖项	xiāng;ho gǎng;ds ziǎng;ld xiàng;gy	144
 香港浸会	xiāng;ho gǎng;ds zìn;dy huì;ry	1102
@@ -252596,7 +252483,6 @@ sort: by_weight
 相互隔离	siāng;ao hù;ah gé;eg lí;wn	639
 相互给付	siāng;ao hù;ah gěi;sk fù;rc	50
 相互攻击	siāng;ao hù;ah gōng;gw jī;fk	644
-象湖公园	siàng;du hú;do gōng;bs yuán;wy	256
 相互勾结	siāng;ao hù;ah gōu;bs jié;sk	626
 相互沟通	siāng;ao hù;ah gōu;dg tōng;zy	188
 相互鼓劲	siāng;ao hù;ah gǔ;tv jìn;jl	19
@@ -253379,7 +253265,6 @@ sort: by_weight
 想欺负我	siǎng;ax qī;cq fu;db wǒ;ga	482
 象棋高手	siàng;du qí;ab gāo;wk shǒu;pf	495
 想起个事	siǎng;ax qǐ;tj gè;rl shì;gy	35
-象棋公园	siàng;du qí;ab gōng;bs yuán;wy	117
 想起过往	siǎng;ax qǐ;tj guò;zc wǎng;rv	500
 象棋技巧	siàng;du qí;ab jì;fv qiǎo;gk	396
 相七进九	siāng;ao ciī;av zìn;zj jiǔ;pv	99
@@ -253585,8 +253470,6 @@ sort: by_weight
 象山宾馆	siàng;du shān;kl bīn;bb guǎn;ul	76
 象山大道	siàng;du shān;kl dà;ar dào;zz	201
 象山定塘	siàng;du shān;kl dìng;bz táng;tk	76
-象山公园	siàng;du shān;kl gōng;bs yuán;wy	20
-相山公园	siāng;ao shān;kl gōng;bs yuán;wy	18
 象山海关	siàng;du shān;kl hǎi;dm guān;bt	144
 象山海鲜	siàng;du shān;kl hǎi;dm siān;yy	441
 象山和通	siàng;du shān;kl hé;hk tōng;zy	130
@@ -254359,7 +254242,6 @@ sort: by_weight
 香雪八路	xiāng;ho süě;ye bā;pn lù;zk	76
 想学编程	siǎng;ax xué;xz biān;sc chéng;hw	572
 香雪大道	xiāng;ho süě;ye dà;ar dào;zz	248
-香雪公园	xiāng;ho süě;ye gōng;bs yuán;wy	3
 想学剑仙	siǎng;ax xué;xz jiàn;qd siān;ru	162
 香雪帘栊	xiāng;ho süě;ye lián;bj lóng;al	117
 香雪面粉	xiāng;ho süě;ye miàn;ao fěn;mf	194
@@ -254394,7 +254276,6 @@ sort: by_weight
 想养宠物	siǎng;ax yǎng;yl chǒng;bl wù;nw	459
 像样的路	siàng;ru yàng;ay de;bu lù;zk	324
 襄阳风云	siāng;yf yáng;eo fēng;jx yún;ag	189
-襄阳公园	siāng;yf yáng;eo gōng;bs yuán;wy	6
 襄阳寒食	siāng;yf yáng;eo hán;bd shí;rg	171
 襄阳交通	siāng;yf yáng;eo jiāo;wf tōng;zy	130
 襄阳军事	siāng;yf yáng;eo jūn;bi shì;gy	45
@@ -254631,7 +254512,6 @@ sort: by_weight
 象屿都城	siàng;du yǔ;uy dū;le chéng;ti	76
 向隅独泣	xiàng;pk yú;ed dú;qi ciì;dl	45
 向隅而泣	xiàng;pk yú;ed ér;al ciì;dl	306
-翔宇公园	siáng;yx yǔ;by gōng;bs yuán;wy	99
 象屿股份	siàng;du yǔ;uy gǔ;ou fèn;rf	608
 享誉国际	xiǎng;wz yù;xk guó;wy ziì;eu	666
 翔宇化工	siáng;yx yǔ;by huà;rb gōng;aa	4
@@ -257376,7 +257256,6 @@ sort: by_weight
 小山背后	siǎo;lb shān;kl bèi;bo hòu;ik	171
 小山村里	siǎo;lb shān;kl cūn;ac lǐ;tt	626
 小善大爱	siǎo;lb shàn;yk dà;ar ài;vy	351
-小山公园	siǎo;lb shān;kl gōng;bs yuán;wy	202
 萧山广播	siāo;cb shān;kl guǎng;di bō;ft	315
 小山和尚	siǎo;lb shān;kl hé;hk shang;xk	76
 小山画谱	siǎo;lb shān;kl huà;at pǔ;yo	144
@@ -259783,7 +259662,6 @@ sort: by_weight
 新安大桥	sīn;lt ān;bn dà;ar qiáo;al	189
 新安大厦	sīn;lt ān;bn dà;ar shà;iw	4
 新安东路	sīn;lt ān;bn dōng;ax lù;zk	189
-新安公园	sīn;lt ān;bn gōng;bs yuán;wy	220
 新安公主	sīn;lt ān;bn gōng;bs zhǔ;wt	369
 新安股份	sīn;lt ān;bn gǔ;ou fèn;rf	13
 新安广场	sīn;lt ān;bn guǎng;di chǎng;tp	117
@@ -259935,7 +259813,6 @@ sort: by_weight
 新编辑部	sīn;lt biān;sc zií;ie bù;le	477
 新变种人	sīn;lt biàn;wy zhǒng;hv rén;pn	72
 新标签页	sīn;lt biāo;au ciān;vq yè;ab	477
-新滨公园	sīn;lt bīn;db gōng;bs yuán;wy	99
 新宾满族	sīn;lt bīn;bb mǎn;dl zú;fu	432
 新兵报到	sīn;lt bīng;qb bào;fy dào;gd	266
 新兵蛋子	sīn;lt bīng;qb dàn;zi zi;la	377
@@ -260025,7 +259902,6 @@ sort: by_weight
 新昌东路	sīn;lt chāng;oo dōng;ax lù;zk	99
 心长发短	sīn;dd cháng;pn fà;fy duǎn;ub	4
 新昌高腔	sīn;lt chāng;oo gāo;wk qiāng;og	144
-新昌公园	sīn;lt chāng;oo gōng;bs yuán;wy	4
 心肠狠毒	sīn;dd cháng;op hěn;qg dú;fm	382
 心肠火热	sīn;dd cháng;op huǒ;br rè;fh	99
 新昌集团	sīn;lt chāng;oo zií;ra tuán;wc	310
@@ -261101,7 +260977,6 @@ sort: by_weight
 新海大道	sīn;lt hǎi;dm dà;ar dào;zz	338
 新海大厦	sīn;lt hǎi;dm dà;ar shà;iw	76
 辛亥革命	sīn;lu hài;wr gé;cu mìng;re	1265
-新海公园	sīn;lt hǎi;dm gōng;bs yuán;wy	117
 新海股份	sīn;lt hǎi;dm gǔ;ou fèn;rf	706
 心海广场	sīn;dd hǎi;dm guǎng;di chǎng;tp	356
 心海假日	sīn;dd hǎi;dm jià;ry rì;wa	144
@@ -261253,8 +261128,6 @@ sort: by_weight
 新宏泽应	sīn;lt hóng;bs zé;df yīng;ga	76
 新湖大道	sīn;lt hú;do dà;ar dào;zz	238
 心虎耳草	sīn;dd hǔ;hj ěr;ol cǎo;cu	76
-心湖公园	sīn;dd hú;do gōng;bs yuán;wy	207
-新湖公园	sīn;lt hú;do gōng;bs yuán;wy	160
 新湖花园	sīn;lt hú;do huā;cb yuán;wy	45
 新壶老酒	sīn;lt hú;ty lǎo;lb ziǔ;dy	50
 新互联网	sīn;lt hù;ah lián;et wǎng;kx	760
@@ -261280,7 +261153,6 @@ sort: by_weight
 新华副食	sīn;lt huá;ru fù;ad shí;rg	163
 新化公安	sīn;lt huà;rb gōng;bs ān;bn	45
 新化工厂	sīn;lt huà;rb gōng;aa chǎng;ap	180
-新华公园	sīn;lt huá;ru gōng;bs yuán;wy	25
 新化股份	sīn;lt huà;rb gǔ;ou fèn;rf	45
 新华旱闸	sīn;lt huá;ru hàn;og zhá;mj	45
 新华航空	sīn;lt huá;ru háng;vj kōng;bg	454
@@ -261875,7 +261747,6 @@ sort: by_weight
 心惊胆跳	sīn;dd jīng;xx dǎn;od tiào;zv	13
 心惊胆战	sīn;dd jīng;xx dǎn;od zhàn;vg	1027
 心旌动摇	sīn;dd zīng;fu dòng;yl yáo;ff	189
-新泾公园	sīn;lt jīng;dj gōng;bs yuán;wy	230
 新景花园	sīn;lt jǐng;ox huā;cb yuán;wy	162
 新经济股	sīn;lt jīng;sj ziì;dq gǔ;ou	482
 新经纪人	sīn;lt jīng;sj jì;sj rén;pn	446
@@ -262144,7 +262015,6 @@ sort: by_weight
 新乐小区	sīn;lt lè;px siǎo;lb qū;kx	284
 新乐遗址	sīn;lt lè;px yí;zb zhǐ;tv	378
 新乐一中	sīn;lt lè;px yī;aa zhōng;kl	45
-新蕾公园	sīn;lt lěi;ct gōng;bs yuán;wy	202
 鑫磊集团	xīn;jj lěi;uu zií;ra tuán;wc	45
 心里暗骂	sīn;dd lǐ;tt àn;oo mà;xm	702
 心理暗示	sīn;dd lǐ;wl àn;oo shì;ex	2079
@@ -262964,7 +262834,6 @@ sort: by_weight
 心平气静	sīn;dd píng;au qì;pv zìng;fy	28
 新平一中	sīn;lt píng;au yī;aa zhōng;kl	45
 新浦大厦	sīn;lt pǔ;df dà;ar shà;iw	45
-新浦公园	sīn;lt pǔ;df gōng;bs yuán;wy	99
 新浦花园	sīn;lt pǔ;df huā;cb yuán;wy	212
 新普力马	sīn;lt pǔ;bo lì;vp mǎ;va	99
 新浦磷矿	sīn;lt pǔ;df lín;uf kuàng;ug	45
@@ -264504,7 +264373,6 @@ sort: by_weight
 信心更足	sìn;rk sīn;dd gèng;an zú;kz	432
 新新公路	sīn;lt sīn;lt gōng;bs lù;zk	180
 新新公寓	sīn;lt sīn;lt gōng;bs yù;bd	230
-新新公园	sīn;lt sīn;lt gōng;bs yuán;wy	117
 鑫新股份	xīn;jj sīn;lt gǔ;ou fèn;rf	162
 新新广场	sīn;lt sīn;lt guǎng;di chǎng;tp	76
 信心花舍	sìn;rk sīn;dd huā;cb shě;rg	261
@@ -264607,7 +264475,6 @@ sort: by_weight
 新型工业	sīn;lt xíng;kt gōng;aa yè;la	40
 新型工艺	sīn;lt xíng;kt gōng;aa yì;cv	274
 新兴工艺	sīn;lt xīng;xb gōng;aa yì;cv	99
-新兴公园	sīn;lt xīng;xb gōng;bs yuán;wy	162
 新型狗皮	sīn;lt xíng;kt gǒu;qj pí;py	45
 新型管材	sīn;lt xíng;kt guǎn;vl cái;ac	202
 新兴广场	sīn;lt xīng;xb guǎng;di chǎng;tp	130
@@ -265683,7 +265550,6 @@ sort: by_weight
 新专辑中	sīn;lt zhuān;ts zií;ie zhōng;kl	657
 新传媒报	sīn;lt zhuàn;rv méi;na bào;fy	130
 心转物移	sīn;dd zhuǎn;iv wù;nw yí;hx	50
-莘庄公园	sīn;cx zhuāng;gt gōng;bs yuán;wy	333
 心状梨叶	sīn;dd zhuàng;lq lí;ha yè;ku	76
 辛庄路口	sīn;lu zhuāng;gt lù;zk kǒu;la	418
 新庄路口	sīn;lt zhuāng;gt lù;zk kǒu;la	4
@@ -266122,7 +265988,6 @@ sort: by_weight
 醒过来后	sǐng;yu guò;zc lái;aa hòu;ik	41
 醒过来了	sǐng;yu guò;zc lái;aa le;al	251
 星海大观	sīng;ou hǎi;dm dà;ar guān;yj	50
-星海公园	sīng;ou hǎi;dm gōng;bs yuán;wy	25
 星海广场	sīng;ou hǎi;dm guǎng;di chǎng;tp	78
 星海虹城	sīng;ou hǎi;dm hóng;ig chéng;ti	4
 星海华庭	sīng;ou hǎi;dm huá;ru tíng;gw	189
@@ -267703,7 +267568,6 @@ sort: by_weight
 秀你一脸	siù;hn nǐ;rx yì;aa liǎn;oq	261
 绣娘兰馨	siù;sn niáng;nl lán;bs xīn;to	180
 修女与鱼	siū;rp nǚ;va yǔ;va yú;da	117
-绣屏公园	siù;sn píng;uk gōng;bs yuán;wy	4
 秀珀化工	siù;hn pò;wb huà;rb gōng;aa	4
 秀泊经典	siù;hn pō;db jīng;sj diǎn;qb	76
 修颇瓦法	siū;rp pō;py wǎ;ad fǎ;dq	76
@@ -267736,8 +267600,6 @@ sort: by_weight
 秀色直播	siù;hn sè;db zhí;uq bō;ft	153
 修善断恶	siū;rp shàn;yk duàn;vt è;yx	130
 修缮工程	siū;rp shàn;sk gōng;aa chéng;hw	38
-秀山公园	siù;hn shān;kl gōng;bs yuán;wy	284
-绣山公园	siù;sn shān;kl gōng;bs yuán;wy	171
 秀山花灯	siù;hn shān;kl huā;cb dēng;hd	220
 秀山花园	siù;hn shān;kl huā;cb yuán;wy	76
 秀山丽水	siù;hn shān;kl lí;ad shuǐ;ln	346
@@ -269852,8 +269714,6 @@ sort: by_weight
 学分绩点	xué;xz fēn;bd ziì;sb diǎn;vh	138
 雪封草地	süě;ye fēng;tc cǎo;cu dì;ty	45
 雪峰大道	süě;ye fēng;uf dà;ar dào;zz	45
-雪峰公园	süě;ye fēng;uf gōng;bs yuán;wy	180
-雪枫公园	süě;ye fēng;af gōng;bs yuán;wy	65
 雪峰科技	süě;ye fēng;uf kē;hd jì;fv	351
 雪峰路口	süě;ye fēng;uf lù;zk kǒu;la	45
 雪峰毛尖	süě;ye fēng;uf máo;pv ziān;xd	189
@@ -274514,7 +274374,7 @@ sort: by_weight
 一九六七	yī;aa jiǔ;pv liù;wb ciī;av	3
 一九七八	yī;aa jiǔ;pv ciī;av bā;pn	3
 一九七二	yī;aa jiǔ;pv ciī;av èr;aa	3
-一九七九	yī;aa jiǔ;pv ciī;av jiǔ;pv	1030
+一九七九	yī;aa jiǔ;pv ciī;av jiǔ;pv	10
 一九七零	yī;aa jiǔ;pv ciī;av líng;ys	3
 一九七六	yī;aa jiǔ;pv ciī;av liù;wb	3
 一九七七	yī;aa jiǔ;pv ciī;av ciī;av	9
@@ -274526,7 +274386,7 @@ sort: by_weight
 一九三七	yī;aa jiǔ;pv sān;ae ciī;av	3
 一就是一	yí;aa ziù;wy shì;oz yī;aa	122
 一就手儿	yí;aa ziù;wy shǒu;pf ér;pv	153
-一九四七	yī;aa jiǔ;pv sì;we ciī;av	1008
+一九四七	yī;aa jiǔ;pv sì;we ciī;av	10
 以酒为池	yǐ;lr ziǔ;dy wéi;ld chí;dy	243
 以酒为媒	yǐ;lr ziǔ;dy wéi;ld méi;na	252
 一九五七	yī;aa jiǔ;pv wǔ;aw ciī;av	6
@@ -278373,7 +278233,6 @@ sort: by_weight
 拥挤不堪	yōng;fy ziǐ;fq bù;ab kān;tb	254
 永济道情	yǒng;du ziì;dq dào;zz cíng;xo	171
 拥挤定价	yōng;fy ziǐ;fq dìng;bz jià;rj	45
-永济公园	yǒng;du ziì;dq gōng;bs yuán;wy	45
 镛记酒家	yōng;jo jì;yj ziǔ;dy jiā;bu	324
 用济南话	yòng;kf ziǐ;dq nán;ug huà;yu	202
 永济西路	yǒng;du ziì;dq siī;ak lù;zk	50
@@ -280595,7 +280454,6 @@ sort: by_weight
 玉泉趵突	yù;wd cüán;bu bào;zu tū;bq	288
 玉泉北里	yù;wd cüán;bu běi;lb lǐ;tt	194
 玉泉垂虹	yù;wd cüán;bu chuí;qt hóng;ig	256
-玉泉公园	yù;wd cüán;bu gōng;bs yuán;wy	248
 玉泉广场	yù;wd cüán;bu guǎng;di chǎng;tp	4
 昱泉国际	yù;ol cüán;bu guó;wy ziì;eu	346
 御泉花园	yù;re cüán;bu huā;cb yuán;wy	50
@@ -280737,7 +280595,6 @@ sort: by_weight
 豫西地区	yù;yu siī;ak dì;ty qū;kx	143
 预习复习	yù;yy sií;vd fù;pw sií;vd	608
 渝西高铁	yú;dd siī;ak gāo;wk tiě;jf	207
-裕西公园	yù;pg siī;ak gōng;bs yuán;wy	324
 渝西广场	yú;dd siī;ak guǎng;di chǎng;tp	144
 玉溪将军	yù;wd xī;dd ziāng;lc jūn;bi	4
 玉溪经济	yù;wd xī;dd jīng;sj ziì;dq	153
@@ -281776,7 +281633,6 @@ sort: by_weight
 越新越好	yuè;tl sīn;lt yuè;tl hǎo;nz	151
 月心坐标	yuè;ke sīn;dd zuò;tr biāo;au	4
 月星家居	yuè;ke sīng;ou jiā;bu jū;ug	490
-越秀公园	yuè;tl siù;hn gōng;bs yuán;wy	38
 粤秀连峰	yuè;pk siù;hn lián;zi fēng;uf	99
 越秀路街	yuè;tl siù;hn lù;zk jiē;rt	220
 越秀区府	yuè;tl siù;hn qū;kx fǔ;gc	171
@@ -283812,7 +283668,6 @@ sort: by_weight
 照相测光	zhào;oh siàng;ao cè;dd guāng;xe	50
 照相底板	zhào;oh siàng;ao dǐ;gu bǎn;ay	202
 兆祥东路	zhào;ed siáng;py dōng;ax lù;zk	76
-兆祥公园	zhào;ed siáng;py gōng;bs yuán;wy	180
 照相红外	zhào;oh siàng;ao hóng;sg wài;xb	117
 照相记录	zhào;oh siàng;ao jì;yj lù;eu	225
 照相留念	zhào;oh siàng;ao liú;pt niàn;rx	472
@@ -289306,7 +289161,6 @@ sort: by_weight
 诸位先生	zhū;yo wèi;rl siān;ne shēng;pf	60
 猪瘟疫情	zhū;qo wēn;bm yì;bu cíng;xo	477
 竹西歌吹	zhú;gg siī;ak gē;kq chuī;kq	144
-竹西公园	zhú;gg siī;ak gōng;bs yuán;wy	99
 竹西佳处	zhú;gg siī;ak jiā;rt chù;wb	324
 竹溪酒家	zhú;gg xī;dd ziǔ;dy jiā;bu	212
 主席声明	zhǔ;wt sií;gj shēng;tu míng;oo	423
