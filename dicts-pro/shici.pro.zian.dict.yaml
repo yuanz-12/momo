@@ -3554,6 +3554,7 @@ sort: by_weight
 伫立以泣	zhù;rv lì;wb yǐ;lr ciì;dl	10
 诸人清绝	zhū;yo rén;pn cīng;do züé;sb	10
 竹下把酒	zhú;gg xià;ab bǎ;fb ziǔ;dy	10
+朱颜酡些	zhū;pw yán;wy tuó;yb siē;ve	7
 珠玉不鲜	zhū;ww yù;wd bù;ab siān;yy	10
 朱紫相合	zhū;pw zǐ;vx siāng;ao hé;rk	10
 转而攻秦	zhuǎn;iv ér;al gōng;gw cín;ih	44
@@ -17679,11 +17680,6 @@ sort: by_weight
 杭土丽且康	háng;aj tǔ;ua lì;ad ciě;oa kāng;gl	10
 杭州苏小小	háng;aj zhōu;dl sū;cb siǎo;lb siǎo;lb	10
 杭州五千里	háng;aj zhōu;dl wǔ;aw ciān;pu lǐ;tt	10
-行子悲且慕	háng;rd zǐ;la bēi;fx ciě;oa mù;cx	10
-行子愁归旋	háng;rd zǐ;la chóu;hx guī;le süán;fz	10
-行子但悲辛	háng;rd zǐ;la dàn;rd bēi;fx sīn;lu	10
-行子未须归	háng;rd zǐ;la wèi;aa sǖ;py guī;le	10
-行子心纡郁	háng;rd zǐ;la sīn;dd yū;sy yù;ue	10
 好卜迎秋宴	hǎo;nz bo;ld yíng;ze ciū;hh yàn;bn	10
 好差青鸟使	hǎo;nz chà;yg cīng;fo niǎo;na shǐ;rl	10
 豪持出塞节	háo;wu chí;fc chū;uu sài;bt zié;ce	10
@@ -62271,7 +62267,12 @@ sort: by_weight
 性拙偶从宦	sìng;xu zhuō;fi ǒu;rd cóng;rr huàn;bi	10
 性拙身多暇	sìng;xu zhuō;fi shēn;zc duō;xx xiá;oy	10
 性拙易迟回	sìng;xu zhuō;fi yì;ow chí;zi huí;wk	10
+行子悲且慕	xíng;rd zǐ;la bēi;fx ciě;oa mù;cx	10
+行子愁归旋	xíng;rd zǐ;la chóu;hx guī;le süán;fz	10
+行子但悲辛	xíng;rd zǐ;la dàn;rd bēi;fx sīn;lu	10
 行自丘山积	xíng;rd zì;po qiū;ia shān;kl ziī;hv	10
+行子未须归	xíng;rd zǐ;la wèi;aa sǖ;py guī;le	10
+行子心纡郁	xíng;rd zǐ;la sīn;dd yū;sy yù;ue	10
 性足无夭阏	sìng;xu zú;kz wú;ay yāo;pd è;md	10
 醒醉动笑吟	sǐng;yu zuì;yu dòng;yl siào;vy yín;kv	10
 醒醉各相扶	sǐng;yu zuì;yu gè;wk siāng;ao fú;ff	10
@@ -81292,9 +81293,9 @@ sort: by_weight
 到大啁啾解游飏	dào;gd dà;ar zhōu;kk ziū;kh jiě;dn yóu;dz yáng;fp	10
 道德无多只本心	dào;zz dé;rx wú;ay duō;xx zhī;kb běn;aa sīn;dd	10
 到而今春华落尽	dào;gd ér;al jīn;rv chūn;io huā;ru luò;ck zìn;id	10
-道逢行子不相识	dào;zz féng;zf háng;rd zǐ;la bù;ab siāng;ao shí;yv	10
 道逢耦耕试借问	dào;zz féng;zf ǒu;ld gēng;lj shì;yg ziè;ro wèn;mk	10
 道逢麹车口流涎	dào;zz féng;zf qū;fm chē;au kǒu;la liú;di sián;dv	10
+道逢行子不相识	dào;zz féng;zf xíng;rd zǐ;la bù;ab siāng;ao shí;yv	10
 道甫问信今何如	dào;zz fǔ;uy wèn;mk sìn;rk jīn;rv hé;rk rú;nk	10
 道骨虽清不畏寒	dào;zz gǔ;go suī;ki cīng;do bú;ab wèi;ty hán;bd	10
 倒挂绝壁蹙枯枝	dào;rd guà;ft züé;sb bì;ut cù;gz kū;ag zhī;av	10
@@ -85225,8 +85226,6 @@ sort: by_weight
 迒蹊巢穴尽窒塞	háng;zj xī;zd cháo;vg xué;bb zìn;id zhì;bt sāi;bt	10
 杭越风光诗酒主	háng;aj yuè;tl fēng;jx guāng;xe shī;yc ziǔ;dy zhǔ;wt	10
 杭州潮水霜雪屯	háng;aj zhōu;dl cháo;do shuǐ;ln shuāng;yo süě;ye tún;av	10
-行子不须愁夜泊	háng;rd zǐ;la bù;ab sǖ;py chóu;hx yè;ww pō;db	10
-行子隔手不相见	háng;rd zǐ;la gé;eg shǒu;pf bù;ab siāng;ao jiàn;ke	10
 好把身心清净处	hǎo;nz bǎ;fb shēn;zc sīn;dd cīng;do zìng;dy chù;wb	10
 好把真经相对翻	hǎo;nz bǎ;fb zhēn;ub jīng;sj siāng;ao duì;yc fān;mx	10
 好处徘徊驻飞锡	hǎo;nz chù;wb pái;rf huái;rk zhù;mv fēi;vd siī;jw	10
@@ -92530,7 +92529,6 @@ sort: by_weight
 洛阳宫殿烧焚尽	luò;dk yáng;eo gōng;bk diàn;uu shāo;hw fén;ah zìn;id	10
 洛阳宫观与天齐	luò;dk yáng;eo gōng;bk guàn;yj yǔ;va tiān;ad cií;wl	10
 洛阳冠盖自相索	luò;dk yáng;eo guān;bc gài;ym zì;po siāng;ao suǒ;ux	10
-洛阳行子空叹息	luò;dk yáng;eo háng;rd zǐ;la kōng;bg tàn;ky siī;zx	10
 洛阳禾稼如秋云	luò;dk yáng;eo hé;pa jià;hu rú;nk ciū;hh yún;ag	10
 洛阳花雪梦随君	luò;dk yáng;eo huā;cb süě;ye mèng;ax suí;eo jūn;yk	10
 洛阳羁旅复秦关	luò;dk yáng;eo jī;sm lǚ;fy fù;pw cín;ih guān;bt	10
@@ -92551,6 +92549,7 @@ sort: by_weight
 洛阳西顾日增悲	luò;dk yáng;eo siī;ak gù;iy rì;wa zēng;to bēi;fx	10
 洛阳相君忠孝家	luò;dk yáng;eo siāng;ao jūn;yk zhōng;vx xiào;lz jiā;bu	10
 洛阳新月动秋砧	luò;dk yáng;eo sīn;lt yuè;ke dòng;yl ciū;hh zhēn;uv	10
+洛阳行子空叹息	luò;dk yáng;eo xíng;rd zǐ;la kōng;bg tàn;ky siī;zx	10
 洛阳堰上新晴日	luò;dk yáng;eo yàn;tn shàng;ba sīn;lt cíng;oo rì;wa	10
 洛阳遥想桃源隔	luò;dk yáng;eo yáo;zf siǎng;ax táo;av yuán;dx gé;eg	10
 洛阳一别梨花新	luò;dk yáng;eo yì;aa bié;kd lí;ha huā;cb sīn;lt	10
@@ -108755,6 +108754,8 @@ sort: by_weight
 性滞偏工呕酸冷	sìng;xu zhì;dj piān;rc gōng;aa ǒu;kq suān;yw lěng;ds	10
 行中第一争先舞	xíng;rd zhōng;kl dì;vd yī;aa zhēng;dy siān;ne wǔ;pf	10
 行追西路聊班草	xíng;rd zhuī;zl siī;ak lù;zk liáo;ee bān;wl cǎo;cu	10
+行子不须愁夜泊	xíng;rd zǐ;la bù;ab sǖ;py chóu;hx yè;ww pō;db	10
+行子隔手不相见	xíng;rd zǐ;la gé;eg shǒu;pf bù;ab siāng;ao jiàn;ke	10
 姓字今为第几仙	sìng;nu zì;bz jīn;rv wéi;ld dì;vd jǐ;pv siān;ru	10
 幸奏潇湘云壑意	xìng;tg zòu;it siāo;db siāng;do yún;ag hè;bt yì;lx	10
 形阻江山想神遇	xíng;kp zǔ;eq jiāng;dg shān;kl siǎng;ax shén;pu yù;zd	10
