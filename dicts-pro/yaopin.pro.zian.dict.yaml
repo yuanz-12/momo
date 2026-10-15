@@ -7,86 +7,1448 @@ name: yaopin.zian
 version: "LTS"
 sort: by_weight
 ...
-丹七片	dān;kd ciī;av piàn;pv	10
+阿莫仙	ā;ek mò;cd siān;ru	387
+安必仙	ān;bn bì;xp siān;ru	225
+奥复星	ào;pd fù;pw sīng;ou	230
+奥硝唑	ào;pd siāo;uo zuò;kr	25
+拜宠清	bài;uf chǒng;bl cīng;do	297
+败酱片	bài;bw ziàng;ly piàn;pv	45
+白前汤	bái;po cián;bd tāng;dp	45
+白消安	bái;po siāo;do ān;bn	3
+百消丹	bǎi;ab siāo;do dān;kd	248
+拜新同	bài;uf sīn;lt tóng;kk	9
+百药煎	bǎi;ab yào;cu ziān;bh	162
+保济丸	bǎo;ra ziì;dq wán;jd	22
+胞浆素	bāo;ob ziāng;lu sù;fx	284
+保心包	bǎo;ra sīn;dd bāo;bs	315
+保阴煎	bǎo;ra yīn;eo ziān;bh	162
+痹冲剂	bì;bw chōng;dv ziì;qd	4
+吡多辛	bǐ;kb duō;xx sīn;lu	4
+吡嗪肼	bǐ;kb cín;kh zǐng;oj	45
+鼻眼净	bí;zw yǎn;og zìng;dy	302
+丙米嗪	bǐng;an mǐ;ba cín;kh	57
+丙咪嗪	bǐng;an mī;km cín;kh	51
+柴平煎	chái;va píng;au ziān;bh	45
+肠虫清	cháng;op chóng;vd cīng;do	41
+川芎嗪	chuān;pl xiōng;cg cín;kh	9
+黛力新	dài;rh lì;vp sīn;lt	25
+丹七片	dān;kd ciī;av piàn;pv	99
+地高辛	dì;ty gāo;wk sīn;lu	66
+地西泮	dì;ty siī;ak pàn;db	122
+滴牙剂	dī;dg yá;gp ziì;qd	76
+滴眼剂	dī;dg yǎn;og ziì;qd	13
+碘西尼	diǎn;ub siī;ak ní;ub	144
+跌打酒	diē;zf dǎ;fd ziǔ;dy	315
+肚脐贴	dù;ot cií;oq tiē;bv	482
+多贝西	duō;xx bèi;kr siī;ak	338
+二氮嗪	èr;aa dàn;qh cín;kh	6
+二仙汤	èr;aa siān;ru tāng;dp	3
+菲洛嗪	fēi;cf luò;dk cín;kh	90
+奋乃静	fèn;dt nǎi;pv zìng;fy	44
+风油精	fēng;jx yóu;dy zīng;mo	895
+肤疾宁	fū;of zií;bu níng;bd	266
+氟嗪酸	fú;qf cín;kh suān;yw	310
+氟沙星	fú;qf shā;du sīng;ou	16
+氟西泮	fú;qf siī;ak pàn;db	209
+氟西汀	fú;qf siī;ak tīng;dd	267
 复心片	fù;pw sīn;dd piàn;pv	10
+甘草锌	gān;ca cǎo;cu sīn;jx	324
+肝复新	gān;og fù;pw sīn;lt	45
+疳积散	gān;bg ziī;hv sàn;cw	207
+肝浸膏	gān;og zìn;dy gāo;wo	74
+甘油剂	gān;ca yóu;dy ziì;qd	180
+格列净	gé;ak liè;dd zìng;dy	9
+固精丸	gù;wg zīng;mo wán;jd	436
+固阴煎	gù;wg yīn;eo ziān;bh	99
+胍法辛	guā;og fǎ;dq sīn;lu	338
+栝蒌煎	guā;au lóu;cn ziān;bh	45
+灌肠剂	guàn;dv cháng;op ziì;qd	194
+灌洗液	guàn;dv siǐ;de yè;dw	378
+冠心宁	guān;bc sīn;dd níng;bd	76
+冠心丸	guān;bc sīn;dd wán;jd	4
+龟龄集	guī;dd líng;vs zií;ra	3
+桂心汤	guì;at sīn;dd tāng;dp	45
+桂星散	guì;at sīng;ou sàn;cw	45
+国公酒	guó;wy gōng;bs ziǔ;dy	3
+海青丸	hǎi;dm cīng;fo wán;jd	90
+含漱剂	hán;rk shù;dq ziì;qd	185
+黑锡丹	hēi;lh siī;jw dān;kd	220
+缓心舒	huǎn;sy sīn;dd shū;ry	90
+磺达嗪	huáng;ub dá;zd cín;kh	50
+黄芪精	huáng;cb qí;cu zīng;mo	274
+济川煎	ziì;dq chuān;pl ziān;bh	3
+积块丸	ziī;hv kuài;tg wán;jd	90
+积施利	ziī;hv shī;fy lì;hd	142
+吉妥辛	jí;tk tuǒ;vn sīn;lu	45
+吉祥丸	jí;tk siáng;py wán;jd	230
+积雪苷	ziī;hv süě;ye gān;cg	288
+浆水散	ziāng;lu shuǐ;ln sàn;cw	4
+降纤酶	jiàng;ef siān;sq méi;ym	212
+椒梅汤	ziāo;ay méi;am tāng;dp	45
 接骨片	ziē;fn gǔ;go piàn;pv	10
-癃清片	lóng;bu cīng;do piàn;pv	10
-平消片	píng;au siāo;do piàn;pv	10
-清肝片	cīng;do gān;og piàn;pv	10
+接骨散	ziē;fn gǔ;go sàn;cw	356
+解酒灵	jiě;dn ziǔ;dy líng;eh	225
+戒酒硫	jiè;gc ziǔ;dy liú;ui	360
+捷君宁	zié;fz jūn;yk níng;bd	90
+捷诺维	zié;fz nuò;yk wéi;sv	180
+肼嘌啉	zǐng;oj piào;ku lín;ka	90
+肼屈嗪	zǐng;oj qū;ui cín;kh	6
+酒积丸	ziǔ;dy ziī;hv wán;jd	45
+九仙散	jiǔ;pv siān;ru sàn;cw	50
+救心丹	jiù;qw sīn;dd dān;kd	396
+救心汤	jiù;qw sīn;dd tāng;dp	230
+救心丸	jiù;qw sīn;dd wán;jd	126
+酒症丸	ziǔ;dy zhèng;bv wán;jd	90
+聚肌胞	zǜ;eu jī;oj bāo;ob	428
+举元煎	jǔ;xf yuán;aw ziān;bh	144
+浚川散	zǜn;dw chuān;pl sàn;cw	4
+浚血丸	zǜn;dw xuè;pm wán;jd	45
+卡西酮	kǎ;ub siī;ak tóng;yk	572
+康复新	kāng;gl fù;pw sīn;lt	522
+抗血清	kàng;fj xuè;pm cīng;do	16
+咳必清	ké;kr bì;xp cīng;do	9
+可立清	kě;dk lì;wb cīng;do	90
+控涎丹	kòng;fg sián;dv dān;kd	50
+控涎汤	kòng;fg sián;dv tāng;dp	45
+苦酒汤	kǔ;cg ziǔ;dy tāng;dp	162
+坤净栓	kūn;tu zìng;dy shuān;aw	50
+辣椒酊	là;xu ziāo;ay dīng;yd	300
+赖西丁	lài;ub siī;ak dīng;al	90
+兰菌净	lán;bs jūn;ch zìng;dy	459
+雷锁辛	léi;yt suǒ;jb sīn;lu	338
+雷琐辛	léi;yt suǒ;wb sīn;lu	266
+利福新	lì;hd fú;pt sīn;lt	45
+力月西	lì;vp yuè;ke siī;ak	3
+癃清片	lóng;bu cīng;do piàn;pv	117
+鹿茸精	lù;gb róng;ce zīng;mo	274
+洛汀新	luò;dk tīng;dd sīn;lt	342
+慢心律	màn;xy sīn;dd lǜ;ry	310
+美齐特	měi;yd cií;wl tè;nc	4
+美西律	měi;yd siī;ak lǜ;ry	328
+秘精丸	mì;hb zīng;mo wán;jd	45
+秘元煎	mì;hb yuán;aw ziān;bh	45
+脑复新	nǎo;ox fù;pw sīn;lt	243
+脑乐静	nǎo;ox lè;px zìng;fy	130
+脑心通	nǎo;ox sīn;dd tōng;zy	31
+脑益嗪	nǎo;ox yì;bm cín;kh	288
+能全力	néng;sb cüán;rw lì;vp	644
+尿炎清	niào;uu yán;hh cīng;do	76
+浓煎剂	nóng;dy ziān;bh ziì;qd	45
+暖肝煎	nuǎn;oy gān;og ziān;bh	144
+诺沙星	nuò;yk shā;du sīng;ou	500
+藕节炭	ǒu;cd zié;ce tàn;uh	171
+哌唑嗪	pài;ky zuò;kr cín;kh	22
+疱疹净	pào;bb zhěn;bp zìng;dy	364
+佩吩嗪	pèi;rj fēn;kf cín;kh	45
+平消片	píng;au siāo;do piàn;pv	220
+普马嗪	pǔ;bo mǎ;va cín;kh	117
+七返丹	ciī;av fǎn;zy dān;kd	45
+脐风散	cií;oq fēng;jx sàn;cw	50
+七氟醚	ciī;av fú;qf mí;ym	13
+七氟烷	ciī;av fú;qf wán;hy	364
+七厘散	ciī;av lí;il sàn;cw	6
+齐留通	cií;wl liú;pt tōng;zy	180
+七星茶	ciī;av sīng;ou chá;cm	536
+七星丸	ciī;av sīng;ou wán;jd	110
+七叶素	ciī;av yè;ku sù;fx	248
+七珍丹	ciī;av zhēn;wp dān;kd	333
+千金片	ciān;pu jīn;rb piàn;pv	436
+秦桂丸	cín;ih guì;at wán;jd	45
+秦椒散	cín;ih ziāo;ay sàn;cw	45
+秦艽散	cín;ih ziāo;cj sàn;cw	38
+秦艽汤	cín;ih ziāo;cj tāng;dp	50
+秦艽丸	cín;ih ziāo;cj wán;jd	130
+清白散	cīng;do bái;po sàn;cw	100
+青草膏	cīng;fo cǎo;cu gāo;wo	378
+青黛膏	cīng;fo dài;rh gāo;wo	306
+青黛散	cīng;fo dài;rh sàn;cw	38
+青蛾丸	cīng;fo é;iw wán;jd	4
+清肺汤	cīng;do fèi;oj tāng;dp	405
+清风散	cīng;do fēng;jx sàn;cw	279
+清肝片	cīng;do gān;og piàn;pv	410
+氰钴胺	cíng;qo gǔ;jg àn;on	248
+清骨散	cīng;do gǔ;go sàn;cw	162
 青果片	cīng;fo guǒ;ta piàn;pv	10
+青蛤散	cīng;fo há;ik sàn;cw	100
 清化饮	cīng;do huà;rb yǐn;uq	84
-清火片	cīng;do huǒ;br piàn;pv	10
+清火片	cīng;do huǒ;br piàn;pv	270
 清降片	cīng;do jiàng;ef piàn;pv	10
 清解片	cīng;do jiě;dn piàn;pv	10
+清经散	cīng;do jīng;sj sàn;cw	279
+清开灵	cīng;do kāi;ac líng;eh	9
+清凉油	cīng;do liáng;dx yóu;dy	320
+清络饮	cīng;do luò;sk yǐn;uq	4
+青霉胺	cīng;fo méi;ym àn;on	19
+青霉素	cīng;fo méi;ym sù;fx	1394
+清脾汤	cīng;do pí;ou tāng;dp	45
+清热散	cīng;do rè;fh sàn;cw	500
+清胃散	cīng;do wèi;to sàn;cw	396
+清胃汤	cīng;do wèi;to tāng;dp	4
+清心丹	cīng;do sīn;dd dān;kd	392
+清心丸	cīng;do sīn;dd wán;jd	558
+清咽茶	cīng;do yàn;ky chá;cm	194
+清咽饮	cīng;do yàn;ky yǐn;uq	342
+清胰汤	cīng;do yí;oy tāng;dp	50
+清音丸	cīng;do yīn;lo wán;jd	302
+清营汤	cīng;do yíng;ck tāng;dp	220
+秋梨膏	ciū;hh lí;ha gāo;wo	608
+秋石丹	ciū;hh shí;ak dān;kd	45
+乳癖消	rǔ;vv pǐ;bx siāo;do	396
+三鞭酒	sān;ae biān;cg ziǔ;dy	374
+三勒浆	sān;ae lè;cl ziāng;lu	270
+三七粉	sān;ae ciī;av fěn;mf	338
+三七片	sān;ae ciī;av piàn;pv	446
+三清丸	sān;ae cīng;do wán;jd	230
+三仙丹	sān;ae siān;ru dān;kd	270
+瑟瑞辛	sè;wb ruì;we sīn;lu	261
+上清丸	shàng;ba cīng;do wán;jd	500
+参茸酒	shēn;sp róng;ce ziǔ;dy	558
+神犀丹	shén;pu siī;un dān;kd	4
+神犀汤	shén;pu siī;un tāng;dp	45
+神仙膏	shén;pu siān;ru gāo;wo	261
+生津丸	shēng;pf zīn;dy wán;jd	50
+生犀散	shēng;pf siī;un sàn;cw	45
+生犀饮	shēng;pf siī;un yǐn;uq	45
+失笑散	shī;pf siào;vy sàn;cw	281
+失笑丸	shī;pf siào;vy wán;jd	45
+蜀漆散	shǔ;si ciī;du sàn;cw	45
+舒心贴	shū;ry sīn;dd tiē;bv	207
+双硫醒	shuāng;yy liú;ui sǐng;yu	266
+四阴煎	sì;we yīn;eo ziān;bh	45
+缩泉丸	suō;sb cüán;bu wán;jd	9
+痰咳净	tán;bh ké;kr zìng;dy	6
+痰热清	tán;bh rè;fh cīng;do	16
+痰易净	tán;bh yì;ow zìng;dy	225
+桃仁煎	táo;av rén;re ziān;bh	153
+替硝唑	tì;fo siāo;uo zuò;kr	69
+天麻酒	tiān;ad má;ga ziǔ;dy	212
+田七粉	tián;wu ciī;av fěn;mf	306
+通心络	tōng;zy sīn;dd luò;sk	396
+通心饮	tōng;zy sīn;dd yǐn;uq	45
+通瘀煎	tōng;zy yū;bd ziān;bh	50
+涂膜剂	tú;dm mó;od ziì;qd	137
+五积散	wǔ;aw ziī;hv sàn;cw	162
+西比灵	siī;ak bǐ;bb líng;eh	9
+洗必泰	siǐ;de bì;xp tài;iu	50
+西地碘	siī;ak dì;ty diǎn;ub	3
+西地兰	siī;ak dì;ty lán;bs	22
+洗耳液	siǐ;de ěr;ol yè;dw	297
+西瓜霜	siī;ak guā;in shuāng;yo	214
+犀黄丸	siī;un huáng;cb wán;jd	360
+西黄丸	siī;ak huáng;cb wán;jd	129
+锡类散	siī;jw lèi;md sàn;cw	441
+西力欣	siī;ak lì;vp xīn;iq	266
+昔洛韦	siī;co luò;dk wéi;fv	742
+吸入剂	xī;kj rù;pn ziì;qd	91
+息斯敏	siī;zx sī;ct mǐn;pw	47
+细辛脑	siì;st sīn;lu nǎo;ox	396
+洗眼液	siǐ;de yǎn;og yè;dw	192
+西乐葆	siī;ak yuè;px bǎo;ca	119
 仙蟾片	siān;ru chán;ik piàn;pv	10
+仙风散	siān;ru fēng;jx sàn;cw	356
+仙茅汤	siān;ru máo;cm tāng;dp	4
+仙特敏	siān;ru tè;nc mǐn;pw	266
+仙特明	siān;ru tè;nc míng;oo	315
+鲜竹沥	siān;yy zhú;gg lì;dl	13
+橡皮膏	siàng;au pí;py gāo;wo	19
+祥云丹	siáng;py yún;ag dān;kd	360
+消癍散	siāo;do bān;bw sàn;cw	45
+小檗碱	siǎo;lb bò;ua jiǎn;uk	99
+消喘膏	siāo;do chuǎn;ke gāo;wo	212
+消胆胺	siāo;do dǎn;od àn;on	9
+消丹饮	siāo;do dān;kd yǐn;uq	45
+消风散	siāo;do fēng;jx sàn;cw	320
+硝呋坦	siāo;uo fū;kf tǎn;td	50
+消疳散	siāo;do gān;bg sàn;cw	45
+消谷丸	siāo;do gǔ;bk wán;jd	45
 消核片	siāo;do hé;ar piàn;pv	10
+消核散	siāo;do hé;ar sàn;cw	45
+消核丸	siāo;do hé;ar wán;jd	38
+小还丹	siǎo;lb huán;zb dān;kd	3
+消积丸	siāo;do ziī;hv wán;jd	144
+小金丹	siǎo;lb jīn;rb dān;kd	351
+小金片	siǎo;lb jīn;rb piàn;pv	238
+小金丸	siǎo;lb jīn;rb wán;jd	25
+消渴丸	siāo;do kě;dr wán;jd	22
+消疬丸	siāo;do lì;bl wán;jd	45
+消瘰丸	siāo;do luǒ;bx wán;jd	274
 消朦片	siāo;do méng;ou piàn;pv	10
-消炎片	siāo;do yán;hh piàn;pv	10
+消糜栓	siāo;do mí;gm shuān;aw	333
+小蜜丸	siǎo;lb mì;bi wán;jd	441
+消痞丸	siāo;do pǐ;bk wán;jd	153
+消癖丸	siāo;do pǐ;bx wán;jd	38
+硝普钠	siāo;uo pǔ;bo nà;jn	19
+消气散	siāo;do qì;pv sàn;cw	50
+消乳汤	siāo;do rǔ;vv tāng;dp	45
+消乳丸	siāo;do rǔ;vv wán;jd	76
+消食片	siāo;do shí;rg piàn;pv	31
+消石丸	siāo;do shí;ak wán;jd	234
+消食丸	siāo;do shí;rg wán;jd	38
+消暑丸	siāo;do shǔ;oo wán;jd	45
+消痰汤	siāo;do tán;bh tāng;dp	45
+消痛贴	siāo;do tòng;by tiē;bv	396
+硝西泮	siāo;uo siī;ak pàn;db	13
+消心痛	siāo;do sīn;dd tòng;by	9
+消血散	siāo;do xuè;pm sàn;cw	45
+消炎膏	siāo;do yán;hh gāo;wo	346
+消炎片	siāo;do yán;hh piàn;pv	16
+消炎痛	siāo;do yán;hh tòng;by	72
+逍遥散	siāo;zo yáo;zf sàn;cw	28
+逍遥丸	siāo;zo yáo;zf wán;jd	129
+消翳散	siāo;do yì;kx sàn;cw	45
 消银片	siāo;do yín;jg piàn;pv	10
+消瘿散	siāo;do yǐng;bn sàn;cw	117
+消痈汤	siāo;do yōng;by tāng;dp	4
+消瘀饮	siāo;do yū;bd yǐn;uq	45
+消胀片	siāo;do zhàng;oi piàn;pv	130
+消痔灵	siāo;do zhì;bc líng;eh	288
+消痔丸	siāo;do zhì;bc wán;jd	171
+消肿膏	siāo;do zhǒng;ov gāo;wo	14
+消肿散	siāo;do zhǒng;ov sàn;cw	522
+消肿汤	siāo;do zhǒng;ov tāng;dp	248
+泻白散	siè;dy bái;po sàn;cw	576
+泻肝丸	siè;dy gān;og wán;jd	580
+泻黄散	siè;dy huáng;cb sàn;cw	153
+泻立停	siè;dy lì;wb tíng;rd	405
+泻心汤	siè;dy sīn;dd tāng;dp	25
+心宝丸	sīn;dd bǎo;by wán;jd	202
+辛达林	sīn;lu dá;zd lín;aa	590
+心得安	sīn;dd dé;rc ān;bn	53
+信迪利	sìn;rk dí;zy lì;hd	364
+心复康	sīn;dd fù;pw kāng;gl	243
+新癀片	sīn;lt huáng;bb piàn;pv	16
+心律平	sīn;dd lǜ;ry píng;au	364
+新霉素	sīn;lt méi;ym sù;fx	19
+心钠素	sīn;dd nà;jn sù;fx	99
+心脑康	sīn;dd nǎo;ox kāng;gl	284
+新诺明	sīn;lt nuò;yk míng;oo	3
 辛芩片	sīn;lu qín;cv piàn;pv	10
+心痛定	sīn;dd tòng;by dìng;bz	9
 新雪片	sīn;lt süě;ye piàn;pv	10
+胸腺素	xiōng;ox siàn;ou sù;fx	16
+胸腺肽	xiōng;ox siàn;ou tài;ot	35
+修美乐	siū;rp měi;yd lè;px	213
+宣痹汤	süān;bd bì;bw tāng;dp	180
+宣肺散	süān;bd fèi;oj sàn;cw	342
+癣药膏	süǎn;by yào;cu gāo;wo	270
+癣药水	süǎn;by yào;cu shuǐ;ln	414
+血必净	xuè;pm bì;xp zìng;dy	19
+养心汤	yǎng;yl sīn;dd tāng;dp	230
+乙胺嗪	yǐ;vv àn;on cín;kh	3
+异丙嗪	yì;sc bǐng;an cín;kh	35
+益肤清	yì;bm fū;of cīng;do	251
+一贯煎	yí;aa guàn;mb ziān;bh	6
+易咳净	yì;ow ké;kr zìng;dy	266
+易坦静	yì;ow tǎn;td zìng;fy	369
+益心丸	yì;bm sīn;dd wán;jd	482
+异烟肼	yì;sc yān;hy zǐng;oj	296
+银汞剂	yín;jg gǒng;gu ziì;qd	45
+银屑灵	yín;jg siè;uo líng;eh	243
+银锌霜	yín;jg sīn;jx shuāng;yo	100
+英太青	yīng;cy tài;dd cīng;fo	19
+涌泉散	yǒng;dy cüán;bu sàn;cw	117
+优立新	yōu;ry lì;wb sīn;lt	4
+玉华煎	yù;wd huá;ru ziān;bh	45
+玉女煎	yù;wd nǚ;va ziān;bh	205
+玉泉散	yù;wd cüán;bu sàn;cw	4
+玉泉丸	yù;wd cüán;bu wán;jd	6
+玉液煎	yù;wd yè;dw ziān;bh	4
+泽漆汤	zé;df ciī;du tāng;dp	45
+泽泻汤	zé;df siè;dy tāng;dp	202
+樟脑醑	zhāng;au nǎo;ox sǚ;yo	100
+正心汤	zhèng;av sīn;dd tāng;dp	45
+植入剂	zhí;aq rù;pn ziì;qd	194
+注射剂	zhù;dv shè;uc ziì;qd	352
+紫雪丹	zǐ;vx süě;ye dān;kd	324
+紫雪散	zǐ;vx süě;ye sàn;cw	3
+阿柏西普	ā;ek bǎi;ab siī;ak pǔ;bo	342
 阿贝西利	ā;ek bèi;kr siī;ak lì;hd	10
+阿夫唑嗪	ā;ek fū;er zuò;kr cín;kh	207
+阿呋唑嗪	ā;ek fū;kf zuò;kr cín;kh	99
+阿利马嗪	ā;ek lì;hd mǎ;va cín;kh	4
+阿洛西林	ā;ek luò;dk siī;ak lín;aa	248
+阿米卡星	ā;ek mǐ;ba kǎ;ub sīng;ou	16
+阿莫西林	ā;ek mò;cd siī;ak lín;aa	637
+阿尼西坦	ā;ek ní;ub siī;ak tǎn;td	45
+阿帕西林	ā;ek pà;jb siī;ak lín;aa	4
+阿扑西林	ā;ek pū;fb siī;ak lín;aa	50
+阿齐霉素	ā;ek cií;wl méi;ym sù;fx	346
+阿齐沙坦	ā;ek cií;wl shā;du tǎn;td	212
+阿嗪米特	ā;ek cín;kh mǐ;ba tè;nc	9
+阿柔比星	ā;ek róu;ma bǐ;bb sīng;ou	99
+阿糖腺苷	ā;ek táng;mk siàn;ou gān;cg	450
+阿托西班	ā;ek tuō;fq siī;ak bān;wl	99
 阿昔洛韦	ā;ek siī;co luò;dk wéi;fv	60
 阿西美辛	ā;ek siī;ak měi;yd sīn;lu	4
 阿昔莫司	ā;ek siī;co mò;cd sī;vk	84
 阿昔替尼	ā;ek siī;co tì;fo ní;ub	212
-奥硝唑片	ào;pd siāo;uo zuò;kr piàn;pv	10
-百柏搽剂	bǎi;ab bǎi;ab chá;fm ziì;qd	10
+艾畅滴剂	ài;cx chàng;up dī;dg ziì;qd	153
+安吡昔康	ān;bn bǐ;kb siī;co kāng;gl	4
+氨必西林	ān;qn bì;xp siī;ak lín;aa	45
+氨苄西林	ān;qn biàn;cb siī;ak lín;aa	47
+安神糖浆	ān;bn shén;pu táng;mk ziāng;lu	207
+安舒法辛	ān;bn shū;ry fǎ;dq sīn;lu	76
+安嗽糖浆	ān;bn sòu;kq táng;mk ziāng;lu	45
+氨糖美辛	ān;qn táng;mk měi;yd sīn;lu	3
+安西他滨	ān;bn siī;ak tā;ry bīn;db	45
+安息香酊	ān;bn siī;zx xiāng;ho dīng;yd	324
+氨酰心安	ān;qn siān;ye sīn;dd ān;bn	369
+奥丹西隆	ào;pd dān;kd siī;ak lóng;eu	4
+奥卡西平	ào;pd kǎ;ub siī;ak píng;au	85
+奥拉西坦	ào;pd lā;fl siī;ak tǎn;td	13
+奥沙拉嗪	ào;pd shā;du lā;fl cín;kh	50
+奥沙拉秦	ào;pd shā;du lā;fl cín;ih	4
+奥沙普秦	ào;pd shā;du pǔ;bo cín;ih	45
+奥沙西泮	ào;pd shā;du siī;ak pàn;db	41
+奥索马嗪	ào;pd suǒ;ux mǎ;va cín;kh	117
+奥昔布宁	ào;pd siī;co bù;uj níng;bd	6
+奥昔非君	ào;pd siī;co fēi;ls jūn;yk	144
+奥昔康唑	ào;pd siī;co kāng;gl zuò;kr	50
+奥昔拉定	ào;pd siī;co lā;fl dìng;bz	45
+奥昔哌汀	ào;pd siī;co pài;ky tīng;dd	117
+奥昔嘌醇	ào;pd siī;co piào;ku chún;yz	117
+奥西替尼	ào;pd siī;ak tì;fo ní;ub	171
+奥昔托隆	ào;pd siī;co tuō;fq lóng;eu	4
+奥硝唑片	ào;pd siāo;uo zuò;kr piàn;pv	153
+奥硝唑栓	ào;pd siāo;uo zuò;kr shuān;aw	50
+奥星胶囊	ào;pd sīng;ou jiāo;of náng;gy	4
+巴氨西林	bā;sl ān;qn siī;ak lín;aa	162
+巴戟补酒	bā;sl jǐ;ug bǔ;pb ziǔ;dy	45
+巴美西林	bā;sl měi;yd siī;ak lín;aa	45
+八珍合剂	bā;pn zhēn;wp hé;rk ziì;qd	100
+八正合剂	bā;pn zhèng;av hé;rk ziì;qd	153
+百艾洗液	bǎi;ab ài;cx siǐ;de yè;dw	4
+百安洗液	bǎi;ab ān;bn siǐ;de yè;dw	117
+百柏搽剂	bǎi;ab bǎi;ab chá;fm ziì;qd	45
+百部洗剂	bǎi;ab bù;le siǐ;de ziì;qd	45
+白带净丸	bái;po dài;cj zìng;dy wán;jd	45
+白丹搽剂	bái;po dān;kd chá;fm ziì;qd	45
+白及胶浆	bái;po jí;pn jiāo;of ziāng;lu	100
+白及糖浆	bái;po jí;pn táng;mk ziāng;lu	45
+柏洁洗剂	bǎi;ab jié;dk siǐ;de ziì;qd	45
+百浪多息	bǎi;ab làng;dl duō;xx siī;zx	364
+白清胃散	bái;po cīng;do wèi;to sàn;cw	4
+白头翁煎	bái;po tóu;dd wēng;gx ziān;bh	50
+白鲜皮散	bái;po siān;yy pí;py sàn;cw	45
+白鲜皮汤	bái;po siān;yy pí;py tāng;dp	45
+白消安片	bái;po siāo;do ān;bn piàn;pv	45
+拜新同片	bài;uf sīn;lt tóng;kk piàn;pv	4
+柏芷洗剂	bǎi;ab zhǐ;cv siǐ;de ziì;qd	45
+白术冲剂	bái;po zhú;ad chōng;dv ziì;qd	50
+半夏糖浆	bàn;bf xià;bw táng;mk ziāng;lu	4
+胞浆素原	bāo;ob ziāng;lu sù;fx yuán;ix	50
+包醛氧淀	bāo;bs cüán;yw yǎng;qy diàn;dz	50
+保心安油	bǎo;ra sīn;dd ān;bn yóu;dy	248
+保心宁片	bǎo;ra sīn;dd níng;bd piàn;pv	4
+贝那替秦	bèi;kr nà;ve tì;fo cín;ih	45
+贝那替嗪	bèi;kr nà;ve tì;fo cín;kh	38
+贝前列素	bèi;kr cián;bd liè;dd sù;fx	256
+鼻灌洗液	bí;zw guàn;dv siǐ;de yè;dw	4
+吡拉西坦	bǐ;kb lā;fl siī;ak tǎn;td	9
+吡硫霉净	bǐ;kb liú;ui méi;ym zìng;dy	76
+吡罗昔布	bǐ;kb luó;sx siī;co bù;uj	99
+吡罗昔康	bǐ;kb luó;sx siī;co kāng;gl	13
 吡洛西利	bǐ;kb luò;dk siī;ak lì;hd	10
-穿心莲片	chuān;by sīn;dd lián;ci piàn;pv	10
+吡诺克辛	bǐ;kb nuò;yk kè;ux sīn;lu	50
+吡哌酸锌	bǐ;kb pài;ky suān;yw sīn;jx	45
+吡嗪酰胺	bǐ;kb cín;kh siān;ye àn;on	69
+吡柔比星	bǐ;kb róu;ma bǐ;bb sīng;ou	266
+痹通药酒	bì;bw tōng;zy yào;cu ziǔ;dy	45
+痹痛熨剂	bì;bw tòng;by yùn;uh ziì;qd	45
+吡西卡尼	bǐ;kb siī;ak kǎ;ub ní;ub	4
+鼻炎滴剂	bí;zw yán;hh dī;dg ziì;qd	130
+鼻炎合剂	bí;zw yán;hh hé;rk ziì;qd	50
+鼻炎喷剂	bí;zw yán;hh pēn;kb ziì;qd	31
+鼻炎糖浆	bí;zw yán;hh táng;mk ziāng;lu	45
+鼻渊糖浆	bí;zw yuān;dm táng;mk ziāng;lu	45
+苄氟噻嗪	biàn;cb fú;qf sāi;kt cín;kh	99
+苄青霉素	biàn;cb cīng;fo méi;ym sù;fx	580
+苄星青霉	biàn;cb sīng;ou cīng;fo méi;ym	387
+表柔比星	biǎo;fy róu;ma bǐ;bb sīng;ou	256
+鳖甲煎丸	biē;xy jiǎ;ol ziān;bh wán;jd	9
+冰胆搽剂	bīng;du dǎn;od chá;fm ziì;qd	45
+丙卡巴肼	bǐng;an kǎ;ub bā;sl zǐng;oj	189
+丙米嗪片	bǐng;an mǐ;ba cín;kh piàn;pv	45
+丙匹西林	bǐng;an pǐ;ke siī;ak lín;aa	117
+丙戊酰脲	bǐng;an wù;gp siān;ye niào;ou	4
+布桂嗪片	bù;uj guì;at cín;kh piàn;pv	45
+布可立嗪	bù;uj kě;dk lì;wb cín;kh	50
+布克力嗪	bù;uj kè;ux lì;vp cín;kh	38
+布洛芬锌	bù;uj luò;dk fēn;cf sīn;jx	50
+布那唑嗪	bù;uj nà;ve zuò;kr cín;kh	45
+擦癣药水	cā;fu süǎn;by yào;cu shuǐ;ln	4
+采乐洗剂	cǎi;va lè;px siǐ;de ziì;qd	342
+参柏洗液	cān;sp bǎi;ab siǐ;de yè;dw	45
+参杞糖浆	cān;sp qǐ;aj táng;mk ziāng;lu	45
+茶新那敏	chá;cm sīn;lt nà;ve mǐn;pw	45
+柴黄冲剂	chái;va huáng;cb chōng;dv ziì;qd	45
+肠虫清片	cháng;op chóng;vd cīng;do piàn;pv	117
+肠泰合剂	cháng;op tài;iu hé;rk ziì;qd	45
+长效西林	cháng;pn xiào;ww siī;ak lín;aa	171
+橙皮糖浆	chéng;ab pí;py táng;mk ziāng;lu	4
+川贝精片	chuān;pl bèi;kr zīng;mo piàn;pv	76
+穿心莲片	chuān;by sīn;dd lián;ci piàn;pv	252
+穿心莲丸	chuān;by sīn;dd lián;ci wán;jd	45
+穿心莲针	chuān;by sīn;dd lián;ci zhēn;ju	45
+川芎嗪片	chuān;pl xiōng;cg cín;kh piàn;pv	45
+创新霉素	chuàng;rd sīn;lt méi;ym sù;fx	45
+醋氮酰胺	cù;yo dàn;qh siān;ye àn;on	238
+醋奋乃静	cù;yo fèn;dt nǎi;pv zìng;fy	4
+促性腺素	cù;rz sìng;xu siàn;ou sù;fx	3
+痤疮搽剂	cuó;br chuāng;bv chá;fm ziì;qd	50
+大补元煎	dà;ar bǔ;pb yuán;aw ziān;bh	6
+大定心汤	dà;ar dìng;bz sīn;dd tāng;dp	4
 达尔西利	dá;zd ěr;dx siī;ak lì;hd	10
+大分清饮	dà;ar fēn;bd cīng;do yǐn;uq	50
+达格列净	dá;zd gé;ak liè;dd zìng;dy	306
+大黄合剂	dà;ar huáng;cb hé;rk ziì;qd	4
+达卡巴嗪	dá;zd kǎ;ub bā;sl cín;kh	6
+达泊西汀	dá;zd pō;db siī;ak tīng;dd	302
+大七厘散	dà;ar ciī;av lí;il sàn;cw	50
+大七气汤	dà;ar ciī;av qì;pv tāng;dp	4
+大秦艽汤	dà;ar cín;ih ziāo;cj tāng;dp	50
+大青龙汤	dà;ar cīng;fo lóng;yp tāng;dp	129
+大续命散	dà;ar sǜ;sd mìng;re sàn;cw	50
+大续命汤	dà;ar sǜ;sd mìng;re tāng;dp	50
+大月晶丸	dà;ar yuè;ke zīng;oo wán;jd	76
+黛力新片	dài;rh lì;vp sīn;lt piàn;pv	76
+氮芥搽剂	dàn;qh jiè;cj chá;fm ziì;qd	45
+胆木浸膏	dǎn;od mù;ur zìn;dy gāo;wo	76
+丹七胶囊	dān;kd ciī;av jiāo;of náng;gy	45
+胆清胶囊	dǎn;od cīng;do jiāo;of náng;gy	144
+丹青胶囊	dān;kd cīng;fo jiāo;of náng;gy	65
+胆石清片	dǎn;od shí;ak cīng;do piàn;pv	45
+丹桃合剂	dān;kd táo;av hé;rk ziì;qd	45
+胆仙胶囊	dǎn;od siān;ru jiāo;of náng;gy	100
+地芬诺辛	dì;ty fēn;cf nuò;yk sīn;lu	76
+地高辛片	dì;ty gāo;wk sīn;lu piàn;pv	320
+地洛西泮	dì;ty luò;dk siī;ak pàn;db	99
+滴霉洗剂	dī;dg méi;ym siǐ;de ziì;qd	45
+地昔帕明	dì;ty siī;co pà;jb míng;oo	22
+地西泮膜	dì;ty siī;ak pàn;db mó;od	45
+地西泮片	dì;ty siī;ak pàn;db piàn;pv	230
+地西他滨	dì;ty siī;ak tā;ry bīn;db	230
+颠茄合剂	diān;uy qié;ck hé;rk ziì;qd	220
+颠茄浸膏	diān;uy qié;ck zìn;dy gāo;wo	234
+跌打药酒	diē;zf dǎ;fd yào;cu ziǔ;dy	288
+叠氮西林	dié;yq dàn;qh siī;ak lín;aa	99
+丁芎癣药	dīng;al xiōng;cg süǎn;by yào;cu	4
+冻疮消酊	dòng;dd chuāng;bv siāo;do dīng;yd	45
+度洛西汀	dù;gy luò;dk siī;ak tīng;dd	78
+杜仲冲剂	dù;at zhòng;rv chōng;dv ziì;qd	45
+杜仲药酒	dù;at zhòng;rv yào;cu ziǔ;dy	45
+多巴丝肼	duō;xx bā;sl sī;sa zǐng;oj	117
+多氟沙星	duō;xx fú;qf shā;du sīng;ou	4
+多奈哌齐	duō;xx nài;du pài;ky cií;wl	356
+多柔比星	duō;xx róu;ma bǐ;bb sīng;ou	436
+多沙唑嗪	duō;xx shā;du zuò;kr cín;kh	3
+多西环素	duō;xx siī;ak huán;wb sù;fx	57
+多西拉敏	duō;xx siī;ak lā;fl mǐn;pw	369
+多西他赛	duō;xx siī;ak tā;ry sài;bb	85
+恶丙嗪片	è;yx bǐng;an cín;kh piàn;pv	90
+恩丹西酮	ēn;yx dān;kd siī;ak tóng;yk	99
+恩格列净	ēn;yx gé;ak liè;dd zìng;dy	338
+恩诺沙星	ēn;yx nuò;yk shā;du sīng;ou	28
+恩前列醇	ēn;yx cián;bd liè;dd chún;yz	4
+恩前列素	ēn;yx cián;bd liè;dd sù;fx	130
+二陈合剂	èr;aa chén;ed hé;rk ziì;qd	4
+二甲替嗪	èr;aa jiǎ;ol tì;fo cín;kh	4
+儿咳糖浆	ér;pv ké;kr táng;mk ziāng;lu	90
+二性霉素	èr;aa sìng;xu méi;ym sù;fx	279
+伐昔洛韦	fá;rg siī;co luò;dk wéi;fv	360
+法昔洛韦	fǎ;dq siī;co luò;dk wéi;fv	144
+泛昔洛韦	fàn;df siī;co luò;dk wéi;fv	22
+肺毒清片	fèi;oj dú;fm cīng;do piàn;pv	45
+肥儿糖浆	féi;ob ér;pv táng;mk ziāng;lu	45
+非那西丁	fēi;ls nà;ve siī;ak dīng;al	13
+非那西汀	fēi;ls nà;ve siī;ak tīng;dd	324
+非那佐辛	fēi;ls nà;ve zuǒ;rg sīn;lu	76
+非奈西林	fēi;ls nài;du siī;ak lín;aa	99
+芬贝西林	fēn;cf bèi;kr siī;ak lín;aa	90
 奋乃静片	fèn;dt nǎi;pv zìng;fy piàn;pv	10
+枫苓合剂	fēng;af líng;cs hé;rk ziì;qd	4
+风痛药酒	fēng;jx tòng;by yào;cu ziǔ;dy	45
+风油精的	fēng;jx yóu;dy zīng;mo de;bu	495
+妇宝冲剂	fù;ne bǎo;by chōng;dv ziì;qd	297
+妇宝糖浆	fù;ne bǎo;by táng;mk ziāng;lu	45
+呋布西林	fū;kf bù;uj siī;ak lín;aa	45
+氟地西泮	fú;qf dì;ty siī;ak pàn;db	194
+复方肝精	fù;pw fāng;wv gān;og zīng;mo	45N
+复方蛤青	fù;pw fāng;wv há;ik cīng;fo	50N
+复方合剂	fù;pw fāng;wv hé;rk ziì;qd	117N
+复方精油	fù;pw fāng;wv zīng;mo yóu;dy	423
+复方清带	fù;pw fāng;wv cīng;do dài;cj	130
+复方青黛	fù;pw fāng;wv cīng;fo dài;rh	38
+复方青果	fù;pw fāng;wv cīng;fo guǒ;ta	144
+复方青蒿	fù;pw fāng;wv cīng;fo hāo;ck	99
+复方青松	fù;pw fāng;wv cīng;fo sōng;ag	45
+复方散剂	fù;pw fāng;wv sǎn;cw ziì;qd	4N
+复方三七	fù;pw fāng;wv sān;ae ciī;av	45
+复方汤剂	fù;pw fāng;wv tāng;dp ziì;qd	16N
+复方天仙	fù;pw fāng;wv tiān;ad siān;ru	45
+复方消食	fù;pw fāng;wv siāo;do shí;rg	4
+复方硝酸	fù;pw fāng;wv siāo;uo suān;yw	248
+复方消痔	fù;pw fāng;wv siāo;do zhì;bc	4
+复方锌布	fù;pw fāng;wv sīn;jx bù;uj	270
+复方雪莲	fù;pw fāng;wv süě;ye lián;ci	50
+复方雪参	fù;pw fāng;wv süě;ye shēn;sp	45
+复方制剂	fù;pw fāng;wv zhì;nd ziì;qd	720N
+氟奋乃静	fú;qf fèn;dt nǎi;pv zìng;fy	3
+氟桂利嗪	fú;qf guì;at lì;hd cín;kh	351
+氟桂嗪片	fú;qf guì;at cín;kh piàn;pv	45
+肤疾洗剂	fū;of zií;bu siǐ;de ziì;qd	99
+妇洁搽剂	fù;ne jié;dk chá;fm ziì;qd	45
+肤康搽剂	fū;of kāng;gl chá;fm ziì;qd	45
+妇乐冲剂	fù;ne lè;px chōng;dv ziì;qd	302
+氟罗沙星	fú;qf luó;sx shā;du sīng;ou	297
+福米硝唑	fú;pt mǐ;ba siāo;uo zuò;kr	45
+呋喃西林	fū;kf nán;kg siī;ak lín;aa	9
+妇宁糖浆	fù;ne níng;bd táng;mk ziāng;lu	45
+茯蒲洗液	fú;cq pú;cf siǐ;de yè;dw	50
+氟羟西林	fú;qf qiǎng;yj siī;ak lín;aa	45
+肤芩洗剂	fū;of qín;cv siǐ;de ziì;qd	45
+夫沙芬净	fū;er shā;du fēn;cf zìng;dy	90
+氟替阿嗪	fú;qf tì;fo ā;ek cín;kh	45
 伏维西利	fú;rq wéi;sv siī;ak lì;hd	10
-感冒清片	gǎn;gx mào;oo cīng;do piàn;pv	10
-冠心通片	guān;bc sīn;dd tōng;zy piàn;pv	10
-喉疾灵片	hóu;ku zií;bu líng;eh piàn;pv	10
-甲状腺片	jiǎ;ol zhuàng;lq siàn;ou piàn;pv	10
+夫西地酸	fū;er siī;ak dì;ty suān;yw	22
+氟西泮片	fú;qf siī;ak pàn;db piàn;pv	45
+氟西汀片	fú;qf siī;ak tīng;dd piàn;pv	99
+氟硝西泮	fú;qf siāo;uo siī;ak pàn;db	22
+福辛普利	fú;pt sīn;lu pǔ;bo lì;hd	342
+妇炎净片	fù;ne yán;hh zìng;dy piàn;pv	99
+肤痒冲剂	fū;of yǎng;by chōng;dv ziì;qd	4
+茯蚁参酒	fú;cq yǐ;iy cān;sp ziǔ;dy	45
+氟乙西泮	fú;qf yǐ;vv siī;ak pàn;db	45
+钙咀嚼片	gài;jg zǚ;kq züé;kc piàn;pv	356
+钙锌铁片	gài;jg sīn;jx tiě;jf piàn;pv	45
+甘安合剂	gān;ca ān;bn hé;rk ziì;qd	99
+甘草合剂	gān;ca cǎo;cu hé;rk ziì;qd	3
+甘草浸膏	gān;ca cǎo;cu zìn;dy gāo;wo	256
+甘草锌片	gān;ca cǎo;cu sīn;jx piàn;pv	4
+肝浸膏片	gān;og zìn;dy gāo;wo piàn;pv	4
+杆菌肽锌	gǎn;ag jūn;ch tài;ot sīn;jx	162
+甘霖洗剂	gān;ca lín;ya siǐ;de ziì;qd	99
+甘磷酰芥	gān;ca lín;uf siān;ye jiè;cj	4
+肝流浸膏	gān;og liú;di zìn;dy gāo;wo	45
+感冒冲剂	gǎn;gx mào;oo chōng;dv ziì;qd	66
+感冒清片	gǎn;gx mào;oo cīng;do piàn;pv	189
+感清糖浆	gǎn;gx cīng;do táng;mk ziāng;lu	45
+肝泰冲剂	gān;og tài;iu chōng;dv ziì;qd	45
+甘油搽剂	gān;ca yóu;dy chá;fm ziì;qd	45
+肛肠洗剂	gāng;og cháng;op siǐ;de ziì;qd	50
+睾酮贴剂	gāo;pg tóng;yk tiē;bv ziì;qd	117
+格列吡嗪	gé;ak liè;dd bǐ;kb cín;kh	9
+格列齐特	gé;ak liè;dd cií;wl tè;nc	13
+根充糊剂	gēn;ag chōng;wy hú;mo ziì;qd	50
+根管糊剂	gēn;ag guǎn;vl hú;mo ziì;qd	45
+更昔洛韦	gèng;an siī;co luò;dk wéi;fv	22
+宫瘤清片	gōng;bk liú;bt cīng;do piàn;pv	45
+枸杞药酒	gǒu;aj qǐ;aj yào;cu ziǔ;dy	4
+骨刺宁酒	gǔ;go cì;ud níng;bd ziǔ;dy	45
+骨痛药酒	gǔ;go tòng;by yào;cu ziǔ;dy	45
+呱西替柳	gū;kg siī;ak tì;fo liǔ;ae	50
+骨增消片	gǔ;go zēng;to siāo;do piàn;pv	45
+骨折洗方	gǔ;go zhé;ft siǐ;de fāng;wv	45
+关节痛膏	guān;bt zié;ce tòng;by gāo;wo	45
+关节炎膏	guān;bt zié;ce yán;hh gāo;wo	99
+冠心静片	guān;bc sīn;dd zìng;fy piàn;pv	45
+冠心康片	guān;bc sīn;dd kāng;gl piàn;pv	45
+冠心舒片	guān;bc sīn;dd shū;ry piàn;pv	45
+冠心泰丸	guān;bc sīn;dd tài;iu wán;jd	45
+冠心通片	guān;bc sīn;dd tōng;zy piàn;pv	45
+龟黄补酒	guī;dd huáng;cb bǔ;pb ziǔ;dy	45
+桂利嗪片	guì;at lì;hd cín;kh piàn;pv	76
+桂龙药酒	guì;at lóng;yp yào;cu ziǔ;dy	45
+桂哌齐特	guì;at pài;ky cií;wl tè;nc	99
+归脾合剂	guī;le pí;ou hé;rk ziì;qd	45
+桂枝合剂	guì;at zhī;av hé;rk ziì;qd	76
+哈拉西泮	hā;kk la;fl siī;ak pàn;db	50
+哈西奈德	hā;kk siī;ak nài;du dé;rx	288
+海他西林	hǎi;dm tā;ry siī;ak lín;aa	171
+海桐皮酒	hǎi;dm tóng;ak pí;py ziǔ;dy	45
+黑逍遥散	hēi;lh siāo;zo yáo;zf sàn;cw	4
+喉疾灵片	hóu;ku zií;bu líng;eh piàn;pv	45
+护骨药酒	hù;fh gǔ;go yào;cu ziǔ;dy	45
+护心胶囊	hù;fh sīn;dd jiāo;of náng;gy	45
+护心康片	hù;fh sīn;dd kāng;gl piàn;pv	45
+化积颗粒	huà;rb ziī;hv kē;gy lì;ml	4
+环丙氨嗪	huán;wb bǐng;an ān;qn cín;kh	76
+环丙沙星	huán;wb bǐng;an shā;du sīng;ou	82
+环己西林	huán;wb jǐ;kv siī;ak lín;aa	45
+环磷酰胺	huán;wb lín;uf siān;ye àn;on	217
+环磷腺苷	huán;wb lín;uf siàn;ou gān;cg	9
+环戊噻嗪	huán;wb wù;gp sāi;kt cín;kh	130
+磺胺多辛	huáng;ub àn;on duō;xx sīn;lu	243
+磺胺西汀	huáng;ub àn;on siī;ak tīng;dd	90
+磺苄西林	huáng;ub biàn;cb siī;ak lín;aa	3
+黄苦洗液	huáng;cb kǔ;cg siǐ;de yè;dw	45
+汇科洗剂	huì;dk kē;hd siǐ;de ziì;qd	45
+茴拉西坦	huí;ck lā;fl siī;ak tǎn;td	180
+回心康片	huí;wk sīn;dd kāng;gl piàn;pv	45
+混悬滴剂	hùn;db xuán;qx dī;dg ziì;qd	256
+混悬针剂	hùn;db xuán;qx zhēn;ju ziì;qd	45
+藿黄洗剂	huò;cv huáng;cb siǐ;de ziì;qd	90
+活性钙片	huó;du sìng;xu gài;jg piàn;pv	45
+吉非贝齐	jí;tk fēi;ls bèi;kr cií;wl	171
+吉非罗齐	jí;tk fēi;ls luó;sx cií;wl	288
+脊灰疫苗	ziǐ;ro huī;uh yì;bu miáo;ct	486
+蒺藜药酒	zií;cu lí;cu yào;cu ziǔ;dy	45
+吉米沙星	jí;tk mǐ;ba shā;du sīng;ou	220
+吉如心片	jí;tk rú;nk sīn;dd piàn;pv	90
+济肾胶囊	ziì;dq shèn;lo jiāo;of náng;gy	45
+吉西他滨	jí;tk siī;ak tā;ry bīn;db	28
+积雪甙片	ziī;hv süě;ye dài;gg piàn;pv	4
+积雪苷片	ziī;hv süě;ye gān;cg piàn;pv	76
+急支糖浆	jí;dx zhī;uy táng;mk ziāng;lu	82
+甲地高辛	jiǎ;ol dì;ty gāo;wk sīn;lu	4
+甲磺烟肼	jiǎ;ol huáng;ub yān;hy zǐng;oj	45
+佳静安定	jiā;rt zìng;fy ān;bn dìng;bz	225
+甲硫达嗪	jiǎ;ol liú;ui dá;zd cín;kh	130
+甲硫酚嗪	jiǎ;ol liú;ui fēn;yf cín;kh	45
+甲硫吩嗪	jiǎ;ol liú;ui fēn;kf cín;kh	38
+甲氰咪胍	jiǎ;ol cíng;qo mī;km guā;og	526
+加斯清片	jiā;lk sī;ct cīng;do piàn;pv	45
+加替沙星	jiā;lk tì;fo shā;du sīng;ou	19
+加味七厘	jiā;lk wèi;kw ciī;av lí;il	45
+加味青娥	jiā;lk wèi;kw cīng;fo é;nw	4
+加味四消	jiā;lk wèi;kw sì;we siāo;do	45
+加味西黄	jiā;lk wèi;kw siī;ak huáng;cb	45
+加味逍遥	jiā;lk wèi;kw siāo;zo yáo;zf	482
+甲癣搽剂	jiǎ;ol süǎn;by chá;fm ziì;qd	100
+甲状腺粉	jiǎ;ol zhuàng;lq siàn;ou fěn;mf	50
+甲状腺片	jiǎ;ol zhuàng;lq siàn;ou piàn;pv	19
+甲状腺素	jiǎ;ol zhuàng;lq siàn;ou sù;fx	402
+健儿糖浆	jiàn;ry ér;pv táng;mk ziāng;lu	4
+健脑合剂	jiàn;ry nǎo;ox hé;rk ziì;qd	153
+健脑糖浆	jiàn;ry nǎo;ox táng;mk ziāng;lu	45
+健脾冲剂	jiàn;ry pí;ou chōng;dv ziì;qd	76
+健脾糖浆	jiàn;ry pí;ou táng;mk ziāng;lu	4
+健心胶囊	jiàn;ry sīn;dd jiāo;of náng;gy	4
+健心颗粒	jiàn;ry sīn;dd kē;gy lì;ml	100
+艽龙胶囊	ziāo;cj lóng;yp jiāo;of náng;gy	90
+脚癣药水	jiǎo;oe süǎn;by yào;cu shuǐ;ln	45
+疖病菌苗	ziē;be bìng;bn jūn;ch miáo;ct	117
+疖病疫苗	ziē;be bìng;bn yì;bu miáo;ct	45
+解毒搽剂	jiě;dn dú;fm chá;fm ziì;qd	45
+结晶磺胺	jié;sk zīng;oo huáng;ub àn;on	50
+洁身洗液	jié;dk shēn;zc siǐ;de yè;dw	4
+洁阴洗剂	jié;dk yīn;eo siǐ;de ziì;qd	4
+金百洗剂	jīn;rb bǎi;ab siǐ;de ziì;qd	45
+金归洗液	jīn;rb guī;le siǐ;de yè;dw	45
+烬灰霉素	zìn;hd huī;uh méi;ym sù;fx	50
+金钱草片	jīn;rb cián;jj cǎo;cu piàn;pv	45
+筋痛消酊	jīn;vl tòng;by siāo;do dīng;yd	45
+荆防冲剂	jīng;cd fáng;ef chōng;dv ziì;qd	117
+精肝颗粒	zīng;mo gān;og kē;gy lì;ml	45
+精芪颗粒	zīng;mo qí;cu kē;gy lì;ml	45
+肼屈嗪片	zǐng;oj qū;ui cín;kh piàn;pv	45
+精乌胶囊	zīng;mo wū;pa jiāo;of náng;gy	99
+精乌颗粒	zīng;mo wū;pa kē;gy lì;ml	90
+静心颗粒	zìng;fy sīn;dd kē;gy lì;ml	45
+救心金丸	jiù;qw sīn;dd jīn;rb wán;jd	45
+桔贝合剂	jú;ak bèi;kr hé;rk ziì;qd	153
+聚多卡醇	zǜ;eu duō;xx kǎ;ub chún;yz	4
+聚肌胞针	zǜ;eu jī;oj bāo;ob zhēn;ju	4
+聚肌苷酸	zǜ;eu jī;oj gān;cg suān;yw	4
+聚明胶肽	zǜ;eu míng;oo jiāo;of tài;ot	45
+聚维酮碘	zǜ;eu wéi;sv tóng;yk diǎn;ub	41
+卡格列净	kǎ;ub gé;ak liè;dd zìng;dy	153
+卡马西平	kǎ;ub mǎ;va siī;ak píng;au	138
+卡泊芬净	kǎ;ub pō;db fēn;cf zìng;dy	9
+卡前列素	kǎ;ub cián;bd liè;dd sù;fx	153
+卡前列酸	kǎ;ub cián;bd liè;dd suān;yw	90
+卡氏擦剂	kǎ;ub shì;pv cā;fu ziì;qd	100
+卡茚西林	kǎ;ub yìn;ce siī;ak lín;aa	153
+康柏西普	kāng;gl bǎi;ab siī;ak pǔ;bo	486
+康肤洗剂	kāng;gl fū;of siǐ;de ziì;qd	45
+康复新液	kāng;gl fù;pw sīn;lt yè;dw	116
+抗感冲剂	kàng;fj gǎn;gx chōng;dv ziì;qd	4
+康泰克清	kāng;gl tài;iu kè;ux cīng;do	45
+康王洗剂	kāng;gl wáng;at siǐ;de ziì;qd	3
+康心胶囊	kāng;gl sīn;dd jiāo;of náng;gy	180
+咳必清片	ké;kr bì;xp cīng;do piàn;pv	162
+咳喘清片	ké;kr chuǎn;ke cīng;do piàn;pv	45
+可多克辛	kě;dk duō;xx kè;ux sīn;lu	4
+克洛己新	kè;ux luò;dk jǐ;kv sīn;lt	4
+咳宁糖浆	ké;kr níng;bd táng;mk ziāng;lu	117
+咳清胶囊	ké;kr cīng;do jiāo;of náng;gy	50
+咳舒糖浆	ké;kr shū;ry táng;mk ziāng;lu	45
+克泻胶囊	kè;ux siè;dy jiāo;of náng;gy	45
+克泻痢宁	kè;ux siè;dy lì;bd níng;bd	45
+克痒敏醑	kè;ux yǎng;by mǐn;pw sǚ;yo	45
+可愈糖浆	kě;dk yù;rx táng;mk ziāng;lu	99
+苦甘冲剂	kǔ;cg gān;ca chōng;dv ziì;qd	50
+苦参洗剂	kǔ;cg shēn;sp siǐ;de ziì;qd	76
+夸西埃宁	kuā;dk siī;ak āi;tu níng;bd	144
+宽心丸儿	kuān;bj sīn;dd wán;jd ér;pv	76
+溃疡冲剂	kuì;db yáng;bp chōng;dv ziì;qd	45
+昆仙胶囊	kūn;ob siān;ru jiāo;of náng;gy	4
+拉莫三嗪	lā;fl mò;cd sān;ae cín;kh	477
+拉西地平	lā;fl siī;ak dì;ty píng;au	364
 来罗西利	lái;aa luó;sx siī;ak lì;hd	10
-利脑心片	lì;hd nǎo;ox sīn;dd piàn;pv	10
-脑心清片	nǎo;ox sīn;dd cīng;do piàn;pv	10
-哌柏西利	pài;ky bǎi;ab siī;ak lì;hd	10
+莨菪浸膏	làng;cl dàng;cu zìn;dy gāo;wo	45
+狼毒洗剂	láng;ql dú;fm siǐ;de ziì;qd	45
+劳拉西泮	láo;cl lā;fl siī;ak pàn;db	119
+雷洛昔芬	léi;yt luò;dk siī;co fēn;cf	9
+雷锁辛硫	léi;yt suǒ;jb sīn;lu liú;ui	4
+利多氟嗪	lì;hd duō;xx fú;qf cín;kh	4
+利福昔明	lì;hd fú;pt siī;co míng;oo	248
+利迈先片	lì;hd mài;zw siān;ne piàn;pv	45
+利脑心片	lì;hd nǎo;ox sīn;dd piàn;pv	45
+痢泻灵片	lì;bd siè;dy líng;eh piàn;pv	4
+莲心胶囊	lián;ci sīn;dd jiāo;of náng;gy	45
+敛心颗粒	liǎn;qw sīn;dd kē;gy lì;ml	45
+亮菌糖浆	liàng;wj jūn;ch táng;mk ziāng;lu	45
+两性霉素	liǎng;ar sìng;xu méi;ym sù;fx	31
+磷酸哌嗪	lín;uf suān;yw pài;ky cín;kh	99
+灵精胶囊	líng;eh zīng;mo jiāo;of náng;gy	45
+凌霄花散	líng;dw siāo;yo huā;cb sàn;cw	4
+灵芝糖浆	líng;eh zhī;cv táng;mk ziāng;lu	162
+硫磺洗剂	liú;ui huáng;ub siǐ;de ziì;qd	306
+硫利哒嗪	liú;ui lì;hd dā;kd cín;kh	99
+硫利达嗪	liú;ui lì;hd dá;zd cín;kh	4
+硫前列酮	liú;ui cián;bd liè;dd tóng;yk	76
+硫乙拉嗪	liú;ui yǐ;vv lā;fl cín;kh	45
+癃清胶囊	lóng;bu cīng;do jiāo;of náng;gy	45
+芦氟沙星	lú;ch fú;qf shā;du sīng;ou	99
+鲁拉西酮	lǔ;yo lā;fl siī;ak tóng;yk	162
+陆英糖浆	lù;ej yīng;cy táng;mk ziāng;lu	45
+仑氨西林	lún;rb ān;qn siī;ak lín;aa	50
+罗非昔布	luó;sx fēi;ls siī;co bù;uj	16
+洛非西定	luò;dk fēi;ls siī;ak dìng;bz	76
+洛美沙星	luò;dk měi;yd shā;du sīng;ou	9
+洛汀新片	luò;dk tīng;dd sīn;lt piàn;pv	76
+螺旋霉素	luó;ix süán;fz méi;ym sù;fx	9
+螺旋藻片	luó;ix süán;fz zǎo;ca piàn;pv	6
+绿雪胶囊	lǜ;su süě;ye jiāo;of náng;gy	45
+马钱子散	mǎ;va cián;jj zǐ;la sàn;cw	3
+麦角新碱	mài;fw jiǎo;dy sīn;lt jiǎn;uk	342
+脉康合剂	mài;oy kāng;gl hé;rk ziì;qd	45
+麦门冬煎	mài;fw mén;dv dōng;wd ziān;bh	212
+美布噻嗪	měi;yd bù;uj sāi;kt cín;kh	50
+美达西泮	měi;yd dá;zd siī;ak pàn;db	50
+美夫西特	měi;yd fū;er siī;ak tè;nc	50
+美克洛嗪	měi;yd kè;ux luò;dk cín;kh	202
+美可洛嗪	měi;yd kě;dk luò;dk cín;kh	65
+美克西酮	měi;yd kè;ux siī;ak tóng;yk	4
+美喹他嗪	měi;yd kuí;kt tā;ry cín;kh	45
+美利曲辛	měi;yd lì;hd qǔ;wc sīn;lu	288
+美洛昔康	měi;yd luò;dk siī;co kāng;gl	35
+美洛西林	měi;yd luò;dk siī;ak lín;aa	3
+美帕曲星	měi;yd pà;jb qǔ;wc sīng;ou	50
+美普清片	měi;yd pǔ;bo cīng;do piàn;pv	76
+美沙拉嗪	měi;yd shā;du lā;fl cín;kh	60
+美索达嗪	měi;yd suǒ;ux dá;zd cín;kh	76
+美他多辛	měi;yd tā;ry duō;xx sīn;lu	50
+美他佐辛	měi;yd tā;ry zuǒ;rg sīn;lu	50
+美西律片	měi;yd siī;ak lǜ;ry piàn;pv	45
+美息伪麻	měi;yd siī;zx wěi;rw má;ga	153
+美辛唑酮	měi;yd sīn;lu zuò;kr tóng;yk	76
+门冬酰胺	mén;dv dōng;wd siān;ye àn;on	346
+米卡芬净	mǐ;ba kǎ;ub fēn;cf zìng;dy	256
+泌尿清片	mì;db niào;uu cīng;do piàn;pv	45
+莫雷西嗪	mò;cd léi;yt siī;ak cín;kh	162
+莫匹罗星	mò;cd pǐ;ke luó;sx sīng;ou	6
+莫西沙星	mò;cd siī;ak shā;du sīng;ou	53
+那氟沙星	nà;ve fú;qf shā;du sīng;ou	4
+萘夫西林	nài;cu fū;er siī;ak lín;aa	194
+奈替米星	nài;du tì;fo mǐ;ba sīng;ou	3
+奈西立肽	nài;du siī;ak lì;wb tài;ot	144
+脑复新片	nǎo;ox fù;pw sīn;lt piàn;pv	45
+脑立清片	nǎo;ox lì;wb cīng;do piàn;pv	45
+脑立清丸	nǎo;ox lì;wb cīng;do wán;jd	99
+脑宁糖浆	nǎo;ox níng;bd táng;mk ziāng;lu	4
+脑心清片	nǎo;ox sīn;dd cīng;do piàn;pv	45
+尼卡巴嗪	ní;ub kǎ;ub bā;sl cín;kh	45
+尼美西泮	ní;ub měi;yd siī;ak pàn;db	99
+尿促性素	niào;uu cù;rz sìng;xu sù;fx	225
+尿感合剂	niào;uu gǎn;gx hé;rk ziì;qd	100
+宁嗽糖浆	níng;bd sòu;kq táng;mk ziāng;lu	45
+宁心胶囊	níng;bd sīn;dd jiāo;of náng;gy	4
+浓替硝唑	nóng;dy tì;fo siāo;uo zuò;kr	45
+暖宫七味	nuǎn;oy gōng;bk ciī;av wèi;kw	153
+诺氟沙星	nuò;yk fú;qf shā;du sīng;ou	107
+诺米芬辛	nuò;yk mǐ;ba fēn;cf sīn;lu	130
+女金糖浆	nǚ;va jīn;rb táng;mk ziāng;lu	45
+帕博西尼	pà;jb bó;uc siī;ak ní;ub	9
+帕罗西汀	pà;jb luó;sx siī;ak tīng;dd	157
+帕司烟肼	pà;jb sī;vk yān;hy zǐng;oj	45
+哌柏西利	pài;ky bǎi;ab siī;ak lì;hd	99
+哌腈米特	pài;ky zīng;oo mǐ;ba tè;nc	76
+哌克昔林	pài;ky kè;ux siī;co lín;aa	4
+哌拉西林	pài;ky lā;fl siī;ak lín;aa	13
+哌拉西坦	pài;ky lā;fl siī;ak tǎn;td	45
+哌仑西平	pài;ky lún;rb siī;ak píng;au	194
+哌泊塞嗪	pài;ky pō;db sāi;bt cín;kh	4
+哌嗪雌酮	pài;ky cín;kh cí;vv tóng;yk	45
+哌嗪糖浆	pài;ky cín;kh táng;mk ziāng;lu	45
+排石冲剂	pái;ff shí;ak chōng;dv ziì;qd	238
+哌西他嗪	pài;ky siī;ak tā;ry cín;kh	45
+哌硝噻唑	pài;ky siāo;uo sāi;kt zuò;kr	4
+哌唑嗪膜	pài;ky zuò;kr cín;kh mó;od	45
+哌唑嗪片	pài;ky zuò;kr cín;kh piàn;pv	45
 盘龙七片	pán;vm lóng;yp ciī;av piàn;pv	10
-盆炎净片	pén;fm yán;hh zìng;dy piàn;pv	10
+盘尼西林	pán;vm ní;ub siī;ak lín;aa	568
+泡腾片剂	pào;db téng;om piàn;pv ziì;qd	99
+培氟沙星	péi;tk fú;qf shā;du sīng;ou	261
+喷他佐辛	pēn;kb tā;ry zuǒ;rg sīn;lu	202
+喷昔洛韦	pēn;kb siī;co luò;dk wéi;fv	3
+盆炎净片	pén;fm yán;hh zìng;dy piàn;pv	45
+盆炎清栓	pén;fm yán;hh cīng;do shuān;aw	45
+硼酸酒精	péng;uo suān;yw ziǔ;dy zīng;mo	234
+硼酸洗液	péng;uo suān;yw siǐ;de yè;dw	171
+匹氨西林	pǐ;ke ān;qn siī;ak lín;aa	162
+匹美西林	pǐ;ke měi;yd siī;ak lín;aa	180
+匹莫齐特	pǐ;ke mò;cd cií;wl tè;nc	189
+匹那西泮	pǐ;ke nà;ve siī;ak pàn;db	180
+匹哌马嗪	pǐ;ke pài;ky mǎ;va cín;kh	45
+皮炎洗剂	pí;py yán;hh siǐ;de ziì;qd	45
+平消胶囊	píng;au siāo;do jiāo;of náng;gy	76
+泊利噻嗪	pō;db lì;hd sāi;kt cín;kh	50
+普拉西泮	pǔ;bo lā;fl siī;ak pàn;db	50
+普鲁本辛	pǔ;bo lǔ;yo běn;aa sīn;lu	436
+普卢沙星	pǔ;bo lú;bu shā;du sīng;ou	45
 普罗庚嗪	pǔ;bo luó;sx gēng;gr cín;kh	4
 普罗新希	pǔ;bo luó;sx sīn;lt xī;xj	45
+普诺地嗪	pǔ;bo nuò;yk dì;ty cín;kh	4
+葡醛内酯	pú;cf cüán;yw nèi;kr zhǐ;yo	6
+葡醛酸钠	pú;cf cüán;yw suān;yw nà;jn	99
 扑热息痛	pū;fb rè;fh siī;zx tòng;by	279
-清开灵片	cīng;do kāi;ac líng;eh piàn;pv	10
+齐多夫定	cií;wl duō;xx fū;er dìng;bz	19
+七返还丹	ciī;av fǎn;zy huán;zb dān;kd	99
+七氟烷液	ciī;av fú;qf wán;hy yè;dw	45
+齐拉西酮	cií;wl lā;fl siī;ak tóng;yk	324
+七厘胶囊	ciī;av lí;il jiāo;of náng;gy	45
+七厘软膏	ciī;av lí;il ruǎn;iq gāo;wo	45
+齐美利定	cií;wl měi;yd lì;hd dìng;bz	144
+蕲蛇药酒	qí;ct shé;ib yào;cu ziǔ;dy	162
+七生力片	ciī;av shēng;pf lì;vp piàn;pv	4
+七星茶艺	ciī;av sīng;ou chá;cm yì;cv	76
+七叶皂甙	ciī;av yè;ku zào;bq dài;gg	4
+七叶皂苷	ciī;av yè;ku zào;bq gān;cg	284
+七珍汤散	ciī;av zhēn;wp tāng;dp sàn;cw	45
+茜草双酯	ciàn;cx cǎo;cu shuāng;yy zhǐ;yo	45
+前列安栓	cián;bd liè;dd ān;bn shuān;aw	99
+前列地尔	cián;bd liè;dd dì;ty ěr;dx	9
+前列康片	cián;bd liè;dd kāng;gl piàn;pv	207
+前列舒丸	cián;bd liè;dd shū;ry wán;jd	76
+前列泰片	cián;bd liè;dd tài;iu piàn;pv	45
+前列通片	cián;bd liè;dd tōng;zy piàn;pv	171
+前列通栓	cián;bd liè;dd tōng;zy shuān;aw	4
+茜芷胶囊	ciàn;cx zhǐ;cv jiāo;of náng;gy	45
+强肝糖浆	qiáng;gi gān;og táng;mk ziāng;lu	45
+青吹口散	cīng;fo chuī;kq kǒu;la sàn;cw	117
+青黛软膏	cīng;fo dài;rh ruǎn;iq gāo;wo	45
+清胆颗粒	cīng;do dǎn;od kē;gy lì;ml	45
+氢氟噻嗪	qīng;qj fú;qf sāi;kt cín;kh	99
+清肝胶囊	cīng;do gān;og jiāo;of náng;gy	45
+清肝颗粒	cīng;do gān;og kē;gy lì;ml	117
+清根胶囊	cīng;do gēn;ag jiāo;of náng;gy	45
+氰钴胺素	cíng;qo gǔ;jg àn;on sù;fx	9
+青果颗粒	cīng;fo guǒ;ta kē;gy lì;ml	50
+青蒿琥酯	cīng;fo hāo;ck hǔ;wj zhǐ;yo	446
+青蒿素栓	cīng;fo hāo;ck sù;fx shuān;aw	45
+清基胶囊	cīng;do jī;ct jiāo;of náng;gy	320
+氰基孕酮	cíng;qo jī;ct yùn;nz tóng;yk	76
+清解颗粒	cīng;do jiě;dn kē;gy lì;ml	76
+清金糖浆	cīng;do jīn;rb táng;mk ziāng;lu	45
+清开灵片	cīng;do kāi;ac líng;eh piàn;pv	99
+青链霉素	cīng;fo liàn;ji méi;ym sù;fx	202
+清凉喉片	cīng;do liáng;dx hóu;ku piàn;pv	45
+清淋冲剂	cīng;do lín;da chōng;dv ziì;qd	45
+清淋胶囊	cīng;do lín;da jiāo;of náng;gy	45
+清淋颗粒	cīng;do lín;da kē;gy lì;ml	3
 青霉胺片	cīng;fo méi;ym àn;on piàn;pv	10
+青霉素胺	cīng;fo méi;ym sù;fx àn;on	45
+青霉素钾	cīng;fo méi;ym sù;fx jiǎ;jj	378
+青霉素类	cīng;fo méi;ym sù;fx lèi;md	88
+青霉素酶	cīng;fo méi;ym sù;fx méi;ym	9
+青霉素钠	cīng;fo méi;ym sù;fx nà;jn	6
+青哌环素	cīng;fo pài;ky huán;wb sù;fx	99
+青鹏膏剂	cīng;fo péng;on gāo;wo ziì;qd	50
+青鹏软膏	cīng;fo péng;on ruǎn;iq gāo;wo	153
+清平颗粒	cīng;do píng;au kē;gy lì;ml	45
+清清胶囊	cīng;do cīng;do jiāo;of náng;gy	212
+清热惊散	cīng;do rè;fh jīng;xx sàn;cw	45
+清热颗粒	cīng;do rè;fh kē;gy lì;ml	472
+清热散结	cīng;do rè;fh sàn;cw jié;sk	338
+清咽滴丸	cīng;do yàn;ky dī;dg wán;jd	153
+清咽饮茶	cīng;do yàn;ky yǐn;uq chá;cm	45
+青阳参片	cīng;fo yáng;eo cān;sp piàn;pv	45
+清鱼肝油	cīng;do yú;da gān;og yóu;dy	194
+清脂胶囊	cīng;do zhī;oo jiāo;of náng;gy	4
+曲安西龙	qǔ;wc ān;bn siī;ak lóng;yp	6
+驱风蛇酒	qū;mq fēng;jx shé;ib ziǔ;dy	45
+驱风药酒	qū;mq fēng;jx yào;cu ziǔ;dy	45
+曲氟沙星	qǔ;wc fú;qf shā;du sīng;ou	4
+去甲西泮	qù;ts jiǎ;ol siī;ak pàn;db	117
 曲拉西利	qǔ;wc lā;fl siī;ak lì;hd	10
-热淋清片	rè;fh lín;da cīng;do piàn;pv	10
+曲马唑嗪	qǔ;wc mǎ;va zuò;kr cín;kh	4
+曲美他嗪	qǔ;wc měi;yd tā;ry cín;kh	179
+曲美托嗪	qǔ;wc měi;yd tuō;fq cín;kh	45
+曲西达素	qǔ;wc siī;ak dá;zd sù;fx	45
+屈昔多巴	qū;ui siī;co duō;xx bā;sl	4
+曲昔匹特	qǔ;wc siī;co pǐ;ke tè;nc	45
+全大补丸	cüán;rw dà;ar bǔ;pb wán;jd	432
+全龟胶囊	cüán;rw guī;dd jiāo;of náng;gy	4
+全天麻片	cüán;rw tiān;ad má;ga piàn;pv	45
+热毒清锭	rè;fh dú;fm cīng;do dìng;jz	45
+热毒清片	rè;fh dú;fm cīng;do piàn;pv	4
+热痱搽剂	rè;fh fèi;bf chá;fm ziì;qd	45
+热淋清片	rè;fh lín;da cīng;do piàn;pv	45
+人参药酒	rén;pn shēn;sp yào;cu ziǔ;dy	144
+绒促性素	róng;su cù;rz sìng;xu sù;fx	261
+蓉生静丙	róng;cg shēng;pf zìng;fy bǐng;an	4
+乳块消片	rǔ;vv kuài;tg siāo;do piàn;pv	144
+乳癖消片	rǔ;vv pǐ;bx siāo;do piàn;pv	194
+乳泉颗粒	rǔ;vv cüán;bu kē;gy lì;ml	4
+乳腺通丸	rǔ;vv siàn;ou tōng;zy wán;jd	45
 瑞波西利	ruì;we bō;dp siī;ak lì;hd	10
+瑞波西汀	ruì;we bō;dp siī;ak tīng;dd	225
+瑞德西韦	ruì;we dé;rx siī;ak wéi;fv	778
 瑞齐替尼	ruì;we cií;wl tì;fo ní;ub	10
+赛克力嗪	sài;bb kè;ux lì;vp cín;kh	180
+赛克利嗪	sài;bb kè;ux lì;hd cín;kh	38
+塞克硝唑	sāi;bt kè;ux siāo;uo zuò;kr	6
+塞来昔布	sāi;bt lái;aa siī;co bù;uj	129
+赛洛西宾	sài;bb luò;dk siī;ak bīn;bb	342
+噻吗心安	sāi;kt ma;km sīn;dd ān;bn	207
+腮腺炎片	sāi;ox siàn;ou yán;hh piàn;pv	45
+三鞭补酒	sān;ae biān;cg bǔ;pb ziǔ;dy	45
+三黄洗剂	sān;ae huáng;cb siǐ;de ziì;qd	252
+三七胶囊	sān;ae ciī;av jiāo;of náng;gy	153
+三七药酒	sān;ae ciī;av yào;cu ziǔ;dy	45
+三清胶囊	sān;ae cīng;do jiāo;of náng;gy	45
+三蛇药酒	sān;ae shé;ib yào;cu ziǔ;dy	162
+三五七散	sān;ae wǔ;aw ciī;av sàn;cw	38
+桑白皮煎	sāng;ya bái;po pí;py ziān;bh	99
+沙棘糖浆	shā;du jí;uu táng;mk ziāng;lu	45
+杀烈癣粉	shā;xa liè;dh süǎn;by fěn;mf	45
+珊瑚癣净	shān;wc hú;wo süǎn;by zìng;dy	225
+山楂冲剂	shān;kl zhā;ad chōng;dv ziì;qd	162
+上清胶囊	shàng;ba cīng;do jiāo;of náng;gy	153
+肾宝合剂	shèn;lo bǎo;by hé;rk ziì;qd	220
+肾宝糖浆	shèn;lo bǎo;by táng;mk ziāng;lu	4
+参芪糖浆	shēn;sp qí;cu táng;mk ziāng;lu	45
+参茸补酒	shēn;sp róng;ce bǔ;pb ziǔ;dy	45
+肾上腺素	shèn;lo shàng;ba siàn;ou sù;fx	2735
+肾舒冲剂	shèn;lo shū;ry chōng;dv ziì;qd	45
+生白合剂	shēng;pf bái;po hé;rk ziì;qd	4
+生地黄煎	shēng;pf dì;ty huáng;cb ziān;bh	279
+生发擦剂	shēng;pf fà;fy cā;fu ziì;qd	45
+生精胶囊	shēng;pf zīng;mo jiāo;of náng;gy	256
+生脉糖浆	shēng;pf mài;oy táng;mk ziāng;lu	45
+升清胶囊	shēng;pc cīng;do jiāo;of náng;gy	45
+生三七散	shēng;pf sān;ae ciī;av sàn;cw	45
+生三七丸	shēng;pf sān;ae ciī;av wán;jd	45
+生犀角散	shēng;pf siī;un jiǎo;dy sàn;cw	45
+湿毒清片	shī;dy dú;fm cīng;do piàn;pv	117
+石辛含片	shí;ak sīn;lu hán;rk piàn;pv	76
+湿痒洗液	shī;dy yǎng;by siǐ;de yè;dw	50
+舒氨西林	shū;ry ān;qn siī;ak lín;aa	45
+舒肺糖浆	shū;ry fèi;oj táng;mk ziāng;lu	45
+舒肝冲剂	shū;ry gān;og chōng;dv ziì;qd	50
+舒康洗液	shū;ry kāng;gl siǐ;de yè;dw	45
+蜀漆散方	shǔ;si ciī;du sàn;cw fāng;wv	45
+疏清颗粒	shū;vi cīng;do kē;gy lì;ml	50
+熟三七散	shú;wh sān;ae ciī;av sàn;cw	45
+舒他西林	shū;ry tā;ry siī;ak lín;aa	99
+舒他新林	shū;ry tā;ry sīn;lt lín;aa	45
+舒胃药酒	shū;ry wèi;to yào;cu ziǔ;dy	45
+舒心冲剂	shū;ry sīn;dd chōng;dv ziì;qd	45
+舒心胶囊	shū;ry sīn;dd jiāo;of náng;gy	117
+舒心颗粒	shū;ry sīn;dd kē;gy lì;ml	45
+舒心宁片	shū;ry sīn;dd níng;bd piàn;pv	45
+舒心糖浆	shū;ry sīn;dd táng;mk ziāng;lu	45
+双肼屈嗪	shuāng;yy zǐng;oj qū;ui cín;kh	171
+双肼酞嗪	shuāng;yy zǐng;oj tài;yt cín;kh	4
+双硫醒样	shuāng;yy liú;ui sǐng;yu yàng;ay	225
+双清合剂	shuāng;yy cīng;do hé;rk ziì;qd	45
+司氟沙星	sī;vk fú;qf shā;du sīng;ou	76
+四季青片	sì;we jì;hz cīng;fo piàn;pv	45
 司帕沙星	sī;vk pà;jb shā;du sīng;ou	310
+四氢西泮	sì;we qīng;qj siī;ak pàn;db	50
+四维葡锌	sì;we wéi;sv pú;cf sīn;jx	45
+四物合剂	sì;we wù;nw hé;rk ziì;qd	266
+松脂合剂	sōng;ag zhī;oo hé;rk ziì;qd	117
+苏打合剂	sū;cb dá;fd hé;rk ziì;qd	4
+速释小丸	sù;zu shì;mf siǎo;lb wán;jd	4
+酸枣仁煎	suān;yw zǎo;ud rén;re ziān;bh	130
+酸枣仁酒	suān;yw zǎo;ud rén;re ziǔ;dy	76
+羧苄西林	suō;yw biàn;cb siī;ak lín;aa	13
+缩泉胶囊	suō;sb cüán;bu jiāo;of náng;gy	50
+他洛昔明	tā;ry luò;dk siī;co míng;oo	45
+他莫昔芬	tā;ry mò;cd siī;co fēn;cf	53
+酞氨西林	tài;yt ān;qn siī;ak lín;aa	117
+泰诺片剂	tài;iu nuò;yk piàn;pv ziì;qd	4
+胎盘浸膏	tāi;ok pán;vm zìn;dy gāo;wo	45
 泰瑞西利	tài;iu ruì;we siī;ak lì;hd	10
-替硝唑片	tì;fo siāo;uo zuò;kr piàn;pv	10
-西达本胺	siī;ak dá;zd běn;aa àn;on	10
+痰咳净片	tán;bh ké;kr zìng;dy piàn;pv	50
+痰咳净散	tán;bh ké;kr zìng;dy sàn;cw	50
+痰咳清片	tán;bh ké;kr cīng;do piàn;pv	45
+坦索罗辛	tǎn;td suǒ;ux luó;sx sīn;lu	284
+坦西莫司	tǎn;td siī;ak mò;cd sī;vk	171
+弹性酶片	tán;gu sìng;xu méi;ym piàn;pv	45
+糖足泡剂	táng;mk zú;kz pào;db ziì;qd	45
+特拉唑嗪	tè;nc lā;fl zuò;kr cín;kh	3
+替卡西林	tì;fo kǎ;ub siī;ak lín;aa	9
+替马西泮	tì;fo mǎ;va siī;ak pàn;db	194
+替米考星	tì;fo mǐ;ba kǎo;lk sīng;ou	320
+替莫西林	tì;fo mò;cd siī;ak lín;aa	180
+蹄鞘胶囊	tí;zj ciào;co jiāo;of náng;gy	45
+替硝唑片	tì;fo siāo;uo zuò;kr piàn;pv	248
+替硝唑栓	tì;fo siāo;uo zuò;kr shuān;aw	117
+田七补丸	tián;wu ciī;av bǔ;pb wán;jd	45
+田七胶囊	tián;wu ciī;av jiāo;of náng;gy	76
+田七颗粒	tián;wu ciī;av kē;gy lì;ml	45
+田七痛膏	tián;wu ciī;av tòng;by gāo;wo	45
+调经糖浆	tiáo;yk jīng;sj táng;mk ziāng;lu	45
+筒箭毒碱	tǒng;vk ziàn;vd dú;fm jiǎn;uk	266
+痛克搽剂	tòng;by kè;ux chá;fm ziì;qd	45
+痛泻要方	tòng;by siè;dy yào;xn fāng;wv	266
+头孢地秦	tóu;dd bāo;zb dì;ty cín;ih	225
+头孢地嗪	tóu;dd bāo;zb dì;ty cín;kh	65
+头孢呋辛	tóu;dd bāo;zb fū;kf sīn;lu	50
+头孢来星	tóu;dd bāo;zb lái;aa sīng;ou	99
+头孢力新	tóu;dd bāo;zb lì;vp sīn;lt	99
+头孢尼西	tóu;dd bāo;zb ní;ub siī;ak	9
+头孢曲秦	tóu;dd bāo;zb qǔ;wc cín;ih	50
+头孢曲嗪	tóu;dd bāo;zb qǔ;wc cín;kh	38
+头孢三嗪	tóu;dd bāo;zb sān;ae cín;kh	310
+头孢西丁	tóu;dd bāo;zb siī;ak dīng;al	3
+头孢西酮	tóu;dd bāo;zb siī;ak tóng;yk	50
+吐根糖浆	tǔ;kt gēn;ag táng;mk ziāng;lu	274
+托比西隆	tuō;fq bǐ;bb siī;ak lóng;eu	45
+托氟沙星	tuō;fq fú;qf shā;du sīng;ou	50
+托克络辛	tuō;fq kè;ux luò;sk sīn;lu	45
+托莫西汀	tuō;fq mò;cd siī;ak tīng;dd	396
+托品酰胺	tuō;fq pǐn;kk siān;ye àn;on	117
+妥舒沙星	tuǒ;vn shū;ry shā;du sīng;ou	50
+万拉法新	wàn;av lā;fl fǎ;dq sīn;lt	207
+维磷糖浆	wéi;sv lín;uf táng;mk ziāng;lu	45
+胃灵合剂	wèi;to líng;eh hé;rk ziì;qd	99
+胃苏冲剂	wèi;to sū;cb chōng;dv ziì;qd	171
+胃友新片	wèi;to yǒu;uy sīn;lt piàn;pv	45
+文拉法辛	wén;wx lā;fl fǎ;dq sīn;lu	232
+稳心胶囊	wěn;hx sīn;dd jiāo;of náng;gy	45
+稳心颗粒	wěn;hx sīn;dd kē;gy lì;ml	28
+窝洞涂剂	wō;bn dòng;dk tú;dm ziì;qd	45
+五积颗粒	wǔ;aw ziī;hv kē;gy lì;ml	45
+五积散酒	wǔ;aw ziī;hv sàn;cw ziǔ;dy	45
+五加参精	wǔ;aw jiā;lk cān;sp zīng;mo	45
+五加皮酒	wǔ;aw jiā;lk pí;py ziǔ;dy	374
+戊四硝酯	wù;gp sì;we siāo;uo zhǐ;yo	99
+洗必太栓	siǐ;de bì;xp tài;dd shuān;aw	76
+洗必泰栓	siǐ;de bì;xp tài;iu shuān;aw	65
+西布曲明	siī;ak bù;uj qǔ;wc míng;oo	126
+息喘灵片	siī;zx chuǎn;ke líng;eh piàn;pv	45
+西达本胺	siī;ak dá;zd běn;aa àn;on	261
+西地碘片	siī;ak dì;ty diǎn;ub piàn;pv	144
+西地那非	siī;ak dì;ty nà;ve fēi;ls	126
+席多蓝恩	sií;gj duō;xx lán;cm ēn;yx	19
+矽肺宁片	siī;ux fèi;oj níng;bd piàn;pv	45
+西格列汀	siī;ak gé;ak liè;dd tīng;dd	279
+西黄胶囊	siī;ak huáng;cb jiāo;of náng;gy	144
+西甲硅油	siī;ak jiǎ;ol guī;ut yóu;dy	369
+息咳糖浆	siī;zx ké;kr táng;mk ziāng;lu	45
+西拉普利	siī;ak lā;fl pǔ;bo lì;hd	180
+锡类含片	siī;jw lèi;md hán;rk piàn;pv	45
+西羚丹丸	siī;ak líng;ys dān;kd wán;jd	45
+西罗霉素	siī;ak luó;sx méi;ym sù;fx	45
+西罗莫司	siī;ak luó;sx mò;cd sī;vk	6
+西洛赛宾	siī;ak luò;dk sài;bb bīn;bb	45
+西洛他唑	siī;ak luò;dk tā;ry zuò;kr	3
+西马特罗	siī;ak mǎ;va tè;nc luó;sx	117
+西咪替丁	siī;ak mī;km tì;fo dīng;al	57
+西米替丁	siī;ak mǐ;ba tì;fo dīng;al	51
+西尼地平	siī;ak ní;ub dì;ty píng;au	99
+西曲溴铵	siī;ak qǔ;wc xiù;dq ǎn;jn	50
+西沙必利	siī;ak shā;du bì;xp lì;hd	6
+西沙比利	siī;ak shā;du bǐ;bb lì;hd	5
+息伤乐酊	siī;zx shāng;rl lè;px dīng;yd	90
+西司他丁	siī;ak sī;vk tā;ry dīng;al	306
+西索霉素	siī;ak suǒ;ux méi;ym sù;fx	50
+西索米星	siī;ak suǒ;ux mǐ;ba sīng;ou	117
+西酞普兰	siī;ak tài;yt pǔ;bo lán;bs	85
+西替利嗪	siī;ak tì;fo lì;hd cín;kh	78
+细辛脑片	siì;st sīn;lu nǎo;ox piàn;pv	45
+西园喉药	siī;ak yuán;wy hóu;ku yào;cu	45
+酰胺咪嗪	siān;ye àn;on mī;km cín;kh	180
+先锋必素	siān;ne fēng;jf bì;xp sù;fx	76
+先锋霉素	siān;ne fēng;jf méi;ym sù;fx	486
+腺苷钴胺	siàn;ou gān;cg gǔ;jg àn;on	274
+仙桂胶囊	siān;ru guì;at jiāo;of náng;gy	45
+仙鹤胶囊	siān;ru hè;bn jiāo;of náng;gy	45
 仙灵脾片	siān;ru líng;eh pí;ou piàn;pv	10
-消癌平片	siāo;do ái;bu píng;au piàn;pv	10
+仙鹿补酒	siān;ru lù;gb bǔ;pb ziǔ;dy	45
+痫症心丸	xián;ba zhèng;bv sīn;dd wán;jd	45
+氙注射液	siān;qu zhù;dv shè;uc yè;dw	45
+香草醛片	xiāng;ho cǎo;cu cüán;yw piàn;pv	45
+消癌平片	siāo;do ái;bu píng;au piàn;pv	202
+小败毒膏	siǎo;lb bài;bw dú;fm gāo;wo	144
+消白软膏	siāo;do bái;po ruǎn;iq gāo;wo	4
+消斑胶囊	siāo;do bān;ww jiāo;of náng;gy	45
+小半夏汤	siǎo;lb bàn;bf xià;bw tāng;dp	180
+小檗胺片	siǎo;lb bò;ua àn;on piàn;pv	45
+小檗碱片	siǎo;lb bò;ua jiǎn;uk piàn;pv	256
+小柴胡片	siǎo;lb chái;va hú;go piàn;pv	3
+小柴胡散	siǎo;lb chái;va hú;go sàn;cw	76
+小柴胡汤	siǎo;lb chái;va hú;go tāng;dp	138
+小承气汤	siǎo;lb chéng;ln qì;pv tāng;dp	16
+小儿氨酚	siǎo;lb ér;pv ān;qn fēn;yf	446
+小儿百寿	siǎo;lb ér;pv bǎi;ab shòu;fc	171
+小儿百效	siǎo;lb ér;pv bǎi;ab xiào;ww	45
+小儿导赤	siǎo;lb ér;pv dǎo;sc chì;tb	45
+小儿定喘	siǎo;lb ér;pv dìng;bz chuǎn;ke	4
+小儿肺宝	siǎo;lb ér;pv fèi;oj bǎo;by	45
+小儿积散	siǎo;lb ér;pv ziī;hv sàn;cw	45
+小儿金丹	siǎo;lb ér;pv jīn;rb dān;kd	315
+小儿惊散	siǎo;lb ér;pv jīng;xx sàn;cw	45
+小儿惊丸	siǎo;lb ér;pv jīng;xx wán;jd	45
+消尔痛酊	siāo;do ěr;dx tòng;by dīng;yd	45
+消风颗粒	siāo;do fēng;jx kē;gy lì;ml	4
+硝呋莫司	siāo;uo fū;kf mò;cd sī;vk	180
+硝呋太尔	siāo;uo fū;kf tài;dd ěr;dx	16
+硝呋烯腙	siāo;uo fū;kf xī;hj zōng;ou	4
+消褐灵片	siāo;do hè;pr líng;eh piàn;pv	50
+消化酶片	siāo;do huà;rb méi;ym piàn;pv	45
+小活络丹	siǎo;lb huó;du luò;sk dān;kd	3
+小活络片	siǎo;lb huó;du luò;sk piàn;pv	45
+小活络丸	siǎo;lb huó;du luò;sk wán;jd	270
+硝基安定	siāo;uo jī;ct ān;bn dìng;bz	261
+小蓟饮子	siǎo;lb jì;cd yǐn;uq zi;la	130
+硝甲西泮	siāo;uo jiǎ;ol siī;ak pàn;db	189
+小建中汤	siǎo;lb jiàn;zy zhōng;kl tāng;dp	50
 小接骨丹	siǎo;lb ziē;fn gǔ;go dān;kd	76
+小金创药	siǎo;lb jīn;rb chuàng;rd yào;cu	4
+小金胶囊	siǎo;lb jīn;rb jiāo;of náng;gy	144
 消咳喘片	siāo;do ké;kr chuǎn;ke piàn;pv	10
-消渴灵片	siāo;do kě;dr líng;eh piàn;pv	10
-消渴平片	siāo;do kě;dr píng;au piàn;pv	10
-消络痛片	siāo;do luò;sk tòng;by piàn;pv	10
-心达康片	sīn;dd dá;zd kāng;gl piàn;pv	10
-心律宁片	sīn;dd lǜ;ry níng;bd piàn;pv	10
-心脉通片	sīn;dd mài;oy tōng;zy piàn;pv	10
-心脑静片	sīn;dd nǎo;ox zìng;fy piàn;pv	10
-心神宁片	sīn;dd shén;pu níng;bd piàn;pv	10
-新生化片	sīn;lt shēng;pf huà;rb piàn;pv	10
+消咳胶囊	siāo;do ké;kr jiāo;of náng;gy	45
+消咳颗粒	siāo;do ké;kr kē;gy lì;ml	76
+消渴灵片	siāo;do kě;dr líng;eh piàn;pv	99
+消咳宁片	siāo;do ké;kr níng;bd piàn;pv	153
+消渴平片	siāo;do kě;dr píng;au piàn;pv	45
+消咳糖浆	siāo;do ké;kr táng;mk ziāng;lu	45
+消络痛片	siāo;do luò;sk tòng;by piàn;pv	45
+消朦胶囊	siāo;do méng;ou jiāo;of náng;gy	4
+消朦眼膏	siāo;do méng;ou yǎn;og gāo;wo	45
+小诺霉素	siǎo;lb nuò;yk méi;ym sù;fx	9
+消痞颗粒	siāo;do pǐ;bk kē;gy lì;ml	45
+小青龙汤	siǎo;lb cīng;fo lóng;yp tāng;dp	66
+消乳岩丸	siāo;do rǔ;vv yán;uu wán;jd	45
+小施尔康	siǎo;lb shī;fy ěr;dx kāng;gl	346
+消食颗粒	siāo;do shí;rg kē;gy lì;ml	50
+消栓胶囊	siāo;do shuān;aw jiāo;of náng;gy	45
+消栓颗粒	siāo;do shuān;aw kē;gy lì;ml	45
+硝酸甘油	siāo;uo suān;yw gān;ca yóu;dy	414
+消痰咳片	siāo;do tán;bh ké;kr piàn;pv	45
+消糖灵片	siāo;do táng;mk líng;eh piàn;pv	99
+消痛贴膏	siāo;do tòng;by tiē;bv gāo;wo	225
+小温中丸	siǎo;lb wēn;dm zhōng;kl wán;jd	4
+硝西泮片	siāo;uo siī;ak pàn;db piàn;pv	117
+小陷胸汤	siǎo;lb xiàn;ej xiōng;ox tāng;dp	328
+小续命汤	siǎo;lb sǜ;sd mìng;re tāng;dp	3
+消炎灵片	siāo;do yán;hh líng;eh piàn;pv	45
+消炎痛膏	siāo;do yán;hh tòng;by gāo;wo	45
+消炎痛片	siāo;do yán;hh tòng;by piàn;pv	153
+消炎痛栓	siāo;do yán;hh tòng;by shuān;aw	270
+逍遥胶囊	siāo;zo yáo;zf jiāo;of náng;gy	45
+逍遥颗粒	siāo;zo yáo;zf kē;gy lì;ml	171
+逍遥蜜丸	siāo;zo yáo;zf mì;bi wán;jd	45
+消银胶囊	siāo;do yín;jg jiāo;of náng;gy	50
+消银颗粒	siāo;do yín;jg kē;gy lì;ml	130
+消瘿灵丸	siāo;do yǐng;bn líng;eh wán;jd	45
+消疣颗粒	siāo;do yóu;by kē;gy lì;ml	45
+消痔灵片	siāo;do zhì;bc líng;eh piàn;pv	45
+消痔软膏	siāo;do zhì;bc ruǎn;iq gāo;wo	45
+消肿散结	siāo;do zhǒng;ov sàn;cw jié;sk	468
+消肿痛膏	siāo;do zhǒng;ov tòng;by gāo;wo	45
+泻定胶囊	siè;dy dìng;bz jiāo;of náng;gy	45
+泻痢宁片	siè;dy lì;bd níng;bd piàn;pv	45
+泻痢停片	siè;dy lì;bd tíng;rd piàn;pv	50
+泻痢消片	siè;dy lì;bd siāo;do piàn;pv	45
+泻停胶囊	siè;dy tíng;rd jiāo;of náng;gy	45
+泻心胶囊	siè;dy sīn;dd jiāo;of náng;gy	45
+心安胶囊	sīn;dd ān;bn jiāo;of náng;gy	76
+心安宁片	sīn;dd ān;bn níng;bd piàn;pv	45
+辛达卡拉	sīn;lu dá;zd kǎ;ub lā;fl	225
+心达康片	sīn;dd dá;zd kāng;gl piàn;pv	45
+心得安片	sīn;dd dé;rc ān;bn piàn;pv	130
+辛伐他汀	sīn;lu fá;rg tā;ry tīng;dd	22
+新高钙片	sīn;lt gāo;wk gài;jg piàn;pv	45
+新冠疫苗	sīn;lt guān;bc yì;bu miáo;ct	1488
+新癀胶囊	sīn;lt huáng;bb jiāo;of náng;gy	45
+新健胃片	sīn;lt jiàn;ry wèi;to piàn;pv	45
+新降糖片	sīn;lt jiàng;ef táng;mk piàn;pv	4
+新脚气膏	sīn;lt jiǎo;oe qì;pv gāo;wo	50
+新洁尔灭	sīn;lt jié;dk ěr;dx miè;ah	22
+心康胶囊	sīn;dd kāng;gl jiāo;of náng;gy	45
+辛可卡因	sīn;lu kě;dk kǎ;ub yīn;wd	130
+心可舒片	sīn;dd kě;dk shū;ry piàn;pv	279
+心可舒丸	sīn;dd kě;dk shū;ry wán;jd	4
+新乐康片	sīn;lt lè;px kāng;gl piàn;pv	76
+心律宁片	sīn;dd lǜ;ry níng;bd piàn;pv	45
+心脉安片	sīn;dd mài;oy ān;bn piàn;pv	45
+心脉通片	sīn;dd mài;oy tōng;zy piàn;pv	50
+新螨宁霜	sīn;lt mǎn;il níng;bd shuāng;yo	4
+新霉素片	sīn;lt méi;ym sù;fx piàn;pv	4
+心脑健片	sīn;dd nǎo;ox jiàn;ry piàn;pv	45
+心脑静片	sīn;dd nǎo;ox zìng;fy piàn;pv	45
+心脑康片	sīn;dd nǎo;ox kāng;gl piàn;pv	4
+新皮宝霜	sīn;lt pí;py bǎo;by shuāng;yo	45
+新皮炎膏	sīn;lt pí;py yán;hh gāo;wo	45
+辛芩冲剂	sīn;lu qín;cv chōng;dv ziì;qd	99
+辛芩颗粒	sīn;lu qín;cv kē;gy lì;ml	144
+新清宁片	sīn;lt cīng;do níng;bd piàn;pv	99
+心荣胶囊	sīn;dd róng;ca jiāo;of náng;gy	45
+心荣颗粒	sīn;dd róng;ca kē;gy lì;ml	45
+心神宁片	sīn;dd shén;pu níng;bd piàn;pv	117
+新生化片	sīn;lt shēng;pf huà;rb piàn;pv	45
+新生霉素	sīn;lt shēng;pf méi;ym sù;fx	3
+心舒宝片	sīn;dd shū;ry bǎo;by piàn;pv	4
+心舒胶囊	sīn;dd shū;ry jiāo;of náng;gy	50
+心舒乐片	sīn;dd shū;ry lè;px piàn;pv	45
+心舒宁片	sīn;dd shū;ry níng;bd piàn;pv	45
+新斯的明	sīn;lt sī;ct de;bu míng;oo	53
+新泰洛其	sīn;lt tài;iu luò;dk qí;cb	4
+心痛定片	sīn;dd tòng;by dìng;bz piàn;pv	99
+心痛康片	sīn;dd tòng;by kāng;gl piàn;pv	45
+心通颗粒	sīn;dd tōng;zy kē;gy lì;ml	45
 心无忧片	sīn;dd wú;ay yōu;xy piàn;pv	10
-心血宁片	sīn;dd xuè;pm níng;bd piàn;pv	10
+新雪胶囊	sīn;lt süě;ye jiāo;of náng;gy	4
+新雪颗粒	sīn;lt süě;ye kē;gy lì;ml	99
+心血宁片	sīn;dd xuè;pm níng;bd piàn;pv	50
+新亚甲蓝	sīn;lt yà;ay jiǎ;ol lán;cm	45
+心元胶囊	sīn;dd yuán;aw jiāo;of náng;gy	50
+星瑙灵片	sīng;ou nǎo;wx líng;eh piàn;pv	90
+醒脾颗粒	sǐng;yu pí;ou kē;gy lì;ml	117
+胸痹茶剂	xiōng;ox bì;bw chá;cm ziì;qd	45
+胸腺法新	xiōng;ox siàn;ou fǎ;dq sīn;lt	171
+胸腺五肽	xiōng;ox siàn;ou wǔ;aw tài;ot	3
+旋覆花汤	süán;fz fù;xw huā;cb tāng;dp	50
+癣灵药水	süǎn;by líng;eh yào;cu shuǐ;ln	45
+癣湿药水	süǎn;by shī;dy yào;cu shuǐ;ln	45
+雪胆素片	süě;ye dǎn;od sù;fx piàn;pv	45
+血竭搽剂	xuè;pm jié;lr chá;fm ziì;qd	45
+雪莲药酒	süě;ye lián;ci yào;cu ziǔ;dy	45
 血脉清片	xuè;pm mài;oy cīng;do piàn;pv	10
-炎痢净片	yán;hh lì;bd zìng;dy piàn;pv	10
-炎立消片	yán;hh lì;wb siāo;do piàn;pv	10
-炎热清片	yán;hh rè;fh cīng;do piàn;pv	10
-养心氏片	yǎng;yl sīn;dd shì;pv piàn;pv	10
+血宁糖浆	xuè;pm níng;bd táng;mk ziāng;lu	4
+鳕鱼肝油	süě;ye yú;da gān;og yóu;dy	428
+荨麻疹丸	sǘn;cc má;ga zhěn;bp wán;jd	99
+烟肼丁醇	yān;hy zǐng;oj dīng;al chún;yz	90
+烟肼酰胺	yān;hy zǐng;oj siān;ye àn;on	50
+炎痢净片	yán;hh lì;bd zìng;dy piàn;pv	45
+炎立消片	yán;hh lì;wb siāo;do piàn;pv	45
+炎宁冲剂	yán;hh níng;bd chōng;dv ziì;qd	144
+咽清颗粒	yàn;ky cīng;do kē;gy lì;ml	45
+炎热清片	yán;hh rè;fh cīng;do piàn;pv	50
+盐酸丙嗪	yán;tm suān;yw bǐng;an cín;kh	50
+盐酸羟嗪	yán;tm suān;yw qiǎng;yj cín;kh	45
+烟酰胺片	yān;hy siān;ye àn;on piàn;pv	225
+咽炎清片	yān;ky yán;hh cīng;do piàn;pv	45
+氧氟沙星	yǎng;qy fú;qf shā;du sīng;ou	94
+养胃冲剂	yǎng;yl wèi;to chōng;dv ziì;qd	180
+养心氏片	yǎng;yl sīn;dd shì;pv piàn;pv	50
+养阴静片	yǎng;yl yīn;eo zìng;fy piàn;pv	90
+养阴静丸	yǎng;yl yīn;eo zìng;fy wán;jd	45
+养正合剂	yǎng;yl zhèng;av hé;rk ziì;qd	45
+夜宁冲剂	yè;ww níng;bd chōng;dv ziì;qd	45
+夜宁糖浆	yè;ww níng;bd táng;mk ziāng;lu	45
+乙胺嗪片	yǐ;vv àn;on cín;kh piàn;pv	45
+异丙嗪片	yì;sc bǐng;an cín;kh piàn;pv	144
+异丙西林	yì;sc bǐng;an siī;ak lín;aa	4
+异丙烟肼	yì;sc bǐng;an yān;hy zǐng;oj	76
+伊达比星	yī;ry dá;zd bǐ;bb sīng;ou	3
+抑菌喷剂	yì;fe jūn;ch pēn;kb ziì;qd	284
+抑菌洗液	yì;fe jūn;ch siǐ;de yè;dw	171
+异卡波肼	yì;sc kǎ;ub bō;dp zǐng;oj	207
+乙拉西坦	yǐ;vv lā;fl siī;ak tǎn;td	418
+伊来西胺	yī;ry lái;aa siī;ak àn;on	45
+益母冲剂	yì;bm mǔ;md chōng;dv ziì;qd	4
+益母糖浆	yì;bm mǔ;md táng;mk ziāng;lu	45
+依那西普	yī;ry nà;ve siī;ak pǔ;bo	396
+依诺沙星	yī;ry nuò;yk shā;du sīng;ou	9
+异帕米星	yì;sc pà;jb mǐ;ba sīng;ou	130
+依硼搽剂	yī;ry péng;uo chá;fm ziì;qd	45
+依前列醇	yī;ry cián;bd liè;dd chún;yz	4
+一清胶囊	yì;aa cīng;do jiāo;of náng;gy	3
+一清颗粒	yì;aa cīng;do kē;gy lì;ml	207
+益肾糖浆	yì;bm shèn;lo táng;mk ziāng;lu	45
+依他佐辛	yī;ry tā;ry zuǒ;rg sīn;lu	50
+依替米星	yī;ry tì;fo mǐ;ba sīng;ou	266
+依托考昔	yī;ry tuō;fq kǎo;lk siī;co	284
+依托尼秦	yī;ry tuō;fq ní;ub cín;ih	4
+依西美坦	yī;ry siī;ak měi;yd tǎn;td	41
+益心胶囊	yì;bm sīn;dd jiāo;of náng;gy	45
+益心康片	yì;bm sīn;dd kāng;gl piàn;pv	45
+益心颗粒	yì;bm sīn;dd kē;gy lì;ml	45
+益心舒片	yì;bm sīn;dd shū;ry piàn;pv	45
+益心酮片	yì;bm sīn;dd tóng;yk piàn;pv	45
+益血糖浆	yì;bm xuè;pm táng;mk ziāng;lu	45
+异烟肼片	yì;sc yān;hy zǐng;oj piàn;pv	153
+异烟酰肼	yì;sc yān;hy siān;ye zǐng;oj	4
 茵白冲剂	yīn;cy bái;po chōng;dv ziì;qd	10
+银柴冲剂	yín;jg chái;va chōng;dv ziì;qd	76
+银柴合剂	yín;jg chái;va hé;rk ziì;qd	45
 吲哚菁绿	yǐn;kl duǒ;ka zīng;co lǜ;su	171
 吲哚美辛	yǐn;kl duǒ;ka měi;yd sīn;lu	549
-正心泰片	zhèng;av sīn;dd tài;iu piàn;pv	10
+银花糖浆	yín;jg huā;cb táng;mk ziāng;lu	45
+茵花洗液	yīn;cy huā;cb siǐ;de yè;dw	4
+银黄冲剂	yín;jg huáng;cb chōng;dv ziì;qd	4
+银翘合剂	yín;jg qiào;yx hé;rk ziì;qd	4
+银屑胶囊	yín;jg siè;uo jiāo;of náng;gy	252
+银屑颗粒	yín;jg siè;uo kē;gy lì;ml	130
+瘿瘤消丸	yǐng;bn liú;bt siāo;do wán;jd	45
+樱桃糖浆	yīng;an tao;av táng;mk ziāng;lu	207
+疣迪搽剂	yóu;by dí;zy chá;fm ziì;qd	45
+愈风宁心	yù;rx fēng;jx níng;bd sīn;dd	189
+郁金银屑	yù;ue jīn;rb yín;jg siè;uo	50
+鱼精蛋白	yú;da zīng;mo dàn;zi bái;po	495
+玉苓消渴	yù;wd líng;cs siāo;do kě;dr	45
+玉泉颗粒	yù;wd cüán;bu kē;gy lì;ml	4
+鱼腥草素	yú;da sīng;ou cǎo;cu sù;fx	9
+鱼腥草油	yú;da sīng;ou cǎo;cu yóu;dy	45
+愈癣药水	yù;rx süǎn;by yào;cu shuǐ;ln	45
+远志糖浆	yuǎn;zy zhì;tx táng;mk ziāng;lu	194
+晕复静片	yūn;oi fù;pw zìng;fy piàn;pv	45
+孕康糖浆	yùn;nz kāng;gl táng;mk ziāng;lu	4
+枣参合剂	zǎo;ud cān;sp hé;rk ziì;qd	45
+泽漆汤方	zé;df ciī;du tāng;dp fāng;wv	45
+泽它洗液	zé;df tā;bb siǐ;de yè;dw	45
+泽泻汤方	zé;df siè;dy tāng;dp fāng;wv	45
+扎西他滨	zhā;fv siī;ak tā;ry bīn;db	153
+樟脑搽剂	zhāng;au nǎo;ox chá;fm ziì;qd	45
+正心泰片	zhèng;av sīn;dd tài;iu piàn;pv	45
+脂肪乳剂	zhī;oo fáng;of rǔ;vv ziì;qd	180
+痔疾洗液	zhì;bc zií;bu siǐ;de yè;dw	45
+止咳冲剂	zhǐ;lb ké;kr chōng;dv ziì;qd	234
+止咳合剂	zhǐ;lb ké;kr hé;rk ziì;qd	100
+止咳梨浆	zhǐ;lb ké;kr lí;ha ziāng;lu	45
+止咳糖浆	zhǐ;lb ké;kr táng;mk ziāng;lu	116
+脂清胶囊	zhī;oo cīng;do jiāo;of náng;gy	45
+止泻颗粒	zhǐ;lb siè;dy kē;gy lì;ml	3
+止泻灵片	zhǐ;lb siè;dy líng;eh piàn;pv	45
 痔炎消片	zhì;bc yán;hh siāo;do piàn;pv	10
 止痒洗剂	zhǐ;lb yǎng;by siǐ;de ziì;qd	10
-肿节风片	zhǒng;ov zié;ce fēng;jx piàn;pv	10
+肿节风片	zhǒng;ov zié;ce fēng;jx piàn;pv	45
+肿痛搽剂	zhǒng;ov tòng;by chá;fm ziì;qd	45
+竹沥合剂	zhú;gg lì;dl hé;rk ziì;qd	45
+注射剂类	zhù;dv shè;uc ziì;qd lèi;md	162
+注射剂量	zhù;dv shè;uc ziì;qd liàng;ol	477
+壮骨药酒	zhuàng;lt gǔ;go yào;cu ziǔ;dy	45
+壮血药酒	zhuàng;lt xuè;pm yào;cu ziǔ;dy	45
+追风药酒	zhuī;zl fēng;jx yào;cu ziǔ;dy	4
+紫雪胶囊	zǐ;vx süě;ye jiāo;of náng;gy	45
+紫雪颗粒	zǐ;vx süě;ye kē;gy lì;ml	45
+足癣药水	zú;kz süǎn;by yào;cu shuǐ;ln	45
+左奥硝唑	zuǒ;ug ào;pd siāo;uo zuò;kr	130
+左氟沙星	zuǒ;ug fú;qf shā;du sīng;ou	171
+唑拉西泮	zuò;kr lā;fl siī;ak pàn;db	130
+左美丙嗪	zuǒ;ug měi;yd bǐng;an cín;kh	4
+左西孟旦	zuǒ;ug siī;ak mèng;zm dàn;oa	189
+左旋多巴	zuǒ;ug süán;fz duō;xx bā;sl	47
+左旋咪唑	zuǒ;ug süán;fz mī;km zuò;kr	6
+坐珠达西	zuò;tr zhū;ww dá;zd siī;ak	4
 阿呋唑嗪片	ā;ek fū;kf zuò;kr cín;kh piàn;pv	10
 阿莫西林片	ā;ek mò;cd siī;ak lín;aa piàn;pv	10
 阿尼西坦片	ā;ek ní;ub siī;ak tǎn;td piàn;pv	10
@@ -3637,6 +4999,7 @@ sort: by_weight
 小儿风热清颗粒	siǎo;lb ér;pv fēng;jx rè;fh cīng;do kē;gy lì;ml	10
 小儿复方贝诺酯	siǎo;lb ér;pv fù;pw fāng;wv bèi;kr nuò;yk zhǐ;yo	10
 小儿复方鸡内金	siǎo;lb ér;pv fù;pw fāng;wv jī;yn nèi;kr jīn;rb	10
+小儿复方赖氨酸	siǎo;lb ér;pv fù;pw fāng;wv lài;ub ān;qn suān;yw	10
 小儿复方四维亚	siǎo;lb ér;pv fù;pw fāng;wv sì;we wéi;sv yà;ay	10
 小儿敷脐止泻散	siǎo;lb ér;pv fū;fw cií;oq zhǐ;lb siè;dy sàn;cw	10
 小儿腹泻宁糖浆	siǎo;lb ér;pv fù;ow siè;dy níng;bd táng;mk ziāng;lu	10
@@ -3685,6 +5048,7 @@ sort: by_weight
 小儿四维葡钙片	siǎo;lb ér;pv sì;we wéi;sv pú;cf gài;jg piàn;pv	10
 小儿羧甲司坦片	siǎo;lb ér;pv suō;yw jiǎ;ol sī;vk tǎn;td piàn;pv	10
 小儿退热口服液	siǎo;lb ér;pv tuì;zg rè;fh kǒu;la fú;oy yè;dw	10
+小儿五维赖氨酸	siǎo;lb ér;pv wǔ;aw wéi;sv lài;ub ān;qn suān;yw	10
 小儿消积化虫散	siǎo;lb ér;pv siāo;do ziī;hv huà;rb chóng;vd sàn;cw	10
 小儿消积驱虫散	siǎo;lb ér;pv siāo;do ziī;hv qū;mq chóng;vd sàn;cw	10
 小儿消食健胃丸	siǎo;lb ér;pv siāo;do shí;rg jiàn;ry wèi;to wán;jd	10
@@ -3692,6 +5056,7 @@ sort: by_weight
 小儿泻速停颗粒	siǎo;lb ér;pv siè;dy sù;zu tíng;rd kē;gy lì;ml	10
 小儿泄泻停颗粒	siǎo;lb ér;pv siè;du siè;dy tíng;rd kē;gy lì;ml	10
 小儿厌食口服液	siǎo;lb ér;pv yàn;iq shí;rg kǒu;la fú;oy yè;dw	10
+小儿盐酸异丙嗪	siǎo;lb ér;pv yán;tm suān;yw yì;sc bǐng;an cín;kh	10
 小儿珍珠镇惊丸	siǎo;lb ér;pv zhēn;wp zhū;ww zhèn;jb jīng;xx wán;jd	10
 小儿正肠止泻片	siǎo;lb ér;pv zhèng;av cháng;op zhǐ;lb siè;dy piàn;pv	10
 小儿支气管哮喘	siǎo;lb ér;pv zhī;uy qì;pv guǎn;vl xiào;kz chuǎn;ke	10

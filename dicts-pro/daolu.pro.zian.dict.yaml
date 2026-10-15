@@ -1,0 +1,2505 @@
+# Rime dictionary
+# encoding: utf-8
+# ------道路词库-------
+---
+name: daolu.zian
+version: "LTS"
+sort: by_weight
+...
+爱心路	ài;vy sīn;dd lù;zk	369
+安捷街	ān;bn zié;fz jiē;rt	232
+安西街	ān;bn siī;ak jiē;rt	328
+安西路	ān;bn siī;ak lù;zk	842
+安心街	ān;bn sīn;dd jiē;rt	644
+八七路	bā;pn ciī;av lù;zk	266
+白象街	bái;po siàng;du jiē;rt	13
+白象路	bái;po siàng;du lù;zk	225
+百祥路	bǎi;ab siáng;py lù;zk	179
+板井路	bǎn;ay zǐng;ac lù;zk	279
+宝泉路	bǎo;by cüán;bu lù;zk	234
+北清路	běi;lb cīng;do lù;zk	19
+北雀路	běi;lb cüè;xv lù;zk	310
+北小街	běi;lb siǎo;lb jiē;rt	464
+北新街	běi;lb sīn;lt jiē;rt	3
+北新路	běi;lb sīn;lt lù;zk	652
+碧湘街	bì;wu siāng;do jiē;rt	364
+伯爵街	bó;rb züé;vc jiē;rt	288
+伯先路	bó;rb siān;ne lù;zk	356
+仓前街	cāng;rv cián;bd jiē;rt	432
+厂前街	chǎng;ap cián;bd jiē;rt	238
+常青街	cháng;xj cīng;fo jiē;rt	490
+长青街	cháng;pn cīng;fo jiē;rt	395
+常青路	cháng;xj cīng;fo lù;zk	531
+长青路	cháng;pn cīng;fo lù;zk	268
+长清路	cháng;pn cīng;do lù;zk	178
+昌西路	chāng;oo siī;ak lù;zk	410
+长新街	cháng;pn sīn;lt jiē;rt	284
+长新路	cháng;pn sīn;lt lù;zk	234
+阊胥路	chāng;mo sǖ;zo lù;zk	351
+城墙街	chéng;ti ciáng;tk jiē;rt	292
+城西街	chéng;ti siī;ak jiē;rt	612
+城西路	chéng;ti siī;ak lù;zk	806
+诚信路	chéng;yi sìn;rk lù;zk	270
+城星路	chéng;ti sīng;ou lù;zk	217
+崇信街	chóng;uu sìn;rk jiē;rt	315
+崇信路	chóng;uu sìn;rk lù;zk	180
+创新路	chuàng;rd sīn;lt lù;zk	648
+春秋路	chūn;io ciū;hh lù;zk	356
+春秀路	chūn;io siù;hn lù;zk	486
+翠泉路	cuì;xu cüán;bu lù;zk	212
+翠星路	cuì;xu sīng;ou lù;zk	274
+村前街	cūn;ac cián;bd jiē;rt	207
+大千路	dà;ar ciān;pu lù;zk	248
+大西街	dà;ar siī;ak jiē;rt	378
+打锡街	dǎ;fd siī;jw jiē;rt	293
+大西路	dà;ar siī;ak lù;zk	598
+大新街	dà;ar sīn;lt jiē;rt	410
+大新路	dà;ar sīn;lt lù;zk	441
+丹青路	dān;kd cīng;fo lù;zk	297
+道前街	dào;zz cián;bd jiē;rt	436
+德星路	dé;rx sīng;ou lù;zk	190
+第七街	dì;vd ciī;av jiē;rt	190
+定西路	dìng;bz siī;ak lù;zk	16
+鼎新路	dǐng;po sīn;lt lù;zk	243
+东进路	dōng;ax zìn;zj lù;zk	342
+东井街	dōng;ax zǐng;ac jiē;rt	109
+东靖路	dōng;ax zìng;lo lù;zk	5
+东七路	dōng;ax ciī;av lù;zk	558
+东泉路	dōng;ax cüán;bu lù;zk	292
+东西街	dōng;ax sii;ak jiē;rt	716
+东新街	dōng;ax sīn;lt jiē;rt	41
+东新路	dōng;ax sīn;lt lù;zk	3
+东绣路	dōng;ax siù;sn lù;zk	274
+斗西路	dòu;ud siī;ak lù;zk	31
+二七路	èr;aa ciī;av lù;zk	3
+发祥街	fā;fy siáng;py jiē;rt	333
+范西路	fàn;cv siī;ak lù;zk	410
+反修路	fǎn;iy siū;rp lù;zk	190
+方斜路	fāng;wv sié;rd lù;zk	342
+肥西路	féi;ob siī;ak lù;zk	22
+奋进路	fèn;dt zìn;zj lù;zk	202
+汾西路	fén;df siī;ak lù;zk	346
+凤栖路	fèng;jy ciī;ax lù;zk	32
+风情街	fēng;jx cíng;xo jiē;rt	110
+丰西路	fēng;sl siī;ak lù;zk	356
+凤西路	fèng;jy siī;ak lù;zk	198
+凤翔路	fèng;jy siáng;yx lù;zk	16
+丰翔路	fēng;sl siáng;yx lù;zk	14
+凤新路	fèng;jy sīn;lt lù;zk	288
+府前街	fǔ;gc cián;bd jiē;rt	540
+府前路	fǔ;gc cián;bd lù;zk	513
+府青路	fǔ;gc cīng;fo lù;zk	414
+福全街	fú;pt cüán;rw jiē;rt	369
+福泉路	fú;pt cüán;bu lù;zk	306
+府西街	fǔ;gc siī;ak jiē;rt	585
+府西路	fǔ;gc siī;ak lù;zk	353
+福祥街	fú;pt siáng;py jiē;rt	180
+福祥路	fú;pt siáng;py lù;zk	400
+福新路	fú;pt sīn;lt lù;zk	382
+福星路	fú;pt sīng;ou lù;zk	85
+辅星路	fǔ;if sīng;ou lù;zk	68
+干将路	gān;au ziāng;lc lù;zk	526
+甘泉街	gān;ca cüán;bu jiē;rt	454
+甘泉路	gān;ca cüán;bu lù;zk	3
+港前路	gǎng;ds cián;bd lù;zk	212
+港西街	gǎng;ds siī;ak jiē;rt	392
+港西路	gǎng;ds siī;ak lù;zk	594
+高青路	gāo;wk cīng;fo lù;zk	320
+高新路	gāo;wk sīn;lt lù;zk	598
+革新街	gé;cu sīn;lt jiē;rt	418
+革新路	gé;cu sīn;lt lù;zk	500
+宫前路	gōng;bk cián;bd lù;zk	194
+拱秀路	gǒng;fg siù;hn lù;zk	266
+鼓西路	gǔ;tv siī;ak lù;zk	277
+鼓新路	gǔ;tv sīn;lt lù;zk	292
+观前街	guān;yj cián;bd jiē;rt	66
+观泉路	guān;yj cüán;bu lù;zk	243
+广济街	guǎng;di ziì;dq jiē;rt	78
+广济路	guǎng;di ziì;dq lù;zk	468
+广西路	guǎng;di siī;ak lù;zk	41
+光新路	guāng;xe sīn;lt lù;zk	513
+广宣街	guǎng;di süān;bd jiē;rt	207
+桂箐路	guì;at cìng;vo lù;zk	207
+贵新街	guì;vb sīn;lt jiē;rt	297
+国际街	guó;wy ziì;eu jiē;rt	500
+国济路	guó;wy ziì;dq lù;zk	122
+海青路	hǎi;dm cīng;fo lù;zk	279
+海西路	hǎi;dm siī;ak lù;zk	738
+海鲜街	hǎi;dm siān;yy jiē;rt	35
+海秀路	hǎi;dm siù;hn lù;zk	414
+汉西路	hàn;dy siī;ak lù;zk	374
+航津路	háng;vj zīn;dy lù;zk	238
+航新路	háng;vj sīn;lt lù;zk	261
+河清路	hé;dk cīng;do lù;zk	232
+荷清路	hé;ck cīng;do lù;zk	127
+河西街	hé;dk siī;ak jiē;rt	495
+河西路	hé;dk siī;ak lù;zk	770
+鹤翔路	hè;bn siáng;yx lù;zk	171
+宏济街	hóng;bs ziì;dq jiē;rt	266
+红井路	hóng;sg zǐng;ac lù;zk	25
+虹井路	hóng;ig zǐng;ac lù;zk	22
+虹泉路	hóng;ig cüán;bu lù;zk	454
+鸿翔路	hóng;dn siáng;yx lù;zk	288
+红星街	hóng;sg sīng;ou jiē;rt	477
+红星路	hóng;sg sīng;ou lù;zk	60
+湖清路	hú;do cīng;do lù;zk	270
+虎泉街	hǔ;hj cüán;bu jiē;rt	374
+湖西街	hú;do siī;ak jiē;rt	418
+湖西路	hú;do siī;ak lù;zk	498
+湖心路	hú;do sīn;dd lù;zk	500
+沪星路	hù;dh sīng;ou lù;zk	261
+华清路	huá;ru cīng;do lù;zk	342
+华西街	huá;ru siī;ak jiē;rt	224
+华西路	huá;ru siī;ak lù;zk	289
+华翔路	huá;ru siáng;yx lù;zk	270
+滑翔路	huá;do siáng;yx lù;zk	201
+华祥路	huá;ru siáng;py lù;zk	127
+华新街	huá;ru sīn;lt jiē;rt	490
+华新路	huá;ru sīn;lt lù;zk	31
+华信路	huá;ru sìn;rk lù;zk	28
+华星路	huá;ru sīng;ou lù;zk	220
+环西路	huán;wb siī;ak lù;zk	778
+惠济路	huì;ix ziì;dq lù;zk	218
+汇泉路	huì;dk cüán;bu lù;zk	410
+集灌路	zií;ra guàn;dv lù;zk	225
+霁虹街	ziì;yq hóng;ig jiē;rt	320
+济泺路	ziì;dq luò;dl lù;zk	464
+济洛路	ziì;dq luò;dk lù;zk	201
+即墨路	zií;ge mò;lt lù;zk	482
+济南路	ziǐ;dq nán;ug lù;zk	9
+济宁路	ziǐ;dq níng;bd lù;zk	3
+集宁路	zií;ra níng;bd lù;zk	2
+济齐路	ziì;dq cií;wl lù;zk	378
+集庆路	zií;ra qìng;gd lù;zk	16
+济微路	ziì;dq wēi;rj lù;zk	356
+吉席街	jí;tk sií;gj jiē;rt	360
+绩溪路	ziì;sb xī;dd lù;zk	324
+集贤街	zií;ra xián;lb jiē;rt	270
+集贤路	zií;ra xián;lb lù;zk	450
+吉祥街	jí;tk siáng;py jiē;rt	16
+吉祥路	jí;tk siáng;py lù;zk	6
+济阳路	ziì;dq yáng;eo lù;zk	441
+集源路	zií;ra yuán;dx lù;zk	288
+箭道街	ziàn;vd dào;zz jiē;rt	288
+尖彭路	ziān;xd péng;tp lù;zk	220
+剑秋路	jiàn;qd ciū;hh lù;zk	189
+碱泉街	jiǎn;uk cüán;bu jiē;rt	292
+尖山街	ziān;xd shān;kl jiē;rt	3
+尖山路	ziān;xd shān;kl lù;zk	3
+建西街	jiàn;zy siī;ak jiē;rt	328
+建湘路	jiàn;zy siāng;do lù;zk	3
+建新街	jiàn;zy sīn;lt jiē;rt	382
+建新路	jiàn;zy sīn;lt lù;zk	526
+江津路	jiāng;dg zīn;dy lù;zk	288
+将军路	ziāng;lc jūn;bi lù;zk	13
+浆栏路	ziāng;lu lán;al lù;zk	207
+桨栏路	ziǎng;la lán;al lù;zk	175
+将台路	ziāng;lc tái;sk lù;zk	304
+浆洗街	ziāng;lu siǐ;de jiē;rt	6
+江西路	jiāng;dg siī;ak lù;zk	6
+晋安路	zìn;yo ān;bn lù;zk	144
+进场路	zìn;zj chǎng;tp lù;zk	346
+进城路	zìn;zj chéng;ti lù;zk	258
+晋祠路	zìn;yo cí;pk lù;zk	540
+进村路	zìn;zj cūn;ac lù;zk	356
+津沽路	zīn;dy gū;dg lù;zk	171
+津静路	zīn;dy zìng;fy lù;zk	234
+津浦路	zīn;dy pǔ;df lù;zk	293
+金钱路	jīn;rb cián;jj lù;zk	180
+津桥路	zīn;dy qiáo;al lù;zk	1
+锦秋路	jǐn;jj ciū;hh lù;zk	270
+金泉路	jīn;rb cüán;bu lù;zk	3
+进士路	zìn;zj shì;ua lù;zk	101
+津泰路	zīn;dy tài;iu lù;zk	8
+津塘路	zīn;dy táng;tk lù;zk	490
+锦西街	jǐn;jj siī;ak jiē;rt	243
+锦西路	jǐn;jj siī;ak lù;zk	297
+金线街	jīn;rb siàn;sj jiē;rt	225
+进贤路	zìn;zj xián;lb lù;zk	639
+进乡街	zìn;zj xiāng;vp jiē;rt	436
+金祥路	jīn;rb siáng;py lù;zk	356
+金新街	jīn;rb sīn;lt jiē;rt	189
+金新路	jīn;rb sīn;lt lù;zk	274
+金星路	jīn;rb sīng;ou lù;zk	9
+锦绣街	jǐn;jj siù;sn jiē;rt	3
+锦绣路	jǐn;jj siù;sn lù;zk	9
+晋阳街	zìn;yo yáng;eo jiē;rt	224
+晋阳路	zìn;yo yáng;eo lù;zk	151
+晋元路	zìn;yo yuán;aw lù;zk	281
+进藏路	zìn;zj zàng;ci lù;zk	16
+进站路	zìn;zj zhàn;lv lù;zk	202
+静安路	zìng;fy ān;bn lù;zk	500
+井财街	zǐng;ac cái;bc jiē;rt	324
+井大路	zǐng;ac dà;ar lù;zk	364
+井岗路	zǐng;ac gǎng;ux lù;zk	310
+靖海路	zìng;lo hǎi;dm lù;zk	247
+净慧路	zìng;dy huì;fx lù;zk	234
+靖江路	zìng;lo jiāng;dg lù;zk	450
+京津路	jīng;wx zīn;dy lù;zk	279
+静宁路	zìng;fy níng;bd lù;zk	400
+精品街	zīng;mo pǐn;kk jiē;rt	464
+经七路	jīng;sj ciī;av lù;zk	6
+井湾路	zǐng;ac wān;dg lù;zk	212
+精武路	zīng;mo wǔ;gv lù;zk	540
+景西路	jǐng;ox siī;ak lù;zk	274
+景星街	jǐng;ox sīng;ou jiē;rt	3
+静修路	zìng;fy siū;rp lù;zk	194
+靖宇街	zìng;lo yǔ;by jiē;rt	454
+靖远路	zìng;lo yuǎn;zy lù;zk	258
+酒吧街	ziǔ;dy bā;kb jiē;rt	273
+酒泉路	ziǔ;dy cüán;bu lù;zk	482
+聚宝街	zǜ;eu bǎo;by jiē;rt	256
+俱进路	jù;rb zìn;zj lù;zk	207
+聚龙路	zǜ;eu lóng;yp lù;zk	266
+局前街	jú;uk cián;bd jiē;rt	333
+聚贤街	zǜ;eu xián;lb jiē;rt	346
+聚贤路	zǜ;eu xián;lb lù;zk	194
+聚源路	zǜ;eu yuán;dx lù;zk	306
+爵禄街	züé;vc lù;pu jiē;rt	346
+骏景路	zǜn;mw jǐng;ox lù;zk	189
+骏坪路	zǜn;mw píng;tp lù;zk	338
+骏运路	zǜn;mw yùn;zy lù;zk	544
+凯旋街	kǎi;uj süán;fz jiē;rt	315
+凯旋路	kǎi;uj süán;fz lù;zk	47
+科新路	kē;hd sīn;lt lù;zk	225
+坑西街	kēng;tj siī;ak jiē;rt	207
+矿泉街	kuàng;ug cüán;bu jiē;rt	288
+蓝翔路	lán;cm siáng;yx lù;zk	270
+利济路	lì;hd ziì;dq lù;zk	320
+利津路	lì;hd zīn;dy lù;zk	468
+丽晶路	lì;ad zīng;oo lù;zk	239
+漓湘路	lí;dn siāng;do lù;zk	202
+理小路	lǐ;wl siǎo;lb lù;zk	144
+立新街	lì;wb sīn;lt jiē;rt	42
+立信街	lì;wb sìn;rk jiē;rt	38
+立新路	lì;wb sīn;lt lù;zk	255
+丽新路	lì;ad sīn;lt lù;zk	140
+利辛路	lì;hd sīn;lu lù;zk	126
+莲前路	lián;ci cián;bd lù;zk	162
+濂泉路	lián;dj cüán;bu lù;zk	333
+梁清路	liáng;da cīng;do lù;zk	256
+临青路	lín;lk cīng;fo lù;zk	13
+林泉街	lín;aa cüán;bu jiē;rt	189
+临泉路	lín;lk cüán;bu lù;zk	544
+林西路	lín;aa siī;ak lù;zk	486
+岭西路	lǐng;us siī;ak lù;zk	558
+陵西路	líng;ew siī;ak lù;zk	350
+凌霄路	líng;dw siāo;yo lù;zk	190
+留祥路	liú;pt siáng;py lù;zk	261
+流星街	liú;di sīng;ou jiē;rt	60
+龙津街	lóng;yp zīn;dy jiē;rt	310
+龙津路	lóng;yp zīn;dy lù;zk	6
+龙井路	lóng;yp zǐng;ac lù;zk	25
+龙青路	lóng;yp cīng;fo lù;zk	212
+龙泉街	lóng;yp cüán;bu jiē;rt	536
+龙泉路	lóng;yp cüán;bu lù;zk	3
+龙西路	lóng;yp siī;ak lù;zk	327
+陇西路	lǒng;el siī;ak lù;zk	177
+龙翔街	lóng;yp siáng;yx jiē;rt	364
+龙翔路	lóng;yp siáng;yx lù;zk	374
+龙祥路	lóng;yp siáng;py lù;zk	144
+鹿礁路	lù;gb ziāo;uh lù;zk	252
+陆翔路	lù;ej siáng;yx lù;zk	315
+鲁迅路	lǔ;yo sǜn;zu lù;zk	428
+马青路	mǎ;va cīng;fo lù;zk	428
+庙前街	miào;gy cián;bd jiē;rt	464
+庙前路	miào;gy cián;bd lù;zk	266
+民心路	mín;vv sīn;dd lù;zk	351
+民星路	mín;vv sīng;ou lù;zk	209
+明清街	míng;oo cīng;do jiē;rt	423
+铭新街	míng;jk sīn;lt jiē;rt	292
+明心路	míng;oo sīn;dd lù;zk	230
+明星路	míng;oo sīng;ou lù;zk	446
+南津街	nán;ug zīn;dy jiē;rt	342
+南俊路	nán;ug zǜn;rw lù;zk	369
+南七路	nán;ug ciī;av lù;zk	369
+南泉路	nán;ug cüán;bu lù;zk	441
+南西街	nán;ug siī;ak jiē;rt	392
+南翔路	nán;ug siáng;yx lù;zk	225
+南小街	nán;ug siǎo;lb jiē;rt	25
+南新街	nán;ug sīn;lt jiē;rt	477
+南新路	nán;ug sīn;lt lù;zk	6
+南星路	nán;ug sīng;ou lù;zk	201
+南浔路	nán;ug sǘn;dc lù;zk	297
+宁西路	níng;bd siī;ak lù;zk	450
+牛津街	niú;pu zīn;dy jiē;rt	116
+农新路	nóng;by sīn;lt lù;zk	194
+盘胥路	pán;vm sǖ;zo lù;zk	324
+培新街	péi;tk sīn;lt jiē;rt	342
+啤酒街	pí;ku ziǔ;dy jiē;rt	325
+平泉路	píng;au cüán;bu lù;zk	261
+屏西路	píng;uk siī;ak lù;zk	364
+普集街	pǔ;bo zií;ra jiē;rt	230
+普济路	pǔ;bo ziì;dq lù;zk	270
+普集路	pǔ;bo zií;ra lù;zk	161
+蒲西路	pú;cf siī;ak lù;zk	274
+七宝路	ciī;av bǎo;by lù;zk	288
+七道街	ciī;av dào;zz jiē;rt	428
+齐东路	cií;wl dōng;ax lù;zk	338
+齐河路	cií;wl hé;dk lù;zk	351
+七经路	ciī;av jīng;sj lù;zk	288
+七里街	ciī;av lǐ;tt jiē;rt	297
+七马路	ciī;av mǎ;va lù;zk	3
+七浦路	ciī;av pǔ;df lù;zk	16
+栖山路	ciī;ax shān;kl lù;zk	558
+七莘路	ciī;av shēn;cx lù;zk	576
+七纬路	ciī;av wěi;sw lù;zk	342
+栖霞街	ciī;ax xiá;yy jiē;rt	392
+栖霞路	ciī;ax xiá;yy lù;zk	3
+齐贤街	cií;wl xián;lb jiē;rt	284
+七贤路	ciī;av xián;lb lù;zk	315
+气象路	qì;pv siàng;du lù;zk	392
+七星街	ciī;av sīng;ou jiē;rt	450
+七星路	ciī;av sīng;ou lù;zk	760
+七一街	ciī;av yī;aa jiē;rt	418
+七一路	ciī;av yī;aa lù;zk	6
+齐云路	cií;wl yún;ag lù;zk	281
+钱潮路	cián;jj cháo;do lù;zk	324
+前程街	cián;bd chéng;hw jiē;rt	243
+前程路	cián;bd chéng;hw lù;zk	356
+前川街	cián;bd chuān;pl jiē;rt	261
+前大街	cián;bd dà;ar jiē;rt	504
+千峰路	ciān;pu fēng;uf lù;zk	396
+前锋路	cián;bd fēng;jf lù;zk	194
+前海路	cián;bd hǎi;dm lù;zk	428
+前横路	cián;bd héng;ab lù;zk	374
+千家街	ciān;pu jiā;bu jiē;rt	9
+钱江路	cián;jj jiāng;dg lù;zk	490
+前进街	cián;bd zìn;zj jiē;rt	508
+前进路	cián;bd zìn;zj lù;zk	3
+钱藕路	cián;jj ǒu;cd lù;zk	99
+钱荣路	cián;jj róng;ca lù;zk	230
+千山路	ciān;pu shān;kl lù;zk	590
+潜山路	cián;do shān;kl lù;zk	346
+钱塘路	cián;jj táng;tk lù;zk	266
+前卫路	cián;bd wèi;ea lù;zk	396
+前兴路	cián;bd xīng;xb lù;zk	14
+蔷薇路	ciáng;ck wēi;cj lù;zk	234
+桥西街	qiáo;al siī;ak jiē;rt	418
+桥西路	qiáo;al siī;ak lù;zk	522
+沁春路	cìn;dx chūn;io lù;zk	220
+秦凤路	cín;ih fèng;jy lù;zk	423
+沁河路	cìn;dx hé;dk lù;zk	256
+秦虹路	cín;ih hóng;ig lù;zk	288
+秦淮路	cín;ih huái;dv lù;zk	292
+秦岭路	cín;ih lǐng;us lù;zk	612
+亲贤街	cīn;la xián;lb jiē;rt	338
+沁园路	cìn;dx yuán;wy lù;zk	382
+秦园路	cín;ih yuán;wy lù;zk	312
+青安路	cīng;fo ān;bn lù;zk	297
+清滨路	cīng;do bīn;db lù;zk	324
+晴波路	cíng;oo bō;dp lù;zk	238
+青城路	cīng;fo chéng;ti lù;zk	270
+晴川街	cíng;oo chuān;pl jiē;rt	225
+青川路	cīng;fo chuān;pl lù;zk	189
+青春路	cīng;fo chūn;io lù;zk	20
+青大路	cīng;fo dà;ar lù;zk	248
+青岛路	cīng;fo dǎo;nu lù;zk	104
+清风街	cīng;do fēng;jx jiē;rt	315
+清风路	cīng;do fēng;jx lù;zk	243
+青峰路	cīng;fo fēng;uf lù;zk	153
+青海路	cīng;fo hǎi;dm lù;zk	3
+清河街	cīng;do hé;dk jiē;rt	387
+清和街	cīng;do hé;hk jiē;rt	277
+清河路	cīng;do hé;dk lù;zk	450
+清湖路	cīng;do hú;do lù;zk	220
+青湖路	cīng;fo hú;do lù;zk	171
+清华街	cīng;do huá;ru jiē;rt	500
+清华路	cīng;do huá;ru lù;zk	576
+青华路	cīng;fo huá;ru lù;zk	187
+青环路	cīng;fo huán;wb lù;zk	374
+清晖路	cīng;do huī;oi lù;zk	266
+清江路	cīng;do jiāng;dg lù;zk	472
+清姜路	cīng;do jiāng;yn lù;zk	224
+青敬路	cīng;fo jìng;cw lù;zk	468
+青莲街	cīng;fo lián;ci jiē;rt	288
+青林路	cīng;fo lín;aa lù;zk	428
+青麟路	cīng;fo lín;gf lù;zk	236
+清林路	cīng;do lín;aa lù;zk	143
+青龙街	cīng;fo lóng;yp jiē;rt	6
+青龙路	cīng;fo lóng;yp lù;zk	6
+情侣路	cíng;xo lǚ;rk lù;zk	652
+青年街	cīng;fo nián;pf jiē;rt	63
+青年路	cīng;fo nián;pf lù;zk	63
+清平街	cīng;do píng;au jiē;rt	225
+清平路	cīng;do píng;au lù;zk	333
+青浦路	cīng;fo pǔ;df lù;zk	248
+青祁路	cīng;fo qí;pe lù;zk	171
+清泉街	cīng;do cüán;bu jiē;rt	333
+清泉路	cīng;do cüán;bu lù;zk	320
+情人路	cíng;xo rén;pn lù;zk	315
+青榕街	cīng;fo róng;ag jiē;rt	207
+青山街	cīng;fo shān;kl jiē;rt	360
+青山路	cīng;fo shān;kl lù;zk	9
+青杉路	cīng;fo shān;ap lù;zk	7
+青石街	cīng;fo shí;ak jiē;rt	387
+青石路	cīng;fo shí;ak lù;zk	110
+清水街	cīng;do shuǐ;ln jiē;rt	405
+清水路	cīng;do shuǐ;ln lù;zk	392
+青松路	cīng;fo sōng;ag lù;zk	3
+清泰街	cīng;do tài;iu jiē;rt	418
+青铜路	cīng;fo tóng;jk lù;zk	266
+青王路	cīng;fo wáng;at lù;zk	364
+青威路	cīng;fo wēi;gn lù;zk	288
+清溪街	cīng;do xī;dd jiē;rt	320
+清溪路	cīng;do xī;dd lù;zk	580
+青溪路	cīng;fo xī;dd lù;zk	209
+青西路	cīng;fo siī;ak lù;zk	122
+青阳路	cīng;fo yáng;eo lù;zk	612
+清扬路	cīng;do yáng;fp lù;zk	369
+青叶街	cīng;fo yè;ku jiē;rt	266
+青衣路	cīng;fo yī;wy lù;zk	418
+青园街	cīng;fo yuán;wy jiē;rt	3
+清源街	cīng;do yuán;dx jiē;rt	2
+清源路	cīng;do yuán;dx lù;zk	16
+青云街	cīng;fo yún;ag jiē;rt	3
+青云路	cīng;fo yún;ag lù;zk	19
+清真街	cīng;do zhēn;ub jiē;rt	266
+清真路	cīng;do zhēn;ub lù;zk	6
+秋风街	ciū;hh fēng;jx jiē;rt	45
+秋实路	ciū;hh shí;bd lù;zk	236
+秋涛路	ciū;hh tāo;dc lù;zk	450
+秋雨路	ciū;hh yǔ;ad lù;zk	252
+泉城路	cüán;bu chéng;ti lù;zk	41
+泉东路	cüán;bu dōng;ax lù;zk	428
+荃富街	cüán;cw fù;bt jiē;rt	284
+全椒路	cüán;rw ziāo;ay lù;zk	297
+泉山路	cüán;bu shān;kl lù;zk	374
+全兴路	cüán;rw xīng;xb lù;zk	189
+泉秀街	cüán;bu siù;hn jiē;rt	562
+全运路	cüán;rw yùn;zy lù;zk	364
+泉中路	cüán;bu zhōng;kl lù;zk	243
+泉州路	cüán;bu zhōu;dl lù;zk	513
+泉子街	cüán;bu zi;la jiē;rt	279
+群星路	qún;yy sīng;ou lù;zk	279
+仁济路	rén;re ziì;dq lù;zk	292
+日新街	rì;wa sīn;lt jiē;rt	410
+日新路	rì;wa sīn;lt lù;zk	436
+瑞祥路	ruì;we siáng;py lù;zk	194
+三全路	sān;ae cüán;rw lù;zk	549
+三西路	sān;ae siī;ak lù;zk	477
+三新路	sān;ae sīn;lt lù;zk	342
+三姓街	sān;ae sìng;nu jiē;rt	256
+三星路	sān;ae sīng;ou lù;zk	576
+沙井路	shā;du zǐng;ac lù;zk	288
+山前路	shān;kl cián;bd lù;zk	234
+山泉路	shān;kl cüán;bu lù;zk	306
+陕西街	shǎn;ej siī;ak jiē;rt	490
+山西街	shān;kl siī;ak jiē;rt	308
+山西路	shān;kl siī;ak lù;zk	41
+陕西路	shǎn;ej siī;ak lù;zk	37
+尚稷路	shàng;xk ziì;hw lù;zk	160
+上清路	shàng;ba cīng;do lù;zk	356
+上新街	shàng;ba sīn;lt jiē;rt	495
+少先路	shǎo;xp siān;ne lù;zk	279
+沈新路	shěn;de sīn;lt lù;zk	338
+圣西路	shèng;yt siī;ak lù;zk	374
+胜辛路	shèng;ou sīn;lu lù;zk	194
+石井街	shí;ak zǐng;ac jiē;rt	436
+十全街	shí;al cüán;rw jiē;rt	22
+石泉路	shí;ak cüán;bu lù;zk	6
+市西路	shì;wj siī;ak lù;zk	468
+石西路	shí;ak siī;ak lù;zk	391
+石象路	shí;ak siàng;du lù;zk	540
+石祥路	shí;ak siáng;py lù;zk	376
+市心路	shì;wj sīn;dd lù;zk	428
+石新路	shí;ak sīn;lt lù;zk	255
+始信路	shǐ;nk sìn;rk lù;zk	166
+市新路	shì;wj sīn;lt lù;zk	149
+署前路	shǔ;so cián;bd lù;zk	436
+蜀西路	shǔ;si siī;ak lù;zk	266
+双井路	shuāng;yy zǐng;ac lù;zk	160
+双七路	shuāng;yy ciī;av lù;zk	270
+双清路	shuāng;yy cīng;do lù;zk	16
+水津街	shuǐ;ln zīn;dy jiē;rt	52
+水井街	shuǐ;ln zǐng;ac jiē;rt	369
+水清路	shuǐ;ln cīng;do lù;zk	3
+水西路	shuǐ;ln siī;ak lù;zk	396
+水仙路	shuǐ;ln siān;ru lù;zk	234
+舜井街	shùn;vf zǐng;ac jiē;rt	315
+司前街	sī;vk cián;bd jiē;rt	356
+寺前街	sì;tc cián;bd jiē;rt	270
+松青路	sōng;ag cīng;fo lù;zk	186
+太清路	tài;dd cīng;do lù;zk	364
+泰西路	tài;iu siī;ak lù;zk	266
+太祥街	tài;dd siáng;py jiē;rt	189
+太新路	tài;dd sīn;lt lù;zk	281
+塘西街	táng;tk siī;ak jiē;rt	243
+塘西路	táng;tk siī;ak lù;zk	387
+唐胥路	táng;gk sǖ;zo lù;zk	238
+桃仙街	táo;av siān;ru jiē;rt	189
+天津街	tiān;ad zīn;dy jiē;rt	3
+天津路	tiān;ad zīn;dy lù;zk	116
+天祥街	tiān;ad siáng;py jiē;rt	288
+天祥路	tiān;ad siáng;py lù;zk	369
+田心路	tián;wu sīn;dd lù;zk	300
+天星路	tiān;ad sīng;ou lù;zk	243
+天秀路	tiān;ad siù;hn lù;zk	446
+铁西街	tiě;jf siī;ak jiē;rt	369
+铁西路	tiě;jf siī;ak lù;zk	288
+通济街	tōng;zy ziì;dq jiē;rt	346
+同济路	tóng;kk ziì;dq lù;zk	490
+同集路	tóng;kk zií;ra lù;zk	353
+通济路	tōng;zy ziì;dq lù;zk	140
+同心路	tóng;kk sīn;dd lù;zk	99
+童心路	tóng;ll sīn;dd lù;zk	89
+万青路	wàn;av cīng;fo lù;zk	243
+万泉街	wàn;av cüán;bu jiē;rt	243
+万泉路	wàn;av cüán;bu lù;zk	230
+皖西路	wǎn;by siī;ak lù;zk	302
+万象街	wàn;av siàng;du jiē;rt	124
+万新街	wàn;av sīn;lt jiē;rt	266
+万新路	wàn;av sīn;lt lù;zk	202
+卫津路	wèi;ea zīn;dy lù;zk	25
+纬七路	wěi;sw ciī;av lù;zk	16
+威清路	wēi;gn cīng;do lù;zk	297
+渭清路	wèi;do cīng;do lù;zk	251
+维新路	wéi;sv sīn;lt lù;zk	342
+卫星路	wèi;ea sīng;ou lù;zk	590
+文津街	wén;wx zīn;dy jiē;rt	13
+文津路	wén;wx zīn;dy lù;zk	171
+文靖路	wén;wx zìng;lo lù;zk	236
+文井路	wén;wx zǐng;ac lù;zk	120
+文清路	wén;wx cīng;do lù;zk	315
+文青路	wén;wx cīng;fo lù;zk	220
+温泉街	wēn;dm cüán;bu jiē;rt	630
+温泉路	wēn;dm cüán;bu lù;zk	567
+文翔路	wén;wx siáng;yx lù;zk	9
+文心路	wén;wx sīn;dd lù;zk	544
+文新路	wén;wx sīn;lt lù;zk	175
+文星街	wén;wx sīng;ou jiē;rt	152
+乌节路	wū;pa zié;ce lù;zk	228
+武进路	wǔ;gv zìn;zj lù;zk	518
+五西路	wǔ;aw siī;ak lù;zk	351
+五星街	wǔ;aw sīng;ou jiē;rt	35
+五星路	wǔ;aw sīng;ou lù;zk	472
+西安街	siī;ak ān;bn jiē;rt	562
+西安路	siī;ak ān;bn lù;zk	85
+西坝路	siī;ak bà;tb lù;zk	423
+西北街	siī;ak běi;lb jiē;rt	19
+西北路	siī;ak běi;lb lù;zk	13
+西滨路	siī;ak bīn;db lù;zk	374
+西槎路	siī;ak chá;ag lù;zk	392
+西长街	siī;ak cháng;pn jiē;rt	382
+西昌路	siī;ak chāng;oo lù;zk	549
+西城街	siī;ak chéng;ti jiē;rt	554
+西城路	siī;ak chéng;ti lù;zk	400
+锡澄路	siī;jw chéng;db lù;zk	274
+西川路	siī;ak chuān;pl lù;zk	360
+西翠路	siī;ak cuì;xu lù;zk	3
+西村街	siī;ak cūn;ac jiē;rt	324
+西大街	siī;ak dà;ar jiē;rt	132
+西大路	siī;ak dà;ar lù;zk	504
+西堤路	siī;ak dī;tz lù;zk	382
+西二路	siī;ak èr;aa lù;zk	536
+西沣路	siī;ak fēng;df lù;zk	6
+西港路	siī;ak gǎng;ds lù;zk	333
+西贡街	siī;ak gòng;gb jiē;rt	414
+西关街	siī;ak guān;bt jiē;rt	554
+西关路	siī;ak guān;bt lù;zk	342
+西海路	siī;ak hǎi;dm lù;zk	180
+西航路	siī;ak háng;vj lù;zk	220
+西河街	siī;ak hé;dk jiē;rt	342
+西河路	siī;ak hé;dk lù;zk	315
+细河路	siì;st hé;dk lù;zk	239
+西横街	siī;ak héng;ab jiē;rt	472
+西虹路	siī;ak hóng;ig lù;zk	554
+西洪路	siī;ak hóng;dg lù;zk	323
+西后街	siī;ak hòu;ik jiē;rt	297
+西湖街	siī;ak hú;do jiē;rt	490
+西湖路	siī;ak hú;do lù;zk	597
+锡沪路	siī;jw hù;dh lù;zk	332
+西华街	siī;ak huá;ru jiē;rt	270
+西华路	siī;ak huá;ru lù;zk	13
+西环街	siī;ak huán;wb jiē;rt	261
+西环路	siī;ak huán;wb lù;zk	16
+西江街	siī;ak jiāng;dg jiē;rt	441
+西江路	siī;ak jiāng;dg lù;zk	346
+西郊路	siī;ak jiāo;we lù;zk	256
+西津路	siī;ak zīn;dy lù;zk	302
+西井街	siī;ak zǐng;ac jiē;rt	270
+西京路	siī;ak jīng;wx lù;zk	166
+西九路	siī;ak jiǔ;pv lù;zk	238
+西康路	siī;ak kāng;gl lù;zk	25
+西矿街	siī;ak kuàng;ug jiē;rt	274
+西兰路	siī;ak lán;bs lù;zk	256
+西里街	siī;ak lǐ;tt jiē;rt	11
+西里路	siī;ak lǐ;tt lù;zk	220
+西林街	siī;ak lín;aa jiē;rt	342
+西林路	siī;ak lín;aa lù;zk	495
+锡林路	siī;jw lín;aa lù;zk	179
+西六路	siī;ak liù;wb lù;zk	320
+西马路	siī;ak mǎ;va lù;zk	522
+西门街	siī;ak mén;dv jiē;rt	526
+西门路	siī;ak mén;dv lù;zk	9
+西南街	siī;ak nán;ug jiē;rt	490
+西南路	siī;ak nán;ug lù;zk	9
+西宁路	siī;ak níng;bd lù;zk	324
+犀牛路	siī;un niú;pu lù;zk	324
+西浦路	siī;ak pǔ;df lù;zk	220
+西七路	siī;ak ciī;av lù;zk	387
+西渠路	siī;ak qú;da lù;zk	252
+西三街	siī;ak sān;ae jiē;rt	320
+西三路	siī;ak sān;ae lù;zk	549
+西沙路	siī;ak shā;du lù;zk	626
+西山街	siī;ak shān;kl jiē;rt	356
+西山路	siī;ak shān;kl lù;zk	490
+西胜街	siī;ak shèng;ou jiē;rt	279
+西市街	siī;ak shì;wj jiē;rt	382
+锡士路	siī;jw shì;ua lù;zk	171
+西四街	siī;ak sì;we jiē;rt	338
+西四路	siī;ak sì;we lù;zk	518
+西塔街	siī;ak tǎ;tk jiē;rt	410
+西太路	siī;ak tài;dd lù;zk	3
+西塘街	siī;ak táng;tk jiē;rt	194
+西屯路	siī;ak tún;av lù;zk	414
+西湾街	siī;ak wān;dg jiē;rt	328
+西湾路	siī;ak wān;dg lù;zk	351
+西万路	siī;ak wàn;av lù;zk	232
+西文街	siī;ak wén;wx jiē;rt	243
+西五街	siī;ak wǔ;aw jiē;rt	392
+西五路	siī;ak wǔ;aw lù;zk	490
+西溪路	siī;ak xī;dd lù;zk	3
+西祥街	siī;ak siáng;py jiē;rt	328
+西新街	siī;ak sīn;lt jiē;rt	297
+西兴街	siī;ak xīng;xb jiē;rt	333
+西兴路	siī;ak xīng;xb lù;zk	459
+西延路	siī;ak yán;zv lù;zk	239
+西洋路	siī;ak yáng;dy lù;zk	310
+洗衣街	siǐ;de yī;wy jiē;rt	526
+西一路	siī;ak yī;aa lù;zk	3
+西营路	siī;ak yíng;ck lù;zk	423
+西影路	siī;ak yǐng;op lù;zk	285
+习友路	sií;vd yǒu;uy lù;zk	331
+西御街	siī;ak yù;re jiē;rt	284
+西园街	siī;ak yuán;wy jiē;rt	464
+西园路	siī;ak yuán;wy lù;zk	562
+西苑路	siī;ak yuàn;cv lù;zk	237
+西藏路	siī;ak zàng;ci lù;zk	22
+西增路	siī;ak zēng;to lù;zk	284
+西站路	siī;ak zhàn;lv lù;zk	450
+西正街	siī;ak zhèng;av jiē;rt	288
+西直街	siī;ak zhí;uq jiē;rt	288
+西支路	siī;ak zhī;uy lù;zk	450
+西州路	siī;ak zhōu;dl lù;zk	212
+西洲路	siī;ak zhōu;dv lù;zk	171
+下斜街	xià;ab sié;rd jiē;rt	6
+冼村路	siǎn;de cūn;ac lù;zk	364
+先锋街	siān;ne fēng;jf jiē;rt	387
+先锋路	siān;ne fēng;jf lù;zk	6
+仙鹤街	siān;ru hè;bn jiē;rt	364
+仙鹤路	siān;ru hè;bn lù;zk	315
+仙湖路	siān;ru hú;do lù;zk	274
+先烈路	siān;ne liè;dh lù;zk	392
+县前街	xiàn;qs cián;bd jiē;rt	405
+仙桥路	siān;ru qiáo;al lù;zk	608
+仙塔街	siān;ru tǎ;tk jiē;rt	356
+县西街	xiàn;qs siī;ak jiē;rt	594
+仙霞路	siān;ru xiá;yy lù;zk	25
+仙新路	siān;ru sīn;lt lù;zk	364
+仙岳路	siān;ru yuè;qu lù;zk	28
+湘春路	siāng;do chūn;io lù;zk	342
+祥德路	siáng;py dé;rx lù;zk	9
+湘府路	siāng;do fǔ;gc lù;zk	3
+祥和路	siáng;py hé;hk lù;zk	364
+湘湖路	siāng;do hú;do lù;zk	248
+湘江路	siāng;do jiāng;dg lù;zk	342
+象山路	siàng;du shān;kl lù;zk	580
+橡树街	siàng;au shù;ac jiē;rt	364
+湘潭路	siāng;do tán;du lù;zk	346
+向西路	xiàng;pk siī;ak lù;zk	414
+湘雅路	siāng;do yǎ;yv lù;zk	418
+湘阳街	siāng;do yáng;eo jiē;rt	2
+襄阳路	siāng;yf yáng;eo lù;zk	14
+翔殷路	siáng;yx yīn;pu lù;zk	31
+祥园路	siáng;py yuán;wy lù;zk	288
+祥远路	siáng;py yuǎn;zy lù;zk	236
+祥云街	siáng;py yún;ag jiē;rt	342
+翔运街	siáng;yx yùn;zy jiē;rt	190
+祥云路	siáng;py yún;ag lù;zk	356
+象州路	siàng;du zhōu;dl lù;zk	209
+小北街	siǎo;lb běi;lb jiē;rt	3
+小北路	siǎo;lb běi;lb lù;zk	482
+小吃街	siǎo;lb chī;kv jiē;rt	967
+小东街	siǎo;lb dōng;ax jiē;rt	297
+小东路	siǎo;lb dōng;ax lù;zk	410
+小河街	siǎo;lb hé;dk jiē;rt	310
+小河路	siǎo;lb hé;dk lù;zk	356
+小康路	siǎo;lb kāng;gl lù;zk	554
+萧林路	siāo;cb lín;aa lù;zk	230
+小六路	siǎo;lb liù;wb lù;zk	266
+小南街	siǎo;lb nán;ug jiē;rt	13
+小南路	siǎo;lb nán;ug lù;zk	306
+校前路	xiào;af cián;bd lù;zk	252
+萧绍路	siāo;cb shào;sk lù;zk	369
+小屯街	siǎo;lb tún;av jiē;rt	50
+小屯路	siǎo;lb tún;av lù;zk	315
+小西街	siǎo;lb siī;ak jiē;rt	342
+小西路	siǎo;lb siī;ak lù;zk	400
+潇湘路	siāo;db siāng;do lù;zk	323
+小新街	siǎo;lb sīn;lt jiē;rt	328
+小学路	siǎo;lb xué;xz lù;zk	482
+逍遥路	siāo;zo yáo;zf lù;zk	194
+小营路	siǎo;lb yíng;ck lù;zk	333
+霄云路	siāo;yo yún;ag lù;zk	16
+小寨路	siǎo;lb zhài;ba lù;zk	338
+斜土路	sié;rd tǔ;ua lù;zk	41
+斜徐路	sié;rd sǘ;rm lù;zk	315
+榭雨街	siè;ac yǔ;ad jiē;rt	220
+新安街	sīn;lt ān;bn jiē;rt	508
+新安路	sīn;lt ān;bn lù;zk	387
+新岸路	sīn;lt àn;ug lù;zk	171
+新北街	sīn;lt běi;lb jiē;rt	486
+新北路	sīn;lt běi;lb lù;zk	518
+新壁街	sīn;lt bì;ut jiē;rt	238
+新场街	sīn;lt chǎng;tp jiē;rt	248
+新昌路	sīn;lt chāng;oo lù;zk	9
+信臣路	sìn;rk chén;kl lù;zk	346
+新城街	sīn;lt chéng;ti jiē;rt	526
+新成街	sīn;lt chéng;gv jiē;rt	217
+新城路	sīn;lt chéng;ti lù;zk	540
+新成路	sīn;lt chéng;gv lù;zk	270
+新川路	sīn;lt chuān;pl lù;zk	310
+新春街	sīn;lt chūn;io jiē;rt	256
+新村街	sīn;lt cūn;ac jiē;rt	634
+新大街	sīn;lt dà;ar jiē;rt	454
+新德路	sīn;lt dé;rx lù;zk	266
+新堤路	sīn;lt dī;tz lù;zk	171
+新店街	sīn;lt diàn;gv jiē;rt	369
+新典路	sīn;lt diǎn;qb lù;zk	202
+新东路	sīn;lt dōng;ax lù;zk	580
+新发街	sīn;lt fā;fy jiē;rt	266
+新发路	sīn;lt fā;fy lù;zk	319
+新风街	sīn;lt fēng;jx jiē;rt	396
+新丰街	sīn;lt fēng;sl jiē;rt	323
+新风路	sīn;lt fēng;jx lù;zk	500
+新丰路	sīn;lt fēng;sl lù;zk	384
+新府路	sīn;lt fǔ;gc lù;zk	306
+新福路	sīn;lt fú;pt lù;zk	213
+新港街	sīn;lt gǎng;ds jiē;rt	450
+新港路	sīn;lt gǎng;ds lù;zk	500
+辛耕路	sīn;lu gēng;lj lù;zk	468
+新光路	sīn;lt guāng;xe lù;zk	3
+新广路	sīn;lt guǎng;di lù;zk	2
+新桂路	sīn;lt guì;at lù;zk	152
+新海路	sīn;lt hǎi;dm lù;zk	274
+新河街	sīn;lt hé;dk jiē;rt	374
+信河街	sìn;rk hé;dk jiē;rt	239
+新河路	sīn;lt hé;dk lù;zk	396
+新和路	sīn;lt hé;hk lù;zk	224
+新鸿路	sīn;lt hóng;dn lù;zk	19
+新湖路	sīn;lt hú;do lù;zk	410
+新沪路	sīn;lt hù;dh lù;zk	251
+新华街	sīn;lt huá;ru jiē;rt	22
+新化街	sīn;lt huà;rb jiē;rt	20
+新华路	sīn;lt huá;ru lù;zk	141
+新会路	sīn;lt huì;ry lù;zk	508
+新建街	sīn;lt jiàn;zy jiē;rt	572
+新建路	sīn;lt jiàn;zy lù;zk	711
+新疆街	sīn;lt jiāng;gj jiē;rt	342
+新疆路	sīn;lt jiāng;gj lù;zk	472
+新江路	sīn;lt jiāng;dg lù;zk	198
+新滘路	sīn;lt jiào;dk lù;zk	346
+新街路	sīn;lt jiē;rt lù;zk	279
+新开街	sīn;lt kāi;ac jiē;rt	423
+新开路	sīn;lt kāi;ac lù;zk	16
+新康路	sīn;lt kāng;gl lù;zk	220
+新兰路	sīn;lt lán;bs lù;zk	346
+新乐路	sīn;lt lè;px lù;zk	603
+新利街	sīn;lt lì;hd jiē;rt	224
+新柳街	sīn;lt liǔ;ae jiē;rt	328
+新柳路	sīn;lt liǔ;ae lù;zk	310
+新龙路	sīn;lt lóng;yp lù;zk	356
+新马街	sīn;lt mǎ;va jiē;rt	279
+新门街	sīn;lt mén;dv jiē;rt	468
+新民街	sīn;lt mín;vv jiē;rt	3
+新民路	sīn;lt mín;vv lù;zk	16
+新明路	sīn;lt míng;oo lù;zk	310
+新南街	sīn;lt nán;ug jiē;rt	360
+新南路	sīn;lt nán;ug lù;zk	13
+心南路	sīn;dd nán;ug lù;zk	12
+新宁路	sīn;lt níng;bd lù;zk	306
+新平街	sīn;lt píng;au jiē;rt	212
+新平路	sīn;lt píng;au lù;zk	274
+新浦路	sīn;lt pǔ;df lù;zk	338
+新起街	sīn;lt qǐ;tj jiē;rt	320
+新桥街	sīn;lt qiáo;al jiē;rt	490
+新桥路	sīn;lt qiáo;al lù;zk	508
+新区路	sīn;lt qū;kx lù;zk	396
+新荣街	sīn;lt róng;ca jiē;rt	351
+新沙路	sīn;lt shā;du lù;zk	346
+新生街	sīn;lt shēng;pf jiē;rt	315
+新盛街	sīn;lt shèng;im jiē;rt	262
+新胜街	sīn;lt shèng;ou jiē;rt	164
+新生路	sīn;lt shēng;pf lù;zk	585
+新胜路	sīn;lt shèng;ou lù;zk	175
+新市街	sīn;lt shì;wj jiē;rt	441
+新市路	sīn;lt shì;wj lù;zk	477
+新石路	sīn;lt shí;ak lù;zk	122
+新四路	sīn;lt sì;we lù;zk	407
+新泰路	sīn;lt tài;iu lù;zk	284
+新塘街	sīn;lt táng;tk jiē;rt	423
+新塘路	sīn;lt táng;tk lù;zk	495
+新田路	sīn;lt tián;wu lù;zk	288
+新亭路	sīn;lt tíng;wd lù;zk	346
+新湾路	sīn;lt wān;dg lù;zk	266
+新威路	sīn;lt wēi;gn lù;zk	292
+新闻路	sīn;lt wén;me lù;zk	590
+新芜路	sīn;lt wú;cw lù;zk	171
+新西街	sīn;lt siī;ak jiē;rt	433
+新西路	sīn;lt siī;ak lù;zk	338
+新乡路	sīn;lt xiāng;vp lù;zk	238
+新兴街	sīn;lt xīng;xb jiē;rt	598
+新兴路	sīn;lt xīng;xb lù;zk	6
+新星路	sīn;lt sīng;ou lù;zk	4
+新秀路	sīn;lt siù;hn lù;zk	205
+新雅街	sīn;lt yǎ;yv jiē;rt	320
+新阳路	sīn;lt yáng;eo lù;zk	536
+新姚路	sīn;lt yáo;nv lù;zk	256
+新业街	sīn;lt yè;la jiē;rt	266
+新业路	sīn;lt yè;la lù;zk	3
+新意街	sīn;lt yì;lx jiē;rt	392
+信义街	sìn;rk yì;dx jiē;rt	323
+新义街	sīn;lt yì;dx jiē;rt	210
+信义路	sìn;rk yì;dx lù;zk	41
+心怡路	sīn;dd yí;xk lù;zk	37
+新营街	sīn;lt yíng;ck jiē;rt	369
+新迎路	sīn;lt yíng;ze lù;zk	392
+新宇路	sīn;lt yǔ;by lù;zk	189
+新源街	sīn;lt yuán;dx jiē;rt	288
+新园路	sīn;lt yuán;wy lù;zk	446
+新源路	sīn;lt yuán;dx lù;zk	296
+新苑路	sīn;lt yuàn;cv lù;zk	145
+新月路	sīn;lt yuè;ke lù;zk	342
+新运路	sīn;lt yùn;zy lù;zk	540
+新闸路	sīn;lt zhá;mj lù;zk	38
+新寨街	sīn;lt zhài;ba jiē;rt	207
+新站路	sīn;lt zhàn;lv lù;zk	256
+新湛路	sīn;lt zhàn;db lù;zk	175
+新镇路	sīn;lt zhèn;jb lù;zk	3
+新正街	sīn;lt zhēng;av jiē;rt	220
+新郑路	sīn;lt zhèng;be lù;zk	410
+新政路	sīn;lt zhèng;vw lù;zk	217
+新芝路	sīn;lt zhī;cv lù;zk	228
+新中街	sīn;lt zhōng;kl jiē;rt	9
+新中路	sīn;lt zhōng;kl lù;zk	454
+新洲路	sīn;lt zhōu;dv lù;zk	472
+新竹街	sīn;lt zhú;gg jiē;rt	540
+新竹路	sīn;lt zhú;gg lù;zk	396
+辛祝路	sīn;lu zhù;px lù;zk	247
+辛庄街	sīn;lu zhuāng;gt jiē;rt	306
+新庄路	sīn;lt zhuāng;gt lù;zk	306
+星港街	sīng;ou gǎng;ds jiē;rt	436
+星港路	sīng;ou gǎng;ds lù;zk	160
+星光街	sīng;ou guāng;xe jiē;rt	279
+星光路	sīng;ou guāng;xe lù;zk	346
+星海街	sīng;ou hǎi;dm jiē;rt	418
+星汉街	sīng;ou hàn;dy jiē;rt	238
+星河路	sīng;ou hé;dk lù;zk	333
+星湖街	sīng;ou hú;do jiē;rt	513
+星湖路	sīng;ou hú;do lù;zk	369
+星华街	sīng;ou huá;ru jiē;rt	195
+星火路	sīng;ou huǒ;br lù;zk	504
+星明街	sīng;ou míng;oo jiē;rt	288
+醒狮路	sǐng;yu shī;qj lù;zk	180
+星塘街	sīng;ou táng;tk jiē;rt	364
+星耀路	sīng;ou yào;gv lù;zk	328
+星站路	sīng;ou zhàn;lv lù;zk	194
+星中路	sīng;ou zhōng;kl lù;zk	716
+秀川路	siù;hn chuān;pl lù;zk	261
+秀峰路	siù;hn fēng;uf lù;zk	351
+秀灵路	siù;hn líng;eh lù;zk	306
+绣品街	siù;sn pǐn;kk jiē;rt	306
+秀浦路	siù;hn pǔ;df lù;zk	270
+秀全街	siù;hn cüán;rw jiē;rt	252
+秀山街	siù;hn shān;kl jiē;rt	220
+秀山路	siù;hn shān;kl lù;zk	284
+秀水街	siù;hn shuǐ;ln jiē;rt	57
+秀水路	siù;hn shuǐ;ln lù;zk	266
+秀文路	siù;hn wén;wx lù;zk	207
+秀沿路	siù;hn yán;dk lù;zk	9
+秀园路	siù;hn yuán;wy lù;zk	220
+秀月街	siù;hn yuè;ke jiē;rt	378
+徐东路	sǘ;rm dōng;ax lù;zk	351
+徐虹路	sǘ;rm hóng;ig lù;zk	171
+胥江路	sǖ;zo jiāng;dg lù;zk	364
+徐戎路	sǘ;rm róng;gu lù;zk	266
+须水街	sǖ;py shuǐ;ln jiē;rt	171
+徐州路	sǘ;rm zhōu;dl lù;zk	490
+宣城路	süān;bd chéng;ti lù;zk	315
+宣化街	süān;bd huà;rb jiē;rt	459
+宣化路	süān;bd huà;rb lù;zk	482
+宣庆街	süān;bd qìng;gd jiē;rt	3
+雪厂街	süě;ye chǎng;ap jiē;rt	477
+雪枫路	süě;ye fēng;af lù;zk	202
+雪宫路	süě;ye gōng;bk lù;zk	45
+雪莲路	süě;ye lián;ci lù;zk	306
+学前街	xué;xz cián;bd jiē;rt	477
+学前路	xué;xz cián;bd lù;zk	297
+学清路	xué;xz cīng;do lù;zk	16
+雪山路	süě;ye shān;kl lù;zk	414
+雪松路	süě;ye sōng;ag lù;zk	63
+雪野路	süě;ye yě;ly lù;zk	320
+巡津街	sǘn;zv zīn;dy jiē;rt	238
+浔阳路	sǘn;dc yáng;eo lù;zk	266
+烟青路	yān;hy cīng;fo lù;zk	138
+雁西路	yàn;iv siī;ak lù;zk	270
+雁翔路	yàn;iv siáng;yx lù;zk	531
+杨青路	yáng;ap cīng;fo lù;zk	117
+阳泉路	yáng;eo cüán;bu lù;zk	212
+阳新路	yáng;eo sīn;lt lù;zk	374
+杨新路	yáng;ap sīn;lt lù;zk	163
+义全街	yì;dx cüán;rw jiē;rt	454
+逸仙路	yì;zt siān;ru lù;zk	312
+隐秀路	yǐn;ex siù;hn lù;zk	232
+樱前街	yīng;an cián;bd jiē;rt	266
+迎祥街	yíng;ze siáng;py jiē;rt	464
+迎新街	yíng;ze sīn;lt jiē;rt	405
+迎新路	yíng;ze sīn;lt lù;zk	238
+永济路	yǒng;du ziì;dq lù;zk	84
+永清街	yǒng;du cīng;do jiē;rt	454
+永清路	yǒng;du cīng;do lù;zk	360
+永新街	yǒng;du sīn;lt jiē;rt	225
+永新路	yǒng;du sīn;lt lù;zk	234
+友新路	yǒu;uy sīn;lt lù;zk	230
+玉泉街	yù;wd cüán;bu jiē;rt	324
+玉泉路	yù;wd cüán;bu lù;zk	198
+裕翔街	yù;pg siáng;yx jiē;rt	378
+玉象路	yù;wd siàng;du lù;zk	225
+育新路	yù;wo sīn;lt lù;zk	342
+育秀路	yù;wo siù;hn lù;zk	346
+毓秀路	yù;pi siù;hn lù;zk	243
+员集路	yuán;kb zií;ra lù;zk	423
+院前街	yuàn;ey cián;bd jiē;rt	266
+源泉路	yuán;dx cüán;bu lù;zk	202
+园西路	yuán;wy siī;ak lù;zk	729
+苑西路	yuàn;cv siī;ak lù;zk	255
+跃进街	yuè;zy zìn;zj jiē;rt	387
+跃进路	yuè;zy zìn;zj lù;zk	9
+岳西路	yuè;qu siī;ak lù;zk	266
+越秀路	yuè;tl siù;hn lù;zk	3
+云集路	yún;ag zií;ra lù;zk	3
+云霄路	yún;ag siāo;yo lù;zk	608
+云秀路	yún;ag siù;hn lù;zk	266
+泽祥街	zé;df siáng;py jiē;rt	378
+站前街	zhàn;lv cián;bd jiē;rt	590
+站前路	zhàn;lv cián;bd lù;zk	3
+站西路	zhàn;lv siī;ak lù;zk	558
+镇前街	zhèn;jb cián;bd jiē;rt	266
+镇西路	zhèn;jb siī;ak lù;zk	6
+针线街	zhēn;ju siàn;sj jiē;rt	274
+政七街	zhèng;vw ciī;av jiē;rt	446
+郑新路	zhèng;be sīn;lt lù;zk	180
+政修路	zhèng;vw siū;rp lù;zk	248
+芷泉街	zhǐ;cv cüán;bu jiē;rt	207
+芝泉路	zhī;cv cüán;bu lù;zk	310
+执信路	zhí;fw sìn;rk lù;zk	346
+志新路	zhì;tx sīn;lt lù;zk	243
+中七路	zhōng;kl ciī;av lù;zk	212
+中清路	zhōng;kl cīng;do lù;zk	479
+中青路	zhōng;kl cīng;fo lù;zk	166
+中西街	zhōng;kl siī;ak jiē;rt	12
+中心街	zhōng;kl sīn;dd jiē;rt	976
+中心路	zhōng;kl sīn;dd lù;zk	675
+中新路	zhōng;kl sīn;lt lù;zk	334
+朱雀路	zhū;pw cüè;xv lù;zk	436
+竹西路	zhú;gg siī;ak lù;zk	297
+庄西路	zhuāng;gt siī;ak lù;zk	504
+安宁西街	ān;bn níng;bd siī;ak jiē;rt	117
+安蓉西路	ān;bn róng;cg siī;ak lù;zk	4
+安义新街	ān;bn yì;dx sīn;lt jiē;rt	45
+八角井街	bā;pn jiǎo;dy zǐng;ac jiē;rt	76
+八角西街	bā;pn jiǎo;dy siī;ak jiē;rt	256
+灞柳西路	bà;do liǔ;ae siī;ak lù;zk	50
+八一七路	bā;pn yī;aa ciī;av lù;zk	472
+百德新街	bǎi;ab dé;rx sīn;lt jiē;rt	472
+白浮泉路	bái;po fú;dz cüán;bu lù;zk	171
+百花西路	bǎi;ab huā;cb siī;ak lù;zk	144
+宝带西路	bǎo;by dài;cj siī;ak lù;zk	310
+宝钱公路	bǎo;by cián;jj gōng;bs lù;zk	202
+宝圣西路	bǎo;by shèng;yt siī;ak lù;zk	130
+包西铁路	bāo;bs siī;ak tiě;jf lù;zk	464
+北大西街	běi;lb dà;ar siī;ak jiē;rt	153
+北二七路	běi;lb èr;aa ciī;av lù;zk	234
+北二西路	běi;lb èr;aa siī;ak lù;zk	212
+北共济街	běi;lb gòng;cb ziì;dq jiē;rt	50
+北宫西街	běi;lb gōng;bk siī;ak jiē;rt	76
+北广济街	běi;lb guǎng;di ziì;dq jiē;rt	500
+北滑翔路	běi;lb huá;do siáng;yx lù;zk	76
+北环西路	běi;lb huán;wb siī;ak lù;zk	324
+北津城路	běi;lb zīn;dy chéng;ti lù;zk	45
+北京西路	běi;lb jīng;wx siī;ak lù;zk	69
+北凯旋路	běi;lb kǎi;uj süán;fz lù;zk	144
+北七道街	běi;lb ciī;av dào;zz jiē;rt	144
+北七马路	běi;lb ciī;av mǎ;va lù;zk	234
+北清东路	běi;lb cīng;do dōng;ax lù;zk	346
+北青公路	běi;lb cīng;fo gōng;bs lù;zk	320
+北沙西路	běi;lb shā;du siī;ak lù;zk	144
+北四西路	běi;lb sì;we siī;ak lù;zk	256
+北无锡路	běi;lb wú;ay siī;jw lù;zk	4
+北西六路	běi;lb siī;ak liù;wb lù;zk	50
+北西五路	běi;lb siī;ak wǔ;aw lù;zk	50
+北新公路	běi;lb sīn;lt gōng;bs lù;zk	99
+北新区路	běi;lb sīn;lt qū;kx lù;zk	252
+北一西路	běi;lb yī;aa siī;ak lù;zk	310
+北怡新路	běi;lb yí;xk sīn;lt lù;zk	4
+北垣西街	běi;lb yuán;td siī;ak jiē;rt	76
+毕塬西路	bì;bu yuán;tx siī;ak lù;zk	45
+滨河西路	bīn;db hé;dk siī;ak lù;zk	572
+宾虹西路	bīn;bb hóng;ig siī;ak lù;zk	153
+并州西街	bīng;bk zhōu;dl siī;ak jiē;rt	180
+博爱七路	bó;uc ài;vy ciī;av lù;zk	153
+渤海七路	bó;dl hǎi;dm ciī;av lù;zk	171
+勃七铁路	bó;ul ciī;av tiě;jf lù;zk	153
+菜园西街	cài;ca yuán;wy siī;ak jiē;rt	76
+仓前直街	cāng;rv cián;bd zhí;uq jiē;rt	153
+曹新公路	cáo;co sīn;lt gōng;bs lù;zk	130
+浐河西路	chǎn;di hé;dk siī;ak lù;zk	230
+浐水西路	chǎn;di shuǐ;ln siī;ak lù;zk	45
+长安西街	cháng;pn ān;bn siī;ak jiē;rt	144
+长安西路	cháng;pn ān;bn siī;ak lù;zk	346
+长白西路	cháng;pn bái;po siī;ak lù;zk	207
+长城西街	cháng;pn chéng;ti siī;ak jiē;rt	4
+长风西街	cháng;pn fēng;jx siī;ak jiē;rt	346
+长福西路	cháng;pn fú;pt siī;ak lù;zk	4
+昌岗西路	chāng;oo gǎng;ux siī;ak lù;zk	153
+长虹西路	cháng;pn hóng;ig siī;ak lù;zk	320
+昌宏西路	chāng;oo hóng;bs siī;ak lù;zk	129
+昌华新街	chāng;oo huá;ru sīn;lt jiē;rt	4
+长江西路	cháng;pn jiāng;dg siī;ak lù;zk	13
+长乐西路	cháng;pn lè;px siī;ak lù;zk	310
+长清北路	cháng;pn cīng;do běi;lb lù;zk	202
+长青北路	cháng;pn cīng;fo běi;lb lù;zk	163
+常青二路	cháng;xj cīng;fo èr;aa lù;zk	50
+长青南路	cháng;pn cīng;fo nán;ug lù;zk	234
+常青三路	cháng;xj cīng;fo sān;ae lù;zk	225
+常青五路	cháng;xj cīng;fo wǔ;aw lù;zk	171
+长庆西路	cháng;pn qìng;gd siī;ak lù;zk	117
+常青一路	cháng;xj cīng;fo yí;aa lù;zk	292
+长青中街	cháng;pn cīng;fo zhōng;kl jiē;rt	76
+昌盛西街	chāng;oo shèng;im siī;ak jiē;rt	225
+长湘公路	cháng;pn siāng;do gōng;bs lù;zk	180
+长新东路	cháng;pn sīn;lt dōng;ax lù;zk	76
+长缨西路	cháng;pn yīng;sn siī;ak lù;zk	212
+长征西街	cháng;pn zhēng;rv siī;ak jiē;rt	76
+朝内小街	cháo;uo nèi;kr siǎo;lb jiē;rt	3
+车城西路	chē;au chéng;ti siī;ak lù;zk	234
+车站西街	chē;au zhàn;lv siī;ak jiē;rt	306
+陈翔公路	chén;ed siáng;yx gōng;bs lù;zk	256
+城河西路	chéng;ti hé;dk siī;ak lù;zk	144
+澄湖西路	chéng;db hú;do siī;ak lù;zk	189
+成华西街	chéng;gv huá;ru siī;ak jiē;rt	76
+城西北路	chéng;ti siī;ak běi;lb lù;zk	76
+城西大街	chéng;ti siī;ak dà;ar jiē;rt	374
+城西南路	chéng;ti siī;ak nán;ug lù;zk	76
+城西一路	chéng;ti siī;ak yī;aa lù;zk	207
+城厢东路	chéng;ti siāng;io dōng;ax lù;zk	297
+城厢西路	chéng;ti siāng;io siī;ak lù;zk	130
+城厢中路	chéng;ti siāng;io zhōng;kl lù;zk	266
+城中西路	chéng;ti zhōng;kl siī;ak lù;zk	4
+城子西街	chéng;ti zǐ;la siī;ak jiē;rt	4
+创业新街	chuàng;rd yè;la sīn;lt jiē;rt	4
+春融西路	chūn;io róng;gi siī;ak lù;zk	130
+大安西路	dà;ar ān;bn siī;ak lù;zk	99
+打箍井街	dǎ;fd gū;vj zǐng;ac jiē;rt	220
+大明西路	dà;ar míng;oo siī;ak lù;zk	153
+大南西街	dà;ar nán;ug siī;ak jiē;rt	324
+大墙东街	dà;ar ciáng;tk dōng;ax jiē;rt	162
+大墙西街	dà;ar ciáng;tk siī;ak jiē;rt	212
+大秦铁路	dà;ar cín;ih tiě;jf lù;zk	44
+大沙西路	dà;ar shā;du siī;ak lù;zk	45
+大石西路	dà;ar shí;ak siī;ak lù;zk	374
+大水晶街	dà;ar shuǐ;ln zīng;oo jiē;rt	50
+大西门街	dà;ar siī;ak mén;dv jiē;rt	76
+大小河街	dà;ar siǎo;lb hé;dk jiē;rt	153
+大新西路	dà;ar sīn;lt siī;ak lù;zk	76
+大兴西路	dà;ar xīng;xb siī;ak lù;zk	342
+大学西街	dà;ar xué;xz siī;ak jiē;rt	382
+大召前街	dà;ar zhào;dk cián;bd jiē;rt	162
+大治西路	dà;ar zhì;dk siī;ak lù;zk	50
+丹霞西路	dān;kd xiá;yy siī;ak lù;zk	99
+道北西街	dào;zz běi;lb siī;ak jiē;rt	4
+到观前街	dào;gd guān;yj cián;bd jiē;rt	414
+到酒吧街	dào;gd ziǔ;dy bā;kb jiē;rt	279
+到青年路	dào;gd cīng;fo nián;pf lù;zk	374
+道山西路	dào;zz shān;kl siī;ak lù;zk	266
+到山西路	dào;gd shān;kl siī;ak lù;zk	194
+到西北路	dào;gd siī;ak běi;lb lù;zk	153
+道新北路	dào;zz sīn;lt běi;lb lù;zk	45
+道新南路	dào;zz sīn;lt nán;ug lù;zk	144
+德安新街	dé;rx ān;bn sīn;lt jiē;rt	144
+德胜西路	dé;rx shèng;ou siī;ak lù;zk	225
+德小铁路	dé;rx siǎo;lb tiě;jf lù;zk	4
+地盛西路	dì;ty shèng;im siī;ak lù;zk	76
+第一津街	dì;vd yī;aa zīn;dy jiē;rt	274
+点将台路	diǎn;vh ziàng;lc tái;sk lù;zk	171
+殿前四路	diàn;uu cián;bd sì;we lù;zk	130
+殿前一路	diàn;uu cián;bd yí;aa lù;zk	171
+甸新东路	diān;bt sīn;lt dōng;ax lù;zk	189
+电信南街	diàn;ov sìn;rk nán;ug jiē;rt	99
+电子西街	diàn;ov zǐ;la siī;ak jiē;rt	234
+东北七街	dōng;ax běi;lb ciī;av jiē;rt	4
+东北新街	dōng;ax běi;lb sīn;lt jiē;rt	220
+东昌西路	dōng;ax chāng;oo siī;ak lù;zk	162
+东城墙路	dōng;ax chéng;ti ciáng;tk lù;zk	117
+东风西街	dōng;ax fēng;jx siī;ak jiē;rt	212
+东风西路	dōng;ax fēng;jx siī;ak lù;zk	9
+东岗西路	dōng;ax gǎng;ux siī;ak lù;zk	382
+东华西路	dōng;ax huá;ru siī;ak lù;zk	324
+东进西路	dōng;ax zìn;zj siī;ak lù;zk	50
+东内小街	dōng;ax nèi;kr siǎo;lb jiē;rt	234
+东七经路	dōng;ax ciī;av jīng;sj lù;zk	45
+东七条路	dōng;ax ciī;av tiáo;wa lù;zk	4
+栋青南路	dòng;ad cīng;fo nán;ug lù;zk	38
+冻青树街	dòng;dd cīng;fo shù;ac jiē;rt	130
+东清铁路	dōng;ax cīng;do tiě;jf lù;zk	549
+东外斜街	dōng;ax wài;xb sié;rd jiē;rt	99
+东新北路	dōng;ax sīn;lt běi;lb lù;zk	76
+东新东路	dōng;ax sīn;lt dōng;ax lù;zk	99
+东新开路	dōng;ax sīn;lt kāi;ac lù;zk	153
+东新民路	dōng;ax sīn;lt mín;vv lù;zk	194
+东新南路	dōng;ax sīn;lt nán;ug lù;zk	153
+东新五路	dōng;ax sīn;lt wǔ;aw lù;zk	50
+东元西路	dōng;ax yuán;aw siī;ak lù;zk	99
+段兴西路	duàn;pu xīng;xb siī;ak lù;zk	76
+恩济东街	ēn;yx ziì;dq dōng;ax jiē;rt	50
+恩济西街	ēn;yx ziì;dq siī;ak jiē;rt	130
+二环西路	èr;aa huán;wb siī;ak lù;zk	590
+二七北路	èr;aa ciī;av běi;lb lù;zk	392
+二七横路	èr;aa ciī;av héng;ab lù;zk	162
+二七南路	èr;aa ciī;av nán;ug lù;zk	369
+二七小路	èr;aa ciī;av siǎo;lb lù;zk	194
+二七中街	èr;aa ciī;av zhōng;kl jiē;rt	162
+二十七街	èr;aa shí;al ciī;av jiē;rt	42
+二仙桥路	èr;aa siān;ru qiáo;al lù;zk	50
+法院西街	fǎ;dq yuàn;ey siī;ak jiē;rt	99
+方浜西路	fāng;wv bāng;db siī;ak lù;zk	171
+芳草西街	fāng;cf cǎo;cu siī;ak jiē;rt	99
+枋湖西路	fāng;af hú;do siī;ak lù;zk	76
+纺织西路	fǎng;sf zhī;sv siī;ak lù;zk	4
+沣镐西路	fēng;df gǎo;jk siī;ak lù;zk	76
+丰镐西路	fēng;sl hào;jk siī;ak lù;zk	266
+凤凰西街	fèng;jy huáng;jw siī;ak jiē;rt	410
+凤林西路	fèng;jy lín;aa siī;ak lù;zk	4
+葑门西街	fēng;cc mén;dv siī;ak jiē;rt	144
+凤栖东路	fèng;jy ciī;ax dōng;ax lù;zk	144
+凤栖西路	fèng;jy ciī;ax siī;ak lù;zk	144
+凤山西路	fèng;jy shān;kl siī;ak lù;zk	130
+凤台西街	fèng;jy tái;sk siī;ak jiē;rt	130
+凤西二路	fèng;jy siī;ak èr;aa lù;zk	117
+丰西铁路	fēng;sl siī;ak tiě;jf lù;zk	230
+凤翔北路	fèng;jy siáng;yx běi;lb lù;zk	144
+凤祥北路	fèng;jy siáng;py běi;lb lù;zk	99
+凤祥大街	fèng;jy siáng;py dà;ar jiē;rt	50
+凤翔东路	fèng;jy siáng;yx dōng;ax lù;zk	234
+凤祥南路	fèng;jy siáng;py nán;ug lù;zk	220
+凤新二路	fèng;jy sīn;lt èr;aa lù;zk	76
+丰庄西路	fēng;sl zhuāng;gt siī;ak lù;zk	117
+佛城西路	fó;rf chéng;ti siī;ak lù;zk	346
+阜安西路	fù;pu ān;bn siī;ak lù;zk	270
+阜城西街	fù;pu chéng;ti siī;ak jiē;rt	45
+府后西街	fǔ;gc hòu;ik siī;ak jiē;rt	162
+富华西路	fù;bt huá;ru siī;ak lù;zk	153
+福津大街	fú;pt zīn;dy dà;ar jiē;rt	189
+福隆新街	fú;pt lóng;eu sīn;lt jiē;rt	495
+阜南西路	fù;pu nán;ug siī;ak lù;zk	50
+府前北路	fǔ;gc cián;bd běi;lb lù;zk	52
+府前大街	fǔ;gc cián;bd dà;ar jiē;rt	360
+府前东街	fǔ;gc cián;bd dōng;ax jiē;rt	144
+府前东路	fǔ;gc cián;bd dōng;ax lù;zk	50
+府前南路	fǔ;gc cián;bd nán;ug lù;zk	52
+福前铁路	fú;pt cián;bd tiě;jf lù;zk	238
+府前西街	fǔ;gc cián;bd siī;ak jiē;rt	180
+府前西路	fǔ;gc cián;bd siī;ak lù;zk	153
+府前中路	fǔ;gc cián;bd zhōng;kl lù;zk	52
+抚琴西路	fǔ;fw qín;wv siī;ak lù;zk	302
+富善西街	fù;bt shàn;yk siī;ak jiē;rt	45
+府山西路	fǔ;gc shān;kl siī;ak lù;zk	76
+富特西路	fù;bt tè;nc siī;ak lù;zk	50
+滏西大街	fǔ;db siī;ak dà;ar jiē;rt	248
+富西铁路	fù;bt siī;ak tiě;jf lù;zk	405
+抚仙湖街	fǔ;fw siān;ru hú;do jiē;rt	4
+福新东路	fú;pt sīn;lt dōng;ax lù;zk	342
+福新支路	fú;pt sīn;lt zhī;uy lù;zk	130
+福新中路	fú;pt sīn;lt zhōng;kl lù;zk	243
+府学西街	fǔ;gc xué;xz siī;ak jiē;rt	144
+干将东路	gān;au ziāng;lc dōng;ax lù;zk	346
+干将西路	gān;au ziāng;lc siī;ak lù;zk	333
+干线公路	gàn;au siàn;sj gōng;bs lù;zk	788
+钢铁西街	gāng;jx tiě;jf siī;ak jiē;rt	130
+高登西街	gāo;wk dēng;bb siī;ak jiē;rt	4
+高架线路	gāo;wk jià;la siàn;sj lù;zk	477
+高朋西路	gāo;wk péng;oo siī;ak lù;zk	76
+高新二路	gāo;wk sīn;lt èr;aa lù;zk	6
+高新九路	gāo;wk sīn;lt jiǔ;pv lù;zk	4
+高新六路	gāo;wk sīn;lt liù;wb lù;zk	320
+高新南路	gāo;wk sīn;lt nán;ug lù;zk	144
+高新七路	gāo;wk sīn;lt ciī;av lù;zk	238
+高新三路	gāo;wk sīn;lt sān;ae lù;zk	207
+高新四路	gāo;wk sīn;lt sì;we lù;zk	423
+高新铁路	gāo;wk sīn;lt tiě;jf lù;zk	225
+高新五路	gāo;wk sīn;lt wǔ;aw lù;zk	248
+高新一路	gāo;wk sīn;lt yí;aa lù;zk	338
+艮山西路	gěn;oy shān;kl siī;ak lù;zk	396
+共和新路	gòng;cb hé;hk sīn;lt lù;zk	25
+公济桥路	gōng;bs ziì;dq qiáo;al lù;zk	45
+工农西街	gōng;aa nóng;by siī;ak jiē;rt	99
+共青团路	gòng;cb cīng;fo tuán;wc lù;zk	508
+贡院西街	gòng;gb yuàn;ey siī;ak jiē;rt	338
+鼓楼西街	gǔ;tv lóu;an siī;ak jiē;rt	6
+古美西路	gǔ;uk měi;yd siī;ak lù;zk	382
+古寨西路	gǔ;uk zhài;ba siī;ak lù;zk	162
+观绿新街	guān;yj lǜ;su sīn;lt jiē;rt	45
+关前正街	guān;bt cián;bd zhèng;av jiē;rt	117
+观山西路	guān;yj shān;kl siī;ak lù;zk	130
+关岳西路	guān;bt yuè;qu siī;ak lù;zk	76
+光复西路	guāng;xe fù;pw siī;ak lù;zk	405
+光谷七路	guāng;xe gǔ;bk ciī;av lù;zk	220
+广石西路	guǎng;di shí;ak siī;ak lù;zk	50
+广西道路	guǎng;di siī;ak dào;zz lù;zk	50
+广业西路	guǎng;di yè;la siī;ak lù;zk	180
+广中西路	guǎng;di zhōng;kl siī;ak lù;zk	360
+桂花西路	guì;at huā;cb siī;ak lù;zk	342
+哈平西路	hā;kk píng;au siī;ak lù;zk	292
+哈西大街	hā;kk siī;ak dà;ar jiē;rt	342
+海滨七路	hǎi;dm bīn;db ciī;av lù;zk	4
+海河西路	hǎi;dm hé;dk siī;ak lù;zk	117
+海椒市街	hǎi;dm ziāo;ay shì;wj jiē;rt	230
+海曲西路	hǎi;dm qǔ;wc siī;ak lù;zk	180
+海鲜食街	hǎi;dm siān;yy shí;rg jiē;rt	297
+海秀东路	hǎi;dm siù;hn dōng;ax lù;zk	306
+海秀西路	hǎi;dm siù;hn siī;ak lù;zk	202
+海秀中路	hǎi;dm siù;hn zhōng;kl lù;zk	261
+旱西门街	hàn;og siī;ak mén;dv jiē;rt	50
+汉西三路	hàn;dy siī;ak sān;ae lù;zk	288
+汉西一路	hàn;dy siī;ak yī;aa lù;zk	207
+航膳西路	háng;vj shàn;ok siī;ak lù;zk	346
+河边新街	hé;dk biān;zl sīn;lt jiē;rt	486
+河东新街	hé;dk dōng;ax sīn;lt jiē;rt	45
+何坊西路	hé;rk fāng;tf siī;ak lù;zk	288
+贺进南街	hè;lb zìn;zj nán;ug jiē;rt	50
+和平西街	hé;hk píng;au siī;ak jiē;rt	310
+和硕西街	hé;hk shuò;uy siī;ak jiē;rt	207
+禾塘咀街	hé;pa táng;tk zǚ;kq jiē;rt	333
+河田西路	hé;dk tián;wu siī;ak lù;zk	4
+禾祥东路	hé;pa siáng;py dōng;ax lù;zk	270
+禾祥西路	hé;pa siáng;py siī;ak lù;zk	88
+和政西街	hé;hk zhèng;vw siī;ak jiē;rt	4
+黑石礁街	hēi;lh shí;ak ziāo;uh jiē;rt	338
+恒山西路	héng;xd shān;kl siī;ak lù;zk	171
+恒祥大街	héng;xd siáng;py dà;ar jiē;rt	292
+横小南街	héng;ab siǎo;lb nán;ug jiē;rt	50
+鸿福西路	hóng;dn fú;pt siī;ak lù;zk	144
+宏济新路	hóng;bs ziì;dq sīn;lt lù;zk	266
+宏济中路	hóng;bs ziì;dq zhōng;kl lù;zk	189
+红居斜街	hóng;sg jū;ug sié;rd jiē;rt	162
+红荔西路	hóng;sg lì;cl siī;ak lù;zk	428
+洪莲西路	hóng;dg lián;ci siī;ak lù;zk	99
+洪楼西路	hóng;dg lóu;an siī;ak lù;zk	279
+红旗西街	hóng;sg qí;fb siī;ak jiē;rt	130
+红山西路	hóng;sg shān;kl siī;ak lù;zk	130
+红塔西路	hóng;sg tǎ;tk siī;ak lù;zk	252
+红星东街	hóng;sg sīng;ou dōng;ax jiē;rt	130
+红星西路	hóng;sg sīng;ou siī;ak lù;zk	76
+洪兴西路	hóng;dg xīng;xb siī;ak lù;zk	42
+侯西铁路	hóu;ru siī;ak tiě;jf lù;zk	320
+湖滨西街	hú;do bīn;db siī;ak jiē;rt	270
+湖光西路	hú;do guāng;xe siī;ak lù;zk	162
+沪青公路	hù;dh cīng;fo gōng;bs lù;zk	4
+湖西南路	hú;do siī;ak nán;ug lù;zk	50
+湖心北路	hú;do sīn;dd běi;lb lù;zk	50
+湖心南路	hú;do sīn;dd nán;ug lù;zk	4
+华电西路	huá;ru diàn;ov siī;ak lù;zk	45
+花见小路	huā;cb jiàn;ke siǎo;lb lù;zk	486
+花津南路	huā;cb zīn;dy nán;ug lù;zk	76
+华清东路	huá;ru cīng;do dōng;ax lù;zk	279
+华青南路	huá;ru cīng;fo nán;ug lù;zk	50
+华清西路	huá;ru cīng;do siī;ak lù;zk	266
+化纤厂路	huà;rb siān;sq chǎng;ap lù;zk	364
+华新大街	huá;ru sīn;lt dà;ar jiē;rt	99
+华徐公路	huá;ru sǘ;rm gōng;bs lù;zk	279
+华扬西路	huá;ru yáng;fp siī;ak lù;zk	76
+花园西路	huā;cb yuán;wy siī;ak lù;zk	333
+华苑西路	huá;ru yuàn;cv siī;ak lù;zk	144
+华远西路	huá;ru yuǎn;zy siī;ak lù;zk	57
+槐安西路	huái;ag ān;bn siī;ak lù;zk	302
+槐房西路	huái;ag fáng;hf siī;ak lù;zk	288
+浣笔泉路	huàn;dy bǐ;vm cüán;bu lù;zk	50
+环城西路	huán;wb chéng;ti siī;ak lù;zk	16
+环岛西路	huán;wb dǎo;nu siī;ak lù;zk	3
+环河西路	huán;wb hé;dk siī;ak lù;zk	225
+环湖西路	huán;wb hú;do siī;ak lù;zk	38
+环林西路	huán;wb lín;aa siī;ak lù;zk	243
+环市西路	huán;wb shì;wj siī;ak lù;zk	3
+环西二路	huán;wb siī;ak èr;aa lù;zk	50
+环镇西路	huán;wb zhèn;jb siī;ak lù;zk	234
+皇城西路	huáng;bw chéng;ti siī;ak lù;zk	162
+黄河七路	huáng;cb hé;dk ciī;av lù;zk	76
+回城西路	huí;wk chéng;ti siī;ak lù;zk	4
+惠风西路	huì;ix fēng;jx siī;ak lù;zk	130
+汇丰西路	huì;dk fēng;sl siī;ak lù;zk	4
+惠福西路	huì;ix fú;pt siī;ak lù;zk	405
+惠济二路	huì;ix ziì;dq èr;aa lù;zk	189
+惠济一路	huì;ix ziì;dq yí;aa lù;zk	180
+汇景西路	huì;dk jǐng;ox siī;ak lù;zk	50
+汇泉南路	huì;dk cüán;bu nán;ug lù;zk	130
+惠新东街	huì;ix sīn;lt dōng;ax jiē;rt	13
+惠新西街	huì;ix sīn;lt siī;ak jiē;rt	9
+惠新中街	huì;ix sīn;lt zhōng;kl jiē;rt	117
+济安桥路	ziì;dq ān;bn qiáo;al lù;zk	153
+集材道路	zií;ra cái;ac dào;zz lù;zk	45
+集二铁路	zií;ra èr;aa tiě;jf lù;zk	382
+季华七路	jì;hz huá;ru ciī;av lù;zk	153
+季华西路	jì;hz huá;ru siī;ak lù;zk	297
+基龙西路	jī;ct lóng;yp siī;ak lù;zk	4
+集通铁路	zií;ra tōng;zy tiě;jf lù;zk	464
+集贤北路	zií;ra xián;lb běi;lb lù;zk	162
+集贤南路	zií;ra xián;lb nán;ug lù;zk	274
+吉祥南街	jí;tk siáng;py nán;ug jiē;rt	76
+吉祥南路	jí;tk siáng;py nán;ug lù;zk	99
+积玉桥街	ziī;hv yù;wd qiáo;al jiē;rt	189
+嘉戬公路	jiā;tk ziǎn;yg gōng;bs lù;zk	99
+嘉陵新路	jiā;tk líng;ew sīn;lt lù;zk	212
+嘉新公路	jiā;tk sīn;lt gōng;bs lù;zk	153
+甲秀南路	jiǎ;ol siù;hn nán;ug lù;zk	207
+尖草坪街	ziān;xd cǎo;cu píng;tp jiē;rt	288
+建国西路	jiàn;zy guó;wy siī;ak lù;zk	35
+建国新路	jiàn;zy guó;wy sīn;lt lù;zk	194
+涧河西街	jiàn;do hé;dk siī;ak jiē;rt	162
+健康西街	jiàn;ry kāng;gl siī;ak jiē;rt	256
+碱泉三街	jiǎn;uk cüán;bu sān;ae jiē;rt	50
+碱泉一街	jiǎn;uk cüán;bu yī;aa jiē;rt	50
+建设七路	jiàn;zy shè;yu ciī;av lù;zk	162
+建设西街	jiàn;zy shè;yu siī;ak jiē;rt	153
+建设西路	jiàn;zy shè;yu siī;ak lù;zk	52
+健生西路	jiàn;ry shēng;pf siī;ak lù;zk	76
+建西东路	jiàn;zy siī;ak dōng;ax lù;zk	117
+建西西路	jiàn;zy siī;ak siī;ak lù;zk	4
+建新北路	jiàn;zy sīn;lt běi;lb lù;zk	346
+建新东路	jiàn;zy sīn;lt dōng;ax lù;zk	432
+建新南路	jiàn;zy sīn;lt nán;ug lù;zk	306
+建新西路	jiàn;zy sīn;lt siī;ak lù;zk	284
+建新中路	jiàn;zy sīn;lt zhōng;kl lù;zk	153
+江场西路	jiāng;dg chǎng;tp siī;ak lù;zk	194
+将军祠路	ziāng;lc jūn;bi cí;pk lù;zk	153
+将军路街	ziāng;lc jūn;bi lù;zk jiē;rt	292
+江石西路	jiāng;dg shí;ak siī;ak lù;zk	4
+浆水泉路	ziāng;lu shuǐ;ln cüán;bu lù;zk	490
+将台西路	ziāng;lc tái;sk siī;ak lù;zk	338
+江头西路	jiāng;dg tóu;dd siī;ak lù;zk	117
+蒋王庙街	ziǎng;cc wáng;at miào;gy jiē;rt	144
+江心沙路	jiāng;dg sīn;dd shā;du lù;zk	153
+江兴西路	jiāng;dg xīng;xb siī;ak lù;zk	320
+较场西路	jiào;if chǎng;tp siī;ak lù;zk	315
+校场西路	jiào;af chǎng;tp siī;ak lù;zk	122
+焦东南路	ziāo;rh dōng;ax nán;ug lù;zk	76
+胶济铁路	jiāo;of ziì;dq tiě;jf lù;zk	44
+焦柳铁路	ziāo;rh liǔ;ae tiě;jf lù;zk	652
+胶新铁路	jiāo;of sīn;lt tiě;jf lù;zk	338
+焦枝铁路	ziāo;rh zhī;av tiě;jf lù;zk	310
+解放西街	jiě;dn fàng;fw siī;ak jiē;rt	9
+解放西路	jiě;dn fàng;fw siī;ak lù;zk	13
+捷进二路	zié;fz zìn;zj èr;aa lù;zk	90
+介西铁路	jiè;rl siī;ak tiě;jf lù;zk	130
+锦安西路	jǐn;jj ān;bn siī;ak lù;zk	117
+津霸公路	zīn;dy bà;yo gōng;bs lù;zk	171
+津霸铁路	zīn;dy bà;yo tiě;jf lù;zk	351
+津保铁路	zīn;dy bǎo;ra tiě;jf lù;zk	450
+金城西路	jīn;rb chéng;ti siī;ak lù;zk	225
+进村道路	zìn;zj cūn;ac dào;zz lù;zk	320
+津港公路	zīn;dy gǎng;ds gōng;bs lù;zk	374
+进港公路	zìn;zj gǎng;ds gōng;bs lù;zk	122
+津沽公路	zīn;dy gū;dg gōng;bs lù;zk	310
+津汉公路	zīn;dy hàn;dy gōng;bs lù;zk	266
+金湖西路	jīn;rb hú;do siī;ak lù;zk	76
+金环西路	jīn;rb huán;wb siī;ak lù;zk	76
+金汇西街	jīn;rb huì;dk siī;ak jiē;rt	99
+晋吉北路	zìn;yo jí;tk běi;lb lù;zk	99
+晋吉南路	zìn;yo jí;tk nán;ug lù;zk	76
+津蓟铁路	zīn;dy jì;cd tiě;jf lù;zk	432
+津静公路	zīn;dy zìng;fy gōng;bs lù;zk	252
+津涞公路	zīn;dy lái;dl gōng;bs lù;zk	310
+锦里西路	jǐn;jj lǐ;tt siī;ak lù;zk	212
+晋陵北路	zìn;yo líng;ew běi;lb lù;zk	220
+晋陵中路	zìn;yo líng;ew zhōng;kl lù;zk	320
+金龙新街	jīn;rb lóng;yp sīn;lt jiē;rt	144
+金贸西路	jīn;rb mào;pb siī;ak lù;zk	194
+进宁北街	zìn;zj níng;bd běi;lb jiē;rt	153
+津浦北街	zīn;dy pǔ;df běi;lb jiē;rt	76
+津浦北路	zīn;dy pǔ;df běi;lb lù;zk	76
+津浦铁路	zīn;dy pǔ;df tiě;jf lù;zk	47
+津浦西路	zīn;dy pǔ;df siī;ak lù;zk	144
+津岐公路	zīn;dy qí;uv gōng;bs lù;zk	194
+津歧公路	zīn;dy qí;vv gōng;bs lù;zk	137
+金千铁路	jīn;rb ciān;pu tiě;jf lù;zk	324
+金桥西街	jīn;rb qiáo;al siī;ak jiē;rt	99
+金雀山路	jīn;rb cüè;xv shān;kl lù;zk	297
+金砂西路	jīn;rb shā;uu siī;ak lù;zk	50
+津山铁路	zīn;dy shān;kl tiě;jf lù;zk	536
+晋神铁路	zìn;yo shén;pu tiě;jf lù;zk	4
+劲松七路	jìn;jl sōng;ag ciī;av lù;zk	320
+金台西路	jīn;rb tái;sk siī;ak lù;zk	220
+津塘公路	zīn;dy táng;tk gōng;bs lù;zk	410
+津同公路	zīn;dy tóng;kk gōng;bs lù;zk	194
+金桐西路	jīn;rb tóng;ak siī;ak lù;zk	243
+津围公路	zīn;dy wéi;ww gōng;bs lù;zk	320
+津文公路	zīn;dy wén;wx gōng;bs lù;zk	117
+金仙桥路	jīn;rb siān;ru qiáo;al lù;zk	50
+进香河路	zìn;zj xiāng;ho hé;dk lù;zk	382
+金新北路	jīn;rb sīn;lt běi;lb lù;zk	189
+金新南路	jīn;rb sīn;lt nán;ug lù;zk	144
+金星西路	jīn;rb sīng;ou siī;ak lù;zk	234
+锦绣大街	jǐn;jj siù;sn dà;ar jiē;rt	225
+锦绣东路	jǐn;jj siù;sn dōng;ax lù;zk	310
+进延芳路	zìn;zj yán;zv fāng;cf lù;zk	99
+津永公路	zīn;dy yǒng;du gōng;bs lù;zk	130
+津榆公路	zīn;dy yú;ad gōng;bs lù;zk	162
+锦悦西路	jǐn;jj yuè;xx siī;ak lù;zk	234
+金珠西路	jīn;rb zhū;ww siī;ak lù;zk	320
+津淄公路	zīn;dy zī;dt gōng;bs lù;zk	171
+静安寺路	zìng;fy ān;bn sì;tc lù;zk	531
+荆翠西路	jīng;cd cuì;xu siī;ak lù;zk	4
+井冈山路	zǐng;ac gāng;kx shān;kl lù;zk	3
+经海七路	jīng;sj hǎi;dm ciī;av lù;zk	50
+精霍铁路	zīng;mo huò;yv tiě;jf lù;zk	4
+京津公路	jīng;wx zīn;dy gōng;bs lù;zk	454
+净居寺路	zìng;dy jū;ug sì;tc lù;zk	180
+静居寺路	zìng;fy jū;ug sì;tc lù;zk	144
+镜泊西路	jìng;je pō;db siī;ak lù;zk	4
+京秦铁路	jīng;wx cín;ih tiě;jf lù;zk	3
+靖神铁路	zìng;lo shén;pu tiě;jf lù;zk	50
+经十西路	jīng;sj shí;al siī;ak lù;zk	540
+京西北路	jīng;wx siī;ak běi;lb lù;zk	342
+京西南路	jīng;wx siī;ak nán;ug lù;zk	333
+京西铁路	jīng;wx siī;ak tiě;jf lù;zk	45
+井西铁路	zǐng;ac siī;ak tiě;jf lù;zk	4
+景星南街	jǐng;ox sīng;ou nán;ug jiē;rt	45
+靖宇大街	zìng;lo yǔ;by dà;ar jiē;rt	171
+靖宇东路	zìng;lo yǔ;by dōng;ax lù;zk	284
+靖宇南路	zìng;lo yǔ;by nán;ug lù;zk	194
+靖宇中路	zìng;lo yǔ;by zhōng;kl lù;zk	171
+净月大街	zìng;dy yuè;ke dà;ar jiē;rt	392
+荆竹西路	jīng;cd zhú;gg siī;ak lù;zk	144
+九都西路	jiǔ;pv dōu;le siī;ak lù;zk	144
+旧晋祠路	jiù;lo zìn;yo cí;pk lù;zk	356
+九塘西路	jiǔ;pv táng;tk siī;ak lù;zk	50
+酒仙桥路	ziǔ;dy siān;ru qiáo;al lù;zk	598
+九新公路	jiǔ;pv sīn;lt gōng;bs lù;zk	238
+九星公路	jiǔ;pv sīng;ou gōng;bs lù;zk	4
+聚德西路	zǜ;eu dé;rx siī;ak lù;zk	76
+聚丰园路	zǜ;eu fēng;sl yuán;wy lù;zk	324
+聚贤桥路	zǜ;eu xián;lb qiáo;al lù;zk	252
+聚业大街	zǜ;eu yè;la dà;ar jiē;rt	212
+骏景食街	zǜn;mw jǐng;ox shí;rg jiē;rt	266
+骏运北路	zǜn;mw yùn;zy běi;lb lù;zk	4
+骏运南路	zǜn;mw yùn;zy nán;ug lù;zk	76
+凯翔一街	kǎi;uj siáng;yx yī;aa jiē;rt	50
+开元西路	kāi;ac yuán;aw siī;ak lù;zk	171
+科星西路	kē;hd sīng;ou siī;ak lù;zk	306
+口泉铁路	kǒu;la cüán;bu tiě;jf lù;zk	99
+寇庄西路	kòu;by zhuāng;gt siī;ak lù;zk	238
+奎星楼街	kuí;dt sīng;ou lóu;an jiē;rt	50
+魁星楼街	kuí;gd sīng;ou lóu;an jiē;rt	45
+兰青铁路	lán;bs cīng;fo tiě;jf lù;zk	396
+兰新铁路	lán;bs sīn;lt tiě;jf lù;zk	35
+老山西街	lǎo;lb shān;kl siī;ak jiē;rt	180
+乐西公路	lè;px siī;ak gōng;bs lù;zk	266
+利济北路	lì;hd ziì;dq běi;lb lù;zk	328
+利济东路	lì;hd ziì;dq dōng;ax lù;zk	99
+利济南路	lì;hd ziǐ;dq nán;ug lù;zk	180
+利民西街	lì;hd mín;vv siī;ak jiē;rt	194
+利民西路	lì;hd mín;vv siī;ak lù;zk	76
+李七庄街	lǐ;az ciī;av zhuāng;gt jiē;rt	292
+荔新公路	lì;cl sīn;lt gōng;bs lù;zk	225
+莲安西路	lián;ci ān;bn siī;ak lù;zk	76
+莲桂西路	lián;ci guì;at siī;ak lù;zk	194
+联升西路	lián;et shēng;pc siī;ak lù;zk	4
+练西公路	liàn;sd siī;ak gōng;bs lù;zk	50
+连元西街	lián;zi yuán;aw siī;ak jiē;rt	117
+凉水井街	liáng;dx shuǐ;ln zǐng;ac jiē;rt	76
+良乡西路	liáng;dg xiāng;vp siī;ak lù;zk	220
+两浙西路	liǎng;ar zhè;dt siī;ak lù;zk	374
+林城西路	lín;aa chéng;ti siī;ak lù;zk	270
+林和西路	lín;aa hé;hk siī;ak lù;zk	410
+临泉东路	lín;lk cüán;bu dōng;ax lù;zk	342
+临西八路	lín;lk siī;ak bā;pn lù;zk	50
+临西二路	lín;lk siī;ak èr;aa lù;zk	4
+临西九路	lín;lk siī;ak jiǔ;pv lù;zk	4
+临西七路	lín;lk siī;ak ciī;av lù;zk	50
+临西五路	lín;lk siī;ak wǔ;aw lù;zk	50
+临西一路	lín;lk siī;ak yī;aa lù;zk	50
+林祥南街	lín;aa siáng;py nán;ug jiē;rt	252
+陵西大街	líng;ew siī;ak dà;ar jiē;rt	266
+灵新公路	líng;eh sīn;lt gōng;bs lù;zk	99
+陵园西街	líng;ew yuán;wy siī;ak jiē;rt	212
+六厂前街	liù;wb chǎng;ap cián;bd jiē;rt	4
+留仙二路	liú;pt siān;ru èr;aa lù;zk	99
+留仙一路	liú;pt siān;ru yí;aa lù;zk	171
+浏翔公路	liú;dd siáng;yx gōng;bs lù;zk	230
+六运七街	liù;wb yùn;zy ciī;av jiē;rt	162
+陇海西路	lǒng;el hǎi;dm siī;ak lù;zk	410
+龙津西路	lóng;yp zīn;dy siī;ak lù;zk	446
+龙骧大街	lóng;yp siāng;mf dà;ar jiē;rt	76
+隆兴西路	lóng;eu xīng;xb siī;ak lù;zk	130
+龙兴西路	lóng;yp xīng;xb siī;ak lù;zk	38
+龙翼七街	lóng;yp yì;xg ciī;av jiē;rt	50
+龙园西路	lóng;yp yuán;wy siī;ak lù;zk	243
+鹭江西街	lù;zn jiāng;dg siī;ak jiē;rt	117
+麓景西路	lù;ab jǐng;ox siī;ak lù;zk	220
+芦西公路	lú;ch siī;ak gōng;bs lù;zk	50
+罗宪新街	luó;sx xiàn;be sīn;lt jiē;rt	252
+马群新街	mǎ;va qún;yy sīn;lt jiē;rt	130
+麦积山路	mài;fw ziī;hv shān;kl lù;zk	324
+卖新公路	mài;ud sīn;lt gōng;bs lù;zk	76
+茅津南路	máo;cm zīn;dy nán;ug lù;zk	230
+泖新公路	mǎo;de sīn;lt gōng;bs lù;zk	50
+梅华西路	méi;am huá;ru siī;ak lù;zk	279
+梅集铁路	méi;am zií;ra tiě;jf lù;zk	266
+梅岭西路	méi;am lǐng;us siī;ak lù;zk	144
+梅陇西路	méi;am lǒng;el siī;ak lù;zk	234
+梅七铁路	méi;am ciī;av tiě;jf lù;zk	225
+梅园西路	méi;am yuán;wy siī;ak lù;zk	194
+棉纺西路	mián;aj fǎng;sf siī;ak lù;zk	130
+庙前西街	miào;gy cián;bd siī;ak jiē;rt	256
+庙前直街	miào;gy cián;bd zhí;uq jiē;rt	356
+岷江西路	mín;um jiāng;dg siī;ak lù;zk	153
+鸣新中路	míng;kn sīn;lt zhōng;kl lù;zk	50
+明园西街	míng;oo yuán;wy siī;ak jiē;rt	266
+明园西路	míng;oo yuán;wy siī;ak lù;zk	392
+磨心塘路	mó;gu sīn;dd táng;tk lù;zk	45
+苜蓿园街	mù;co sü;cb yuán;wy jiē;rt	4
+南无锡路	nā;ug mó;ay siī;jw lù;zk	50
+渿河西路	nài;du hé;dk siī;ak lù;zk	4
+南川西路	nán;ug chuān;pl siī;ak lù;zk	369
+南堤西路	nán;ug dī;tz siī;ak lù;zk	162
+南岗西路	nán;ug gǎng;ux siī;ak lù;zk	4
+南关西街	nán;ug guān;bt siī;ak jiē;rt	189
+南广济街	nán;ug guǎng;di ziì;dq jiē;rt	360
+南桂西路	nán;ug guì;at siī;ak lù;zk	99
+南河西路	nán;ug hé;dk siī;ak lù;zk	99
+南横西街	nán;ug héng;ab siī;ak jiē;rt	382
+南华西街	nán;ug huá;ru siī;ak jiē;rt	230
+南滑翔路	nán;ug huá;do siáng;yx lù;zk	144
+南京西路	nán;ug jīng;wx siī;ak lù;zk	245
+南九西路	nán;ug jiǔ;pv siī;ak lù;zk	4
+南俊北路	nán;ug zǜn;rw běi;lb lù;zk	4
+南俊新街	nán;ug zǜn;rw sīn;lt jiē;rt	202
+南六西路	nán;ug liù;wb siī;ak lù;zk	99
+南坪西路	nán;ug píng;tp siī;ak lù;zk	288
+南屏西路	nán;ug píng;uk siī;ak lù;zk	84
+南坪新街	nán;ug píng;tp sīn;lt jiē;rt	180
+南七道街	nán;ug ciī;av dào;zz jiē;rt	202
+南七马路	nán;ug ciī;av mǎ;va lù;zk	162
+南七西路	nán;ug ciī;av siī;ak lù;zk	212
+南七中路	nán;ug ciī;av zhōng;kl lù;zk	153
+南泉北路	nán;ug cüán;bu běi;lb lù;zk	6
+南全福街	nán;ug cüán;rw fú;pt jiē;rt	171
+南十西路	nán;ug shí;al siī;ak lù;zk	130
+南辛北街	nán;ug sīn;lu běi;lb jiē;rt	45
+南新大街	nán;ug sīn;lt dà;ar jiē;rt	266
+南新东路	nán;ug sīn;lt dōng;ax lù;zk	99
+南新二路	nán;ug sīn;lt èr;aa lù;zk	45
+南新华街	nán;ug sīn;lt huá;ru jiē;rt	428
+南新三路	nán;ug sīn;lt sān;ae lù;zk	171
+南新四路	nán;ug sīn;lt sì;we lù;zk	50
+南新业路	nán;ug sīn;lt yè;la lù;zk	99
+南新一路	nán;ug sīn;lt yí;aa lù;zk	76
+南辛庄街	nán;ug sīn;lu zhuāng;gt jiē;rt	189
+南辛庄路	nán;ug sīn;lu zhuāng;gt lù;zk	252
+南浔铁路	nán;ug sǘn;dc tiě;jf lù;zk	428
+南薰西街	nán;ug xūn;ch siī;ak jiē;rt	50
+宁康西路	níng;bd kāng;gl siī;ak lù;zk	130
+宁西铁路	níng;bd siī;ak tiě;jf lù;zk	3
+宁象铁路	níng;bd siàng;du tiě;jf lù;zk	45
+盘西铁路	pán;vm siī;ak tiě;jf lù;zk	284
+蓬莱新街	péng;cf lái;cl sīn;lt jiē;rt	117
+萍水西街	píng;cp shuǐ;ln siī;ak jiē;rt	4
+萍水西路	píng;cp shuǐ;ln siī;ak lù;zk	76
+浦信铁路	pǔ;df sìn;rk tiě;jf lù;zk	76
+浦星公路	pǔ;df sīng;ou gōng;bs lù;zk	410
+普育西路	pǔ;bo yù;wo siī;ak lù;zk	153
+圃园西路	pǔ;wf yuán;wy siī;ak lù;zk	45
+齐北铁路	cií;wl běi;lb tiě;jf lù;zk	288
+齐长城路	cií;wl cháng;pn chéng;ti lù;zk	238
+七道湾路	ciī;av dào;zz wān;dg lù;zk	180
+七道堰街	ciī;av dào;zz yàn;tn jiē;rt	248
+岐关西路	qí;uv guān;bt siī;ak lù;zk	153
+戚家墩路	ciī;gx jiā;bu dūn;tw lù;zk	207
+七里堡路	ciī;av lǐ;tt bǎo;rt lù;zk	230
+七里河路	ciī;av lǐ;tt hé;dk lù;zk	387
+七里山路	ciī;av lǐ;tt shān;kl lù;zk	144
+齐民东路	cií;wl mín;vv dōng;ax lù;zk	4
+七圣南路	ciī;av shèng;yt nán;ug lù;zk	3
+齐贤北街	cií;wl xián;lb běi;lb jiē;rt	50
+齐贤南街	cií;wl xián;lb nán;ug jiē;rt	130
+气象台路	qì;pv siàng;du tái;sk lù;zk	3
+七星西路	ciī;av sīng;ou siī;ak lù;zk	306
+七一北路	ciī;av yī;aa běi;lb lù;zk	99
+七一东路	ciī;av yī;aa dōng;ax lù;zk	212
+七一南路	ciī;av yī;aa nán;ug lù;zk	50
+七一西路	ciī;av yī;aa siī;ak lù;zk	99
+七一中路	ciī;av yī;aa zhōng;kl lù;zk	180
+栖云北路	ciī;ax yún;ag běi;lb lù;zk	4
+栖栅南街	ciī;ax zhà;ac nán;ug jiē;rt	4
+前曹公路	cián;bd cáo;co gōng;bs lù;zk	153
+前程南街	cián;bd chéng;hw nán;ug jiē;rt	50
+前大西路	cián;bd dà;ar siī;ak lù;zk	4
+千峰北路	ciān;pu fēng;uf běi;lb lù;zk	396
+千峰南路	ciān;pu fēng;uf nán;ug lù;zk	333
+千佛山路	ciān;pu fó;rf shān;kl lù;zk	315
+前抚铁路	cián;bd fǔ;fw tiě;jf lù;zk	189
+前海西街	cián;bd hǎi;dm siī;ak jiē;rt	6
+前河北路	cián;bd hé;dk běi;lb lù;zk	144
+前河东路	cián;bd hé;dk dōng;ax lù;zk	180
+前河西路	cián;bd hé;dk siī;ak lù;zk	252
+前横南路	cián;bd héng;ab nán;ug lù;zk	212
+钱湖北路	cián;jj hú;do běi;lb lù;zk	414
+钱湖东路	cián;jj hú;do dōng;ax lù;zk	45
+钱湖西路	cián;jj hú;do siī;ak lù;zk	45
+钱江二路	cián;jj jiāng;dg èr;aa lù;zk	220
+前进四路	cián;bd zìn;zj sì;we lù;zk	392
+前进五路	cián;bd zìn;zj wǔ;aw lù;zk	364
+前进西街	cián;bd zìn;zj siī;ak jiē;rt	207
+黔灵西路	qián;lv líng;eh siī;ak lù;zk	279
+前门大街	cián;bd mén;dv dà;ar jiē;rt	163
+千年古街	ciān;pu nián;pf gǔ;uk jiē;rt	261
+钱桥大街	cián;jj qiáo;al dà;ar jiē;rt	4
+前哨公路	cián;bd shào;ko gōng;bs lù;zk	4
+钱塘江路	cián;jj táng;tk jiāng;dg lù;zk	256
+前湾港路	cián;bd wān;dg gǎng;ds lù;zk	207
+前湾一路	cián;bd wān;dg yí;aa lù;zk	328
+钱王大街	cián;jj wáng;at dà;ar jiē;rt	130
+前屿东路	cián;bd yǔ;uy dōng;ax lù;zk	230
+侨光西路	qiáo;rl guāng;xe siī;ak lù;zk	153
+樵湖二路	ciáo;ah hú;do èr;aa lù;zk	4
+桥西岸路	qiáo;al siī;ak àn;ug lù;zk	99
+桥西直街	qiáo;al siī;ak zhí;uq jiē;rt	248
+秦虹南路	cín;ih hóng;ig nán;ug lù;zk	162
+秦淮河路	cín;ih huái;dv hé;dk lù;zk	99
+秦家港路	cín;ih jiā;bu gǎng;ds lù;zk	50
+亲贤北街	cīn;la xián;lb běi;lb jiē;rt	396
+秦园东路	cín;ih yuán;wy dōng;ax lù;zk	220
+沁园支路	cìn;dx yuán;wy zhī;uy lù;zk	153
+青大一路	cīng;fo dà;ar yí;aa lù;zk	342
+青东东路	cīng;fo dōng;ax dōng;ax lù;zk	4
+青凤大街	cīng;fo fèng;jy dà;ar jiē;rt	117
+清风西路	cīng;do fēng;jx siī;ak lù;zk	76
+庆丰西路	qìng;gd fēng;sl siī;ak lù;zk	42
+青海公路	cīng;fo hǎi;dm gōng;bs lù;zk	189
+青海湖路	cīng;fo hǎi;dm hú;do lù;zk	243
+青海铁路	cīng;fo hǎi;dm tiě;jf lù;zk	50
+清河北街	cīng;do hé;dk běi;lb jiē;rt	76
+清河北路	cīng;do hé;dk běi;lb lù;zk	333
+清和大街	cīng;do hé;hk dà;ar jiē;rt	130
+清河大街	cīng;do hé;dk dà;ar jiē;rt	99
+清河东路	cīng;do hé;dk dōng;ax lù;zk	405
+青河东路	cīng;fo hé;dk dōng;ax lù;zk	38
+清河西路	cīng;do hé;dk siī;ak lù;zk	194
+清河中街	cīng;do hé;dk zhōng;kl jiē;rt	279
+清河中路	cīng;do hé;dk zhōng;kl lù;zk	162
+青沪公路	cīng;fo hù;dh gōng;bs lù;zk	117
+清华园路	cīng;do huá;ru yuán;wy lù;zk	189
+清江东路	cīng;do jiāng;dg dōng;ax lù;zk	369
+清江南路	cīng;do jiāng;dg nán;ug lù;zk	50
+清江西路	cīng;do jiāng;dg siī;ak lù;zk	212
+清江中路	cīng;do jiāng;dg zhōng;kl lù;zk	252
+青连铁路	cīng;fo lián;zi tiě;jf lù;zk	414
+清凉东路	cīng;do liáng;dx dōng;ax lù;zk	50
+青林湾街	cīng;fo lín;aa wān;dg jiē;rt	99
+清林中路	cīng;do lín;aa zhōng;kl lù;zk	50
+青柳大街	cīng;fo liǔ;ae dà;ar jiē;rt	130
+青龙潭路	cīng;fo lóng;yp tán;du lù;zk	238
+青龙西街	cīng;fo lóng;yp siī;ak jiē;rt	50
+青龙正街	cīng;fo lóng;yp zhèng;av jiē;rt	189
+青年大街	cīng;fo nián;pf dà;ar jiē;rt	3
+青年东街	cīng;fo nián;pf dōng;ax jiē;rt	248
+青屏大街	cīng;fo píng;uk dà;ar jiē;rt	4
+清平直街	cīng;do píng;au zhí;uq jiē;rt	261
+青山公路	cīng;fo shān;kl gōng;bs lù;zk	900
+青山镇街	cīng;fo shān;kl zhèn;jb jiē;rt	189
+青石板街	cīng;fo shí;ak bǎn;ay jiē;rt	441
+青狮北街	cīng;fo shī;qj běi;lb jiē;rt	50
+青狮南街	cīng;fo shī;qj nán;ug jiē;rt	50
+清水河路	cīng;do shuǐ;ln hé;dk lù;zk	144
+清水江路	cīng;do shuǐ;ln jiāng;dg lù;zk	144
+清水塘路	cīng;do shuǐ;ln táng;tk lù;zk	225
+清水亭路	cīng;do shuǐ;ln tíng;wd lù;zk	76
+清水湾路	cīng;do shuǐ;ln wān;dg lù;zk	212
+青塔西路	cīng;fo tǎ;tk siī;ak lù;zk	225
+清溪东路	cīng;do xī;dd dōng;ax lù;zk	117
+清溪西路	cīng;do xī;dd siī;ak lù;zk	171
+青盐铁路	cīng;fo yán;tm tiě;jf lù;zk	382
+青阳北路	cīng;fo yáng;eo běi;lb lù;zk	180
+青羊北路	cīng;fo yáng;bf běi;lb lù;zk	122
+青洋北路	cīng;fo yáng;dy běi;lb lù;zk	57
+青羊上街	cīng;fo yáng;bf shàng;ba jiē;rt	76
+青羊正街	cīng;fo yáng;bf zhèng;av jiē;rt	130
+青洋中路	cīng;fo yáng;dy zhōng;kl lù;zk	76
+青衣江路	cīng;fo yī;wy jiāng;dg lù;zk	99
+清源北路	cīng;do yuán;dx běi;lb lù;zk	99
+清源环路	cīng;do yuán;dx huán;wb lù;zk	189
+清源西路	cīng;do yuán;dx siī;ak lù;zk	180
+庆云西街	qìng;gd yún;ag siī;ak jiē;rt	117
+青藏公路	cīng;fo zàng;ci gōng;bs lù;zk	104
+青藏铁路	cīng;fo zàng;ci tiě;jf lù;zk	292
+青赵公路	cīng;fo zhào;tx gōng;bs lù;zk	76
+清真寺街	cīng;do zhēn;ub sì;tc jiē;rt	369
+青洲新路	cīng;fo zhōu;dv sīn;lt lù;zk	99
+青竹大街	cīng;fo zhú;gg dà;ar jiē;rt	212
+去观前街	qù;ts guān;yj cián;bd jiē;rt	482
+去泉城路	qù;ts cüán;bu chéng;ti lù;zk	302
+去山西路	qù;ts shān;kl siī;ak lù;zk	320
+去西安路	qù;ts siī;ak ān;bn lù;zk	306
+去西大街	qù;ts siī;ak dà;ar jiē;rt	256
+泉安中路	cüán;bu ān;bn zhōng;kl lù;zk	212
+泉北大街	cüán;bu běi;lb dà;ar jiē;rt	234
+荃锦公路	cüán;cw jǐn;jj gōng;bs lù;zk	477
+泉南大街	cüán;bu nán;ug dà;ar jiē;rt	212
+泉园二路	cüán;bu yuán;wy èr;aa lù;zk	76
+泉园三路	cüán;bu yuán;wy sān;ae lù;zk	144
+泉园一路	cüán;bu yuán;wy yí;aa lù;zk	252
+群兴新街	qún;yy xīng;xb sīn;lt jiē;rt	144
+仁丰前街	rén;re fēng;sl cián;bd jiē;rt	4
+仁济西路	rén;re ziì;dq siī;ak lù;zk	153
+人民西路	rén;pn mín;vv siī;ak lù;zk	16
+荣昌西街	róng;ca chāng;oo siī;ak jiē;rt	4
+儒江西路	rú;re jiāng;dg siī;ak lù;zk	144
+三店西路	sān;ae diàn;gv siī;ak lù;zk	315
+三丰西路	sān;ae fēng;sl siī;ak lù;zk	4
+三桂前街	sān;ae guì;at cián;bd jiē;rt	180
+三清宫路	sān;ae cīng;do gōng;bk lù;zk	76
+三新北路	sān;ae sīn;lt běi;lb lù;zk	328
+三新公路	sān;ae sīn;lt gōng;bs lù;zk	45
+三新南路	sān;ae sīn;lt nán;ug lù;zk	230
+桑锡铁路	sāng;ya siī;jw tiě;jf lù;zk	4
+纱厂西路	shā;su chǎng;ap siī;ak lù;zk	117
+杉湖西路	shān;ap hú;do siī;ak lù;zk	4
+陕西北路	shǎn;ej siī;ak běi;lb lù;zk	50
+山西北路	shān;kl siī;ak běi;lb lù;zk	45
+陕西公路	shǎn;ej siī;ak gōng;bs lù;zk	162
+山西公路	shān;kl siī;ak gōng;bs lù;zk	122
+陕西南路	shǎn;ej siī;ak nán;ug lù;zk	97
+山西南路	shān;kl siī;ak nán;ug lù;zk	87
+上碧湘街	shàng;ba bì;wu siāng;do jiē;rt	4
+商场西街	shāng;wk chǎng;tp siī;ak jiē;rt	45
+上地七街	shàng;ba dì;ty ciī;av jiē;rt	230
+上地西路	shàng;ba dì;ty siī;ak lù;zk	270
+上夼西路	shàng;ba kuǎng;di siī;ak lù;zk	180
+上中西路	shàng;ba zhōng;kl siī;ak lù;zk	356
+苕溪西路	sháo;ck xī;dd siī;ak lù;zk	202
+蛇口新街	shé;ib kǒu;la sīn;lt jiē;rt	16
+沈辽西路	shěn;de liáo;zl siī;ak lù;zk	266
+沈新东路	shěn;de sīn;lt dōng;ax lù;zk	4
+盛岸西路	shèng;im àn;ug siī;ak lù;zk	212
+省府前街	shěng;uo fǔ;gc cián;bd jiē;rt	338
+省府西街	shěng;uo fǔ;gc siī;ak jiē;rt	171
+省府西路	shěng;uo fǔ;gc siī;ak lù;zk	99
+省际公路	shěng;uo ziì;eu gōng;bs lù;zk	175
+胜利西街	shèng;ou lì;hd siī;ak jiē;rt	153
+胜太西路	shèng;ou tài;dd siī;ak lù;zk	405
+胜辛北路	shèng;ou sīn;lu běi;lb lù;zk	162
+胜辛南路	shèng;ou sīn;lu nán;ug lù;zk	130
+盛兴西路	shèng;im xīng;xb siī;ak lù;zk	117
+市府前街	shì;wj fǔ;gc cián;bd jiē;rt	130
+市府西街	shì;wj fǔ;gc siī;ak jiē;rt	302
+市府西路	shì;wj fǔ;gc siī;ak lù;zk	162
+石湖西路	shí;ak hú;do siī;ak lù;zk	207
+石湖新路	shí;ak hú;do sīn;lt lù;zk	99
+石花西路	shí;ak huā;cb siī;ak lù;zk	261
+石牌西路	shí;ak pái;pu siī;ak lù;zk	270
+十七大街	shí;al ciī;av dà;ar jiē;rt	315
+十七道街	shí;al ciī;av dào;zz jiē;rt	144
+十七户路	shí;al ciī;av hù;du lù;zk	284
+十七中路	shí;al ciī;av zhōng;kl lù;zk	99
+市桥西街	shì;wj qiáo;al siī;ak jiē;rt	99
+石清公路	shí;ak cīng;do gōng;bs lù;zk	212
+石青公路	shí;ak cīng;fo gōng;bs lù;zk	65
+石泉东路	shí;ak cüán;bu dōng;ax lù;zk	117
+石泉二路	shí;ak cüán;bu èr;aa lù;zk	162
+石潭西路	shí;ak tán;du siī;ak lù;zk	130
+市心北路	shì;wj sīn;dd běi;lb lù;zk	369
+市心南路	shì;wj sīn;dd nán;ug lù;zk	364
+市心中路	shì;wj sīn;dd zhōng;kl lù;zk	360
+瘦西湖路	shòu;by siī;ak hú;do lù;zk	333
+蜀兴西街	shǔ;si xīng;xb siī;ak jiē;rt	99
+书院西街	shū;vd yuàn;ey siī;ak jiē;rt	266
+双丰西路	shuāng;yy fēng;sl siī;ak lù;zk	144
+双清南路	shuāng;yy cīng;do nán;ug lù;zk	212
+双清中路	shuāng;yy cīng;do zhōng;kl lù;zk	117
+双塔西街	shuāng;yy tǎ;tk siī;ak jiē;rt	508
+双新南路	shuāng;yy sīn;lt nán;ug lù;zk	76
+水产西街	shuǐ;ln chǎn;wi siī;ak jiē;rt	99
+水西东街	shuǐ;ln siī;ak dōng;ax jiē;rt	4
+水西关街	shuǐ;ln siī;ak guān;bt jiē;rt	338
+水西环路	shuǐ;ln siī;ak huán;wb lù;zk	117
+水西门街	shuǐ;ln siī;ak mén;dv jiē;rt	266
+舜湖西路	shùn;vf hú;do siī;ak lù;zk	153
+思明西路	sī;tx míng;oo siī;ak lù;zk	256
+四明西路	sì;we míng;oo siī;ak lù;zk	84
+四新北路	sì;we sīn;lt běi;lb lù;zk	194
+四新横路	sì;we sīn;lt héng;ab lù;zk	76
+四新南路	sì;we sīn;lt nán;ug lù;zk	261
+四眼井街	sì;we yǎn;og zǐng;ac jiē;rt	4
+松汇西路	sōng;ag huì;dk siī;ak lù;zk	189
+嵩江西路	sōng;uk jiāng;dg siī;ak lù;zk	4
+淞兴西路	sōng;dg xīng;xb siī;ak lù;zk	207
+苏虹西路	sū;cb hóng;ig siī;ak lù;zk	99
+太行西街	tài;dd háng;rd siī;ak jiē;rt	162
+太焦铁路	tài;dd ziāo;rh tiě;jf lù;zk	428
+太清宫街	tài;dd cīng;do gōng;bk jiē;rt	130
+台西三路	tái;sk siī;ak sān;ae lù;zk	266
+台西四路	tái;sk siī;ak sì;we lù;zk	180
+台西五路	tái;sk siī;ak wǔ;aw lù;zk	212
+台西一路	tái;sk siī;ak yí;aa lù;zk	234
+谈固西街	tán;yh gù;wg siī;ak jiē;rt	315
+棠溪新街	táng;xa xī;dd sīn;lt jiē;rt	45
+唐胥铁路	táng;gk sǖ;zo tiě;jf lù;zk	446
+桃仙大街	táo;av siān;ru dà;ar jiē;rt	130
+桃园西路	táo;av yuán;wy siī;ak lù;zk	248
+体育西路	tǐ;rb yù;wo siī;ak lù;zk	13
+天宝西路	tiān;ad bǎo;by siī;ak lù;zk	144
+天华西路	tiān;ad huā;ru siī;ak lù;zk	144
+天目西路	tiān;ad mù;we siī;ak lù;zk	454
+天衢西路	tiān;ad qú;rv siī;ak lù;zk	144
+天威西路	tiān;ad wēi;gn siī;ak lù;zk	153
+天祥寺街	tiān;ad siáng;py sì;tc jiē;rt	194
+田心西路	tián;wu sīn;dd siī;ak lù;zk	99
+天元西路	tiān;ad yuán;aw siī;ak lù;zk	450
+铁道西街	tiě;jf dào;zz siī;ak jiē;rt	45
+铁匠营路	tiě;jf ziàng;kt yíng;ck lù;zk	45
+通达西街	tōng;zy dá;zd siī;ak jiē;rt	76
+同福西路	tóng;kk fú;pt siī;ak lù;zk	261
+通惠西路	tōng;zy huì;ix siī;ak lù;zk	99
+同集北路	tóng;kk zií;ra běi;lb lù;zk	162
+同济东路	tóng;kk ziì;dq dōng;ax lù;zk	220
+同济南路	tóng;kk ziì;dq nán;ug lù;zk	179
+同济支路	tóng;kk ziì;dq zhī;uy lù;zk	162
+同济中路	tóng;kk ziì;dq zhōng;kl lù;zk	50
+通商新街	tōng;zy shāng;wk sīn;lt jiē;rt	153
+同新北路	tóng;kk sīn;lt běi;lb lù;zk	117
+同新公路	tóng;kk sīn;lt gōng;bs lù;zk	76
+通源西路	tōng;zy yuán;dx siī;ak lù;zk	207
+通州西街	tōng;zy zhōu;dl siī;ak jiē;rt	274
+团青公路	tuán;wc cīng;fo gōng;bs lù;zk	153
+外馆斜街	wài;xb guǎn;ul sié;rd jiē;rt	9
+外湘春街	wài;xb siāng;do chūn;io jiē;rt	117
+万安西路	wàn;av ān;bn siī;ak lù;zk	50
+万红西街	wàn;av hóng;sg siī;ak jiē;rt	270
+万年泉路	wàn;av nián;pf cüán;bu lù;zk	387
+万泉河路	wàn;av cüán;bu hé;dk lù;zk	405
+万泉庄路	wàn;av cüán;bu zhuāng;gt lù;zk	194
+万象铁路	wàn;av siàng;du tiě;jf lù;zk	99
+望江西路	wàng;ww jiāng;dg siī;ak lù;zk	540
+望京小街	wàng;ww jīng;wx siǎo;lb jiē;rt	117
+卫津南路	wèi;ea zīn;dy nán;ug lù;zk	436
+卫清东路	wèi;ea cīng;do dōng;ax lù;zk	99
+卫清西路	wèi;ea cīng;do siī;ak lù;zk	130
+韦曲西街	wéi;fv qǔ;wc siī;ak jiē;rt	130
+渭阳西路	wèi;do yáng;eo siī;ak lù;zk	212
+文昌西街	wén;wx chāng;oo siī;ak jiē;rt	153
+文城西路	wén;wx chéng;ti siī;ak lù;zk	212
+文德西路	wén;wx dé;rx siī;ak lù;zk	194
+文二西路	wén;wx èr;aa siī;ak lù;zk	518
+文峰新街	wén;wx fēng;uf sīn;lt jiē;rt	50
+文汇西路	wén;wx huì;dk siī;ak lù;zk	243
+文津西路	wén;wx zīn;dy siī;ak lù;zk	50
+文靖西路	wén;wx zìng;lo siī;ak lù;zk	189
+文庙西街	wén;wx miào;gy siī;ak jiē;rt	288
+温泉支路	wēn;dm cüán;bu zhī;uy lù;zk	392
+文三西路	wén;wx sān;ae siī;ak lù;zk	432
+文体西路	wén;wx tǐ;rb siī;ak lù;zk	292
+文一西路	wén;wx yì;aa siī;ak lù;zk	572
+武定西路	wǔ;gv dìng;bz siī;ak lù;zk	13
+五津北路	wǔ;aw zīn;dy běi;lb lù;zk	225
+武津铁路	wǔ;gv zīn;dy tiě;jf lù;zk	45
+乌龙泉街	wū;pa lóng;yp cüán;bu jiē;rt	194
+武青北路	wǔ;gv cīng;fo běi;lb lù;zk	279
+武青南路	wǔ;gv cīng;fo nán;ug lù;zk	9
+乌鹊桥路	wū;pa cüè;cn qiáo;al lù;zk	180
+乌山西路	wū;pa shān;kl siī;ak lù;zk	328
+武胜西街	wǔ;gv shèng;ou siī;ak jiē;rt	76
+五四西路	wǔ;aw sì;we siī;ak lù;zk	297
+五星北路	wǔ;aw sīng;ou běi;lb lù;zk	212
+五星南路	wǔ;aw sīng;ou nán;ug lù;zk	230
+五一西路	wǔ;aw yī;aa siī;ak lù;zk	261
+吴中西路	wú;kt zhōng;kl siī;ak lù;zk	238
+吴州西路	wú;kt zhōu;dl siī;ak lù;zk	171
+西爱民街	siī;ak ài;vy mín;vv jiē;rt	225
+西八道街	siī;ak bā;pn dào;zz jiē;rt	220
+西坝二路	siī;ak bà;tb èr;aa lù;zk	45
+西宝兴路	siī;ak bǎo;by xīng;xb lù;zk	333
+西北湖路	siī;ak běi;lb hú;do lù;zk	171
+西滨河路	siī;ak bīn;db hé;dk lù;zk	410
+西部铁路	siī;ak bù;le tiě;jf lù;zk	720
+西菜园街	siī;ak cài;ca yuán;wy jiē;rt	99
+西仓桥街	siī;ak cāng;rv qiáo;al jiē;rt	99
+西草马路	siī;ak cǎo;cu mǎ;va lù;zk	234
+席草田街	sií;gj cǎo;cu tián;wu jiē;rt	99
+西长安街	siī;ak cháng;pn ān;bn jiē;rt	57
+西长春路	siī;ak cháng;pn chūn;io lù;zk	171
+西朝阳路	siī;ak cháo;uo yáng;eo lù;zk	306
+西宸天街	siī;ak chén;bi tiān;ad jiē;rt	4
+西城北路	siī;ak chéng;ti běi;lb lù;zk	45
+西城二路	siī;ak chéng;ti èr;aa lù;zk	4
+西城南路	siī;ak chéng;ti nán;ug lù;zk	99
+西城天街	siī;ak chéng;ti tiān;ad jiē;rt	464
+西城一路	siī;ak chéng;ti yí;aa lù;zk	76
+西大望路	siī;ak dà;ar wàng;ww lù;zk	13
+西大直街	siī;ak dà;ar zhí;uq jiē;rt	522
+西堤马路	siī;ak dī;tz mǎ;va lù;zk	248
+西堤南路	siī;ak dī;tz nán;ug lù;zk	234
+西堤三路	siī;ak dī;tz sān;ae lù;zk	4
+西堤一路	siī;ak dī;tz yí;aa lù;zk	4
+西丁字街	siī;ak dīng;al zì;bz jiē;rt	50
+西斗门路	siī;ak dǒu;ud mén;dv lù;zk	202
+西二道街	siī;ak èr;aa dào;zz jiē;rt	333
+西二环路	siī;ak èr;aa huán;wb lù;zk	522
+西二条路	siī;ak èr;aa tiáo;wa lù;zk	50
+西坟马路	siī;ak fén;tw mǎ;va lù;zk	284
+西固中路	siī;ak gù;wg zhōng;kl lù;zk	248
+西关北街	siī;ak guān;bt běi;lb jiē;rt	76
+西关大街	siī;ak guān;bt dà;ar jiē;rt	400
+西关正街	siī;ak guān;bt zhèng;av jiē;rt	378
+西广大街	siī;ak guǎng;di dà;ar jiē;rt	4
+西光明街	siī;ak guāng;xe míng;oo jiē;rt	50
+西海林街	siī;ak hǎi;dm lín;aa jiē;rt	76
+西河北街	siī;ak hé;dk běi;lb jiē;rt	45
+西河北路	siī;ak hé;dk běi;lb lù;zk	99
+西河南路	siī;ak hé;dk nán;ug lù;zk	130
+细河南路	siì;st hé;dk nán;ug lù;zk	84
+西合铁路	siī;ak hé;rk tiě;jf lù;zk	99
+西河西路	siī;ak hé;dk siī;ak lù;zk	144
+西河沿路	siī;ak hé;dk yán;dk lù;zk	76
+西湖北路	siī;ak hú;do běi;lb lù;zk	153
+西湖大路	siī;ak hú;do dà;ar lù;zk	162
+锡沪东路	siī;jw hù;dh dōng;ax lù;zk	50
+西户铁路	siī;ak hù;du tiě;jf lù;zk	288
+西湖西街	siī;ak hú;do siī;ak jiē;rt	4
+锡沪西路	siī;jw hù;dh siī;ak lù;zk	99
+西湖西路	siī;ak hú;do siī;ak lù;zk	4
+西湖中路	siī;ak hú;do zhōng;kl lù;zk	76
+锡沪中路	siī;jw hù;dh zhōng;kl lù;zk	42
+西华北路	siī;ak huá;ru běi;lb lù;zk	279
+西华门街	siī;ak huá;ru mén;dv jiē;rt	238
+西环北路	siī;ak huán;wb běi;lb lù;zk	297
+西环城路	siī;ak huán;wb chéng;ti lù;zk	360
+西环大街	siī;ak huán;wb dà;ar jiē;rt	45
+西环二路	siī;ak huán;wb èr;aa lù;zk	76
+西环南路	siī;ak huán;wb nán;ug lù;zk	220
+西环中路	siī;ak huán;wb zhōng;kl lù;zk	261
+西健康路	siī;ak jiàn;ry kāng;gl lù;zk	76
+西江四路	siī;ak jiāng;dg sì;we lù;zk	50
+西江湾路	siī;ak jiāng;dg wān;dg lù;zk	387
+西焦北路	siī;ak ziāo;rh běi;lb lù;zk	117
+西滘大街	siī;ak jiào;dk dà;ar jiē;rt	342
+西郊支路	siī;ak jiāo;we zhī;uy lù;zk	130
+西津东路	siī;ak zīn;dy dōng;ax lù;zk	302
+西津渡街	siī;ak zīn;dy dù;dy jiē;rt	130
+西津西路	siī;ak zīn;dy siī;ak lù;zk	513
+西经二路	siī;ak jīng;sj èr;aa lù;zk	4
+西九道街	siī;ak jiǔ;pv dào;zz jiē;rt	189
+西丽大街	siī;ak lì;ad dà;ar jiē;rt	117
+西丽南路	siī;ak lì;ad nán;ug lù;zk	162
+西良铁路	siī;ak liáng;dg tiě;jf lù;zk	45
+锡林北路	siī;jw lín;aa běi;lb lù;zk	252
+西林北路	siī;ak lín;aa běi;lb lù;zk	144
+锡林大街	siī;jw lín;aa dà;ar jiē;rt	4
+西林东路	siī;ak lín;aa dōng;ax lù;zk	76
+西林横路	siī;ak lín;aa héng;ab lù;zk	4
+锡林南路	siī;jw lín;aa nán;ug lù;zk	522
+西林南路	siī;ak lín;aa nán;ug lù;zk	84
+西六道街	siī;ak liù;wb dào;zz jiē;rt	171
+西流湖路	siī;ak liú;di hú;do lù;zk	238
+西落凤街	siī;ak luò;ck fèng;jy jiē;rt	207
+西洛河路	siī;ak luò;dk hé;dk lù;zk	50
+西泺河路	siī;ak luò;dl hé;dk lù;zk	42
+西马道街	siī;ak mǎ;va dào;zz jiē;rt	162
+西马棚街	siī;ak mǎ;va péng;ao jiē;rt	4
+西马铁路	siī;ak mǎ;va tiě;jf lù;zk	45
+洗面桥街	siǐ;de miàn;ao qiáo;al jiē;rt	238
+西南河路	siī;ak nán;ug hé;dk lù;zk	212
+西南京路	siī;ak nán;ug jīng;wx lù;zk	99
+西南铁路	siī;ak nán;ug tiě;jf lù;zk	554
+西青龙街	siī;ak cīng;fo lóng;yp jiē;rt	99
+西三道街	siī;ak sān;ae dào;zz jiē;rt	234
+西三环路	siī;ak sān;ae huán;wb lù;zk	382
+西三马路	siī;ak sān;ae mǎ;va lù;zk	130
+西三条路	siī;ak sān;ae tiáo;wa lù;zk	202
+西三庄街	siī;ak sān;ae zhuāng;gt jiē;rt	243
+西社大街	siī;ak shè;pt dà;ar jiē;rt	45
+西市大街	siī;ak shì;wj dà;ar jiē;rt	6
+西十道街	siī;ak shí;al dào;zz jiē;rt	220
+西顺城街	siī;ak shùn;iy chéng;ti jiē;rt	6
+西四道街	siī;ak sì;we dào;zz jiē;rt	279
+西四马路	siī;ak sì;we mǎ;va lù;zk	207
+西苏州路	siī;ak sū;cb zhōu;dl lù;zk	266
+西太康路	siī;ak tài;dd kāng;gl lù;zk	270
+西泰林路	siī;ak tài;iu lín;aa lù;zk	117
+西太平街	siī;ak tài;dd píng;au jiē;rt	230
+西体北路	siī;ak tǐ;rb běi;lb lù;zk	180
+西头道街	siī;ak tóu;dd dào;zz jiē;rt	252
+西屠场街	siī;ak tú;uo chǎng;tp jiē;rt	130
+西土城路	siī;ak tǔ;ua chéng;ti lù;zk	16
+洗瓦堰路	siǐ;de wǎ;ad yàn;tn lù;zk	4
+西外大街	siī;ak wài;xb dà;ar jiē;rt	3
+西外环路	siī;ak wài;xb huán;wb lù;zk	328
+西湾东路	siī;ak wān;dg dōng;ax lù;zk	99
+西湾湖街	siī;ak wān;dg hú;do jiē;rt	153
+西纬二路	siī;ak wěi;sw èr;aa lù;zk	171
+西纬三路	siī;ak wěi;sw sān;ae lù;zk	194
+西纬四路	siī;ak wěi;sw sì;we lù;zk	189
+西五道街	siī;ak wǔ;aw dào;zz jiē;rt	207
+西五马路	siī;ak wǔ;aw mǎ;va lù;zk	328
+西五条街	siī;ak wǔ;aw tiáo;wa jiē;rt	50
+西五条路	siī;ak wǔ;aw tiáo;wa lù;zk	4
+西下关街	siī;ak xià;ab guān;bt jiē;rt	189
+溪峡新街	xī;dd xiá;uj sīn;lt jiē;rt	4
+西消防街	siī;ak siāo;do fáng;ef jiē;rt	234
+西斜六路	siī;ak sié;rd liù;wb lù;zk	90
+西斜七路	siī;ak sié;rd ciī;av lù;zk	220
+西新大街	siī;ak sīn;lt dà;ar jiē;rt	4
+西幸福街	siī;ak xìng;tg fú;pt jiē;rt	4
+西洋菜街	siī;ak yáng;dy cài;ca jiē;rt	504
+西羊市街	siī;ak yáng;bf shì;wj jiē;rt	328
+西一环路	siī;ak yī;aa huán;wb lù;zk	238
+西一条街	siī;ak yì;aa tiáo;wa jiē;rt	284
+西营门街	siī;ak yíng;ck mén;dv jiē;rt	310
+西营南路	siī;ak yíng;ck nán;ug lù;zk	76
+西永天街	siī;ak yǒng;du tiān;ad jiē;rt	4
+西峪东街	siī;ak yù;ug dōng;ax jiē;rt	99
+西玉龙街	siī;ak yù;wd lóng;yp jiē;rt	3
+西于庄街	siī;ak yú;au zhuāng;gt jiē;rt	180
+西园八路	siī;ak yuán;wy bā;pn lù;zk	99
+西园北路	siī;ak yuán;wy běi;lb lù;zk	50
+西苑南街	siī;ak yuàn;cv nán;ug jiē;rt	76
+西园南路	siī;ak yuán;wy nán;ug lù;zk	99
+西园一路	siī;ak yuán;wy yí;aa lù;zk	4
+西苑中路	siī;ak yuàn;cv zhōng;kl lù;zk	153
+西月城街	siī;ak yuè;ke chéng;ti jiē;rt	162
+西藏道路	siī;ak zàng;ci dào;zz lù;zk	153
+西藏公路	siī;ak zàng;ci gōng;bs lù;zk	306
+西藏南路	siī;ak zàng;ci nán;ug lù;zk	19
+西藏天路	siī;ak zàng;ci tiān;ad lù;zk	3
+西藏铁路	siī;ak zàng;ci tiě;jf lù;zk	234
+西藏中路	siī;ak zàng;ci zhōng;kl lù;zk	16
+西闸公路	siī;ak zhá;mj gōng;bs lù;zk	99
+西站三街	siī;ak zhàn;lv sān;ae jiē;rt	4
+夕照寺街	siī;pd zhào;oh sì;tc jiē;rt	274
+西中华路	siī;ak zhōng;kl huá;ru lù;zk	292
+西仲一路	siī;ak zhòng;rv yí;aa lù;zk	117
+西珠市街	siī;ak zhū;ww shì;wj jiē;rt	4
+西庄西路	siī;ak zhuāng;gt siī;ak lù;zk	45
+霞美新街	xiá;yy měi;yd sīn;lt jiē;rt	130
+仙德丽街	siān;ru dé;rx lì;ad jiē;rt	279
+先锋营街	siān;ne fēng;jf yíng;ck jiē;rt	99
+县府西街	xiàn;qs fǔ;gc siī;ak jiē;rt	130
+仙监铁路	siān;ru jiān;lm tiě;jf lù;zk	90
+仙宁铁路	siān;ru níng;bd tiě;jf lù;zk	189
+先农坛路	siān;ne nóng;by tán;ty lù;zk	202
+仙女河路	siān;ru nǚ;va hé;dk lù;zk	99
+苋浦西路	xiàn;cj pǔ;df siī;ak lù;zk	117
+县前东街	xiàn;qs cián;bd dōng;ax jiē;rt	288
+县前西街	xiàn;qs cián;bd siī;ak jiē;rt	212
+仙桥西路	siān;ru qiáo;al siī;ak lù;zk	212
+仙霞岭路	siān;ru xiá;yy lǐng;us lù;zk	364
+仙霞西路	siān;ru xiá;yy siī;ak lù;zk	3
+仙隐北路	siān;ru yǐn;ex běi;lb lù;zk	130
+仙隐南路	siān;ru yǐn;ex nán;ug lù;zk	4
+鲜鱼口街	siān;yy yú;da kǒu;la jiē;rt	3
+祥坂支路	siáng;py bǎn;ty zhī;uy lù;zk	76
+象房村路	siàng;du fáng;hf cūn;ac lù;zk	144
+湘府东路	siāng;do fǔ;gc dōng;ax lù;zk	306
+祥符南路	siáng;py fú;vc nán;ug lù;zk	162
+湘府中路	siāng;do fǔ;gc zhōng;kl lù;zk	374
+湘桂铁路	siāng;do guì;at tiě;jf lù;zk	9
+祥和大街	siáng;py hé;hk dà;ar jiē;rt	76
+祥和里街	siáng;py hé;hk lǐ;tt jiē;rt	76
+翔黄公路	siáng;yx huáng;cb gōng;bs lù;zk	117
+香积寺路	xiāng;ho ziī;hv sì;tc lù;zk	414
+湘江北路	siāng;do jiāng;dg běi;lb lù;zk	369
+翔江公路	siáng;yx jiāng;dg gōng;bs lù;zk	324
+香炉礁街	xiāng;ho lú;hh ziāo;uh jiē;rt	194
+祥凝浜路	siáng;py níng;dz bāng;db lù;zk	117
+祥平西路	siáng;py píng;au siī;ak lù;zk	76
+湘黔铁路	siāng;do qián;lv tiě;jf lù;zk	3
+象山北路	siàng;du shān;kl běi;lb lù;zk	490
+象山南路	siàng;du shān;kl nán;ug lù;zk	522
+象山一路	siàng;du shān;kl yí;aa lù;zk	76
+享堂西街	xiǎng;wz táng;xt siī;ak jiē;rt	130
+香雪三路	xiāng;ho süě;ye sān;ae lù;zk	225
+向阳西路	xiàng;pk yáng;eo siī;ak lù;zk	207
+襄渝铁路	siāng;yf yú;dd tiě;jf lù;zk	6
+湘渝铁路	siāng;do yú;dd tiě;jf lù;zk	5
+翔远三路	siáng;yx yuǎn;zy sān;ae lù;zk	99
+翔云三路	siáng;yx yún;ag sān;ae lù;zk	194
+翔云一路	siáng;yx yún;ag yí;aa lù;zk	243
+湘子庙街	siāng;do zǐ;la miào;gy jiē;rt	346
+小堡北街	siǎo;lb bǎo;rt běi;lb jiē;rt	130
+小堡南街	siǎo;lb bǎo;rt nán;ug jiē;rt	171
+小北二路	siǎo;lb běi;lb èr;aa lù;zk	4
+小北关街	siǎo;lb běi;lb guān;bt jiē;rt	342
+小北三路	siǎo;lb běi;lb sān;ae lù;zk	162
+小东门街	siǎo;lb dōng;ax mén;dv jiē;rt	279
+小谷围街	siǎo;lb gǔ;bk wéi;ww jiē;rt	392
+小关庙街	siǎo;lb guān;bt miào;gy jiē;rt	144
+小河直街	siǎo;lb hé;dk zhí;uq jiē;rt	531
+肖家河街	siāo;xo jiā;bu hé;dk jiē;rt	266
+小建河街	siǎo;lb jiàn;zy hé;dk jiē;rt	50
+小井峪街	siǎo;lb zǐng;ac yù;ug jiē;rt	220
+小井峪路	siǎo;lb zǐng;ac yù;ug lù;zk	45
+萧林东路	siāo;cb lín;aa dōng;ax lù;zk	162
+小龙桥路	siǎo;lb lóng;yp qiáo;al lù;zk	50
+小梅大街	siǎo;lb méi;am dà;ar jiē;rt	225
+肖蒙铁路	siāo;xo méng;cu tiě;jf lù;zk	162
+小桥大街	siǎo;lb qiáo;al dà;ar jiē;rt	351
+小区道路	siǎo;lb qū;kx dào;zz lù;zk	621
+萧山新街	siāo;cb shān;kl sīn;lt jiē;rt	99
+小商品街	siǎo;lb shāng;wk pǐn;kk jiē;rt	310
+萧绍东路	siāo;cb shào;sk dōng;ax lù;zk	76
+小石坝街	siǎo;lb shí;ak bà;tb jiē;rt	4
+小市东街	siǎo;lb shì;wj dōng;ax jiē;rt	45
+小石桥街	siǎo;lb shí;ak qiáo;al jiē;rt	45
+小什字街	siǎo;lb shí;ru zì;bz jiē;rt	284
+小十字街	siǎo;lb shí;al zì;bz jiē;rt	160
+小桃园街	siǎo;lb táo;av yuán;wy jiē;rt	50
+小天北街	siǎo;lb tiān;ad běi;lb jiē;rt	4
+小天西街	siǎo;lb tiān;ad siī;ak jiē;rt	76
+小天竺街	siǎo;lb tiān;ad zhú;ve jiē;rt	212
+小屯西路	siǎo;lb tún;av siī;ak lù;zk	4
+小纬二路	siǎo;lb wěi;sw èr;aa lù;zk	279
+小纬六路	siǎo;lb wěi;sw liù;wb lù;zk	261
+小纬四路	siǎo;lb wěi;sw sì;we lù;zk	130
+小新铁路	siǎo;lb sīn;lt tiě;jf lù;zk	171
+小营北路	siǎo;lb yíng;ck běi;lb lù;zk	220
+小营东路	siǎo;lb yíng;ck dōng;ax lù;zk	180
+小营西路	siǎo;lb yíng;ck siī;ak lù;zk	270
+萧甬铁路	siāo;cb yǒng;sy tiě;jf lù;zk	508
+小澞河路	siǎo;lb yú;dt hé;dk lù;zk	76
+小洲东路	siǎo;lb zhōu;dv dōng;ax lù;zk	50
+谢家湾路	siè;yc jiā;bu wān;dg lù;zk	76
+谢姆伯街	siè;yc mǔ;nm bó;rb jiē;rt	153
+蟹山西路	xiè;di shān;kl siī;ak lù;zk	99
+斜塘老街	sié;rd táng;tk lǎo;lb jiē;rt	6
+斜土东路	sié;rd tǔ;ua dōng;ax lù;zk	225
+新安北路	sīn;lt ān;bn běi;lb lù;zk	153
+新安大街	sīn;lt ān;bn dà;ar jiē;rt	189
+新安东路	sīn;lt ān;bn dōng;ax lù;zk	189
+新安江街	sīn;lt ān;bn jiāng;dg jiē;rt	374
+新安江路	sīn;lt ān;bn jiāng;dg lù;zk	369
+新拜铁路	sīn;lt bài;uf tiě;jf lù;zk	45
+新半边街	sīn;lt bàn;bf biān;zl jiē;rt	76
+新蚌埠路	sīn;lt bèng;if bù;tu lù;zk	468
+新埗头街	sīn;lt bù;tu tóu;dd jiē;rt	207
+新藏公路	sīn;lt cáng;ci gōng;bs lù;zk	495
+新藏铁路	sīn;lt cáng;ci tiě;jf lù;zk	194
+新场大街	sīn;lt chǎng;tp dà;ar jiē;rt	189
+新昌东路	sīn;lt chāng;oo dōng;ax lù;zk	99
+新昌南路	sīn;lt chāng;oo nán;ug lù;zk	153
+新长铁路	sīn;lt cháng;pn tiě;jf lù;zk	508
+新昌西路	sīn;lt chāng;oo siī;ak lù;zk	76
+新城东街	sīn;lt chéng;ti dōng;ax jiē;rt	50
+新城河路	sīn;lt chéng;ti hé;dk lù;zk	238
+新城南街	sīn;lt chéng;ti nán;ug jiē;rt	252
+新成彭路	sīn;lt chéng;gv péng;tp lù;zk	171
+新成仁路	sīn;lt chéng;gv rén;re lù;zk	153
+新城西街	sīn;lt chéng;ti siī;ak jiē;rt	180
+新城一街	sīn;lt chéng;ti yī;aa jiē;rt	153
+新崇南路	sīn;lt chóng;uu nán;ug lù;zk	99
+新川沙路	sīn;lt chuān;pl shā;du lù;zk	50
+新德西路	sīn;lt dé;rx siī;ak lù;zk	99
+新东三街	sīn;lt dōng;ax sān;ae jiē;rt	266
+新丰二路	sīn;lt fēng;sl èr;aa lù;zk	45
+新奉公路	sīn;lt fèng;if gōng;bs lù;zk	288
+新丰三路	sīn;lt fēng;sl sān;ae lù;zk	130
+新奉铁路	sīn;lt fèng;if tiě;jf lù;zk	117
+新凤中路	sīn;lt fèng;jy zhōng;kl lù;zk	50
+新福四路	sīn;lt fú;pt sì;we lù;zk	45
+新福五路	sīn;lt fú;pt wǔ;aw lù;zk	4
+新府中路	sīn;lt fǔ;gc zhōng;kl lù;zk	189
+新溉东路	sīn;lt gài;dw dōng;ax lù;zk	144
+新赣南路	sīn;lt gàn;lb nán;ug lù;zk	45
+新港七路	sīn;lt gǎng;ds ciī;av lù;zk	45
+新公园路	sīn;lt gōng;bs yuán;wy lù;zk	153
+新广从路	sīn;lt guǎng;di cóng;rr lù;zk	171
+新光复路	sīn;lt guāng;xe fù;pw lù;zk	162
+新光华街	sīn;lt guāng;xe huá;ru jiē;rt	225
+新涵大街	sīn;lt hán;du dà;ar jiē;rt	4
+新河浦路	sīn;lt hé;dk pǔ;df lù;zk	230
+新鸿南路	sīn;lt hóng;dn nán;ug lù;zk	234
+新华东街	sīn;lt huá;ru dōng;ax jiē;rt	482
+新华西街	sīn;lt huá;ru siī;ak jiē;rt	450
+新环北路	sīn;lt huán;wb běi;lb lù;zk	288
+新环东路	sīn;lt huán;wb dōng;ax lù;zk	45
+新环西路	sīn;lt huán;wb siī;ak lù;zk	45
+新集北路	sīn;lt zií;ra běi;lb lù;zk	153
+新机场路	sīn;lt jī;aj chǎng;tp lù;zk	212
+新集东路	sīn;lt zií;ra dōng;ax lù;zk	153
+新建东街	sīn;lt jiàn;zy dōng;ax jiē;rt	189
+新建西街	sīn;lt jiàn;zy siī;ak jiē;rt	230
+新疆道路	sīn;lt jiāng;gj dào;zz lù;zk	189
+新疆铁路	sīn;lt jiāng;gj tiě;jf lù;zk	540
+新滘东路	sīn;lt jiào;dk dōng;ax lù;zk	288
+新滘南路	sīn;lt jiào;dk nán;ug lù;zk	202
+新窖南路	sīn;lt jiào;bk nán;ug lù;zk	65
+新滘西路	sīn;lt jiào;dk siī;ak lù;zk	207
+新滘中路	sīn;lt jiào;dk zhōng;kl lù;zk	297
+新晋祠路	sīn;lt zìn;yo cí;pk lù;zk	446
+新锦湖路	sīn;lt jǐn;jj hú;do lù;zk	252
+新金桥路	sīn;lt jīn;rb qiáo;al lù;zk	378
+新开河街	sīn;lt kāi;ac hé;dk jiē;rt	238
+新开河路	sīn;lt kāi;ac hé;dk lù;zk	288
+新开寺街	sīn;lt kāi;ac sì;tc jiē;rt	50
+新矿院路	sīn;lt kuàng;ug yuàn;ey lù;zk	99
+新乐北街	sīn;lt lè;px běi;lb jiē;rt	99
+新乐南街	sīn;lt lè;px nán;ug jiē;rt	99
+新六大街	sīn;lt liù;wb dà;ar jiē;rt	45
+新泺大街	sīn;lt luò;dl dà;ar jiē;rt	248
+新码头街	sīn;lt mǎ;um tóu;dd jiē;rt	338
+新码头路	sīn;lt mǎ;um tóu;dd lù;zk	45
+新密铁路	sīn;lt mì;bu tiě;jf lù;zk	162
+新民东街	sīn;lt mín;vv dōng;ax jiē;rt	153
+新民六街	sīn;lt mín;vv liù;wb jiē;rt	76
+新民西街	sīn;lt mín;vv siī;ak jiē;rt	180
+新民中街	sīn;lt mín;vv zhōng;kl jiē;rt	266
+新明大街	sīn;lt míng;oo dà;ar jiē;rt	153
+新圃西街	sīn;lt pǔ;wf siī;ak jiē;rt	153
+新浦支路	sīn;lt pǔ;df zhī;uy lù;zk	4
+新桥正街	sīn;lt qiáo;al zhèng;av jiē;rt	50
+新青二路	sīn;lt cīng;fo èr;aa lù;zk	99
+新青五路	sīn;lt cīng;fo wǔ;aw lù;zk	171
+新区六路	sīn;lt qū;kx liù;wb lù;zk	50
+新权南路	sīn;lt quán;ay nán;ug lù;zk	238
+新生二街	sīn;lt shēng;pf èr;aa jiē;rt	76
+新生南路	sīn;lt shēng;pf nán;ug lù;zk	526
+新石北路	sīn;lt shí;ak běi;lb lù;zk	320
+新市北路	sīn;lt shì;wj běi;lb lù;zk	217
+新市东街	sīn;lt shì;wj dōng;ax jiē;rt	234
+新世纪路	sīn;lt shì;cv jì;sj lù;zk	153
+新石南路	sīn;lt shí;ak nán;ug lù;zk	351
+新市南路	sīn;lt shì;wj nán;ug lù;zk	247
+新石铁路	sīn;lt shí;ak tiě;jf lù;zk	171
+新市头路	sīn;lt shì;wj tóu;dd lù;zk	117
+新市西街	sīn;lt shì;wj siī;ak jiē;rt	130
+新石中路	sīn;lt shí;ak zhōng;kl lù;zk	374
+新市中路	sīn;lt shì;wj zhōng;kl lù;zk	99
+新松江路	sīn;lt sōng;ag jiāng;dg lù;zk	356
+辛泰铁路	sīn;lu tài;iu tiě;jf lù;zk	333
+新台五路	sīn;lt tái;sk wǔ;aw lù;zk	351
+新堂北路	sīn;lt táng;xt běi;lb lù;zk	117
+新填地街	sīn;lt tián;tb dì;ty jiē;rt	490
+新同心路	sīn;lt tóng;kk sīn;dd lù;zk	144
+新外大街	sīn;lt wài;xb dà;ar jiē;rt	315
+新湾二路	sīn;lt wān;dg èr;aa lù;zk	162
+新湾三路	sīn;lt wān;dg sān;ae lù;zk	153
+新湾五路	sīn;lt wān;dg wǔ;aw lù;zk	130
+新湾一路	sīn;lt wān;dg yí;aa lù;zk	117
+新卫公路	sīn;lt wèi;ea gōng;bs lù;zk	99
+新文化街	sīn;lt wén;wx huà;rb jiē;rt	9
+新武都路	sīn;lt wǔ;gv dū;le lù;zk	99
+新五公路	sīn;lt wǔ;aw gōng;bs lù;zk	50
+新溪桥路	sīn;lt xī;dd qiáo;al lù;zk	180
+新希望路	sīn;lt xī;xj wàng;ww lù;zk	248
+新新公路	sīn;lt sīn;lt gōng;bs lù;zk	180
+新兴北路	sīn;lt xīng;xb běi;lb lù;zk	76
+新兴大街	sīn;lt xīng;xb dà;ar jiē;rt	243
+新兴东街	sīn;lt xīng;xb dōng;ax jiē;rt	50
+新兴东路	sīn;lt xīng;xb dōng;ax lù;zk	76
+新兴二路	sīn;lt xīng;xb èr;aa lù;zk	117
+新兴南路	sīn;lt xīng;xb nán;ug lù;zk	180
+新星南路	sīn;lt sīng;ou nán;ug lù;zk	122
+新兴三路	sīn;lt xīng;xb sān;ae lù;zk	99
+新兴西街	sīn;lt xīng;xb siī;ak jiē;rt	4
+新兴西路	sīn;lt xīng;xb siī;ak lù;zk	4
+新兴一路	sīn;lt xīng;xb yí;aa lù;zk	45
+新兴支路	sīn;lt xīng;xb zhī;uy lù;zk	117
+新雅马路	sīn;lt yǎ;yv mǎ;va lù;zk	266
+新颜东路	sīn;lt yán;wy dōng;ax lù;zk	76
+新杨公路	sīn;lt yáng;ap gōng;bs lù;zk	76
+新阳西路	sīn;lt yáng;eo siī;ak lù;zk	99
+新义铁路	sīn;lt yì;dx tiě;jf lù;zk	284
+新迎北路	sīn;lt yíng;ze běi;lb lù;zk	153
+新永安路	sīn;lt yǒng;du ān;bn lù;zk	243
+新渔东路	sīn;lt yú;dy dōng;ax lù;zk	189
+新源南路	sīn;lt yuán;dx nán;ug lù;zk	369
+新元南路	sīn;lt yuán;aw nán;ug lù;zk	110
+新运大街	sīn;lt yùn;zy dà;ar jiē;rt	117
+新湛一路	sīn;lt zhàn;db yí;aa lù;zk	130
+新中公路	sīn;lt zhōng;kl gōng;bs lù;zk	162
+新中西街	sīn;lt zhōng;kl siī;ak jiē;rt	202
+星村公路	sīng;ou cūn;ac gōng;bs lù;zk	4
+兴东七路	xīng;xb dōng;ax ciī;av lù;zk	162
+幸福西街	xìng;tg fú;pt siī;ak jiē;rt	220
+星华公路	sīng;ou huá;ru gōng;bs lù;zk	171
+兴华西街	xīng;xb huá;ru siī;ak jiē;rt	306
+兴华西路	xīng;xb huá;ru siī;ak lù;zk	234
+星辉东路	sīng;ou huī;gi dōng;ax lù;zk	153
+星辉西路	sīng;ou huī;gi siī;ak lù;zk	144
+星辉中路	sīng;ou huī;gi zhōng;kl lù;zk	50
+兴隆西街	xīng;xb lóng;eu siī;ak jiē;rt	130
+兴龙西路	xīng;xb lóng;yp siī;ak lù;zk	99
+兴泉铁路	xīng;xb cüán;bu tiě;jf lù;zk	396
+兴新公路	xīng;xb sīn;lt gōng;bs lù;zk	99
+星岩二路	sīng;ou yán;uu èr;aa lù;zk	4
+兴云西路	xīng;xb yún;ag siī;ak lù;zk	45
+兴筑西路	xīng;xb zhù;vf siī;ak lù;zk	284
+绣湖西路	siù;sn hú;do siī;ak lù;zk	45
+秀山支路	siù;hn shān;kl zhī;uy lù;zk	99
+绣水大街	siù;sn shuǐ;ln dà;ar jiē;rt	248
+秀英小街	siù;hn yīng;cy siǎo;lb jiē;rt	212
+徐大公路	sǘ;rm dà;ar gōng;bs lù;zk	45
+徐东大街	sǘ;rm dōng;ax dà;ar jiē;rt	486
+徐东一路	sǘ;rm dōng;ax yī;aa lù;zk	117
+恤孤院路	sǜ;xm gū;zg yuàn;ey lù;zk	306
+徐虹北路	sǘ;rm hóng;ig běi;lb lù;zk	202
+徐虹中路	sǘ;rm hóng;ig zhōng;kl lù;zk	153
+徐家汇路	sǘ;rm jiā;bu huì;dk lù;zk	13
+徐家棚街	sǘ;rm jiā;bu péng;ao jiē;rt	238
+徐家宅路	sǘ;rm jiā;bu zhái;bq lù;zk	99
+徐泾中路	sǘ;rm jīng;dj zhōng;kl lù;zk	4
+徐沛铁路	sǘ;rm pèi;dj tiě;jf lù;zk	144
+许坦西街	xǔ;yw tǎn;td siī;ak jiē;rt	220
+徐盐铁路	sǘ;rm yán;tm tiě;jf lù;zk	261
+宣杭铁路	süān;bd háng;aj tiě;jf lù;zk	450
+宣黄公路	süān;bd huáng;cb gōng;bs lù;zk	99
+雪峰西路	süě;ye fēng;uf siī;ak lù;zk	50
+雪岗北路	süě;ye gǎng;ux běi;lb lù;zk	194
+薛家浜路	süē;cx jiā;bu bāng;db lù;zk	76
+薛家南路	süē;cx jiā;bu nán;ug lù;zk	117
+雪韵大街	süě;ye yùn;ly dà;ar jiē;rt	230
+浔峰洲路	sǘn;dc fēng;uf zhōu;dv lù;zk	45
+浔阳东路	sǘn;dc yáng;eo dōng;ax lù;zk	248
+浔阳西路	sǘn;dc yáng;eo siī;ak lù;zk	117
+延长西路	yán;zv cháng;pn siī;ak lù;zk	342
+烟袋斜街	yān;hy dài;ry sié;rd jiē;rt	116
+雁荡西路	yàn;iv dàng;cp siī;ak lù;zk	99
+燕东新路	yàn;ch dōng;ax sīn;lt lù;zk	50
+沿江西路	yán;dk jiāng;dg siī;ak lù;zk	428
+延陵西路	yán;zv líng;ew siī;ak lù;zk	428
+沿鹿祥路	yán;dk lù;gb siáng;py lù;zk	99
+沿钱公路	yán;dk cián;jj gōng;bs lù;zk	130
+沿西荣路	yán;dk siī;ak róng;ca lù;zk	76
+延政西路	yán;zv zhèng;vw siī;ak lù;zk	171
+杨村七街	yáng;ap cūn;ac ciī;av jiē;rt	4
+杨柳青路	yáng;ap liǔ;ae cīng;fo lù;zk	3
+杨桥西路	yáng;ap qiáo;al siī;ak lù;zk	310
+杨舍西街	yáng;ap shě;rg siī;ak jiē;rt	99
+阳朔西街	yáng;eo shuò;no siī;ak jiē;rt	31
+杨新东路	yáng;ap sīn;lt dōng;ax lù;zk	130
+扬子津路	yáng;fp zǐ;la zīn;dy lù;zk	99
+姚江西路	yáo;nv jiāng;dg siī;ak lù;zk	76
+瑶台西街	yáo;wf tái;sk siī;ak jiē;rt	117
+叶集公路	yè;ku zií;ra gōng;bs lù;zk	4
+叶新公路	yè;ku sīn;lt gōng;bs lù;zk	284
+一德西路	yī;aa dé;rx siī;ak lù;zk	76
+义井东街	yì;dx zǐng;ac dōng;ax jiē;rt	171
+义龙西路	yì;dx lóng;yp siī;ak lù;zk	99
+义勇前街	yì;dx yǒng;sl cián;bd jiē;rt	4
+银城西路	yín;jg chéng;ti siī;ak lù;zk	144
+殷高西路	yīn;pu gāo;wk siī;ak lù;zk	356
+银湖西路	yín;jg hú;do siī;ak lù;zk	45
+银雀山路	yín;jg cüè;xv shān;kl lù;zk	279
+银西铁路	yín;jg siī;ak tiě;jf lù;zk	212
+颍河西路	yǐng;bu hé;dk siī;ak lù;zk	252
+营康西路	yíng;ck kāng;gl siī;ak lù;zk	50
+营市西街	yíng;ck shì;wj siī;ak jiē;rt	162
+英西南路	yīng;cy siī;ak nán;ug lù;zk	45
+迎宣西路	yíng;ze süān;bd siī;ak lù;zk	45
+永壁西街	yǒng;du bì;ut siī;ak jiē;rt	50
+涌河新街	yǒng;dy hé;dk sīn;lt jiē;rt	4
+永乐西路	yǒng;du lè;px siī;ak lù;zk	99
+永清大街	yǒng;du cīng;do dà;ar jiē;rt	117
+永清小路	yǒng;du cīng;do siǎo;lb lù;zk	117
+永顺西街	yǒng;du shùn;iy siī;ak jiē;rt	99
+永中西路	yǒng;du zhōng;kl siī;ak lù;zk	45
+游府西街	yóu;dz fǔ;gc siī;ak jiē;rt	454
+禺东西路	yú;td dōng;ax siī;ak lù;zk	261
+御河西路	yù;re hé;dk siī;ak lù;zk	261
+裕华西路	yù;pg huá;ru siī;ak lù;zk	3
+雨花西路	yǔ;ad huā;cb siī;ak lù;zk	2
+玉清东街	yù;wd cīng;do dōng;ax jiē;rt	99
+玉清宫路	yù;wd cīng;do gōng;bk lù;zk	130
+玉泉南路	yù;wd cüán;bu nán;ug lù;zk	50
+玉泉西路	yù;wd cüán;bu siī;ak lù;zk	171
+禺山西路	yú;td shān;kl siī;ak lù;zk	230
+雨山西路	yǔ;ad shān;kl siī;ak lù;zk	163
+鱼尾西路	yú;da wěi;um siī;ak lù;zk	130
+浴新大街	yù;dg sīn;lt dà;ar jiē;rt	252
+育秀东路	yù;wo siù;hn dōng;ax lù;zk	252
+毓秀东路	yù;pi siù;hn dōng;ax lù;zk	144
+豫园新路	yù;yu yuán;wy sīn;lt lù;zk	4
+育知西路	yù;wo zhī;uk siī;ak lù;zk	50
+员村西街	yuán;kb cūn;ac siī;ak jiē;rt	194
+员村新街	yuán;kb cūn;ac sīn;lt jiē;rt	50
+园林西街	yuán;wy lín;aa siī;ak jiē;rt	45
+园岭西路	yuán;wy lǐng;us siī;ak lù;zk	144
+阅江西路	yuè;mx jiāng;dg siī;ak lù;zk	306
+月乐西街	yuè;ke lè;px siī;ak jiē;rt	130
+越秀路街	yuè;tl siù;hn lù;zk jiē;rt	220
+云城西路	yún;ag chéng;ti siī;ak lù;zk	320
+云大西路	yún;ag dà;ar siī;ak lù;zk	261
+在高新路	zài;ut gāo;wk sīn;lt lù;zk	292
+在革新街	zài;ut gé;cu sīn;lt jiē;rt	153
+在观前街	zài;ut guān;yj cián;bd jiē;rt	634
+在红星路	zài;ut hóng;sg sīng;ou lù;zk	387
+在湖西路	zài;ut hú;do siī;ak lù;zk	243
+在济南路	zài;ut ziǐ;dq nán;ug lù;zk	297
+在江西路	zài;ut jiāng;dg siī;ak lù;zk	315
+在柳泉路	zài;ut liǔ;ae cüán;bu lù;zk	162
+在亲贤街	zài;ut cīn;la xián;lb jiē;rt	50
+在青年路	zài;ut cīng;fo nián;pf lù;zk	477
+在泉城路	zài;ut cüán;bu chéng;ti lù;zk	405
+在山西路	zài;ut shān;kl siī;ak lù;zk	490
+在十全街	zài;ut shí;al cüán;rw jiē;rt	495
+在天津街	zài;ut tiān;ad zīn;dy jiē;rt	410
+在卫星路	zài;ut wèi;ea sīng;ou lù;zk	220
+在西北路	zài;ut siī;ak běi;lb lù;zk	248
+在西大街	zài;ut siī;ak dà;ar jiē;rt	446
+在西影路	zài;ut siī;ak yǐng;op lù;zk	207
+在先锋路	zài;ut siān;ne fēng;jf lù;zk	234
+在新华街	zài;ut sīn;lt huá;ru jiē;rt	306
+在新华路	zài;ut sīn;lt huá;ru lù;zk	544
+在宣化街	zài;ut süān;bd huà;rb jiē;rt	189
+在迎新街	zài;ut yíng;ze sīn;lt jiē;rt	153
+在永清街	zài;ut yǒng;du cīng;do jiē;rt	171
+在玉泉路	zài;ut yù;wd cüán;bu lù;zk	454
+枣林前街	zǎo;ud lín;aa cián;bd jiē;rt	3
+枣园西路	zǎo;ud yuán;wy siī;ak lù;zk	234
+站前金街	zhàn;lv cián;bd jīn;rb jiē;rt	238
+张集铁路	zhāng;gi zií;ra tiě;jf lù;zk	266
+张前北路	zhāng;gi cián;bd běi;lb lù;zk	130
+张宣公路	zhāng;gi süān;bd gōng;bs lù;zk	180
+兆祥东路	zhào;ed siáng;py dōng;ax lù;zk	76
+赭山西路	zhě;io shān;kl siī;ak lù;zk	153
+震川西路	zhèn;yi chuān;pl siī;ak lù;zk	76
+镇府前街	zhèn;jb fǔ;gc cián;bd jiē;rt	238
+振华西路	zhèn;fi huá;ru siī;ak lù;zk	194
+振华新路	zhèn;fi huá;ru sīn;lt lù;zk	76
+镇骆西路	zhèn;jb luò;mk siī;ak lù;zk	144
+镇新凌路	zhèn;jb sīn;lt líng;dw lù;zk	117
+镇中心路	zhèn;jb zhōng;kl sīn;dd lù;zk	144
+郑和西路	zhèng;be hé;hk siī;ak lù;zk	76
+郑济铁路	zhèng;be ziì;dq tiě;jf lù;zk	288
+蒸湘北路	zhēng;ch siāng;do běi;lb lù;zk	76
+芷江西路	zhǐ;cv jiāng;dg siī;ak lù;zk	464
+置信北街	zhì;sq sìn;rk běi;lb jiē;rt	194
+执信南路	zhí;fw sìn;rk nán;ug lù;zk	274
+中纺前街	zhōng;kl fǎng;sf cián;bd jiē;rt	130
+中官西路	zhōng;kl guān;bl siī;ak lù;zk	180
+中津桥路	zhōng;kl zīn;dy qiáo;al lù;zk	162
+中山七路	zhōng;kl shān;kl ciī;av lù;zk	477
+忠孝西路	zhōng;vx xiào;lz siī;ak lù;zk	540
+中心北路	zhōng;kl sīn;dd běi;lb lù;zk	284
+中心四路	zhōng;kl sīn;dd sì;we lù;zk	310
+中心西街	zhōng;kl sīn;dd siī;ak jiē;rt	4
+众意西路	zhòng;rr yì;lx siī;ak lù;zk	346
+州际公路	zhōu;dl ziì;eu gōng;bs lù;zk	50
+洲际公路	zhōu;dv ziì;eu gōng;bs lù;zk	45
+洲咀大街	zhōu;dv zǚ;kq dà;ar jiē;rt	4
+周新西路	zhōu;kk sīn;lt siī;ak lù;zk	45
+诸陆西路	zhū;yo lù;ej siī;ak lù;zk	144
+竹塘西路	zhú;gg táng;tk siī;ak lù;zk	76
+庄先湾路	zhuāng;gt siān;ne wān;dg lù;zk	171
+卓刀泉路	zhuó;bu dāo;vp cüán;bu lù;zk	153
+紫金西街	zǐ;vx jīn;rb siī;ak jiē;rt	153
+经济开发区路	jīng;sj ziì;dq kāi;ac fā;fy qū;kx lù;zk	10
+西安市科技路	siī;ak ān;bn shì;wj kē;hd jì;fv lù;zk	14
