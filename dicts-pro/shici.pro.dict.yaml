@@ -891,6 +891,7 @@ sort: by_weight
 汤悦	tāng;dp yuè;xx	55
 陶翰	táo;ef hàn;ux	55
 陶雍	táo;ef yōng;wv	55
+陶者	táo;ef zhě;lo	8
 滕白	téng;ou bái;po	55
 滕迈	téng;ou mài;zw	55
 滕倪	téng;ou ní;re	55
@@ -33300,7 +33301,6 @@ sort: by_weight
 朝为青云士	cháo;uo wéi;ld qīng;fo yún;ag shì;ua	10
 朝为三室印	cháo;uo wéi;ld sān;ae shì;bt yìn;pe	10
 朝为双蒂花	cháo;uo wéi;ld shuāng;yy dì;cj huā;cb	10
-朝为田舍郎	cháo;uo wéi;ld tián;wu shè;rg láng;le	10
 朝为越溪女	cháo;uo wéi;ld yuè;tl xī;dd nǚ;va	10
 朝为朱门贵	cháo;uo wéi;ld zhū;pw mén;dv guì;vb	10
 朝无寒士达	cháo;uo wú;ay hán;bd shì;ua dá;zd	10
@@ -46190,6 +46190,7 @@ sort: by_weight
 得道在荣班	dé;rc dào;zz zài;ut róng;ca bān;wl	10
 的的暗更徐	de;bu de;bu àn;oo gèng;an xú;rm	10
 的的波际禽	de;bu de;bu bō;dp jì;eu qín;rn	10
+的的当歌扇	de;bu de;bu dāng;xe gē;kq shàn;hx	10
 的的回沙鹭	de;bu de;bu huí;wk shā;du lù;zn	10
 的的近南溟	de;bu de;bu jìn;zt nán;ug míng;dl	10
 的的明月水	de;bu de;bu míng;oo yuè;ke shuǐ;ln	10
@@ -46198,7 +46199,6 @@ sort: by_weight
 的的新添恨	de;bu de;bu xīn;lt tiān;dx hèn;xg	10
 的的颜如珪	de;bu de;bu yán;wy rú;nk guī;wt	10
 得地本虚心	dé;rc dì;ty běn;aa xū;hy xīn;dd	10
-的的当歌扇	de;bu dí;bu dàng;xe gē;kq shàn;hx	10
 得地色不移	dé;rc dì;ty sè;db bù;ab yí;hx	10
 得地殊堪赏	dé;rc dì;ty shū;dw kān;tb shǎng;xb	10
 得地无美恶	dé;rc dì;ty wú;ay měi;yd è;yx	10
@@ -178133,6 +178133,7 @@ sort: by_weight
 无双锦帐郎	wú;ay shuāng;yy jǐn;jj zhàng;ji láng;le	10
 吴霜透晓鞯	wú;kt shuāng;yo tòu;zn xiǎo;ow jiān;cz	10
 无双仰异才	wú;ay shuāng;yy yǎng;re yì;sc cái;up	10
+无水不文章	wú;ay shuǐ;ln bù;ab wén;wx zhāng;lu	10
 无谁荐直言	wú;ay shuí;yv jiàn;cz zhí;uq yán;wk	10
 吴水深万丈	wú;kt shuǐ;ln shēn;da wàn;av zhàng;an	10
 吾谁使正之	wú;wk shuí;yv shǐ;rl zhèng;av zhī;dn	10
@@ -208705,6 +208706,7 @@ sort: by_weight
 游山费虎皮	yóu;dz shān;kl fèi;fb hǔ;hj pí;py	10
 游山非世心	yóu;dz shān;kl fēi;ls shì;cv xīn;dd	10
 游山赋九吟	yóu;dz shān;kl fù;bv jiǔ;pv yín;kv	10
+有山皆图画	yǒu;uo shān;kl jiē;bb tú;wd huà;at	10
 有山堪结屋	yǒu;uo shān;kl kān;tb jié;sk wū;ut	10
 游山数几何	yóu;dz shān;kl shù;mw jǐ;pv hé;rk	10
 游山谁可游	yóu;dz shān;kl shuí;yv kě;dk yóu;dz	10
@@ -220019,6 +220021,7 @@ sort: by_weight
 昭王问不回	zhāo;ok wáng;at wèn;mk bù;ab huí;wk	10
 昭王尊酒前	zhāo;ok wáng;at zūn;bc jiǔ;dy qián;bd	10
 赵魏方俶扰	zhào;tx wèi;hg fāng;wv chù;ry rǎo;fy	10
+朝为田舍郎	zhāo;uo wéi;ld tián;wu shè;rg láng;le	10
 朝闻不及夕	zhāo;uo wén;me bù;ab jí;pn xī;pd	10
 朝闻讲艺馀	zhāo;uo wén;me jiǎng;yj yì;cv yú;um	10
 朝闻五色书	zhāo;uo wén;me wǔ;aw sè;db shū;vd	10
@@ -236348,7 +236351,6 @@ sort: by_weight
 数罟不入洿池	shù;mw gǔ;sg bú;ab rù;pn wū;dk chí;dy	10
 书湖阴先生壁	shū;vd hú;do yīn;eo xiān;ne shēng;pf bì;ut	10
 庶几其圣人乎	shù;gh jī;pv qí;cb shèng;yt rén;pn hū;pl	10
-书江西造口壁	shū;vd jiāng;dg xī;ak zào;zk kǒu;la bì;ut	10
 书江西造口壁	shū;vd jiāng;dg xī;ak zào;zk kǒu;la bì;ut	10
 蜀锦缠头无数	shǔ;si jǐn;jj chán;sl tóu;dd wú;ay shù;mw	10
 叔君今气方锐	shū;uy jūn;yk jīn;rv qì;pv fāng;wv ruì;jx	10
@@ -317861,7 +317863,6 @@ sort: by_weight
 一片入口沈痾痊	yí;aa piàn;pv rù;pn kǒu;la shěn;de ē;bk quán;bw	10
 一片山花落笔床	yí;aa piàn;pv shān;kl huā;cb luò;ck bǐ;vm chuáng;ga	10
 一片伤心画不成	yí;aa piàn;pv shāng;rl xīn;dd huà;at bù;ab chéng;gv	10
-一片伤心画不成	yí;aa piàn;pv shāng;rl xīn;dd huà;at bù;ab chéng;gv	10
 一片水光飞入户	yí;aa piàn;pv shuǐ;ln guāng;xe fēi;vd rù;pn hù;du	10
 一片汪洋都不见	yí;aa piàn;pv wāng;dw yáng;dy dōu;le bú;ab jiàn;ke	10
 一片西飞一片东	yí;aa piàn;pv xī;ak fēi;vd yí;aa piàn;pv dōng;ax	10
@@ -320936,7 +320937,6 @@ sort: by_weight
 犹期一战安西道	yóu;qy qī;co yí;aa zhàn;vg ān;bn xī;ak dào;zz	10
 有妻有妻出糟糠	yǒu;uo qī;un yǒu;uo qī;un chū;uu zāo;mo kāng;ml	10
 犹其有物也无已	yóu;qy qí;cb yǒu;uo wù;nw yě;vv wú;ay yǐ;kv	10
-又岂在朝朝暮暮	yòu;vn qǐ;uj zài;ut cháo;uo zhāo;uo mù;co mù;co	10
 又岂在朝朝暮暮	yòu;vn qǐ;uj zài;ut cháo;uo zhāo;uo mù;co mù;co	10
 幽栖真钓锦江鱼	yōu;uy qī;ax zhēn;ub diào;ju jǐn;jj jiāng;dg yú;da	10
 有妻子则慕妻子	yǒu;uo qī;un zǐ;la zé;bd mù;cx qī;un zǐ;la	10
@@ -326898,6 +326898,7 @@ sort: by_weight
 只候高情无别物	zhǐ;kb hòu;ru gāo;wk qíng;xo wú;ay bié;kd wù;nw	10
 指呼市人如使儿	zhǐ;fo hū;kh shì;wj rén;pn rú;nk shǐ;rl ér;pv	10
 稚篁畏日生檐下	zhì;hv huáng;vw wèi;ty rì;wa shēng;pf yán;ak xià;ab	10
+指挥重画五城图	zhǐ;fo huī;fi chóng;ql huà;at wǔ;aw chéng;ti tú;wd	10
 指麾楚汉如旋蓬	zhǐ;fo huī;gm chǔ;az hàn;dy rú;nk xuán;fz péng;cf	10
 指挥楚汉如旋蓬	zhǐ;fo huī;fi chǔ;az hàn;dy rú;nk xuán;fz péng;cf	10
 指麾船舫点红旌	zhǐ;fo huī;gm chuán;vk fǎng;vf diǎn;vh hóng;sg jīng;fu	10
@@ -326908,7 +326909,6 @@ sort: by_weight
 指挥如意天花落	zhǐ;fo huī;fi rú;nk yì;lx tiān;ad huā;cb luò;ck	10
 指挥若定失萧曹	zhǐ;fo huī;fi ruò;ck dìng;bz shī;pf xiāo;cb cáo;co	10
 智慧只足劳精神	zhì;uo huì;fx zhǐ;kb zú;kz láo;cl jīng;mo shén;pu	10
-指挥重画五城图	zhǐ;fo huī;fi zhòng;ql huà;at wǔ;aw chéng;ti tú;wd	10
 智慧周则贪残囚	zhì;uo huì;fx zhōu;kk zé;bd tān;rb cán;dj qiú;wr	10
 掷火万里精神高	zhì;fe huǒ;br wàn;av lǐ;tt jīng;mo shén;pu gāo;wk	10
 知己从来不易知	zhī;uk jǐ;kv cóng;rr lái;aa bú;ab yì;ow zhī;uk	10

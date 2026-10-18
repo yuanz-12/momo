@@ -9,11 +9,14 @@ sort: by_weight
 ...
 艾青	ài;cx cīng;fo	213
 冰心	bīng;du sīn;dd	1196
+蔡骏	cài;cu zǜn;mw	203
 蔡襄	cài;cu siāng;yf	105
 残雪	cán;dj süě;ye	2123
 曹节	cáo;co zié;ce	216
 曹襄	cáo;co siāng;yf	17
 柴静	chái;va zìng;fy	1178
+陈静	chén;ed zìng;fy	1242
+程潜	chéng;hw cián;do	142
 戴进	dài;gg zìn;zj	139
 狄青	dí;qh cīng;fo	311
 帝辛	dì;wj sīn;lu	542
@@ -29,12 +32,14 @@ sort: by_weight
 傅俊	fù;rc zǜn;rw	40
 傅佥	fù;rc ciān;ra	69
 勾践	gōu;bs ziàn;zj	1296
+郭俊	guō;we zǜn;rw	722
 韩信	hán;uw sìn;rk	1353
 何新	hé;rk sīn;lt	1089
 胡靖	hú;go zìng;lo	66
 胡俊	hú;go zǜn;rw	146
 胡仙	hú;go siān;ru	54
 华胥	huà;ru sǖ;zo	112
+黄俊	huáng;cb zǜn;rw	204
 黄筌	huáng;cb cüán;vw	360
 霍峻	huò;yv zǜn;uw	81
 济慈	ziì;dq cí;bx	86
@@ -69,7 +74,10 @@ sort: by_weight
 林萧	lín;aa siāo;cb	1017
 林燮	lín;aa siè;hy	273
 凌青	líng;dw cīng;fo	156
+刘静	liú;wd zìng;fy	82
+刘俊	liú;wd zǜn;rw	295
 刘骏	liú;wd zǜn;mw	76
+刘倩	liú;wd ciàn;ro	208
 柳青	liǔ;ae cīng;fo	310
 刘襄	liú;wd siāng;yf	108
 龙潜	lóng;yp cián;do	85
@@ -79,6 +87,7 @@ sort: by_weight
 卢循	lú;bu sǘn;ro	576
 罗辑	luó;sx zií;ie	4691
 吕媭	lǚ;kk sǖ;pn	212
+马俊	mǎ;va zǜn;rw	92
 毛晋	máo;pv zìn;yo	399
 冒襄	mào;oo siāng;yf	9
 梅西	méi;am siī;ak	41322
@@ -98,6 +107,7 @@ sort: by_weight
 齐秦	cií;wl cín;ih	681
 齐泰	cií;wl tài;iu	604
 齐王	cií;wl wáng;at	1862
+齐祖	cií;wl zǔ;pq	920
 钱雷	cián;jj léi;yt	94
 钱镠	cián;jj liú;jp	43
 钱穆	cián;jj mù;hp	122
@@ -144,11 +154,14 @@ sort: by_weight
 铜须	tóng;jk sǖ;py	355
 王绩	wáng;at ziì;sb	38
 王翦	wáng;at ziǎn;bx	77
+王静	wáng;at zìng;fy	712
+王俊	wáng;at zǜn;rw	1264
 王祥	wáng;at siáng;py	65
 王脩	wáng;at siū;ro	28
 王选	wáng;at süǎn;ze	141
 卫青	wèi;ea cīng;fo	213
 文绣	wén;wx siù;sn	110
+吴俊	wú;kt zǜn;rw	58
 吴邪	wú;kt sié;ye	411
 西伯	siī;ak bó;rb	160
 席勒	sií;gj lè;cl	725
@@ -215,27 +228,38 @@ sort: by_weight
 信诚	sìn;rk chéng;yi	266
 修平	siū;rp píng;au	57
 秀全	siù;hn cüán;rw	6
+徐斌	sǘ;rm bīn;wv	987
 徐冰	sǘ;rm bīng;du	720
 徐晨	sǘ;rm chén;oi	742
 徐达	sǘ;rm dá;zd	1743
 徐妃	sǘ;rm fēi;nj	172
 徐福	sǘ;rm fú;pt	336
 徐晃	sǘ;rm huǎng;og	304
+徐辉	sǘ;rm huī;gi	1367
 徐惠	sǘ;rm huì;ix	1071
 许稷	xǔ;yw ziì;hw	91
 许将	xǔ;yw ziāng;lc	83
 许靖	xǔ;yw zìng;lo	172
 徐克	sǘ;rm kè;ux	2631
+徐兰	sǘ;rm lán;bs	815
+徐磊	sǘ;rm lěi;uu	277
+徐丽	sǘ;rm lì;ad	323
 徐亮	sǘ;rm liàng;wj	364
 徐邈	sǘ;rm miǎo;ze	27
 徐明	sǘ;rm míng;oo	1064
+徐娜	sǘ;rm nà;ne	114
+徐鹏	sǘ;rm péng;on	624
+徐瑞	sǘ;rm ruì;we	34
 徐盛	sǘ;rm shèng;im	389
 徐庶	sǘ;rm shù;gh	356
+徐涛	sǘ;rm tāo;dc	4798
 徐渭	sǘ;rm wèi;do	376
+徐伟	sǘ;rm wěi;rw	166
 许仙	xǔ;yw siān;ru	480
 徐翔	sǘ;rm siáng;yx	276
 徐宣	sǘ;rm süān;bd	20
 徐奕	sǘ;rm yì;wd	41
+徐勇	sǘ;rm yǒng;sl	483
 宣帝	süān;bd dì;wj	2355
 薛霸	süē;cx bà;yo	475
 薛逢	süē;cx féng;zf	81
@@ -276,6 +300,7 @@ sort: by_weight
 燕青	yān;ch cīng;fo	364
 砚秋	yàn;uj ciū;hh	634
 杨戬	yáng;ap ziǎn;yg	977
+杨静	yáng;ap zìng;fy	445
 杨骏	yáng;ap zǜn;mw	778
 杨浚	yáng;ap zǜn;dw	102
 杨濬	yáng;ap zǜn;do	47
@@ -297,12 +322,18 @@ sort: by_weight
 扎西	zhā;fv siī;ak	314
 张籍	zhāng;gi zií;vo	472
 张济	zhāng;gi ziì;dq	366
+张倩	zhāng;gi ciàn;ro	608
 张绣	zhāng;gi siù;sn	590
 张巡	zhāng;gi sǘn;zv	812
+郑俊	zhèng;be zǜn;rw	108
 郑信	zhèng;be sìn;rk	60
 郑袖	zhèng;be siù;py	339
 周济	zhōu;kk ziì;dq	122
+周静	zhōu;kk zìng;fy	1107
+周俊	zhōu;kk zǜn;rw	899
+朱静	zhū;pw zìng;fy	1017
 朱骏	zhū;pw zǜn;mw	150
+朱俊	zhū;pw zǜn;rw	120
 颛顼	zhuān;uy sǖ;wy	1802
 祖辛	zǔ;pq sīn;lu	43
 阿济格	ā;ek ziì;dq gé;ak	53
@@ -905,6 +936,7 @@ sort: by_weight
 李笑来	lǐ;az siào;vy lái;aa	810
 李小龙	lǐ;az siǎo;lb lóng;yp	12503
 李小男	lǐ;az siǎo;lb nán;tl	693
+李小霞	lǐ;az siǎo;lb xiá;yy	120
 李逍遥	lǐ;az siāo;zo yáo;zf	2465
 黎新祥	lí;hu sīn;lt siáng;py	436
 李秀成	lǐ;az siù;hn chéng;gv	163
@@ -2425,6 +2457,7 @@ sort: by_weight
 镇关西	zhèn;jb guān;bt siī;ak	612
 郑俊怀	zhèng;be zǜn;rw huái;xb	752
 郑俊英	zhèng;be zǜn;rw yīng;cy	22
+郑亲王	zhèng;be cīn;la wáng;at	31
 郑孝胥	zhèng;be xiào;lz sǖ;zo	57
 植村秀	zhí;aq cūn;ac siù;hn	122
 仲呈祥	zhòng;rv chéng;kw siáng;py	300
@@ -2610,6 +2643,7 @@ sort: by_weight
 曹禺先生	cáo;co yú;td siān;ne shēng;pf	374
 镡津文集	chán;ju zīn;dy wén;wx zií;ra	50
 长珩仙君	cháng;pn héng;wd siān;ru jūn;yk	4
+长井龙雪	cháng;pn zǐng;ac lóng;yp süě;ye	29
 潮汐猎人	cháo;do siī;dx liè;qo rén;pn	104
 朝鲜成宗	cháo;uo siǎn;yy chéng;gv zōng;bu	414
 朝鲜世宗	cháo;uo siǎn;yy shì;cv zōng;bu	531
@@ -3038,7 +3072,9 @@ sort: by_weight
 千手绳树	ciān;pu shǒu;pf shéng;sd shù;ac	6
 千手柱间	ciān;pu shǒu;pf zhù;av jiān;mo	239
 前蜀高祖	cián;bd shǔ;si gāo;wk zǔ;pq	418
+浅田弘幸	ciǎn;dj tián;wu hóng;gs xìng;tg	13
 钱形幸一	cián;jj xíng;kp xìng;tg yī;aa	248
+浅野妙子	ciǎn;dj yě;ly miào;nu zǐ;la	0
 浅野一二	ciǎn;dj yě;ly yī;aa èr;aa	306
 前原诚司	cián;bd yuán;ix chéng;yi sī;vk	35
 前原圭一	cián;bd yuán;ix guī;tt yī;aa	324
@@ -3253,6 +3289,7 @@ sort: by_weight
 细川高国	siì;st chuān;pl gāo;wk guó;wy	423
 西川广人	siī;ak chuān;pl guǎng;di rén;pn	284
 细川护熙	siì;st chuān;pl hù;fh xī;ih	9
+西川秀明	siī;ak chuān;pl siù;hn míng;oo	12
 细川幽斋	siì;st chuān;pl yōu;uy zhāi;we	270
 细川忠兴	siì;st chuān;pl zhōng;vx xīng;xb	31
 西川周作	siī;ak chuān;pl zhōu;kk zuò;rv	297
