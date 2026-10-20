@@ -1,6 +1,6 @@
 # Rime dictionary
 # encoding: utf-8
-#https://github.com/amzxyz/RIME-LMDG
+#https://github.com/amzxyz/rime-wanxiang-data
 # ------- 诗词-------
 ---
 name: shici
@@ -204628,7 +204628,6 @@ sort: by_weight
 殷勤此何极	yīn;pu qín;cl cǐ;vb hé;rk jí;aj	10
 殷勤大河水	yīn;pu qín;cl dà;ar hé;dk shuǐ;ln	10
 殷勤答吾友	yīn;pu qín;cl dá;vk wú;wk yǒu;uy	10
-引琴弹秋思	yǐn;gl qín;wv dàn;gu qiū;hh sī;tx	10
 殷勤道相忆	yīn;pu qín;cl dào;zz xiāng;ao yì;xv	10
 殷勤道远别	yīn;pu qín;cl dào;zz yuǎn;zy bié;kd	10
 殷勤独往事	yīn;pu qín;cl dú;qi wǎng;rv shì;gy	10
@@ -204679,6 +204678,7 @@ sort: by_weight
 殷勤书背后	yīn;pu qín;cl shū;vd bèi;bo hòu;ik	10
 殷勤送书记	yīn;pu qín;cl sòng;zt shū;vd jì;yj	10
 殷勤叹孤凤	yīn;pu qín;cl tàn;ky gū;zg fèng;jy	10
+引琴弹秋思	yǐn;gl qín;wv tán;gu qiū;hh sī;tx	10
 殷勤题白石	yīn;pu qín;cl tí;oy bái;po shí;ak	10
 殷勤托行人	yīn;pu qín;cl tuō;fq xíng;rd rén;pn	10
 殷勤万里意	yīn;pu qín;cl wàn;av lǐ;tt yì;lx	10
@@ -250062,7 +250062,7 @@ sort: by_weight
 此语亦足为愚蒙	cǐ;vb yǔ;yk yì;wb zú;kz wéi;ld yú;tx méng;cu	10
 此语真实非虚狂	cǐ;vb yǔ;yk zhēn;ub shí;bd fēi;ls xū;hy kuáng;qw	10
 词源倒流三峡水	cí;yk yuán;dx dào;rd liú;di sān;ae xiá;uj shuǐ;ln	10
-此院好弹秋思处	cǐ;vb yuàn;ey hǎo;nz dàn;gu qiū;hh sī;tx chù;wb	10
+此院好弹秋思处	cǐ;vb yuàn;ey hǎo;nz tán;gu qiū;hh sī;tx chù;wb	10
 次元明韵寄子由	cì;dq yuán;aw míng;oo yùn;ly jì;bk zǐ;la yóu;ol	10
 次约山赋杏花韵	cì;dq yuē;su shān;kl fù;bv xìng;ak huā;cb yùn;ly	10
 此月一缺圆何年	cǐ;vb yuè;ke yī;aa quē;fg yuán;wb hé;rk nián;pf	10
@@ -295739,7 +295739,7 @@ sort: by_weight
 剩水残山异昔游	shèng;qd shuǐ;ln cán;dj shān;kl yì;sc xī;co yóu;dz	10
 剩说襄阳好无尽	shèng;qd shuō;yx xiāng;yf yáng;eo hǎo;nz wú;ay jìn;id	10
 生死恩深不到家	shēng;pf sǐ;db ēn;yx shēn;da bú;ab dào;gd jiā;bu	10
-声似胡儿弹舌语	shēng;tu sì;rr hú;go ér;pv dàn;gu shé;qk yǔ;yk	10
+声似胡儿弹舌语	shēng;tu sì;rr hú;go ér;pv tán;gu shé;qk yǔ;yk	10
 生死浪中涅盘宅	shēng;pf sǐ;db làng;dl zhōng;kl niè;dt pán;vm zhái;bq	10
 生死那知半路分	shēng;pf sǐ;db nà;ve zhī;uk bàn;bf lù;zk fēn;bd	10
 生死向前山可穴	shēng;pf sǐ;db xiàng;pk qián;bd shān;kl kě;dk xué;bb	10
@@ -312908,7 +312908,7 @@ sort: by_weight
 心亦随风度辽水	xīn;dd yì;wb suí;eo fēng;jx dù;gy liáo;zl shuǐ;ln	10
 心亦随风渡辽水	xīn;dd yì;wb suí;eo fēng;jx dù;dy liáo;zl shuǐ;ln	10
 辛夷屋角抟香雪	xīn;lu yí;ar wū;ut jiǎo;dy tuán;fv xiāng;ho xuě;ye	10
-信意闲弹秋思时	xìn;rk yì;lx xián;ma dàn;gu qiū;hh sī;tx shí;to	10
+信意闲弹秋思时	xìn;rk yì;lx xián;ma tán;gu qiū;hh sī;tx shí;to	10
 心意相尤自相问	xīn;dd yì;lx xiāng;ao yóu;yd zì;po xiāng;ao wèn;mk	10
 辛夷踯躅倚山茶	xīn;lu yí;ar zhí;ze zhú;zi yǐ;rk shān;kl chá;cm	10
 新音百变口如莺	xīn;lt yīn;lo bǎi;ab biàn;wy kǒu;la rú;nk yīng;cn	10
@@ -314482,7 +314482,7 @@ sort: by_weight
 寻偏渔翁野老家	xún;ec piān;rc yú;dy wēng;gx yě;ly lǎo;lb jiā;bu	10
 循墙绕柱觅君诗	xún;ro qiáng;tk rào;sw zhù;av mì;vj jūn;yk shī;yc	10
 寻山莫算白云程	xún;ec shān;kl mò;cd suàn;vc bái;po yún;ag chéng;hw	10
-寻声暗问弹者谁	xún;ec shēng;tu àn;oo wèn;mk dàn;gu zhě;lo shuí;yv	10
+寻声暗问弹者谁	xún;ec shēng;tu àn;oo wèn;mk tán;gu zhě;lo shuí;yv	10
 荀氏八龙唯欠一	xún;co shì;pv bā;pn lóng;yp wéi;kv qiàn;dr yī;aa	10
 迅驶不复容遮防	xùn;zu shǐ;mu bú;ab fù;pw róng;bg zhē;zh fáng;ef	10
 徇时所得无几何	xùn;ro shí;to suǒ;ht dé;rc wú;ay jǐ;pv hé;rk	10

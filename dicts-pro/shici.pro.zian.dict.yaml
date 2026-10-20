@@ -1,6 +1,6 @@
 # Rime dictionary
 # encoding: utf-8
-#https://github.com/amzxyz/RIME-LMDG
+#https://github.com/amzxyz/rime-wanxiang-data
 # ------- 诗词-------
 ---
 name: shici.zian
@@ -66874,7 +66874,6 @@ sort: by_weight
 阴桥全覆雪	yīn;eo qiáo;al cüán;rw fù;xw süě;ye	10
 殷勤把酒论	yīn;pu qín;cl bǎ;fb ziǔ;dy lùn;yl	10
 殷勤报秋意	yīn;pu qín;cl bào;fy ciū;hh yì;lx	10
-引琴弹秋思	yǐn;gl qín;wv dàn;gu ciū;hh sī;tx	10
 殷勤道相忆	yīn;pu qín;cl dào;zz siāng;ao yì;xv	10
 殷勤独夜心	yīn;pu qín;cl dú;qi yè;ww sīn;dd	10
 殷勤二客情	yīn;pu qín;cl èr;aa kè;bk cíng;xo	10
@@ -66883,6 +66882,7 @@ sort: by_weight
 殷懃将白发	yīn;pu qín;cx ziāng;lc bái;po fà;fy	10
 殷勤敬爱情	yīn;pu qín;cl jìng;cw ài;vy cíng;xo	10
 殷勤如有情	yīn;pu qín;cl rú;nk yǒu;uo cíng;xo	10
+引琴弹秋思	yǐn;gl qín;wv tán;gu ciū;hh sī;tx	10
 殷勤湘水曲	yīn;pu qín;cl siāng;do shuǐ;ln qǔ;wc	10
 殷勤小梅花	yīn;pu qín;cl siǎo;lb méi;am huā;cb	10
 殷勤萧庶子	yīn;pu qín;cl siāo;cb shù;gh zǐ;la	10
@@ -80616,7 +80616,7 @@ sort: by_weight
 瓷罂无谢玉为缸	cí;dw yīng;bf wú;ay siè;yc yù;wd wéi;ld gāng;fg	10
 此鹰写真在左绵	cǐ;vb yīng;gn siě;by zhēn;ub zài;ut zuǒ;ug mián;sj	10
 此语可信冯公传	cǐ;vb yǔ;yk kě;dk sìn;rk féng;dm gōng;bs chuán;rv	10
-此院好弹秋思处	cǐ;vb yuàn;ey hǎo;nz dàn;gu ciū;hh sī;tx chù;wb	10
+此院好弹秋思处	cǐ;vb yuàn;ey hǎo;nz tán;gu ciū;hh sī;tx chù;wb	10
 次韵杜仲观二绝	cì;dq yùn;ly dù;at zhòng;rv guān;yj èr;aa züé;sb	10
 次韵汉公招七兄	cì;dq yùn;ly hàn;dy gōng;bs zhāo;fk ciī;av xiōng;ke	10
 次韵吉老十小诗	cì;dq yùn;ly jí;tk lǎo;lb shí;al siǎo;lb shī;yc	10
@@ -108406,7 +108406,7 @@ sort: by_weight
 心亦随风度辽水	sīn;dd yì;wb suí;eo fēng;jx dù;gy liáo;zl shuǐ;ln	10
 心亦随风渡辽水	sīn;dd yì;wb suí;eo fēng;jx dù;dy liáo;zl shuǐ;ln	10
 辛夷屋角抟香雪	sīn;lu yí;ar wū;ut jiǎo;dy tuán;fv xiāng;ho süě;ye	10
-信意闲弹秋思时	sìn;rk yì;lx xián;ma dàn;gu ciū;hh sī;tx shí;to	10
+信意闲弹秋思时	sìn;rk yì;lx xián;ma tán;gu ciū;hh sī;tx shí;to	10
 心意相尤自相问	sīn;dd yì;lx siāng;ao yóu;yd zì;po siāng;ao wèn;mk	10
 辛夷踯躅倚山茶	sīn;lu yí;ar zhí;ze zhú;zi yǐ;rk shān;kl chá;cm	10
 新音百变口如莺	sīn;lt yīn;lo bǎi;ab biàn;wy kǒu;la rú;nk yīng;cn	10
@@ -109445,7 +109445,7 @@ sort: by_weight
 寻偏渔翁野老家	sǘn;ec piān;rc yú;dy wēng;gx yě;ly lǎo;lb jiā;bu	10
 循墙绕柱觅君诗	sǘn;ro ciáng;tk rào;sw zhù;av mì;vj jūn;yk shī;yc	10
 寻山莫算白云程	sǘn;ec shān;kl mò;cd suàn;vc bái;po yún;ag chéng;hw	10
-寻声暗问弹者谁	sǘn;ec shēng;tu àn;oo wèn;mk dàn;gu zhě;lo shuí;yv	10
+寻声暗问弹者谁	sǘn;ec shēng;tu àn;oo wèn;mk tán;gu zhě;lo shuí;yv	10
 荀氏八龙唯欠一	sǘn;co shì;pv bā;pn lóng;yp wéi;kv qiàn;dr yī;aa	10
 迅驶不复容遮防	sǜn;zu shǐ;mu bú;ab fù;pw róng;bg zhē;zh fáng;ef	10
 徇时所得无几何	sǜn;ro shí;to suǒ;ht dé;rc wú;ay jǐ;pv hé;rk	10

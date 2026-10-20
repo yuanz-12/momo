@@ -1317,7 +1317,6 @@ sort: by_weight
 单节	dān;bu zié;ce	942
 单姐	dān;bu ziě;nq	648
 丹津	dān;kd zīn;dy	397
-弹进	dàn;gu zìn;zj	376
 单晶	dān;bu zīng;oo	194
 淡静	dàn;dh zìng;fy	99
 殚精	dān;du zīng;mo	63
@@ -12542,6 +12541,7 @@ sort: by_weight
 痰迹	tán;bh ziì;zb	62
 滩脊	tān;dv ziǐ;ro	44
 谭姐	tán;yu ziě;nq	487
+弹进	tán;gu zìn;zj	376
 探进	tàn;fa zìn;zj	151
 探井	tàn;fa zǐng;ac	758
 碳晶	tàn;uh zīng;oo	699
@@ -16394,7 +16394,6 @@ sort: by_weight
 小食	siǎo;lb shí;rg	2917
 消逝	siāo;do shì;zt	970
 消食	siāo;do shí;rg	901
-小匙	siǎo;lb shi;ob	361
 小视	siǎo;lb shì;pj	339
 小试	siǎo;lb shì;yg	150
 小诗	siǎo;lb shī;yc	120
@@ -16411,7 +16410,6 @@ sort: by_weight
 肖氏	siāo;xo shì;pv	5
 消释	siāo;do shì;mf	2
 萧史	siāo;cb shǐ;kn	1
-小式	siǎo;lb shì;gg	0
 销售	siāo;jo shòu;rk	89204
 小手	siǎo;lb shǒu;pf	2760
 消瘦	siāo;do shòu;by	1852
@@ -16725,8 +16723,8 @@ sort: by_weight
 小营	siǎo;lb yíng;ck	73
 小赢	siǎo;lb yíng;wb	46
 小瑛	siǎo;lb yīng;wy	36
-小勇	siǎo;lb yǒng;sl	5567
 小用	siǎo;lb yòng;kf	367
+小勇	siǎo;lb yǒng;sl	293
 啸咏	siào;kb yǒng;ky	118
 小有	siǎo;lb yǒu;uo	477
 小优	siǎo;lb yōu;ry	301
@@ -21882,6 +21880,7 @@ sort: by_weight
 安鲜达	ān;bn siān;yy dá;zd	38
 按先后	àn;fn siān;ne hòu;ik	540
 按线路	àn;fn siàn;sj lù;zk	324
+安先生	ān;bn siān;ne shēng;pf	796
 按相关	àn;fn siāng;ao guān;bt	886
 俺想你	ǎn;rd siǎng;ax nǐ;rx	270
 俺想去	ǎn;rd siǎng;ax qù;ts	238
@@ -21889,6 +21888,7 @@ sort: by_weight
 黯相望	àn;lo siāng;ao wàng;ww	117
 俺想要	ǎn;rd siǎng;ax yào;xn	288
 按消费	àn;fn siāo;do fèi;fb	544
+安小姐	ān;bn siǎo;lb ziě;nq	788
 按销量	àn;fn siāo;jo liàng;ol	562
 按小时	àn;fn siǎo;lb shí;to	810
 按销售	àn;fn siāo;jo shòu;rk	734
@@ -22367,6 +22367,7 @@ sort: by_weight
 八千点	bā;pn ciān;pu diǎn;vh	6
 把钱都	bǎ;fb cián;jj dōu;le	846
 把前端	bǎ;fb cián;bd duān;le	472
+把前段	bǎ;fb cián;bd duàn;pu	296
 八千多	bā;pn ciān;pu duō;xx	405
 八千二	bā;pn ciān;pu èr;aa	806
 把钱放	bǎ;fb cián;jj fàng;fw	864
@@ -25270,6 +25271,7 @@ sort: by_weight
 不变节	bú;ab biàn;wy zié;ce	159
 不变心	bú;ab biàn;wy sīn;dd	639
 不变性	bú;ab biàn;wy sìng;xu	822
+补不齐	bǔ;pb bù;ab cií;wl	102
 不补习	bù;ab bǔ;pb sií;vd	25
 不采取	bù;ab cǎi;va cǚ;ey	254
 不踩线	bù;ab cǎi;za siàn;sj	9
@@ -31111,7 +31113,6 @@ sort: by_weight
 但累积	dàn;rd lěi;tx ziī;hv	312
 但冷静	dàn;rd lěng;ds zìng;fy	536
 但立即	dàn;rd lì;wb zií;ge	522
-弹沥青	dàn;gu lì;dl cīng;fo	230
 但利息	dàn;rd lì;hd siī;zx	441
 但理想	dàn;rd lǐ;wl siǎng;ax	558
 但理性	dàn;rd lǐ;wl sìng;xu	536
@@ -31257,7 +31258,6 @@ sort: by_weight
 但请在	dàn;rd cǐng;yo zài;ut	364
 但秋季	dàn;rd ciū;hh jì;hz	378
 但求精	dàn;rd qiú;au zīng;mo	364
-弹秋思	dàn;gu ciū;hh sī;tx	4
 但秋天	dàn;rd ciū;hh tiān;ad	410
 但取得	dàn;rd cǚ;ey dé;rc	558
 但趋势	dàn;rd cǖ;te shì;fl	621
@@ -40035,6 +40035,8 @@ sort: by_weight
 和母亲	hé;hk mǔ;md cīn;la	1278
 和那些	hé;hk nà;ve siē;ve	4776
 和哪些	hé;hk nǎ;ke siē;ve	778
+河南籍	hé;dk nán;ug zií;vo	666
+河南西	hé;dk nán;ug siī;ak	648
 和你姓	hé;hk nǐ;rx sìng;nu	306
 和您签	hé;hk nín;rx ciān;vq	202
 喝啤酒	hē;kr pí;ku ziǔ;dy	1900
@@ -44941,7 +44943,6 @@ sort: by_weight
 继续创	jì;sm sǜ;sd chuàng;rd	909
 继续吹	jì;sm sǜ;sd chuī;kq	774
 继续打	jì;sm sǜ;sd dǎ;fd	1138
-继续弹	jì;sm sǜ;sd dàn;gu	513
 继续道	jì;sm sǜ;sd dào;zz	424
 继续调	jì;sm sǜ;sd diào;yk	922
 继续跌	jì;sm sǜ;sd diē;zf	242
@@ -45008,6 +45009,7 @@ sort: by_weight
 继续睡	jì;sm sǜ;sd shuì;ot	546
 继续说	jì;sm sǜ;sd shuō;yx	3149
 继续送	jì;sm sǜ;sd sòng;zt	652
+继续弹	jì;sm sǜ;sd tán;gu	513
 继续谈	jì;sm sǜ;sd tán;yh	126
 继续跳	jì;sm sǜ;sd tiào;zv	680
 继续听	jì;sm sǜ;sd tīng;kt	810
@@ -76244,7 +76246,7 @@ sort: by_weight
 枪法好	ciāng;av fǎ;dq hǎo;nz	450
 枪法准	ciāng;av fǎ;dq zhǔn;dv	378
 抢饭吃	ciǎng;fv fàn;uy chī;kv	522
-抢反弹	ciǎng;fv fǎn;iy tán;gu	138
+抢反弹	ciǎng;fv fǎn;iy tán;gu	124
 抢饭碗	ciǎng;fv fàn;uy wǎn;uv	411
 抢房潮	ciǎng;fv fáng;hf cháo;do	364
 抢房子	ciǎng;fv fáng;hf zi;la	526
@@ -90989,6 +90991,7 @@ sort: by_weight
 探亲者	tàn;fa cīn;la zhě;lo	162
 谈清楚	tán;yh cīng;do chǔ;az	554
 谈情怀	tán;yh cíng;xo huái;xb	724
+弹秋思	tán;gu ciū;hh sī;tx	4
 谈泉庆	tán;yh cüán;bu qìng;gd	459
 痰热清	tán;bh rè;fh cīng;do	16
 谈事情	tán;yh shì;gy cíng;xo	986
@@ -100579,7 +100582,7 @@ sort: by_weight
 仙盖山	siān;ru gài;ym shān;kl	45
 先盖章	siān;ne gài;ym zhāng;lu	711
 先感到	siān;ne gǎn;gx dào;gd	531
-先干的	siān;ne gàn;au de;bu	302
+先干的	siān;ne gān;au de;bu	302
 鲜橄榄	siān;yy gǎn;aw lǎn;aj	446
 先干了	siān;ne gàn;au le;al	60
 腺苷酶	siàn;ou gān;cg méi;ym	212
@@ -109906,6 +109909,7 @@ sort: by_weight
 小升规	siǎo;lb shēng;pc guī;fj	261
 小生蚝	siǎo;lb shēng;pf háo;im	392
 小生和	siǎo;lb shēng;pf hé;hk	508
+小生化	siǎo;lb shēng;pf huà;rb	48
 小生活	siǎo;lb shēng;pf huó;du	981
 小升级	siǎo;lb shēng;pc jí;sj	508
 小声叫	siǎo;lb shēng;tu jiào;kj	518
@@ -112759,7 +112763,8 @@ sort: by_weight
 谢老师	siè;yc lǎo;lb shī;lj	1035
 写老师	siě;by lǎo;lb shī;lj	441
 谢老爷	siè;yc lǎo;lb yé;fe	6
-谢了啊	siè;yc le;al a;kk	16
+谢了啊	siè;yc le;al a;kk	91
+写了啊	siě;by le;al a;kk	16
 些了吧	siē;ve le;al ba;kb	486
 写了吧	siě;by le;al ba;kb	180
 卸了吧	siè;ve le;al ba;kb	82
@@ -153657,7 +153662,7 @@ sort: by_weight
 感到羞愧	gǎn;gx dào;gd siū;yi kuì;xg	509
 感到忧心	gǎn;gx dào;gd yōu;xy sīn;dd	554
 感得瑞相	gǎn;gx dé;rc ruì;we siāng;ao	50
-干的事情	gàn;au de;bu shì;gy cíng;xo	972
+干的事情	gān;au de;bu shì;gy cíng;xo	972
 感动人心	gǎn;gx dòng;yl rén;pn sīn;dd	675
 肝短静脉	gān;og duǎn;ub zìng;fy mài;oy	50
 感恩不尽	gǎn;gx ēn;yx bú;ab zìn;id	16
@@ -161682,6 +161687,7 @@ sort: by_weight
 户籍证明	hù;du zií;vo zhèng;yv míng;oo	138
 户籍制的	hù;du zií;vo zhì;nd de;bu	130
 户籍制度	hù;du zií;vo zhì;nd dù;gy	267
+互济总会	hù;ah ziì;dq zǒng;bx huì;ry	10
 互加微信	hù;ah jiā;lk wēi;rj sìn;rk	508
 忽尖忽粗	hū;wx ziān;xd hū;wx cū;mq	130
 壶浆箪食	hú;ty ziāng;lu dān;vu shí;rg	3
@@ -173866,7 +173872,7 @@ sort: by_weight
 今宵何处	jīn;rv siāo;bo hé;rk chù;wb	117
 进小黑屋	zìn;zj siǎo;lb hēi;lh wū;ut	626
 谨小慎微	jǐn;yw siǎo;lb shèn;xb wēi;rj	970
-进校时候	zìn;zj xiào;af shí;to hou;ru	3
+进校时候	zìn;zj xiào;af shí;to hòu;ru	3
 今宵有酒	jīn;rv siāo;bo yǒu;uo ziǔ;dy	194
 今宵月色	jīn;rv siāo;bo yuè;ke sè;db	130
 谨谢不敏	jǐn;yw siè;yc bù;ab mǐn;pw	76
@@ -177363,6 +177369,7 @@ sort: by_weight
 旧仇新恨	jiù;lo chóu;rj sīn;lt hèn;xg	144
 旧愁新恨	jiù;lo chóu;hx sīn;lt hèn;xg	99
 旧愁新怨	jiù;lo chóu;hx sīn;lt yuàn;xx	45
+就出不来	ziù;wy chū;uu bù;ab lái;aa	50
 就处对象	ziù;wy chù;wb duì;yc siàng;du	270
 就初二了	ziù;wy chū;pd èr;aa le;al	180
 就出来了	ziù;wy chū;uu lái;aa le;al	1310
@@ -186573,6 +186580,7 @@ sort: by_weight
 六大关节	liù;wb dà;ar guān;bt zié;ce	76
 刘大先生	liú;wd dà;ar siān;ne sheng;pf	117
 榴弹机枪	liú;at dàn;gu jī;aj ciāng;av	274
+榴弹沥青	liú;at dàn;gu lì;dl cīng;fo	23
 六道仙人	liù;wb dào;zz siān;ru rén;pn	223
 六道仙尊	liù;wb dào;zz siān;ru zūn;bc	4
 六道新君	liù;wb dào;zz sīn;lt jūn;yk	45
@@ -204181,6 +204189,7 @@ sort: by_weight
 情理之外	cíng;xo lǐ;wl zhī;dn wài;xb	69
 情理之中	cíng;xo lǐ;wl zhī;dn zhōng;kl	3595
 清理助手	cīng;do lǐ;wl zhù;ql shǒu;pf	3
+青联常委	cīng;fo lián;et cháng;xj wěi;hn	10
 青莲酒家	cīng;fo lián;ci ziǔ;dy jiā;bu	238
 青莲上街	cīng;fo lián;ci shàng;ba jiē;rt	162
 青连铁路	cīng;fo lián;zi tiě;jf lù;zk	414
@@ -204192,6 +204201,7 @@ sort: by_weight
 清廉正直	cīng;do lián;gj zhèng;av zhí;uq	44
 清廉指数	cīng;do lián;gj zhǐ;fo shù;mw	490
 轻怜重惜	qīng;ij lián;xs zhòng;ql siī;xo	4
+青联主席	cīng;fo lián;et zhǔ;wt sií;gj	10
 清廉自矢	cīng;do lián;gj zì;po shǐ;pd	117
 清廉自守	cīng;do lián;gj zì;po shǒu;bc	302
 青联组织	cīng;fo lián;et zǔ;sq zhī;sv	248
@@ -212922,19 +212932,11 @@ sort: by_weight
 山地情歌	shān;kl dì;ty cíng;xo gē;kq	189
 山地情怀	shān;kl dì;ty cíng;xo huái;xb	76
 闪电突袭	shǎn;mr diàn;ov tū;bq sií;ly	346
-山东玻纤	shān;kl dōng;ax bō;wp siān;sq	153
-山东电信	shān;kl dōng;ax diàn;ov sìn;rk	243
-山东华信	shān;kl dōng;ax huá;ru sìn;rk	99
 山东郡姓	shān;kl dōng;ax jùn;ye sìng;nu	130
-山东蓝翔	shān;kl dōng;ax lán;cm siáng;yx	25
 煽动情绪	shān;hx dòng;yl cíng;xo sǜ;so	612
 煽动人心	shān;hx dòng;yl rén;pn sīn;dd	382
-山东三箭	shān;kl dōng;ax sān;ae ziàn;vd	76
-山东天齐	shān;kl dōng;ax tiān;ad cií;wl	99
 闪动头像	shǎn;mr dòng;yl tóu;dd siàng;ru	4
-山东西王	shān;kl dōng;ax siī;ak wáng;at	279
 山东信和	shān;kl dōng;ax sìn;rk hé;hk	212
-山东巡抚	shān;kl dōng;ax sǘn;zv fǔ;fw	702
 山二小学	shān;kl èr;aa siǎo;lb xué;xz	4
 删繁就简	shān;cd fán;px ziù;wy jiǎn;vo	286
 陕飞集团	shǎn;ej fēi;vd zií;ra tuán;wc	180
@@ -252911,6 +252913,7 @@ sort: by_weight
 雪莲虫草	süě;ye lián;ci chóng;vd cǎo;cu	4
 雪莲归芪	süě;ye lián;ci guī;le qí;cu	45
 雪莲药垫	süě;ye lián;ci yào;cu diàn;ft	99
+学联主席	xué;xz lián;et zhǔ;wt sií;gj	10
 雪亮工程	süě;ye liàng;wj gōng;aa chéng;hw	252
 雪亮军刀	süě;ye liàng;wj jūn;bi dāo;vp	292
 雪亮眼镜	süě;ye liàng;wj yǎn;og jìng;je	180
@@ -262393,8 +262396,7 @@ sort: by_weight
 雨点儿小	yǔ;ad diǎn;vh ér;pv siǎo;lb	3
 预定程序	yù;yy dìng;bz chéng;hw sǜ;gy	441
 预订酒店	yù;yy dìng;yd ziǔ;dy diàn;gv	1030
-预订热线	yù;yy dìng;yd rè;fh siàn;sj	3
-预定热线	yù;yy dìng;bz rè;fh siàn;sj	2
+预订热线	yù;yy dìng;yd rè;fh siàn;sj	32
 预定鲜花	yù;yy dìng;bz siān;yy huā;cb	207
 预定新兵	yù;yy dìng;bz sīn;lt bīng;qb	274
 预订信息	yù;yy dìng;yd sìn;rk siī;zx	747
@@ -277645,7 +277647,7 @@ sort: by_weight
 干瘪的钱包	gān;au biě;bl de;bu cián;jj bāo;bs	10
 感不感兴趣	gǎn;gx bù;ab gǎn;gx xìng;xb cǜ;ty	10
 甘丹五供节	gān;ca dān;kd wǔ;aw gōng;rg zié;ce	10
-干的那些事	gàn;au de;bu nà;ve siē;ve shì;gy	1000
+干的那些事	gān;au de;bu nà;ve siē;ve shì;gy	1000
 肝恶性肿瘤	gān;og è;yx sìng;xu zhǒng;ov liú;bt	10
 感恩的心态	gǎn;gx ēn;yx de;bu sīn;dd tài;tx	10
 感恩节火鸡	gǎn;gx ēn;yx zié;ce huǒ;br jī;yn	10
@@ -290662,11 +290664,9 @@ sort: by_weight
 乌鲁木齐仓	wū;pa lǔ;yo mù;ur cií;wl cāng;rv	10
 乌鲁木齐到	wū;pa lǔ;yo mù;ur cií;wl dào;gd	10
 乌鲁木齐的	wū;pa lǔ;yo mù;ur cií;wl de;bu	10
-乌鲁木齐二	wū;pa lǔ;yo mù;ur cií;wl èr;aa	10
 乌鲁木齐河	wū;pa lǔ;yo mù;ur cií;wl hé;dk	10
 乌鲁木齐路	wū;pa lǔ;yo mù;ur cií;wl lù;zk	10
 乌鲁木齐南	wū;pa lǔ;yo mù;ur cií;wl nán;ug	10
-乌鲁木齐七	wū;pa lǔ;yo mù;ur cií;wl ciī;av	10
 乌鲁木齐去	wū;pa lǔ;yo mù;ur cií;wl qù;ts	10
 乌鲁木齐人	wū;pa lǔ;yo mù;ur cií;wl rén;pn	10
 五氯硝基苯	wǔ;aw lǜ;qu siāo;uo jī;ct běn;cb	10
@@ -290679,7 +290679,6 @@ sort: by_weight
 屋旁的青草	wū;ut páng;wf de;bu cīng;fo cǎo;cu	10
 武平节度使	wǔ;gv píng;au zié;ce dù;gy shǐ;rl	10
 武器的属性	wǔ;gv qì;xx de;bu shǔ;uy sìng;xu	10
-吴奇隆前妻	wú;kt qí;dk lóng;eu cián;bd ciī;un	10
 吾妻日出夫	wú;wk ciī;un rì;wa chū;uu fū;er	10
 五七一工程	wǔ;aw ciī;av yī;aa gōng;aa chéng;hw	10
 吾峠呼世晴	wú;wk qiǎ;ux hū;kh shì;cv cíng;oo	10
@@ -293749,6 +293748,7 @@ sort: by_weight
 心跳漏一拍	sīn;dd tiào;zv lòu;dy yì;aa pāi;fb	10
 新铁血战士	sīn;lt tiě;jf xuè;pm zhàn;vg shì;ua	10
 心痛的感觉	sīn;dd tòng;by de;bu gǎn;gx jué;xj	10
+心嗵嗵地跳	sīn;dd tōng;ky tōng;ky dì;ty tiào;zv	10
 心痛与坚强	sīn;dd tòng;by yǔ;va jiān;lt qiáng;gi	10
 信徒的洗礼	sìn;rk tú;rz de;bu siǐ;de lǐ;pv	10
 信徒皆祭司	sìn;rk tú;rz jiē;bb ziì;xu sī;vk	10
@@ -305064,6 +305064,7 @@ sort: by_weight
 路越远心越近	lù;zk yuè;tl yuǎn;zy sīn;dd yuè;tl jìn;zt	10
 乱穿衣的季节	luàn;uv chuān;by yī;wy de;bu jì;hz zié;ce	10
 乱的七七八八	luàn;uv de;bu ciī;av ciī;av bā;pn bā;pn	10
+乱七八糟的人	luàn;uv ciī;av bā;pn zāo;mo de;bu rén;pn	10
 乱七八糟的事	luàn;uv ciī;av bā;pn zāo;mo de;bu shì;gy	10
 乱枪打鸟论证	luàn;uv ciāng;av dǎ;fd niǎo;na lùn;yl zhèng;yv	10
 孪生素数猜想	luán;wz shēng;pf sù;fx shù;mw cāi;qo siǎng;ax	10
@@ -306966,43 +306967,6 @@ sort: by_weight
 全攻全守足球	cüán;rw gōng;gw cüán;rw shǒu;bc zú;kz qiú;wq	10
 全国百强县市	cüán;rw guó;wy bǎi;ab qiáng;gi xiàn;qs shì;wj	10
 全过程的管理	cüán;rw guò;zc chéng;hw de;bu guǎn;vl lǐ;wl	10
-全国成人高考	cüán;rw guó;wy chéng;gv rén;pn gāo;wk kǎo;lk	10
-全国大中城市	cüán;rw guó;wy dà;ar zhōng;kl chéng;ti shì;wj	10
-全国第一方阵	cüán;rw guó;wy dì;vd yī;aa fāng;wv zhèn;ei	10
-全国电子商务	cüán;rw guó;wy diàn;ov zǐ;la shāng;wk wù;wl	10
-全国独一无二	cüán;rw guó;wy dú;qi yī;aa wú;ay èr;aa	10
-全国对外友协	cüán;rw guó;wy duì;yc wài;xb yǒu;uy xié;ub	10
-全国复兴总署	cüán;rw guó;wy fù;pw xīng;xb zǒng;bx shǔ;so	10
-全国高速公路	cüán;rw guó;wy gāo;wk sù;zu gōng;bs lù;zk	10
-全国高血压日	cüán;rw guó;wy gāo;wk xuè;pm yā;id rì;wa	10
-全国各大高校	cüán;rw guó;wy gè;wk dà;ar gāo;wk xiào;af	10
-全国各省区市	cüán;rw guó;wy gè;wk shěng;uo qū;kx shì;wj	10
-全国各族人民	cüán;rw guó;wy gè;wk zú;fu rén;pn mín;vv	10
-全国互济总会	cüán;rw guó;wy hù;ah ziì;dq zǒng;bx huì;ry	10
-全国互联互通	cüán;rw guó;wy hù;ah lián;et hù;ah tōng;zy	10
-全国京都会议	cüán;rw guó;wy jīng;wx dū;le huì;ry yì;yy	10
-全国劳工联盟	cüán;rw guó;wy láo;cl gōng;aa lián;et méng;om	10
-全国联行往来	cüán;rw guó;wy lián;et háng;rd wǎng;rv lái;aa	10
-全国名老中医	cüán;rw guó;wy míng;xk lǎo;lb zhōng;kl yī;ku	10
-全国农技中心	cüán;rw guó;wy nóng;by jì;fv zhōng;kl sīn;dd	10
-全国青联常委	cüán;rw guó;wy cīng;fo lián;et cháng;xj wěi;hn	10
-全国青联委员	cüán;rw guó;wy cīng;fo lián;et wěi;hn yuán;kb	10
-全国青联主席	cüán;rw guó;wy cīng;fo lián;et zhǔ;wt sií;gj	10
-全国人大常委	cüán;rw guó;wy rén;pn dà;ar cháng;xj wěi;hn	10
-全国摄影大展	cüán;rw guó;wy shè;fy yǐng;op dà;ar zhǎn;uy	10
-全国十佳林场	cüán;rw guó;wy shí;al jiā;rt lín;aa chǎng;tp	10
-全国十佳农民	cüán;rw guó;wy shí;al jiā;rt nóng;by mín;vv	10
-全国数一数二	cüán;rw guó;wy shǔ;mw yī;aa shǔ;mw èr;aa	10
-全国通话时间	cüán;rw guó;wy tōng;zy huà;yu shí;to jiān;mo	10
-全国脱贫攻坚	cüán;rw guó;wy tuō;ox pín;fb gōng;gw jiān;lt	10
-全国文明县城	cüán;rw guó;wy wén;wx míng;oo xiàn;qs chéng;ti	10
-全国武术冠军	cüán;rw guó;wy wǔ;gv shù;ad guàn;bc jūn;bi	10
-全国新课标卷	cüán;rw guó;wy sīn;lt kè;yg biāo;au juǎn;jv	10
-全国畜牧总站	cüán;rw guó;wy xù;xt mù;nw zǒng;bx zhàn;lv	10
-全国学联主席	cüán;rw guó;wy xué;xz lián;et zhǔ;wt sií;gj	10
-全国政协常委	cüán;rw guó;wy zhèng;vw xié;ub cháng;xj wěi;hn	10
-全国政协文史	cüán;rw guó;wy zhèng;vw xié;ub wén;wx shǐ;kn	10
-全国重点高校	cüán;rw guó;wy zhòng;ql diǎn;vh gāo;wk xiào;af	10
 全函数式编程	cüán;rw hán;ku shù;mw shì;gg biān;sc chéng;hw	10
 全集在线观看	cüán;rw zií;ra zài;ut siàn;sj guān;yj kàn;uo	10
 全景倒车影像	cüán;rw jǐng;ox dào;rd chē;au yǐng;op siàng;ru	10
@@ -309596,7 +309560,6 @@ sort: by_weight
 我可以娶你吗	wǒ;ga kě;dk yǐ;lr cǚ;en nǐ;rx ma;km	10
 沃克艺术中心	wò;dy kè;ux yì;cv shù;ad zhōng;kl sīn;dd	10
 我恋爱的一切	wǒ;ga liàn;wx ài;vy de;bu yí;aa ciè;qd	10
-我们的千阙歌	wǒ;ga men;rm de;bu ciān;pu quē;mq gē;kq	10
 我们欢聚一堂	wǒ;ga men;rm huān;yq zǜ;eu yì;aa táng;xt	10
 我妻子的一切	wǒ;ga ciī;un zǐ;la de;bu yí;aa ciè;qd	10
 我亲爱的爸爸	wǒ;ga cīn;la ài;vy de;bu bà;fb ba;fb	10
@@ -315564,7 +315527,6 @@ sort: by_weight
 打蛇打到七寸上	dǎ;fd shé;ib dǎ;fd dào;gd ciī;av cùn;ud shàng;ba	10
 大唐御史谢瑶环	dà;ar táng;gk yù;re shǐ;kn siè;yc yáo;wf huán;wb	10
 打铁必须自身硬	dǎ;fd tiě;jf bì;xp sǖ;py zì;po shēn;zc yìng;ug	10
-打铁还需本身硬	dǎ;fd tiě;jf hái;zb sǖ;ye běn;aa shēn;zc yìng;ug	10
 打铁还需自身硬	dǎ;fd tiě;jf hái;zb sǖ;ye zì;po shēn;zc yìng;ug	10
 打铁先得自身硬	dǎ;fd tiě;jf siān;ne děi;rc zì;po shēn;zc yìng;ug	10
 大屠杀纪念中心	dà;ar tú;uo shā;xa jì;sj niàn;rx zhōng;kl sīn;dd	10
@@ -318988,7 +318950,7 @@ sort: by_weight
 讯号源编码定理	sǜn;yu hào;kk yuán;dx biān;sc mǎ;um dìng;bz lǐ;wl	10
 逊克卫生检疫局	sǜn;zx kè;ux wèi;ea shēng;pf jiǎn;aq yì;bu jú;uk	10
 寻龙分金看缠山	sǘn;ec lóng;yp fēn;bd jīn;rb kàn;uo chán;sl shān;kl	10
-寻声暗问弹者谁	sǘn;ec shēng;tu àn;oo wèn;mk dàn;gu zhě;lo shuí;yv	10
+寻声暗问弹者谁	sǘn;ec shēng;tu àn;oo wèn;mk tán;gu zhě;lo shuí;yv	10
 巡视质效有提升	sǘn;zv shì;pj zhì;ib xiào;ww yǒu;uo tí;fz shēng;pc	10
 巡天遥看一千河	sǘn;zv tiān;ad yáo;zf kàn;uo yì;aa ciān;pu hé;dk	10
 浔阳地僻无音乐	sǘn;dc yáng;eo dì;ty pì;rx wú;ay yīn;lo yuè;px	10
