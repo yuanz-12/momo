@@ -2194,6 +2194,7 @@ sort: by_weight
 甲硼烷	jiǎ;ol péng;uo wán;hy	346
 甲铅烷	jiǎ;ol qiān;jk wán;hy	4
 甲壳素	jiǎ;ol qiào;tj sù;fx	22
+甲壳质	jiǎ;ol qiào;tj zhì;ib	428
 加氢苯	jiā;lk qīng;qj běn;cb	117
 甲醛肟	jiǎ;ol quán;yw wò;ok	243
 甲炔基	jiǎ;ol quē;hg jī;ct	76
@@ -3694,7 +3695,6 @@ sort: by_weight
 七氯萘	qī;av lǜ;qu nài;cu	45
 七碳糖	qī;av tàn;uh táng;mk	99
 七叶苷	qī;av yè;ku gān;cg	4
-甲壳质	qiǎ;ol qiào;tj zhì;ib	428
 铅玻璃	qiān;jk bō;wp lí;wn	13
 茜草红	qiàn;cx cǎo;cu hóng;sg	212
 茜根酸	qiàn;cx gēn;ag suān;yw	50
@@ -28694,7 +28694,6 @@ sort: by_weight
 正辛基焦磷酸	zhèng;av xīn;lu jī;ct jiāo;rh lín;uf suān;yw	10
 正性肌力作用	zhèng;av xìng;xu jī;oj lì;vp zuò;rv yòng;kf	10
 正型角化过度	zhèng;av xíng;kt jiǎo;dy huà;rb guò;zc dù;gy	10
-整形外科医师	zhěng;uv xíng;kp wài;xb kē;hd yī;ku shī;lj	10
 正压通气连接	zhèng;av yā;id tōng;zy qì;pv lián;zi jiē;fn	10
 正中弓状韧带	zhèng;av zhōng;kl gōng;vv zhuàng;lq rèn;wd dài;cj	10
 直肠局部灌注	zhí;uq cháng;op jú;uk bù;le guàn;dv zhù;dv	10
@@ -32906,8 +32905,6 @@ sort: by_weight
 正铁血红蛋白尿	zhèng;av tiě;jf xuè;pm hóng;sg dàn;zi bái;po niào;uu	10
 正铁血红蛋白血	zhèng;av tiě;jf xuè;pm hóng;sg dàn;zi bái;po xuè;pm	10
 正戊氧基化合物	zhèng;av wù;gp yǎng;qy jī;ct huà;rb hé;rk wù;nw	10
-整形美容外科学	zhěng;uv xíng;kp měi;yd róng;bg wài;xb kē;hd xué;xz	10
-支持性心理治疗	zhī;uy chí;fc xìng;xu xīn;dd lǐ;wl zhì;dk liáo;bl	10
 制戴活动矫正器	zhì;nd dài;gg huó;du dòng;yl jiǎo;ul zhèng;av qì;xx	10
 脂蛋白代谢紊乱	zhī;oo dàn;zi bái;po dài;rg xiè;yc wěn;wx luàn;uv	10
 脂肪酸代谢紊乱	zhī;oo fáng;of suān;yw dài;rg xiè;yc wěn;wx luàn;uv	10
