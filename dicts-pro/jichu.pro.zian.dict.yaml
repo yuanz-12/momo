@@ -962,7 +962,6 @@ sort: by_weight
 重新	chóng;ql sīn;lt	64417
 崇信	chóng;uu sìn;rk	430
 宠信	chǒng;bl sìn;rk	344
-种姓	chóng;hv sìng;nu	753
 重修	chóng;ql siū;rp	2842
 重续	chóng;ql sǜ;sd	41
 重选	chóng;ql süǎn;ze	214
@@ -9428,7 +9427,7 @@ sort: by_weight
 切屏	ciē;qd píng;uk	298
 切破	ciē;qd pò;up	13
 切枪	ciē;qd ciāng;av	251
-切切	ciē;qd ciē;qd	386
+切切	ciè;qd ciè;qd	386
 窃窃	ciè;bd ciè;bd	87
 切球	ciē;qd qiú;wq	657
 且求	ciě;oa qiú;au	543
@@ -13248,9 +13247,9 @@ sort: by_weight
 五节	wǔ;aw zié;ce	45
 五接	wǔ;aw ziē;fn	28
 无尽	wú;ay zìn;id	3511
+勿进	wù;bp zìn;zj	143
 武进	wǔ;gv zìn;zj	108
 五进	wǔ;aw zìn;zj	68
-勿进	wù;bp zìn;zj	43
 芜菁	wú;cw zīng;co	389
 武井	wǔ;gv zǐng;ac	304
 悟净	wù;xk zìng;dy	243
@@ -21137,6 +21136,7 @@ sort: by_weight
 众心	zhòng;rr sīn;dd	124
 中芯	zhōng;kl sīn;cx	99
 中性	zhōng;kl sìng;xu	5652
+种姓	zhǒng;hv sìng;nu	753
 众星	zhòng;rr sīng;ou	248
 种性	zhǒng;hv sìng;xu	130
 中星	zhōng;kl sīng;ou	104
@@ -28000,7 +28000,6 @@ sort: by_weight
 齿状线	chǐ;vr zhuàng;lq siàn;sj	513
 赤子情	chì;tb zǐ;la cíng;xo	9
 赤子心	chì;tb zǐ;la sīn;dd	97
-重本线	chóng;ql běn;aa siàn;sj	608
 充不进	chōng;wy bú;ab zìn;zj	44
 冲不进	chōng;dv bú;ab zìn;zj	40
 冲淡剂	chōng;dv dàn;dh ziì;qd	4
@@ -68858,6 +68857,7 @@ sort: by_weight
 内环线	nèi;kr huán;wb siàn;sj	22
 内接法	nèi;kr ziē;fn fǎ;dq	130
 内接形	nèi;kr ziē;fn xíng;kp	4
+内接圆	nèi;kr ziē;fn yuán;wb	14
 内静脉	nèi;kr zìng;fy mài;oy	612
 内聚的	nèi;kr zǜ;eu de;bu	279
 内聚力	nèi;kr zǜ;eu lì;vp	110
@@ -77031,9 +77031,9 @@ sort: by_weight
 切平面	ciè;qd píng;au miàn;ao	53
 且平时	ciě;oa píng;au shí;to	819
 切起来	ciè;qd qǐ;tj lái;aa	41
-切切吧	ciē;qd ciē;qd ba;kb	189
-切切地	ciē;qd ciē;qd de;ty	134
-切切看	ciē;qd ciē;qd kàn;uo	540
+切切吧	ciè;qd ciè;qd ba;kb	189
+切切地	ciè;qd ciè;qd de;ty	134
+切切看	ciè;qd ciè;qd kàn;uo	540
 窃取了	ciè;bd cǚ;ey le;al	783
 切曲面	ciè;qd qū;wc miàn;ao	76
 窃取其	ciè;bd cǚ;ey qí;cb	6
@@ -128946,6 +128946,7 @@ sort: by_weight
 中安消	zhōng;kl ān;bn siāo;do	729
 种芭蕉	zhòng;hv bā;cb ziāo;ch	310
 众百姓	zhòng;rr bǎi;ab sìng;nu	598
+重本线	zhòng;ql běn;aa siàn;sj	608
 中编辑	zhōng;kl biān;sc zií;ie	207
 钟表匠	zhōng;jv biǎo;fy ziàng;kt	163
 种表情	zhǒng;hv biǎo;fy cíng;xo	927
@@ -134351,7 +134352,7 @@ sort: by_weight
 北岸新洲	běi;lb àn;ug sīn;lt zhōu;dv	4
 北岸印象	běi;lb àn;ug yìn;pe siàng;du	99
 悲悲戚戚	bēi;fx bēi;fx ciī;gx ciī;gx	22
-悲悲切切	bēi;fx bēi;fx ciè;qd ciē;qd	19
+悲悲切切	bēi;fx bēi;fx ciè;qd ciè;qd	19
 背本趋末	bèi;bo běn;aa cǖ;te mò;aa	76
 卑鄙小人	bēi;pu bǐ;ke siǎo;lb rén;pn	198
 被逼自尽	bèi;pp bī;zt zì;po zìn;id	22
@@ -138900,7 +138901,7 @@ sort: by_weight
 草暗斜川	cǎo;cu àn;oo sié;rd chuān;pl	76
 操不操心	cāo;fa bù;ab cāo;fa sīn;dd	76
 曹操妻妾	cáo;co cāo;fa ciī;un ciè;ln	320
-嘈嘈切切	cáo;ko cáo;ko ciē;qd ciē;qd	13
+嘈嘈切切	cáo;ko cáo;ko ciè;qd ciè;qd	13
 曹操武将	cáo;co cāo;fa wǔ;gv ziàng;lc	144
 草场面积	cǎo;cu chǎng;tp miàn;ao ziī;hv	387
 曹冲称象	cáo;co chōng;dv chēng;hx siàng;du	94
@@ -166932,7 +166933,7 @@ sort: by_weight
 继续坚守	jì;sm sǜ;sd jiān;lt shǒu;bc	634
 继续降低	jì;sm sǜ;sd jiàng;ef dī;ru	176
 继续讲哦	jì;sm sǜ;sd jiǎng;yj ó;kw	52
-继续教了	jì;sm sǜ;sd jiào;lw le;al	202
+继续教了	jì;sm sǜ;sd jiāo;lw le;al	202
 继续交往	jì;sm sǜ;sd jiāo;wf wǎng;rv	747
 继续教育	jì;sm sǜ;sd jiào;lw yù;wo	1463
 急需解决	jí;dx sǖ;ye jiě;dn jué;dg	188
@@ -196360,7 +196361,7 @@ sort: by_weight
 欺负新人	qī;cq fu;db sīn;lt rén;pn	477
 祈福迎祥	qí;pt fú;pt yíng;ze siáng;py	220
 脐腹作痛	cií;oq fù;ow zuò;rv tòng;by	153
-气干云霄	qì;pv gàn;au yún;ag siāo;yo	99
+气干云霄	qì;pv gān;au yún;ag siāo;yo	99
 气缸容积	qì;pv gāng;fg róng;bg ziī;hv	472
 七高八低	ciī;av gāo;wk bā;pn dī;ru	3
 七搞八搞	ciī;av gǎo;fk bā;pn gǎo;fk	297
@@ -201894,10 +201895,10 @@ sort: by_weight
 窃弄威福	ciè;bd nòng;wc wēi;gn fú;pt	117
 窃弄威权	ciè;bd nòng;wc wēi;gn quán;ay	3
 切片石腊	ciē;qd piàn;pv shí;ak là;oo	45
-切切偲偲	ciē;qd ciē;qd cāi;rx cāi;rx	76
-切切察察	ciē;qd ciē;qd chá;bu chá;bu	194
+切切偲偲	ciè;qd ciè;qd cāi;rx cāi;rx	76
+切切察察	ciè;qd ciè;qd chá;bu chá;bu	194
 切切此布	ciè;qd ciè;qd cǐ;vb bù;uj	99
-切切割割	ciē;qd ciē;qd gē;bd gē;bd	76
+切切割割	ciè;qd ciè;qd gē;bd gē;bd	76
 切切实实	ciè;qd ciè;qd shí;bd shí;bd	1024
 窃窃私议	ciè;bd ciè;bd sī;hs yì;yy	382
 窃窃私语	ciè;bd ciè;bd sī;hs yǔ;yk	917
@@ -235548,6 +235549,7 @@ sort: by_weight
 仙人球球	siān;ru rén;pn qiú;wq qiú;wq	171
 仙人球头	siān;ru rén;pn qiú;wq tóu;dd	45
 仙人晒靴	siān;ru rén;pn shài;ox xuē;cb	117
+闲人勿进	xián;ma rén;pn wù;bp zìn;zj	80
 仙人下凡	siān;ru rén;pn xià;ab fán;jd	310
 仙人下棋	siān;ru rén;pn xià;ab qí;ab	266
 先人一步	siān;ne rén;pn yí;aa bù;vu	706
@@ -314937,7 +314939,7 @@ sort: by_weight
 苍术甘草姜枣齐	cāng;cv zhú;ad gān;ca cǎo;cu jiāng;yn zǎo;ud cií;wl	10
 曹阿瞒兵退斜谷	cáo;co ā;ek mán;ol bīng;qb tuì;zg sié;rd gǔ;bk	10
 曹操大宴铜雀台	cáo;co cāo;fa dà;ar yàn;bn tóng;jk cüè;xv tái;sk	10
-嘈嘈切切错杂弹	cáo;ko cáo;ko ciē;qd ciē;qd cuò;jo zá;ja dàn;gu	10
+嘈嘈切切错杂弹	cáo;ko cáo;ko ciè;qd ciè;qd cuò;jo zá;ja tán;gu	10
 曹操煮酒论英雄	cáo;co cāo;fa zhǔ;lh ziǔ;dy lùn;yl yīng;cy xióng;uv	10
 曹家堡国际机场	cáo;co jiā;bu bǎo;rt guó;wy ziì;eu jī;aj chǎng;tp	10
 操控性和舒适性	cāo;fa kòng;fg sìng;xu hé;hk shū;ry shì;zu sìng;xu	10
@@ -317321,7 +317323,7 @@ sort: by_weight
 苦恨年年压金线	kǔ;cg hèn;xg nián;pf nián;pf yā;id jīn;rb siàn;sj	10
 苦酒折柳今相离	kǔ;cg ziǔ;dy zhé;ft liǔ;ae jīn;rv siāng;ao lí;wn	10
 库木吐喇千佛洞	kù;gi mù;ur tǔ;kt lǎ;kd ciān;pu fó;rf dòng;dk	10
-哭声直上干云霄	kū;xq shēng;tu zhí;uq shàng;ba gàn;au yún;ag siāo;yo	10
+哭声直上干云霄	kū;xq shēng;tu zhí;uq shàng;ba gān;au yún;ag siāo;yo	10
 枯松倒挂倚绝壁	kū;ag sōng;ag dào;rd guà;ft yǐ;rk züé;sb bì;ut	10
 跨膜信号转换器	kuà;zk mó;od sìn;rk hào;kk zhuǎn;iv huàn;fr qì;xx	10
 快阁东西倚晚晴	kuài;xg gé;mk dōng;ax sii;ak yǐ;rk wǎn;oe cíng;oo	10
@@ -317458,7 +317460,7 @@ sort: by_weight
 满身雪白走将来	mǎn;dl shēn;zc süě;ye bái;po zǒu;tz ziāng;lc lái;aa	10
 曼秀雷登薄荷膏	màn;oy siù;hn léi;yt dēng;bb bò;cc he;ck gāo;wo	10
 满袖杨花听杜鹃	mǎn;dl siù;py yáng;ap huā;cb tīng;kt dù;at juān;kn	10
-满座重闻皆掩泣	mǎn;dl zuò;gr zhòng;ql wén;me jiē;bb yǎn;fd ciì;dl	10
+满座重闻皆掩泣	mǎn;dl zuò;gr chóng;ql wén;me jiē;bb yǎn;fd ciì;dl	10
 茅村汉画像石墓	máo;cm cūn;ac hàn;dy huà;at siàng;ru shí;ak mù;ct	10
 茅檐长扫净无苔	máo;cm yán;ak cháng;pn sǎo;fe zìng;dy wú;ay tái;ck	10
 茅檐长扫静无苔	máo;cm yán;ak cháng;pn sǎo;fe zìng;fy wú;ay tái;ck	10
@@ -318778,7 +318780,7 @@ sort: by_weight
 肖维涅舍弃判据	siāo;xo wéi;sv niè;dt shě;rg qì;wc pàn;bd jù;fg	10
 笑问客从何处来	siào;vy wèn;mk kè;bk cóng;rr hé;rk chù;wb lái;aa	10
 小溪泛尽却山行	siǎo;lb xī;dd fàn;df zìn;id què;qe shān;kl xíng;rd	10
-小弦切切如私语	siǎo;lb xián;gx ciē;qd ciē;qd rú;nk sī;hs yǔ;yk	10
+小弦切切如私语	siǎo;lb xián;gx ciè;qd ciè;qd rú;nk sī;hs yǔ;yk	10
 萧萧黄叶闭疏窗	siāo;cb siāo;cb huáng;cb yè;ku bì;mc shū;vi chuāng;bw	10
 萧萧暮雨子规啼	siāo;cb siāo;cb mù;co yǔ;ad zǐ;la guī;fj tí;kj	10
 萧萧梧叶送寒声	siāo;cb siāo;cb wú;ak yè;ku sòng;zt hán;bd shēng;tu	10
