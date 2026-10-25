@@ -267,8 +267,8 @@ sort: by_weight
 葛藟	gé;cr lěi;ct	55
 歌令	gē;kq lìng;rs	55
 个侬	gè;rl nóng;ry	55
-葛覃	gě;cr qín;xu	55
 葛生	gé;cr shēng;pf	55
+葛覃	gě;cr tán;xu	55
 阁夜	gé;mk yè;ww	55
 耿湋	gěng;eh wéi;df	55
 耿玮	gěng;eh wěi;ww	55
@@ -7173,6 +7173,7 @@ sort: by_weight
 汉祖吕氏	hàn;dy zǔ;pq lǚ;kk shì;pv	10
 捍阻羌夷	hàn;fg zǔ;eq qiāng;yv yí;ar	10
 汉祚惟永	hàn;dy zuò;pv wéi;xv yǒng;du	10
+行行如也	hàng;rd hàng;rd rú;nk yě;vv	44
 杭州春望	háng;aj zhōu;dl chūn;io wàng;ww	10
 杭州等地	háng;aj zhōu;dl děng;vc dì;ty	44
 好伴云来	hǎo;nz bàn;rb yún;ag lái;aa	10
@@ -14983,7 +14984,6 @@ sort: by_weight
 行夏之时	xíng;rd xià;bw zhī;dn shí;to	44
 形象很美	xíng;kp xiàng;du hěn;rg měi;yd	10
 性相近也	xìng;xu xiāng;ao jìn;zt yě;vv	44
-行行如也	xíng;rd xíng;rd rú;nk yě;vv	44
 性修反德	xìng;xu xiū;rp fǎn;iy dé;rx	10
 兴言自在	xīng;xb yán;wk zì;po zài;ut	10
 行摇飞鸣	xíng;rd yáo;ff fēi;vd míng;kn	10
@@ -240348,7 +240348,7 @@ sort: by_weight
 白环则西山献琛	bái;po huán;wb zé;bd xī;ak shān;kl xiàn;uq chēn;wa	10
 百回看著无花树	bǎi;ab huí;wk kàn;uo zhù;co wú;ay huā;cb shù;ac	10
 百回杀人身合死	bǎi;ab huí;wk shā;xa rén;pn shēn;zc hé;rk sǐ;db	10
-白灰旋拨通红火	bái;po huī;uh xuán;fz bō;fy tòng;zy hóng;sg huǒ;br	10
+白灰旋拨通红火	bái;po huī;uh xuán;fz bō;fy tōng;zy hóng;sg huǒ;br	10
 白鸡白犬到人家	bái;po jī;yn bái;po quǎn;dd dào;gd rén;pn jiā;bu	10
 百忌不容亲酒具	bǎi;ab jì;jx bù;ab róng;bg qīn;la jiǔ;dy jù;qb	10
 百计经营夜负舟	bǎi;ab jì;yu jīng;sj yíng;ck yè;ww fù;db zhōu;pd	10
@@ -252454,7 +252454,7 @@ sort: by_weight
 弟妹飘零不相见	dì;bd mèi;nw piāo;xf líng;ys bù;ab xiāng;ao jiàn;ke	10
 弟妹妻孥小侄甥	dì;bd mèi;nw qī;un nú;nz xiǎo;lb zhí;rt shēng;ul	10
 弟妹萧条各何往	dì;bd mèi;nw xiāo;cb tiáo;wa gè;wk hé;rk wǎng;rv	10
-低眉信手续续弹	dī;ru méi;uo xìn;rk shǒu;pf xù;sd xù;sd dàn;gu	10
+低眉信手续续弹	dī;ru méi;uo xìn;rk shǒu;pf xù;sd xù;sd tán;gu	10
 低迷不已断还连	dī;ru mí;zm bù;ab yǐ;kv duàn;vt hái;zb lián;zi	10
 籴米已无消息至	dí;rm mǐ;ba yǐ;kv wú;ay xiāo;do xi;zx zhì;gt	10
 低迷隐笑原非笑	dī;ru mí;zm yǐn;ex xiào;vy yuán;ix fēi;ls xiào;vy	10
@@ -300489,7 +300489,7 @@ sort: by_weight
 素华流年不待君	sù;fx huá;ru liú;di nián;pf bú;ab dài;rc jūn;yk	10
 素华朱实今虽尽	sù;fx huá;ru zhū;pw shí;bd jīn;rv suī;ki jìn;id	10
 宿惠难忘旧馆骖	sù;bb huì;ix nán;yv wàng;wx jiù;lo guǎn;ul cān;mp	10
-宿火通红手自焙	sù;bb huǒ;br tòng;zy hóng;sg shǒu;pf zì;po bèi;hk	10
+宿火通红手自焙	sù;bb huǒ;br tōng;zy hóng;sg shǒu;pf zì;po bèi;hk	10
 速寄长松作解嘲	sù;zu jì;bk cháng;pn sōng;ag zuò;rv jiě;dn cháo;ko	10
 俗驾今随水不回	sú;rg jià;lm jīn;rv suí;eo shuǐ;ln bù;ab huí;wk	10
 夙驾鸣鸾启阊阖	sù;jd jià;lm míng;kn luán;wn qǐ;hk chāng;mo hé;mm	10

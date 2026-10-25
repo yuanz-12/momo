@@ -5542,7 +5542,8 @@ sort: by_weight
 精艺	zīng;mo yì;cv	13
 静音	zìng;fy yīn;lo	5963
 精英	zīng;mo yīng;cy	17398
-晶莹	zīng;oo yíng;cy	552
+晶莹	zīng;oo yíng;cy	1552
+净赢	zìng;dy yíng;wb	300
 菁英	zīng;co yīng;cy	251
 精油	zīng;mo yóu;dy	2267
 净油	zìng;dy yóu;dy	131
@@ -15111,7 +15112,7 @@ sort: by_weight
 想哭	siǎng;ax kū;xq	3206
 想快	siǎng;ax kuài;xg	113
 像块	siàng;ru kuài;tg	107
-相框	siàng;ao kuāng;aw	1008
+相框	siàng;ao kuàng;aw	1008
 想拉	siǎng;ax lā;fl	408
 想啦	siǎng;ax la;kl	326
 想来	siǎng;ax lái;aa	12211
@@ -15723,8 +15724,9 @@ sort: by_weight
 笑点	siào;vy diǎn;vh	3457
 小电	siǎo;lb diàn;ov	1088
 小淀	siǎo;lb diàn;dz	312
-小调	siǎo;lb diào;yk	5982
-消掉	siāo;do diào;fu	697
+消掉	siāo;do diào;fu	5982
+笑掉	siào;vy diào;fu	697
+小调	siǎo;lb diào;yk	682
 销掉	siāo;jo diào;fu	433
 小碟	siǎo;lb dié;ua	220
 小蝶	siǎo;lb dié;ia	144
@@ -22754,7 +22756,7 @@ sort: by_weight
 把相机	bǎ;fb siàng;ao jī;aj	828
 把香蕉	bǎ;fb xiāng;ho ziāo;ch	716
 把橡胶	bǎ;fb siàng;au jiāo;of	388
-把相框	bǎ;fb siàng;ao kuāng;aw	356
+把相框	bǎ;fb siàng;ao kuàng;aw	356
 把相邻	bǎ;fb siāng;ao lín;re	410
 把想买	bǎ;fb siǎng;ax mǎi;ad	374
 把想念	bǎ;fb siǎng;ax niàn;rx	364
@@ -67090,6 +67092,7 @@ sort: by_weight
 没掏钱	méi;du tāo;ff cián;jj	410
 媒体集	méi;na tǐ;rb zií;ra	528
 没提前	méi;du tí;fz cián;bd	752
+没提取	méi;du tí;fz cǚ;ey	504
 媒体席	méi;na tǐ;rb sií;gj	346
 没提醒	méi;du tí;fz sǐng;yu	57
 每天将	měi;pm tiān;ad ziāng;lc	814
@@ -84760,7 +84763,7 @@ sort: by_weight
 少量酒	shǎo;xp liàng;ol ziǔ;dy	544
 稍慢些	shāo;ho màn;xy siē;ve	52
 稍难些	shāo;ho nán;yv siē;ve	52
-少男心	shǎo;xp nán;tl sīn;dd	482
+少男心	shào;xp nán;tl sīn;dd	482
 少年将	shào;xp nián;pf ziāng;lc	680
 少年情	shào;xp nián;pf cíng;xo	603
 少年笑	shào;xp nián;pf siào;vy	513
@@ -103300,7 +103303,7 @@ sort: by_weight
 想快进	siǎng;ax kuài;xg zìn;zj	495
 想快乐	siǎng;ax kuài;xg lè;px	35
 像快要	siàng;ru kuài;xg yào;xn	567
-相框里	siàng;ao kuāng;aw lǐ;tt	580
+相框里	siàng;ao kuàng;aw lǐ;tt	580
 想拉黑	siǎng;ax lā;fl hēi;lh	19
 像垃圾	siàng;ru lā;tl jī;tj	8
 香辣酱	xiāng;ho là;xu ziàng;ly	122
@@ -162663,6 +162666,7 @@ sort: by_weight
 换代新车	huàn;fr dài;rg sīn;lt chē;au	356
 环的直积	huán;wb de;bu zhí;uq ziī;hv	99
 环的中心	huán;wb de;bu zhōng;kl sīn;dd	297
+欢度春节	huān;yq dù;gy chūn;io zié;ce	223
 欢度佳节	huān;yq dù;gy jiā;rt zié;ce	3
 环堵萧然	huán;wb dǔ;to siāo;cb rán;xh	19
 欢度新年	huān;yq dù;gy sīn;lt nián;pf	382
@@ -182943,6 +182947,7 @@ sort: by_weight
 昆药集团	kūn;ob yào;cu zií;ra tuán;wc	477
 琨玉秋霜	kūn;wb yù;wd ciū;hh shuāng;yo	13
 阔步前进	kuò;mu bù;vu cián;bd zìn;zj	9
+阔步向前	kuò;mu bù;vu xiàng;pk cián;bd	223
 扩充章节	kuò;fg chōng;wy zhāng;lu zié;ce	4
 扩大就业	kuò;fg dà;ar ziù;wy yè;la	698
 扩大内需	kuò;fg dà;ar nèi;kr sǖ;ye	367
@@ -191285,8 +191290,8 @@ sort: by_weight
 木制佛像	mù;ur zhì;nd fó;rf siàng;ru	266
 木质积木	mù;ur zhì;ib ziī;hv mù;ur	180
 木制积木	mù;ur zhì;nd ziī;hv mù;ur	152
-木质相框	mù;ur zhì;ib siàng;ao kuāng;aw	252
-木制相框	mù;ur zhì;nd siàng;ao kuāng;aw	129
+木质相框	mù;ur zhì;ib siàng;ao kuàng;aw	252
+木制相框	mù;ur zhì;nd siàng;ao kuàng;aw	129
 目珠俱青	mù;we zhū;ww jù;rb cīng;fo	45
 母子感情	mǔ;md zǐ;la gǎn;gx cíng;xo	464
 目眦尽裂	mù;we zì;ob zìn;id liè;dy	44
@@ -193898,6 +193903,7 @@ sort: by_weight
 农村小学	nóng;by cūn;ac siǎo;lb xué;xz	97
 农村小院	nóng;by cūn;ac siǎo;lb yuàn;ey	292
 农村新报	nóng;by cūn;ac sīn;lt bào;fy	734
+农村信用	nóng;by cūn;ac sìn;rk yòng;kf	723
 农村宴席	nóng;by cūn;ac yàn;bn sií;gj	387
 浓淡相间	nóng;dy dàn;dh siāng;ao jiàn;mo	351
 浓淡相宜	nóng;dy dàn;dh siāng;ao yí;bq	585
@@ -198169,6 +198175,7 @@ sort: by_weight
 气象学史	qì;pv siàng;du xué;xz shǐ;kn	4
 气象谚语	qì;pv siàng;du yàn;yp yǔ;yk	297
 气相氧化	qì;pv siàng;ao yǎng;qy huà;rb	144
+气象要素	qì;pv siàng;du yào;xn sù;fx	223
 气象仪器	qì;pv siàng;du yí;ry qì;xx	418
 气象一新	qì;pv siàng;du yì;aa sīn;lt	9
 气象医院	qì;pv siàng;du yī;ku yuàn;ey	4
@@ -204213,6 +204220,7 @@ sort: by_weight
 清凉境界	cīng;do liáng;dx jìng;te jiè;tj	162
 清凉可口	cīng;do liáng;dx kě;dk kǒu;la	513
 清凉礼包	cīng;do liáng;dx lǐ;pv bāo;bs	194
+清凉模式	cīng;do liáng;dx mó;ad shì;gg	72
 清亮囊泡	cīng;do liàng;wj náng;gy pào;db	45
 清凉气息	cīng;do liáng;dx qì;pv siī;zx	274
 清凉世界	cīng;do liáng;dx shì;cv jiè;tj	13
@@ -214051,7 +214059,7 @@ sort: by_weight
 少米无钱	shǎo;xp mǐ;ba wú;ay cián;jj	144
 稍明显些	shāo;ho míng;oo xiǎn;oy siē;ve	171
 少模光纤	shǎo;xp mó;ad guāng;xe siān;sq	99
-少男心事	shǎo;xp nán;tl sīn;dd shì;gy	117
+少男心事	shào;xp nán;tl sīn;dd shì;gy	117
 稍难一些	shāo;ho nán;yv yì;aa siē;ve	52
 少年才俊	shào;xp nián;pf cái;up zǜn;rw	22
 少年残像	shào;xp nián;pf cán;dj siàng;ru	202
@@ -219283,7 +219291,7 @@ sort: by_weight
 数码成像	shù;mw mǎ;um chéng;gv siàng;ru	378
 数码摄像	shù;mw mǎ;um shè;fy siàng;ru	3
 数码相机	shù;mw mǎ;um siàng;ao jī;aj	2336
-数码相框	shù;mw mǎ;um siàng;ao kuāng;aw	486
+数码相框	shù;mw mǎ;um siàng;ao kuàng;aw	486
 数码信息	shù;mw mǎ;um sìn;rk siī;zx	387
 数码影像	shù;mw mǎ;um yǐng;op siàng;ru	75
 数码资讯	shù;mw mǎ;um zī;db sǜn;yu	490
@@ -241364,7 +241372,7 @@ sort: by_weight
 小连接体	siǎo;lb lián;zi ziē;fn tǐ;rb	45
 小廉曲谨	siǎo;lb lián;gj qǔ;wc jǐn;yw	117
 小脸煞白	siǎo;lb liǎn;oq shà;dh bái;po	526
-小脸通红	siǎo;lb liǎn;oq tòng;zy hóng;sg	657
+小脸通红	siǎo;lb liǎn;oq tōng;zy hóng;sg	657
 笑脸娃娃	siào;vy liǎn;oq wá;nt wa;nt	180
 小脸微红	siǎo;lb liǎn;oq wēi;rj hóng;sg	486
 小练习册	siǎo;lb liàn;sd sií;vd cè;ka	153
@@ -249415,7 +249423,7 @@ sort: by_weight
 星光闪亮	sīng;ou guāng;xe shǎn;mr liàng;wj	297
 星光闪闪	sīng;ou guāng;xe shǎn;mr shǎn;mr	22
 星光闪耀	sīng;ou guāng;xe shǎn;mr yào;gv	626
-星光少男	sīng;ou guāng;xe shǎo;xp nán;tl	324
+星光少男	sīng;ou guāng;xe shào;xp nán;tl	324
 星光眼泪	sīng;ou guāng;xe yǎn;og lèi;do	162
 星光夜空	sīng;ou guāng;xe yè;ww kōng;bg	99
 星光夜视	sīng;ou guāng;xe yè;ww shì;pj	205
@@ -255264,6 +255272,7 @@ sort: by_weight
 杨盈川集	yáng;ap yíng;nm chuān;pl zií;ra	153
 养正消积	yǎng;yl zhèng;av siāo;do ziī;hv	153
 养殖环节	yǎng;yl zhí;dq huán;wb zié;ce	400
+养殖面积	yǎng;yl zhí;dq miàn;ao ziī;hv	223
 养殖网箱	yǎng;yl zhí;dq wǎng;kx siāng;vo	270
 羊脂仙露	yáng;bf zhī;oo siān;ru lù;yk	99
 养殖小区	yǎng;yl zhí;dq siǎo;lb qū;kx	531
@@ -315725,7 +315734,7 @@ sort: by_weight
 砥砺奋进谱新篇	dǐ;uu lì;uw fèn;dt zìn;zj pǔ;yo sīn;lt piān;vc	10
 帝力基督君王像	dì;wj lì;vp jī;ct dū;uo jūn;yk wáng;at siàng;ru	10
 地貌最小功原理	dì;ty mào;ve zuì;oy siǎo;lb gōng;gl yuán;ix lǐ;wl	10
-低眉信手续续弹	dī;ru méi;uo sìn;rk shǒu;pf sǜ;sd sǜ;sd dàn;gu	10
+低眉信手续续弹	dī;ru méi;uo sìn;rk shǒu;pf sǜ;sd sǜ;sd tán;gu	10
 地平线级驱逐舰	dì;ty píng;au siàn;sj jí;sj qū;mq zhú;zu jiàn;vj	10
 第七机械工业部	dì;vd ciī;av jī;aj xiè;ac gōng;aa yè;la bù;le	10
 第七星阿尔多拉	dì;vd ciī;av sīng;ou ā;ek ěr;dx duō;xx lā;fl	10

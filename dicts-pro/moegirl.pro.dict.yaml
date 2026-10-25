@@ -1,7 +1,7 @@
 ---
 name: moe
 sort: by_weight
-version: "0.3.7"
+version: "0.3.8"
 ...
 （无端联想）	wú;ay duān;le lián;et xiǎng;ax	100
 （有端联想）	yǒu;uo duān;le lián;et xiǎng;ax	100
@@ -204333,3 +204333,621 @@ version: "0.3.7"
 变单	biàn;wy dān;bu	100
 变嫁	biàn;wy jià;nu	100
 冥场面	míng;bl chǎng;tp miàn;ao	100
+新田彩加	xīn;lt tián;wu cǎi;vp jiā;lk	100
+人工脑革命	rén;pn gōng;aa nǎo;ox gé;cu mìng;re	100
+罗万	luó;sx wàn;av	100
+唯我贯云	wéi;kv wǒ;ga guàn;mb yún;ag	100
+嘉纳	jiā;tk nà;sn	100
+我们一定能够相见	wǒ;ga men;rm yí;aa dìng;bz néng;sb gòu;jx xiāng;ao jiàn;ke	100
+致命痴迷	zhì;gw mìng;re chī;bk mí;zm	100
+光阴之外	guāng;xe yīn;eo zhī;dn wài;xb	100
+陈珪陈登	chén;ed guī;wt chén;ed dēng;bb	100
+空束爱	kōng;bg shù;gr ài;vy	100
+南方龙之介	nán;ug fāng;wv lóng;yp zhī;dn jiè;rl	100
+魔瞳	mó;gg tóng;ol	100
+结女体育祭	jié;sk nǚ;va tǐ;rb yù;wo jì;xu	100
+逃不出章鱼酱的手掌心	táo;zv bù;ab chū;uu zhāng;lu yú;da jiàng;ly de;bu shǒu;pf zhǎng;xu xīn;dd	100
+俄罗斯航空	é;rw luó;sx sī;ct háng;vj kōng;bg	100
+泽海奏多	zé;df hǎi;dm zòu;it duō;xx	100
+经理女孩悠悠日常	jīng;sj lǐ;wl nǚ;va hái;zr yōu;rx yōu;rx rì;wa cháng;xj	100
+推定情歌	tuī;fv dìng;bz qíng;xo gē;kq	100
+修身炉	xiū;rp shēn;zc lú;hh	100
+青岛麻衣	qīng;fo dǎo;nu má;ga yī;wy	100
+击碎拂晓	jī;fk suì;uu fú;ff xiǎo;ow	100
+无祈修行	wú;ay qí;pt xiū;rp xíng;rd	100
+章鱼烧惑星观测	zhāng;lu yú;da shāo;hw huò;gx xīng;ou guān;yj cè;dd	100
+卡塔尔航空	kǎ;ub tǎ;tk ěr;dx háng;vj kōng;bg	100
+杰罗尼蒙	jié;ah luó;sx ní;ub méng;cu	100
+创世之书	chuàng;rd shì;cv zhī;dn shū;vd	100
+青铜纵目面具	qīng;fo tóng;jk zòng;sr mù;we miàn;ao jù;qb	100
+真聪	zhēn;ub cōng;ex	100
+朽木和纱	xiǔ;ak mù;ur hé;hk shā;su	100
+两个愿望	liǎng;ar gè;rl yuàn;ix wàng;ww	100
+掌面说	zhǎng;xu miàn;ao shuō;yx	100
+宫川都	gōng;bk chuān;pl dōu;le	100
+开始音乐的理由	kāi;ac shǐ;nk yīn;lo yuè;px de;bu lǐ;wl yóu;ol	100
+阿卡贝拉一起唱	ā;ek kǎ;ub bèi;kr lā;fl yì;aa qǐ;tj chàng;ko	100
+匹特星人	pǐ;ke tè;nc xīng;ou rén;pn	100
+人立方	rén;pn lì;wb fāng;wv	100
+骗晴	piàn;mc qíng;oo	100
+赠予你的一曲	zèng;bo yǔ;sl nǐ;rx de;bu yì;aa qǔ;wc	100
+李意	lǐ;az yì;lx	100
+千金美食记	qiān;pu jīn;rb měi;yd shí;rg jì;yj	100
+岩本奈绪	yán;uu běn;aa nài;du xù;so	100
+东美千代	dōng;ax měi;yd qiān;pu dài;rg	100
+奥奇贤者	ào;pd qí;dk xián;lb zhě;lo	100
+奇物	qí;dk wù;nw	100
+终焉之火	zhōng;sd yān;vh zhī;dn huǒ;br	100
+烙印之气炎	lào;hk yìn;pe zhī;dn qì;pv yán;hh	100
+凩真冬	mù;ja zhēn;ub dōng;wd	100
+奇妙萌可之闪耀流星	qí;dk miào;nu méng;co kě;dk zhī;dn shǎn;mr yào;gv liú;di xīng;ou	100
+因为是优等生	yīn;wd wèi;ld shì;oz yōu;ry děng;vc shēng;pf	100
+高田清美	gāo;wk tián;wu qīng;do měi;yd	100
+唐九珍	táng;gk jiǔ;pv zhēn;wp	100
+故纸浮生	gù;gw zhǐ;su fú;dz shēng;pf	100
+濡海水舞	rú;de hǎi;dm shuǐ;ln wǔ;pf	100
+枪匠系统	qiāng;av jiàng;kt xì;px tǒng;sy	100
+横尾逸兔	héng;ab wěi;um yì;zt tù;dd	100
+无所遁藏	wú;ay suǒ;ht dùn;zo cáng;ci	100
+久世早璃	jiǔ;pn shì;cv zǎo;ou lí;wn	100
+晨驾一叶舟	chén;oi jià;lm yí;aa yè;ku zhōu;pd	100
+御罗迦	yù;re luó;sx jiā;zk	100
+禁断之爱	jìn;au duàn;vt zhī;dn ài;vy	100
+营口	yíng;ck kǒu;la	100
+拉普大人艺人化计划	lā;fl pǔ;bo dà;ar rén;pn yì;cv rén;pn huà;rb jì;yu huà;gd	100
+同行者	tóng;kk háng;rd zhě;lo	100
+复发	fù;pw fā;fy	100
+永眠指南	yǒng;du mián;om zhǐ;fo nán;ug	100
+云裳羽衣曲	yún;ag shang;xy yǔ;xx yī;wy qǔ;wc	100
+青蓝之风	qīng;fo lán;cm zhī;dn fēng;jx	100
+花骨朵	huā;cb gū;go duǒ;ja	100
+艳压满城	yàn;fb yā;id mǎn;dl chéng;ti	100
+大卫詹姆斯	dà;ar wèi;ea zhān;dk mǔ;nm sī;ct	100
+退退退退下	tuì;zg tuì;zg tuì;zg tuì;zg xià;ab	100
+困兽生	kùn;wa shòu;bk shēng;pf	100
+十返舍梨子	shí;al fǎn;zy shě;rg lí;ha zǐ;la	100
+延边	yán;zv biān;zl	100
+荒川龙一	huāng;ci chuān;pl lóng;yp yī;aa	100
+天网	tiān;ad wǎng;kx	100
+盘龙双震	pán;vm lóng;yp shuāng;yy zhèn;yi	100
+恋因天赐	liàn;wx yīn;wd tiān;ad cì;bw	100
+东云久住	dōng;ax yún;ag jiǔ;pn zhù;rv	100
+晴转气球	qíng;oo zhuǎn;iv qì;pv qiú;wq	100
+月与霓虹与淡红	yuè;ke yǔ;va ní;ye hóng;ig yǔ;va dàn;dh hóng;sg	100
+高桥茉优	gāo;wk qiáo;al mò;cw yōu;ry	100
+奥特融合卡片	ào;pd tè;nc róng;gi hé;rk kǎ;ub piàn;pv	100
+生日快乐布洛特公园	shēng;pf rì;wa kuài;xg lè;px bù;uj luò;dk tè;nc gōng;bs yuán;wy	100
+欢迎光临星布谷地	huān;yq yíng;ze guāng;xe lín;lk xīng;ou bù;uj gǔ;bk dì;ty	100
+颜玉卿	yán;wy yù;wd qīng;pg	100
+另一条地平线	lìng;kl yī;aa tiáo;wa dì;ty píng;au xiàn;sj	100
+花园香	huā;cb yuán;wy xiāng;ho	100
+在风中正应奔跑	zài;ut fēng;jx zhōng;kl zhèng;av yīng;ga bēn;dc pǎo;zb	100
+狂怪之怨默	kuáng;qw guài;xt zhī;dn yuàn;xx mò;lq	100
+黑暗赛罗奥特曼	hēi;lh àn;oo sài;bb luó;sx ào;pd tè;nc màn;oy	100
+瓦兰吉	wǎ;ad lán;bs jí;tk	100
+寄远书	jì;bk yuǎn;zy shū;vd	100
+反派千金的骄傲	fǎn;iy pài;dy qiān;pu jīn;rb de;bu jiāo;ml ào;rw	100
+光棱龙	guāng;xe léng;aw lóng;yp	100
+小杀	xiǎo;lb shā;xa	100
+短管手枪	duǎn;ub guǎn;vl shǒu;pf qiāng;av	100
+诸冈露露	zhū;yo gāng;kx lù;yk lù;yk	100
+盲目泡泡	máng;wo mù;we pào;db pào;db	100
+只有我知道尸人拯救了世界	zhǐ;kb yǒu;uo wǒ;ga zhī;uk dào;zz shī;kp rén;pn zhěng;fi jiù;qw le;al shì;cv jiè;tj	100
+汉诺锁	hàn;dy nuò;yk suǒ;jb	100
+玩偶山谷	wán;wy ǒu;rd shān;kl gǔ;bk	100
+名侦探柯南未来篇	míng;xk zhēn;rb tàn;fa kē;ak nán;ug wèi;aa lái;aa piān;vc	100
+牛头百合菜	niú;pu tóu;dd bǎi;ab hé;rk cài;ca	100
+古城爱莉	gǔ;uk chéng;ti ài;vy lì;cd	100
+还不够	hái;zb bù;ab gòu;jx	100
+大卫博蒙特	dà;ar wèi;ea bó;uc méng;cu tè;nc	100
+单固贤	dān;bu gù;wg xián;lb	100
+极度绝赞	jí;aj dù;gy jué;sb zàn;nb	100
+绝妙香料研究会	jué;sb miào;nu xiāng;ho liào;md yán;uk jiū;bj huì;ry	100
+冬兵	dōng;wd bīng;qb	100
+梁习	liáng;da xí;vd	100
+穆伊斯卡	mù;hp yī;ry sī;ct kǎ;ub	100
+地角天涯	dì;ty jiǎo;dy tiān;ad yá;dt	100
+碧落	bì;wu luò;ck	100
+来自新未来	lái;aa zì;po xīn;lt wèi;aa lái;aa	100
+天作之合	tiān;ad zuò;rv zhī;dn hé;rk	100
+欢迎来到异世界图书馆	huān;yq yíng;ze lái;aa dào;gd yì;sc shì;cv jiè;tj tú;wd shū;vd guǎn;ul	100
+穿越成反派要如何活命	chuān;by yuè;tl chéng;gv fǎn;iy pài;dy yào;xn rú;nk hé;rk huó;du mìng;re	100
+随风直下	suí;eo fēng;jx zhí;uq xià;ab	100
+熊出没我们	xióng;sh chū;uu mò;du wǒ;ga men;rm	100
+魔迂宫	mó;gg yū;zy gōng;bk	100
+明河	míng;oo hé;dk	100
+白木夕	bái;po mù;ur xī;pd	100
+欺师	qī;cq shī;lj	100
+张小凡	zhāng;gi xiǎo;lb fán;jd	100
+每天都要甜一点	měi;pm tiān;ad dōu;le yào;xn tián;ug yì;aa diǎn;vh	100
+神保雪菜	shén;pu bǎo;ra xuě;ye cài;ca	100
+磷粉蛇枪	lín;uf fěn;mf shé;ib qiāng;av	100
+夜间飞行	yè;ww jiān;mo fēi;vd xíng;rd	100
+尼洛	ní;ub luò;dk	100
+窝窝娘	wō;bn wō;bn niáng;nl	100
+拿人手软	ná;ru rén;pn shǒu;pf ruǎn;iq	100
+碳素龙	tàn;uh sù;fx lóng;yp	100
+致怒放鲜花之生命	zhì;gw nù;nx fàng;fw xiān;yy huā;cb zhī;dn shēng;pf mìng;re	100
+藤野沙织	téng;cu yě;ly shā;du zhī;sv	100
+认真集团之歌	rèn;yr zhēn;ub jí;ra tuán;wc zhī;dn gē;kq	100
+梅拉妮卡彭	méi;am lā;fl nī;nb kǎ;ub péng;tp	100
+速通满级攻略	sù;zu tōng;zy mǎn;dl jí;sj gōng;gw lüè;tk	100
+麻尾达臣	má;ga wěi;um dá;zd chén;kl	100
+二分之一未来	èr;aa fēn;bd zhī;dn yī;aa wèi;aa lái;aa	100
+我们两个人在一起吧	wǒ;ga men;rm liǎng;ar gè;rl rén;pn zài;ut yì;aa qǐ;tj ba;kb	100
+妮娜亚历山德罗芙娜	nī;nb nà;ne yà;ay lì;il shān;kl dé;rx luó;sx fú;cf nà;ne	100
+一代灵后	yí;aa dài;rg líng;eh hòu;ik	100
+玩物丧志	wán;wy wù;nw sàng;ty zhì;tx	100
+好得不行的邂逅	hǎo;nz de;rc bù;ab xíng;rd de;bu xiè;zn hòu;zk	100
+梦枢心相由心生	mèng;ax shū;aq xīn;dd xiāng;ao yóu;ol xīn;dd shēng;pf	100
+幻影敢死队	huàn;yv yǐng;op gǎn;ew sǐ;db duì;er	100
+王一鸣	wáng;at yī;aa míng;kn	100
+心跳加速一二三	xīn;dd tiào;zv jiā;lk sù;zu yī;aa èr;aa sān;ae	100
+忘不掉啊	wàng;wx bú;ab diào;fu a;kk	100
+阿开的避风港	ā;ek kāi;ac de;bu bì;zx fēng;jx gǎng;ds	100
+向往的世纪	xiàng;pk wǎng;rv de;bu shì;cv jì;sj	100
+雷诺重工	léi;yt nuò;yk zhòng;ql gōng;aa	100
+花荫	huā;cb yīn;co	100
+西西弗斯	xī;ak xī;ak fú;gl sī;ct	100
+昨日海	zuó;ov rì;wa hǎi;dm	100
+鲛岛	jiāo;yf dǎo;nu	100
+余小赢	yú;rm xiǎo;lb yíng;wb	100
+熊野美琴	xióng;sh yě;ly měi;yd qín;wv	100
+哀寂	āi;yk jì;by	100
+欢迎来到散步俱乐部	huān;yq yíng;ze lái;aa dào;gd sàn;cw bù;vu jù;rb lè;px bù;le	100
+这真是美妙的魔法	zhè;zw zhēn;ub shì;oz měi;yd miào;nu de;bu mó;gg fǎ;dq	100
+予明日的叶笺	yǔ;sl míng;oo rì;wa de;bu yè;ku jiān;vj	100
+幽灵君	yōu;uy líng;eh jūn;yk	100
+魔法少女希尔菲娜	mó;gg fǎ;dq shào;xp nǚ;va xī;xj ěr;dx fēi;cf nà;ne	100
+灯笼草之丘	dēng;hd lóng;vl cǎo;cu zhī;dn qiū;ia	100
+少女式的跟踪	shào;xp nǚ;va shì;gg de;bu gēn;zg zōng;zu	100
+仓敷绮罗罗	cāng;rv fū;fw qǐ;sk luó;sx luó;sx	100
+韩小莹	hán;uw xiǎo;lb yíng;cy	100
+闪电链	shǎn;mr diàn;ov liàn;ji	100
+爆燃蛇枪	bào;hu rán;hh shé;ib qiāng;av	100
+泉志帆	quán;bu zhì;tx fān;jf	100
+原初之神	yuán;ix chū;pd zhī;dn shén;pu	100
+宍户甘子	ròu;bl hù;du gān;ca zǐ;la	100
+杀人兔	shā;xa rén;pn tù;dd	100
+吹笛子的女孩	chuī;kq dí;vy zǐ;la de;bu nǚ;va hái;zr	100
+全部化作春风	quán;rw bù;le huà;rb zuò;rv chūn;io fēng;jx	100
+卖火柴	mài;ud huǒ;br chái;va	100
+奏鸣	zòu;it míng;kn	100
+非死即生	fēi;ls sǐ;db jí;ge shēng;pf	100
+新里杏珠	xīn;lt lǐ;tt xìng;ak zhū;ww	100
+陈枫灵	chén;ed fēng;af líng;eh	100
+安藤佳澄	ān;bn téng;cu jiā;rt chéng;db	100
+锦上添花	jǐn;jj shàng;ba tiān;dx huā;cb	100
+归属的水平线	guī;le shǔ;uy de;bu shuǐ;ln píng;au xiàn;sj	100
+百灯响子	bǎi;ab dēng;hd xiǎng;kk zǐ;la	100
+闪耀誓言	shǎn;mr yào;gv shì;fk yán;wk	100
+魔法之镜	mó;gg fǎ;dq zhī;dn jìng;je	100
+下一首歌	xià;ab yī;aa shǒu;bz gē;kq	100
+怪奇组	guài;xt qí;dk zǔ;sq	100
+洼冈俊之	wā;dt gāng;kx jùn;rw zhī;dn	100
+沉溺于你的光芒	chén;dj nì;dg yú;au nǐ;rx de;bu guāng;xe máng;cw	100
+服部明日香	fú;oy bù;le míng;oo rì;wa xiāng;ho	100
+慢舞者	màn;xy wǔ;pf zhě;lo	100
+戴维西尔德	dài;gg wéi;sv xī;ak ěr;dx dé;rx	100
+刘欢	liú;wd huān;yq	100
+绫濑桃香	líng;sw lài;db táo;av xiāng;ho	100
+我是谜	wǒ;ga shì;oz mí;ym	100
+遗传	yí;zb chuán;rv	100
+樽户多丹	zūn;ac hù;du duō;xx dān;kd	100
+魔法的物理攻击酷露露	mó;gg fǎ;dq de;bu wù;nw lǐ;wl gōng;gw jī;fk kù;yk lù;yk lù;yk	100
+绿蒙斯	lǜ;su méng;cu sī;ct	100
+我的未来线	wǒ;ga de;bu wèi;aa lái;aa xiàn;sj	100
+世界之灵	shì;cv jiè;tj zhī;dn líng;eh	100
+有象无象	yǒu;uo xiàng;du wú;ay xiàng;du	100
+美元日元欧元	měi;yd yuán;aw rì;wa yuán;aw ōu;qq yuán;aw	100
+裹在甜蜜的制服中	guǒ;yg zài;ut tián;ug mì;bi de;bu zhì;nd fú;oy zhōng;kl	100
+梦我梦中	mèng;ax wǒ;ga mèng;ax zhōng;kl	100
+奇妙萌可之奇迹公主	qí;dk miào;nu méng;co kě;dk zhī;dn qí;dk jì;zb gōng;bs zhǔ;wt	100
+支撑你的女仆	zhī;uy chēng;fu nǐ;rx de;bu nǚ;va pú;rb	100
+儿玉柚	ér;pv yù;wd yòu;ay	100
+王权剑	wáng;at quán;ay jiàn;qd	100
+上根器	shàng;ba gēn;ag qì;xx	100
+一桥洵子	yì;aa qiáo;al xún;do zǐ;la	100
+皋月可可	gāo;bu yuè;ke kě;dk kě;dk	100
+锈带	xiù;jn dài;cj	100
+难伺候的女生	nán;yv cì;rk hou;ru de;bu nǚ;va shēng;pf	100
+憧憬的回响	chōng;xl jǐng;xx de;bu huí;wk xiǎng;kk	100
+我们在场	wǒ;ga men;rm zài;ut chǎng;tp	100
+橘聪	jú;ak cōng;ex	100
+红连	hóng;sg lián;zi	100
+蝴蝶百合之令	hú;io dié;ia bǎi;ab hé;rk zhī;dn lìng;rs	100
+克莱门莎	kè;ux lái;cl mén;dv shā;cu	100
+注定又要被他人之手给拯救了	zhù;dv dìng;bz yòu;vn yào;xn bèi;pp tā;ry rén;pn zhī;dn shǒu;pf gěi;sk zhěng;fi jiù;qw le;al	100
+四叶继承篇	sì;we yè;ku jì;sm chéng;ln piān;vc	100
+秦宣四方	qín;ih xuān;bd sì;we fāng;wv	100
+网易诉迷你玩案	wǎng;kx yì;ow sù;yi mí;zm nǐ;rx wán;wy àn;ba	100
+胡拓	hú;go tuò;fu	100
+江原萌依	jiāng;dg yuán;ix méng;co yī;ry	100
+羽紫沙耶花	yǔ;xx zǐ;vx shā;du yé;ee huā;cb	100
+张君泰	zhāng;gi jūn;yk tài;iu	100
+赤之协奏曲	chì;tb zhī;dn xié;ub zòu;it qǔ;wc	100
+放大	fàng;fw dà;ar	100
+梦想三国	mèng;ax xiǎng;ax sān;ae guó;wy	100
+星空志保	xīng;ou kōng;bg zhì;tx bǎo;ra	100
+达妮卡别捷尼茨卡娅	dá;zd nī;nb kǎ;ub bié;kd jié;fz ní;ub cí;cq kǎ;ub yà;ny	100
+莉泽罗蒂	lì;cd zé;df luó;sx dì;cj	100
+电竞俱乐部世界杯反恐精英项目	diàn;ov jìng;lx jù;rb lè;px bù;le shì;cv jiè;tj bēi;ab fǎn;iy kǒng;gx jīng;mo yīng;cy xiàng;gy mù;we	100
+流浪医生的末日病历	liú;di làng;dl yī;ku shēng;pf de;bu mò;aa rì;wa bìng;bn lì;il	100
+川神一子	chuān;pl shén;pu yì;aa zǐ;la	100
+恐龙战车	kǒng;gx lóng;yp zhàn;vg chē;au	100
+紫今	zǐ;vx jīn;rv	100
+怪兽卡片	guài;xt shòu;bk kǎ;ub piàn;pv	100
+四时风华	sì;we shí;to fēng;jx huá;ru	100
+强风与节拍	qiáng;gi fēng;jx yǔ;va jié;ce pāi;fb	100
+开启思考	kāi;ac qǐ;hk sī;tx kǎo;lk	100
+女高中生小春在异世界成为娼妓	nǚ;va gāo;wk zhōng;kl shēng;pf xiǎo;lb chūn;io zài;ut yì;sc shì;cv jiè;tj chéng;gv wéi;ld chāng;no jì;nv	100
+赤猿黄猿	chì;tb yuán;qy huáng;cb yuán;qy	100
+花山乙女	huā;cb shān;kl yǐ;vv nǚ;va	100
+响起警报之日	xiǎng;kk qǐ;tj jǐng;ck bào;fy zhī;dn rì;wa	100
+一诺为家	yí;aa nuò;yk wèi;ld jiā;bu	100
+林德薇恩挽昼	lín;aa dé;rx wēi;cj ēn;yx wǎn;fe zhòu;id	100
+高崎美咲	gāo;wk qí;uk měi;yd xiào;kt	100
+影世界	yǐng;op shì;cv jiè;tj	100
+黑糖	hēi;lh táng;mk	100
+世外桃源	shì;cv wài;xb táo;av yuán;dx	100
+超分辨率的破坏活动	chāo;tk fēn;bd biàn;xl lǜ;wu de;bu pò;up huài;tb huó;du dòng;yl	100
+谜之民族努恩巴巴尤卡利	mí;ym zhī;dn mín;vv zú;fu nǔ;nl ēn;yx bā;sl bā;sl yóu;yd kǎ;ub lì;hd	100
+装备我最强	zhuāng;ly bèi;wt wǒ;ga zuì;oy qiáng;gi	100
+闪烁双子星	shǎn;mr shuò;hl shuāng;yy zǐ;la xīng;ou	100
+宇宙苔藓	yǔ;by zhòu;by tái;ck xiǎn;cy	100
+半吊子空论	bàn;bf diào;kj zǐ;la kōng;bg lùn;yl	100
+舒邵	shū;ry shào;de	100
+碧吉波尔格	bì;wu jí;tk bō;dp ěr;dx gé;ak	100
+陶山公	táo;ef shān;kl gōng;bs	100
+言及地铁	yán;wk jí;pn dì;ty tiě;jf	100
+由今天手相牵的我们	yóu;ol jīn;rv tiān;ad shǒu;pf xiàng;ao qiān;dn de;bu wǒ;ga men;rm	100
+自杀俱乐部	zì;po shā;xa jù;rb lè;px bù;le	100
+手心的礼物	shǒu;pf xīn;dd de;bu lǐ;pv wù;nw	100
+洛桑	luò;dk sāng;ya	100
+泰勒玛	tài;iu lēi;cl mǎ;wm	100
+梅埃尔德	méi;am āi;tu ěr;dx dé;rx	100
+白上虎太郎	bái;po shàng;ba hǔ;hj tài;dd láng;le	100
+灭绝之日	miè;ah jué;sb zhī;dn rì;wa	100
+回答	huí;wk dá;vk	100
+相泽凉太	xiāng;ao zé;df liáng;dx tài;dd	100
+导盲犬	dǎo;sc máng;wo quǎn;dd	100
+萝薇	luó;cx wēi;cj	100
+阿莱斯特克劳利	ā;ek lái;cl sī;ct tè;nc kè;ux láo;cl lì;hd	100
+风吹火	fēng;jx chuī;kq huǒ;br	100
+马基雅维利主义	mǎ;va jī;ct yǎ;yv wéi;sv lì;hd zhǔ;wt yì;dx	100
+玩的开心就好	wán;wy de;bu kāi;ac xīn;dd jiù;wy hǎo;nz	100
+梅花绽放之时	méi;am huā;cb zhàn;sz fàng;fw zhī;dn shí;to	100
+枪匠模拟器	qiāng;av jiàng;kt mó;ad nǐ;fr qì;xx	100
+扇行	shàn;hx xíng;rd	100
+少女射击	shào;xp nǚ;va shè;uc jī;fk	100
+正见亚纪子	zhèng;av jiàn;ke yà;ay jì;sj zǐ;la	100
+社美胡	shè;pt měi;yd hú;go	100
+音澄宙	yīn;lo chéng;db zhòu;by	100
+相泽秀平	xiāng;ao zé;df xiù;hn píng;au	100
+童谣的单程票	tóng;ll yáo;yf de;bu dān;bu chéng;hw piào;xu	100
+于黎明前夕	yú;au lí;hu míng;oo qián;bd xī;pd	100
+开心宝贝之开心超人大作战	kāi;ac xīn;dd bǎo;by bèi;kr zhī;dn kāi;ac xīn;dd chāo;tk rén;pn dà;ar zuò;rv zhàn;vg	100
+雨情霞	yǔ;ad qíng;xo xiá;yy	100
+神经	shén;pu jīng;sj	100
+转圈圈时间	zhuàn;iv quān;wv quān;wv shí;to jiān;mo	100
+二是无眷神	èr;aa shì;oz wú;ay juàn;jo shén;pu	100
+人偶女孩	rén;pn ǒu;rd nǚ;va hái;zr	100
+吉林市	jí;tk lín;aa shì;wj	100
+灰色视症	huī;uh sè;db shì;pj zhèng;bv	100
+胡影佳	hú;go yǐng;op jiā;rt	100
+旋转不止	xuán;fz zhuǎn;iv bù;ab zhǐ;lb	100
+透明的花	tòu;zn míng;oo de;bu huā;cb	100
+塔莉亚杨	tǎ;tk lì;cd yà;ay yáng;ap	100
+布鲁诺罗德里格斯	bù;uj lǔ;yo nuò;yk luó;sx dé;rx lǐ;tt gé;ak sī;ct	100
+卡尔弗里茨	kǎ;ub ěr;dx fú;gl lǐ;tt cí;cq	100
+鞭尸	biān;cg shī;kp	100
+科德韦尔斯卡蕾特	kē;hd dé;rx wéi;fv ěr;dx sī;ct kǎ;ub lěi;ct tè;nc	100
+落下的月亮与电波塔	là;ck xià;ab de;bu yuè;ke liàng;wj yǔ;va diàn;ov bō;dp tǎ;tk	100
+但我只能唱歌	dàn;rd wǒ;ga zhǐ;kb néng;sb chàng;ko gē;kq	100
+百濑纱菜	bǎi;ab lài;db shā;su cài;ca	100
+加玛库基拉	jiā;lk mǎ;wm kù;gi jī;ct lā;fl	100
+还想活下去	hái;zb xiǎng;ax huó;du xià;ab qù;ts	100
+春雨璃音	chūn;io yǔ;ad lí;wn yīn;lo	100
+永池瑠雅	yǒng;du chí;dy liú;wt yǎ;yv	100
+虚假的悲剧	xū;hy jiǎ;ry de;bu bēi;fx jù;ud	100
+我应归于何处	wǒ;ga yīng;ga guī;le yú;au hé;rk chù;wb	100
+无羽者飞行法则	wú;ay yǔ;xx zhě;lo fēi;vd xíng;rd fǎ;dq zé;bd	100
+旧款	jiù;lo kuǎn;tq	100
+松鼠女	sōng;ag shǔ;jv nǚ;va	100
+便宜没好货	pián;rg yí;bq méi;du hǎo;nz huò;rb	100
+叉勺	chā;yd sháo;bd	100
+你是怪物	nǐ;rx shì;oz guài;xt wù;nw	100
+长畑克也	zhǎng;pn tián;ht kè;ux yě;vv	100
+八月朔日赛勒涅	bā;pn yuè;ke shuò;no rì;wa sài;bb lēi;cl niè;dt	100
+电花号码	diàn;ov huā;cb hào;kk mǎ;um	100
+魔女的子守歌	mó;gg nǚ;va de;bu zǐ;la shǒu;bc gē;kq	100
+小舟亚伦	xiǎo;lb zhōu;pd yà;ay lún;rl	100
+影响力无限大偶像	yǐng;op xiǎng;kk lì;vp wú;ay xiàn;eg dà;ar ǒu;rd xiàng;ru	100
+菱形青铜	líng;cw xíng;kp qīng;fo tóng;jk	100
+被讨厌的蔬菜	bèi;pp tǎo;yc yàn;iq de;bu shū;ci cài;ca	100
+十二支同盟	shí;al èr;aa zhī;uy tóng;kk méng;om	100
+笔记本中的生态园	bǐ;vm jì;yj běn;aa zhōng;kl de;bu shēng;pf tài;tx yuán;wy	100
+变成粉色吧	biàn;wy chéng;gv fěn;mf sè;db ba;kb	100
+神鸣	shén;pu míng;kn	100
+撞到了的手肘很痛	zhuàng;fl dào;gd le;al de;bu shǒu;pf zhǒu;oc hěn;rg tòng;by	100
+司马丽苏	sī;vk mǎ;va lì;ad sū;cb	100
+洛水风尘	luò;dk shuǐ;ln fēng;jx chén;xt	100
+依托	yī;ry tuō;fq	100
+吃饭啦	chī;kv fàn;uy la;kl	100
+总有一天会明白	zǒng;bx yǒu;uo yì;aa tiān;ad huì;ry míng;oo bái;po	100
+毒芽	dú;fm yá;cy	100
+敌方单位	dí;uw fāng;wv dān;bu wèi;rl	100
+挖地小子	wā;fv dì;ty xiǎo;lb zi;la	100
+高端明星	gāo;wk duān;le míng;oo xīng;ou	100
+不可死疫的牵绊	bù;ab kě;dk sǐ;db yì;bu de;bu qiān;dn bàn;sb	100
+深埋之星	shēn;da mái;tl zhī;dn xīng;ou	100
+游灵野幽子	yóu;dz líng;eh yě;ly yōu;uy zǐ;la	100
+清水大登	qīng;do shuǐ;ln dà;ar dēng;bb	100
+涩泽泉水	sè;dv zé;df quán;bu shuǐ;ln	100
+齿轮向日葵	chǐ;vr lún;il xiàng;pk rì;wa kuí;ct	100
+百足屋店主	bǎi;ab zú;kz wū;ut diàn;gv zhǔ;wt	100
+月兔与电脑牢笼内的幽灵	yuè;ke tù;dd yǔ;va diàn;ov nǎo;ox láo;bn lóng;vl nèi;kr de;bu yōu;uy líng;eh	100
+罗曼卡拉克斯	luó;sx màn;oy kǎ;ub lā;fl kè;ux sī;ct	100
+往昔之光	wǎng;rv xī;co zhī;dn guāng;xe	100
+是时候前往迷人的海洋了	shì;oz shí;to hou;ru qián;bd wǎng;rv mí;zm rén;pn de;bu hǎi;dm yáng;dy le;al	100
+岭高华武利	lǐng;us gāo;wk huá;ru wǔ;gv lì;hd	100
+万事屋餐厅	wàn;av shì;gy wū;ut cān;dg tīng;id	100
+黑田三日月	hēi;lh tián;wu sān;ae rì;wa yuè;ke	100
+十万伏特	shí;al wàn;av fú;rq tè;nc	100
+我不喜欢那个可爱的孩子	wǒ;ga bù;ab xǐ;tk huan;yq nà;ve gè;rl kě;dk ài;vy de;bu hái;zr zi;la	100
+只有一点点	zhǐ;kb yǒu;uo yì;aa diǎn;vh diǎn;vh	100
+伊丽莎白一世	yī;ry lì;ad shā;cu bái;po yí;aa shì;cv	100
+伊势奈菜美	yī;ry shì;fl nài;du cài;ca měi;yd	100
+满开	mǎn;dl kāi;ac	100
+无名的人	wú;ay míng;xk de;bu rén;pn	100
+就这么做吧	jiù;wy zhè;zw me;ps zuò;rw ba;kb	100
+齐藤由佳	qí;wl téng;cu yóu;ol jiā;rt	100
+二师兄	èr;aa shī;lj xiōng;ke	100
+巡星	xún;zv xīng;ou	100
+焰儿	yàn;hj ér;pv	100
+鸨羽舞衣	bǎo;bn yǔ;xx wǔ;pf yī;wy	100
+最喜欢的花束	zuì;oy xǐ;tk huān;yq de;bu huā;cb shù;gr	100
+转生千金想过隐居生活	zhuǎn;iv shēng;pf qiān;pu jīn;rb xiǎng;ax guò;zc yǐn;ex jū;ug shēng;pf huó;du	100
+蕾诺娅	lěi;ct nuò;yk yà;ny	100
+瑠璃叶瑠萝	liú;wt lí;wn yè;ku liú;wt luó;cx	100
+血翼王亡命谭	xuè;pm yì;xg wáng;at wáng;wv mìng;re tán;yu	100
+内隆嘎	nèi;kr lóng;eu gā;kg	100
+半族	bàn;bf zú;fu	100
+童话绽放	tóng;ll huà;yu zhàn;sz fàng;fw	100
+嗷呜工作室	áo;kw wū;kw gōng;aa zuò;rv shì;bt	100
+神经网络处理器	shén;pu jīng;sj wǎng;kx luò;sk chǔ;wb lǐ;wl qì;xx	100
+最最最快乐时刻是跟你的每一刻	zuì;oy zuì;oy zuì;oy kuài;xg lè;px shí;to kè;wd shì;oz gēn;zg nǐ;rx de;bu měi;pm yī;aa kè;wd	100
+宙科索菲娅	zhòu;by kē;hd suǒ;ux fēi;cf yà;ny	100
+黑暗洛普斯	hēi;lh àn;oo luò;dk pǔ;bo sī;ct	100
+莉泽艾利娅	lì;cd zé;df ài;cx lì;hd yà;ny	100
+简冻僵了	jiǎn;vo dòng;dd jiāng;rj le;al	100
+哈宾杰	hā;kk bīn;bb jié;ah	100
+由井翠	yóu;ol jǐng;ac cuì;xu	100
+再平凡不过的创作者们	zài;ar píng;au fán;jd bú;ab guò;zc de;bu chuàng;rd zuò;rv zhě;lo men;rm	100
+逆潮	nì;zn cháo;do	100
+星屑胶囊	xīng;ou xiè;uo jiāo;of náng;gy	100
+森田勋	sēn;aa tián;wu xūn;kl	100
+克里斯汀沃尔夫	kè;ux lǐ;tt sī;ct tīng;dd wò;dy ěr;dx fū;er	100
+不纯吃茶	bù;ab chún;st chī;kv chá;cm	100
+双面刃	shuāng;yy miàn;ao rèn;dd	100
+依然一无所知	yī;ry rán;xh yī;aa wú;ay suǒ;ht zhī;uk	100
+终冕	zhōng;sd miǎn;oe	100
+彩虹游乐园	cǎi;vp hóng;ig yóu;dz lè;px yuán;wy	100
+潮起时	cháo;do qǐ;tj shí;to	100
+逃避现实二人组	táo;zv bì;zx xiàn;wj shí;bd èr;aa rén;pn zǔ;sq	100
+葡萄藤之躯	pú;cf táo;cf téng;cu zhī;dn qū;uq	100
+雾霭相随	wù;yl ǎi;yr xiāng;ao suí;eo	100
+战斗民族航空	zhàn;vg dòu;ud mín;vv zú;fu háng;vj kōng;bg	100
+还没成为谎言	hái;zb méi;du chéng;gv wéi;ld huǎng;yi yán;wk	100
+彻霄	chè;rd xiāo;yo	100
+罪恶之路	zuì;sf è;yx zhī;dn lù;zk	100
+少女心更新中	shào;xp nǚ;va xīn;dd gēng;an xīn;lt zhōng;kl	100
+丰川清告	fēng;sl chuān;pl qīng;do gào;nk	100
+南原一巳	nán;ug yuán;ix yī;aa sì;kv	100
+霓虹坟墓	ní;ye hóng;ig fén;tw mù;ct	100
+遭受诬陷的万能女仆决定踏上旅途	zāo;zo shòu;vy wū;yr xiàn;ej de;bu wàn;av néng;sb nǚ;va pú;rb jué;dg dìng;bz tà;zo shàng;ba lǚ;fy tú;zm	100
+后台	hòu;ik tái;sk	100
+漆原绫子	qī;du yuán;ix líng;sw zǐ;la	100
+化作了歌曲	huà;rb zuò;rv le;al gē;kq qǔ;wc	100
+无以言表	wú;ay yǐ;lr yán;wk biǎo;fy	100
+女王的椅子	nǚ;va wáng;at de;bu yǐ;ak zi;la	100
+运转失灵	yùn;zy zhuàn;iv shī;pf líng;eh	100
+温斯顿史密斯	wēn;dm sī;ct dùn;ty shǐ;kn mì;bu sī;ct	100
+夕尔瓦纳斯巷吉士	xī;pd ěr;dx wǎ;ad nà;sn sī;ct xiàng;gs jí;tk shì;ua	100
+芥川读子	jiè;cj chuān;pl dú;yd zǐ;la	100
+踏鞴之咏姬	tà;zo bèi;cy zhī;dn yǒng;ky jī;ni	100
+相似之物	xiāng;ao sì;rr zhī;dn wù;nw	100
+凯夫	kǎi;uj fū;er	100
+且看朝月覆千山	qiě;oa kàn;uo cháo;uo yuè;ke fù;xw qiān;pu shān;kl	100
+詹妮沃尔	zhān;dk nī;nb wò;dy ěr;dx	100
+铃鸣缀	líng;js míng;kn zhuì;sy	100
+重要转折	zhòng;ql yào;xn zhuǎn;iv zhé;ft	100
+拉斯林德	lā;fl sī;ct lín;aa dé;rx	100
+漂亮朋友	piào;du liang;wj péng;oo you;uy	100
+猪猪侠武将	zhū;qo zhū;qo xiá;rj wǔ;gv jiàng;lc	100
+化作地球	huà;rb zuò;rv dì;ty qiú;wq	100
+御神双村	yù;re shén;pu shuāng;yy cūn;ac	100
+四方山翼	sì;we fāng;wv shān;kl yì;xg	100
+隐身草	yǐn;ex shēn;zc cǎo;cu	100
+拿铁魔法	ná;ru tiě;jf mó;gg fǎ;dq	100
+血火相连	xuè;pm huǒ;br xiāng;ao lián;zi	100
+隔着无数个梦与梦的围墙	gé;eg zhe;yo wú;ay shù;mw gè;rl mèng;ax yǔ;va mèng;ax de;bu wéi;ww qiáng;tk	100
+力竭了	lì;vp jié;lr le;al	100
+栗林怜奈	lì;xa lín;aa lián;xs nài;du	100
+交通安全	jiāo;wf tōng;zy ān;bn quán;rw	100
+创造奇迹的法则	chuàng;rd zào;zk qí;dk jì;zb de;bu fǎ;dq zé;bd	100
+白马	bái;po mǎ;va	100
+郭攸之	guō;we yōu;rw zhī;dn	100
+亚硫酸钡	yà;ay liú;ui suān;yw bèi;jb	100
+福野灵	fú;pt yě;ly líng;eh	100
+杂技天使艾斯特尔	zá;ja jì;fv tiān;ad shǐ;rl ài;cx sī;ct tè;nc ěr;dx	100
+诸葛乔	zhū;yo gě;cr qiáo;yl	100
+雁切真砂人	yàn;iv qiè;qd zhēn;ub shā;uu rén;pn	100
+赤木夏帆	chì;tb mù;ur xià;bw fān;jf	100
+托马斯兰克	tuō;fq mǎ;va sī;ct lán;bs kè;ux	100
+调香	tiáo;yk xiāng;ho	100
+你也是外星人	nǐ;rx yě;vv shì;oz wài;xb xīng;ou rén;pn	100
+须藤真纪	xū;py téng;cu zhēn;ub jì;sj	100
+图集	tú;wd jí;ra	100
+暖阳之中	nuǎn;oy yáng;eo zhī;dn zhōng;kl	100
+前进的方向是超银河	qián;bd jìn;zj de;bu fāng;wv xiàng;pk shì;oz chāo;tk yín;jg hé;dk	100
+我铠他超	wǒ;ga kǎi;jj tā;ry chāo;tk	100
+米瑞尔	mǐ;ba ruì;we ěr;dx	100
+呔小妖你哪里逃	dāi;kt xiǎo;lb yāo;ny nǐ;rx nǎ;ke lǐ;tt táo;zv	100
+钩锁发射器	gōu;jg suǒ;jb fā;fy shè;uc qì;xx	100
+正确的错误	zhèng;av què;uy de;bu cuò;jo wù;yt	100
+黑野苍	hēi;lh yě;ly cāng;cv	100
+若是夏天呼唤我们	ruò;ck shì;oz xià;bw tiān;ad hū;kh huàn;kr wǒ;ga men;rm	100
+恋爱感质	liàn;wx ài;vy gǎn;gx zhì;ib	100
+随机计划	suí;eo jī;aj jì;yu huà;gd	100
+百亿年的幸福	bǎi;ab yì;rv nián;pf de;bu xìng;tg fú;pt	100
+瓦列里奥	wǎ;ad liè;dd lǐ;tt ào;pd	100
+暴风女	bào;ou fēng;jx nǚ;va	100
+宗像莲华	zōng;bu xiàng;ru lián;ci huá;ru	100
+我们遇到了一点小问题	wǒ;ga men;rm yù;zd dào;gd le;al yì;aa diǎn;vh xiǎo;lb wèn;mk tí;oy	100
+克莱德哈拉温	kè;ux lái;cl dé;rx hā;kk la;fl wēn;dm	100
+夜步及子	yè;ww bù;vu jí;pn zǐ;la	100
+来世请多关照	lái;aa shì;cv qǐng;yo duō;xx guān;bt zhào;oh	100
+那座岛的海音庄	nà;ve zuò;gr dǎo;nu de;bu hǎi;dm yīn;lo zhuāng;gt	100
+镇朝睚眦	zhèn;jb cháo;uo yá;ot zì;ob	100
+往事难言	wǎng;rv shì;gy nán;yv yán;wk	100
+马鲛	mǎ;va jiāo;yf	100
+公由正太郎	gōng;bs yóu;ol zhèng;av tài;dd láng;le	100
+肚子咕噜咕噜子她和肉肉在同居	dǔ;ot zi;la gū;kg lū;ko gū;kg lū;ko zǐ;la tā;ny hé;hk ròu;nr ròu;nr zài;ut tóng;kk jū;ug	100
+乌丸音芽	wū;pa wán;jd yīn;lo yá;cy	100
+波利斯	bō;dp lì;hd sī;ct	100
+彩色喷雾与小兔子	cǎi;vp sè;db pēn;kb wù;yl yǔ;va xiǎo;lb tù;dd zi;la	100
+磷粉爆破手枪	lín;uf fěn;mf bào;hu pò;up shǒu;pf qiāng;av	100
+出师表	chū;uu shī;lj biǎo;fy	100
+贾米拉米勒	jiǎ;xb mǐ;ba lā;fl mǐ;ba lēi;cl	100
+巴拉巴	bā;sl lā;fl bā;sl	100
+拉贡	lā;fl gòng;gb	100
+一去三千夜	yí;aa qù;ts sān;ae qiān;pu yè;ww	100
+响彻吧	xiǎng;kk chè;rd ba;kb	100
+石田幸惠	shí;ak tián;wu xìng;tg huì;ix	100
+走狗	zǒu;tz gǒu;qj	100
+蓝君明	lán;cm jūn;yk míng;oo	100
+李伟	lǐ;az wěi;rw	100
+螺钿的旅行计划	luó;ix diàn;jt de;bu lǚ;fy xíng;rd jì;yu huà;gd	100
+顶级金句	dǐng;dy jí;sj jīn;rb jù;bk	100
+小脸	xiǎo;lb liǎn;oq	100
+父之罪	fù;bx zhī;dn zuì;sf	100
+木阴来梦	mù;ur yīn;eo lái;aa mèng;ax	100
+梦想彩虹	mèng;ax xiǎng;ax cǎi;vp hóng;ig	100
+奥扬科彭	ào;pd yáng;fp kē;hd péng;tp	100
+日落大道	rì;wa luò;ck dà;ar dào;zz	100
+青山龙星	qīng;fo shān;kl lóng;yp xīng;ou	100
+放学后的偶像有一个秘密	fàng;fw xué;xz hòu;ik de;bu ǒu;rd xiàng;ru yǒu;uo yī;aa gè;rl mì;hb mì;bu	100
+鵺之阴阳师	yè;wn zhī;dn yīn;eo yáng;eo shī;lj	100
+伊莉丝芙蕾雅	yī;ry lì;cd sī;sa fú;cf lěi;ct yǎ;yv	100
+会心的一击	huì;ry xīn;dd de;bu yì;aa jī;fk	100
+阿散井莓花	ā;ek sàn;cw jǐng;ac méi;cm huā;cb	100
+扭曲神经	niǔ;fi qū;wc shén;pu jīng;sj	100
+暴发性事件	bào;ou fā;fy xìng;xu shì;gy jiàn;rn	100
+萨蒂婆罗吉亚甲虫	sà;ci dì;cj pó;dn luó;sx jí;tk yà;ay jiǎ;ol chóng;vd	100
+一是无底神	yī;aa shì;oz wú;ay dǐ;gu shén;pu	100
+凹凸搭档	āo;la tū;la dā;fk dàng;ae	100
+萝薇日记	luó;cx wēi;cj rì;wa jì;yj	100
+官方比赛一览	guān;bl fāng;wv bǐ;bb sài;bb yì;aa lǎn;lj	100
+四叠半的反乌托邦	sì;we dié;yq bàn;bf de;bu fǎn;iy wū;pa tuō;fq bāng;fe	100
+丑橘	chǒu;vt jú;ak	100
+王元元	wáng;at yuán;aw yuán;aw	100
+现世如梦	xiàn;wj shì;cv rú;nk mèng;ax	100
+二阶堂亚树	èr;aa jiē;ej táng;xt yà;ay shù;ac	100
+灵通雷公魔蛾	líng;eh tōng;zy léi;yt gōng;bs mó;gg é;iw	100
+面包屑	miàn;ao bāo;bs xiè;uo	100
+霸王凶刃	bà;yo wáng;at xiōng;kx rèn;dd	100
+海因里希克罗默	hǎi;dm yīn;wd lǐ;tt xī;xj kè;ux luó;sx mò;lq	100
+樱华绚烂歌合战	yīng;an huá;ru xuàn;so làn;hl gē;kq hé;rk zhàn;vg	100
+吉川恋	jí;tk chuān;pl liàn;wx	100
+深夜心频率	shēn;da yè;ww xīn;dd pín;vy lǜ;wu	100
+绵流祭	mián;sj liú;di jì;xu	100
+秋野沙友理	qiū;hh yě;ly shā;du yǒu;uy lǐ;wl	100
+无泪的哀声	wú;ay lèi;do de;bu āi;yk shēng;tu	100
+小鹿佐代子	xiǎo;lb lù;gb zuǒ;rg dài;rg zǐ;la	100
+奥特勋章	ào;pd tè;nc xūn;kl zhāng;lu	100
+格雷赫夫利	gé;ak léi;yt hè;ii fū;er lì;hd	100
+藤音玄	téng;cu yīn;lo xuán;wy	100
+啊喂啊喂	a;kk wèi;ky a;kk wèi;ky	100
+佐藤由美子	zuǒ;rg téng;cu yóu;ol měi;yd zǐ;la	100
+超幻觉	chāo;tk huàn;yv jué;xj	100
+英国航空	yīng;cy guó;wy háng;vj kōng;bg	100
+追光逐梦	zhuī;zl guāng;xe zhú;zu mèng;ax	100
+翩然摇曳	piān;hx rán;xh yáo;ff yè;op	100
+花祀时	huā;cb sì;ps shí;to	100
+桂宪一郎	guì;at xiàn;be yì;aa láng;le	100
+完美大作战	wán;by měi;yd dà;ar zuò;rv zhàn;vg	100
+夏井耀祖	xià;bw jǐng;ac yào;gv zǔ;pq	100
+狐狸妹妹	hú;qg lí;ql mèi;nw mei;nw	100
+卡萨斯	kǎ;ub sà;ci sī;ct	100
+通心障害	tōng;zy xīn;dd zhàng;eu hài;bk	100
+鹤卷瑞佳	hè;bn juǎn;jv ruì;we jiā;rt	100
+我们的冒险	wǒ;ga men;rm de;bu mào;oo xiǎn;eq	100
+刘海川	liú;wd hǎi;dm chuān;pl	100
+世末雨歇后	shì;cv mò;aa yǔ;ad xiē;oq hòu;ik	100
+源胜彦	yuán;dx shèng;ou yàn;wp	100
+涟可怜	lián;di kě;dk lián;xs	100
+深井中的月亮	shēn;da jǐng;ac zhōng;kl de;bu yuè;ke liàng;wj	100
+万相由心何妨问天机	wàn;av xiāng;ao yóu;ol xīn;dd hé;rk fáng;nf wèn;mk tiān;ad jī;aj	100
+中性装甲	zhōng;kl xìng;xu zhuāng;ly jiǎ;ol	100
+你的花色	nǐ;rx de;bu huā;cb sè;db	100
+薇斯佩拉	wēi;cj sī;ct pèi;rj lā;fl	100
+水合龙	shuǐ;ln hé;rk lóng;yp	100
+零距离恋爱	líng;ys jù;zj lí;wn liàn;wx ài;vy	100
+玛丽爱尔艾典泽	mǎ;wm lì;ad ài;vy ěr;dx ài;cx diǎn;qb zé;df	100
+韭真央子	jiǔ;fa zhēn;ub yāng;kr zǐ;la	100
+云阿拉伯	yún;ag ā;ek lā;fl bó;rb	100
+森田紫苑	sēn;aa tián;wu zǐ;vx yuàn;cv	100
+阿贺泽红茶	ā;ek hè;lb zé;df hóng;sg chá;cm	100
+吉田蝶	jí;tk tián;wu dié;ia	100
+关潮	guān;bt cháo;do	100
+夏威夷航空	xià;bw wēi;gn yí;ar háng;vj kōng;bg	100
+尘沙	chén;xt shā;du	100
+基塔尔法	jī;ct tǎ;tk ěr;dx fǎ;dq	100
+乌托邦幸福论	wū;pa tuō;fq bāng;fe xìng;tg fú;pt lùn;yl	100
+月儿升	yuè;ke ér;pv shēng;pc	100
+血色之玺	xuè;pm sè;db zhī;dn xǐ;dy	100
+本田米露菲	běn;aa tián;wu mǐ;ba lù;yk fēi;cf	100
+跨越岁月	kuà;zk yuè;tl suì;ux yuè;ke	100
+北风吹雪	běi;lb fēng;jx chuī;kq xuě;ye	100
+妮娜克莱布	nī;nb nà;ne kè;ux lái;cl bù;uj	100
+科丝蒂	kē;hd sī;sa dì;cj	100
+热千玫拉	rè;fh qiān;pu méi;ww lā;fl	100
+只希望你能做自己	zhǐ;kb xī;xj wàng;ww nǐ;rx néng;sb zuò;rw zì;po jǐ;kv	100
+何处山海万象生	hé;rk chù;wb shān;kl hǎi;dm wàn;av xiàng;du shēng;pf	100
+我的引力	wǒ;ga de;bu yǐn;gl lì;vp	100
+重靖电子	zhòng;ql jìng;lo diàn;ov zǐ;la	100
+夜晚过后将迎来早晨	yè;ww wǎn;oe guò;zc hòu;ik jiāng;lc yíng;ze lái;aa zǎo;ou chén;oi	100
+月光下的锁链	yuè;ke guāng;xe xià;ab de;bu suǒ;jb liàn;ji	100
+惊天磨刀团	jīng;xx tiān;ad mó;gu dāo;vp tuán;wc	100
+佐藤乃子	zuǒ;rg téng;cu nǎi;pv zǐ;la	100
+拜心上人所赐	bài;uf xīn;dd shàng;ba rén;pn suǒ;ht cì;bw	100
+四手	sì;we shǒu;pf	100
+周子瑜	zhōu;kk zǐ;la yú;wd	100
+肆足步行	sì;ey zú;kz bù;vu xíng;rd	100
+安东拉	ān;bn dōng;ax lā;fl	100
+森田友也	sēn;aa tián;wu yǒu;uy yě;vv	100
+汤姆库沙瓦	tāng;dp mǔ;nm kù;gi shā;du wǎ;ad	100
+悯宥慈怜之垠	mǐn;xw yòu;bo cí;bx lián;xs zhī;dn yín;tg	100
+偶像道	ǒu;rd xiàng;ru dào;zz	100
+森本茂道	sēn;aa běn;aa mào;cg dào;zz	100
+天刑戮脊	tiān;ad xíng;kd lù;xg jǐ;ro	100
+格斯拉	gé;ak sī;ct lā;fl	100
+图皮	tú;wd pí;py	100
+燕王血胄	yàn;ch wáng;at xuè;pm zhòu;yo	100
+阿联酋航空	ā;ek lián;et qiú;by háng;vj kōng;bg	100
+逢泽光明	féng;zf zé;df guāng;xe míng;oo	100
+樱与向日葵	yīng;an yǔ;va xiàng;pk rì;wa kuí;ct	100
+怪兽勋章	guài;xt shòu;bk xūn;kl zhāng;lu	100
+服部千惠美	fú;oy bù;le qiān;pu huì;ix měi;yd	100
+皮格马利翁的咒文	pí;py gé;ak mǎ;va lì;hd wēng;gx de;bu zhòu;xj wén;wx	100
+椎名京	zhuī;av míng;xk jīng;wx	100
+黑野红	hēi;lh yě;ly hóng;sg	100
+予心一丝安息	yǔ;sl xīn;dd yì;aa sī;sa ān;bn xī;zx	100
+望乡	wàng;ww xiāng;vp	100
+快乐结局水生动物	kuài;xg lè;px jié;sk jú;uk shuǐ;ln shēng;pf dòng;yl wù;nw	100
+今天的晚饭会是什么呢	jīn;rv tiān;ad de;bu wǎn;oe fàn;uy huì;ry shì;oz shén;ru me;ps ne;kb	100
+美满家庭的人妻对女儿的朋友沉迷不已的故事	měi;yd mǎn;dl jiā;bu tíng;gw de;bu rén;pn qī;un duì;yc nǚ;va ér;pv de;bu péng;oo you;uy chén;dj mí;zm bù;ab yǐ;kv de;bu gù;gw shì;gy	100
+声真似	shēng;tu zhēn;ub sì;rr	100
+谜丸	mí;ym wán;jd	100
+须贺蕾叶	xū;py hè;lb lěi;ct xié;ku	100
