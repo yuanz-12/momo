@@ -1002,6 +1002,10 @@ sort: by_weight
 骑兵	jì;mk bīng;qb	11084
 骑士	qí;mk shì;ua	7218
 骑士	jì;mk shì;ua	7218
+骑乘	qí;mk shèng;qr	888
+骑乘	jì;mk shèng;qr	888
+千骑万乘	qiān;pu qí;mk wàn;av shèng;qr	4
+千骑万乘	qiān;pu jì;mk wàn;av shèng;qr	4
 坐骑	zuò;tr qí;mk	6950
 坐骑	zuò;tr jì;mk	6950
 铁骑	tiě;jf qí;mk	1026
@@ -1028,6 +1032,8 @@ sort: by_weight
 游骑	yóu;dz jì;mk	1
 精骑	jīng;mo qí;mk	1
 精骑	jīng;mo jì;mk	1
+良骑	liáng;dg qí;mk	1
+良骑	liáng;dg jì;mk	1
 候骑	hòu;ru qí;mk	1
 候骑	hòu;ru jì;mk	1
 飞骑	fēi;vd qí;mk	1
@@ -1306,6 +1312,8 @@ sort: by_weight
 阿房宫赋	ā;ek páng;hf gōng;bk fù;bv	138
 阿房宫赋	ē;ek fáng;hf gōng;bk fù;bv	138
 阿房宫赋	ā;ek fáng;hf gōng;bk fù;bv	138
+阏伯	è;md bó;rb	1
+阏伯	yān;md bó;rb	1
 吐蕃	tǔ;kt bō;ct	6372
 吐蕃	tǔ;kt fān;ct	6372
 岑参	cén;uv shēn;sp	724
