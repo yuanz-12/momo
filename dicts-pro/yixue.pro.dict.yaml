@@ -6124,6 +6124,9 @@ sort: by_weight
 肾激肽系统	shèn;lo jī;dw tài;ot xì;px tǒng;sy	10
 伸肌支持带	shēn;ru jī;oj zhī;uy chí;fc dài;cj	10
 肾精不足证	shèn;lo jīng;mo bù;ab zú;kz zhèng;yv	10
+神经传导物	shén;pu jīng;sj chuán;rv dǎo;sc wù;nw	10
+神经传递素	shén;pu jīng;sj chuán;rv dì;zd sù;fx	10
+神经传递物	shén;pu jīng;sj chuán;rv dì;zd wù;nw	10
 神经典型者	shén;pu jīng;sj diǎn;qb xíng;kt zhě;lo	10
 神经根性痛	shén;pu jīng;sj gēn;ag xìng;xu tòng;by	10
 神经管畸形	shén;pu jīng;sj guǎn;vl jī;tk xíng;kp	10
@@ -6168,9 +6171,6 @@ sort: by_weight
 神经源性肠	shén;pu jīng;sj yuán;dx xìng;xu cháng;op	10
 神经元移植	shén;pu jīng;sj yuán;aw yí;hx zhí;aq	10
 神经重症学	shén;pu jīng;sj zhòng;ql zhèng;bv xué;xz	10
-神经传导物	shén;pu jīng;sj zhuàn;rv dǎo;sc wù;nw	10
-神经传递素	shén;pu jīng;sj zhuàn;rv dì;zd sù;fx	10
-神经传递物	shén;pu jīng;sj zhuàn;rv dì;zd wù;nw	10
 神经追踪法	shén;pu jīng;sj zhuī;zl zōng;zu fǎ;dq	10
 肾局部灌注	shèn;lo jú;uk bù;le guàn;dv zhù;dv	10
 肾窥镜检查	shèn;lo kuī;bj jìng;je jiǎn;aq chá;ad	10
@@ -14058,6 +14058,11 @@ sort: by_weight
 神经变性疾病	shén;pu jīng;sj biàn;wy xìng;xu jí;bu bìng;bn	10
 神经病学分会	shén;pu jīng;sj bìng;bn xué;xz fēn;bd huì;ry	10
 神经病学教授	shén;pu jīng;sj bìng;bn xué;xz jiào;lw shòu;fy	10
+神经传达物质	shén;pu jīng;sj chuán;rv dá;zd wù;nw zhì;ib	10
+神经传导物质	shén;pu jīng;sj chuán;rv dǎo;sc wù;nw zhì;ib	10
+神经传导阻滞	shén;pu jīng;sj chuán;rv dǎo;sc zǔ;eq zhì;dj	10
+神经传递介质	shén;pu jīng;sj chuán;rv dì;zd jiè;rl zhì;ib	10
+神经传递物质	shén;pu jīng;sj chuán;rv dì;zd wù;nw zhì;ib	10
 神经丛封闭术	shén;pu jīng;sj cóng;ra fēng;tc bì;mc shù;ad	10
 神经递质受体	shén;pu jīng;sj dì;zd zhì;ib shòu;vy tǐ;rb	10
 神经递质系统	shén;pu jīng;sj dì;zd zhì;ib xì;px tǒng;sy	10
@@ -14113,11 +14118,6 @@ sort: by_weight
 神经原性休克	shén;pu jīng;sj yuán;ix xìng;xu xiū;ra kè;ux	10
 神经源性肿瘤	shén;pu jīng;sj yuán;dx xìng;xu zhǒng;ov liú;bt	10
 神经重症协会	shén;pu jīng;sj zhòng;ql zhèng;bv xié;ub huì;ry	10
-神经传达物质	shén;pu jīng;sj zhuàn;rv dá;zd wù;nw zhì;ib	10
-神经传导物质	shén;pu jīng;sj zhuàn;rv dǎo;sc wù;nw zhì;ib	10
-神经传导阻滞	shén;pu jīng;sj zhuàn;rv dǎo;sc zǔ;eq zhì;dj	10
-神经传递介质	shén;pu jīng;sj zhuàn;rv dì;zd jiè;rl zhì;ib	10
-神经传递物质	shén;pu jīng;sj zhuàn;rv dì;zd wù;nw zhì;ib	10
 神经滋养血管	shén;pu jīng;sj zī;dy yǎng;yl xuè;pm guǎn;vl	10
 神经阻滞麻醉	shén;pu jīng;sj zǔ;eq zhì;dj má;ga zuì;yu	10
 神经阻滞治疗	shén;pu jīng;sj zǔ;eq zhì;dj zhì;dk liáo;bl	10
