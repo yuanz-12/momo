@@ -39568,6 +39568,7 @@ sort: by_weight
 好过些	hǎo;nz guò;zc siē;ve	590
 好嗨心	hǎo;nz hāi;km sīn;dd	234
 好害羞	hǎo;nz hài;bk siū;yi	734
+好行情	hǎo;nz háng;rd cíng;xo	662
 好好接	hǎo;nz hǎo;nz ziē;fn	585
 好好洗	hǎo;nz hǎo;nz siǐ;de	742
 好好想	hǎo;nz hǎo;nz siǎng;ax	1215
@@ -39869,7 +39870,6 @@ sort: by_weight
 好性感	hǎo;nz sìng;xu gǎn;gx	630
 好性格	hǎo;nz sìng;xu gé;ak	927
 好醒目	hǎo;nz sǐng;yu mù;we	468
-好行情	hǎo;nz xíng;rd cíng;xo	662
 好形象	hǎo;nz xíng;kp siàng;du	119
 好羞耻	hǎo;nz siū;yi chǐ;ev	693
 好羞涩	hǎo;nz siū;yi sè;dv	580
@@ -96965,6 +96965,7 @@ sort: by_weight
 无国籍	wú;ay guó;wy zií;vo	100
 乌海西	wū;pa hǎi;dm siī;ak	423
 武汉籍	wǔ;gv hàn;dy zií;vo	387
+无行情	wú;ay háng;rd cíng;xo	292
 五号井	wǔ;aw hào;kk zǐng;ac	189
 五号线	wǔ;aw hào;kk siàn;sj	69
 无核集	wú;ay hé;ar zií;ra	50
@@ -97367,7 +97368,6 @@ sort: by_weight
 五星牌	wǔ;aw sīng;ou pái;pu	432
 五星坪	wǔ;aw sīng;ou píng;tp	310
 五星旗	wǔ;aw sīng;ou qí;fb	126
-无行情	wú;ay xíng;rd cíng;xo	292
 无兴趣	wú;ay xìng;xb cǜ;ty	119
 无腥味	wú;ay sīng;ou wèi;kw	572
 无性系	wú;ay sìng;xu xì;px	41
@@ -100104,6 +100104,7 @@ sort: by_weight
 下锅煎	xià;ab guō;jn ziān;bh	540
 下锅前	xià;ab guō;jn cián;bd	576
 下过雪	xià;ab guò;zc süě;ye	558
+下行情	xià;ab háng;rd cíng;xo	801
 下河西	xià;ab hé;dk siī;ak	392
 下颌线	xià;ab hé;ry siàn;sj	706
 下狠心	xià;ab hěn;qg sīn;dd	217
@@ -100221,7 +100222,6 @@ sort: by_weight
 狭心症	xiá;qj sīn;dd zhèng;bv	6
 吓醒了	xià;kx sǐng;yu le;al	154
 下星期	xià;ab sīng;ou qī;co	185
-下行情	xià;ab xíng;rd cíng;xo	801
 下行线	xià;ab xíng;rd siàn;sj	9
 下性子	xià;ab sìng;xu zi;la	626
 虾须格	xiā;ix sǖ;py gé;ak	243
@@ -107043,6 +107043,7 @@ sort: by_weight
 小汗腺	siǎo;lb hàn;dg siàn;ou	35
 小巷道	siǎo;lb hàng;gs dào;zz	436
 小行家	siǎo;lb háng;rd jiā;bu	185
+小行情	siǎo;lb háng;rd cíng;xo	504
 小号啊	siǎo;lb hào;kk a;kk	396
 小号吧	siǎo;lb hào;kk ba;kb	477
 消耗吧	siāo;do hào;lm ba;kb	346
@@ -111376,7 +111377,6 @@ sort: by_weight
 小型机	siǎo;lb xíng;kt jī;aj	641
 笑醒了	siào;vy sǐng;yu le;al	598
 小行李	siǎo;lb xíng;rd lǐ;az	608
-小行情	siǎo;lb xíng;rd cíng;xo	504
 小星球	siǎo;lb sīng;ou qiú;wq	634
 小兴趣	siǎo;lb xìng;xb cǜ;ty	536
 小型犬	siǎo;lb xíng;kt quǎn;dd	824
@@ -125005,6 +125005,7 @@ sort: by_weight
 由国际	yóu;ol guó;wy ziì;eu	125
 有海鲜	yǒu;uo hǎi;dm siān;yy	69
 有害性	yǒu;uo hài;bk sìng;xu	44
+有行情	yǒu;uo háng;rd cíng;xo	752
 又好像	yòu;vn hǎo;nz siàng;ru	1297
 有好想	yǒu;uo hǎo;nz siǎng;ax	513
 有好些	yǒu;uo hǎo;nz siē;ve	333
@@ -125549,7 +125550,6 @@ sort: by_weight
 又醒了	yòu;vn sǐng;yu le;al	185
 有腥气	yǒu;uo sīng;ou qì;pv	594
 油性漆	yóu;dy sìng;xu ciī;du	483
-有行情	yǒu;uo xíng;rd cíng;xo	752
 有兴趣	yǒu;uo xìng;xb cǜ;ty	44302
 有腥味	yǒu;uo sīng;ou wèi;kw	999
 有雄心	yǒu;uo xióng;uv sīn;dd	138
@@ -135379,7 +135379,7 @@ sort: by_weight
 必须要干	bì;xp sǖ;py yào;xn gàn;au	410
 必须要看	bì;xp sǖ;py yào;xn kàn;uo	788
 必须要买	bì;xp sǖ;py yào;xn mǎi;ad	729
-必须要求	bì;xp sǖ;py yào;xn qiú;au	778
+必须要求	bì;xp sǖ;py yāo;xn qiú;au	778
 必须要有	bì;xp sǖ;py yào;xn yǒu;uo	1300
 必须要走	bì;xp sǖ;py yào;xn zǒu;tz	670
 必须要做	bì;xp sǖ;py yào;xn zuò;rw	1068
@@ -150968,7 +150968,7 @@ sort: by_weight
 防伪查询	fáng;ef wěi;rw chá;ad sǘn;yo	644
 防微杜渐	fáng;ef wēi;rj dù;at ziàn;dt	251
 防卫对象	fáng;ef wèi;ea duì;yc siàng;du	117
-方位分析	fāng;wv wèi;rl fèn;bd siī;at	500
+方位分析	fāng;wv wèi;rl fēn;bd siī;at	500
 防卫细胞	fáng;ef wèi;ea siì;st bāo;ob	50
 防伪性能	fáng;ef wěi;rw sìng;xu néng;sb	387
 房屋安全	fáng;hf wū;ut ān;bn cüán;rw	706
@@ -188444,7 +188444,7 @@ sort: by_weight
 满目青翠	mǎn;dl mù;we cīng;fo cuì;xu	418
 满目青山	mǎn;dl mù;we cīng;fo shān;kl	35
 满目潇然	mǎn;dl mù;we siāo;db rán;xh	45
-慢牛行情	màn;xy niú;pu xíng;rd cíng;xo	598
+慢牛行情	màn;xy niú;pu háng;rd cíng;xo	598
 满砌护坡	mǎn;dl ciì;ud hù;fh pō;tp	45
 满腔热情	mǎn;dl qiāng;og rè;fh cíng;xo	236
 满清八旗	mǎn;dl cīng;do bā;pn qí;fb	333
@@ -194499,8 +194499,8 @@ sort: by_weight
 盘包浆了	pán;vm bāo;bs ziāng;lu le;al	162
 攀比心理	pān;au bǐ;bb sīn;dd lǐ;wl	702
 攀登路线	pān;au dēng;bb lù;zk siàn;sj	441
+判断行情	pàn;bd duàn;vt háng;rd cíng;xo	662
 判断趋势	pàn;bd duàn;vt cǖ;te shì;fl	698
-判断行情	pàn;bd duàn;vt xíng;rd cíng;xo	662
 攀高接贵	pān;au gāo;wk ziē;fn guì;vb	23
 盘根错节	pán;vm gēn;ag cuò;jo zié;ce	754
 槃根错节	pán;va gēn;ag cuò;jo zié;ce	4
@@ -234628,9 +234628,9 @@ sort: by_weight
 下指节纹	xià;ab zhǐ;fo zié;ce wén;sw	45
 夏至前后	xià;bw zhì;gt cián;bd hòu;ik	410
 夏至时节	xià;bw zhì;gt shí;to zié;ce	297
+下周行情	xià;ab zhōu;kk háng;rd cíng;xo	684
 下周就考	xià;ab zhōu;kk ziù;wy kǎo;lk	194
 下粥小菜	xià;ab zhōu;gm siǎo;lb cài;ca	52
-下周行情	xià;ab zhōu;kk xíng;rd cíng;xo	684
 下装消失	xià;ab zhuāng;ly siāo;do shī;pf	256
 瞎子摸象	xiā;ok zi;la mō;fd siàng;du	91
 下自习了	xià;ab zì;po sií;vd le;al	230
@@ -236723,7 +236723,7 @@ sort: by_weight
 想吃啥了	siǎng;ax chī;kv shá;kg le;al	202
 想吃啥呀	siǎng;ax chī;kv shá;kg ya;ky	117
 想吃啥子	siǎng;ax chī;kv shá;kg zi;la	288
-想吃什么	siǎng;ax chī;kv shí;ru me;ps	1260
+想吃什么	siǎng;ax chī;kv shén;ru me;ps	1260
 想吃甜食	siǎng;ax chī;kv tián;ug shí;rg	549
 相持未决	siāng;ao chí;fc wèi;aa jué;dg	153
 想出办法	siǎng;ax chū;uu bàn;lb fǎ;dq	151
@@ -238796,7 +238796,7 @@ sort: by_weight
 想说的是	siǎng;ax shuō;yx de;bu shì;oz	1395
 想说明啥	siǎng;ax shuō;yx míng;oo shá;kg	252
 想说啥子	siǎng;ax shuō;yx shá;kg zi;la	117
-想说什么	siǎng;ax shuō;yx shí;ru me;ps	1264
+想说什么	siǎng;ax shuō;yx shén;ru me;ps	1264
 想说一句	siǎng;ax shuō;yx yí;aa jù;bk	1008
 想说一下	siǎng;ax shuō;yx yí;aa xià;ab	914
 想死啊你	siǎng;ax sǐ;db a;kk nǐ;rx	117
@@ -254346,7 +254346,7 @@ sort: by_weight
 压轴节目	yā;id zhòu;iy zié;ce mù;we	418
 压轴亮相	yā;id zhòu;iy liàng;wj siàng;ao	378
 牙周纤维	yá;gp zhōu;kk siān;sq wéi;sv	153
-亚组分析	yà;ay zǔ;sq fèn;bd siī;at	418
+亚组分析	yà;ay zǔ;sq fēn;bd siī;at	418
 沿岸沉积	yán;dk àn;ug chén;dj ziī;hv	76
 沿鞍羊线	yán;dk ān;cn yáng;bf siàn;sj	50
 芫爆里脊	yán;cy bào;hu lǐ;tt zii;ro	266
@@ -268196,7 +268196,7 @@ sort: by_weight
 致突变性	zhì;gw tū;bq biàn;wy sìng;xu	392
 制图精度	zhì;nd tú;wd zīng;mo dù;gy	4
 职位查询	zhí;ev wèi;rl chá;ad sǘn;yo	634
-职位分析	zhí;ev wèi;rl fèn;bd siī;at	562
+职位分析	zhí;ev wèi;rl fēn;bd siī;at	562
 职位晋升	zhí;ev wèi;rl zìn;yo shēng;pc	603
 只为了钱	zhǐ;kb wèi;ld le;al cián;jj	31
 只为你笑	zhǐ;kb wèi;ld nǐ;rx siào;vy	4
