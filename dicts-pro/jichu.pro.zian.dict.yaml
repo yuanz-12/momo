@@ -14551,10 +14551,10 @@ sort: by_weight
 仙婆	siān;ru pó;dn	842
 先破	siān;ne pò;up	505
 线谱	siàn;sj pǔ;yo	236
-氙气	siān;qu qì;pv	803
-先期	siān;ne qī;co	584
-仙气	siān;ru qì;pv	222
-贤妻	xián;lb ciī;un	147
+仙气	siān;ru qì;pv	803
+贤妻	xián;lb ciī;un	584
+氙气	siān;qu qì;pv	222
+先期	siān;ne qī;co	147
 仙器	siān;ru qì;xx	59
 先前	siān;ne cián;bd	7486
 闲钱	xián;ma cián;jj	3488
@@ -17082,7 +17082,8 @@ sort: by_weight
 写书	siě;by shū;vd	3467
 邪术	sié;ye shù;ad	568
 谢叔	siè;yc shū;uy	243
-泄水	siè;du shuǐ;ln	1755
+写谁	siě;by shuí;yv	1755
+泄水	siè;du shuǐ;ln	310
 邪说	sié;ye shuō;yx	122
 写死	siě;by sǐ;db	842
 邪祟	sié;ye suì;iu	204
@@ -17093,8 +17094,8 @@ sort: by_weight
 泄题	siè;du tí;oy	662
 写题	siě;by tí;oy	288
 楔体	siē;ad tǐ;rb	157
-谢天	siè;yc tiān;ad	150
-些天	siē;ve tiān;ad	36
+些天	siē;ve tiān;ad	150
+谢天	siè;yc tiān;ad	36
 斜歪	sié;rd wāi;bv	396
 写完	siě;by wán;by	13128
 亵玩	siè;yw wán;wy	97
@@ -45969,6 +45970,7 @@ sort: by_weight
 捡钱包	jiǎn;fq cián;jj bāo;bs	482
 睑前面	jiǎn;oq cián;bd miàn;ao	4
 见前任	jiàn;ke cián;bd rèn;rw	508
+肩前束	jiān;ho cián;bd shù;gr	60
 肩前穴	jiān;ho cián;bd xué;bb	153
 睑前缘	jiǎn;oq cián;bd yuán;su	45
 坚强些	jiān;lt qiáng;gi siē;ve	423
@@ -103643,6 +103645,7 @@ sort: by_weight
 橡皮艇	siàng;au pí;py tǐng;vw	166
 橡皮头	siàng;au pí;py tóu;dd	472
 橡皮线	siàng;au pí;py siàn;sj	76
+橡皮屑	siàng;au pí;py siè;uo	49
 橡皮鸭	siàng;au pí;py yā;jn	43
 橡皮章	siàng;au pí;py zhāng;lu	760
 橡皮障	siàng;au pí;py zhàng;eu	224
@@ -125264,6 +125267,7 @@ sort: by_weight
 有趣儿	yǒu;uo cǜ;ty er;pv	60
 有趣了	yǒu;uo cǜ;ty le;al	477
 又娶了	yòu;vn cǚ;en le;al	304
+有趣吗	yǒu;uo cǜ;ty ma;km	61
 有趣呢	yǒu;uo cǜ;ty ne;kb	680
 有趣味	yǒu;uo cǜ;ty wèi;kw	229
 又取消	yòu;vn cǚ;ey siāo;do	648
@@ -287411,6 +287415,7 @@ sort: by_weight
 三箭定天山	sān;ae ziàn;vd dìng;bz tiān;ad shān;kl	10
 三尖两刃刀	sān;ae ziān;xd liǎng;ar rèn;dd dāo;vp	10
 三角函数线	sān;ae jiǎo;dy hán;ku shù;mw siàn;sj	10
+三角肌前束	sān;ae jiǎo;dy jī;oj cián;bd shù;gr	10
 三焦无所御	sān;ae ziāo;rh wú;ay suǒ;ht yù;re	10
 三角形接法	sān;ae jiǎo;dy xíng;kp ziē;fn fǎ;dq	10
 三角洲沉积	sān;ae jiǎo;dy zhōu;dv chén;dj ziī;hv	10
