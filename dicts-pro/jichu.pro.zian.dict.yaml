@@ -5631,6 +5631,7 @@ sort: by_weight
 就出	ziù;wy chū;uu	725
 就踹	ziù;wy chuài;ze	680
 就穿	ziù;wy chuān;by	484
+就喘	ziù;wy chuǎn;ke	455
 就此	ziù;wy cǐ;vb	14692
 就从	ziù;wy cóng;rr	11138
 就打	ziù;wy dǎ;fd	2594
@@ -21328,6 +21329,7 @@ sort: by_weight
 紫晶	zǐ;vx zīng;oo	103
 子爵	zǐ;la züé;vc	464
 自绝	zì;po züé;sb	131
+自签	zì;po ciān;vq	520
 资浅	zī;db ciǎn;dj	503
 自戕	zì;po ciāng;pg	207
 自请	zì;po cǐng;yo	1228
@@ -83265,6 +83267,7 @@ sort: by_weight
 溶骨性	róng;dg gǔ;go sìng;xu	297
 融合剂	róng;gi hé;rk ziì;qd	428
 融合积	róng;gi hé;rk ziī;hv	262
+融合进	róng;gi hé;rk zìn;zj	166
 融合性	róng;gi hé;rk sìng;xu	616
 溶化性	róng;dg huà;rb sìng;xu	76
 容积泵	róng;bg ziī;hv bèng;uu	243
@@ -99438,6 +99441,7 @@ sort: by_weight
 洗头水	siǐ;de tóu;dd shuǐ;ln	41
 洗头在	siǐ;de tóu;dd zài;ut	382
 洗头这	siǐ;de tóu;dd zhè;zw	508
+洗头枕	siǐ;de tóu;dd zhěn;ae	41
 西土城	siī;ak tǔ;ua chéng;ti	580
 西突厥	siī;ak tū;bq jué;iq	813
 西土山	siī;ak tǔ;ua shān;kl	230
@@ -100005,6 +100009,7 @@ sort: by_weight
 西爪哇	siī;ak zhǎo;in wā;kt	3
 吸着剂	xī;kj zhe;yo ziì;qd	117
 细褶皱	siì;st zhě;pb zhòu;dp	130
+洗枕头	siǐ;de zhěn;ae tou;dd	139
 西阵织	siī;ak zhèn;ei zhī;sv	369
 席珍子	sií;gj zhēn;wp zǐ;la	4
 西正街	siī;ak zhèng;av jiē;rt	288
@@ -216592,6 +216597,7 @@ sort: by_weight
 实际税负	shí;bd ziì;eu shuì;hx fù;db	594
 实际水平	shí;bd ziì;eu shuǐ;ln píng;au	465
 实际损失	shí;bd ziì;eu sǔn;fb shī;pf	528
+实际索引	shí;bd ziì;eu suǒ;ux yǐn;gl	531
 实际体验	shí;bd ziì;eu tǐ;rb yàn;mq	1008
 世纪天津	shì;cv jì;sj tiān;ad zīn;dy	207
 十几天前	shí;al jǐ;pv tiān;ad cián;bd	100
@@ -234294,6 +234300,8 @@ sort: by_weight
 细斟慢酌	siì;st zhēn;cd màn;xy zhuó;yu	153
 细针密缕	siì;st zhēn;ju mì;bu lǚ;sn	130
 细针密线	siì;st zhēn;ju mì;bu siàn;sj	6
+洗枕头套	siǐ;de zhěn;ae tou;dd tào;dg	36
+洗枕头芯	siǐ;de zhěn;ae tou;dd sīn;cx	36
 西政大学	siī;ak zhèng;vw dà;ar xué;xz	76
 西证渝富	siī;ak zhèng;yv yú;dd fù;bt	50
 西之表岛	siī;ak zhī;dn biǎo;fy dǎo;nu	50
@@ -280210,7 +280218,7 @@ sort: by_weight
 简笔画大全	jiǎn;vo bǐ;vm huà;at dà;ar cüán;rw	10
 渐变的颜色	ziàn;dt biàn;wy de;bu yán;wy sè;db	10
 渐变灰滤镜	ziàn;dt biàn;wy huī;uh lǜ;dx jìng;je	10
-煎饼果子摊	ziān;bh bing;uk guǒ;ta zi;la tān;fv	10
+煎饼馃子摊	ziān;bh bing;uk guǒ;ug zi;la tān;fv	10
 箭步冲上前	ziàn;vd bù;vu chōng;dv shàng;ba cián;bd	10
 检测和分析	jiǎn;aq cè;dd hé;hk fēn;bd siī;at	10
 监测和分析	jiān;lm cè;dd hé;hk fēn;bd siī;at	10
@@ -289380,7 +289388,7 @@ sort: by_weight
 贪多嚼不烂	tān;rb duō;xx ziáo;kc bú;ab làn;hl	10
 谈感情伤钱	tán;yh gǎn;gx cíng;xo shāng;rl cián;jj	10
 郯攻齐之战	tán;he gōng;gw cií;wl zhī;dn zhàn;vg	10
-摊煎饼果子	tān;fv ziān;bh bing;uk guǒ;ta zi;la	10
+摊煎饼馃子	tān;fv ziān;bh bing;uk guǒ;ug zi;la	10
 坦克歼击营	tǎn;td kè;ux ziān;dq jī;fk yíng;ck	10
 贪了多少钱	tān;rb le;al duō;xx shǎo;xp cián;jj	10
 弹力背心套	tán;gu lì;vp bèi;bo sīn;dd tào;dg	10
