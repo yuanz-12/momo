@@ -5894,8 +5894,8 @@ sort: by_weight
 就推	ziù;wy tuī;fv	1094
 酒托	ziǔ;dy tuō;fq	770
 就玩	ziù;wy wán;wy	1193
-酒碗	ziǔ;dy wǎn;uv	436
-就完	ziù;wy wán;by	166
+就完	ziù;wy wán;by	260
+酒碗	ziǔ;dy wǎn;uv	208
 就往	ziù;wy wǎng;rv	3231
 就忘	ziù;wy wàng;wx	92
 就为	ziù;wy wèi;ld	2769
@@ -11188,6 +11188,7 @@ sort: by_weight
 全为	cüán;rw wéi;ld	547
 全委	cüán;rw wěi;hn	314
 全文	cüán;rw wén;wx	14893
+全握	cüán;rw wò;ft	512
 醛肟	cüán;yw wò;ok	392
 全屋	cüán;rw wū;ut	3391
 全无	cüán;rw wú;ay	2053
@@ -20372,6 +20373,7 @@ sort: by_weight
 有钱	yǒu;uo cián;jj	40142
 油钱	yóu;dy cián;jj	1004
 右前	yòu;uk cián;bd	251
+右迁	yòu;uk ciān;zq	109
 又浅	yòu;vn ciǎn;dj	100
 有枪	yǒu;uo ciāng;av	669
 油枪	yóu;dy ciāng;av	636
@@ -30561,6 +30563,7 @@ sort: by_weight
 大信镇	dà;ar sìn;rk zhèn;jb	279
 大新庄	dà;ar sīn;lt zhuāng;gt	315
 打星吧	dǎ;fd sīng;ou ba;kb	212
+打星号	dǎ;fd sīng;ou hào;kk	459
 大兴集	dà;ar xīng;xb zií;ra	252
 打醒了	dǎ;fd sǐng;yu le;al	558
 大星芹	dà;ar sīng;ou qín;ct	99
@@ -55383,6 +55386,8 @@ sort: by_weight
 截个屏	zié;gv gè;rl píng;uk	351
 借个钱	ziè;ro gè;rl cián;jj	418
 截个图	zié;gv gè;rl tú;wd	663
+接个线	ziē;fn gè;rl siàn;sj	92
+借个先	ziè;ro gè;rl siān;ne	73
 借给了	ziè;ro gěi;sk le;al	842
 借给你	ziè;ro gěi;sk nǐ;rx	868
 借给人	ziè;ro gěi;sk rén;pn	446
@@ -55390,6 +55395,7 @@ sort: by_weight
 借给她	ziè;ro gěi;sk tā;ny	573
 借给我	ziè;ro gěi;sk wǒ;ga	499
 截根术	zié;gv gēn;ag shù;ad	76
+接根线	ziē;fn gēn;ag siàn;sj	49
 接工程	ziē;fn gōng;aa chéng;hw	634
 结构墙	jié;sk gòu;ag ciáng;tk	477
 结构线	jié;sk gòu;ag siàn;sj	531
@@ -119203,6 +119209,7 @@ sort: by_weight
 修复类	siū;rp fù;pw lèi;md	436
 修复力	siū;rp fù;pw lì;vp	544
 修复率	siū;rp fù;pw lǜ;wu	351
+修复没	siū;rp fù;pw méi;du	213
 修复酶	siū;rp fù;pw méi;ym	16
 修复期	siū;rp fù;pw qī;co	580
 修复器	siū;rp fù;pw qì;xx	395
@@ -273895,6 +273902,8 @@ sort: by_weight
 北国先天下	běi;lb guó;wy siān;ne tiān;ad xià;ab	10
 被汗水浸湿	bèi;pp hàn;dg shuǐ;ln zìn;dy shī;dy	10
 背后的艰辛	bèi;bo hòu;ik de;bu jiān;yg sīn;lu	10
+背后的辛酸	bèi;bo hòu;ik de;bu sīn;lu suān;yw	12
+背后的心酸	bèi;bo hòu;ik de;bu sīn;dd suān;yw	10
 背后的隐情	bèi;bo hòu;ik de;bu yǐn;ex cíng;xo	10
 北霍布逊湖	běi;lb huò;yv bù;uj sǜn;zx hú;do	10
 贝济埃曲线	bèi;kr ziì;dq āi;tu qū;wc siàn;sj	10
@@ -279492,7 +279501,7 @@ sort: by_weight
 活得很潇洒	huó;du de;rc hěn;rg siāo;db sǎ;dx	10
 活得很辛苦	huó;du de;rc hěn;rg sīn;lu kǔ;cg	10
 活得开心点	huó;du de;rc kāi;ac sīn;dd diǎn;vh	10
-活的明白些	huó;du de;bu míng;oo bai;po siē;ve	10
+活得明白些	huó;du de;rc míng;oo bai;po siē;ve	10
 祸害遗千年	huò;pn hai;bk yí;zb ciān;pu nián;pf	10
 活化剂蛋白	huó;du huà;rb ziì;qd dàn;zi bái;po	10
 火箭的防守	huǒ;br ziàn;vd de;bu fáng;ef shǒu;bc	10
@@ -280842,7 +280851,7 @@ sort: by_weight
 接完电话后	ziē;fn wán;by diàn;ov huà;yu hòu;ik	10
 截尾平均数	zié;gv wěi;um píng;au jūn;ty shù;mw	10
 借我一场秋	ziè;ro wǒ;ga yì;aa chǎng;tp ciū;hh	10
-姐无奈的说	ziě;nq wú;ay nài;du de;bu shuō;yx	10
+姐无奈地说	ziě;nq wú;ay nài;du de;ty shuō;yx	10
 洁西卡艾芭	jié;dk siī;ak kǎ;ub ài;cx bā;cb	10
 洁西卡琼斯	jié;dk siī;ak kǎ;ub qióng;wx sī;ct	10
 揭西客家话	jiē;fr siī;ak kè;bk jiā;bu huà;yu	10
@@ -285131,6 +285140,8 @@ sort: by_weight
 旗帜性人物	qí;fb zhì;jv sìng;xu rén;pn wù;nw	10
 器质性心境	qì;xx zhì;ib sìng;xu sīn;dd jìng;te	10
 其中的艰辛	qí;cb zhōng;kl de;bu jiān;yg sīn;lu	10
+其中的辛酸	qí;cb zhōng;kl de;bu sīn;lu suān;yw	12
+其中的心酸	qí;cb zhōng;kl de;bu sīn;dd suān;yw	10
 祈竹仁波切	qí;pt zhú;gg rén;re bō;dp ciè;qd	10
 妻子的背叛	ciī;un zǐ;la de;bu bèi;bo pàn;by	10
 妻子的病情	ciī;un zǐ;la de;bu bìng;bn cíng;xo	10
@@ -292088,6 +292099,7 @@ sort: by_weight
 象棋的历史	siàng;du qí;ab de;bu lì;il shǐ;kn	10
 象棋公开赛	siàng;du qí;ab gōng;bs kāi;ac sài;bb	10
 象棋锦标赛	siàng;du qí;ab jǐn;jj biāo;au sài;bb	10
+想起就心酸	siǎng;ax qǐ;tj ziù;wy sīn;dd suān;yw	10
 象棋俱乐部	siàng;du qí;ab jù;rb lè;px bù;le	10
 象棋类游戏	siàng;du qí;ab lèi;md yóu;dz xì;yg	10
 相期邈云汉	siāng;ao qī;co miǎo;ze yún;ag hàn;dy	10
@@ -292708,7 +292720,7 @@ sort: by_weight
 小米和红米	siǎo;lb mǐ;ba hé;hk hóng;sg mǐ;ba	10
 小米和苹果	siǎo;lb mǐ;ba hé;hk píng;cp guǒ;ta	10
 小米加步枪	siǎo;lb mǐ;ba jiā;lk bù;vu ciāng;av	10
-笑眯眯地说	siào;vy mī;om mī;om dì;ty shuō;yx	10
+笑眯眯地说	siào;vy mī;om mī;om de;ty shuō;yx	10
 小密苏里河	siǎo;lb mì;bu sū;cb lǐ;tt hé;dk	10
 小米特尼克	siǎo;lb mǐ;ba tè;nc ní;ub kè;ux	10
 消弭于无形	siāo;do mǐ;ge yú;au wú;ay xíng;kp	10
@@ -293751,7 +293763,12 @@ sort: by_weight
 新斯科舍省	sīn;lt sī;ct kē;hd shě;rg shěng;uo	10
 心似双丝网	sīn;dd sì;rr shuāng;yy sī;sa wǎng;kx	10
 新死亡游戏	sīn;lt sǐ;db wáng;wv yóu;dz xì;yg	10
+心酸的感觉	sīn;dd suān;yw de;bu gǎn;gx jué;xj	10
+心酸的句子	sīn;dd suān;yw de;bu jù;bk zi;la	10
+心酸的浪漫	sīn;dd suān;yw de;bu làng;dl màn;dy	10
+心酸的遇见	sīn;dd suān;yw de;bu yù;zd jiàn;ke	10
 心算世界杯	sīn;dd suàn;vc shì;cv jiè;tj bēi;ab	10
+心酸又无奈	sīn;dd suān;yw yòu;vn wú;ay nài;du	10
 心碎的感觉	sīn;dd suì;uu de;bu gǎn;gx jué;xj	10
 心碎的句子	sīn;dd suì;uu de;bu jù;bk zi;la	10
 心碎的女人	sīn;dd suì;uu de;bu nǚ;va rén;pn	10
@@ -311364,6 +311381,7 @@ sort: by_weight
 新斯大林主义	sīn;lt sī;ct dà;ar lín;aa zhǔ;wt yì;dx	10
 新斯科舍半岛	sīn;lt sī;ct kē;hd shě;rg bàn;bf dǎo;nu	10
 心似已灰之木	sīn;dd sì;rr yǐ;kv huī;uh zhī;dn mù;ur	10
+心酸就心酸在	sīn;dd suān;yw ziù;wy sīn;dd suān;yw zài;ut	10
 心态的重要性	sīn;dd tài;tx de;bu zhòng;ql yào;xn sìng;xu	10
 新台高速公路	sīn;lt tái;sk gāo;wk sù;zu gōng;bs lù;zk	10
 信天翁铠甲虾	sìn;rk tiān;ad wēng;gx kǎi;jj jiǎ;ol xiā;ix	10
