@@ -12293,6 +12293,7 @@ sort: by_weight
 四将	sì;we ziàng;lc	50
 四姐	sì;we ziě;nq	584
 四节	sì;we zié;ce	433
+私接	sī;hs ziē;fn	118
 死节	sǐ;db zié;ce	58
 思捷	sī;tx zié;fz	46
 思进	sī;tx zìn;zj	109
@@ -12393,6 +12394,7 @@ sort: by_weight
 俗写	sú;rg siě;by	558
 素心	sù;fx sīn;dd	110
 酥心	sū;yh sīn;dd	62
+苏醒	sū;cb sǐng;yu	3291
 塑性	sù;nt sìng;xu	810
 宿星	sù;bb sīng;ou	560
 苏姓	sū;cb sìng;nu	448
@@ -29724,7 +29726,7 @@ sort: by_weight
 村小组	cūn;ac siǎo;lb zǔ;sq	652
 存心来	cún;uz sīn;dd lái;aa	6
 存续期	cún;uz sǜ;sd qī;co	402
-村一些	cūn;ac yì;aa siē;ve	531
+存一些	cún;uz yì;aa siē;ve	531
 存在性	cún;uz zài;ut sìng;xu	829
 存着钱	cún;uz zhe;yo cián;jj	324
 村中心	cūn;ac zhōng;kl sīn;dd	670
@@ -82154,6 +82156,7 @@ sort: by_weight
 全曲面	cüán;rw qǔ;wc miàn;ao	130
 全区性	cüán;rw qū;kx sìng;xu	369
 全区域	cüán;rw qū;kx yù;ta	900
+全全的	cüán;rw cüán;rw de;bu	19
 全犬种	cüán;rw quǎn;dd zhǒng;hv	32
 全然地	cüán;rw rán;xh de;ty	85
 全让你	cüán;rw ràng;yu nǐ;rx	141
@@ -131360,7 +131363,7 @@ sort: by_weight
 做情绪	zuò;rw cíng;xo sǜ;so	549
 做取舍	zuò;rw cǚ;ey shě;rg	544
 做趋势	zuò;rw cǖ;te shì;fl	688
-做诠释	zuò;rw cüán;yw shì;mf	13
+作诠释	zuò;rv cüán;yw shì;mf	13
 做全套	zuò;rw cüán;rw tào;dg	630
 做全职	zuò;rw cüán;rw zhí;ev	846
 做人情	zuò;rw rén;pn cíng;xo	72
@@ -182921,6 +182924,7 @@ sort: by_weight
 狂野情人	kuáng;qw yě;ly cíng;xo rén;pn	194
 狂野西部	kuáng;qw yě;ly siī;ak bù;le	60
 狂野性感	kuáng;qw yě;ly sìng;xu gǎn;gx	374
+旷野之息	kuàng;og yě;ly zhī;dn siī;zx	23
 狂野之心	kuáng;qw yě;ly zhī;dn sīn;dd	333
 矿用橡缆	kuàng;ug yòng;kf siàng;au lǎn;sj	45
 矿渣清理	kuàng;ug zhā;dd cīng;do lǐ;wl	76
@@ -285819,8 +285823,6 @@ sort: by_weight
 秦始皇陵墓	cín;ih shǐ;nk huáng;bw líng;ew mù;ct	10
 秦始皇嬴政	cín;ih shǐ;nk huáng;bw yíng;wn zhèng;vw	10
 侵蚀基准面	cīn;ry shí;ui jī;ct zhǔn;dv miàn;ao	10
-秦时明月里	cín;ih shí;to míng;oo yuè;ke lǐ;tt	10
-秦时明月中	cín;ih shí;to míng;oo yuè;ke zhōng;kl	10
 秦氏内经学	cín;ih shì;pv nèi;kr jīng;sj xué;xz	10
 秦时与臣游	cín;ih shí;to yǔ;va chén;kl yóu;dz	10
 秦朔朋友圈	cín;ih shuò;no péng;oo you;uy quān;wv	10
@@ -289687,7 +289689,6 @@ sort: by_weight
 天生的领袖	tiān;ad shēng;pf de;bu lǐng;ry siù;py	10
 天生的明星	tiān;ad shēng;pf de;bu míng;oo sīng;ou	10
 天生的性格	tiān;ad shēng;pf de;bu sìng;xu gé;ak	10
-天使报喜节	tiān;ad shǐ;rl bào;fy xǐ;tk zié;ce	10
 田氏保婴集	tián;wu shì;pv bǎo;ra yīng;bn zií;ra	10
 天使和精灵	tiān;ad shǐ;rl hé;hk zīng;mo líng;eh	10
 天市右垣七	tiān;ad shì;wj yòu;uk yuán;td ciī;av	10
@@ -306459,10 +306460,8 @@ sort: by_weight
 秦省第一学堂	cín;ih shěng;uo dì;vd yī;aa xué;xz táng;xt	10
 秦始皇的陵墓	cín;ih shǐ;nk huáng;bw de;bu líng;ew mù;ct	10
 秦始皇陵地宫	cín;ih shǐ;nk huáng;bw líng;ew dì;ty gōng;bk	10
-秦时明月世界	cín;ih shí;to míng;oo yuè;ke shì;cv jiè;tj	10
 秦时明月手游	cín;ih shí;to míng;oo yuè;ke shǒu;pf yóu;dz	10
-秦时明月系列	cín;ih shí;to míng;oo yuè;ke xì;px liè;dd	10
-秦时明月影视	cín;ih shí;to míng;oo yuè;ke yǐng;op shì;pj	10
+秦时明月系列	cín;ih shí;to míng;oo yuè;ke xì;px liè;dd	12
 亲属关系公证	cīn;la shǔ;uy guān;bt xì;px gōng;bs zhèng;yv	10
 勤崴国际科技	qín;cl wǎi;un guó;wy ziì;eu kē;hd jì;fv	10
 秦咸阳城遗址	cín;ih xián;gk yáng;eo chéng;ti yí;zb zhǐ;tv	10
