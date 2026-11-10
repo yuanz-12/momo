@@ -133554,6 +133554,7 @@ sort: by_weight
 搬家纸箱	bān;fu jiā;bu zhǐ;su siāng;vo	194
 半煎半烙	bàn;bf ziān;bh bàn;bf lào;hk	4
 半煎半炸	bàn;bf ziān;bh bàn;bf zhá;hv	274
+板间通信	bǎn;ay jiān;mo tōng;zy sìn;rk	11
 半间仙露	bàn;bf jiān;mo siān;ru lù;yk	4
 颁奖大会	bān;fy ziǎng;ld dà;ar huì;ry	621
 颁奖典礼	bān;fy ziǎng;ld diǎn;qb lǐ;pv	1994
@@ -143825,6 +143826,7 @@ sort: by_weight
 大话精灵	dà;ar huà;yu zīng;mo líng;eh	130
 大话蛇仙	dà;ar huà;yu shé;ib siān;ru	212
 大话神仙	dà;ar huà;yu shén;pu siān;ru	220
+大话西游	dà;ar huà;yu siī;ak yóu;dz	396
 大话辛集	dà;ar huà;yu sīn;lu zií;ra	4
 大花绣球	dà;ar huā;cb siù;sn qiú;wq	52
 大黄清胃	dà;ar huáng;cb cīng;do wèi;to	117
@@ -251484,7 +251486,7 @@ sort: by_weight
 絮絮叨叨	sǜ;nx sǜ;nx dāo;kd dāo;kd	1702
 徐徐道来	sǘ;rm sǘ;rm dào;zz lái;aa	464
 徐徐东风	sǘ;rm sǘ;rm dōng;ax fēng;jx	130
-絮絮聒聒	sǜ;nx sǜ;nx guā;eu guā;eu	130
+絮絮聒聒	sǜ;nx sǜ;nx guō;eu guō;eu	130
 徐徐渐进	sǘ;rm sǘ;rm ziàn;dt zìn;zj	328
 蓄须明志	xù;ct sǖ;py míng;oo zhì;tx	6
 栩栩如生	sǚ;ax sǚ;ax rú;nk shēng;pf	1523
@@ -254062,6 +254064,8 @@ sort: by_weight
 询问对方	sǘn;yo wèn;mk duì;yc fāng;wv	976
 询问孩子	sǘn;yo wèn;mk hái;zr zi;la	666
 询问情况	sǘn;yo wèn;mk cíng;xo kuàng;dx	788
+询问一句	sǘn;yo wèn;mk yí;aa jù;bk	72
+询问依据	sǘn;yo wèn;mk yī;ry jù;fg	32
 询问医生	sǘn;yo wèn;mk yī;ku shēng;pf	630
 寻我开心	sǘn;ec wǒ;ga kāi;ac sīn;dd	220
 寻物启事	sǘn;ec wù;nw qǐ;hk shì;gy	16
@@ -268784,6 +268788,8 @@ sort: by_weight
 重点进行	zhòng;ql diǎn;vh zìn;zj xíng;rd	693
 重点聚焦	zhòng;ql diǎn;vh zǜ;eu ziāo;rh	47
 重点练习	zhòng;ql diǎn;vh liàn;sd sií;vd	207
+重点清洁	zhòng;ql diǎn;vh cīng;do jié;dk	55
+重点情节	zhòng;ql diǎn;vh cíng;xo zié;ce	14
 重点提醒	zhòng;ql diǎn;vh tí;fz sǐng;yu	204
 重点推荐	zhòng;ql diǎn;vh tuī;fv ziàn;cz	1284
 重点推进	zhòng;ql diǎn;vh tuī;fv zìn;zj	28
@@ -316844,7 +316850,6 @@ sort: by_weight
 孤舟一系故园心	gū;zg zhōu;pd yí;aa xì;px gù;gw yuán;wy sīn;dd	10
 寡妇门前是非多	guǎ;bf fù;ne mén;dv cián;bd shì;oz fēi;ls duō;xx	10
 挂甲山摩崖造像	guà;ft jiǎ;ol shān;kl mó;gu yá;ut zào;zk siàng;ru	10
-聒碎乡心梦不成	guā;eu suì;uu xiāng;vp sīn;dd mèng;ax bù;ab chéng;gv	10
 乖乖女是大明星	guāi;qb guāi;qb nǚ;va shì;oz dà;ar míng;oo sīng;ou	10
 乖乖我的小乖乖	guāi;qb guāi;qb wǒ;ga de;bu siǎo;lb guāi;qb guāi;qb	10
 怪兽大战外星人	guài;xt shòu;bk dà;ar zhàn;vg wài;xb sīng;ou rén;pn	10
@@ -316941,6 +316946,7 @@ sort: by_weight
 过敏感染性哮喘	guò;zc mǐn;pw gǎn;gx rǎn;da sìng;xu xiào;kz chuǎn;ke	10
 过敏原检验试剂	guò;zc mǐn;pw yuán;ix jiǎn;aq yàn;mq shì;yg ziì;qd	10
 国内外询价采购	guó;wy nèi;kr wài;xb sǘn;yo jià;rj cǎi;va gòu;bg	10
+聒碎乡心梦不成	guō;eu suì;uu xiāng;vp sīn;dd mèng;ax bù;ab chéng;gv	10
 果糖末端低聚糖	guǒ;ta táng;mk mò;aa duān;le dī;ru zǜ;eu táng;mk	10
 过于理想主义了	guò;zc yú;au lǐ;wl siǎng;ax zhǔ;wt yì;dx le;al	10
 国债收益率曲线	guó;wy zhài;rb shōu;jw yì;bm lǜ;wu qū;wc siàn;sj	10
