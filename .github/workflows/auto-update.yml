@@ -2,7 +2,7 @@ name: 自动下载词典 → 运行脚本 → 提交结果
 
 on:
   schedule:
-    - cron: '0 22 * * *' # UTC 22:00 = UTC+8 6:00
+    - cron: '0 22,4,10,16 * * *' # UTC 22:00 = UTC+8 6:00
   workflow_dispatch:
 
 permissions:
