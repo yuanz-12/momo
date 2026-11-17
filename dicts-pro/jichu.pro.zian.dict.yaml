@@ -1120,9 +1120,9 @@ sort: by_weight
 初习	chū;pd sií;vd	157
 出线	chū;uu siàn;sj	2917
 触线	chù;di siàn;sj	81
-出翔	chū;uu siáng;yx	1652
 出相	chū;uu siāng;ao	1487
 初相	chū;pd siāng;ao	1371
+出翔	chū;uu siáng;yx	569
 初小	chū;pd siǎo;lb	826
 除邪	chú;em sié;ye	711
 初心	chū;pd sīn;dd	7768
@@ -2073,6 +2073,7 @@ sort: by_weight
 反蒋	fǎn;iy ziǎng;cc	74
 返奖	fǎn;zy ziǎng;ld	70
 凡将	fán;jd ziāng;lc	51
+翻浆	fān;mx ziāng;lu	43
 反桨	fǎn;iy ziǎng;la	38
 饭焦	fàn;uy ziāo;rh	711
 番椒	fān;mt ziāo;ay	462
@@ -3594,6 +3595,7 @@ sort: by_weight
 即见	zií;ge jiàn;ke	120
 即将	zií;ge ziāng;lc	25274
 激将	jī;dw ziàng;lc	194
+唧浆	ziī;ke ziāng;lu	43
 机桨	jī;aj ziǎng;la	38
 挤脚	ziǐ;fq jiǎo;oe	80
 挤胶	ziǐ;fq jiāo;of	40
@@ -7706,6 +7708,7 @@ sort: by_weight
 乱选	luàn;uv süǎn;ze	616
 论集	lùn;yl zií;ra	147
 论迹	lùn;yl ziì;zb	117
+轮迹	lún;il ziì;zb	43
 轮切	lún;il ciè;qd	30
 轮询	lún;il sǘn;yo	490
 逻辑	luó;zx zii;ie	123204
@@ -10326,6 +10329,7 @@ sort: by_weight
 且多	ciě;oa duō;xx	389
 切法	ciē;qd fǎ;dq	239
 且放	ciě;oa fàng;fw	1048
+切方	ciè;qd fāng;wv	43
 切分	ciē;qd fēn;bd	2616
 切缝	ciē;qd fèng;sf	414
 切腹	ciē;qd fù;ow	625
@@ -10470,6 +10474,7 @@ sort: by_weight
 切着	ciē;qd zháo;yo	765
 切纸	ciē;qd zhǐ;su	198
 切趾	ciè;qd zhǐ;zv	182
+切直	ciē;qd zhí;uq	43
 切中	ciè;qd zhòng;kl	480
 切轴	ciè;qd zhóu;iy	50
 且住	ciě;oa zhù;rv	72
@@ -10735,6 +10740,7 @@ sort: by_weight
 清舱	cīng;do cāng;vv	64
 青草	cīng;fo cǎo;cu	1284
 情操	cíng;xo cāo;fa	568
+清槽	cīng;do cáo;ao	43
 清册	cīng;do cè;ka	107
 清查	cīng;do chá;ad	615
 清茶	cīng;do chá;cm	288
@@ -11010,6 +11016,7 @@ sort: by_weight
 青客	cīng;fo kè;bk	48
 鲭科	cīng;yo kē;hd	38
 蜻科	cīng;io kē;hd	30
+清坑	cīng;do kēng;tj	43
 清空	cīng;do kōng;bg	3357
 晴空	cíng;oo kōng;bg	442
 青空	cīng;fo kōng;bg	353
@@ -26989,8 +26996,10 @@ sort: by_weight
 标示性	biāo;au shì;ex sìng;xu	356
 表提前	biǎo;fy tí;fz cián;bd	436
 标题性	biāo;au tí;oy sìng;xu	293
+标线机	biāo;au siàn;sj jī;aj	43
 表现奖	biǎo;fy xiàn;wj ziǎng;ld	680
 表羡慕	biǎo;fy siàn;yq mù;cx	306
+标线漆	biāo;au siàn;sj ciī;du	43
 表现性	biǎo;fy xiàn;wj sìng;xu	138
 表象吧	biǎo;fy siàng;du ba;kb	189
 表小姐	biǎo;fy siǎo;lb ziě;nq	729
@@ -27127,6 +27136,7 @@ sort: by_weight
 别选错	bié;kd süǎn;ze cuò;jo	374
 别选择	bié;kd süǎn;ze zé;ff	864
 别学习	bié;kd xué;xz sií;vd	52
+别压线	bié;kd yā;id siàn;sj	43
 别拥挤	bié;kd yōng;fy ziǐ;fq	53
 别占线	bié;kd zhàn;bw siàn;sj	37
 憋着笑	biē;xx zhe;yo siào;vy	107
@@ -30746,6 +30756,7 @@ sort: by_weight
 出线队	chū;uu siàn;sj duì;er	472
 出线柜	chū;uu siàn;sj guì;aj	220
 出线盒	chū;uu siàn;sj hé;rm	99
+除线机	chú;em siàn;sj jī;aj	43
 出线孔	chū;uu siàn;sj kǒng;zv	225
 出线口	chū;uu siàn;sj kǒu;la	266
 出线了	chū;uu siàn;sj le;al	138
@@ -34614,6 +34625,7 @@ sort: by_weight
 倒相器	dào;rd siāng;ao qì;xx	42
 倒像是	dào;rd siàng;ru shì;oz	685
 倒象系	dào;rd siàng;du xì;px	45
+导向线	dǎo;sc xiàng;pk siàn;sj	43
 导向销	dǎo;sc xiàng;pk siāo;jo	73
 导向性	dǎo;sc xiàng;pk sìng;xu	423
 刀小刀	dāo;vp siǎo;lb dāo;vp	400
@@ -38157,6 +38169,7 @@ sort: by_weight
 飞控线	fēi;vd kòng;fg siàn;sj	38
 非累积	fēi;ls lěi;tx ziī;hv	43
 费丽切	fèi;fb lì;ad ciè;qd	414
+废沥青	fèi;gy lì;dl cīng;fo	43
 非利息	fēi;ls lì;hd siī;zx	684
 非理想	fēi;ls lǐ;wl siǎng;ax	603
 飞利信	fēi;vd lì;hd sìn;rk	6
@@ -41404,6 +41417,7 @@ sort: by_weight
 管道线	guǎn;vl dào;zz siàn;sj	468
 官方性	guān;bl fāng;wv sìng;xu	580
 官方宣	guān;bl fāng;wv süān;bd	1184
+灌缝枪	guàn;dv fèng;sf ciāng;av	43
 关服前	guān;bt fú;oy cián;bd	31
 冠夫姓	guàn;bc fū;er sìng;nu	13
 关公像	guān;bt gōng;bs siàng;ru	536
@@ -49556,6 +49570,7 @@ sort: by_weight
 见思想	jiàn;ke sī;tx siǎng;ax	459
 贱嗖嗖	ziàn;bj sōu;ky sōu;ky	468
 减速剂	jiǎn;dk sù;zu ziì;qd	96
+减速线	jiǎn;dk sù;zu siàn;sj	43
 减速箱	jiǎn;dk sù;zu siāng;vo	392
 剪碎带	ziǎn;bd suì;uu dài;cj	45
 剪碎了	ziǎn;bd suì;uu le;al	410
@@ -68327,6 +68342,7 @@ sort: by_weight
 冷冻箱	lěng;ds dòng;dd siāng;vo	19
 冷镀锌	lěng;ds dù;jy sīn;jx	324
 冷挤压	lěng;ds ziǐ;fq yā;id	261
+冷接缝	lěng;ds ziē;fn fèng;sf	43
 冷接头	lěng;ds ziē;fn tóu;dd	83
 冷进气	lěng;ds zìn;zj qì;pv	73
 冷静啊	lěng;ds zìng;fy a;kk	513
@@ -68367,6 +68383,7 @@ sort: by_weight
 冷烫精	lěng;ds tàng;dh zīng;mo	3
 冷提取	lěng;ds tí;fz cǚ;ey	45
 愣头青	lèng;xf tóu;dd cīng;fo	1529
+冷铣刨	lěng;ds siǐ;je páo;bd	43
 冷析桶	lěng;ds siī;at tǒng;ay	40
 冷鲜肉	lěng;ds siān;yy ròu;nr	603
 冷先生	lěng;ds siān;ne shēng;pf	657
@@ -68516,9 +68533,11 @@ sort: by_weight
 沥青湖	lì;dl cīng;fo hú;do	288
 沥青化	lì;dl cīng;fo huà;rb	194
 沥青基	lì;dl cīng;fo jī;ct	346
+沥青胶	lì;dl cīng;fo jiāo;of	43
 沥青块	lì;dl cīng;fo kuài;tg	302
 理清了	lǐ;wl cīng;do le;al	756
 里请了	lǐ;tt cǐng;yo le;al	521
+沥青料	lì;dl cīng;fo liào;md	43
 沥青路	lì;dl cīng;fo lù;zk	82
 沥青脉	lì;dl cīng;fo mài;oy	50
 沥青煤	lì;dl cīng;fo méi;ha	189
@@ -68533,6 +68552,7 @@ sort: by_weight
 沥青岩	lì;dl cīng;fo yán;uu	45
 沥青油	lì;dl cīng;fo yóu;dy	495
 沥青毡	lì;dl cīng;fo zhān;mv	45
+沥青站	lì;dl cīng;fo zhàn;lv	43
 李清照	lǐ;az cīng;do zhào;oh	46
 沥青质	lì;dl cīng;fo zhì;ib	387
 立秋后	lì;wb ciū;hh hòu;ik	38
@@ -88289,6 +88309,7 @@ sort: by_weight
 绕线器	rào;sw siàn;sj qì;xx	486
 绕线圈	rào;sw siàn;sj quān;wv	42
 饶先生	ráo;uw siān;ne shēng;pf	35
+绕行线	rào;sw xíng;rd siàn;sj	43
 绕一些	rào;sw yì;aa siē;ve	418
 绕组线	rào;sw zǔ;sq siàn;sj	324
 热变性	rè;fh biàn;wy sìng;xu	300
@@ -105263,6 +105284,9 @@ sort: by_weight
 西磐井	siī;ak pán;vu zǐng;ac	284
 洗盘时	siǐ;de pán;vm shí;to	20
 洗盘子	siǐ;de pán;vm zi;la	279
+铣刨齿	siǐ;je páo;bd chǐ;vr	43
+铣刨鼓	siǐ;je páo;bd gǔ;tv	43
+铣刨料	siǐ;je páo;bd liào;md	43
 西炮台	siī;ak pào;hb tái;sk	446
 西配殿	siī;ak pèi;yj diàn;uu	688
 西配楼	siī;ak pèi;yj lóu;an	400
@@ -106511,6 +106535,7 @@ sort: by_weight
 下塘集	xià;ab táng;tk zií;ra	153
 下堂妻	xià;ab táng;xt ciī;un	3
 下天津	xià;ab tiān;ad zīn;dy	711
+下涂剂	xià;ab tú;dm ziì;qd	43
 下晚修	xià;ab wǎn;oe siū;rp	324
 下温泉	xià;ab wēn;dm cüán;bu	526
 下午就	xià;ab wǔ;pu ziù;wy	995
@@ -107041,6 +107066,7 @@ sort: by_weight
 先锋街	siān;ne fēng;jf jiē;rt	387
 先锋军	siān;ne fēng;jf jūn;bi	580
 先锋连	siān;ne fēng;jf lián;zi	297
+先封路	siān;ne fēng;tc lù;zk	43
 先锋路	siān;ne fēng;jf lù;zk	6
 先锋马	siān;ne fēng;jf mǎ;va	302
 先锋们	siān;ne fēng;jf men;rm	454
@@ -141576,6 +141602,7 @@ sort: by_weight
 白如积雪	bái;po rú;nk ziī;hv süě;ye	76
 百瑞信托	bǎi;ab ruì;we sìn;rk tuō;fq	468
 白色宝箱	bái;po sè;db bǎo;by siāng;vo	117
+白色标线	bái;po sè;db biāo;au siàn;sj	31
 白色才情	bái;po sè;db cái;up cíng;xo	153
 白色车漆	bái;po sè;db chē;au ciī;du	364
 白色的墙	bái;po sè;db de;bu ciáng;tk	706
@@ -141865,6 +141892,7 @@ sort: by_weight
 半岛新闻	bàn;bf dǎo;nu sīn;lt wén;me	189
 半岛印象	bàn;bf dǎo;nu yìn;pe siàng;du	320
 办的签证	bàn;lb de;bu ciān;vq zhèng;yv	364
+板底注浆	bǎn;ay dǐ;gu zhù;dv ziāng;lu	31
 办点事情	bàn;lb diǎn;vh shì;gy cíng;xo	28
 斑点印迹	bān;ww diǎn;vh yìn;pe ziì;zb	162
 半点踪迹	bàn;bf diǎn;vh zōng;zu ziì;zb	3
@@ -144494,14 +144522,22 @@ sort: by_weight
 表述清晰	biǎo;fy shù;zu cīng;do siī;ot	558
 标题新闻	biāo;au tí;oy sīn;lt wén;me	9
 标题序列	biāo;au tí;oy sǜ;gy liè;dd	162
+标线测量	biāo;au siàn;sj cè;dd liáng;ol	31
 标线长度	biāo;au siàn;sj cháng;pn dù;gy	50
+标线打磨	biāo;au siàn;sj dǎ;fd mó;gu	31
+标线反光	biāo;au siàn;sj fǎn;iy guāng;xe	31
+标线刚画	biāo;au siàn;sj gāng;kd huà;at	31
 标线厚度	biāo;au siàn;sj hòu;iz dù;gy	45
 标线间距	biāo;au siàn;sj jiān;mo jù;zj	50
 标线宽度	biāo;au siàn;sj kuān;bj dù;gy	45
+标线模糊	biāo;au siàn;sj mó;ad hu;mo	31
+标线磨损	biāo;au siàn;sj mó;gu sǔn;fb	31
 表现抢眼	biǎo;fy xiàn;wj ciǎng;fv yǎn;og	914
+标线清除	biāo;au siàn;sj cīng;do chú;em	31
 标线施工	biāo;au siàn;sj shī;fy gōng;aa	230
 标线施划	biāo;au siàn;sj shī;fy huà;gd	261
 标线涂料	biāo;au siàn;sj tú;dm liào;md	130
+标线脱落	biāo;au siàn;sj tuō;ox luò;ck	31
 表现性状	biǎo;fy xiàn;wj sìng;xu zhuàng;lq	284
 表现优秀	biǎo;fy xiàn;wj yōu;ry siù;hn	986
 标线指示	biāo;au siàn;sj zhǐ;fo shì;ex	603
@@ -148446,6 +148482,7 @@ sort: by_weight
 肠胃疾病	cháng;op wèi;to zií;bu bìng;bn	765
 长尾山雀	cháng;pn wěi;um shān;kl cüè;xv	31
 肠胃消化	cháng;op wèi;to siāo;do huà;rb	778
+常温标线	cháng;xj wēn;dm biāo;au siàn;sj	31
 长文澄清	cháng;pn wén;wx chéng;db cīng;do	72
 昌西大道	chāng;oo siī;ak dà;ar dào;zz	288
 肠息肉病	cháng;op siī;zx ròu;nr bìng;bn	387
@@ -148943,7 +148980,9 @@ sort: by_weight
 车速提醒	chē;au sù;zu tí;fz sǐng;yu	93
 车头出线	chē;au tóu;dd chū;uu siàn;sj	93
 撤退信号	chè;fw tuì;zg sìn;rk hào;kk	288
+车往前开	chē;au wǎng;rv cián;bd kāi;ac	31
 车位安全	chē;au wèi;rl ān;bn cüán;rw	43
+车位标线	chē;au wèi;rl biāo;au siàn;sj	31
 车尾轨迹	chē;au wěi;um guǐ;ij ziì;zb	93
 车位划线	chē;au wèi;rl huà;gd siàn;sj	117
 车位靠墙	chē;au wèi;rl kào;nf ciáng;tk	43
@@ -148952,6 +148991,7 @@ sort: by_weight
 车铣复合	chē;au siǐ;je fù;pw hé;rk	288
 车熄火了	chē;au siī;hx huǒ;br le;al	93
 车铣刨磨	chē;au siǐ;je páo;bd mó;gu	292
+车先别走	chē;au siān;ne bié;kd zǒu;tz	31
 车线不直	chē;au siàn;sj bù;ab zhí;uq	43
 扯线木偶	chě;fv siàn;sj mù;ur ǒu;rd	306
 车厢编号	chē;au siāng;io biān;sc hào;kk	83
@@ -150293,6 +150333,7 @@ sort: by_weight
 崇高信念	chóng;uu gāo;wk sìn;rk niàn;rx	338
 崇高信仰	chóng;uu gāo;wk sìn;rk yǎng;re	364
 重构猜想	chóng;ql gòu;ag cāi;qo siǎng;ax	212
+重划标线	chóng;ql huà;gd biāo;au siàn;sj	31
 重获新生	chóng;ql huò;cq sīn;lt shēng;pf	622
 冲击波前	chōng;dv jī;fk bō;dp cián;bd	99
 冲级奖励	chōng;dv jí;sj ziǎng;ld lì;il	212
@@ -153765,6 +153806,7 @@ sort: by_weight
 大秀厨艺	dà;ar siù;hn chú;ic yì;cv	328
 大秀恩爱	dà;ar siù;hn ēn;yx ài;vy	652
 大秀腹肌	dà;ar siù;hn fù;ow jī;oj	315
+大修工程	dà;ar siū;rp gōng;aa chéng;hw	31
 大修工时	dà;ar siū;rp gōng;aa shí;to	4
 大袖官袍	dà;ar siù;py guān;bl páo;pb	99
 大秀肌肉	dà;ar siù;hn jī;oj ròu;nr	400
@@ -154800,6 +154842,7 @@ sort: by_weight
 当心夹手	dāng;xe sīn;dd jiā;ar shǒu;pf	83
 党心民心	dǎng;xx sīn;dd mín;vv sīn;dd	603
 党心所向	dǎng;xx sīn;dd suǒ;ht xiàng;pk	207
+当心烫伤	dāng;xe sīn;dd tàng;dh shāng;rl	31
 党性锤炼	dǎng;xx sìng;xu chuí;jt liàn;hd	252
 党性锻炼	dǎng;xx sìng;xu duàn;ju liàn;hd	472
 党性分析	dǎng;xx sìng;xu fēn;bd siī;at	342
@@ -155007,6 +155050,7 @@ sort: by_weight
 到了一些	dào;gd le;al yì;aa siē;ve	1354
 倒立洗头	dào;rd lì;wb siǐ;de tóu;dd	297
 道路安全	dào;zz lù;zk ān;bn cüán;rw	945
+道路边线	dào;zz lù;zk biān;zl siàn;sj	31
 道路标线	dào;zz lù;zk biāo;au siàn;sj	567
 道路翻浆	dào;zz lù;zk fān;mx ziāng;lu	234
 道路划线	dào;zz lù;zk huà;gd siàn;sj	202
@@ -155014,6 +155058,7 @@ sort: by_weight
 道路积尘	dào;zz lù;zk ziī;hv chén;xt	225
 道路积水	dào;zz lù;zk ziī;hv shuǐ;ln	648
 道路尽头	dào;zz lù;zk zìn;id tóu;dd	51
+道路沥青	dào;zz lù;zk lì;dl cīng;fo	31
 道路连接	dào;zz lù;zk lián;zi ziē;fn	634
 道路路线	dào;zz lù;zk lù;zk siàn;sj	446
 道路抢通	dào;zz lù;zk ciǎng;fv tōng;zy	28
@@ -155024,6 +155069,7 @@ sort: by_weight
 道路线形	dào;zz lù;zk siàn;sj xíng;kp	2
 道路信息	dào;zz lù;zk sìn;rk siī;zx	93
 道路修整	dào;zz lù;zk siū;rp zhěng;uv	220
+道路巡查	dào;zz lù;zk sǘn;zv chá;ad	31
 道路沿线	dào;zz lù;zk yán;dk siàn;sj	580
 道路秩序	dào;zz lù;zk zhì;hf sǜ;gy	351
 道路中线	dào;zz lù;zk zhōng;kl siàn;sj	405
@@ -156761,6 +156807,7 @@ sort: by_weight
 屌丝逆袭	diǎo;uj sī;sa nì;zn sií;ly	650
 屌丝前辈	diǎo;uj sī;sa cián;bd bèi;fi	45
 调松泄力	diào;yk sōng;ag siè;du lì;vp	54
+掉头箭头	diào;fu tóu;dd ziàn;vd tóu;dd	31
 掉头就跑	diào;fu tóu;dd ziù;wy pǎo;zb	166
 掉头就走	diào;fu tóu;dd ziù;wy zǒu;tz	126
 凋亡小体	diāo;dk wáng;wv siǎo;lb tǐ;rb	189
@@ -160302,6 +160349,7 @@ sort: by_weight
 反关节技	fǎn;iy guān;bt zié;ce jì;fv	52
 贩官鬻爵	fàn;by guān;bl yù;gg züé;vc	45
 反光背心	fǎn;iy guāng;xe bèi;bo sīn;dd	540
+反光标线	fǎn;iy guāng;xe biāo;au siàn;sj	31
 反归取之	fǎn;iy guī;le cǚ;ey zhī;dn	76
 犯规在先	fàn;qv guī;fj zài;ut siān;ne	400
 反过来想	fǎn;iy guò;zc lái;aa siǎng;ax	828
@@ -160900,6 +160948,7 @@ sort: by_weight
 放下酒杯	fàng;fw xià;ab ziǔ;dy bēi;ab	706
 放下心来	fàng;fw xià;ab sīn;dd lái;aa	1048
 放下一切	fàng;fw xià;ab yí;aa ciè;qd	855
+放线弹线	fàng;fw siàn;sj dàn;gu siàn;sj	31
 放线滑车	fàng;fw siàn;sj huá;do chē;au	45
 房县黄酒	fáng;hf xiàn;qs huáng;cb ziǔ;dy	144
 防线回收	fáng;ef siàn;sj huí;wk shōu;jw	35
@@ -162129,6 +162178,7 @@ sort: by_weight
 丰标俊雅	fēng;sl biāo;au zǜn;rw yǎ;yv	45
 风波未息	fēng;jx bō;dp wèi;aa siī;zx	50
 风不停息	fēng;jx bù;ab tíng;rd siī;zx	4
+缝槽清理	fèng;sf cáo;ao cīng;do lǐ;wl	31
 丰产性好	fēng;sl chǎn;wi sìng;xu hǎo;nz	180
 逢场作秀	féng;zf chǎng;tp zuò;rv siù;hn	162
 凤巢七层	fèng;jy cháo;vg ciī;av céng;uy	180
@@ -166582,6 +166632,7 @@ sort: by_weight
 共叙乡情	gòng;cb sǜ;ry xiāng;vp cíng;xo	266
 供需形势	gōng;rg sǖ;ye xíng;kp shì;fl	670
 工序研究	gōng;aa sǜ;gy yán;uk jiū;bj	76
+工序验收	gōng;aa sǜ;gy yàn;mq shōu;jw	31
 共叙友情	gòng;cb sǜ;ry yǒu;uy cíng;xo	288
 工序之间	gōng;aa sǜ;gy zhī;dn jiān;mo	292
 工序质量	gōng;aa sǜ;gy zhì;ib liàng;ol	274
@@ -171344,6 +171395,7 @@ sort: by_weight
 黑皮西瓜	hēi;lh pí;py siī;ak guā;in	270
 黑葡萄酒	hēi;lh pú;cf tao;cf ziǔ;dy	189
 黑漆板凳	hēi;lh ciī;du bǎn;ay dèng;bj	99
+黑漆覆盖	hēi;lh ciī;du fù;xw gài;ym	31
 黑妻绵流	hēi;lh ciī;un mián;sj liú;di	130
 黑漆描金	hēi;lh ciī;du miáo;ft jīn;rb	52
 黑漆抹乌	hēi;lh ciī;du mǒ;fw wū;pa	171
@@ -171723,6 +171775,7 @@ sort: by_weight
 恒线速度	héng;xd siàn;sj sù;zu dù;gy	45
 横向标线	héng;ab xiàng;pk biāo;au siàn;sj	50
 横向对齐	héng;ab xiàng;pk duì;yc cií;wl	130
+横向接缝	héng;ab xiàng;pk ziē;fn fèng;sf	31
 横向连接	héng;ab xiàng;pk lián;zi ziē;fn	324
 横向迁移	héng;ab xiàng;pk ciān;zq yí;hx	202
 横箫短笛	héng;ab siāo;vb duǎn;ub dí;vy	45
@@ -173686,6 +173739,7 @@ sort: by_weight
 环西肠乐	huán;wb siī;ak cháng;op lè;px	90
 环西二路	huán;wb siī;ak èr;aa lù;zk	50
 换洗内裤	huàn;fr siǐ;de nèi;kr kù;pi	490
+换铣刨齿	huàn;fr siǐ;je páo;bd chǐ;vr	31
 欢喜亲家	huān;yq xǐ;tk cìng;la jia;bu	99
 环西文化	huán;wb siī;ak wén;wx huà;rb	117
 换洗鞋袜	huàn;fr siǐ;de xié;ct wà;pw	25
@@ -173972,6 +174026,7 @@ sort: by_weight
 黄雀在后	huáng;cb cüè;xv zài;ut hòu;ik	113
 恍如仙境	huǎng;xg rú;nk siān;ru jìng;te	459
 恍若仙境	huǎng;xg ruò;ck siān;ru jìng;te	486
+黄色标线	huáng;cb sè;db biāo;au siàn;sj	31
 黄色的心	huáng;cb sè;db de;bu sīn;dd	20
 黄色缝线	huáng;cb sè;db féng;sf siàn;sj	207
 黄色录像	huáng;cb sè;db lù;eu siàng;ru	9
@@ -177779,10 +177834,12 @@ sort: by_weight
 机械积木	jī;aj xiè;ac ziī;hv mù;ur	54
 机械接头	jī;aj xiè;ac ziē;fn tóu;dd	99
 机械接续	jī;aj xiè;ac ziē;fn sǜ;sd	83
+机械进场	jī;aj xiè;ac zìn;zj chǎng;tp	31
 机械连接	jī;aj xiè;ac lián;zi ziē;fn	119
 机械联接	jī;aj xiè;ac lián;et ziē;fn	107
 机械迁移	jī;aj xiè;ac ciān;zq yí;hx	4
 机械侵蚀	jī;aj xiè;ac cīn;ry shí;ui	180
+机械清扫	jī;aj xiè;ac cīng;do sǎo;fe	31
 机械清洗	jī;aj xiè;ac cīng;do siǐ;de	261
 机械清淤	jī;aj xiè;ac cīng;do yū;dd	82
 机械求积	jī;aj xiè;ac qiú;au ziī;hv	45
@@ -180275,6 +180332,7 @@ sort: by_weight
 建投集团	jiàn;zy tóu;fu zií;ra tuán;wc	468
 尖头畸形	ziān;xd tóu;dd jī;tk xíng;kp	3
 剪头了么	ziǎn;bd tóu;dd le;al me;ps	117
+箭头模板	ziàn;vd tóu;dd mú;ad bǎn;ay	31
 尖头皮鞋	ziān;xd tóu;dd pí;py xié;ct	490
 尖头浅口	ziān;xd tóu;dd ciǎn;dj kǒu;la	220
 箭头人物	ziàn;vd tóu;dd rén;pn wù;nw	405
@@ -182319,17 +182377,21 @@ sort: by_weight
 借方总额	ziè;ro fāng;wv zǒng;bx é;by	130
 杰斐逊城	jié;ah fěi;fw sǜn;zx chéng;ti	302
 接缝处理	ziē;fn fèng;sf chǔ;wb lǐ;wl	346
+接缝错开	ziē;fn fèng;sf cuò;jo kāi;ac	31
 洁丰干洗	jié;dk fēng;sl gàn;au siǐ;de	76
 接缝滑裂	ziē;fn fèng;sf huá;do liè;dy	90
 接缝滑移	ziē;fn fèng;sf huá;do yí;hx	43
 捷丰家居	zié;fz fēng;sl jiā;bu jū;ug	76
+接缝开裂	ziē;fn fèng;sf kāi;ac liè;dy	31
 接缝牢度	ziē;fn fèng;sf láo;bn dù;gy	103
 接缝密封	ziē;fn fèng;sf mì;bu fēng;tc	162
 接缝平直	ziē;fn fèng;sf píng;au zhí;uq	50
+接缝破损	ziē;fn fèng;sf pò;up sǔn;fb	31
 接缝强力	ziē;fn fèng;sf qiáng;gi lì;vp	103
 借风使船	ziè;ro fēng;jx shǐ;rl chuán;vk	4
 接风洗尘	ziē;fn fēng;jx siǐ;de chén;xt	66
 接缝压胶	ziē;fn fèng;sf yā;id jiāo;of	71
+接缝压实	ziē;fn fèng;sf yā;id shí;bd	31
 接缝严密	ziē;fn fèng;sf yán;ai mì;bu	288
 接缝纸带	ziē;fn fèng;sf zhǐ;su dài;cj	69
 借腹怀胎	ziè;ro fù;ow huái;xb tāi;ok	3
@@ -185436,6 +185498,7 @@ sort: by_weight
 津铁惠苑	zīn;dy tiě;jf huì;ix yuàn;cv	45
 紧贴墙面	jǐn;lx tiē;bv ciáng;tk miàn;ao	346
 紧贴实际	jǐn;lx tiē;bv shí;bd ziì;eu	279
+禁停标线	jìn;au tíng;rd biāo;au siàn;sj	31
 进停车场	zìn;zj tíng;rd chē;au chǎng;tp	608
 津同公路	zīn;dy tóng;kk gōng;bs lù;zk	194
 金桐西路	jīn;rb tóng;ak siī;ak lù;zk	243
@@ -186502,6 +186565,7 @@ sort: by_weight
 净负债额	zìng;dy fù;db zhài;rb é;by	76
 净负债率	zìng;dy fù;db zhài;rb lǜ;wu	598
 井盖标高	zǐng;ac gài;ym biāo;au gāo;wk	37
+井盖沉降	zǐng;ac gài;ym chén;dj jiàng;ef	31
 井盖丢失	zǐng;ac gài;ym diū;pq shī;pf	37
 井盖复位	zǐng;ac gài;ym fù;pw wèi;rl	37
 井盖更换	zǐng;ac gài;ym gēng;an huàn;fr	37
@@ -188949,6 +189013,8 @@ sort: by_weight
 晶种托盘	zīng;oo zhǒng;hv tuō;fq pán;vm	69
 静中有动	zìng;fy zhōng;kl yǒu;uo dòng;yl	504
 井中之月	zǐng;ac zhōng;kl zhī;dn yuè;ke	180
+井周裂缝	zǐng;ac zhōu;kk liè;dy fèng;sf	31
+井周破损	zǐng;ac zhōu;kk pò;up sǔn;fb	31
 靖州杨梅	zìng;lo zhōu;dl yáng;ap méi;am	130
 晶珠本草	zīng;oo zhū;ww běn;aa cǎo;cu	194
 精铸公司	zīng;mo zhù;jc gōng;bs sī;vk	234
@@ -189943,6 +190009,7 @@ sort: by_weight
 酒龙诗虎	ziǔ;dy lóng;yp shī;yc hǔ;hj	76
 九龙新寓	jiǔ;pv lóng;yp sīn;lt yù;bd	76
 酒楼戏凤	ziǔ;dy lóu;an xì;yg fèng;jy	144
+旧路翻修	jiù;lo lù;zk fān;mx siū;rp	31
 酒漉纱巾	ziǔ;dy lù;db shā;su jīn;kl	90
 酒乱汝性	ziǔ;dy luàn;uv rǔ;dn sìng;xu	117
 酒绿灯红	ziǔ;dy lǜ;su dēng;hd hóng;sg	234
@@ -190672,6 +190739,7 @@ sort: by_weight
 就下一点	ziù;wy xià;ab yì;aa diǎn;vh	99
 就显出来	ziù;wy xiǎn;oy chū;uu lái;aa	396
 九仙福地	jiǔ;pv siān;ru fú;pt dì;ty	4
+旧线覆盖	jiù;lo siàn;sj fù;xw gài;ym	31
 旧嫌尽释	jiù;lo xián;nj zìn;id shì;mf	45
 九县七区	jiǔ;pv xiàn;qs ciī;av qū;kx	4
 酒仙桥路	ziǔ;dy siān;ru qiáo;al lù;zk	598
@@ -191246,8 +191314,10 @@ sort: by_weight
 局部清洗	jú;uk bù;le cīng;do siǐ;de	369
 局部塑性	jú;uk bù;le sù;nt sìng;xu	84
 据不完全	jù;fg bù;ab wán;by cüán;rw	1138
+局部铣刨	jú;uk bù;le siǐ;je páo;bd	31
 局部小雨	jú;uk bù;le siǎo;lb yǔ;ad	274
 局部性质	jú;uk bù;le sìng;xu zhì;ib	378
+局部修补	jú;uk bù;le siū;rp bǔ;pb	31
 局部修复	jú;uk bù;le siū;rp fù;pw	82
 局部影像	jú;uk bù;le yǐng;op siàng;ru	189
 聚才聚财	zǜ;eu cái;up zǜ;eu cái;bc	45
@@ -194470,6 +194540,10 @@ sort: by_weight
 肯特国际	kěn;vo tè;nc guó;wy ziì;eu	207
 肯辛顿宫	kěn;vo sīn;lu dùn;ty gōng;bk	572
 龈牙纤维	kěn;vg yá;gp siān;sq wéi;sv	45
+坑槽补修	kēng;tj cáo;ao bǔ;pb siū;rp	31
+坑槽积水	kēng;tj cáo;ao ziī;hv shuǐ;ln	31
+坑槽切边	kēng;tj cáo;ao ciē;qd biān;zl	31
+坑槽修补	kēng;tj cáo;ao siū;rp bǔ;pb	31
 坑灰未烬	kēng;tj huī;uh wèi;aa zìn;hd	76
 铿铿锵锵	kēng;jt kēng;jt ciāng;jc ciāng;jc	360
 铿锵顿挫	kēng;jt ciāng;jc dùn;ty cuò;fr	230
@@ -195059,6 +195133,7 @@ sort: by_weight
 快速消除	kuài;xg sù;zu siāo;do chú;em	644
 快速消失	kuài;xg sù;zu siāo;do shī;pf	554
 快速消肿	kuài;xg sù;zu siāo;do zhǒng;ov	446
+快速修补	kuài;xg sù;zu siū;rp bǔ;pb	31
 快速选号	kuài;xg sù;zu süǎn;ze hào;kk	45
 快速选择	kuài;xg sù;zu süǎn;ze zé;ff	50
 快速学习	kuài;xg sù;zu xué;xz sií;vd	1209
@@ -195552,6 +195627,7 @@ sort: by_weight
 蓝润集团	lán;cm rùn;dw zií;ra tuán;wc	252
 蓝色宝箱	lán;cm sè;db bǎo;by siāng;vo	230
 蓝色编辑	lán;cm sè;db biān;sc zií;ie	50
+蓝色标线	lán;cm sè;db biāo;au siàn;sj	31
 蓝色畅想	lán;cm sè;db chàng;up siǎng;ax	288
 蓝色潮汐	lán;cm sè;db cháo;do siī;dx	189
 蓝色的线	lán;cm sè;db de;bu siàn;sj	482
@@ -196071,6 +196147,7 @@ sort: by_weight
 镭重晶石	léi;jt zhòng;ql zīng;oo shí;ak	45
 泪珠盈睫	lèi;do zhū;ww yíng;nm zié;oz	117
 冷拌沥青	lěng;ds bàn;fb lì;dl cīng;fo	4
+冷补沥青	lěng;ds bǔ;pb lì;dl cīng;fo	31
 冷藏保鲜	lěng;ds cáng;ci bǎo;ra siān;yy	35
 冷藏厢体	lěng;ds cáng;ci siāng;io tǐ;rb	68
 冷超敏性	lěng;ds chāo;tk mǐn;pw sìng;xu	45
@@ -196122,6 +196199,7 @@ sort: by_weight
 冷凝集素	lěng;ds níng;dz zií;ra sù;fx	243
 冷暖商情	lěng;ds nuǎn;oy shāng;wk cíng;xo	76
 冷暖相间	lěng;ds nuǎn;oy siāng;ao jiàn;mo	76
+冷喷标线	lěng;ds pēn;kb biāo;au siàn;sj	31
 冷气小点	lěng;ds qì;pv siǎo;lb diǎn;vh	46
 冷清清地	lěng;ds cīng;do cīng;do dì;ty	374
 冷情王爷	lěng;ds cíng;xo wáng;at ye;fe	130
@@ -196535,20 +196613,27 @@ sort: by_weight
 离情别恨	lí;wn cíng;xo bié;kd hèn;xg	248
 离情别绪	lí;wn cíng;xo bié;kd sǜ;so	9
 沥青封层	lì;dl cīng;fo fēng;tc céng;uy	50
+沥青贯入	lì;dl cīng;fo guàn;mb rù;pn	31
 理清关系	lǐ;wl cīng;do guān;bt xì;px	28
 厘清关系	lí;il cīng;do guān;bt xì;px	25
+沥青含量	lì;dl cīng;fo hán;rk liàng;ol	31
 沥青灰岩	lì;dl cīng;fo huī;uh yán;uu	45
 沥青价格	lì;dl cīng;fo jià;rj gé;ak	828
 沥青胶泥	lì;dl cīng;fo jiāo;of ní;db	4
+沥青旧料	lì;dl cīng;fo jiù;lo liào;md	31
+沥青老化	lì;dl cīng;fo lǎo;lb huà;rb	31
 沥青路面	lì;dl cīng;fo lù;zk miàn;ao	157
 理清脉络	lǐ;wl cīng;do mài;oy luò;sk	396
 沥青密度	lì;dl cīng;fo mì;bu dù;gy	45
 沥青面层	lì;dl cīng;fo miàn;ao céng;uy	364
+沥青喷洒	lì;dl cīng;fo pēn;kb sǎ;dx	31
 沥青皮炎	lì;dl cīng;fo pí;py yán;hh	45
+沥青品种	lì;dl cīng;fo pǐn;kk zhǒng;hv	31
 礼轻情意	lǐ;pv qīng;ij cíng;xo yì;lx	554
 礼轻情重	lǐ;pv qīng;ij cíng;xo zhòng;ql	102
 沥青乳液	lì;dl cīng;fo rǔ;vv yè;dw	4
 沥青洒布	lì;dl cīng;fo sǎ;dx bù;uj	99
+沥青砂浆	lì;dl cīng;fo shā;uu ziāng;lu	31
 沥青闪点	lì;dl cīng;fo shǎn;mr diǎn;vh	4
 沥青烧伤	lì;dl cīng;fo shāo;hw shāng;rl	45
 厘清思路	lí;il cīng;do sī;tx lù;zk	837
@@ -196559,11 +196644,14 @@ sort: by_weight
 沥青透层	lì;dl cīng;fo tòu;zn céng;uy	99
 理清头绪	lǐ;wl cīng;do tóu;dd sǜ;so	526
 沥青涂层	lì;dl cīng;fo tú;dm céng;uy	76
+沥青温度	lì;dl cīng;fo wēn;dm dù;gy	31
+沥青析出	lì;dl cīng;fo siī;at chū;uu	31
 沥青橡胶	lì;dl cīng;fo siàng;au jiāo;of	144
 沥青延度	lì;dl cīng;fo yán;zv dù;gy	76
 离情杳杳	lí;wn cíng;xo yǎo;ao yǎo;ao	99
 沥青页岩	lì;dl cīng;fo yè;ab yán;uu	162
 离情依依	lí;wn cíng;xo yī;ry yī;ry	3
+沥青用量	lì;dl cīng;fo yòng;kf liàng;ol	31
 沥青油漆	lì;dl cīng;fo yóu;dy ciī;du	76
 沥青油毡	lì;dl cīng;fo yóu;dy zhān;mv	202
 厘清责任	lí;il cīng;do zé;fb rèn;rw	428
@@ -198427,6 +198515,7 @@ sort: by_weight
 了不长进	liǎo;al bù;ab zhǎng;pn zìn;zj	99
 料仓积料	liào;md cāng;rv ziī;hv liào;md	63
 辽朝进士	liáo;zl cháo;uo zìn;zj shì;ua	117
+料车卸料	liào;md chē;au siè;ve liào;md	31
 燎出焦味	liáo;hx chū;uu ziāo;rh wèi;kw	59
 潦倒新停	liáo;dx dǎo;rd sīn;lt tíng;rd	432
 聊的事情	liáo;ee de;bu shì;gy cíng;xo	760
@@ -198515,6 +198604,8 @@ sort: by_weight
 列队迎接	liè;dd duì;er yíng;ze ziē;fn	338
 列队整齐	liè;dd duì;er zhěng;uv cií;wl	396
 裂缝连接	liè;dy fèng;sf lián;zi ziē;fn	130
+裂缝修补	liè;dy fèng;sf siū;rp bǔ;pb	31
+裂缝修复	liè;dy fèng;sf siū;rp fù;pw	31
 裂光千刃	liè;dy guāng;xe ciān;pu rèn;dd	50
 裂红细胞	liè;dy hóng;sg siì;st bāo;ob	180
 猎户三星	liè;qo hù;du sān;ae sīng;ou	30
@@ -198700,6 +198791,7 @@ sort: by_weight
 临时取水	lín;lk shí;to cǚ;ey shuǐ;ln	37
 临时取消	lín;lk shí;to cǚ;ey siāo;do	173
 临时缺席	lín;lk shí;to quē;fg sií;gj	103
+临时修补	lín;lk shí;to siū;rp bǔ;pb	31
 临时主席	lín;lk shí;to zhǔ;wt sií;gj	441
 临睡前服	lín;lk shuì;ot cián;bd fú;oy	436
 林水相依	lín;aa shuǐ;ln siāng;ao yī;ry	234
@@ -199901,9 +199993,12 @@ sort: by_weight
 路面翻修	lù;zk miàn;ao fān;mx siū;rp	144
 路面积尘	lù;zk miàn;ao ziī;hv chén;xt	34
 路面积水	lù;zk miàn;ao ziī;hv shuǐ;ln	688
+路面箭头	lù;zk miàn;ao ziàn;vd tóu;dd	31
 路面切割	lù;zk miàn;ao ciē;qd gē;bd	37
 路面情况	lù;zk miàn;ao cíng;xo kuàng;dx	734
+路面修补	lù;zk miàn;ao siū;rp bǔ;pb	31
 路面修复	lù;zk miàn;ao siū;rp fù;pw	37
+路面修好	lù;zk miàn;ao siū;rp hǎo;nz	31
 鹿鸣酒家	lù;gb míng;kn ziǔ;dy jiā;bu	324
 颅内积气	lú;by nèi;kr ziī;hv qì;pv	130
 鲁能集团	lǔ;yo néng;sb zií;ra tuán;wc	608
@@ -206617,6 +206712,7 @@ sort: by_weight
 黏性阻尼	nián;hv sìng;xu zǔ;eq ní;ub	50
 年需求量	nián;pf sǖ;ye qiú;au liàng;ol	486
 年需要量	nián;pf sǖ;ye yào;xn liàng;ol	130
+碾压顺序	niǎn;uy yā;id shùn;iy sǜ;gy	31
 念腰间箭	niàn;rx yāo;on jiān;mo ziàn;vd	117
 黏液变性	nián;hv yè;dw biàn;wy sìng;xu	4
 黏液细胞	nián;hv yè;dw siì;st bāo;ob	212
@@ -215375,6 +215471,7 @@ sort: by_weight
 切变强度	ciē;qd biàn;wy qiáng;gi dù;gy	130
 切变速率	ciē;qd biàn;wy sù;zu lǜ;wu	76
 切变弹性	ciē;qd biàn;wy tán;gu sìng;xu	117
+切边整形	ciē;qd biān;zl zhěng;uv xíng;kp	31
 切不可让	ciè;qd bù;ab kě;dk ràng;yu	6
 妾不如偷	ciè;ln bù;ab rú;nk tōu;rd	35
 切不下来	ciè;qd bù;ab xià;ab lái;aa	81
@@ -216653,6 +216750,7 @@ sort: by_weight
 清除积炭	cīng;do chú;em ziī;hv tàn;uh	238
 清除积雪	cīng;do chú;em ziī;hv süě;ye	292
 清除甲醛	cīng;do chú;em jiǎ;ol cüán;yw	57
+清除旧料	cīng;do chú;em jiù;lo liào;md	31
 清除口臭	cīng;do chú;em kǒu;la chòu;zq	292
 清除口腔	cīng;do chú;em kǒu;la qiāng;og	598
 清除库存	cīng;do chú;em kù;gi cún;uz	270
@@ -217892,6 +217990,7 @@ sort: by_weight
 清理地漏	cīng;do lǐ;wl dì;ty lòu;dy	103
 清理粪便	cīng;do lǐ;wl fèn;mg biàn;rg	410
 清理缝隙	cīng;do lǐ;wl fèng;sf xì;eo	81
+清理浮土	cīng;do lǐ;wl fú;dz tǔ;ua	31
 清理干净	cīng;do lǐ;wl gān;au zìng;dy	1247
 清理矸石	cīng;do lǐ;wl gān;ug shí;ak	45
 清丽高洁	cīng;do lì;ad gāo;wk jié;dk	3
@@ -217908,6 +218007,7 @@ sort: by_weight
 清理卡纸	cīng;do lǐ;wl kǎ;ub zhǐ;su	36
 清丽可爱	cīng;do lì;ad kě;dk ài;vy	252
 清丽可人	cīng;do lì;ad kě;dk rén;pn	382
+清理坑槽	cīng;do lǐ;wl kēng;tj cáo;ao	31
 清理垃圾	cīng;do lǐ;wl lā;tl jī;tj	317
 清理来源	cīng;do lǐ;wl lái;aa yuán;dx	4
 清理落石	cīng;do lǐ;wl luò;ck shí;ak	28
@@ -217926,6 +218026,7 @@ sort: by_weight
 清理树障	cīng;do lǐ;wl shù;ac zhàng;eu	279
 清理丝藻	cīng;do lǐ;wl sī;sa zǎo;ca	10
 清理碎屑	cīng;do lǐ;wl suì;uu siè;uo	81
+清理碎渣	cīng;do lǐ;wl suì;uu zhā;dd	31
 清理塌方	cīng;do lǐ;wl tā;tx fāng;wv	28
 清理台面	cīng;do lǐ;wl tái;sk miàn;ao	43
 清利头目	cīng;do lì;hd tóu;dd mù;we	428
@@ -218621,6 +218722,7 @@ sort: by_weight
 清扫范围	cīng;do sǎo;fe fàn;cv wéi;ww	34
 清扫干净	cīng;do sǎo;fe gān;au zìng;dy	608
 清扫工具	cīng;do sǎo;fe gōng;aa jù;qb	34
+清扫基层	cīng;do sǎo;fe jī;ct céng;uy	31
 清扫记录	cīng;do sǎo;fe jì;yj lù;eu	38
 清扫落叶	cīng;do sǎo;fe luò;ck yè;ku	34
 清扫平台	cīng;do sǎo;fe píng;au tái;sk	4
@@ -219177,6 +219279,7 @@ sort: by_weight
 氰戊菊酯	cíng;qo wù;gp jú;cm zhǐ;yo	3
 请勿乱扔	cǐng;yo wù;bp luàn;uv rēng;fn	38
 请勿模仿	cǐng;yo wù;bp mó;ad fǎng;rf	314
+请勿碾压	cǐng;yo wù;bp niǎn;uy yā;id	31
 请勿跑空	cǐng;yo wù;bp pǎo;zb kōng;bg	52
 请勿清扫	cǐng;yo wù;bp cīng;do sǎo;fe	73
 请勿入内	cǐng;yo wù;bp rù;pn nèi;kr	22
@@ -221096,6 +221199,7 @@ sort: by_weight
 曲协主席	qǔ;wc xié;ub zhǔ;wt sií;gj	387
 去写作业	qù;ts siě;by zuò;rv yè;la	634
 去新城区	qù;ts sīn;lt chéng;ti qū;kx	238
+取芯检测	cǚ;ey sīn;cx jiǎn;aq cè;dd	31
 曲心矫肚	qǔ;wc sīn;dd jiǎo;ul dù;ot	45
 去心邻域	qù;ts sīn;dd lín;re yù;ta	320
 去新世纪	qù;ts sīn;lt shì;cv jì;sj	378
@@ -221657,6 +221761,7 @@ sort: by_weight
 全峰快递	cüán;rw fēng;uf kuài;xg dì;zd	562
 泉峰汽车	cüán;bu fēng;uf qì;dq chē;au	76
 全服第一	cüán;rw fú;oy dì;vd yī;aa	446
+全幅封闭	cüán;rw fú;jt fēng;tc bì;mc	31
 全覆盖式	cüán;rw fù;xw gài;ym shì;gg	418
 全氟己酮	cüán;rw fú;qf jǐ;kv tóng;yk	44
 全氟己烷	cüán;rw fú;qf jǐ;kv wán;hy	44
@@ -223969,6 +224074,7 @@ sort: by_weight
 热爱学习	rè;fh ài;vy xué;xz sií;vd	832
 热拌沥青	rè;fh bàn;fb lì;dl cīng;fo	274
 热播剧集	rè;fh bō;ft jù;ud zií;ra	369
+热补沥青	rè;fh bǔ;pb lì;dl cīng;fo	31
 热不热情	rè;fh bú;ab rè;fh cíng;xo	194
 热成像仪	rè;fh chéng;gv siàng;ru yí;ry	85
 热炽津伤	rè;fh chì;hv zīn;dy shāng;rl	45
@@ -224272,6 +224378,7 @@ sort: by_weight
 人工排泄	rén;pn gōng;aa pái;ff siè;du	50
 人工喷泉	rén;pn gōng;aa pēn;kb cüán;bu	256
 人工情报	rén;pn gōng;aa cíng;xo bào;fy	153
+人工清扫	rén;pn gōng;aa cīng;do sǎo;fe	31
 人工清洗	rén;pn gōng;aa cīng;do siǐ;de	396
 人工拾取	rén;pn gōng;aa shí;fk cǚ;ey	28
 人工授精	rén;pn gōng;aa shòu;fy zīng;mo	138
@@ -228924,11 +229031,11 @@ sort: by_weight
 肾大小盏	shèn;lo dà;ar siǎo;lb zhǎn;jm	45
 申旦达夕	shēn;ol dàn;oa dá;zd siī;pd	45
 渗到墙里	shèn;dp dào;gd ciáng;tk lǐ;tt	59
-深得民心	shēn;da de;rc mín;vv sīn;dd	97
-深得你心	shēn;da de;rc nǐ;rx sīn;dd	31
+深得民心	shēn;da dé;rc mín;vv sīn;dd	97
+深得你心	shēn;da dé;rc nǐ;rx sīn;dd	31
 深得人心	shēn;da dé;rc rén;pn sīn;dd	220
-深得我心	shēn;da de;rc wǒ;ga sīn;dd	992
-深得信任	shēn;da de;rc sìn;rk rèn;rw	25
+深得我心	shēn;da dé;rc wǒ;ga sīn;dd	992
+深得信任	shēn;da dé;rc sìn;rk rèn;rw	25
 神殿祭司	shén;pu diàn;uu ziì;xu sī;vk	144
 深冬时节	shēn;da dōng;wd shí;to zié;ce	302
 深度分析	shēn;da dù;gy fēn;bd siī;at	719
@@ -230915,6 +231022,7 @@ sort: by_weight
 事后想想	shì;gy hòu;ik siǎng;ax siǎng;ax	670
 时候选择	shí;to hou;ru süǎn;ze zé;ff	69
 石湖西路	shí;ak hú;do siī;ak lù;zk	207
+施划标线	shī;fy huà;gd biāo;au siàn;sj	31
 世华财讯	shì;cv huá;ru cái;bc sǜn;yu	153
 石化集团	shí;ak huà;rb zií;ra tuán;wc	716
 石化蜥蜴	shí;ak huà;rb siī;it yì;iw	230
@@ -237689,6 +237797,8 @@ sort: by_weight
 檀木宝箱	tán;ad mù;ur bǎo;by siāng;vo	238
 探囊取物	tàn;fa náng;gy cǚ;ey wù;nw	166
 谈判进程	tán;yh pàn;bd zìn;zj chéng;hw	28
+摊铺接缝	tān;fv pù;jf ziē;fn fèng;sf	31
+摊铺顺序	tān;fv pù;jf shùn;iy sǜ;gy	31
 探亲返乡	tàn;fa cīn;la fǎn;zy xiāng;vp	4
 探亲访友	tàn;fa cīn;la fǎng;yf yǒu;uy	41
 探亲客流	tàn;fa cīn;la kè;bk liú;di	279
@@ -239795,6 +239905,7 @@ sort: by_weight
 听不太清	tīng;kt bú;ab tài;dd cīng;do	644
 听不真切	tīng;kt bù;ab zhēn;ub ciè;qd	81
 挺操心的	tǐng;fw cāo;fa sīn;dd de;bu	207
+停车标线	tíng;rd chē;au biāo;au siàn;sj	31
 停车过线	tíng;rd chē;au guò;zc siàn;sj	93
 停车录像	tíng;rd chē;au lù;eu siàng;ru	43
 停车位线	tíng;rd chē;au wèi;rl siàn;sj	43
@@ -240409,6 +240520,7 @@ sort: by_weight
 同性恋人	tóng;kk sìng;xu liàn;wx rén;pn	770
 同性恋史	tóng;kk sìng;xu liàn;wx shǐ;kn	302
 同性恋者	tóng;kk sìng;xu liàn;wx zhě;lo	449
+通行路线	tōng;zy xíng;rd lù;zk siàn;sj	31
 痛性尿沥	tòng;by sìng;xu niào;uu lì;dl	45
 同性女友	tóng;kk sìng;xu nǚ;va yǒu;uy	230
 同性朋友	tóng;kk sìng;xu péng;oo you;uy	738
@@ -241187,6 +241299,7 @@ sort: by_weight
 腿部线条	tuǐ;og bù;le siàn;sj tiáo;wa	855
 退场动线	tuì;zg chǎng;tp dòng;yl siàn;sj	103
 腿长腰细	tuǐ;og cháng;pn yāo;on siì;st	31
+推车行进	tuī;fv chē;au háng;rd zìn;zj	31
 推车进场	tuī;fv chē;au zìn;zj chǎng;tp	34
 推陈布新	tuī;fv chén;ed bù;uj sīn;lt	50
 推陈出新	tuī;fv chén;ed chū;uu sīn;lt	1287
@@ -244393,6 +244506,7 @@ sort: by_weight
 稳住心态	wěn;hx zhù;rv sīn;dd tài;tx	43
 文字编辑	wén;wx zì;bz biān;sc zií;ie	465
 文字表情	wén;wx zì;bz biǎo;fy cíng;xo	504
+文字标线	wén;wx zì;bz biāo;au siàn;sj	31
 文字对齐	wén;wx zì;bz duì;yc cií;wl	25
 文字连接	wén;wx zì;bz lián;zi ziē;fn	248
 文字链接	wén;wx zì;bz liàn;ji ziē;fn	198
@@ -247140,6 +247254,7 @@ sort: by_weight
 细胞成像	siì;st bāo;ob chéng;gv siàng;ru	338
 细胞传代	siì;st bāo;ob chuán;rv dài;rg	19
 细胞代谢	siì;st bāo;ob dài;rg siè;yc	232
+铣刨刀头	siǐ;je bào;bd dāo;vp tóu;dd	31
 细胞等大	siì;st bāo;ob děng;vc dà;ar	130
 细胞电池	siì;st bāo;ob diàn;ov chí;dy	45
 细胞电泳	siì;st bāo;ob diàn;ov yǒng;dy	153
@@ -248739,6 +248854,12 @@ sort: by_weight
 洗牌电机	siǐ;de pái;pu diàn;ov jī;aj	26
 洗牌加剧	siǐ;de pái;pu jiā;lk jù;ud	374
 洗牌太慢	siǐ;de pái;pu tài;dd màn;xy	26
+铣刨除线	siǐ;je páo;bd chú;em siàn;sj	31
+铣刨宽度	siǐ;je páo;bd kuān;bj dù;gy	31
+铣刨路面	siǐ;je páo;bd lù;zk miàn;ao	31
+铣刨深度	siǐ;je páo;bd shēn;da dù;gy	31
+铣刨速度	siǐ;je páo;bd sù;zu dù;gy	31
+铣刨作业	siǐ;je páo;bd zuò;rv yè;la	31
 西培农场	siī;ak péi;tk nóng;by chǎng;tp	130
 细皮白肉	siì;st pí;py bái;po ròu;nr	3
 西皮导板	siī;ak pí;py dǎo;sc bǎn;ay	194
@@ -250362,6 +250483,7 @@ sort: by_weight
 先别锁门	siān;ne bié;kd suǒ;jb mén;dv	32
 先别提交	siān;ne bié;kd tí;fz jiāo;wf	52
 先别提示	siān;ne bié;kd tí;fz shì;ex	25
+先别通车	siān;ne bié;kd tōng;zy chē;au	31
 先别退了	siān;ne bié;kd tuì;zg le;al	52
 先别脱模	siān;ne bié;kd tuō;ox mó;ad	31
 先别洗了	siān;ne bié;kd siǐ;de le;al	52
@@ -250430,6 +250552,7 @@ sort: by_weight
 现场签名	xiàn;wj chǎng;tp ciān;vq míng;xk	45
 现场签售	xiàn;wj chǎng;tp ciān;vq shòu;rk	504
 现场签约	xiàn;wj chǎng;tp ciān;vq yuē;su	702
+现场签证	xiàn;wj chǎng;tp ciān;vq zhèng;yv	31
 现场签字	xiàn;wj chǎng;tp ciān;vq zì;bz	93
 现场抢救	xiàn;wj chǎng;tp ciǎng;fv jiù;qw	621
 现场抢险	xiàn;wj chǎng;tp ciǎng;fv xiǎn;eq	428
@@ -251479,6 +251602,7 @@ sort: by_weight
 先秦政治	siān;ne cín;ih zhèng;vw zhì;dk	234
 先秦诸子	siān;ne cín;ih zhū;yo zǐ;la	675
 先清低号	siān;ne cīng;do dī;ru hào;kk	43
+先清干净	siān;ne cīng;do gān;au zìng;dy	31
 先晴后雨	siān;ne cíng;oo hòu;ik yǔ;ad	189
 先轻后重	siān;ne qīng;ij hòu;ik zhòng;ql	338
 闲情偶寄	xián;ma cíng;xo ǒu;rd jì;bk	500
@@ -251993,6 +252117,7 @@ sort: by_weight
 鲜味十足	siān;yy wèi;kw shí;al zú;kz	626
 纤维素酶	siān;sq wéi;sv sù;fx méi;ym	25
 纤维损伤	siān;sq wéi;sv sǔn;fb shāng;rl	103
+线位调整	siàn;sj wèi;rl tiáo;yk zhěng;uv	31
 纤维细胞	siān;sq wéi;sv siì;st bāo;ob	22
 纤维细度	siān;sq wéi;sv siì;st dù;gy	13
 纤维腺瘤	siān;sq wéi;sv siàn;ou liú;bt	88
@@ -252291,6 +252416,7 @@ sort: by_weight
 线性失真	siàn;sj sìng;xu shī;pf zhēn;ub	333
 线性手感	siàn;sj sìng;xu shǒu;pf gǎn;gx	96
 线性收敛	siàn;sj sìng;xu shōu;jw liǎn;qw	117
+线形顺直	siàn;sj xíng;kp shùn;iy zhí;uq	31
 线性搜索	siàn;sj sìng;xu sōu;fy suǒ;ux	396
 线性速度	siàn;sj sìng;xu sù;zu dù;gy	248
 线性算子	siàn;sj sìng;xu suàn;vc zǐ;la	47
@@ -259270,6 +259396,7 @@ sort: by_weight
 小心触电	siǎo;lb sīn;dd chù;di diàn;ov	320
 小心处理	siǎo;lb sīn;dd chǔ;wb lǐ;wl	670
 小心伺候	siǎo;lb sīn;dd cì;rk hou;ru	31
+小心倒车	siǎo;lb sīn;dd dào;rd chē;au	31
 小心刀口	siǎo;lb sīn;dd dāo;vp kǒu;la	40
 小新的店	siǎo;lb sīn;lt de;bu diàn;gv	328
 小心的偷	siǎo;lb sīn;dd de;bu tōu;rd	189
@@ -259312,6 +259439,7 @@ sort: by_weight
 小心求证	siǎo;lb sīn;dd qiú;au zhèng;yv	590
 孝心少年	xiào;lz sīn;dd shào;xp nián;pf	522
 小心身后	siǎo;lb sīn;dd shēn;zc hòu;ik	35
+小心施工	siǎo;lb sīn;dd shī;fy gōng;aa	31
 小心手雷	siǎo;lb sīn;dd shǒu;pf léi;yt	117
 小心台阶	siǎo;lb sīn;dd tái;sk jiē;ej	36
 小新铁路	siǎo;lb sīn;lt tiě;jf lù;zk	171
@@ -267284,10 +267412,15 @@ sort: by_weight
 修边打磨	siū;rp biān;zl dǎ;fd mó;gu	40
 休兵息民	xiū;ra bīng;qb siī;zx mín;vv	130
 修伯利安	siū;rp bó;rb lì;hd ān;bn	4
+修补边界	siū;rp bǔ;pb biān;zl jiè;tj	31
+修补材料	siū;rp bǔ;pb cái;ac liào;md	31
+修补范围	siū;rp bǔ;pb fàn;cv wéi;ww	31
 修补工具	siū;rp bǔ;pb gōng;aa jù;qb	50
 修不好了	siū;rp bù;ab hǎo;nz le;al	418
+修补厚度	siū;rp bǔ;pb hòu;iz dù;gy	31
 修补裂缝	siū;rp bǔ;pb liè;dy fèng;sf	103
 修补漏洞	siū;rp bǔ;pb lòu;dy dòng;dk	783
+修补面积	siū;rp bǔ;pb miàn;ao ziī;hv	31
 修补墙面	siū;rp bǔ;pb ciáng;tk miàn;ao	103
 修补砂浆	siū;rp bǔ;pb shā;uu ziāng;lu	76
 修补台布	siū;rp bǔ;pb tái;sk bù;uj	43
@@ -270723,6 +270856,7 @@ sort: by_weight
 巡查手册	sǘn;zv chá;ad shǒu;pf cè;ka	45
 巡查统计	sǘn;zv chá;ad tǒng;sy jì;yu	76
 巡查页面	sǘn;zv chá;ad yè;ab miàn;ao	76
+巡查照片	sǘn;zv chá;ad zhào;oh piān;pv	31
 巡查整改	sǘn;zv chá;ad zhěng;uv gǎi;jw	207
 巡察整改	sǘn;zv chá;bu zhěng;uv gǎi;jw	144
 巡查整治	sǘn;zv chá;ad zhěng;uv zhì;dk	338
@@ -271442,6 +271576,7 @@ sort: by_weight
 雅舍小品	yǎ;yv shě;rg siǎo;lb pǐn;kk	436
 亚盛集团	yà;ay shèng;im zií;ra tuán;wc	6
 压实线了	yā;id shí;bd siàn;sj le;al	93
+压实修补	yā;id shí;bd siū;rp bǔ;pb	31
 雅思成绩	yǎ;yv sī;tx chéng;gv ziì;sb	1347
 牙髓变性	yá;gp suǐ;go biàn;wy sìng;xu	99
 牙髓坏疽	yá;gp suǐ;go huài;tb zǖ;bq	50
@@ -272320,6 +272455,7 @@ sort: by_weight
 洋河酒业	yáng;dy hé;dk ziǔ;dy yè;la	212
 养护维修	yǎng;yl hù;fh wéi;sv siū;rp	504
 洋湖轩榭	yáng;dy hú;do xuān;ig siè;ac	45
+养护巡检	yǎng;yl hù;fh sǘn;zv jiǎn;aq	31
 养护中心	yǎng;yl hù;fh zhōng;kl sīn;dd	6
 养花大全	yǎng;yl huā;cb dà;ar cüán;rw	342
 杨花飞絮	yáng;ap huā;cb fēi;vd sǜ;nx	50
@@ -277492,6 +277628,7 @@ sort: by_weight
 应急通讯	yìng;ga jí;dx tōng;zy sǜn;yu	44
 应急维修	yìng;ga jí;dx wéi;sv siū;rp	441
 应激性髋	yìng;ga jī;dw sìng;xu kuān;gj	90
+应急修补	yìng;ga jí;dx siū;rp bǔ;pb	31
 蝇集蚁附	yíng;id zií;ra yǐ;iy fù;ec	45
 应急之需	yìng;ga jí;dx zhī;dn sǖ;ye	410
 应急中心	yìng;ga jí;dx zhōng;kl sīn;dd	580
@@ -280061,6 +280198,7 @@ sort: by_weight
 预后情况	yù;yy hòu;ik cíng;xo kuàng;dx	464
 雨后晴天	yǔ;ad hòu;ik cíng;oo tiān;ad	207
 雨后天晴	yǔ;ad hòu;ik tiān;ad cíng;oo	482
+雨后修补	yǔ;ad hòu;ik siū;rp bǔ;pb	31
 雨后巡视	yǔ;ad hòu;ik sǘn;zv shì;pj	94
 玉壶冰心	yù;wd hú;ty bīng;du sīn;dd	220
 玉壶清话	yù;wd hú;ty cīng;do huà;yu	207
@@ -280561,6 +280699,7 @@ sort: by_weight
 语言子集	yǔ;yk yán;wk zǐ;la zií;ra	180
 渔阳集团	yú;dy yáng;eo zií;ra tuán;wc	117
 欲扬先抑	yù;gq yáng;fp siān;ne yì;fe	380
+雨夜标线	yǔ;ad yè;ww biāo;au siàn;sj	31
 玉叶清火	yù;wd yè;ku cīng;do huǒ;br	144
 玉液琼浆	yù;wd yè;dw qióng;wx ziāng;lu	19
 雨叶秋黄	yǔ;ad yè;ku ciū;hh huáng;cb	45
@@ -283766,6 +283905,7 @@ sort: by_weight
 砧锤关节	zhēn;uv chuí;jt guān;bt zié;ce	50
 震旦旋回	zhèn;yi dàn;oa süán;fz huí;wk	45
 振荡标线	zhèn;fi dàng;cp biāo;au siàn;sj	93
+震荡标线	zhèn;yi dàng;cp biāo;au siàn;sj	31
 震荡行情	zhèn;yi dàng;cp háng;rd cíng;xo	496
 振荡行情	zhèn;fi dàng;cp háng;rd cíng;xo	405
 振荡积分	zhèn;fi dàng;cp ziī;hv fēn;bd	76
@@ -289011,6 +289151,7 @@ sort: by_weight
 专线小包	zhuān;ts siàn;sj siǎo;lb bāo;bs	91
 专项安全	zhuān;ts xiàng;gy ān;bn cüán;rw	423
 专项分析	zhuān;ts xiàng;gy fēn;bd siī;at	670
+转向箭头	zhuǎn;iv xiàng;pk ziàn;vd tóu;dd	31
 转向节臂	zhuǎn;iv xiàng;pk zié;ce bì;uo	130
 转向节销	zhuǎn;iv xiàng;pk zié;ce siāo;jo	99
 转向精准	zhuǎn;iv xiàng;pk zīng;mo zhǔn;dv	464
@@ -290640,6 +290781,7 @@ sort: by_weight
 总线仲裁	zǒng;bx siàn;sj zhòng;rv cái;gy	59
 纵向标线	zòng;sr xiàng;pk biāo;au siàn;sj	76
 纵向对齐	zòng;sr xiàng;pk duì;yc cií;wl	153
+纵向接缝	zòng;sr xiàng;pk ziē;fn fèng;sf	31
 纵向节距	zòng;sr xiàng;pk zié;ce jù;zj	45
 纵向截面	zòng;sr xiàng;pk zié;gv miàn;ao	76
 纵向进给	zòng;sr xiàng;pk zìn;zj jǐ;sk	50
@@ -290966,6 +291108,7 @@ sort: by_weight
 钻头修整	zuàn;jv tóu;dd siū;rp zhěng;uv	45
 钻心刺骨	zuàn;jv sīn;dd cì;ud gǔ;go	315
 钻心的疼	zuān;jv sīn;dd de;bu téng;bd	720
+钻芯取样	zuān;jv sīn;cx cǚ;ey yàng;ay	31
 钻心剜骨	zuān;jv sīn;dd wān;bd gǔ;go	9
 钻穴逾墙	zuān;jv xué;bb yú;zd ciáng;tk	76
 钻眼进度	zuān;jv yǎn;og zìn;zj dù;gy	45
