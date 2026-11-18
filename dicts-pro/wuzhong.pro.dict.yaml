@@ -8184,7 +8184,7 @@ sort: by_weight
 额毛蛛	é;by máo;pv zhū;iw	5
 鹅毛竹	é;wn máo;pv zhú;gg	5
 蛾眉蕨	é;iw méi;uo jué;cq	356
-峨嵋龙	é;uw méi;uo lóng;yp	5
+峨眉龙	é;uw méi;uo lóng;yp	5
 峨眉萤	é;uw méi;uo yíng;ci	5
 恶魔龙	è;yx mó;gg lóng;yp	5
 锷弄蝶	è;jk nòng;wc dié;ia	7
@@ -43693,6 +43693,7 @@ sort: by_weight
 多刺海胆虫	duō;xx cì;ud hǎi;dm dǎn;od chóng;vd	1
 多刺海菊蛤	duō;xx cì;ud hǎi;dm jú;cm há;ik	10
 多刺锦鸡儿	duō;xx cì;ud jǐn;jj jī;yn ér;pv	10
+多刺菊石兽	duō;xx cì;ud jú;cm shí;ak shòu;bk	10
 多刺可哥鲉	duō;xx cì;ud kě;dk gē;kk yóu;yy	10
 多刺裸腹蚤	duō;xx cì;ud luǒ;pg fù;ow zǎo;ii	10
 多刺绿绒蒿	duō;xx cì;ud lǜ;su róng;su hāo;ck	10
@@ -44047,13 +44048,11 @@ sort: by_weight
 鹅毛玉凤花	é;wn máo;pv yù;wd fèng;jy huā;cb	1
 峨眉包果柯	é;uw méi;uo bāo;bs guǒ;ta kē;ak	10
 峨眉翠雀花	é;uw méi;uo cuì;xu què;xv huā;cb	1
-峨嵋大蚯蚓	é;uw méi;uo dà;ar qiū;iq yǐn;il	10
 峨眉大蚯蚓	é;uw méi;uo dà;ar qiū;iq yǐn;il	10
 峨眉带唇兰	é;uw méi;uo dài;cj chún;ik lán;bs	10
 峨眉碘泡虫	é;uw méi;uo diǎn;ub pào;db chóng;vd	1
 峨眉对囊蕨	é;uw méi;uo duì;yc náng;gy jué;cq	1
 峨眉泛树蛙	é;uw méi;uo fàn;df shù;ac wā;it	10
-峨嵋方秆蕨	é;uw méi;uo fāng;wv gǎn;hg jué;cq	1
 峨眉方秆蕨	é;uw méi;uo fāng;wv gǎn;hg jué;cq	1
 峨眉飞蛾槭	é;uw méi;uo fēi;vd é;iw qì;ax	1
 峨眉凤仙花	é;uw méi;uo fèng;jy xiān;ru huā;cb	1
@@ -44065,7 +44064,7 @@ sort: by_weight
 峨眉红腺蕨	é;uw méi;uo hóng;sg xiàn;ou jué;cq	1
 峨眉厚喙菊	é;uw méi;uo hòu;iz huì;ku jú;cm	1
 峨眉后平鳅	é;uw méi;uo hòu;ik píng;au qiū;yh	1
-峨嵋华溪蟹	é;uw méi;uo huá;ru xī;dd xiè;di	1
+峨眉华溪蟹	é;uw méi;uo huá;ru xī;dd xiè;di	1
 峨眉黄肉楠	é;uw méi;uo huáng;cb ròu;nr nán;ag	10
 峨眉火绒草	é;uw méi;uo huǒ;br róng;su cǎo;cu	1
 峨眉假瘤蕨	é;uw méi;uo jiǎ;ry liú;bt jué;cq	1
@@ -44079,12 +44078,11 @@ sort: by_weight
 峨眉轮环藤	é;uw méi;uo lún;il huán;wb téng;cu	10
 峨眉罗伯蛛	é;uw méi;uo luó;sx bó;rb zhū;iw	1
 峨眉螺序草	é;uw méi;uo luó;ix xù;gy cǎo;cu	1
-峨嵋马先蒿	é;uw méi;uo mǎ;va xiān;ne hāo;ck	10
+峨眉马先蒿	é;uw méi;uo mǎ;va xiān;ne hāo;ck	10
 峨眉梅花草	é;uw méi;uo méi;am huā;cb cǎo;cu	1
 峨眉牛皮消	é;uw méi;uo niú;pu pí;py xiāo;do	10
 峨眉雀梅藤	é;uw méi;uo què;xv méi;am téng;cu	1
-峨嵋山地盾	é;uw méi;uo shān;kl dì;ty dùn;io	10
-峨嵋山莓草	é;uw méi;uo shān;kl méi;cm cǎo;cu	1
+峨眉山地盾	é;uw méi;uo shān;kl dì;ty dùn;io	10
 峨眉山莓草	é;uw méi;uo shān;kl méi;cm cǎo;cu	1
 峨眉蛇根草	é;uw méi;uo shé;ib gēn;ag cǎo;cu	1
 峨眉鼠尾草	é;uw méi;uo shǔ;jv wěi;um cǎo;cu	1
@@ -44093,7 +44091,6 @@ sort: by_weight
 峨眉唐松草	é;uw méi;uo táng;gk sōng;ag cǎo;cu	1
 峨眉蹄盖蕨	é;uw méi;uo tí;zj gài;ym jué;cq	1
 峨眉铁线蕨	é;uw méi;uo tiě;jf xiàn;sj jué;cq	1
-峨嵋无心菜	é;uw méi;uo wú;ay xīn;dd cài;ca	10
 峨眉无心菜	é;uw méi;uo wú;ay xīn;dd cài;ca	10
 峨眉小丽螺	é;uw méi;uo xiǎo;lb lì;ad luó;ix	1
 峨眉岩白菜	é;uw méi;uo yán;uu bái;po cài;ca	10
@@ -50317,7 +50314,7 @@ sort: by_weight
 毛沙生冰草	máo;pv shā;du shēng;pf bīng;du cǎo;cu	1
 昴山蹄盖蕨	mǎo;oe shān;kl tí;zj gài;ym jué;cq	1
 猫声园丁鸟	māo;qt shēng;tu yuán;wy dīng;al niǎo;na	1
-毛氏峨嵋龙	máo;pv shì;pv é;uw méi;uo lóng;yp	1
+毛氏峨眉龙	máo;pv shì;pv é;uw méi;uo lóng;yp	1
 毛穗夏至草	máo;pv suì;hx xià;bw zhì;gt cǎo;cu	1
 毛穗新麦草	máo;pv suì;hx xīn;lt mài;fw cǎo;cu	1
 毛体金小蜂	máo;pv tǐ;rb jīn;rb xiǎo;lb fēng;if	1
@@ -52092,7 +52089,7 @@ sort: by_weight
 曲顶心鸟蛤	qǔ;wc dǐng;dy xīn;dd niǎo;na há;ik	10
 曲果岩黄耆	qǔ;wc guǒ;ta yán;uu huáng;cb qí;lo	10
 渠江碘泡虫	qú;da jiāng;dg diǎn;ub pào;db chóng;vd	1
-曲颈龟亚目	qǔ;wc jǐng;jy guī;dd yà;ay mù;we	10
+曲颈龟亚目	qū;wc jǐng;jy guī;dd yà;ay mù;we	10
 曲茎虎耳草	qǔ;wc jīng;cj hǔ;hj ěr;ol cǎo;cu	1
 曲鳞书带蕨	qǔ;wc lín;yf shū;vd dài;cj jué;cq	1
 曲芒鹅观草	qǔ;wc máng;cw é;wn guān;yj cǎo;cu	1
@@ -60670,7 +60667,7 @@ sort: by_weight
 厄罗氏丘头鲶	è;iv luó;sx shì;pv qiū;ia tóu;dd nián;yx	1
 峨眉复叶耳蕨	é;uw méi;uo fù;pw yè;ku ěr;ol jué;cq	1
 峨眉假蹄盖蕨	é;uw méi;uo jiǎ;ry tí;zj gài;ym jué;cq	1
-峨嵋假铁秆草	é;uw méi;uo jiǎ;ry tiě;jf gǎn;hg cǎo;cu	1
+峨眉假铁秆草	é;uw méi;uo jiǎ;ry tiě;jf gǎn;hg cǎo;cu	1
 峨眉鳞果星蕨	é;uw méi;uo lín;yf guǒ;ta xīng;ou jué;cq	1
 厄氏吕宋花鮨	è;iv shì;pv lǚ;kk sòng;ba huā;cb yì;yo	1
 厄氏丝隆头鱼	è;iv shì;pv sī;sa lóng;eu tóu;dd yú;da	1
