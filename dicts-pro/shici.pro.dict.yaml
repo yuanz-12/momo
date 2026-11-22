@@ -4847,7 +4847,7 @@ sort: by_weight
 不知有之	bù;ab zhī;uk yǒu;uo zhī;dn	44
 不志於仁	bù;ab zhì;tx yú;fd rén;re	10
 不知周也	bù;ab zhī;uk zhōu;kk yě;vv	44
-不中梁柱	bù;ab zhōng;kl liáng;da zhù;av	10
+不中梁柱	bú;ab zhòng;kl liáng;da zhù;av	10
 不主常声	bù;ab zhǔ;wt cháng;xj shēng;tu	10
 不主故常	bù;ab zhǔ;wt gù;gw cháng;xj	44
 不自虑也	bú;ab zì;po lǜ;hx yě;vv	10
@@ -6085,7 +6085,7 @@ sort: by_weight
 发不胜冠	fā;fy bú;ab shèng;ou guān;bc	10
 发地盘石	fā;fy dì;ty pán;vm shí;ak	10
 法而不廛	fǎ;dq ér;al bù;ab chán;gt	10
-发而不中	fā;fy ér;al bù;ab zhōng;kl	44
+发而不中	fā;fy ér;al bú;ab zhòng;kl	44
 法法如是	fǎ;dq fǎ;dq rú;nk shì;oz	10
 发愤忘食	fā;fy fèn;xb wàng;wx shí;rg	44
 伐鼓渊渊	fá;rg gǔ;tv yuān;dm yuān;dm	10
@@ -9042,7 +9042,7 @@ sort: by_weight
 理不可睹	lǐ;wl bù;ab kě;dk dǔ;oo	10
 吏部选人	lì;gn bù;le xuǎn;ze rén;pn	10
 礼布玄制	lǐ;pv bù;uj xuán;wy zhì;nd	10
-立不中门	lì;wb bù;ab zhōng;kl mén;dv	44
+立不中门	lì;wb bú;ab zhòng;kl mén;dv	44
 力不足也	lì;vp bù;ab zú;kz yě;vv	44
 力不足者	lì;vp bù;ab zú;kz zhě;lo	44
 吏曹墨拘	lì;gn cáo;co mò;lt jū;fj	10
@@ -26190,7 +26190,7 @@ sort: by_weight
 不及西阳城	bù;ab jí;pn xī;ak yáng;eo chéng;ti	10
 步屐响长廓	bù;vu jī;uv xiǎng;kk cháng;pn kuò;ge	10
 不及向桑榆	bù;ab jí;pn xiàng;pk sāng;ya yú;ad	10
-不及小相得	bù;ab jí;pn xiǎo;lb xiāng;ao de;rc	10
+不及小相得	bù;ab jí;pn xiǎo;lb xiāng;ao dé;rc	10
 不及新恩重	bù;ab jí;pn xīn;lt ēn;yx zhòng;ql	10
 不寄一行书	bù;ab jì;bk yì;aa háng;rd shū;vd	10
 不及一户明	bù;ab jí;pn yí;aa hù;du míng;oo	10
@@ -31962,9 +31962,11 @@ sort: by_weight
 长眉满镜愁	cháng;pn méi;uo mǎn;dl jìng;je chóu;hx	10
 长眉已能画	cháng;pn méi;uo yǐ;kv néng;sb huà;at	10
 阊门草萋萋	chāng;mo mén;dv cǎo;cu qī;cn qī;cn	10
+长门赋并序	cháng;pn mén;dv fù;bv bìng;bk xù;gy	10
 阊门势欲浮	chāng;mo mén;dv shì;fl yù;gq fú;dz	10
 阊门瓦欲流	chāng;mo mén;dv wǎ;ad yù;gq liú;di	10
 阊门望去舟	chāng;mo mén;dv wàng;ww qù;ts zhōu;pd	10
+长门怨二首	cháng;pn mén;dv yuàn;xx èr;aa shǒu;bz	10
 阊门折垂柳	chāng;mo mén;dv zhé;ft chuí;qt liǔ;ae	10
 尝蒙噢咻之	cháng;xy méng;cu ō;kd xiū;ka zhī;dn	10
 常梦游清都	cháng;xj mèng;ax yóu;dz qīng;do dōu;le	10
@@ -37887,6 +37889,7 @@ sort: by_weight
 出入暗金阙	chū;uu rù;pn àn;oo jīn;rb què;mq	10
 出入并鞍马	chū;uu rù;pn bìng;bk ān;cn mǎ;va	10
 出入部曲随	chū;uu rù;pn bù;le qǔ;wc suí;eo	10
+初入长门宫	chū;pd rù;pn cháng;pn mén;dv gōng;bk	10
 出入称金籍	chū;uu rù;pn chēng;hx jīn;rb jí;vo	10
 出入承明庐	chū;uu rù;pn chéng;ln míng;oo lú;gh	10
 出入驰高轨	chū;uu rù;pn chí;my gāo;wk guǐ;ij	10
@@ -37951,7 +37954,6 @@ sort: by_weight
 出入与民伍	chū;uu rù;pn yǔ;va mín;vv wǔ;rw	10
 初入云树间	chū;pd rù;pn yún;ag shù;ac jiān;mo	10
 出入张公子	chū;uu rù;pn zhāng;gi gōng;bs zǐ;la	10
-初入长门宫	chū;pd rù;pn zhǎng;pn mén;dv gōng;bk	10
 出入止一马	chū;uu rù;pn zhǐ;lb yì;aa mǎ;va	10
 出入朱门家	chū;uu rù;pn zhū;pw mén;dv jiā;bu	10
 出入最随肩	chū;uu rù;pn zuì;oy suí;eo jiān;ho	10
@@ -51864,7 +51866,7 @@ sort: by_weight
 恩深忘此身	ēn;yx shēn;da wàng;wx cǐ;vb shēn;zc	10
 恩深朽蠹荣	ēn;yx shēn;da xiǔ;ak dù;gi róng;ca	10
 恩深责尚轻	ēn;yx shēn;da zé;fb shàng;xk qīng;ij	10
-恩深知命轻	ēn;yx shēn;da zhì;uk mìng;re qīng;ij	10
+恩深知命轻	ēn;yx shēn;da zhī;uk mìng;re qīng;ij	10
 恩始夫妇恭	ēn;yx shǐ;nk fū;er fù;ne gōng;gx	10
 恩疏宠不及	ēn;yx shū;vi chǒng;bl bù;ab jí;pn	10
 恩属重阳节	ēn;yx shǔ;uy chóng;ql yáng;eo jié;ce	10
@@ -60469,7 +60471,7 @@ sort: by_weight
 感深辞舅氏	gǎn;gx shēn;da cí;ux jiù;jl shì;pv	10
 感深翻有泪	gǎn;gx shēn;da fān;mx yǒu;uo lèi;do	10
 感深迹所经	gǎn;gx shēn;da jì;zb suǒ;ht jīng;sj	10
-感深知政嘉	gǎn;gx shēn;da zhì;uk zhèng;vw jiā;tk	10
+感深知政嘉	gǎn;gx shēn;da zhī;uk zhèng;vw jiā;tk	10
 感深滋涕洟	gǎn;gx shēn;da zī;dy tì;dd tì;dy	10
 感时常激切	gǎn;gx shí;to cháng;xj jī;dw qiè;qd	10
 感时何足贵	gǎn;gx shí;to hé;rk zú;kz guì;vb	10
@@ -63466,7 +63468,7 @@ sort: by_weight
 巩洛河流小	gǒng;gf luò;dk hé;dk liú;di xiǎo;lb	10
 功略盖天地	gōng;gl lüè;tk gài;ym tiān;ad dì;ty	10
 功略天下半	gōng;gl lüè;tk tiān;ad xià;ab bàn;bf	10
-宫买长门赋	gōng;bk mǎi;ad zhǎng;pn mén;dv fù;bv	10
+宫买长门赋	gōng;bk mǎi;ad cháng;pn mén;dv fù;bv	10
 共美持衡日	gòng;cb měi;yd chí;fc héng;rd rì;wa	10
 共美重阳节	gòng;cb měi;yd chóng;ql yáng;eo jié;ce	10
 宫没凤凰楼	gōng;bk méi;du fèng;jy huáng;jw lóu;an	10
@@ -64896,7 +64898,7 @@ sort: by_weight
 谷口更何好	gǔ;bk kǒu;la gèng;an hé;rk hǎo;nz	10
 谷口好泉石	gǔ;bk kǒu;la hǎo;nz quán;bu shí;ak	10
 谷口何人待	gǔ;bk kǒu;la hé;rk rén;pn dài;rc	10
-谷口旧相得	gǔ;bk kǒu;la jiù;lo xiāng;ao de;rc	10
+谷口旧相得	gǔ;bk kǒu;la jiù;lo xiāng;ao dé;rc	10
 谷口开朱门	gǔ;bk kǒu;la kāi;ac zhū;pw mén;dv	10
 谷口来相访	gǔ;bk kǒu;la lái;aa xiāng;ao fǎng;yf	10
 谷口期穷年	gǔ;bk kǒu;la qī;co qióng;bl nián;pf	10
@@ -114769,7 +114771,7 @@ sort: by_weight
 鸣凤栖青梧	míng;kn fèng;jy qī;ax qīng;fo wú;ak	10
 鸣凤栖梧桐	míng;kn fèng;jy qī;ax wú;ak tóng;ak	10
 命风驱日月	mìng;re fēng;jx qū;mq rì;wa yuè;ke	10
-鸣凤始相得	míng;kn fèng;jy shǐ;nk xiāng;ao de;rc	10
+鸣凤始相得	míng;kn fèng;jy shǐ;nk xiāng;ao dé;rc	10
 鸣凤托高梧	míng;kn fèng;jy tuō;fq gāo;wk wú;ak	10
 鸣凤翔娲笙	míng;kn fèng;jy xiáng;yx wā;nn shēng;vu	10
 鸣凤自相求	míng;kn fèng;jy zì;po xiāng;ao qiú;au	10
@@ -120902,7 +120904,7 @@ sort: by_weight
 鸥鹭不相嫌	ōu;qn lù;zn bù;ab xiāng;ao xián;nj	10
 鸥鹭往来驯	ōu;qn lù;zn wǎng;rv lái;aa xùn;mi	10
 鸥鹭下烟中	ōu;qn lù;zn xià;ab yān;hy zhōng;kl	10
-鸥鹭元相得	ōu;qn lù;zn yuán;aw xiāng;ao de;rc	10
+鸥鹭元相得	ōu;qn lù;zn yuán;aw xiāng;ao dé;rc	10
 偶落藩墙上	ǒu;rd luò;ck fān;ct qiáng;tk shàng;ba	10
 沤麻池水里	òu;dq má;ga chí;dy shuǐ;ln lǐ;tt	10
 沤麻入南涧	òu;dq má;ga rù;pn nán;ug jiàn;do	10
@@ -125516,11 +125518,11 @@ sort: by_weight
 乞巧大医王	qǐ;pv qiǎo;gk dà;ar yī;ku wáng;at	10
 葺桥双鹤赴	qì;ce qiáo;al shuāng;yy hè;bn fù;tb	10
 七桥通碧沼	qī;av qiáo;al tōng;zy bì;wu zhǎo;dk	10
+弃妾长门宫	qì;wc qiè;ln cháng;pn mén;dv gōng;bk	10
 弃妾还金闺	qì;wc qiè;ln hái;zb jīn;rb guī;mt	10
 凄切谁复寻	qī;dn qiè;qd shuí;yv fù;pw xún;ec	10
 其窃位者与	qí;cb qiè;bd wèi;rl zhě;lo yǔ;va	10
 弃妾渔阳间	qì;wc qiè;ln yú;dy yáng;eo jiān;mo	10
-弃妾长门宫	qì;wc qiè;ln zhǎng;pn mén;dv gōng;bk	10
 绮琴朝化洽	qǐ;sk qín;wv cháo;uo huà;rb qià;dk	10
 栖禽愁未去	qī;ax qín;rn chóu;hx wèi;aa qù;ts	10
 栖禽见火惊	qī;ax qín;rn jiàn;ke huǒ;br jīng;xx	10
@@ -134373,7 +134375,7 @@ sort: by_weight
 秋鹰折羽翰	qiū;hh yīng;gn zhé;ft yǔ;xx hàn;ux	10
 秋鹰折羽毛	qiū;hh yīng;gn zhé;ft yǔ;xx máo;pv	10
 求友多好音	qiú;au yǒu;uy duō;xx hǎo;nz yīn;lo	10
-求友还相得	qiú;au yǒu;uy hái;zb xiāng;ao de;rc	10
+求友还相得	qiú;au yǒu;uy hái;zb xiāng;ao dé;rc	10
 求友皆断金	qiú;au yǒu;uy jiē;bb duàn;vt jīn;rb	10
 求友昧其人	qiú;au yǒu;uy mèi;ow qí;cb rén;pn	10
 求友殊损益	qiú;au yǒu;uy shū;dw sǔn;fb yì;bm	10
@@ -136406,7 +136408,7 @@ sort: by_weight
 然而不可者	rán;xh ér;al bù;ab kě;dk zhě;lo	10
 然而不胜者	rán;xh ér;al bú;ab shèng;ou zhě;lo	10
 然而不王者	rán;xh ér;al bù;ab wáng;at zhě;lo	10
-然而不中者	rán;xh ér;al bù;ab zhōng;kl zhě;lo	10
+然而不中者	rán;xh ér;al bú;ab zhòng;kl zhě;lo	10
 然而巨盗至	rán;xh ér;al jù;kk dào;dm zhì;gt	10
 然放杖而笑	rán;xh fàng;fw zhàng;av ér;al xiào;vy	10
 髯飞尚假息	rán;er fēi;vd shàng;xk jiǎ;ry xī;zx	10
@@ -147196,20 +147198,20 @@ sort: by_weight
 深榛雨中宿	shēn;da zhēn;ah yǔ;ad zhōng;kl sù;bb	10
 神政张天维	shén;pu zhèng;vw zhāng;gi tiān;ad wéi;sv	10
 深卮递酬宾	shēn;da zhī;iv dì;zd chóu;yv bīn;bb	10
-深知独故人	shēn;da zhì;uk dú;qi gù;gw rén;pn	10
-深知好颜色	shēn;da zhì;uk hǎo;nz yán;wy sè;db	10
+深知独故人	shēn;da zhī;uk dú;qi gù;gw rén;pn	10
+深知好颜色	shēn;da zhī;uk hǎo;nz yán;wy sè;db	10
 身志将何欲	shēn;zc zhì;tx jiāng;lc hé;rk yù;gq	10
 身志俱降辱	shēn;zc zhì;tx jù;rb jiàng;ef rǔ;ic	10
-深知念是尘	shēn;da zhì;uk niàn;rx shì;oz chén;xt	10
-深知时俗情	shēn;da zhì;uk shí;to sú;rg qíng;xo	10
-深知太守贤	shēn;da zhì;uk tài;dd shǒu;bc xián;lb	10
-深知土产殊	shēn;da zhì;uk tǔ;ua chǎn;wi shū;dw	10
-深知王业休	shēn;da zhì;uk wáng;at yè;la xiū;ra	10
-深知亿劫苦	shēn;da zhì;uk yì;rv jié;ql kǔ;cg	10
-深知狱吏贵	shēn;da zhì;uk yù;qq lì;gn guì;vb	10
-深知在叔牙	shēn;da zhì;uk zài;ut shū;uy yá;gp	10
+深知念是尘	shēn;da zhī;uk niàn;rx shì;oz chén;xt	10
+深知时俗情	shēn;da zhī;uk shí;to sú;rg qíng;xo	10
+深知太守贤	shēn;da zhī;uk tài;dd shǒu;bc xián;lb	10
+深知土产殊	shēn;da zhī;uk tǔ;ua chǎn;wi shū;dw	10
+深知王业休	shēn;da zhī;uk wáng;at yè;la xiū;ra	10
+深知亿劫苦	shēn;da zhī;uk yì;rv jié;ql kǔ;cg	10
+深知狱吏贵	shēn;da zhī;uk yù;qq lì;gn guì;vb	10
+深知在叔牙	shēn;da zhī;uk zài;ut shū;uy yá;gp	10
 甚知丈人真	shèn;cb zhī;uk zhàng;an rén;pn zhēn;ub	10
-深知卓氏功	shēn;da zhì;uk zhuó;bu shì;pv gōng;gl	10
+深知卓氏功	shēn;da zhī;uk zhuó;bu shì;pv gōng;gl	10
 深中护灵根	shēn;da zhōng;kl hù;fh líng;eh gēn;ag	10
 深衷见士则	shēn;da zhōng;yv jiàn;ke shì;ua zé;bd	10
 深衷能卷舒	shēn;da zhōng;yv néng;sb juǎn;jv shū;ry	10
@@ -150894,7 +150896,7 @@ sort: by_weight
 时时闻鸟语	shí;to shí;to wén;me niǎo;na yǔ;yk	10
 世事问樵客	shì;cv shì;gy wèn;mk qiáo;ah kè;bk	10
 时时闻异香	shí;to shí;to wén;me yì;sc xiāng;ho	10
-世事我深知	shì;cv shì;gy wǒ;ga shēn;da zhì;uk	10
+世事我深知	shì;cv shì;gy wǒ;ga shēn;da zhī;uk	10
 时时误拂弦	shí;to shí;to wù;yt fú;ff xián;gx	10
 诗是吾家事	shī;yc shì;oz wú;wk jiā;bu shì;gy	10
 事事无孑遗	shì;gy shì;gy wú;ay jié;la yí;zb	10
@@ -159737,7 +159739,7 @@ sort: by_weight
 算空有并刀	suàn;vc kōng;bg yǒu;uo bìng;bk dāo;vp	10
 算平戎万里	suàn;vc píng;au róng;gu wàn;av lǐ;tt	10
 酸涩如棠梨	suān;yw sè;dv rú;nk táng;xa lí;ha	10
-算诗人相得	suàn;vc shī;yc rén;pn xiāng;ao de;rc	10
+算诗人相得	suàn;vc shī;yc rén;pn xiāng;ao dé;rc	10
 酸甜如梨楂	suān;yw tián;ug rú;nk lí;ha zhā;ad	10
 酸辛别离袂	suān;yw xīn;lu bié;kd lí;wn mèi;pg	10
 酸辛犯葱岭	suān;yw xīn;lu fàn;qv cōng;cx lǐng;us	10
@@ -184172,9 +184174,9 @@ sort: by_weight
 香稻三秋末	xiāng;ho dào;hj sān;ae qiū;hh mò;aa	10
 想到耶溪日	xiǎng;ax dào;gd yē;ee xī;dd rì;wa	10
 香稻盈田畴	xiāng;ho dào;hj yíng;nm tián;wu chóu;tc	10
-相得半酣时	xiāng;ao de;rc bàn;bf hān;yg shí;to	10
+相得半酣时	xiāng;ao dé;rc bàn;bf hān;yg shí;to	10
 想得读书窗	xiǎng;ax de;rc dú;yd shū;vd chuāng;bw	10
-相得欢有余	xiāng;ao de;rc huān;yq yǒu;uo yú;rm	10
+相得欢有余	xiāng;ao dé;rc huān;yq yǒu;uo yú;rm	10
 想得逐臣心	xiǎng;ax de;rc zhú;zu chén;kl xīn;dd	10
 向灯垂玉枕	xiàng;pk dēng;hd chuí;qt yù;wd zhěn;ae	10
 香灯续细烟	xiāng;ho dēng;hd xù;sd xì;st yān;hy	10
@@ -185983,7 +185985,7 @@ sort: by_weight
 相知尽白首	xiāng;ao zhī;uk jìn;id bái;po shǒu;bz	10
 相知久芬芳	xiāng;ao zhī;uk jiǔ;pn fēn;cf fāng;cf	10
 相值久无憀	xiāng;ao zhí;rq jiǔ;pn wú;ay liáo;xp	10
-相知两相得	xiāng;ao zhī;uk liǎng;ar xiāng;ao de;rc	10
+相知两相得	xiāng;ao zhī;uk liǎng;ar xiāng;ao dé;rc	10
 相知满九州	xiāng;ao zhī;uk mǎn;dl jiǔ;pv zhōu;dl	10
 相知岂在多	xiāng;ao zhī;uk qǐ;uj zài;ut duō;xx	10
 相值且徘徊	xiāng;ao zhí;rq qiě;oa pái;rf huái;rk	10
@@ -186171,11 +186173,9 @@ sort: by_weight
 晓笛别乡泪	xiǎo;ow dí;vy bié;kd xiāng;vp lèi;do	10
 小弟发亦白	xiǎo;lb dì;bd fā;fy yì;wb bái;po	10
 小弟更孩幼	xiǎo;lb dì;bd gèng;an hái;zr yòu;yl	10
-孝弟行里闾	xiào;lz dì;bd háng;rd lǐ;tt lǘ;mk	10
 小堤如冈陵	xiǎo;lb dī;tz rú;nk gāng;kx líng;ew	10
 小敌谓可骄	xiǎo;lb dí;uw wèi;yo kě;dk jiāo;ml	10
 小敌信所怯	xiǎo;lb dí;uw xìn;rk suǒ;ht qiè;xq	10
-孝弟一同规	xiào;lz dì;bd yì;aa tóng;kk guī;fj	10
 小店关门树	xiǎo;lb diàn;gv guān;bt mén;dv shù;ac	10
 小簟六尺床	xiǎo;lb diàn;vu liù;wb chǐ;un chuáng;ga	10
 笑电亦改容	xiào;vy diàn;ov yì;wb gǎi;jw róng;bg	10
@@ -186915,8 +186915,10 @@ sort: by_weight
 笑谈西斋月	xiào;vy tán;yh xī;ak zhāi;we yuè;ke	10
 宵谈转璿衡	xiāo;bo tán;yh zhuǎn;iv xuán;wo héng;rd	10
 骁腾有如此	xiāo;mw téng;om yǒu;uo rú;nk cǐ;vb	10
+孝弟行里闾	xiào;lz tì;bd háng;rd lǐ;tt lǘ;mk	10
 孝悌化邻保	xiào;lz tì;xd huà;rb lín;re bǎo;ra	10
 笑啼俱不敢	xiào;vy tí;kj jù;rb bù;ab gǎn;ew	10
+孝弟一同规	xiào;lz tì;bd yì;aa tóng;kk guī;fj	10
 嚣天旌旆扬	xiāo;xx tiān;ad jīng;fu pèi;fj yáng;fp	10
 萧条巴子台	xiāo;cb tiáo;wa bā;sl zǐ;la tái;sk	10
 萧条背城路	xiāo;cb tiáo;wa bèi;bo chéng;ti lù;zk	10
@@ -187152,6 +187154,7 @@ sort: by_weight
 萧萧北风至	xiāo;cb xiāo;cb běi;lb fēng;jx zhì;gt	10
 萧萧碧柳软	xiāo;cb xiāo;cb bì;wu liǔ;ae ruǎn;iq	10
 萧萧边马思	xiāo;cb xiāo;cb biān;zl mǎ;va sī;tx	10
+萧萧长门宫	xiāo;cb xiāo;cb cháng;pn mén;dv gōng;bk	10
 萧萧车马悲	xiāo;cb xiāo;cb chē;au mǎ;va bēi;fx	10
 萧萧楚客帆	xiāo;cb xiāo;cb chǔ;az kè;bk fān;jf	10
 萧萧出塞吟	xiāo;cb xiāo;cb chū;uu sài;bt yín;kv	10
@@ -187233,7 +187236,6 @@ sort: by_weight
 翛翛一囊衣	xiāo;rx xiāo;rx yī;aa náng;gy yī;wy	10
 萧萧远尘迹	xiāo;cb xiāo;cb yuǎn;zy chén;xt jì;zb	10
 翛翛月下闻	xiāo;rx xiāo;rx yuè;ke xià;ab wén;me	10
-萧萧长门宫	xiāo;cb xiāo;cb zhǎng;pn mén;dv gōng;bk	10
 萧萧征马悲	xiāo;cb xiāo;cb zhēng;rv mǎ;va bēi;fx	10
 萧萧征马烦	xiāo;cb xiāo;cb zhēng;rv mǎ;va fán;hy	10
 萧萧征骑烦	xiāo;cb xiāo;cb zhēng;rv qí;mk fán;hy	10
@@ -193308,7 +193310,7 @@ sort: by_weight
 巡回复悲咤	xún;zv huí;wk fù;pw bēi;fx zhà;kq	10
 巡回宫阙傍	xún;zv huí;wk gōng;bk què;mq bàng;rf	10
 巡回数尺间	xún;zv huí;wk shǔ;mw chǐ;un jiān;mo	10
-寻嵇此相得	xún;ec jī;hu cǐ;vb xiāng;ao de;rc	10
+寻嵇此相得	xún;ec jī;hu cǐ;vb xiāng;ao dé;rc	10
 循迹谅无端	xún;ro jì;zb liàng;yx wú;ay duān;le	10
 循迹少闲和	xún;ro jì;zb shǎo;xp xián;ma hé;hk	10
 勋绩在河源	xūn;kl jì;sb zài;ut hé;dk yuán;dx	10
@@ -198409,7 +198411,7 @@ sort: by_weight
 夜深欲逾垣	yè;ww shēn;da yù;gq yú;zd yuán;td	10
 夜深月暂皎	yè;ww shēn;da yuè;ke zàn;io jiǎo;bf	10
 夜深珍木冷	yè;ww shēn;da zhēn;wp mù;ur lěng;ds	10
-夜深知雪重	yè;ww shēn;da zhì;uk xuě;ye zhòng;ql	10
+夜深知雪重	yè;ww shēn;da zhī;uk xuě;ye zhòng;ql	10
 夜深众僧寝	yè;ww shēn;da zhòng;rr sēng;ro qǐn;by	10
 夜深坐南轩	yè;ww shēn;da zuò;tr nán;ug xuān;ig	10
 夜深作书毕	yè;ww shēn;da zuò;rv shū;vd bì;bu	10
@@ -203124,7 +203126,7 @@ sort: by_weight
 一寓不得已	yī;aa yù;bd bù;ab dé;rc yǐ;kv	10
 意欲捕鸣蝉	yì;lx yù;gq bǔ;ff míng;kn chán;iu	10
 一语不入意	yì;aa yǔ;yk bú;ab rù;pn yì;lx	10
-一语不中治	yì;aa yǔ;yk bù;ab zhōng;kl zhì;dk	10
+一语不中治	yì;aa yǔ;yk bú;ab zhòng;kl zhì;dk	10
 以予惭拙宦	yǐ;lr yǔ;sl cán;xt zhuō;fi huàn;bi	10
 意欲铲叠嶂	yì;lx yù;gq chǎn;ji dié;yq zhàng;uu	10
 异域长绝兮	yì;sc yù;ta cháng;pn jué;sb xī;bk	10
@@ -209681,7 +209683,7 @@ sort: by_weight
 悠悠满天星	yōu;rx yōu;rx mǎn;dl tiān;ad xīng;ou	10
 优游邈千载	yōu;ry yóu;dz miǎo;ze qiān;pu zǎi;gi	10
 悠悠暮复朝	yōu;rx yōu;rx mù;co fù;pw cháo;uo	10
-犹忧纳不中	yóu;qy yōu;xy nà;sn bù;ab zhōng;kl	10
+犹忧纳不中	yóu;qy yōu;xy nà;sn bú;ab zhòng;kl	10
 悠悠南北心	yōu;rx yōu;rx nán;ug běi;lb xīn;dd	10
 悠悠南国思	yōu;rx yōu;rx nán;ug guó;wy sī;tx	10
 悠悠南溟远	yōu;rx yōu;rx nán;ug míng;dl yuǎn;zy	10
@@ -213086,7 +213088,7 @@ sort: by_weight
 鱼与龙同池	yú;da yǔ;va lóng;yp tóng;kk chí;dy	10
 雨余楼阁静	yǔ;ad yú;rm lóu;an gé;mk jìng;fy	10
 余欲罗浮隐	yú;rm yù;gq luó;sx fú;dz yǐn;ex	10
-御与马相得	yù;re yǔ;va mǎ;va xiāng;ao de;rc	10
+御与马相得	yù;re yǔ;va mǎ;va xiāng;ao dé;rc	10
 郁郁眉多敛	yù;ue yù;ue méi;uo duō;xx liǎn;qw	10
 郁郁濛霜松	yù;ue yù;ue méng;du shuāng;yo sōng;ag	10
 郁郁秘书台	yù;ue yù;ue mì;hb shū;vd tái;sk	10
@@ -219543,13 +219545,11 @@ sort: by_weight
 长门不惜金	zhǎng;pn mén;dv bù;ab xī;xo jīn;rb	10
 长门次掖庭	zhǎng;pn mén;dv cì;dq yē;fw tíng;gw	10
 长门蝶舞多	zhǎng;pn mén;dv dié;ia wǔ;pf duō;xx	10
-长门赋并序	zhǎng;pn mén;dv fù;bv bìng;bk xù;gy	10
 长门寒水流	zhǎng;pn mén;dv hán;bd shuǐ;ln liú;di	10
 长门落景尽	zhǎng;pn mén;dv luò;ck jǐng;ox jìn;id	10
 长门未有春	zhǎng;pn mén;dv wèi;aa yǒu;uo chūn;io	10
 长门夜月明	zhǎng;pn mén;dv yè;ww yuè;ke míng;oo	10
 长门一步地	zhǎng;pn mén;dv yí;aa bù;vu dì;ty	10
-长门怨二首	zhǎng;pn mén;dv yuàn;xx èr;aa shǒu;bz	10
 张幕便成天	zhāng;gi mù;cj biàn;rg chéng;gv tiān;ad	10
 帐幕参三顾	zhàng;ji mù;cj cān;sp sān;ae gù;iy	10
 张幕会连沙	zhāng;gi mù;cj huì;ry lián;zi shā;du	10
@@ -220100,7 +220100,7 @@ sort: by_weight
 爪牙驱信越	zhǎo;in yá;gp qū;mq xìn;rk yuè;tl	10
 爪牙相践伤	zhǎo;in yá;gp xiāng;ao jiàn;zj shāng;rl	10
 爪牙雄武臣	zhǎo;in yá;gp xióng;uv wǔ;gv chén;kl	10
-爪牙一不中	zhǎo;in yá;gp yī;aa bù;ab zhōng;kl	10
+爪牙一不中	zhǎo;in yá;gp yī;aa bú;ab zhòng;kl	10
 爪牙在身上	zhǎo;in yá;gp zài;ut shēn;zc shàng;ba	10
 爪牙在胸中	zhǎo;in yá;gp zài;ut xiōng;ox zhōng;kl	10
 照眼白而长	zhào;oh yǎn;og bái;po ér;al cháng;pn	10
@@ -220546,7 +220546,7 @@ sort: by_weight
 贞观魏公孙	zhēn;bb guàn;yj wèi;hg gōng;bs sūn;zx	10
 贞观业万世	zhēn;bb guàn;yj yè;la wàn;av shì;cv	10
 贞观玉华李	zhēn;bb guàn;yj yù;wd huá;ru lǐ;az	10
-斟桂喜深知	zhēn;cd guì;at xǐ;tk shēn;da zhì;uk	10
+斟桂喜深知	zhēn;cd guì;at xǐ;tk shēn;da zhī;uk	10
 珍果出西域	zhēn;wp guǒ;ta chū;uu xī;ak yù;ta	10
 镇国山基毁	zhèn;jb guó;wy shān;kl jī;ct huǐ;ju	10
 枕寒庄蝶去	zhěn;ae hán;bd zhuāng;gt dié;ia qù;ts	10
@@ -225080,7 +225080,7 @@ sort: by_weight
 终夜响飕飕	zhōng;sd yè;ww xiǎng;kk sōu;fy sōu;fy	10
 中夜心寂寞	zhōng;kl yè;ww xīn;dd jì;by mò;bd	10
 中夜兴欲酣	zhōng;kl yè;ww xīng;xb yù;gq hān;yg	10
-中也养不中	zhōng;kl yě;vv yǎng;yl bù;ab zhōng;kl	10
+中也养不中	zhōng;kl yě;vv yǎng;yl bú;ab zhòng;kl	10
 终夜摇窗扉	zhōng;sd yè;ww yáo;ff chuāng;bw fēi;hf	10
 钟也以束缚	zhōng;jv yě;vv yǐ;lr shù;gr fù;sc	10
 中夜一相望	zhōng;kl yè;ww yì;aa xiāng;ao wàng;ww	10
@@ -235853,7 +235853,7 @@ sort: by_weight
 如之何其废之	rú;nk zhī;dn hé;rk qí;cb fèi;gy zhī;dn	10
 如之何其受之	rú;nk zhī;dn hé;rk qí;cb shòu;vy zhī;dn	10
 如之何则可也	rú;nk zhī;dn hé;rk zé;bd kě;dk yě;vv	10
-如中也弃不中	rú;nk zhōng;kl yě;vv qì;wc bù;ab zhōng;kl	10
+如中也弃不中	rú;nk zhōng;kl yě;vv qì;wc bú;ab zhòng;kl	10
 软风吹过窗纱	ruǎn;iq fēng;jx chuī;kq guò;zc chuāng;bw shā;su	10
 瑞草桥边老人	ruì;we cǎo;cu qiáo;al biān;zl lǎo;lb rén;pn	10
 瑞气遥迎凤辇	ruì;we qì;pv yáo;zf yíng;ze fèng;jy niǎn;fi	10
@@ -242908,7 +242908,7 @@ sort: by_weight
 波湖欲尽山为界	bō;dp hú;do yù;gq jìn;id shān;kl wéi;ld jiè;tj	10
 薄宦龙钟心懒慢	bó;cc huàn;bi lóng;yp zhōng;jv xīn;dd lǎn;xb màn;xy	10
 薄宦飘然笑漫郎	bó;cc huàn;bi piāo;xf rán;xh xiào;vy màn;dy láng;le	10
-薄宦深知误此心	bó;cc huàn;bi shēn;da zhì;uk wù;yt cǐ;vb xīn;dd	10
+薄宦深知误此心	bó;cc huàn;bi shēn;da zhī;uk wù;yt cǐ;vb xīn;dd	10
 薄宦相萦若网牵	bó;cc huàn;bi xiāng;ao yíng;cx ruò;ck wǎng;kx qiān;dn	10
 搏击下诸峰之巘	bó;fc jī;fk xià;ab zhū;yo fēng;uf zhī;dn yǎn;uq	10
 拨尽寒灰劫数深	bō;fy jìn;id hán;bd huī;uh jié;ql shù;mw shēn;da	10
@@ -244773,7 +244773,7 @@ sort: by_weight
 不知祖父皆汉民	bù;ab zhī;uk zǔ;pq fù;bx jiē;bb hàn;dy mín;vv	10
 不中不发思全功	bù;ab zhōng;kl bù;ab fā;fy sī;tx quán;rw gōng;gl	10
 不重生男重生女	bú;ab zhòng;ql shēng;pf nán;tl chóng;ql shēng;pf nǚ;va	10
-不中数与春别离	bù;ab zhōng;kl shù;mw yǔ;va chūn;io bié;kd lí;wn	10
+不中数与春别离	bú;ab zhòng;kl shù;mw yǔ;va chūn;io bié;kd lí;wn	10
 不种夭桃与绿杨	bù;ab zhǒng;hv yāo;pd táo;av yǔ;va lǜ;su yáng;ap	10
 不种自生一株橘	bù;ab zhǒng;hv zì;po shēng;pf yì;aa zhū;aw jú;ak	10
 不周山下红旗乱	bù;ab zhōu;kk shān;kl xià;ab hóng;sg qí;fb luàn;uv	10
@@ -251406,7 +251406,7 @@ sort: by_weight
 丹阳古郡洞庭阴	dān;kd yáng;eo gǔ;uk jùn;ye dòng;dk tíng;gw yīn;eo	10
 丹阳郭里送行舟	dān;kd yáng;eo guō;we lǐ;tt sòng;zt xíng;rd zhōu;pd	10
 丹阳太守意如何	dān;kd yáng;eo tài;dd shǒu;bc yì;lx rú;nk hé;rk	10
-但要深知不要忧	dàn;rd yào;xn shēn;da zhì;uk bú;ab yào;xn yōu;xy	10
+但要深知不要忧	dàn;rd yào;xn shēn;da zhī;uk bú;ab yào;xn yōu;xy	10
 但要修行功用深	dàn;rd yào;xn xiū;rp xíng;rd gōng;gl yòng;kf shēn;da	10
 但以本来悲愿力	dàn;rd yǐ;lr běn;aa lái;aa bēi;fx yuàn;ix lì;vp	10
 但以恩情生隙罅	dàn;rd yǐ;lr ēn;yx qíng;xo shēng;pf xì;eo xià;fh	10
@@ -254102,9 +254102,9 @@ sort: by_weight
 独占二疏应未可	dú;qi zhàn;bw èr;aa shū;vi yīng;ga wèi;aa kě;dk	10
 独占芳菲当夏景	dú;qi zhàn;bw fāng;cf fēi;cf dāng;xe xià;bw jǐng;ox	10
 独占人间分外荣	dú;qi zhàn;bw rén;pn jiān;mo fèn;bd wài;xb róng;ca	10
+独照长门宫里人	dú;qi zhào;oh cháng;pn mén;dv gōng;bk lǐ;tt rén;pn	10
 独棹破船归到州	dú;qi zhào;au pò;up chuán;vk guī;le dào;gd zhōu;dl	10
 独照台州老郑虔	dú;qi zhào;oh tāi;sk zhōu;dl lǎo;lb zhèng;be qián;hw	10
-独照长门宫里人	dú;qi zhào;oh zhǎng;pn mén;dv gōng;bk lǐ;tt rén;pn	10
 渡浙江问舟中人	dù;dy zhè;dt jiāng;dg wèn;mk zhōu;pd zhōng;kl rén;pn	10
 独折南园一朵梅	dú;qi zhé;ft nán;ug yuán;wy yì;aa duǒ;ja méi;am	10
 独知我者是尚书	dú;qi zhī;uk wǒ;ga zhě;lo shì;oz shàng;xk shū;vd	10
@@ -268113,7 +268113,7 @@ sort: by_weight
 见君何事不惭颜	jiàn;ke jūn;yk hé;rk shì;gy bù;ab cán;xt yán;wy	10
 见君江客忆荆扉	jiàn;ke jūn;yk jiāng;dg kè;bk yì;xv jīng;cd fēi;hf	10
 见君惊喜双回顾	jiàn;ke jūn;yk jīng;xx xǐ;tk shuāng;yy huí;wk gù;iy	10
-见君绝意必深知	jiàn;ke jūn;yk jué;sb yì;lx bì;xp shēn;da zhì;uk	10
+见君绝意必深知	jiàn;ke jūn;yk jué;sb yì;lx bì;xp shēn;da zhī;uk	10
 见君论著最相亲	jiàn;ke jūn;yk lùn;yl zhù;co zuì;oy xiāng;ao qīn;la	10
 见君诗与字俱清	jiàn;ke jūn;yk shī;yc yǔ;va zì;bz jù;rb qīng;do	10
 见君诗在柱心题	jiàn;ke jūn;yk shī;yc zài;ut zhù;av xīn;dd tí;oy	10
@@ -273437,7 +273437,7 @@ sort: by_weight
 坎轲坐老当谁尤	kǎn;tq kē;ik zuò;tr lǎo;lb dāng;xe shuí;yv yóu;yd	10
 看来看去渐成川	kàn;uo lái;aa kàn;uo qù;ts jiàn;dt chéng;gv chuān;pl	10
 看来看去心不忘	kàn;uo lái;aa kàn;uo qù;ts xīn;dd bú;ab wàng;wx	10
-看来犹未深知我	kàn;uo lái;aa yóu;qy wèi;aa shēn;da zhì;uk wǒ;ga	10
+看来犹未深知我	kàn;uo lái;aa yóu;qy wèi;aa shēn;da zhī;uk wǒ;ga	10
 坎离运行宽无成	kǎn;tq lí;wn yùn;zy xíng;rd kuān;bj wú;ay chéng;gv	10
 看笼不记熏龙脑	kàn;uo lóng;vl bú;ab jì;yj xūn;qh lóng;yp nǎo;ox	10
 看名知是老汤师	kàn;uo míng;xk zhī;uk shì;oz lǎo;lb tāng;dp shī;lj	10
@@ -275396,7 +275396,7 @@ sort: by_weight
 老杜当年鬓发华	lǎo;lb dù;at dāng;xe nián;pf bìn;eb fà;fy huá;ru	10
 老杜浣花溪图引	lǎo;lb dù;at huàn;dy huā;cb xī;dd tú;wd yǐn;gl	10
 老杜文章擅一家	lǎo;lb dù;at wén;wx zhāng;lu shàn;fd yì;aa jiā;bu	10
-老非怀土情相得	lǎo;lb fēi;ls huái;xb tǔ;ua qíng;xo xiāng;ao de;rc	10
+老非怀土情相得	lǎo;lb fēi;ls huái;xb tǔ;ua qíng;xo xiāng;ao dé;rc	10
 老逢佳景唯惆怅	lǎo;lb féng;zf jiā;rt jǐng;ox wéi;kv chóu;xk chàng;xi	10
 老逢乐事心犹壮	lǎo;lb féng;zf lè;px shì;gy xīn;dd yóu;qy zhuàng;lt	10
 老葑席卷苍云空	lǎo;lb fēng;cc xí;gj juǎn;jv cāng;cv yún;ag kōng;bg	10
@@ -288203,7 +288203,7 @@ sort: by_weight
 秦楼鸳瓦汉宫盘	qín;ih lóu;an yuān;xn wǎ;ad hàn;dy gōng;bk pán;vm	10
 寝门廊下哭微之	qǐn;by mén;dv láng;ge xià;ab kū;xq wēi;rj zhī;dn	10
 寝门泪满白髭须	qǐn;by mén;dv lèi;do mǎn;dl bái;po zī;eb xū;py	10
-琴鸣酒乐两相得	qín;wv míng;kn jiǔ;dy lè;px liǎng;ar xiāng;ao de;rc	10
+琴鸣酒乐两相得	qín;wv míng;kn jiǔ;dy lè;px liǎng;ar xiāng;ao dé;rc	10
 禽鸣无时不可数	qín;rn míng;kn wú;ay shí;to bù;ab kě;dk shù;mw	10
 秦磨利刀斩李斯	qín;ih mó;gu lì;hd dāo;vp zhǎn;it lǐ;az sī;ct	10
 秦牛肥腻酥胜雪	qín;ih niú;pu féi;ob nì;ob sū;yh shèng;ou xuě;ye	10
@@ -292617,7 +292617,7 @@ sort: by_weight
 若个娼家不来折	ruò;ck gè;rl chāng;no jiā;bu bù;ab lái;aa zhé;ft	10
 若个年多有茯苓	ruò;ck gè;rl nián;pf duō;xx yǒu;uo fú;cq líng;cs	10
 若个如君历七朝	ruò;ck gè;rl rú;nk jūn;yk lì;il qī;av cháo;uo	10
-若个深知此声好	ruò;ck gè;rl shēn;da zhì;uk cǐ;vb shēng;tu hǎo;nz	10
+若个深知此声好	ruò;ck gè;rl shēn;da zhī;uk cǐ;vb shēng;tu hǎo;nz	10
 若个游人不竞攀	ruò;ck gè;rl yóu;dz rén;pn bú;ab jìng;lx pān;au	10
 若个最为相忆处	ruò;ck gè;rl zuì;oy wéi;ld xiāng;ao yì;xv chù;wb	10
 若更多言却又非	ruò;ck gèng;an duō;xx yán;wk què;qe yòu;vn fēi;ls	10
@@ -307538,7 +307538,7 @@ sort: by_weight
 无道桓文之事者	wú;ay dào;zz huán;ad wén;wx zhī;dn shì;gy zhě;lo	10
 吴刀剪彩缝舞衣	wú;kt dāo;vp jiǎn;bd cǎi;vp fèng;sf wǔ;pf yī;wy	10
 吴刀翦彩缝舞衣	wú;kt dāo;vp jiǎn;bx cǎi;vp fèng;sf wǔ;pf yī;wy	10
-悟道深知前事非	wù;xk dào;zz shēn;da zhì;uk qián;bd shì;gy fēi;ls	10
+悟道深知前事非	wù;xk dào;zz shēn;da zhī;uk qián;bd shì;gy fēi;ls	10
 五德司晨我用多	wǔ;aw dé;rx sī;vk chén;oi wǒ;ga yòng;kf duō;xx	10
 物得以生谓之德	wù;nw dé;rc yǐ;lr shēng;pf wèi;yo zhī;dn dé;rx	10
 武帝祠前云欲散	wǔ;gv dì;wj cí;pk qián;bd yún;ag yù;gq sàn;cw	10
@@ -310458,7 +310458,7 @@ sort: by_weight
 仙山灵雨湿行云	xiān;ru shān;kl líng;eh yǔ;ad shī;dy xíng;rd yún;ag	10
 仙山一见五色羽	xiān;ru shān;kl yí;aa jiàn;ke wǔ;aw sè;db yǔ;xx	10
 闲上篮舆乘兴出	xián;ma shàng;ba lán;vm yú;jb chéng;qr xìng;xb chū;uu	10
-弦上深知流水意	xián;gx shàng;ba shēn;da zhì;uk liú;di shuǐ;ln yì;lx	10
+弦上深知流水意	xián;gx shàng;ba shēn;da zhī;uk liú;di shuǐ;ln yì;lx	10
 闲上西亭日几回	xián;ma shàng;ba xī;ak tíng;wd rì;wa jǐ;pv huí;wk	10
 仙赏心违泪交堕	xiān;ru shǎng;xb xīn;dd wéi;zw lèi;do jiāo;wf duò;et	10
 先社姜芽肥胜肉	xiān;ne shè;pt jiāng;yn yá;cy féi;ob shèng;ou ròu;nr	10
@@ -310842,8 +310842,8 @@ sort: by_weight
 想得家中夜深坐	xiǎng;ax de;rc jiā;bu zhōng;kl yè;ww shēn;da zuò;tr	10
 想得君家乌鹊喜	xiǎng;ax de;rc jūn;yk jiā;bu wū;pa què;cn xǐ;tk	10
 想得刘君独骑马	xiǎng;ax de;rc liú;wd jūn;yk dú;qi qí;mk mǎ;va	10
-相得平生藏妙手	xiāng;ao de;rc píng;au shēng;pf cáng;ci miào;nu shǒu;pf	10
-相得秋来常日醉	xiāng;ao de;rc qiū;hh lái;aa cháng;xj rì;wa zuì;yu	10
+相得平生藏妙手	xiāng;ao dé;rc píng;au shēng;pf cáng;ci miào;nu shǒu;pf	10
+相得秋来常日醉	xiāng;ao dé;rc qiū;hh lái;aa cháng;xj rì;wa zuì;yu	10
 想得天香随御所	xiǎng;ax de;rc tiān;ad xiāng;ho suí;eo yù;re suǒ;ht	10
 想得阳关更西路	xiǎng;ax de;rc yáng;eo guān;bt gèng;an xī;ak lù;zk	10
 想得扬州醉年少	xiǎng;ax de;rc yáng;fp zhōu;dl zuì;yu nián;pf shào;xp	10
@@ -311253,7 +311253,7 @@ sort: by_weight
 相如不足跨鹔鹴	xiàng;ao rú;nk bù;ab zú;kz kuà;zk sù;yn shuāng;yn	10
 相如曾作凤兮吟	xiàng;ao rú;nk céng;bo zuò;rv fèng;jy xī;bk yín;kv	10
 相如还谢文君回	xiàng;ao rú;nk hái;zb xiè;yc wén;wx jūn;yk huí;wk	10
-相如解作长门赋	xiàng;ao rú;nk jiě;dn zuò;rv zhǎng;pn mén;dv fù;bv	10
+相如解作长门赋	xiàng;ao rú;nk jiě;dn zuò;rv cháng;pn mén;dv fù;bv	10
 相如渴甚貌逾衰	xiàng;ao rú;nk kě;dr shèn;cb mào;ve yú;zd shuāi;yv	10
 相如免脱鹔鹴裘	xiàng;ao rú;nk miǎn;de tuō;ox sù;yn shuāng;yn qiú;qy	10
 相如名独重太山	xiàng;ao rú;nk míng;xk dú;qi zhòng;ql tài;dd shān;kl	10
@@ -315719,7 +315719,7 @@ sort: by_weight
 药炉有火丹应伏	yào;cu lú;hh yǒu;uo huǒ;br dān;kd yīng;ga fú;rq	10
 摇落从来长年感	yáo;ff luò;ck cóng;rr lái;aa cháng;pn nián;pf gǎn;gx	10
 摇落凄怆惊寒温	yáo;ff luò;ck qī;dn chuàng;xv jīng;xx hán;bd wēn;dm	10
-摇落深知宋玉悲	yáo;ff luò;ck shēn;da zhì;uk sòng;ba yù;wd bēi;fx	10
+摇落深知宋玉悲	yáo;ff luò;ck shēn;da zhī;uk sòng;ba yù;wd bēi;fx	10
 摇落摇落巫山暮	yáo;ff luò;ck yáo;ff luò;ck wū;gr shān;kl mù;co	10
 耀芒动角射三台	yào;gv máng;cw dòng;yl jiǎo;dy shè;uc sān;ae tái;sk	10
 要觅张良更是难	yào;xn mì;vj zhāng;gi liáng;dg gèng;an shì;oz nán;yv	10
@@ -321649,7 +321649,7 @@ sort: by_weight
 与此何啻百倍加	yǔ;va cǐ;vb hé;rk chì;wk bǎi;ab bèi;rk jiā;lk	10
 欲辞舅姑先问人	yù;gq cí;ux jiù;jl gū;ng xiān;ne wèn;mk rén;pn	10
 于此一至情何已	yú;au cǐ;vb yī;aa zhì;gt qíng;xo hé;rk yǐ;kv	10
-欲从抱朴传家学	yù;gq cóng;rr bào;fb pú;ab chuán;rv jiā;bu xué;xz	10
+欲从抱朴传家学	yù;gq cóng;rr bào;fb pǔ;ab chuán;rv jiā;bu xué;xz	10
 玉骢惯识西湖路	yù;wd cōng;mx guàn;xb shí;yv xī;ak hú;do lù;zk	10
 欲从壶子觅三机	yù;gq cóng;rr hú;ty zǐ;la mì;vj sān;ae jī;aj	10
 郁葱佳气夜充闾	yù;ue cōng;cx jiā;rt qì;pv yè;ww chōng;wy lǘ;mk	10
@@ -325079,7 +325079,7 @@ sort: by_weight
 早岁归休心共在	zǎo;ou suì;ux guī;le xiū;ra xīn;dd gòng;cb zài;ut	10
 早岁连兵剑锋折	zǎo;ou suì;ux lián;zi bīng;qb jiàn;qd fēng;jf zhé;ft	10
 早岁那知世事艰	zǎo;ou suì;ux nà;ve zhī;uk shì;cv shì;gy jiān;yg	10
-早岁闻名晚相得	zǎo;ou suì;ux wén;me míng;xk wǎn;oe xiāng;ao de;rc	10
+早岁闻名晚相得	zǎo;ou suì;ux wén;me míng;xk wǎn;oe xiāng;ao dé;rc	10
 早随阳雁及春还	zǎo;ou suí;eo yáng;eo yàn;iv jí;pn chūn;io hái;zb	10
 早岁有卜筑之志	zǎo;ou suì;ux yǒu;uo bǔ;ld zhù;vf zhī;dn zhì;tx	10
 凿天不到牵牛处	záo;yg tiān;ad bú;ab dào;gd qiān;dn niú;pu chù;wb	10
@@ -332147,7 +332147,7 @@ sort: by_weight
 归亦捧心而颦其里	guī;le yì;wb pěng;ff xīn;dd ér;al pín;vu qí;cb lǐ;tt	10
 归葬于家乡的祖莹	guī;le zàng;cc yú;au jiā;bu xiāng;vp de;bu zǔ;pq yíng;cy	10
 龟之大兮只以奄鲁	guī;dd zhī;dn dà;ar xī;bk zhǐ;kb yǐ;lr yǎn;dd lǔ;yo	10
-龟之枿兮不中梁柱	guī;dd zhī;dn niè;ac xī;bk bù;ab zhōng;kl liáng;da zhù;av	10
+龟之枿兮不中梁柱	guī;dd zhī;dn niè;ac xī;bk bú;ab zhòng;kl liáng;da zhù;av	10
 龟之气兮不能云雨	guī;dd zhī;dn qì;pv xī;bk bù;ab néng;sb yún;ag yǔ;ad	10
 归宗茶堂森明轩颂	guī;le zōng;bu chá;cm táng;xt sēn;aa míng;oo xuān;ig sòng;gy	10
 果不足以得彼之情	guǒ;ta bù;ab zú;kz yǐ;lr dé;rc bǐ;rp zhī;dn qíng;xo	10
@@ -333545,7 +333545,7 @@ sort: by_weight
 以事舜於畎亩之中	yǐ;lr shì;gy shùn;vf yú;fd quǎn;tq mǔ;wt zhī;dn zhōng;kl	10
 以双井茶送孔常父	yǐ;lr shuāng;yy jǐng;ac chá;cm sòng;zt kǒng;zv cháng;xj fù;bx	10
 以听伊尹之训己也	yǐ;lr tīng;kt yī;ry yǐn;ep zhī;dn xùn;yi jǐ;kv yě;vv	10
-羿弯弓属矢那不中	yì;xc wān;wg gōng;vv shǔ;uy shǐ;pd nà;ve bù;ab zhōng;kl	10
+羿弯弓属矢那不中	yì;xc wān;wg gōng;vv shǔ;uy shǐ;pd nà;ve bú;ab zhòng;kl	10
 忆往昔峥嵘岁月稠	yì;xv wǎng;rv xī;co zhēng;uy róng;ua suì;ux yuè;ke chóu;hk	10
 以慰吾兮岁岁之愁	yǐ;lr wèi;ux wú;wk xī;bk suì;ux suì;ux zhī;dn chóu;hx	10
 以为无益而舍之者	yǐ;lr wéi;ld wú;ay yì;bm ér;al shě;rg zhī;dn zhě;lo	10
@@ -333637,7 +333637,7 @@ sort: by_weight
 游秋浦白笴陂二首	yóu;dz qiū;hh pǔ;df bái;po gǎn;vk bēi;ep èr;aa shǒu;bz	10
 幽人构馆兮在其中	yōu;uy rén;pn gòu;ag guǎn;ul xī;bk zài;ut qí;cb zhōng;kl	10
 由射於百步之外也	yóu;ol shè;uc yú;fd bǎi;ab bù;vu zhī;dn wài;xb yě;vv	10
-有似我身不中乎器	yǒu;uo sì;rr wǒ;ga shēn;zc bù;ab zhōng;kl hū;pl qì;xx	10
+有似我身不中乎器	yǒu;uo sì;rr wǒ;ga shēn;zc bú;ab zhòng;kl hū;pl qì;xx	10
 有托其妻子於其友	yǒu;uo tuō;fq qí;cb qī;un zǐ;la yú;fd qí;cb yǒu;uy	10
 又闻空阶夜雨频滴	yòu;vn wén;me kōng;bg jiē;ej yè;ww yǔ;ad pín;vy dī;dg	10
 有仙都羽化之灵姿	yǒu;uo xiān;ru dū;le yǔ;xx huà;rb zhī;dn líng;eh zī;dn	10
@@ -333689,7 +333689,7 @@ sort: by_weight
 予未得为孔子徒也	yǔ;sl wèi;aa dé;rc wéi;ld kǒng;zv zǐ;la tú;rz yě;vv	10
 与物委蛇而同其波	yǔ;va wù;nw wēi;hn yí;ib ér;al tóng;kk qí;cb bō;dp	10
 与夏十二登岳阳楼	yǔ;va xià;bw shí;al èr;aa dēng;bb yuè;qu yáng;eo lóu;an	10
-欲相求而不能相得	yù;gq xiāng;ao qiú;au ér;al bù;ab néng;sb xiāng;ao de;rc	10
+欲相求而不能相得	yù;gq xiāng;ao qiú;au ér;al bù;ab néng;sb xiāng;ao dé;rc	10
 与一世而得淡漠焉	yǔ;va yí;aa shì;cv ér;al dé;rc dàn;dh mò;dd yān;vh	10
 欲以所事孔子事之	yù;gq yǐ;lr suǒ;ht shì;gy kǒng;zv zǐ;la shì;gy zhī;dn	10
 余与四人拥火以入	yú;rm yǔ;va sì;we rén;pn yōng;fy huǒ;br yǐ;lr rù;pn	10
@@ -334377,7 +334377,7 @@ sort: by_weight
 离离一点微酸已着枝	lí;wn lí;wn yì;aa diǎn;vh wēi;rj suān;yw yǐ;kv zhe;yo zhī;av	10
 立其百体而谓之马也	lì;wb qí;cb bǎi;ab tǐ;rb ér;al wèi;yo zhī;dn mǎ;va yě;vv	10
 李善棋爱酒情地闲雅	lǐ;az shàn;yk qí;ab ài;vy jiǔ;dy qíng;xo dì;ty xián;ma yǎ;yv	10
-礼乐不兴则刑罚不中	lǐ;pv yuè;px bù;ab xīng;xb zé;bd xíng;kd fá;sd bù;ab zhōng;kl	10
+礼乐不兴则刑罚不中	lǐ;pv yuè;px bù;ab xīng;xb zé;bd xíng;kd fá;sd bú;ab zhòng;kl	10
 立之本原而知通于神	lì;wb zhī;dn běn;aa yuán;ix ér;al zhī;uk tōng;zy yú;au shén;pu	10
 帘卷曲房谁共醉憔悴	lián;bj juǎn;jv qū;wc fáng;hf shuí;yv gòng;cb zuì;yu qiáo;xh cuì;xu	10
 帘幕尽垂无事郁金香	lián;bj mù;cj jìn;id chuí;qt wú;ay shì;gy yù;ue jīn;rb xiāng;ho	10
