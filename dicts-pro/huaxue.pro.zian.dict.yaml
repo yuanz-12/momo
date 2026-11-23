@@ -2757,7 +2757,7 @@ sort: by_weight
 泛酰丙醇胺	fàn;df siān;ye bǐng;an chún;yz àn;on	10
 反应性染料	fǎn;iy yìng;ga sìng;xu rǎn;da liào;md	10
 反应性试剂	fǎn;iy yìng;ga sìng;xu shì;yg ziì;qd	10
-反应终止剂	fǎn;iy yìng;ga zhōng;sd zhǐ;lb ziì;qd	10
+反应终止剂	fǎn;iy yìng;ga zhōng;sd zhǐ;bl ziì;qd	10
 放射性废料	fàng;fw shè;uc sìng;xu fèi;gy liào;md	10
 放射性核素	fàng;fw shè;uc sìng;xu hé;ar sù;fx	10
 放射性活度	fàng;fw shè;uc sìng;xu huó;du dù;gy	10
@@ -4409,7 +4409,7 @@ sort: by_weight
 单斜晶系矿物	dān;bu sié;rd zīng;oo xì;px kuàng;ug wù;nw	10
 单盐酸氟西泮	dān;bu yán;tm suān;yw fú;qf siī;ak pàn;db	10
 氮乙酰赖氨酸	dàn;qh yǐ;vv siān;ye lài;ub ān;qn suān;yw	10
-单引发终止剂	dān;bu yǐn;gl fā;fy zhōng;sd zhǐ;lb ziì;qd	10
+单引发终止剂	dān;bu yǐn;gl fā;fy zhōng;sd zhǐ;bl ziì;qd	10
 氮杂脱氧腺苷	dàn;qh zá;ja tuō;ox yǎng;qy siàn;ou gān;cg	10
 单组元推进剂	dān;bu zǔ;sq yuán;aw tuī;fv zìn;zj ziì;qd	10
 氘代硝基甲烷	dāo;ql dài;rg siāo;uo jī;ct jiǎ;ol wán;hy	10
@@ -6499,7 +6499,7 @@ sort: by_weight
 细胞间电耦合	siì;st bāo;ob jiān;mo diàn;ov ǒu;ld hé;rk	10
 细胞介导免疫	siì;st bāo;ob jiè;rl dǎo;sc miǎn;de yì;bu	10
 细胞结集理论	siì;st bāo;ob jié;sk zií;ra lǐ;wl lùn;yl	10
-细胞静止因子	siì;st bāo;ob zìng;fy zhǐ;lb yīn;wd zǐ;la	10
+细胞静止因子	siì;st bāo;ob zìng;fy zhǐ;bl yīn;wd zǐ;la	10
 细胞抗原受体	siì;st bāo;ob kàng;fj yuán;ix shòu;vy tǐ;rb	10
 细胞黏附分子	siì;st bāo;ob nián;hv fù;ec fēn;bd zǐ;la	10
 细胞粘附分子	siì;st bāo;ob nián;mv fù;ec fēn;bd zǐ;la	10
@@ -6588,7 +6588,7 @@ sort: by_weight
 香草基壬酰胺	xiāng;ho cǎo;cu jī;ct rén;pt siān;ye àn;on	10
 相对原子质量	siāng;ao duì;yc yuán;ix zǐ;la zhì;ib liàng;ol	12
 香料抽出溶剂	xiāng;ho liào;md chōu;fy chū;uu róng;dg ziì;qd	10
-橡皮管止血带	siàng;au pí;py guǎn;vl zhǐ;lb xuè;pm dài;cj	10
+橡皮管止血带	siàng;au pí;py guǎn;vl zhǐ;bl xuè;pm dài;cj	10
 橡皮障打孔器	siàng;au pí;py zhàng;eu dǎ;fd kǒng;zv qì;xx	10
 橡皮障隔湿法	siàng;au pí;py zhàng;eu gé;eg shī;dy fǎ;dq	10
 向山羟醛反应	xiàng;pk shān;kl qiǎng;yj cüán;yw fǎn;iy yìng;ga	10
@@ -7243,9 +7243,9 @@ sort: by_weight
 右旋芬氟拉明	yòu;uk süán;fz fēn;cf fú;qf lā;fl míng;oo	10
 右旋筒箭毒碱	yòu;uk süán;fz tǒng;vk ziàn;vd dú;fm jiǎn;uk	10
 右旋烯丙菊酯	yòu;uk süán;fz xī;hj bǐng;an jú;cm zhǐ;yo	10
-釉质发育不全	yòu;vy zhì;ib fā;fy yù;wo bù;ab cüán;rw	10
-釉质钙化不全	yòu;vy zhì;ib gài;jg huà;rb bù;ab cüán;rw	10
-釉质生长不全	yòu;vy zhì;ib shēng;pf zhǎng;pn bù;ab cüán;rw	10
+釉质发育不全	yòu;my zhì;ib fā;fy yù;wo bù;ab cüán;rw	10
+釉质钙化不全	yòu;my zhì;ib gài;jg huà;rb bù;ab cüán;rw	10
+釉质生长不全	yòu;my zhì;ib shēng;pf zhǎng;pn bù;ab cüán;rw	10
 疣状扁平苔藓	yóu;by zhuàng;lq biǎn;hc píng;au tái;ck siǎn;cy	10
 盂肱关节脱位	yú;ym gōng;os guān;bt zié;ce tuō;ox wèi;rl	10
 鱼石脂氧化锌	yú;da shí;ak zhī;oo yǎng;qy huà;rb sīn;jx	10
@@ -7629,8 +7629,8 @@ sort: by_weight
 大细胞癌小细胞	dà;ar siì;st bāo;ob ái;bu siǎo;lb siì;st bāo;ob	10
 大型血小板比率	dà;ar xíng;kt xuè;pm siǎo;lb bǎn;ay bǐ;bb lǜ;wu	10
 带铜宫内节育器	dài;cj tóng;jk gōng;bk nèi;kr zié;ce yù;wo qì;xx	10
-带止血阀导管鞘	dài;cj zhǐ;lb xuè;pm fá;mg dǎo;sc guǎn;vl ciào;co	10
-带止血阀动脉鞘	dài;cj zhǐ;lb xuè;pm fá;mg dòng;yl mài;oy ciào;co	10
+带止血阀导管鞘	dài;cj zhǐ;bl xuè;pm fá;mg dǎo;sc guǎn;vl ciào;co	10
+带止血阀动脉鞘	dài;cj zhǐ;bl xuè;pm fá;mg dòng;yl mài;oy ciào;co	10
 单纯性回状红斑	dān;bu chún;st sìng;xu huí;wk zhuàng;lq hóng;sg bān;ww	10
 单发性胆囊息肉	dān;bu fā;fy sìng;xu dǎn;od náng;gy siī;zx ròu;nr	10
 单分子消除反应	dān;bu fēn;bd zǐ;la siāo;do chú;em fǎn;iy yìng;ga	10
@@ -7821,14 +7821,14 @@ sort: by_weight
 放射性肺纤维化	fàng;fw shè;uc sìng;xu fèi;oj siān;sq wéi;sv huà;rb	10
 放置宫内节育器	fàng;fw zhì;sq gōng;bk nèi;kr zié;ce yù;wo qì;xx	10
 防治缺铁性贫血	fáng;ef zhì;dk quē;fg tiě;jf sìng;xu pín;fb xuè;pm	10
-防止永久性残疾	fáng;ef zhǐ;lb yǒng;du jiǔ;pn sìng;xu cán;dj zií;bu	10
+防止永久性残疾	fáng;ef zhǐ;bl yǒng;du jiǔ;pn sìng;xu cán;dj zií;bu	10
 非创伤性脾破裂	fēi;ls chuāng;rd shāng;rl sìng;xu pí;ou pò;up liè;dy	10
 非创伤性脾萎缩	fēi;ls chuāng;rd shāng;rl sìng;xu pí;ou wěi;cn suō;sb	10
 非催化溶液聚合	fēi;ls cuī;rv huà;rb róng;dg yè;dw zǜ;eu hé;rk	10
 肥大细胞蛋白酶	féi;ob dà;ar siì;st bāo;ob dàn;zi bái;po méi;ym	10
 肥大性扁平苔癣	féi;ob dà;ar sìng;xu biǎn;hc píng;au tái;ck süǎn;by	10
 肥大性幽门狭窄	féi;ob dà;ar sìng;xu yōu;uy mén;dv xiá;qj zhǎi;bv	10
-非典型性面部痛	fēi;ls diǎn;qb,cb xíng;kt sìng;xu miàn;ao bù;le tòng;by	10
+非典型性面部痛	fēi;ls diǎn;qb xíng;kt sìng;xu miàn;ao bù;le tòng;by	10
 肺动脉发育不全	fèi;oj dòng;yl mài;oy fā;fy yù;wo bù;ab cüán;rw	10
 肺动脉高压危象	fèi;oj dòng;yl mài;oy gāo;wk yā;id wēi;dv siàng;du	10
 非梗阻性青光眼	fēi;ls gěng;ag zǔ;eq sìng;xu cīng;fo guāng;xe yǎn;og	10
@@ -8236,7 +8236,7 @@ sort: by_weight
 髁前伸指标刻度	kē;gg cián;bd shēn;ru zhǐ;fo biāo;au kè;wd dù;gy	10
 可溶性核糖核酸	kě;dk róng;dg sìng;xu hé;ar táng;mk hé;ar suān;yw	10
 可溶性纤维素钠	kě;dk róng;dg sìng;xu siān;sq wéi;sv sù;fx nà;jn	10
-可溶性止血纱布	kě;dk róng;dg sìng;xu zhǐ;lb xuè;pm shā;su bù;uj	10
+可溶性止血纱布	kě;dk róng;dg sìng;xu zhǐ;bl xuè;pm shā;su bù;uj	10
 髁上髌上接受腔	kē;gg shàng;ba bìn;gb shàng;ba ziē;fn shòu;vy qiāng;og	10
 咳嗽变异性哮喘	ké;kr sòu;kq biàn;wy yì;sc sìng;xu xiào;kz chuǎn;ke	10
 柯替氏器螺旋器	kē;ak tì;fo shì;pv qì;xx luó;ix süán;fz qì;xx	10
@@ -8755,7 +8755,7 @@ sort: by_weight
 亚硝酸盐的含量	yà;ay siāo;uo suān;yw yán;tm de;bu hán;rk liàng;ol	10
 亚硝酸异戊酯吸	yà;ay siāo;uo suān;yw yì;sc wù;gp zhǐ;yo xī;kj	10
 牙龈保护剂塞治	yá;gp yín;vg bǎo;ra hù;fh ziì;qd sāi;bt zhì;dk	10
-牙釉质发生不全	yá;gp yòu;vy zhì;ib fā;fy shēng;pf bù;ab cüán;rw	10
+牙釉质发生不全	yá;gp yòu;my zhì;ib fā;fy shēng;pf bù;ab cüán;rw	10
 牙周膜浸润麻醉	yá;gp zhōu;kk mó;od zìn;dy rùn;dw má;ga zuì;yu	10
 颜面骨发育不全	yán;wy miàn;ao gǔ;go fā;fy yù;wo bù;ab cüán;rw	10
 眼前房导管脱落	yǎn;og cián;bd fáng;hf dǎo;sc guǎn;vl tuō;ox luò;ck	10

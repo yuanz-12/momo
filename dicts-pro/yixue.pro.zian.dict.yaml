@@ -193,8 +193,8 @@ sort: by_weight
 成体干细胞	chéng;gv tǐ;rb gàn;au siì;st bāo;ob	10
 成血管细胞	chéng;gv xuè;pm guǎn;vl siì;st bāo;ob	10
 成牙质细胞	chéng;gv yá;gp zhì;ib siì;st bāo;ob	10
-成釉细胞癌	chéng;gv yòu;vy siì;st bāo;ob ái;bu	10
-成釉细胞瘤	chéng;gv yòu;vy siì;st bāo;ob liú;bt	10
+成釉细胞癌	chéng;gv yòu;my siì;st bāo;ob ái;bu	10
+成釉细胞瘤	chéng;gv yòu;my siì;st bāo;ob liú;bt	10
 成脂细胞瘤	chéng;gv zhī;oo siì;st bāo;ob liú;bt	10
 齿槽突不齐	chǐ;vr cáo;ao tū;bq bù;ab cií;wl	10
 齿槽修补术	chǐ;vr cáo;ao siū;rp bǔ;pb shù;ad	10
@@ -1367,8 +1367,8 @@ sort: by_weight
 经掌截断术	jīng;sj zhǎng;xu zié;gv duàn;vt shù;ad	10
 竞争性抑制	jìng;lx zhēng;dy sìng;xu yì;fe zhì;nd	10
 精制抗血清	zīng;mo zhì;nd kàng;fj xuè;pm cīng;do	10
-静止网膜象	zìng;fy zhǐ;lb wǎng;kx mó;od siàng;du	10
-静止性震颤	zìng;fy zhǐ;lb sìng;xu zhèn;yi chàn;wy	10
+静止网膜象	zìng;fy zhǐ;bl wǎng;kx mó;od siàng;du	10
+静止性震颤	zìng;fy zhǐ;bl sìng;xu zhèn;yi chàn;wy	10
 颈中神经节	jǐng;jy zhōng;kl shén;pu jīng;sj zié;ce	10
 颈中心神经	jǐng;jy zhōng;kl sīn;dd shén;pu jīng;sj	10
 晶状白内障	zīng;oo zhuàng;lq bái;po nèi;kr zhàng;eu	10
@@ -2487,7 +2487,7 @@ sort: by_weight
 胃窦切除术	wèi;to dòu;bd ciē;qd chú;em shù;ad	10
 胃恶性肿瘤	wèi;to è;yx sìng;xu zhǒng;ov liú;bt	10
 胃良性肿瘤	wèi;to liáng;dg sìng;xu zhǒng;ov liú;bt	10
-胃切开止血	wèi;to ciē;qd kāi;ac zhǐ;lb xuè;pm	10
+胃切开止血	wèi;to ciē;qd kāi;ac zhǐ;bl xuè;pm	10
 胃取异物术	wèi;to cǚ;ey yì;sc wù;nw shù;ad	10
 胃全切除术	wèi;to cüán;rw ciē;qd chú;em shù;ad	10
 胃热津亏证	wèi;to rè;fh zīn;dy kuī;ak zhèng;yv	10
@@ -2587,7 +2587,7 @@ sort: by_weight
 下颌角截骨	xià;ab hé;ry jiǎo;dy zié;gv gǔ;go	10
 下颌前徙术	xià;ab hé;ry cián;bd siǐ;rz shù;ad	10
 下颌舌骨线	xià;ab hé;ry shé;qk gǔ;go siàn;sj	10
-下颌息止位	xià;ab hé;ry siī;zx zhǐ;lb wèi;rl	10
+下颌息止位	xià;ab hé;ry siī;zx zhǐ;bl wèi;rl	10
 下颌下腺凹	xià;ab hé;ry xià;ab siàn;ou āo;la	10
 下颌下腺管	xià;ab hé;ry xià;ab siàn;ou guǎn;vl	10
 下甲状旁腺	xià;ab jiǎ;ol zhuàng;lq páng;wf siàn;ou	10
@@ -2855,7 +2855,7 @@ sort: by_weight
 心包引流术	sīn;dd bāo;bs yǐn;gl liú;di shù;ad	10
 心包造口术	sīn;dd bāo;bs zào;zk kǒu;la shù;ad	10
 心包粘连术	sīn;dd bāo;bs zhān;mv lián;zi shù;ad	10
-心包止血术	sīn;dd bāo;bs zhǐ;lb xuè;pm shù;ad	10
+心包止血术	sīn;dd bāo;bs zhǐ;bl xuè;pm shù;ad	10
 心表面降温	sīn;dd biǎo;fy miàn;ao jiàng;ef wēn;dm	10
 心传导系统	sīn;dd chuán;rv dǎo;sc xì;px tǒng;sy	10
 锌代谢紊乱	sīn;jx dài;rg siè;yc wěn;wx luàn;uv	10
@@ -3401,7 +3401,7 @@ sort: by_weight
 右心心肌病	yòu;uk sīn;dd sīn;dd jī;oj bìng;bn	10
 右心转流术	yòu;uk sīn;dd zhuǎn;iv liú;di shù;ad	10
 友谊的象征	yǒu;uy yì;yq de;bu siàng;du zhēng;rv	10
-釉质生长线	yòu;vy zhì;ib shēng;pf zhǎng;pn siàn;sj	10
+釉质生长线	yòu;my zhì;ib shēng;pf zhǎng;pn siàn;sj	10
 油脂性脱发	yóu;dy zhī;oo sìng;xu tuō;ox fà;fy	10
 疣状银屑病	yóu;by zhuàng;lq yín;jg siè;uo bìng;bn	10
 游走肾危象	yóu;dz zǒu;tz shèn;lo wēi;dv siàng;du	10
@@ -3469,8 +3469,8 @@ sort: by_weight
 灶性肺气肿	zào;ht sìng;xu fèi;oj qì;pv zhǒng;ov	10
 造血祖细胞	zào;zk xuè;pm zǔ;pq siì;st bāo;ob	10
 早幼粒细胞	zǎo;ou yòu;yl lì;ml siì;st bāo;ob	10
-造釉细胞癌	zào;zk yòu;vy siì;st bāo;ob ái;bu	10
-造釉细胞瘤	zào;zk yòu;vy siì;st bāo;ob liú;bt	10
+造釉细胞癌	zào;zk yòu;my siì;st bāo;ob ái;bu	10
+造釉细胞瘤	zào;zk yòu;my siì;st bāo;ob liú;bt	10
 增殖腺肥大	zēng;to zhí;dq siàn;ou féi;ob dà;ar	10
 增殖性红斑	zēng;to zhí;dq sìng;xu hóng;sg bān;ww	10
 增殖性皮炎	zēng;to zhí;dq sìng;xu pí;py yán;hh	10
@@ -3542,7 +3542,7 @@ sort: by_weight
 支气管腺瘤	zhī;uy qì;pv guǎn;vl siàn;ou liú;bt	10
 跖浅横韧带	zhí;zu ciǎn;dj héng;ab rèn;wd dài;cj	10
 治前列腺炎	zhì;dk cián;bd liè;dd siàn;ou yán;hh	10
-止痛剂中毒	zhǐ;lb tòng;by ziì;qd zhòng;kl dú;fm	10
+止痛剂中毒	zhǐ;bl tòng;by ziì;qd zhòng;kl dú;fm	10
 致细胞病变	zhì;gw siì;st bāo;ob bìng;bn biàn;wy	10
 窒息的感觉	zhì;bt siī;zx de;bu gǎn;gx jué;xj	10
 职业性白斑	zhí;ev yè;la sìng;xu bái;po bān;ww	10
@@ -3932,8 +3932,8 @@ sort: by_weight
 澄清度检查法	chéng;db cīng;do dù;gy jiǎn;aq chá;ad fǎ;dq	10
 成牙本质细胞	chéng;gv yá;gp běn;aa zhì;ib siì;st bāo;ob	10
 成牙骨质细胞	chéng;gv yá;gp gǔ;go zhì;ib siì;st bāo;ob	10
-成釉细胞肉瘤	chéng;gv yòu;vy siì;st bāo;ob ròu;nr liú;bt	10
-成釉细胞牙瘤	chéng;gv yòu;vy siì;st bāo;ob yá;gp liú;bt	10
+成釉细胞肉瘤	chéng;gv yòu;my siì;st bāo;ob ròu;nr liú;bt	10
+成釉细胞牙瘤	chéng;gv yòu;my siì;st bāo;ob yá;gp liú;bt	10
 齿槽骨修整术	chǐ;vr cáo;ao gǔ;go siū;rp zhěng;uv shù;ad	10
 齿槽良性肿瘤	chǐ;vr cáo;ao liáng;dg sìng;xu zhǒng;ov liú;bt	10
 齿槽裂修补术	chǐ;vr cáo;ao liè;dy siū;rp bǔ;pb shù;ad	10
@@ -4358,8 +4358,8 @@ sort: by_weight
 肥大性酒糟鼻	féi;ob dà;ar sìng;xu ziǔ;dy zāo;mo bí;zw	10
 肥大性酒渣鼻	féi;ob dà;ar sìng;xu ziǔ;dy zhā;dd bí;zw	10
 肥大性神经炎	féi;ob dà;ar sìng;xu shén;pu jīng;sj yán;hh	10
-非典型纤维黄	fēi;ls diǎn;qb,cb xíng;kt siān;sq wéi;sv huáng;cb	10
-非典型性抽风	fēi;ls diǎn;qb,cb xíng;kt sìng;xu chōu;fy fēng;jx	10
+非典型纤维黄	fēi;ls diǎn;qb xíng;kt siān;sq wéi;sv huáng;cb	10
+非典型性抽风	fēi;ls diǎn;qb xíng;kt sìng;xu chōu;fy fēng;jx	10
 非定义性特征	fēi;ls dìng;bz yì;dx sìng;xu tè;nc zhēng;rv	10
 肺动脉连接术	fèi;oj dòng;yl mài;oy lián;zi ziē;fn shù;ad	10
 肺恶性淋巴瘤	fèi;oj è;yx sìng;xu lín;da bā;sl liú;bt	10
@@ -4485,7 +4485,7 @@ sort: by_weight
 副乳头切除术	fù;ad rǔ;vv tóu;dd ciē;qd chú;em shù;ad	10
 副乳腺切除术	fù;ad rǔ;vv siàn;ou ciē;qd chú;em shù;ad	10
 辐射性白内障	fú;it shè;uc sìng;xu bái;po nèi;kr zhàng;eu	10
-辐射性牙釉质	fú;it shè;uc sìng;xu yá;gp yòu;vy zhì;ib	10
+辐射性牙釉质	fú;it shè;uc sìng;xu yá;gp yòu;my zhì;ib	10
 腹透连接短管	fù;ow tòu;zn lián;zi ziē;fn duǎn;ub guǎn;vl	10
 腹外侧视前核	fù;ow wài;xb cè;rd shì;pj cián;bd hé;ar	10
 腹外斜肌腱膜	fù;ow wài;xb sié;rd jī;oj jiàn;oy mó;od	10
@@ -5100,7 +5100,7 @@ sort: by_weight
 睫状体透热术	zié;oz zhuàng;lq tǐ;rb tòu;zn rè;fh shù;ad	10
 睫状体棕黑板	zié;oz zhuàng;lq tǐ;rb zōng;au hēi;lh bǎn;ay	10
 睫状血管系统	zié;oz zhuàng;lq xuè;pm guǎn;vl xì;px tǒng;sy	10
-金红止痛消肿	jīn;rb hóng;sg zhǐ;lb tòng;by siāo;do zhǒng;ov	10
+金红止痛消肿	jīn;rb hóng;sg zhǐ;bl tòng;by siāo;do zhǒng;ov	10
 浸润性导管癌	zìn;dy rùn;dw sìng;xu dǎo;sc guǎn;vl ái;bu	10
 进行性肌萎缩	zìn;zj xíng;rd sìng;xu jī;oj wěi;cn suō;sb	10
 进行性球麻痹	zìn;zj xíng;rd sìng;xu qiú;wq má;ga bì;bw	10
@@ -5184,7 +5184,7 @@ sort: by_weight
 颈外静脉损伤	jǐng;jy wài;xb zìng;fy mài;oy sǔn;fb shāng;rl	10
 经腕骨截断术	jīng;sj wàn;ov gǔ;go zié;gv duàn;vt shù;ad	10
 精液常规检查	zīng;mo yè;dw cháng;xj guī;fj jiǎn;aq chá;ad	10
-静止性牙周炎	zìng;fy zhǐ;lb sìng;xu yá;gp zhōu;kk yán;hh	10
+静止性牙周炎	zìng;fy zhǐ;bl sìng;xu yá;gp zhōu;kk yán;hh	10
 晶状体切割术	zīng;oo zhuàng;lq tǐ;rb ciē;qd gē;bd shù;ad	10
 晶状体摘除术	zīng;oo zhuàng;lq tǐ;rb zhāi;fg chú;em shù;ad	10
 颈椎间盘变性	jǐng;jy zhuī;av jiān;mo pán;vm biàn;wy sìng;xu	10
@@ -6109,7 +6109,7 @@ sort: by_weight
 胃憩室切除术	wèi;to qì;ux shì;bt ciē;qd chú;em shù;ad	10
 胃切除术后癌	wèi;to ciē;qd chú;em shù;ad hòu;ik ái;bu	10
 胃切开探查术	wèi;to ciē;qd kāi;ac tàn;fa chá;ad shù;ad	10
-胃切开止血术	wèi;to ciē;qd kāi;ac zhǐ;lb xuè;pm shù;ad	10
+胃切开止血术	wèi;to ciē;qd kāi;ac zhǐ;bl xuè;pm shù;ad	10
 卫青和霍去病	wèi;ea cīng;fo hé;hk huò;yv qù;ts bìng;bn	10
 微生物性湿疹	wēi;rj shēng;pf wù;nw sìng;xu shī;dy zhěn;bp	10
 萎缩性胆囊炎	wěi;cn suō;sb sìng;xu dǎn;od náng;gy yán;hh	10
@@ -6395,7 +6395,7 @@ sort: by_weight
 牙槽骨切开术	yá;gp cáo;ao gǔ;go ciē;qd kāi;ac shù;ad	10
 牙槽骨修整术	yá;gp cáo;ao gǔ;go siū;rp zhěng;uv shù;ad	10
 牙槽隙修补术	yá;gp cáo;ao xì;eo siū;rp bǔ;pb shù;ad	10
-牙成釉细胞瘤	yá;gp chéng;gv yòu;vy siì;st bāo;ob liú;bt	10
+牙成釉细胞瘤	yá;gp chéng;gv yòu;my siì;st bāo;ob liú;bt	10
 亚急性白血病	yà;ay jí;dx sìng;xu bái;po xuè;pm bìng;bn	10
 亚急性骨髓炎	yà;ay jí;dx sìng;xu gǔ;go suǐ;go yán;hh	10
 亚急性阑尾炎	yà;ay jí;dx sìng;xu lán;mj wěi;um yán;hh	10
@@ -6565,8 +6565,8 @@ sort: by_weight
 月经前综合征	yuè;ke jīng;sj cián;bd zōng;su hé;rk zhēng;rv	10
 躁狂型精神病	zào;za kuáng;qw xíng;kt zīng;mo shén;pu bìng;bn	10
 早熟性巨睾症	zǎo;ou shú;wh sìng;xu jù;kk gāo;pg zhèng;bv	10
-造釉细胞肉瘤	zào;zk yòu;vy siì;st bāo;ob ròu;nr liú;bt	10
-造釉细胞牙瘤	zào;zk yòu;vy siì;st bāo;ob yá;gp liú;bt	10
+造釉细胞肉瘤	zào;zk yòu;my siì;st bāo;ob ròu;nr liú;bt	10
+造釉细胞牙瘤	zào;zk yòu;my siì;st bāo;ob yá;gp liú;bt	10
 增生性胆囊炎	zēng;to shēng;pf sìng;xu dǎn;od náng;gy yán;hh	10
 增生性脓皮病	zēng;to shēng;pf sìng;xu nóng;oy pí;py bìng;bn	10
 增生性牙龈炎	zēng;to shēng;pf sìng;xu yá;gp yín;vg yán;hh	10
@@ -6924,8 +6924,8 @@ sort: by_weight
 成视网膜细胞瘤	chéng;gv shì;pj wǎng;kx mó;od siì;st bāo;ob liú;bt	10
 成熟囊性畸胎瘤	chéng;gv shú;wh náng;gy sìng;xu jī;tk tāi;ok liú;bt	10
 成牙本质细胞突	chéng;gv yá;gp běn;aa zhì;ib siì;st bāo;ob tū;bq	10
-成釉细胞纤维瘤	chéng;gv yòu;vy siì;st bāo;ob siān;sq wéi;sv liú;bt	10
-成釉细胞牙肉瘤	chéng;gv yòu;vy siì;st bāo;ob yá;gp ròu;nr liú;bt	10
+成釉细胞纤维瘤	chéng;gv yòu;my siì;st bāo;ob siān;sq wéi;sv liú;bt	10
+成釉细胞牙肉瘤	chéng;gv yòu;my siì;st bāo;ob yá;gp ròu;nr liú;bt	10
 尺侧腕伸肌腱鞘	chǐ;un cè;rd wàn;ov shēn;ru jī;oj jiàn;oy ciào;co	10
 迟发性尺神经炎	chí;zi fā;fy sìng;xu chǐ;un shén;pu jīng;sj yán;hh	10
 尺骨部分切除术	chǐ;un gǔ;go bù;le fen;bd ciē;qd chú;em shù;ad	10
@@ -7150,7 +7150,7 @@ sort: by_weight
 腭裂四瓣修复术	è;ok liè;dy sì;we bàn;xg siū;rp fù;pw shù;ad	10
 厄谢尔赛尼尔病	è;iv siè;yc ěr;dx sài;bb ní;ub ěr;dx bìng;bn	10
 恶性布伦纳氏瘤	è;yx sìng;xu bù;uj lún;rl nà;sn shì;pv liú;bt	10
-恶性成釉细胞瘤	è;yx sìng;xu chéng;gv yòu;vy siì;st bāo;ob liú;bt	10
+恶性成釉细胞瘤	è;yx sìng;xu chéng;gv yòu;my siì;st bāo;ob liú;bt	10
 恶性多形性腺瘤	è;yx sìng;xu duō;xx xíng;kp sìng;xu siàn;ou liú;bt	10
 恶性肥大细胞瘤	è;yx sìng;xu féi;ob dà;ar siì;st bāo;ob liú;bt	10
 恶性腹膜间皮瘤	è;yx sìng;xu fù;ow mó;od jiān;mo pí;py liú;bt	10
@@ -7172,7 +7172,7 @@ sort: by_weight
 恶性胸膜间皮瘤	è;yx sìng;xu xiōng;ox mó;od jiān;mo pí;py liú;bt	10
 恶性牙齿源性瘤	è;yx sìng;xu yá;gp chǐ;vr yuán;dx sìng;xu liú;bt	10
 恶性叶状囊肉瘤	è;yx sìng;xu yè;ku zhuàng;lq náng;gy ròu;nr liú;bt	10
-恶性造釉细胞瘤	è;yx sìng;xu zào;zk yòu;vy siì;st bāo;ob liú;bt	10
+恶性造釉细胞瘤	è;yx sìng;xu zào;zk yòu;my siì;st bāo;ob liú;bt	10
 恶性组织细胞病	è;yx sìng;xu zǔ;sq zhī;sv siì;st bāo;ob bìng;bn	10
 耳部病损切除术	ěr;ol bù;le bìng;bn sǔn;fb ciē;qd chú;em shù;ad	10
 耳部切口扩创术	ěr;ol bù;le ciē;qd kǒu;la kuò;fg chuàng;rd shù;ad	10
@@ -7225,7 +7225,7 @@ sort: by_weight
 反应性淋巴结炎	fǎn;iy yìng;ga sìng;xu lín;da bā;sl jié;sk yán;hh	10
 房化心室折叠术	fáng;hf huà;rb sīn;dd shì;bt zhé;ft dié;yq shù;ad	10
 防治心血管疾病	fáng;ef zhì;dk sīn;dd xuè;pm guǎn;vl zií;bu bìng;bn	10
-防止心血管疾病	fáng;ef zhǐ;lb sīn;dd xuè;pm guǎn;vl zií;bu bìng;bn	10
+防止心血管疾病	fáng;ef zhǐ;bl sīn;dd xuè;pm guǎn;vl zií;bu bìng;bn	10
 非白血性白血病	fēi;ls bái;po xuè;pm sìng;xu bái;po xuè;pm bìng;bn	10
 非变应性荨麻疹	fēi;ls biàn;wy yīng;ga sìng;xu sǘn;cc má;ga zhěn;bp	10
 肺部病损切除术	fèi;oj bù;le bìng;bn sǔn;fb ciē;qd chú;em shù;ad	10
@@ -7551,8 +7551,8 @@ sort: by_weight
 骨髓增殖性疾病	gǔ;go suǐ;go zēng;to zhí;dq sìng;xu zií;bu bìng;bn	10
 骨髓增殖性肿瘤	gǔ;go suǐ;go zēng;to zhí;dq sìng;xu zhǒng;ov liú;bt	10
 鼓索神经切断术	gǔ;tv suǒ;ux shén;pu jīng;sj ciē;qd duàn;vt shù;ad	10
-骨外成釉细胞瘤	gǔ;go wài;xb chéng;gv yòu;vy siì;st bāo;ob liú;bt	10
-骨外造釉细胞瘤	gǔ;go wài;xb zào;zk yòu;vy siì;st bāo;ob liú;bt	10
+骨外成釉细胞瘤	gǔ;go wài;xb chéng;gv yòu;my siì;st bāo;ob liú;bt	10
+骨外造釉细胞瘤	gǔ;go wài;xb zào;zk yòu;my siì;st bāo;ob liú;bt	10
 骨折切开复位术	gǔ;go zhé;ft ciē;qd kāi;ac fù;pw wèi;rl shù;ad	10
 骨折碎片取出术	gǔ;go zhé;ft suì;uu piàn;pv cǚ;ey chū;uu shù;ad	10
 骨肿瘤骨切除术	gǔ;go zhǒng;ov liú;bt gǔ;go ciē;qd chú;em shù;ad	10
@@ -8486,11 +8486,11 @@ sort: by_weight
 男性生殖器皮疹	nán;tl sìng;xu shēng;pf zhí;dq qì;xx pí;py zhěn;bp	10
 男性中肾管囊肿	nán;tl sìng;xu zhōng;kl shèn;lo guǎn;vl náng;gy zhǒng;ov	10
 囊内乳头状腺瘤	náng;gy nèi;kr rǔ;vv tóu;dd zhuàng;lq siàn;ou liú;bt	10
-囊性成釉细胞瘤	náng;gy sìng;xu chéng;gv yòu;vy siì;st bāo;ob liú;bt	10
+囊性成釉细胞瘤	náng;gy sìng;xu chéng;gv yòu;my siì;st bāo;ob liú;bt	10
 囊性腺瘤样畸形	náng;gy sìng;xu siàn;ou liú;bt yàng;ay jī;tk xíng;kp	10
 囊性纤维性骨炎	náng;gy sìng;xu siān;sq wéi;sv sìng;xu gǔ;go yán;hh	10
 囊性腺样上皮瘤	náng;gy sìng;xu siàn;ou yàng;ay shàng;ba pí;py liú;bt	10
-囊性造釉细胞瘤	náng;gy sìng;xu zào;zk yòu;vy siì;st bāo;ob liú;bt	10
+囊性造釉细胞瘤	náng;gy sìng;xu zào;zk yòu;my siì;st bāo;ob liú;bt	10
 脑干肿瘤切除术	nǎo;ox gàn;au zhǒng;ov liú;bt ciē;qd chú;em shù;ad	10
 挠骨小头切除术	náo;fw gǔ;go siǎo;lb tóu;dd ciē;qd chú;em shù;ad	10
 脑继发恶性肿瘤	nǎo;ox jì;sm fā;fy è;yx sìng;xu zhǒng;ov liú;bt	10
@@ -9687,7 +9687,7 @@ sort: by_weight
 血清总蛋白测定	xuè;pm cīng;do zǒng;bx dàn;zi bái;po cè;dd dìng;bz	10
 血球计数仪试剂	xuè;pm qiú;wq jì;yu shù;mw yí;ry shì;yg ziì;qd	10
 血色病性心肌病	xuè;pm sè;db bìng;bn sìng;xu sīn;dd jī;oj bìng;bn	10
-雪山金罗汉止痛	süě;ye shān;kl jīn;rb luó;sx hàn;dy zhǐ;lb tòng;by	10
+雪山金罗汉止痛	süě;ye shān;kl jīn;rb luó;sx hàn;dy zhǐ;bl tòng;by	10
 血升胃热火邪干	xuè;pm shēng;pc wèi;to rè;fh huǒ;br sié;ye gàn;au	10
 血栓性微血管病	xuè;pm shuān;aw sìng;xu wēi;rj xuè;pm guǎn;vl bìng;bn	10
 血栓性痔清除术	xuè;pm shuān;aw sìng;xu zhì;bc cīng;do chú;em shù;ad	10
@@ -9711,7 +9711,7 @@ sort: by_weight
 牙本质钙化不全	yá;gp běn;aa zhì;ib gài;jg huà;rb bù;ab cüán;rw	10
 牙槽部分切除术	yá;gp cáo;ao bù;le fen;bd ciē;qd chú;em shù;ad	10
 牙槽开放性骨折	yá;gp cáo;ao kāi;ac fàng;fw sìng;xu gǔ;go zhé;ft	10
-牙齿成釉细胞瘤	yá;gp chǐ;vr chéng;gv yòu;vy siì;st bāo;ob liú;bt	10
+牙齿成釉细胞瘤	yá;gp chǐ;vr chéng;gv yòu;my siì;st bāo;ob liú;bt	10
 牙齿硬组织疾病	yá;gp chǐ;vr yìng;ug zǔ;sq zhī;sv zií;bu bìng;bn	10
 牙齿源性黏液瘤	yá;gp chǐ;vr yuán;dx sìng;xu nián;hv yè;dw liú;bt	10
 牙齿源性纤维瘤	yá;gp chǐ;vr yuán;dx sìng;xu siān;sq wéi;sv liú;bt	10
@@ -9991,8 +9991,8 @@ sort: by_weight
 幼年性跖部皮病	yòu;yl nián;pf sìng;xu zhí;zu bù;le pí;py bìng;bn	10
 右室刺伤修补术	yòu;uk shì;bt cì;ud shāng;rl siū;rp bǔ;pb shù;ad	10
 右心导管检查术	yòu;uk sīn;dd dǎo;sc guǎn;vl jiǎn;aq chá;ad shù;ad	10
-釉质发育不全症	yòu;vy zhì;ib fā;fy yù;wo bù;ab cüán;rw zhèng;bv	10
-釉质钙化不全症	yòu;vy zhì;ib gài;jg huà;rb bù;ab cüán;rw zhèng;bv	10
+釉质发育不全症	yòu;my zhì;ib fā;fy yù;wo bù;ab cüán;rw zhèng;bv	10
+釉质钙化不全症	yòu;my zhì;ib gài;jg huà;rb bù;ab cüán;rw zhèng;bv	10
 疣状肥厚性狼疮	yóu;by zhuàng;lq féi;ob hòu;iz sìng;xu láng;ql chuāng;bv	10
 远端胰腺切除术	yuǎn;zy duān;le yí;oy siàn;ou ciē;qd chú;em shù;ad	10
 圆韧带恶性肿瘤	yuán;wb rèn;wd dài;cj è;yx sìng;xu zhǒng;ov liú;bt	10
@@ -10004,8 +10004,8 @@ sort: by_weight
 脏胸膜恶性肿瘤	zāng;ot xiōng;ox mó;od è;yx sìng;xu zhǒng;ov liú;bt	10
 早期精神分裂症	zǎo;ou qī;co zīng;mo shén;pu fēn;bd liè;dy zhèng;bv	10
 早熟性视网膜病	zǎo;ou shú;wh sìng;xu shì;pj wǎng;kx mó;od bìng;bn	10
-造釉细胞纤维瘤	zào;zk yòu;vy siì;st bāo;ob siān;sq wéi;sv liú;bt	10
-造釉细胞牙肉瘤	zào;zk yòu;vy siì;st bāo;ob yá;gp ròu;nr liú;bt	10
+造釉细胞纤维瘤	zào;zk yòu;my siì;st bāo;ob siān;sq wéi;sv liú;bt	10
+造釉细胞牙肉瘤	zào;zk yòu;my siì;st bāo;ob yá;gp ròu;nr liú;bt	10
 增生性布伦纳瘤	zēng;to shēng;pf sìng;xu bù;uj lún;rl nà;sn liú;bt	10
 增生性毛发囊肿	zēng;to shēng;pf sìng;xu máo;pv fà;fy náng;gy zhǒng;ov	10
 增生性毛根鞘瘤	zēng;to shēng;pf sìng;xu máo;pv gēn;ag ciào;co liú;bt	10
@@ -10177,7 +10177,7 @@ sort: by_weight
 足和趾关节置换	zú;kz hé;hk zhǐ;zv guān;bt zié;ce zhì;sq huàn;fr	10
 足三关节固定术	zú;kz sān;ae guān;bt zié;ce gù;wg dìng;bz shù;ad	10
 足三关节融合术	zú;kz sān;ae guān;bt zié;ce róng;gi hé;rk shù;ad	10
-祖师麻关节止痛	zǔ;pq shī;lj má;ga guān;bt zié;ce zhǐ;lb tòng;by	10
+祖师麻关节止痛	zǔ;pq shī;lj má;ga guān;bt zié;ce zhǐ;bl tòng;by	10
 足四关节融合术	zú;kz sì;we guān;bt zié;ce róng;gi hé;rk shù;ad	10
 足外翻骨切断术	zú;kz wài;xb fān;mx gǔ;go ciē;qd duàn;vt shù;ad	10
 组织多普勒成像	zǔ;sq zhī;sv duō;xx pǔ;bo lè;cl chéng;gv siàng;ru	10

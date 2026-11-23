@@ -1161,7 +1161,7 @@ sort: by_weight
 从九品	cóng;rr jiǔ;pv pǐn;kk	1
 从九品	zòng;rr jiǔ;pv pǐn;kk	1
 景行	jǐng;ox xìng;rd	137
-景行行止	jǐng;ox xìng;rd xíng;rd zhǐ;lb	137
+景行行止	jǐng;ox xìng;rd xíng;rd zhǐ;bl	137
 高山景行	gāo;wk shān;kl jǐng;ox xìng;rd	1
 #叶（xié）韵兼容
 乐山乐水	lè;px shān;kl lè;px shuǐ;ln	346
@@ -1225,7 +1225,7 @@ sort: by_weight
 瑞金	shuì;we jīn;rb	650
 董存瑞	dǒng;cv cún;uz shuì;we	267
 瑞士	shuì;we shì;ua	14915
-瑞典	shuì;we diǎn;qb,cb	9913
+瑞典	shuì;we diǎn;qb	9913
 #变调兼容
 哪里	ná;ke lǐ;tt	50981
 允许	yún;se xǔ;yw	45028
@@ -1341,8 +1341,8 @@ sort: by_weight
 施施而行	yì;fy yì;fy ér;al xíng;rd	3
 景行	jǐng;ox xíng;rd	137
 景行	jǐng;ox háng;rd	137
-景行行止	jǐng;ox xíng;rd xíng;rd zhǐ;lb	513
-景行行止	jǐng;ox háng;rd xíng;rd zhǐ;lb	513
+景行行止	jǐng;ox xíng;rd xíng;rd zhǐ;bl	513
+景行行止	jǐng;ox háng;rd xíng;rd zhǐ;bl	513
 高山景行	gāo;wk shān;kl jǐng;ox xíng;rd	28
 高山景行	gāo;wk shān;kl jǐng;ox háng;rd	28
 契阔	qì;fd kuò;mu	662

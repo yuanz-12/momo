@@ -2345,9 +2345,9 @@ sort: by_weight
 夕照寺	siī;pd zhào;oh sì;tc	531
 西镇乡	siī;ak zhèn;jb xiāng;vp	10
 西直门	siī;ak zhí;uq mén;dv	540
-汐止区	siī;dx zhǐ;lb qū;kx	668
-汐止市	siī;dx zhǐ;lb shì;wj	450
-汐止镇	siī;dx zhǐ;lb zhèn;jb	279
+汐止区	siī;dx zhǐ;bl qū;kx	668
+汐止市	siī;dx zhǐ;bl shì;wj	450
+汐止镇	siī;dx zhǐ;bl zhèn;jb	279
 西中市	siī;ak zhōng;kl shì;wj	423
 息冢镇	siī;zx zhǒng;bu zhèn;jb	10
 西洲乡	siī;ak zhōu;dv xiāng;vp	10
@@ -11410,7 +11410,7 @@ sort: by_weight
 新北万里	sīn;lt běi;lb wàn;av lǐ;tt	10
 新北五股	sīn;lt běi;lb wǔ;aw gǔ;ou	10
 新北乌来	sīn;lt běi;lb wū;pa lái;aa	10
-新北汐止	sīn;lt běi;lb siī;dx zhǐ;lb	10
+新北汐止	sīn;lt běi;lb siī;dx zhǐ;bl	10
 新北新店	sīn;lt běi;lb sīn;lt diàn;gv	10
 新北新庄	sīn;lt běi;lb sīn;lt zhuāng;gt	10
 新北莺歌	sīn;lt běi;lb yīng;cn gē;kq	10
@@ -12876,7 +12876,7 @@ sort: by_weight
 知青下乡	zhī;uk cīng;fo xià;ab xiāng;vp	10
 志新社区	zhì;tx sīn;lt shè;pt qū;kx	76
 知音西村	zhī;uk yīn;lo siī;ak cūn;ac	10
-止园新村	zhǐ;lb yuán;wy sīn;lt cūn;ac	10
+止园新村	zhǐ;bl yuán;wy sīn;lt cūn;ac	10
 智造小镇	zhì;uo zào;zk siǎo;lb zhèn;jb	10
 知知井村	zhī;uk zhī;uk zǐng;ac cūn;ac	10
 中北斜村	zhōng;kl běi;lb sié;rd cūn;ac	10
@@ -14907,7 +14907,7 @@ sort: by_weight
 新北市万里区	sīn;lt běi;lb shì;wj wàn;av lǐ;tt qū;kx	10
 新北市五股区	sīn;lt běi;lb shì;wj wǔ;aw gǔ;ou qū;kx	10
 新北市乌来区	sīn;lt běi;lb shì;wj wū;pa lái;aa qū;kx	10
-新北市汐止区	sīn;lt běi;lb shì;wj siī;dx zhǐ;lb qū;kx	10
+新北市汐止区	sīn;lt běi;lb shì;wj siī;dx zhǐ;bl qū;kx	10
 新北市新店区	sīn;lt běi;lb shì;wj sīn;lt diàn;gv qū;kx	10
 新北市新庄区	sīn;lt běi;lb shì;wj sīn;lt zhuāng;gt qū;kx	10
 新北市莺歌区	sīn;lt běi;lb shì;wj yīng;cn gē;kq qū;kx	10

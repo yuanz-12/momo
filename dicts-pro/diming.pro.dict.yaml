@@ -4798,7 +4798,7 @@ sort: by_weight
 佃坝镇	diàn;rt bà;tb zhèn;jb	10
 电白区	diàn;ov bái;po qū;kx	186
 电白县	diàn;ov bái;po xiàn;qs	166
-典补乡	diǎn;qb,cb bǔ;pb xiāng;vp	10
+典补乡	diǎn;qb bǔ;pb xiāng;vp	10
 店埠镇	diàn;gv bù;tu zhèn;jb	10
 电车站	diàn;ov chē;au zhàn;lv	60
 电城镇	diàn;ov chéng;ti zhèn;jb	51
@@ -12483,7 +12483,7 @@ sort: by_weight
 李店村	lǐ;az diàn;gv cūn;ac	94
 李店乡	lǐ;az diàn;gv xiāng;vp	171
 李店镇	lǐ;az diàn;gv zhèn;jb	224
-李典镇	lǐ;az diǎn;qb,cb zhèn;jb	171
+李典镇	lǐ;az diǎn;qb zhèn;jb	171
 利店镇	lì;hd diàn;gv zhèn;jb	10
 李洞村	lǐ;az dòng;dk cūn;ac	570
 李东村	lǐ;az dōng;ax cūn;ac	540
@@ -18478,7 +18478,7 @@ sort: by_weight
 瑞昌市	ruì;we chāng;oo shì;wj	570
 瑞昌县	ruì;we chāng;oo xiàn;qs	90
 芮城县	ruì;cn chéng;ti xiàn;qs	186
-瑞典站	ruì;we diǎn;qb,cb zhàn;lv	266
+瑞典站	ruì;we diǎn;qb zhàn;lv	266
 瑞芳区	ruì;we fāng;cf qū;kx	10
 瑞丰站	ruì;we fēng;sl zhàn;lv	387
 瑞峰镇	ruì;we fēng;uf zhèn;jb	10
@@ -23656,9 +23656,9 @@ sort: by_weight
 夕照寺	xī;pd zhào;oh sì;tc	531
 西镇乡	xī;ak zhèn;jb xiāng;vp	10
 西直门	xī;ak zhí;uq mén;dv	540
-汐止区	xī;dx zhǐ;lb qū;kx	668
-汐止市	xī;dx zhǐ;lb shì;wj	450
-汐止镇	xī;dx zhǐ;lb zhèn;jb	279
+汐止区	xī;dx zhǐ;bl qū;kx	668
+汐止市	xī;dx zhǐ;bl shì;wj	450
+汐止镇	xī;dx zhǐ;bl zhèn;jb	279
 西中市	xī;ak zhōng;kl shì;wj	423
 息冢镇	xī;zx zhǒng;bu zhèn;jb	10
 西洲乡	xī;ak zhōu;dv xiāng;vp	10
@@ -25320,7 +25320,7 @@ sort: by_weight
 鸭德堡	yā;jn dé;rx bǎo;rt	285
 鸭得堡	yā;jn dé;rc bǎo;rt	250
 雅德乡	yǎ;yv dé;rx xiāng;vp	10
-雅典市	yǎ;yv diǎn;qb,cb shì;wj	25
+雅典市	yǎ;yv diǎn;qb shì;wj	25
 亚丁乡	yà;ay dīng;al xiāng;vp	10
 亚东县	yà;ay dōng;ax xiàn;qs	144
 亚东镇	yà;ay dōng;ax zhèn;jb	10
@@ -28335,7 +28335,7 @@ sort: by_weight
 芝罘区	zhī;cv fú;sb qū;kx	212
 秩父市	zhì;hf fù;bx shì;wj	257
 致富乡	zhì;gw fù;bt xiāng;vp	506
-止戈镇	zhǐ;lb gē;yd zhèn;jb	10
+止戈镇	zhǐ;bl gē;yd zhèn;jb	10
 枳沟镇	zhǐ;av gōu;dg zhèn;jb	10
 直沽站	zhí;uq gū;dg zhàn;lv	207
 直管县	zhí;uq guǎn;vl xiàn;qs	152
@@ -28361,7 +28361,7 @@ sort: by_weight
 指林寺	zhǐ;fo lín;aa sì;tc	189
 织篢镇	zhī;sv lǒng;vb zhèn;jb	10
 直罗镇	zhí;uq luó;sx zhèn;jb	10
-止马镇	zhǐ;lb mǎ;va zhèn;jb	10
+止马镇	zhǐ;bl mǎ;va zhèn;jb	10
 芝麻镇	zhī;cv ma;ga zhèn;jb	10
 植美村	zhí;aq měi;yd cūn;ac	214
 志木市	zhì;tx mù;ur shì;wj	306
@@ -36023,7 +36023,7 @@ sort: by_weight
 电信基站	diàn;ov xìn;rk jī;ct zhàn;lv	338
 电信局站	diàn;ov xìn;rk jú;uk zhàn;lv	50
 电信社区	diàn;ov xìn;rk shè;pt qū;kx	50
-典雅端庄	diǎn;qb,cb yǎ;yv duān;le zhuāng;gt	10
+典雅端庄	diǎn;qb yǎ;yv duān;le zhuāng;gt	10
 电影公园	diàn;ov yǐng;op gōng;bs yuán;wy	288
 滇源街道	diān;db yuán;dx jiē;rt dào;zz	10
 店则沟镇	diàn;gv zé;bd gōu;dg zhèn;jb	10
@@ -49810,7 +49810,7 @@ sort: by_weight
 刘堤口村	liú;wd dī;tz kǒu;la cūn;ac	10
 刘电池村	liú;wd diàn;ov chí;dy cūn;ac	10
 刘店集乡	liú;wd diàn;gv jí;ra xiāng;vp	10
-刘典屯村	liú;wd diǎn;qb,cb tún;av cūn;ac	10
+刘典屯村	liú;wd diǎn;qb tún;av cūn;ac	10
 刘店子村	liú;wd diàn;gv zi;la cūn;ac	10
 刘店子乡	liú;wd diàn;gv zi;la xiāng;vp	10
 刘东楼村	liú;wd dōng;ax lóu;an cūn;ac	10
@@ -50682,7 +50682,7 @@ sort: by_weight
 龙镇农场	lóng;yp zhèn;jb nóng;by chǎng;tp	10
 龙政街道	lóng;yp zhèng;vw jiē;rt dào;zz	10
 隆政街道	lóng;eu zhèng;vw jiē;rt dào;zz	10
-龙止口村	lóng;yp zhǐ;lb kǒu;la cūn;ac	10
+龙止口村	lóng;yp zhǐ;bl kǒu;la cūn;ac	10
 隆中街道	lóng;eu zhōng;kl jiē;rt dào;zz	10
 龙洲公园	lóng;yp zhōu;dv gōng;bs yuán;wy	50
 龙洲街道	lóng;yp zhōu;dv jiē;rt dào;zz	10
@@ -69167,7 +69167,7 @@ sort: by_weight
 新北万里	xīn;lt běi;lb wàn;av lǐ;tt	10
 新北五股	xīn;lt běi;lb wǔ;aw gǔ;ou	10
 新北乌来	xīn;lt běi;lb wū;pa lái;aa	10
-新北汐止	xīn;lt běi;lb xī;dx zhǐ;lb	10
+新北汐止	xīn;lt běi;lb xī;dx zhǐ;bl	10
 新北新店	xīn;lt běi;lb xīn;lt diàn;gv	10
 新北新庄	xīn;lt běi;lb xīn;lt zhuāng;gt	10
 新北莺歌	xīn;lt běi;lb yīng;cn gē;kq	10
@@ -75295,7 +75295,7 @@ sort: by_weight
 芝麻胡同	zhī;cv ma;ga hú;go tòng;kk	490
 芝麻塄村	zhī;cv ma;ga léng;tf cūn;ac	10
 芝麻坨村	zhī;cv ma;ga tuó;tb cūn;ac	10
-止马洼村	zhǐ;lb mǎ;va wā;dt cūn;ac	10
+止马洼村	zhǐ;bl mǎ;va wā;dt cūn;ac	10
 芝麻洼乡	zhī;cv ma;ga wā;dt xiāng;vp	10
 芝麻嘴村	zhī;cv ma;ga zuǐ;ky cūn;ac	10
 织梦仿站	zhī;sv mèng;ax fǎng;rf zhàn;lv	45
@@ -75335,7 +75335,7 @@ sort: by_weight
 直峪口村	zhí;uq yù;ug kǒu;la cūn;ac	10
 置玉瑠镇	zhì;sq yù;wd liú;wt zhèn;jb	10
 智远街道	zhì;uo yuǎn;zy jiē;rt dào;zz	10
-止园新村	zhǐ;lb yuán;wy xīn;lt cūn;ac	10
+止园新村	zhǐ;bl yuán;wy xīn;lt cūn;ac	10
 志远庄村	zhì;tx yuǎn;zy zhuāng;gt cūn;ac	10
 治允吾县	zhì;dk yǔn;se wú;wk xiàn;qs	10
 智造小镇	zhì;uo zào;zk xiǎo;lb zhèn;jb	10
@@ -85330,7 +85330,7 @@ sort: by_weight
 松原市宁江区	sōng;ag yuán;ix shì;wj níng;bd jiāng;dg qū;kx	10
 松原市乾安县	sōng;ag yuán;ix shì;wj qián;uv ān;bn xiàn;qs	10
 松原市长岭县	sōng;ag yuán;ix shì;wj zhǎng;pn lǐng;us xiàn;qs	10
-苏典傈僳族乡	sū;cb diǎn;qb,cb lì;ra sù;rm zú;fu xiāng;vp	10
+苏典傈僳族乡	sū;cb diǎn;qb lì;ra sù;rm zú;fu xiāng;vp	10
 苏木溪瑶族乡	sū;cb mù;ur xī;dd yáo;wf zú;fu xiāng;vp	10
 苏泊淖尔苏木	sū;cb pō;db nào;du ěr;dx sū;cb mù;ur	10
 宿迁市沭阳县	sù;bb qiān;zq shì;wj shù;du yáng;eo xiàn;qs	10
@@ -86012,7 +86012,7 @@ sort: by_weight
 新北市万里区	xīn;lt běi;lb shì;wj wàn;av lǐ;tt qū;kx	10
 新北市五股区	xīn;lt běi;lb shì;wj wǔ;aw gǔ;ou qū;kx	10
 新北市乌来区	xīn;lt běi;lb shì;wj wū;pa lái;aa qū;kx	10
-新北市汐止区	xīn;lt běi;lb shì;wj xī;dx zhǐ;lb qū;kx	10
+新北市汐止区	xīn;lt běi;lb shì;wj xī;dx zhǐ;bl qū;kx	10
 新北市新店区	xīn;lt běi;lb shì;wj xīn;lt diàn;gv qū;kx	10
 新北市新庄区	xīn;lt běi;lb shì;wj xīn;lt zhuāng;gt qū;kx	10
 新北市莺歌区	xīn;lt běi;lb shì;wj yīng;cn gē;kq qū;kx	10
