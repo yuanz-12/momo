@@ -6598,8 +6598,8 @@
 丌,al
 不,ab
 与,va
-丏,gl
-丐,av
+丏,gl,vl
+丐,av,vl
 丑,vt
 丒,da
 专,ts
@@ -6631,9 +6631,9 @@
 中,kl
 丮,vf
 丯,sl
-丰,sl
+丰,sl,af,al
 丱,pj
-串,kl
+串,kl,vv
 丳,kl
 临,lk
 丵,yg
@@ -6650,7 +6650,7 @@
 乀,nn
 乁,nn
 乂,pn
-乃,pv
+乃,pv,vp
 乄,vd
 久,pn
 乆,vr
@@ -6728,11 +6728,11 @@
 于,au
 亏,ak
 亐,av
-云,ag
+云,ag,es
 互,ah
 亓,aw
 五,aw
-井,ac
+井,ac,el
 亖,ee
 亗,ue
 亘,ad
@@ -7426,7 +7426,7 @@
 先,ne
 光,xe
 兊,ge
-克,ux
+克,ux,ge
 兌,bx
 免,de
 兎,pd
@@ -7471,7 +7471,7 @@
 兵,qb
 其,cb
 具,qb
-典,qb/cb
+典,qb,cb
 兹,by
 兺,fb
 养,yl
@@ -7600,7 +7600,7 @@
 凶,kx
 凷,kt
 凸,la
-凹,la
+凹,la,ka
 出,uu
 击,fk
 凼,ku
@@ -10223,7 +10223,7 @@
 尵,yb
 尶,wm
 尷,ym
-尸,kp
+尸,kp,vp
 尹,ep
 尺,un
 尻,uj
@@ -10670,7 +10670,7 @@
 巴,sl
 巵,ib
 巶,ds
-巷,gs
+巷,gs,cs
 巸,is
 巹,lj
 巺,sb
@@ -10934,7 +10934,7 @@
 廼,zx
 廽,zo
 廾,al
-廿,ca
+廿,ca,ak
 开,ac
 弁,sc
 异,sc
@@ -11300,7 +11300,7 @@
 恪,xk
 恫,xk
 恬,xu
-恭,gx
+恭,gx,cx
 恮,xw
 息,zx
 恰,xk
@@ -12969,7 +12969,7 @@
 曯,oi
 曰,wa
 曱,ol
-曲,wc,cw
+曲,wc,ck
 曳,op
 更,an
 曵,yd
@@ -13025,8 +13025,8 @@
 朧,ol
 木,ur
 朩,ax
-未,aa
-末,aa
+未,aa,er
+末,aa,er
 本,aa
 札,av
 朮,md
@@ -14105,7 +14105,7 @@
 歟,jq
 歠,yq
 歡,cq
-止,lb
+止,bl,lu
 正,av
 此,vb
 步,vu
@@ -14329,7 +14329,7 @@
 氿,dj
 汀,dd
 汁,du
-求,au
+求,au,ad
 汃,db
 汄,dr
 汅,dk
@@ -15888,7 +15888,7 @@
 牖,pf
 牗,po
 牘,pb
-牙,gp
+牙,gp,ac
 牚,xy
 牛,pu
 牜,pa
@@ -16531,7 +16531,7 @@
 瓙,wh
 瓚,wb
 瓛,wq
-瓜,in
+瓜,in,vd
 瓝,gu
 瓞,gf
 瓟,gb
@@ -16607,8 +16607,8 @@
 甥,ul
 甦,gu
 甧,uo
-用,kf
-甩,yv ov
+用,kf,ol
+甩,kv,ov,yv
 甪,py
 甫,uy
 甬,sy
@@ -16616,11 +16616,11 @@
 甮,wy
 甯,by
 田,wu
-由,ol
-甲,ol
-申,ol
+由,ol,lt
+甲,ol,tl
+申,ol,yl
 甴,ol
-电,ov
+电,ov,yv
 甶,pt
 男,tl
 甸,bt
@@ -17649,7 +17649,7 @@
 礷,um
 礸,ub
 礹,uw
-示,ex
+示,ex,ax
 礻,dd
 礼,pv
 礽,pn
@@ -21814,7 +21814,7 @@
 襼,py
 襽,pj
 襾,ak
-西,ak
+西,ak,wk
 覀,ak
 要,xn
 覂,xf
@@ -23936,7 +23936,7 @@
 釆,pm
 采,va
 釈,mi
-釉,vy
+釉,my,vy
 释,mf
 釋,mg
 里,tt
