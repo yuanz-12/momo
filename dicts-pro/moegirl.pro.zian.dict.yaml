@@ -712,7 +712,7 @@ version: "0.3.8"
 暗影姐妹会	àn;oo yǐng;op ziě;nq mèi;nw huì;ry	100
 暗影狙击手	àn;oo yǐng;op zǖ;qq jī;fk shǒu;pf	100
 暗影小鬼	àn;oo yǐng;op siǎo;lb guǐ;ps	100
-暗影邪典	àn;oo yǐng;op sié;ye diǎn;qb	100
+暗影邪典	àn;oo yǐng;op sié;ye diǎn;qb,cb	100
 暗影巡林	àn;oo yǐng;op sǘn;zv lín;aa	100
 暗与辉缠绕的囚笼	àn;oo yǔ;va huī;gi chán;sl rào;sw de;bu ciú;wr lóng;vl	100
 暗喻幻想	àn;oo yù;kd huàn;yv siǎng;ax	100
@@ -820,7 +820,7 @@ version: "0.3.8"
 八将神	bā;pn ziàng;lc shén;pu	100
 八角刻亲	bā;pn jiǎo;dy kè;wd cīn;la	100
 八九寺真宵	bā;pn jiǔ;pv sì;tc zhēn;ub siāo;bo	100
-八木俊典	bā;pn mù;ur zǜn;rw diǎn;qb	100
+八木俊典	bā;pn mù;ur zǜn;rw diǎn;qb,cb	100
 八木泽雪	bā;pn mù;ur zé;df süě;ye	100
 八木泽雪广	bā;pn mù;ur zé;df süě;ye guǎng;di	100
 八木沼雪绘	bā;pn mù;ur zhǎo;dk süě;ye huì;sy	100
@@ -844,7 +844,7 @@ version: "0.3.8"
 八十八星座	bā;pn shí;al bā;pn sīng;ou zuò;gr	100
 八十龟酱观察日记	bā;pn shí;al guī;dd ziàng;ly guān;yj chá;bu rì;wa jì;yj	100
 八十国际	bā;pn shí;al guó;wy ziì;eu	100
-八束秀典	bā;pn shù;gr siù;hn diǎn;qb	100
+八束秀典	bā;pn shù;gr siù;hn diǎn;qb,cb	100
 八朔津由理	bā;pn shuò;no zīn;dy yóu;ol lǐ;wl	100
 八苏神秋雨	bā;pn sū;cb shén;pu ciū;hh yǔ;ad	100
 八通线篇	bā;pn tōng;zy siàn;sj piān;vc	100
@@ -941,7 +941,7 @@ version: "0.3.8"
 把你藏进我的歌	bǎ;fb nǐ;rx cáng;ci zìn;zj wǒ;ga de;bu gē;kq	100
 把你的脑晶片交出来	bǎ;fb nǐ;rx de;bu nǎo;ox zīng;oo piàn;pv jiāo;wf chū;uu lái;aa	100
 把青梅竹马变成女孩子的故事	bǎ;fb cīng;fo méi;am zhú;gg mǎ;va biàn;wy chéng;gv nǚ;va hái;zr zǐ;la de;bu gù;gw shì;gy	100
-把我甩了的学生，每周害羞一次的恋爱喜剧	bǎ;fb wǒ;ga shuǎi;yv le;al de;bu xué;xz shēng;pf měi;pm zhōu;kk hài;bk siū;yi yí;aa cì;dq de;bu liàn;wx ài;vy xǐ;tk jù;ud	100
+把我甩了的学生，每周害羞一次的恋爱喜剧	bǎ;fb wǒ;ga shuǎi;yv,ov le;al de;bu xué;xz shēng;pf měi;pm zhōu;kk hài;bk siū;yi yí;aa cì;dq de;bu liàn;wx ài;vy xǐ;tk jù;ud	100
 把心跳变成节奏	bǎ;fb sīn;dd tiào;zv biàn;wy chéng;gv zié;ce zòu;it	100
 把一切化作歌献给你	bǎ;fb yí;aa ciè;qd huà;rb zuò;rv gē;kq xiàn;uq gěi;sk nǐ;rx	100
 坝娘狂想曲	bà;tb niáng;nl kuáng;qw siǎng;ax qǔ;wc	100
@@ -1050,7 +1050,7 @@ version: "0.3.8"
 白泉地堡	bái;po cüán;bu dì;ty bǎo;rt	100
 白泉度假村	bái;po cüán;bu dù;gy jià;ry cūn;ac	100
 白泉社	bái;po cüán;bu shè;pt	100
-白泉社雅典娜新人大赏	bái;po cüán;bu shè;pt yǎ;yv diǎn;qb nà;ne sīn;lt rén;pn dà;ar shǎng;xb	100
+白泉社雅典娜新人大赏	bái;po cüán;bu shè;pt yǎ;yv diǎn;qb,cb nà;ne sīn;lt rén;pn dà;ar shǎng;xb	100
 白泉玉子	bái;po cüán;bu yù;wd zi;la	100
 白雀	bái;po cüè;xv	100
 白热灯与歪曲线	bái;po rè;fh dēng;hd yǔ;va wāi;bv qū;wc siàn;sj	100
@@ -1645,7 +1645,7 @@ version: "0.3.8"
 被囚禁的掌心	bèi;pp ciú;wr jìn;au de;bu zhǎng;xu sīn;dd	100
 被囚禁于过去	bèi;pp ciú;wr jìn;au yú;au guò;zc qù;ts	100
 被实验体的进化考察	bèi;pp shí;bd yàn;mq tǐ;rb de;bu zìn;zj huà;rb kǎo;lk chá;bu	100
-被甩男子的情书	bèi;pp shuǎi;yv nán;tl zǐ;la de;bu cíng;xo shū;vd	100
+被甩男子的情书	bèi;pp shuǎi;yv,ov nán;tl zǐ;la de;bu cíng;xo shū;vd	100
 被死神抚养的少女怀抱漆黑之剑	bèi;pp sǐ;db shén;pu fǔ;fw yǎng;yl de;bu shào;xp nǚ;va huái;xb bào;fb ciī;du hēi;lh zhī;dn jiàn;qd	100
 被死神养育的少女胸前怀抱漆黑之剑	bèi;pp sǐ;db shén;pu yǎng;yl yù;wo de;bu shào;xp nǚ;va xiōng;ox cián;bd huái;xb bào;fb ciī;du hēi;lh zhī;dn jiàn;qd	100
 被贴上标签的人	bèi;pp tiē;bv shàng;ba biāo;au ciān;vq de;bu rén;pn	100
@@ -2253,7 +2253,7 @@ version: "0.3.8"
 不想让你听到的歌	bù;ab siǎng;ax ràng;yu nǐ;rx tīng;kt dào;gd de;bu gē;kq	100
 不想写歌儿	bù;ab siǎng;ax siě;by gē;kq ér;pv	100
 不想知道	bù;ab siǎng;ax zhī;uk dào;zz	100
-不像样的魔法讲师与教典	bú;ab siàng;ru yàng;ay de;bu mó;gg fǎ;dq jiǎng;yj shī;lj yǔ;va jiào;lw diǎn;qb	100
+不像样的魔法讲师与教典	bú;ab siàng;ru yàng;ay de;bu mó;gg fǎ;dq jiǎng;yj shī;lj yǔ;va jiào;lw diǎn;qb,cb	100
 不笑的少女与异形的马戏团	bú;ab siào;vy de;bu shào;xp nǚ;va yǔ;va yì;sc xíng;kp de;bu mǎ;va xì;yg tuán;wc	100
 不信任人类的冒险者们拯救了全世界	bú;ab sìn;rk rèn;rw rén;pn lèi;md de;bu mào;oo xiǎn;eq zhě;lo men;rm zhěng;fi jiù;qw le;al cüán;rw shì;cv jiè;tj	100
 不信症	bú;ab sìn;rk zhèng;bv	100
@@ -3409,7 +3409,7 @@ version: "0.3.8"
 吹子荠	chuī;kq zǐ;la ziì;cq	100
 垂钓小镇	chuí;qt diào;ju siǎo;lb zhèn;jb	100
 垂根亲王	chuí;qt gēn;ag cīn;la wáng;at	100
-垂井宗典	chuí;qt zǐng;ac zōng;bu diǎn;qb	100
+垂井宗典	chuí;qt zǐng;ac zōng;bu diǎn;qb,cb	100
 垂水夕凪	chuí;qt shuǐ;ln siī;pd zhǐ;jv	100
 垂曦净蕊	chuí;qt xī;ok zìng;dy ruǐ;cx	100
 垂序秋罗	chuí;qt sǜ;gy ciū;hh luó;sx	100
@@ -3849,7 +3849,7 @@ version: "0.3.8"
 大家的幻想乡	dà;ar jiā;bu de;bu huàn;yv siǎng;ax xiāng;vp	100
 大家的夏日祭	dà;ar jiā;bu de;bu xià;bw rì;wa ziì;xu	100
 大家的心情	dà;ar jiā;bu de;bu sīn;dd cíng;xo	100
-大家的自相残杀毕业典礼	dà;ar jiā;bu de;bu zì;po siāng;ao cán;dj shā;xa bì;bu yè;la diǎn;qb lǐ;pv	100
+大家的自相残杀毕业典礼	dà;ar jiā;bu de;bu zì;po siāng;ao cán;dj shā;xa bì;bu yè;la diǎn;qb,cb lǐ;pv	100
 大家的自相残杀新学期	dà;ar jiā;bu de;bu zì;po siāng;ao cán;dj shā;xa sīn;lt xué;xz qī;co	100
 大家都去死就好了	dà;ar jiā;bu dōu;le qù;ts sǐ;db ziù;wy hǎo;nz le;al	100
 大家闺秀	dà;ar jiā;bu guī;mt siù;hn	100
@@ -4665,8 +4665,8 @@ version: "0.3.8"
 槙树村摩绪	diān;ab shù;ac cūn;ac mó;gu sǜ;so	100
 槙原千夏	diān;ab yuán;ix ciān;pu xià;bw	100
 槙原千夏	zhēn;ab yuán;ix ciān;pu xià;bw	100
-典藏型小龙女	diǎn;qb cáng;ci xíng;kt siǎo;lb lóng;yp nǚ;va	100
-典元泉	diǎn;qb yuán;aw cüán;bu	100
+典藏型小龙女	diǎn;qb,cb cáng;ci xíng;kt siǎo;lb lóng;yp nǚ;va	100
+典元泉	diǎn;qb,cb yuán;aw cüán;bu	100
 点餐请洽侦探	diǎn;vh cān;dg cǐng;yo qià;dk zhēn;rb tàn;fa	100
 点火星日珥	diǎn;vh huǒ;br sīng;ou rì;wa ěr;we	100
 点击就送	diǎn;vh jī;fk ziù;wy sòng;zt	100
@@ -6385,7 +6385,7 @@ version: "0.3.8"
 冈井	gāng;kx zǐng;ac	100
 冈井克升	gāng;kx zǐng;ac kè;ux shēng;pc	100
 冈井蒲公英	gāng;kx zǐng;ac pú;cf gōng;bs yīng;cy	100
-冈井胜典	gāng;kx zǐng;ac shèng;ou diǎn;qb	100
+冈井胜典	gāng;kx zǐng;ac shèng;ou diǎn;qb,cb	100
 冈崎汐	gāng;kx qí;uk siī;dx	100
 冈千波	gāng;kx ciān;pu bō;dp	100
 冈田茜	gāng;kx tián;wu ciàn;cx	100
@@ -6946,7 +6946,7 @@ version: "0.3.8"
 孤独的行星	gū;zg dú;qi de;bu xíng;rd sīng;ou	100
 孤独行星	gū;zg dú;qi xíng;rd sīng;ou	100
 孤独摇滚新春会	gū;zg dú;qi yáo;ff gǔn;dg sīn;lt chūn;io huì;ry	100
-孤独摇滚新春庆典	gū;zg dú;qi yáo;ff gǔn;dg sīn;lt chūn;io qìng;gd diǎn;qb	100
+孤独摇滚新春庆典	gū;zg dú;qi yáo;ff gǔn;dg sīn;lt chūn;io qìng;gd diǎn;qb,cb	100
 孤独之影西蒙	gū;zg dú;qi zhī;dn yǐng;op siī;ak méng;cu	100
 孤帆远影碧空尽	gū;zg fān;jf yuǎn;zy yǐng;op bì;wu kōng;bg zǐn;id	100
 孤寂	gū;zg ziì;by	100
@@ -8634,7 +8634,7 @@ version: "0.3.8"
 坏相	huài;tb siàng;ao	100
 坏心眼的相遇	huài;tb sīn;dd yǎn;og de;bu siāng;ao yù;zd	100
 欢呼者级强袭登陆舰	huān;yq hū;kh zhě;lo jí;sj qiáng;gi sií;ly dēng;bb lù;ej jiàn;vj	100
-欢乐祭典	huān;yq lè;px ziì;xu diǎn;qb	100
+欢乐祭典	huān;yq lè;px ziì;xu diǎn;qb,cb	100
 欢乐麻将全集	huān;yq lè;px má;ga ziàng;lc cüán;rw zií;ra	100
 欢时辛迪	huān;yq shí;to sīn;lu dí;zy	100
 欢脱的小水母	huān;yq tuō;ox de;bu siǎo;lb shuǐ;ln mǔ;md	100
@@ -9789,11 +9789,11 @@ version: "0.3.8"
 祭·祭·祭	ziì;xu ziì;xu ziì;xu	100
 祭·茉莉花	ziì;xu mò;cw lì;cd huā;cb	100
 祭潮	ziì;xu cháo;do	100
-祭典	ziì;xu diǎn;qb	100
-祭典服	ziì;xu diǎn;qb fú;oy	100
-祭典祭典	ziì;xu diǎn;qb ziì;xu diǎn;qb	100
-祭典旋律	ziì;xu diǎn;qb süán;fz lǜ;ry	100
-祭典之诗	ziì;xu diǎn;qb zhī;dn shī;yc	100
+祭典	ziì;xu diǎn;qb,cb	100
+祭典服	ziì;xu diǎn;qb,cb fú;oy	100
+祭典祭典	ziì;xu diǎn;qb,cb ziì;xu diǎn;qb,cb	100
+祭典旋律	ziì;xu diǎn;qb,cb süán;fz lǜ;ry	100
+祭典之诗	ziì;xu diǎn;qb,cb zhī;dn shī;yc	100
 祭奠之歌	ziì;xu diàn;bd zhī;dn gē;kq	100
 祭馆历	ziì;xu guǎn;ul lì;il	100
 祭海流灯	ziì;xu hǎi;dm liú;di dēng;hd	100
@@ -10945,7 +10945,7 @@ version: "0.3.8"
 金糸雀	jīn;rb mì;yx cüè;xv	100
 金木犀	jīn;rb mù;ur siī;un	100
 金牛座精灵	jīn;rb niú;pu zuò;gr zīng;mo líng;eh	100
-金胖次奖颁奖典礼	jīn;rb pàng;ob cì;dq ziǎng;ld bān;fy ziǎng;ld diǎn;qb lǐ;pv	100
+金胖次奖颁奖典礼	jīn;rb pàng;ob cì;dq ziǎng;ld bān;fy ziǎng;ld diǎn;qb,cb lǐ;pv	100
 金平糖与恋爱的占星术	jīn;rb píng;au táng;mk yǔ;va liàn;wx ài;vy de;bu zhàn;bw sīng;ou shù;ad	100
 金钱帮	jīn;rb cián;jj bāng;fj	100
 金钱和贝壳	jīn;rb cián;jj hé;hk bèi;kr ké;tj	100
@@ -11276,7 +11276,7 @@ version: "0.3.8"
 京兼家的新娘	jīng;wx jiān;bb jiā;bu de;bu sīn;lt niáng;nl	100
 京剧猫之信念的冒险	jīng;wx jù;ud māo;qt zhī;dn sìn;rk niàn;rx de;bu mào;oo xiǎn;eq	100
 京小乌丸	jīng;wx siǎo;lb wū;pa wán;jd	100
-经典三选一	jīng;sj diǎn;qb sān;ae süǎn;ze yī;aa	100
+经典三选一	jīng;sj diǎn;qb,cb sān;ae süǎn;ze yī;aa	100
 经过高清化游戏	jīng;sj guò;zc gāo;wk cīng;do huà;rb yóu;dz xì;yg	100
 经穴漆人	jīng;sj xué;bb ciī;du rén;pn	100
 经验丰富的我，就成了坏女孩吗？	jīng;sj yàn;mq fēng;sl fù;bt de;bu wǒ;ga ziù;wy chéng;gv le;al huài;tb nǚ;va hái;zr ma;km	100
@@ -11528,7 +11528,7 @@ version: "0.3.8"
 井出直美	zǐng;ac chū;uu zhí;uq měi;yd	100
 井出卓也	zǐng;ac chū;uu zhuó;bu yě;vv	100
 井川	zǐng;ac chuān;pl	100
-井川典惠	zǐng;ac chuān;pl diǎn;qb huì;ix	100
+井川典惠	zǐng;ac chuān;pl diǎn;qb,cb huì;ix	100
 井川绘见	zǐng;ac chuān;pl huì;sy jiàn;ke	100
 井川葵	zǐng;ac chuān;pl kuí;ct	100
 井川丽奈	zǐng;ac chuān;pl lì;ad nài;du	100
@@ -12089,7 +12089,7 @@ version: "0.3.8"
 就是这个人	ziù;wy shì;oz zhè;zw gè;rl rén;pn	100
 就是这样吧	ziù;wy shì;oz zhè;zw yàng;ay ba;kb	100
 就是这样的感觉	ziù;wy shì;oz zhè;zw yàng;ay de;bu gǎn;gx jué;xj	100
-就算被甩了	ziù;wy suàn;vc bèi;pp shuǎi;yv le;al	100
+就算被甩了	ziù;wy suàn;vc bèi;pp shuǎi;yv,ov le;al	100
 就算不结婚有妹妹不就好了吗	ziù;wy suàn;vc bù;ab jié;sk hūn;no yǒu;uo mèi;nw mei;nw bú;ab ziù;wy hǎo;nz le;al ma;km	100
 就算没有爱	ziù;wy suàn;vc méi;du yǒu;uo ài;vy	100
 就算没有任何答案	ziù;wy suàn;vc méi;du yǒu;uo rèn;rw hé;rk dá;vk àn;ba	100
@@ -12631,7 +12631,7 @@ version: "0.3.8"
 俊达妖精的早饭	zǜn;rw dá;zd yāo;ny zīng;mo de;bu zǎo;ou fàn;uy	100
 俊达战队	zǜn;rw dá;zd zhàn;vg duì;er	100
 俊达章鱼烧	zǜn;rw dá;zd zhāng;lu yú;da shāo;hw	100
-俊典	zǜn;rw diǎn;qb	100
+俊典	zǜn;rw diǎn;qb,cb	100
 俊夫	zǜn;rw fū;er	100
 俊辅	zǜn;rw fǔ;if	100
 俊贵	zǜn;rw guì;vb	100
@@ -14435,7 +14435,7 @@ version: "0.3.8"
 灵魂潮汐	líng;eh hún;yg cháo;do siī;dx	100
 灵魂抽取	líng;eh hún;yg chōu;fy cǚ;ey	100
 灵魂疾行	líng;eh hún;yg zií;bu xíng;rd	100
-灵魂祭典	líng;eh hún;yg ziì;xu diǎn;qb	100
+灵魂祭典	líng;eh hún;yg ziì;xu diǎn;qb,cb	100
 灵魂祭祀	líng;eh hún;yg ziì;xu sì;ps	100
 灵魂剑巨星	líng;eh hún;yg jiàn;qd jù;kk sīng;ou	100
 灵魂窃取者	líng;eh hún;yg ciè;bd cǚ;ey zhě;lo	100
@@ -15239,7 +15239,7 @@ version: "0.3.8"
 洛克·佩洛西	luò;dk kè;ux pèi;rj luò;dk siī;ak	100
 洛克精灵战记	luò;dk kè;ux zīng;mo líng;eh zhàn;vg jì;yj	100
 洛克茜涅	luò;dk kè;ux ciàn;cx niè;dt	100
-洛克人经典合集	luò;dk kè;ux rén;pn jīng;sj diǎn;qb hé;rk zií;ra	100
+洛克人经典合集	luò;dk kè;ux rén;pn jīng;sj diǎn;qb,cb hé;rk zií;ra	100
 洛克王国光明凯旋	luò;dk kè;ux wáng;at guó;wy guāng;xe míng;oo kǎi;uj süán;fz	100
 洛克西里乌斯	luò;dk kè;ux siī;ak lǐ;tt wū;pa sī;ct	100
 洛朗·德·拉瓦锡	luò;dk lǎng;lo dé;rx lā;fl wǎ;ad siī;jw	100
@@ -17860,7 +17860,7 @@ version: "0.3.8"
 畔小雀	pàn;tb siǎo;lb cüè;xv	100
 彷如相逢时	páng;rf rú;nk siāng;ao féng;zf shí;to	100
 庞小莹	páng;gl siǎo;lb yíng;cy	100
-胖胖裤猪祭典	pàng;ob pàng;ob kù;pi zhū;qo ziì;xu diǎn;qb	100
+胖胖裤猪祭典	pàng;ob pàng;ob kù;pi zhū;qo ziì;xu diǎn;qb,cb	100
 胖胖橡胶	pàng;ob pàng;ob siàng;au jiāo;of	100
 胖喜鹊	pàng;ob xǐ;tk cüè;cn	100
 胖修士	pàng;ob siū;rp shì;ua	100
@@ -18591,7 +18591,7 @@ version: "0.3.8"
 七绪	ciī;av sǜ;so	100
 七绪春日	ciī;av sǜ;so chūn;io rì;wa	100
 七绪的七对子	ciī;av sǜ;so de;bu ciī;av duì;yc zi;la	100
-七绪美典	ciī;av sǜ;so měi;yd diǎn;qb	100
+七绪美典	ciī;av sǜ;so měi;yd diǎn;qb,cb	100
 七绪日向子	ciī;av sǜ;so rì;wa xiàng;pk zǐ;la	100
 七轩亡八	ciī;av xuān;ig wáng;wv bā;pn	100
 七言诗	ciī;av yán;wk shī;yc	100
@@ -18721,7 +18721,7 @@ version: "0.3.8"
 漆黑魔术师	ciī;du hēi;lh mó;gg shù;ad shī;lj	100
 漆黑前奏曲	ciī;du hēi;lh cián;bd zòu;it qǔ;wc	100
 漆黑强袭姬	ciī;du hēi;lh qiáng;gi sií;ly jī;ni	100
-漆黑圣典	ciī;du hēi;lh shèng;yt diǎn;qb	100
+漆黑圣典	ciī;du hēi;lh shèng;yt diǎn;qb,cb	100
 漆黑誓言	ciī;du hēi;lh shì;fk yán;wk	100
 漆黑意志	ciī;du hēi;lh yì;lx zhì;tx	100
 漆黑英雄的一击无双	ciī;du hēi;lh yīng;cy xióng;uv de;bu yī;aa jī;fk wú;ay shuāng;yy	100
@@ -18940,7 +18940,7 @@ version: "0.3.8"
 奇迹鸟	qí;dk ziì;zb niǎo;na	100
 奇迹暖暖	qí;dk ziì;zb nuǎn;oy nuǎn;oy	100
 奇迹女孩	qí;dk ziì;zb nǚ;va hái;zr	100
-奇迹女孩歌舞祭典	qí;dk ziì;zb nǚ;va hái;zr gē;kq wǔ;pf ziì;xu diǎn;qb	100
+奇迹女孩歌舞祭典	qí;dk ziì;zb nǚ;va hái;zr gē;kq wǔ;pf ziì;xu diǎn;qb,cb	100
 奇迹融合	qí;dk ziì;zb róng;gi hé;rk	100
 奇迹闪耀	qí;dk ziì;zb shǎn;mr yào;gv	100
 奇迹商人	qí;dk ziì;zb shāng;wk rén;pn	100
@@ -21605,7 +21605,7 @@ version: "0.3.8"
 清藤峰石刀	cīng;do téng;cu fēng;uf shí;ak dāo;vp	100
 清天我	cīng;do tiān;ad wǒ;ga	100
 清田爱未	cīng;do tián;wu ài;vy wèi;aa	100
-清田良典	cīng;do tián;wu liáng;dg diǎn;qb	100
+清田良典	cīng;do tián;wu liáng;dg diǎn;qb,cb	100
 清田信长	cīng;do tián;wu sìn;rk cháng;pn	100
 清条院静姬	cīng;do tiáo;wa yuàn;ey zìng;fy jī;ni	100
 清瞳	cīng;do tóng;ol	100
@@ -21955,7 +21955,7 @@ version: "0.3.8"
 请转起来吧	cǐng;yo zhuàn;iv qǐ;tj lái;aa ba;kb	100
 请做我的男朋友	cǐng;yo zuò;rw wǒ;ga de;bu nán;tl péng;oo yǒu;uy	100
 庆次的一个与他关系很差的本家亲戚	qìng;gd cì;dq de;bu yí;aa gè;rl yǔ;va tā;ry guān;bt xì;px hěn;rg chà;yg de;bu běn;aa jiā;bu cīn;la ciī;gx	100
-庆典进行时	qìng;gd diǎn;qb zìn;zj xíng;rd shí;to	100
+庆典进行时	qìng;gd diǎn;qb,cb zìn;zj xíng;rd shí;to	100
 箐泓	cìng;vo hóng;ds	100
 穷逼绝地潜规则翻身纪念册	qióng;bl bī;zt züé;sb dì;ty cián;do guī;fj zé;bd fān;mx shēn;zc jì;sj niàn;rx cè;ka	100
 穷开心	qióng;bl kāi;ac sīn;dd	100
@@ -22142,7 +22142,7 @@ version: "0.3.8"
 秋田百子	ciū;hh tián;wu bǎi;ab zǐ;la	100
 秋田城	ciū;hh tián;wu chéng;ti	100
 秋田稻穗	ciū;hh tián;wu dào;hj suì;hx	100
-秋田谷典昭	ciū;hh tián;wu gǔ;bk diǎn;qb zhāo;ok	100
+秋田谷典昭	ciū;hh tián;wu gǔ;bk diǎn;qb,cb zhāo;ok	100
 秋田绘	ciū;hh tián;wu huì;sy	100
 秋田书店	ciū;hh tián;wu shū;vd diàn;gv	100
 秋田藤四郎	ciū;hh tián;wu téng;cu sì;we láng;le	100
@@ -23869,7 +23869,7 @@ version: "0.3.8"
 闪耀的星星	shǎn;mr yào;gv de;bu sīng;ou sīng;ou	100
 闪耀滑雪场物语	shǎn;mr yào;gv huá;do süě;ye chǎng;tp wù;nw yǔ;yk	100
 闪耀幻想曲	shǎn;mr yào;gv huàn;yv siǎng;ax qǔ;wc	100
-闪耀祭典	shǎn;mr yào;gv ziì;xu diǎn;qb	100
+闪耀祭典	shǎn;mr yào;gv ziì;xu diǎn;qb,cb	100
 闪耀泪光化为繁星	shǎn;mr yào;gv lèi;do guāng;xe huà;rb wéi;ld fán;px sīng;ou	100
 闪耀炉心	shǎn;mr yào;gv lú;hh sīn;dd	100
 闪耀青春追逐记	shǎn;mr yào;gv cīng;fo chūn;io zhuī;zl zhú;zu jì;yj	100
@@ -24734,7 +24734,7 @@ version: "0.3.8"
 石像怪	shí;ak siàng;ru guài;xt	100
 石像鬼	shí;ak siàng;ru guǐ;ps	100
 石像鬼板甲	shí;ak siàng;ru guǐ;ps bǎn;ay jiǎ;ol	100
-石像鬼典狱长	shí;ak siàng;ru guǐ;ps diǎn;qb yù;qq zhǎng;pn	100
+石像鬼典狱长	shí;ak siàng;ru guǐ;ps diǎn;qb,cb yù;qq zhǎng;pn	100
 石像鬼石板甲	shí;ak siàng;ru guǐ;ps shí;ak bǎn;ay jiǎ;ol	100
 石像类魔物	shí;ak siàng;ru lèi;md mó;gg wù;nw	100
 石小松	shí;ak siǎo;lb sōng;ag	100
@@ -24758,7 +24758,7 @@ version: "0.3.8"
 时光中疾走	shí;to guāng;xe zhōng;kl zií;bu zǒu;tz	100
 时槻雪乃	shí;to guī;aj süě;ye nǎi;pv	100
 时间海岸线	shí;to jiān;mo hǎi;dm àn;ug siàn;sj	100
-时间尽头的庆典	shí;to jiān;mo zǐn;id tóu;dd de;bu qìng;gd diǎn;qb	100
+时间尽头的庆典	shí;to jiān;mo zǐn;id tóu;dd de;bu qìng;gd diǎn;qb,cb	100
 时间囚徒之迷雾	shí;to jiān;mo ciú;wr tú;rz zhī;dn mí;zm wù;yl	100
 时间妄想症	shí;to jiān;mo wàng;wn siǎng;ax zhèng;bv	100
 时间线	shí;to jiān;mo siàn;sj	100
@@ -24977,7 +24977,7 @@ version: "0.3.8"
 视界巡航	shì;pj jiè;tj sǘn;zv háng;vj	100
 视觉小说	shì;pj jué;xj siǎo;lb shuō;yx	100
 视觉小说游戏	shì;pj jué;xj siǎo;lb shuō;yx yóu;dz xì;yg	100
-视美精典	shì;pj měi;yd zīng;mo diǎn;qb	100
+视美精典	shì;pj měi;yd zīng;mo diǎn;qb,cb	100
 视线囚笼	shì;pj siàn;sj ciú;wr lóng;vl	100
 视线深拥	shì;pj siàn;sj shēn;da yōng;fy	100
 视线事务所	shì;pj siàn;sj shì;gy wù;wl suǒ;ht	100
@@ -25176,7 +25176,7 @@ version: "0.3.8"
 刷式路面清扫车	shuā;ud shì;gg lù;zk miàn;ao cīng;do sǎo;fe chē;au	100
 刷新规则	shuā;ud sīn;lt guī;fj zé;bd	100
 刷新球	shuā;ud sīn;lt qiú;wq	100
-甩狙	shuǎi;yv zǖ;qq	100
+甩狙	shuǎi;yv,ov zǖ;qq	100
 帅气女孩与千金小姐	shuài;lj qì;pv nǚ;va hái;zr yǔ;va ciān;pu jīn;rb siǎo;lb ziě;nq	100
 双层冰冻小笼包	shuāng;yy céng;uy bīng;du dòng;dd siǎo;lb lóng;vl bāo;bs	100
 双层小笼包	shuāng;yy céng;uy siǎo;lb lóng;vl bāo;bs	100
@@ -25717,7 +25717,7 @@ version: "0.3.8"
 松井玲奈	sōng;ag zǐng;ac líng;ws nài;du	100
 松井美绘	sōng;ag zǐng;ac měi;yd huì;sy	100
 松井摩味	sōng;ag zǐng;ac mó;gu wèi;kw	100
-松井谦典	sōng;ag zǐng;ac qiān;yj diǎn;qb	100
+松井谦典	sōng;ag zǐng;ac qiān;yj diǎn;qb,cb	100
 松井透	sōng;ag zǐng;ac tòu;zn	100
 松井五郎	sōng;ag zǐng;ac wǔ;aw láng;le	100
 松井晓波	sōng;ag zǐng;ac xiǎo;ow bō;dp	100
@@ -27313,7 +27313,7 @@ version: "0.3.8"
 万古长青	wàn;av gǔ;uk cháng;pn cīng;fo	100
 万国全图	wàn;av guó;wy cüán;rw tú;wd	100
 万花·人间朝夕	wàn;av huā;cb rén;pn jiān;mo zhāo;uo siī;pd	100
-万花筒祭典	wàn;av huā;cb tǒng;vk ziì;xu diǎn;qb	100
+万花筒祭典	wàn;av huā;cb tǒng;vk ziì;xu diǎn;qb,cb	100
 万花筒写轮眼	wàn;av huā;cb tǒng;vk siě;by lún;il yǎn;og	100
 万华镜星星	wàn;av huá;ru jìng;je sīng;ou sīng;ou	100
 万华千鸟	wàn;av huá;ru ciān;pu niǎo;na	100
@@ -30148,7 +30148,7 @@ version: "0.3.8"
 夏青柳	xià;bw cīng;fo liǔ;ae	100
 夏秋瞳	xià;bw ciū;hh tóng;ol	100
 夏秋雪	xià;bw ciū;hh süě;ye	100
-夏日的祭典	xià;bw rì;wa de;bu ziì;xu diǎn;qb	100
+夏日的祭典	xià;bw rì;wa de;bu ziì;xu diǎn;qb,cb	100
 夏日的狂想曲	xià;bw rì;wa de;bu kuáng;qw siǎng;ax qǔ;wc	100
 夏日风息	xià;bw rì;wa fēng;jx siī;zx	100
 夏日风与星冰乐	xià;bw rì;wa fēng;jx yǔ;va sīng;ou bīng;du lè;px	100
@@ -33401,7 +33401,7 @@ version: "0.3.8"
 小野不由美	siǎo;lb yě;ly bù;ab yóu;ol měi;yd	100
 小野大辅	siǎo;lb yě;ly dà;ar fǔ;if	100
 小野道	siǎo;lb yě;ly dào;zz	100
-小野典善	siǎo;lb yě;ly diǎn;qb shàn;yk	100
+小野典善	siǎo;lb yě;ly diǎn;qb,cb shàn;yk	100
 小野町春香	siǎo;lb yě;ly dīng;td chūn;io xiāng;ho	100
 小野町春香	siǎo;lb yě;ly tǐng;td chūn;io xiāng;ho	100
 小野宫结月	siǎo;lb yě;ly gōng;bk jié;sk yuè;ke	100
@@ -33910,7 +33910,7 @@ version: "0.3.8"
 笑容的宝物	siào;vy róng;bg de;bu bǎo;by wù;nw	100
 笑容的代价	siào;vy róng;bg de;bu dài;rg jià;rj	100
 笑容的活力	siào;vy róng;bg de;bu huó;du lì;vp	100
-笑容的祭典	siào;vy róng;bg de;bu ziì;xu diǎn;qb	100
+笑容的祭典	siào;vy róng;bg de;bu ziì;xu diǎn;qb,cb	100
 笑容的魔法	siào;vy róng;bg de;bu mó;gg fǎ;dq	100
 笑容的能量	siào;vy róng;bg de;bu néng;sb liàng;ol	100
 笑容管弦乐	siào;vy róng;bg guǎn;vl xián;gx yuè;px	100
@@ -33960,7 +33960,7 @@ version: "0.3.8"
 邪导桃制作组	sié;ye dǎo;sc táo;av zhì;nd zuò;rv zǔ;sq	100
 邪道食人魔	sié;ye dào;zz shí;rg rén;pn mó;gg	100
 邪道赞歌	sié;ye dào;zz zàn;nb gē;kq	100
-邪典	sié;ye diǎn;qb	100
+邪典	sié;ye diǎn;qb,cb	100
 邪妒优	sié;ye dù;nh yōu;ry	100
 邪恶	sié;ye è;yx	100
 邪恶大师	sié;ye è;yx dà;ar shī;lj	100
@@ -35048,7 +35048,7 @@ version: "0.3.8"
 新进干员	sīn;lt zìn;zj gàn;au yuán;kb	100
 新进人员	sīn;lt zìn;zj rén;pn yuán;kb	100
 新晋猎兵	sīn;lt zìn;yo liè;qo bīng;qb	100
-新经典文化	sīn;lt jīng;sj diǎn;qb wén;wx huà;rb	100
+新经典文化	sīn;lt jīng;sj diǎn;qb,cb wén;wx huà;rb	100
 新井	sīn;lt zǐng;ac	100
 新井圭一	sīn;lt zǐng;ac guī;tt yī;aa	100
 新井弘明	sīn;lt zǐng;ac hóng;gs míng;oo	100
@@ -36538,7 +36538,7 @@ version: "0.3.8"
 星野一马	sīng;ou yě;ly yì;aa mǎ;va	100
 星野一生	sīng;ou yě;ly yī;aa shēng;pf	100
 星野伊吕波	sīng;ou yě;ly yī;ry lǚ;kk bō;dp	100
-星野佑典	sīng;ou yě;ly yòu;rk diǎn;qb	100
+星野佑典	sīng;ou yě;ly yòu;rk diǎn;qb,cb	100
 星野源	sīng;ou yě;ly yuán;dx	100
 星野源歌曲	sīng;ou yě;ly yuán;dx gē;kq qǔ;wc	100
 星野真	sīng;ou yě;ly zhēn;ub	100
@@ -37339,7 +37339,7 @@ version: "0.3.8"
 虚拟心脏	xū;hy nǐ;fr sīn;dd zàng;ot	100
 虚拟猩猩	xū;hy nǐ;fr sīng;qu sīng;qu	100
 虚拟印象	xū;hy nǐ;fr yìn;pe siàng;du	100
-虚无祭典	xū;hy wú;ay ziì;xu diǎn;qb	100
+虚无祭典	xū;hy wú;ay ziì;xu diǎn;qb,cb	100
 虚西充妃	xū;hy siī;ak chōng;wy fēi;nj	100
 虚线	xū;hy siàn;sj	100
 虚像	xū;hy siàng;ru	100
@@ -38591,8 +38591,8 @@ version: "0.3.8"
 崖心	yá;ut sīn;dd	100
 涯角枪	yá;dt jiǎo;dy ciāng;av	100
 雅·修特拉	yǎ;yv siū;rp tè;nc lā;fl	100
-雅典娜的邪恶圣杯	yǎ;yv diǎn;qb nà;ne de;bu sié;ye è;yx shèng;yt bēi;ab	100
-雅典娜星	yǎ;yv diǎn;qb nà;ne sīng;ou	100
+雅典娜的邪恶圣杯	yǎ;yv diǎn;qb,cb nà;ne de;bu sié;ye è;yx shèng;yt bēi;ab	100
+雅典娜星	yǎ;yv diǎn;qb,cb nà;ne sīng;ou	100
 雅鲁雪	yǎ;yv lǔ;yo süě;ye	100
 雅娜黛茜亚	yǎ;yv nà;ne dài;rh ciàn;cx yà;ay	100
 雅娜黛西亚	yǎ;yv nà;ne dài;rh siī;ak yà;ay	100
@@ -38875,7 +38875,7 @@ version: "0.3.8"
 杨雪	yáng;ap süě;ye	100
 杨永信	yáng;ap yǒng;du sìn;rk	100
 洋彩雀	yáng;dy cǎi;vp cüè;xv	100
-洋葱节经典皇冠选举	yáng;dy cōng;cx zié;ce jīng;sj diǎn;qb huáng;bw guān;bc süǎn;ze jǔ;xf	100
+洋葱节经典皇冠选举	yáng;dy cōng;cx zié;ce jīng;sj diǎn;qb,cb huáng;bw guān;bc süǎn;ze jǔ;xf	100
 洋葱新闻	yáng;dy cōng;cx sīn;lt wén;me	100
 洋溢着笑容拍手称快	yáng;dy yì;dm zhe;yo siào;vy róng;bg pāi;fb shǒu;pf chēng;hx kuài;xg	100
 仰见夜星	yǎng;re jiàn;ke yè;ww sīng;ou	100
@@ -39431,7 +39431,7 @@ version: "0.3.8"
 一衣红雪·凉夏	yī;aa yī;wy hóng;sg süě;ye liáng;dx xià;bw	100
 一衣红雪·禧年锦时	yī;aa yī;wy hóng;sg süě;ye xǐ;pk nián;pf jǐn;jj shí;to	100
 一衣红雪·新岁锦时	yī;aa yī;wy hóng;sg süě;ye sīn;lt suì;ux jǐn;jj shí;to	100
-一整箱汉语辞典	yī;aa zhěng;uv siāng;vo hàn;dy yǔ;yk cí;ux diǎn;qb	100
+一整箱汉语辞典	yī;aa zhěng;uv siāng;vo hàn;dy yǔ;yk cí;ux diǎn;qb,cb	100
 一之濑白雪	yī;aa zhī;dn lài;db bái;po süě;ye	100
 一之濑静	yī;aa zhī;dn lài;db zìng;fy	100
 一之濑美夕	yī;aa zhī;dn lài;db měi;yd siī;pd	100
@@ -41398,7 +41398,7 @@ version: "0.3.8"
 在海边医院对她说过的那些故事	zài;ut hǎi;dm biān;zl yī;ku yuàn;ey duì;yc tā;ny shuō;yx guò;zc de;bu nà;ve siē;ve gù;gw shì;gy	100
 在合租公寓里重逢的前女友不断逼近	zài;ut hé;rk zū;hq gōng;bs yù;bd lǐ;tt chóng;ql féng;zf de;bu cián;bd nǚ;va yǒu;uy bú;ab duàn;vt bī;zt jìn;zt	100
 在黑雨的尽头	zài;ut hēi;lh yǔ;ad de;bu zǐn;id tóu;dd	100
-在祭典上大喊	zài;ut ziì;xu diǎn;qb shàng;ba dà;ar hǎn;kk	100
+在祭典上大喊	zài;ut ziì;xu diǎn;qb,cb shàng;ba dà;ar hǎn;kk	100
 在将你吃干抹尽之前	zài;ut ziāng;lc nǐ;rx chī;kv gān;au mǒ;fw zǐn;id zhī;dn cián;bd	100
 在拉了翔之后把智能手机直接掉在了马桶里	zài;ut lā;fl le;al siáng;yx zhī;dn hòu;ik bǎ;fb zhì;uo néng;sb shǒu;pf jī;aj zhí;uq ziē;fn diào;fu zài;ut le;al mǎ;va tǒng;ay lǐ;tt	100
 在蓝星的梦的最后	zài;ut lán;cm sīng;ou de;bu mèng;ax de;bu zuì;oy hòu;ik	100
@@ -41582,7 +41582,7 @@ version: "0.3.8"
 怎样才能成为发小的女友呢	zěn;vx yàng;ay cái;up néng;sb chéng;gv wéi;ld fà;fy siǎo;lb de;bu nǚ;va yǒu;uy ne;kb	100
 増井美音	zēng;to zǐng;ac měi;yd yīn;lo	100
 增草剂	zēng;to cǎo;cu ziì;qd	100
-增幅典籍	zēng;to fú;jt diǎn;qb zií;vo	100
+增幅典籍	zēng;to fú;jt diǎn;qb,cb zií;vo	100
 增井壮一	zēng;to zǐng;ac zhuàng;lt yī;aa	100
 增田俊郎	zēng;to tián;wu zǜn;rw láng;le	100
 增田俊树	zēng;to tián;wu zǜn;rw shù;ac	100
@@ -41608,7 +41608,7 @@ version: "0.3.8"
 斋硝子	zhāi;we siāo;uo zǐ;la	100
 摘星鱼	zhāi;fg sīng;ou yú;da	100
 摘星之歌	zhāi;fg sīng;ou zhī;dn gē;kq	100
-宅见将典	zhái;bq jiàn;ke ziāng;lc diǎn;qb	100
+宅见将典	zhái;bq jiàn;ke ziāng;lc diǎn;qb,cb	100
 宅学家的自我修养	zhái;bq xué;xz jiā;bu de;bu zì;po wǒ;ga siū;rp yǎng;yl	100
 詹·切利克	zhān;dk ciè;qd lì;hd kè;ux	100
 詹戈·费特：狩猎季节	zhān;dk gē;yd fèi;fb tè;nc shòu;qc liè;qo jì;hz zié;ce	100

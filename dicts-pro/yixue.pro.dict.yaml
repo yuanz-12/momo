@@ -6127,7 +6127,7 @@ sort: by_weight
 神经传导物	shén;pu jīng;sj chuán;rv dǎo;sc wù;nw	10
 神经传递素	shén;pu jīng;sj chuán;rv dì;zd sù;fx	10
 神经传递物	shén;pu jīng;sj chuán;rv dì;zd wù;nw	10
-神经典型者	shén;pu jīng;sj diǎn;qb xíng;kt zhě;lo	10
+神经典型者	shén;pu jīng;sj diǎn;qb,cb xíng;kt zhě;lo	10
 神经根性痛	shén;pu jīng;sj gēn;ag xìng;xu tòng;by	10
 神经管畸形	shén;pu jīng;sj guǎn;vl jī;tk xíng;kp	10
 神经过敏的	shén;pu jīng;sj guò;zc mǐn;pw de;bu	10
@@ -10167,7 +10167,7 @@ sort: by_weight
 布博二氏平面	bù;uj bó;uc èr;aa shì;pv píng;au miàn;ao	10
 布布二氏手术	bù;uj bù;uj èr;aa shì;pv shǒu;pf shù;ad	10
 布达血红蛋白	bù;uj dá;zd xuè;pm hóng;sg dàn;zi bái;po	10
-不典型孤独症	bù;ab diǎn;qb xíng;kt gū;zg dú;qi zhèng;bv	10
+不典型孤独症	bù;ab diǎn;qb,cb xíng;kt gū;zg dú;qi zhèng;bv	10
 不动杆菌肺炎	bú;ab dòng;yl gǎn;ag jūn;ch fèi;oj yán;hh	10
 不对称联体儿	bú;ab duì;yc chèn;hx lián;et tǐ;rb ér;pv	10
 布尔纳维氏病	bù;uj ěr;dx nà;sn wéi;sv shì;pv bìng;bn	10
@@ -11233,7 +11233,7 @@ sort: by_weight
 发作性肌阵挛	fā;fy zuò;rv xìng;xu jī;oj zhèn;ei luán;wu	10
 发作性嗜睡病	fā;fy zuò;rv xìng;xu shì;ko shuì;ot bìng;bn	10
 反安慰剂效应	fǎn;iy ān;bn wèi;ux jì;qd xiào;ww yìng;ga	10
-反典型抑郁症	fǎn;iy diǎn;qb xíng;kt yì;fe yù;ue zhèng;bv	10
+反典型抑郁症	fǎn;iy diǎn;qb,cb xíng;kt yì;fe yù;ue zhèng;bv	10
 泛发性黑子病	fàn;df fā;fy xìng;xu hēi;lh zi;la bìng;bn	10
 泛发性银屑病	fàn;df fā;fy xìng;xu yín;jg xiè;uo bìng;bn	10
 泛发性硬斑病	fàn;df fā;fy xìng;xu yìng;ug bān;ww bìng;bn	10
@@ -11323,10 +11323,10 @@ sort: by_weight
 非蛋白氮增多	fēi;ls dàn;zi bái;po dàn;qh zēng;to duō;xx	10
 非蛋白呼吸商	fēi;ls dàn;zi bái;po hū;kh xī;kj shāng;wk	10
 费道二氏试验	fèi;fb dào;zz èr;aa shì;pv shì;yg yàn;mq	10
-非典型黄色瘤	fēi;ls diǎn;qb xíng;kt huáng;cb sè;db liú;bt	10
-非典型乳突炎	fēi;ls diǎn;qb xíng;kt rǔ;vv tū;bq yán;hh	10
-非典型纤维黄	fēi;ls diǎn;qb xíng;kt xiān;sq wéi;sv huáng;cb	10
-非典型性抽风	fēi;ls diǎn;qb xíng;kt xìng;xu chōu;fy fēng;jx	10
+非典型黄色瘤	fēi;ls diǎn;qb,cb xíng;kt huáng;cb sè;db liú;bt	10
+非典型乳突炎	fēi;ls diǎn;qb,cb xíng;kt rǔ;vv tū;bq yán;hh	10
+非典型纤维黄	fēi;ls diǎn;qb,cb xíng;kt xiān;sq wéi;sv huáng;cb	10
+非典型性抽风	fēi;ls diǎn;qb,cb xíng;kt xìng;xu chōu;fy fēng;jx	10
 非定义性特征	fēi;ls dìng;bz yì;dx xìng;xu tè;nc zhēng;rv	10
 肺动脉瓣闭锁	fèi;oj dòng;yl mài;oy bàn;xg bì;mc suǒ;jb	10
 肺动脉瓣返流	fèi;oj dòng;yl mài;oy bàn;xg fǎn;zy liú;di	10
@@ -17028,7 +17028,7 @@ sort: by_weight
 宫颈残体切除术	gōng;bk jǐng;jy cán;dj tǐ;rb qiē;qd chú;em shù;ad	10
 宫颈椎形切除术	gōng;bk jǐng;jy chuí;av xíng;kp qiē;qd chú;em shù;ad	10
 宫颈肥大性延长	gōng;bk jǐng;jy féi;ob dà;ar xìng;xu yán;zv cháng;pn	10
-宫颈非典型增生	gōng;bk jǐng;jy fēi;ls diǎn;qb xíng;kt zēng;to shēng;pf	10
+宫颈非典型增生	gōng;bk jǐng;jy fēi;ls diǎn;qb,cb xíng;kt zēng;to shēng;pf	10
 宫颈非炎性疾患	gōng;bk jǐng;jy fēi;ls yán;hh xìng;xu jí;bu huàn;ix	10
 宫颈环形电切术	gōng;bk jǐng;jy huán;wb xíng;kp diàn;ov qiè;qd shù;ad	10
 宫颈肌瘤剔除术	gōng;bk jǐng;jy jī;oj liú;bt tī;od chú;em shù;ad	10
@@ -17070,7 +17070,7 @@ sort: by_weight
 谷丙转氨酶偏高	gǔ;bk bǐng;an zhuǎn;iv ān;qn méi;ym piān;rc gāo;wk	10
 谷丙转氨酶升高	gǔ;bk bǐng;an zhuǎn;iv ān;qn méi;ym shēng;pc gāo;wk	10
 古布二氏综合征	gǔ;uk bù;uj èr;aa shì;pv zōng;su hé;rk zhēng;rv	10
-古典式剖宫产术	gǔ;uk diǎn;qb shì;gg pōu;ld gōng;bk chǎn;wi shù;ad	10
+古典式剖宫产术	gǔ;uk diǎn;qb,cb shì;gg pōu;ld gōng;bk chǎn;wi shù;ad	10
 股动脉瓣成形术	gǔ;ou dòng;yl mài;oy bàn;xg chéng;gv xíng;kp shù;ad	10
 孤独症谱系障碍	gū;zg dú;qi zhèng;bv pǔ;yo xì;px zhàng;eu ài;uc	10
 股二头肌转前术	gǔ;ou èr;aa tóu;dd jī;oj zhuǎn;iv qián;bd shù;ad	10

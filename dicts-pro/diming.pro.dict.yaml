@@ -4798,7 +4798,7 @@ sort: by_weight
 佃坝镇	diàn;rt bà;tb zhèn;jb	10
 电白区	diàn;ov bái;po qū;kx	186
 电白县	diàn;ov bái;po xiàn;qs	166
-典补乡	diǎn;qb bǔ;pb xiāng;vp	10
+典补乡	diǎn;qb,cb bǔ;pb xiāng;vp	10
 店埠镇	diàn;gv bù;tu zhèn;jb	10
 电车站	diàn;ov chē;au zhàn;lv	60
 电城镇	diàn;ov chéng;ti zhèn;jb	51
@@ -12483,7 +12483,7 @@ sort: by_weight
 李店村	lǐ;az diàn;gv cūn;ac	94
 李店乡	lǐ;az diàn;gv xiāng;vp	171
 李店镇	lǐ;az diàn;gv zhèn;jb	224
-李典镇	lǐ;az diǎn;qb zhèn;jb	171
+李典镇	lǐ;az diǎn;qb,cb zhèn;jb	171
 利店镇	lì;hd diàn;gv zhèn;jb	10
 李洞村	lǐ;az dòng;dk cūn;ac	570
 李东村	lǐ;az dōng;ax cūn;ac	540
@@ -18478,7 +18478,7 @@ sort: by_weight
 瑞昌市	ruì;we chāng;oo shì;wj	570
 瑞昌县	ruì;we chāng;oo xiàn;qs	90
 芮城县	ruì;cn chéng;ti xiàn;qs	186
-瑞典站	ruì;we diǎn;qb zhàn;lv	266
+瑞典站	ruì;we diǎn;qb,cb zhàn;lv	266
 瑞芳区	ruì;we fāng;cf qū;kx	10
 瑞丰站	ruì;we fēng;sl zhàn;lv	387
 瑞峰镇	ruì;we fēng;uf zhèn;jb	10
@@ -25320,7 +25320,7 @@ sort: by_weight
 鸭德堡	yā;jn dé;rx bǎo;rt	285
 鸭得堡	yā;jn dé;rc bǎo;rt	250
 雅德乡	yǎ;yv dé;rx xiāng;vp	10
-雅典市	yǎ;yv diǎn;qb shì;wj	25
+雅典市	yǎ;yv diǎn;qb,cb shì;wj	25
 亚丁乡	yà;ay dīng;al xiāng;vp	10
 亚东县	yà;ay dōng;ax xiàn;qs	144
 亚东镇	yà;ay dōng;ax zhèn;jb	10
@@ -36023,7 +36023,7 @@ sort: by_weight
 电信基站	diàn;ov xìn;rk jī;ct zhàn;lv	338
 电信局站	diàn;ov xìn;rk jú;uk zhàn;lv	50
 电信社区	diàn;ov xìn;rk shè;pt qū;kx	50
-典雅端庄	diǎn;qb yǎ;yv duān;le zhuāng;gt	10
+典雅端庄	diǎn;qb,cb yǎ;yv duān;le zhuāng;gt	10
 电影公园	diàn;ov yǐng;op gōng;bs yuán;wy	288
 滇源街道	diān;db yuán;dx jiē;rt dào;zz	10
 店则沟镇	diàn;gv zé;bd gōu;dg zhèn;jb	10
@@ -49810,7 +49810,7 @@ sort: by_weight
 刘堤口村	liú;wd dī;tz kǒu;la cūn;ac	10
 刘电池村	liú;wd diàn;ov chí;dy cūn;ac	10
 刘店集乡	liú;wd diàn;gv jí;ra xiāng;vp	10
-刘典屯村	liú;wd diǎn;qb tún;av cūn;ac	10
+刘典屯村	liú;wd diǎn;qb,cb tún;av cūn;ac	10
 刘店子村	liú;wd diàn;gv zi;la cūn;ac	10
 刘店子乡	liú;wd diàn;gv zi;la xiāng;vp	10
 刘东楼村	liú;wd dōng;ax lóu;an cūn;ac	10
@@ -85330,7 +85330,7 @@ sort: by_weight
 松原市宁江区	sōng;ag yuán;ix shì;wj níng;bd jiāng;dg qū;kx	10
 松原市乾安县	sōng;ag yuán;ix shì;wj qián;uv ān;bn xiàn;qs	10
 松原市长岭县	sōng;ag yuán;ix shì;wj zhǎng;pn lǐng;us xiàn;qs	10
-苏典傈僳族乡	sū;cb diǎn;qb lì;ra sù;rm zú;fu xiāng;vp	10
+苏典傈僳族乡	sū;cb diǎn;qb,cb lì;ra sù;rm zú;fu xiāng;vp	10
 苏木溪瑶族乡	sū;cb mù;ur xī;dd yáo;wf zú;fu xiāng;vp	10
 苏泊淖尔苏木	sū;cb pō;db nào;du ěr;dx sū;cb mù;ur	10
 宿迁市沭阳县	sù;bb qiān;zq shì;wj shù;du yáng;eo xiàn;qs	10

@@ -14534,7 +14534,7 @@ sort: by_weight
 非金属单质	fēi;ls jīn;rb shǔ;uy dān;bu zhì;ib	10
 非金属离子	fēi;ls jīn;rb shǔ;uy lí;wn zǐ;la	10
 非金属元素	fēi;ls jīn;rb shǔ;uy yuán;aw sù;fx	10
-非经典离子	fēi;ls jīng;sj diǎn;qb lí;wn zǐ;la	10
+非经典离子	fēi;ls jīng;sj diǎn;qb,cb lí;wn zǐ;la	10
 非理想组分	fēi;ls lǐ;wl xiǎng;ax zǔ;sq fèn;bd	10
 非硫磺硫化	fēi;ls liú;ui huáng;ub liú;ui huà;rb	10
 肺氯虚寒证	fèi;oj lǜ;qu xū;hy hán;bd zhèng;yv	10
@@ -30327,8 +30327,8 @@ sort: by_weight
 肥大性扁平苔癣	féi;ob dà;ar xìng;xu biǎn;hc píng;au tái;ck xuǎn;by	10
 肥大性幽门狭窄	féi;ob dà;ar xìng;xu yōu;uy mén;dv xiá;qj zhǎi;bv	10
 非蛋白质氨基酸	fēi;ls dàn;zi bái;po zhì;ib ān;qn jī;ct suān;yw	10
-非典型高热惊厥	fēi;ls diǎn;qb xíng;kt gāo;wk rè;fh jīng;xx jué;iq	10
-非典型性面部痛	fēi;ls diǎn;qb xíng;kt xìng;xu miàn;ao bù;le tòng;by	10
+非典型高热惊厥	fēi;ls diǎn;qb,cb xíng;kt gāo;wk rè;fh jīng;xx jué;iq	10
+非典型性面部痛	fēi;ls diǎn;qb,cb xíng;kt xìng;xu miàn;ao bù;le tòng;by	10
 肺动脉瓣赘生物	fèi;oj dòng;yl mài;oy bàn;xg zhuì;fb shēng;pf wù;nw	10
 肺动脉发育不全	fèi;oj dòng;yl mài;oy fā;fy yù;wo bù;ab quán;rw	10
 肺动脉高压患者	fèi;oj dòng;yl mài;oy gāo;wk yā;id huàn;ix zhě;lo	10
@@ -30353,7 +30353,7 @@ sort: by_weight
 肺结节分析技术	fèi;oj jié;sk jié;ce fēn;bd xī;at jì;fv shù;ad	10
 非金属氰化合物	fēi;ls jīn;rb shǔ;uy qíng;qo huà;rb hé;rk wù;nw	10
 非进行性脑损伤	fēi;ls jìn;zj xíng;rd xìng;xu nǎo;ox sǔn;fb shāng;rl	10
-非经典正碳离子	fēi;ls jīng;sj diǎn;qb zhèng;av tàn;uh lí;wn zǐ;la	10
+非经典正碳离子	fēi;ls jīng;sj diǎn;qb,cb zhèng;av tàn;uh lí;wn zǐ;la	10
 非酒精性脂肪肝	fēi;ls jiǔ;dy jīng;mo xìng;xu zhī;oo fáng;of gān;og	10
 废旧铅酸蓄电池	fèi;gy jiù;lo qiān;jk suān;yw xù;ct diàn;ov chí;dy	10
 非可吸收缝合线	fēi;ls kě;dk xī;kj shōu;jw féng;sf hé;rk xiàn;sj	10
@@ -30729,7 +30729,7 @@ sort: by_weight
 谷氨酰基转肽酶	gǔ;bk ān;qn xiān;ye jī;ct zhuǎn;iv tài;ot méi;ym	10
 谷草转氨酶升高	gǔ;bk cǎo;cu zhuǎn;iv ān;qn méi;ym shēng;pc gāo;wk	10
 固醇甲基转移酶	gù;wg chún;yz jiǎ;ol jī;ct zhuǎn;iv yí;hx méi;ym	10
-古典式电诊断法	gǔ;uk diǎn;qb shì;gg diàn;ov zhěn;yp duàn;vt fǎ;dq	10
+古典式电诊断法	gǔ;uk diǎn;qb,cb shì;gg diàn;ov zhěn;yp duàn;vt fǎ;dq	10
 固定义齿修复学	gù;wg dìng;bz yì;dx chǐ;vr xiū;rp fù;pw xué;xz	10
 孤独症儿童康复	gū;zg dú;qi zhèng;bv ér;pv tóng;ll kāng;gl fù;pw	10
 骨二醇单加氧酶	gǔ;go èr;aa chún;yz dān;bu jiā;lk yǎng;qy méi;ym	10

@@ -373,7 +373,7 @@ sort: by_weight
 迪银片	dí;zy yín;jg piàn;pv	234
 地榆散	dì;ty yú;ad sàn;cw	45
 碘必乐	diǎn;ub bì;xp lè;px	45
-典必殊	diǎn;qb bì;xp shū;dw	256
+典必殊	diǎn;qb,cb bì;xp shū;dw	256
 靛吩咛	diàn;fz fēn;kf níng;kd	45
 碘佛醇	diǎn;ub fó;rf chún;yz	117
 碘甘油	diǎn;ub gān;ca yóu;dy	100
@@ -14368,7 +14368,7 @@ sort: by_weight
 精氨酸注射液	jīng;mo ān;qn suān;yw zhù;dv shè;uc yè;dw	10
 景参益气颗粒	jǐng;ox cān;sp yì;bm qì;pv kē;gy lì;ml	10
 经带宁洁阴液	jīng;sj dài;cj níng;bd jié;dk yīn;eo yè;dw	10
-经典动画长片	jīng;sj diǎn;qb dòng;yl huà;at cháng;pn piàn;pv	10
+经典动画长片	jīng;sj diǎn;qb,cb dòng;yl huà;at cháng;pn piàn;pv	10
 荆肤止痒颗粒	jīng;cd fū;of zhǐ;lb yǎng;by kē;gy lì;ml	10
 荆花胃康胶丸	jīng;cd huā;cb wèi;to kāng;gl jiāo;of wán;jd	10
 晶粒间界扩散	jīng;oo lì;ml jiān;mo jiè;tj kuò;fg sàn;cw	10
@@ -17397,7 +17397,7 @@ sort: by_weight
 碘解磷定注射液	diǎn;ub jiě;dn lín;uf dìng;bz zhù;dv shè;uc yè;dw	10
 碘克沙醇注射液	diǎn;ub kè;ux shā;du chún;yz zhù;dv shè;uc yè;dw	10
 碘普罗胺注射液	diǎn;ub pǔ;bo luó;sx àn;on zhù;dv shè;uc yè;dw	10
-典型抗精神病药	diǎn;qb xíng;kt kàng;fj jīng;mo shén;pu bìng;bn yào;cu	10
+典型抗精神病药	diǎn;qb,cb xíng;kt kàng;fj jīng;mo shén;pu bìng;bn yào;cu	10
 调胃白术泽泻散	diào;yk wèi;to bái;po zhú;ad zé;df xiè;dy sàn;cw	10
 丁丙诺啡舌下片	dīng;al bǐng;an nuò;yk fēi;kf shé;qk xià;ab piàn;pv	10
 丁丙诺啡注射液	dīng;al bǐng;an nuò;yk fēi;kf zhù;dv shè;uc yè;dw	10
@@ -18267,7 +18267,7 @@ sort: by_weight
 金贝痰咳清颗粒	jīn;rb bèi;kr tán;bh ké;kr qīng;do kē;gy lì;ml	10
 金参润喉口服液	jīn;rb cān;sp rùn;dw hóu;ku kǒu;la fú;oy yè;dw	10
 金刺参九正合剂	jīn;rb cì;ud shēn;sp jiǔ;pv zhèng;av hé;rk jì;qd	10
-金典虫草口服液	jīn;rb diǎn;qb chóng;vd cǎo;cu kǒu;la fú;oy yè;dw	10
+金典虫草口服液	jīn;rb diǎn;qb,cb chóng;vd cǎo;cu kǒu;la fú;oy yè;dw	10
 金豆开胃口服液	jīn;rb dòu;ab kāi;ac wèi;to kǒu;la fú;oy yè;dw	10
 筋骨活天麻胶囊	jīn;vl gǔ;go huó;du tiān;ad má;ga jiāo;of náng;gy	10
 金海清咽袋泡茶	jīn;rb hǎi;dm qīng;do yàn;ky dài;ry pào;db chá;cm	10
