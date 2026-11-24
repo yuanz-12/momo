@@ -3569,7 +3569,7 @@ sort: by_weight
 挤过	ziǐ;fq guò;zc	75
 祭海	ziì;xu hǎi;dm	113
 集合	zií;ra hé;rk	17571
-即合	zií;ge hé;rk	408
+即合	zií;ge hé;rk	808
 济河	ziì;dq hé;dk	138
 嫉恨	zií;nu hèn;xg	533
 脊桁	ziǐ;ro héng;ad	110
@@ -33861,6 +33861,7 @@ sort: by_weight
 但却想	dàn;rd què;qe siǎng;ax	372
 但热情	dàn;rd rè;fh cíng;xo	504
 单刃剪	dān;bu rèn;dd ziǎn;bd	54
+单人寝	dān;bu rén;pn cǐn;by	21
 但人情	dàn;rd rén;pn cíng;xo	369
 但人性	dàn;rd rén;pn sìng;xu	558
 但韧性	dàn;rd rèn;wd sìng;xu	216
@@ -44849,6 +44850,7 @@ sort: by_weight
 划进来	huá;gd zìn;zj lái;aa	35
 滑进了	huá;do zìn;zj le;al	518
 划进了	huá;gd zìn;zj le;al	361
+画进去	huà;at zìn;zj qù;ts	45
 滑进去	huá;do zìn;zj qù;ts	31
 划进去	huá;gd zìn;zj qù;ts	28
 花锦绣	huā;cb jǐn;jj siù;sn	306
@@ -64360,7 +64362,7 @@ sort: by_weight
 就删掉	ziù;wy shān;cd diào;fu	129
 就删了	ziù;wy shān;cd le;al	424
 就闪了	ziù;wy shǎn;mr le;al	382
-就扇了	ziù;wy shàn;hx le;al	344
+就扇了	ziù;wy shān;hx le;al	344
 旧山线	jiù;lo shān;kl siàn;sj	500
 就上吧	ziù;wy shàng;ba ba;kb	508
 就上班	ziù;wy shàng;ba bān;wl	141
@@ -91624,6 +91626,7 @@ sort: by_weight
 是全天	shì;oz cüán;rw tiān;ad	864
 石泉岩	shí;ak cüán;bu yán;uu	194
 诗人节	shī;yc rén;pn zié;ce	376
+十人寝	shí;al rén;pn cǐn;by	21
 石人像	shí;ak rén;pn siàng;ru	392
 失人心	shī;pf rén;pn sīn;dd	53
 是任性	shì;oz rèn;rw sìng;xu	940
@@ -92787,6 +92790,7 @@ sort: by_weight
 双劝酒	shuāng;yy quàn;yl ziǔ;dy	4
 双全中	shuāng;yy cüán;rw zhōng;kl	20
 双刃剪	shuāng;yy rèn;dd ziǎn;bd	54
+双人寝	shuāng;yy rén;pn cǐn;by	21
 双人像	shuāng;yy rén;pn siàng;ru	20
 双人秀	shuāng;yy rén;pn siù;hn	248
 双人徐	shuāng;yy rén;pn sǘ;rm	144
@@ -198954,6 +198958,7 @@ sort: by_weight
 每个细节	měi;pm gè;rl siì;st zié;ce	990
 每个小时	měi;pm gè;rl siǎo;lb shí;to	814
 每个星期	měi;pm gè;rl sīng;ou qī;co	1120
+没个准信	méi;du ge;rl zhǔn;dv sìn;rk	91
 没给我钱	méi;du gěi;sk wǒ;ga cián;jj	450
 没更新过	méi;du gēng;an sīn;lt guò;zc	486
 没更新吗	méi;du gēng;an sīn;lt ma;km	76
@@ -227189,6 +227194,7 @@ sort: by_weight
 试剂耗材	shì;yg ziì;qd hào;lm cái;ac	414
 世纪豪情	shì;cv jì;sj háo;wu cíng;xo	50
 是几号线	shì;oz jǐ;pv hào;kk siàn;sj	212
+实际环境	shí;bd ziì;eu huán;wb jìng;te	225
 市集活动	shì;wj zií;ra huó;du dòng;yl	490
 实际活动	shí;bd ziì;eu huó;du dòng;yl	357
 世纪集团	shì;cv jì;sj zií;ra tuán;wc	436
@@ -328745,7 +328751,6 @@ sort: by_weight
 各式各样的小吃	gè;wk shì;gg gè;wk yàng;ay de;bu siǎo;lb chī;kv	10
 格式塔心理学派	gé;ak shì;gg tǎ;tk sīn;dd lǐ;wl xué;xz pài;dy	10
 歌舞大王齐格飞	gē;kq wǔ;pf dà;ar wáng;at cií;wl gé;ak fēi;vd	10
-歌舞大王齐格菲	gē;kq wǔ;pf dà;ar wáng;at cií;wl gé;ak fēi;cf	10
 个性化学习方案	gè;rl sìng;xu huà;rb xué;xz sií;vd fāng;wv àn;ba	10
 个性鲜明的人物	gè;rl sìng;xu siān;yy míng;oo de;bu rén;pn wù;nw	10
 格修二氏开口器	gé;ak siū;rp èr;aa shì;pv kāi;ac kǒu;la qì;xx	10
@@ -329539,7 +329544,6 @@ sort: by_weight
 凉肝熄风又养阴	liáng;dx gān;og siī;hx fēng;jx yòu;vn yǎng;yl yīn;eo	10
 两栖装甲侦察车	liǎng;ar ciī;ax zhuāng;ly jiǎ;ol zhēn;rb chá;bu chē;au	10
 两情若是久长时	liǎng;ar cíng;xo ruò;ck shì;oz jiǔ;pn cháng;pn shí;to	10
-两三星火是瓜州	liǎng;ar sān;ae sīng;ou huǒ;br shì;oz guā;in zhōu;dl	10
 两三星火是瓜洲	liǎng;ar sān;ae sīng;ou huǒ;br shì;oz guā;in zhōu;dv	10
 两山排闼送青来	liǎng;ar shān;kl pái;ff tà;md sòng;zt cīng;fo lái;aa	10
 两因素情绪理论	liǎng;ar yīn;wd sù;fx cíng;xo sǜ;so lǐ;wl lùn;yl	10
